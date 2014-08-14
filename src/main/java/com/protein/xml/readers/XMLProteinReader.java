@@ -15,12 +15,10 @@ import nu.xom.ValidityException;
 
 public class XMLProteinReader {
 
-	private static final String CATEGORY = "category";
-	private static final String GO_CLASSIFICATIONS = "go_classifications";
-	private static final String GENE_SEQUENCE = "gene_sequence";
-	private static final String GENE_PROPERTIES = "gene_properties";
+	
+	private static final String PROTEIN_SEQUENCE = "protein_sequence";
+	private static final String PROTEIN_PROPERTIES = "protein_properties";
 	private static final String SYNOYNMS = "synonyms";
-	private static final String SYNOYNM = "synonym";
 	private static final String GENERAL_FUNCTION = "general_function";
 	private static final String SPECIFIC_FUNCTION = "specific_function";
 
@@ -53,8 +51,8 @@ public class XMLProteinReader {
 
 		Element namesElement = root.getFirstChildElement(SYNOYNMS);
 		Elements synonymsChildElements = namesElement.getChildElements();
-		Element proteinPropertiesElement = root.getFirstChildElement(GENE_PROPERTIES);
-		String aminoAcidSequence = getValue(proteinPropertiesElement.getFirstChildElement(GENE_SEQUENCE));
+		Element proteinPropertiesElement = root.getFirstChildElement(PROTEIN_PROPERTIES);
+		String aminoAcidSequence = getValue(proteinPropertiesElement.getFirstChildElement(PROTEIN_SEQUENCE));
 
 		// clean up amino acid string. removes base pair and new line characters
 		aminoAcidSequence = aminoAcidSequence.substring(aminoAcidSequence.indexOf("\n"), aminoAcidSequence.length())
