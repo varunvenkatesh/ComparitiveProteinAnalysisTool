@@ -1,4 +1,4 @@
-package com.protein.xml.readers;
+package com.protein.model;
 
 import java.util.ArrayList;
 import java.util.Collections;

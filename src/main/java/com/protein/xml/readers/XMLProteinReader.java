@@ -2,9 +2,10 @@ package com.protein.xml.readers;
 
 import java.io.File;
 import java.io.IOException;
-
 import java.util.ArrayList;
 import java.util.List;
+
+import com.protein.model.Protein;
 
 import nu.xom.Builder;
 import nu.xom.Document;
