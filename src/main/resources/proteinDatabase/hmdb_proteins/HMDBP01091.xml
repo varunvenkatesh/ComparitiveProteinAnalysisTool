@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:18 -0700</creation_date>
+  <update_date>2013-05-27 11:20:09 -0600</update_date>
+  <accession>HMDBP01091</accession>
+  <secondary_accessions>
+    <accession>6380</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>GYS2</gene_name>
+  <general_function>Involved in glycogen (starch) synthase activity</general_function>
+  <specific_function>Transfers the glycosyl residue from UDP-Glc to the non-reducing end of alpha-1,4-glucan.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>glycogen biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Starch and sucrose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00500</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>PI3K-Akt signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04151</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Insulin signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04910</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00286</accession>
+      <name>Uridine diphosphate glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03403</accession>
+      <name>Amylose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>udp-glycosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>udp-glucosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glycogen (starch) synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycogen metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycogen biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cortical actin cytoskeleton</description>
+      <go_id>GO:0030864</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ectoplasm</description>
+      <go_id>GO:0043265</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glycogen (starch) synthase activity</description>
+      <go_id>GO:0004373</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose metabolic process</description>
+      <go_id>GO:0006006</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycogen biosynthetic process</description>
+      <go_id>GO:0005978</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to glucose stimulus</description>
+      <go_id>GO:0009749</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p12.2</locus>
+    <gene_sequence>&gt;2112 bp
+ATGCTTCGAGGCCGATCCCTCTCTGTAACATCCCTGGGTGGGCTTCCCCAGTGGGAAGTC
+GAAGAACTTCCTGTGGAGGAGTTACTGCTCTTTGAAGTTGCTTGGGAAGTGACCAATAAA
+GTTGGAGGCATCTATACTGTGATTCAGACAAAGGCCAAAACAACAGCAGATGAATGGGGA
+GAGAACTATTTTCTGATAGGTCCATATTTTGAGCATAATATGAAGACTCAGGTGGAACAG
+TGTGAACCTGTAAATGATGCTGTCAGAAGAGCAGTGGACGCAATGAATAAGCATGGCTGC
+CAGGTGCATTTTGGAAGATGGCTGATAGAAGGAAGTCCTTATGTGGTACTTTTTGACATA
+GGCTATTCAGCTTGGAATCTGGACAGGTGGAAGGGTGACCTCTGGGAAGCATGCAGTGTC
+GGCATTCCTTATCATGACCGAGAAGCCAATGATATGCTGATATTTGGATCTTTAACTGCC
+TGGTTCTTAAAAGAGGTGACAGATCATGCAGATGGTAAATATGTCGTTGCCCAATTCCAT
+GAATGGCAGGCTGGAATTGGACTGATCCTTTCTCGAGCCAGGAAACTTCCTATTGCCACA
+ATATTTACAACCCACGCTACACTACTTGGGAGGTATCTCTGTGCAGCAAATATTGATTTC
+TACAACCATCTTGATAAGTTTAACATTGACAAAGAGGCTGGGGAAAGGCAGATTTACCAC
+CGGTACTGCATGGAGCGAGCTTCCGTTCATTGCGCTCACGTGTTCACCACGGTTTCTGAA
+ATAACAGCAATAGAAGCTGAACATATGCTGAAGAGAAAGCCTGATGTAGTTACTCCAAAC
+GGCTTGAATGTTAAGAAATTTTCAGCAGTGCATGAGTTTCAAAATCTACATGCCATGTAC
+AAGGCCAGAATCCAAGATTTTGTTCGAGGTCATTTCTATGGTCATCTCGACTTTGATCTT
+GAAAAGACTTTGTTCCTTTTCATTGCTGGGAGGTATGAGTTTTCAAACAAAGGAGCTGAC
+ATCTTCCTAGAATCCTTATCCAGGCTAAATTTCCTGCTGAGGATGCATAAAAGTGACATC
+ACAGTGATGGTGTTTTTCATTATGCCTGCCAAGACAAATAATTTCAACGTGGAAACCCTG
+AAAGGACAAGCAGTGCGAAAACAGCTGTGGGATGTTGCACATTCTGTGAAGGAAAAGTTT
+GGAAAAAAACTCTATGATGCATTATTAAGAGGAGAAATTCCTGACCTGAACGATATTTTA
+GATCGAGATGATCTAACAATTATGAAAAGAGCCATCTTTTCAACTCAGCGACAGTCATTG
+CCCCCAGTGACCACGCACAACATGATTGATGACTCCACCGACCCCATCCTCAGCACCATT
+AGACGGATTGGACTTTTCAACAACCGCACAGATAGAGTCAAGGTGATTTTGCACCCAGAG
+TTTCTATCCTCCACCAGTCCCTTACTACCCATGGACTATGAAGAGTTTGTTAGAGGTTGT
+CATCTTGGAGTATTTCCATCATACTATGAACCCTGGGGTTATACTCCAGCTGAATGCACT
+GTGATGGGTATCCCCAGTGTGACCACGAATCTCTCCGGGTTTGGCTGTTTCATGCAGGAG
+CACGTGGCTGATCCTACTGCTTACGGTATTTACATCGTTGACAGGCGGTTCCGTTCTCCA
+GATGATTCTTGCAATCAGCTGACTAAGTTTCTCTATGGATTTTGCAAACAGTCACGCCGC
+CAAAGGATTATCCAGAGGAACAGAACTGAGAGGCTCTCAGATCTTCTGGATTGGAGATAC
+TTAGGCAGATATTACCAGCATGCCAGACACCTGACATTAAGCAGAGCTTTTCCAGATAAA
+TTCCATGTGGAACTAACATCACCACCAACGACAGAAGGATTTAAATATCCCAGGCCTTCC
+TCAGTACCACCTTCTCCTTCAGGGTCTCAGGCCTCCAGTCCTCAGAGCAGTGATGTGGAA
+GATGAAGTGGAGGATGAGAGATACGATGAGGAAGAGGAGGCTGAAAGGGATCGGTTAAAT
+ATCAAGTCACCATTTTCACTGAGCCACGTTCCTCATGGGAAGAAAAAGCTGCATGGTGAA
+TATAAGAACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>703</residue_number>
+    <molecular_weight>80988.42</molecular_weight>
+    <theoretical_pi>6.825</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glycogen_syn</name>
+        <pfam_id>PF05693</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glycogen [starch] synthase, liver
+MLRGRSLSVTSLGGLPQWEVEELPVEELLLFEVAWEVTNKVGGIYTVIQTKAKTTADEWG
+ENYFLIGPYFEHNMKTQVEQCEPVNDAVRRAVDAMNKHGCQVHFGRWLIEGSPYVVLFDI
+GYSAWNLDRWKGDLWEACSVGIPYHDREANDMLIFGSLTAWFLKEVTDHADGKYVVAQFH
+EWQAGIGLILSRARKLPIATIFTTHATLLGRYLCAANIDFYNHLDKFNIDKEAGERQIYH
+RYCMERASVHCAHVFTTVSEITAIEAEHMLKRKPDVVTPNGLNVKKFSAVHEFQNLHAMY
+KARIQDFVRGHFYGHLDFDLEKTLFLFIAGRYEFSNKGADIFLESLSRLNFLLRMHKSDI
+TVMVFFIMPAKTNNFNVETLKGQAVRKQLWDVAHSVKEKFGKKLYDALLRGEIPDLNDIL
+DRDDLTIMKRAIFSTQRQSLPPVTTHNMIDDSTDPILSTIRRIGLFNNRTDRVKVILHPE
+FLSSTSPLLPMDYEEFVRGCHLGVFPSYYEPWGYTPAECTVMGIPSVTTNLSGFGCFMQE
+HVADPTAYGIYIVDRRFRSPDDSCNQLTKFLYGFCKQSRRQRIIQRNRTERLSDLLDWRY
+LGRYYQHARHLTLSRAFPDKFHVELTSPPTTEGFKYPRPSSVPPSPSGSQASSPQSSDVE
+DEVEDERYDEEEEAERDRLNIKSPFSLSHVPHGKKKLHGEYKN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>119372286</genbank_protein_id>
+  <uniprot_id>P54840</uniprot_id>
+  <uniprot_name>GYS2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_021957.3</genbank_gene_id>
+  <genecard_id>GYS2</genecard_id>
+  <geneatlas_id>GYS2</geneatlas_id>
+  <hgnc_id>HGNC:4707</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Nuttall FQ, Gannon MC, Bai G, Lee EY: Primary structure of human liver glycogen synthase deduced by cDNA cloning. Arch Biochem Biophys. 1994 Jun;311(2):443-9.</reference_text>
+      <pubmed_id>8203908</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Orho M, Bosshard NU, Buist NR, Gitzelmann R, Aynsley-Green A, Blumel P, Gannon MC, Nuttall FQ, Groop LC: Mutations in the liver glycogen synthase gene in children with hypoglycemia due to glycogen storage disease type 0. J Clin Invest. 1998 Aug 1;102(3):507-15.</reference_text>
+      <pubmed_id>9691087</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

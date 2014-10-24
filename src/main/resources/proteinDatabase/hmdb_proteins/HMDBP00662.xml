@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:09 -0700</creation_date>
+  <update_date>2013-05-27 11:34:48 -0600</update_date>
+  <accession>HMDBP00662</accession>
+  <secondary_accessions>
+    <accession>5934</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>AdoHcyase</synonym>
+    <synonym>S-adenosyl-L-homocysteine hydrolase</synonym>
+  </synonyms>
+  <gene_name>AHCY</gene_name>
+  <general_function>Involved in adenosylhomocysteinase activity</general_function>
+  <specific_function>Adenosylhomocysteine is a competitive inhibitor of S-adenosyl-L-methionine-dependent methyl transferase reactions; therefore adenosylhomocysteinase may play a key role in the control of methylations via regulation of the intracellular concentration of adenosylhomocysteine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Selenoamino Acid Metabolism</name>
+      <smpdb_id>SMP00029</smpdb_id>
+      <kegg_map_id>map00450</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Betaine Metabolism</name>
+      <smpdb_id>SMP00123</smpdb_id>
+      <kegg_map_id>map00260</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>L-homocysteine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Cysteine and methionine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00270</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00742</accession>
+      <name>Homocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00050</accession>
+      <name>Adenosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04119</accession>
+      <name>Selenohomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11117</accession>
+      <name>Se-Adenosylselenohomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00863</accession>
+      <name>Isopropyl alcohol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB29895</accession>
+      <name>D-erythro-Eritadenine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ether bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>trialkylsulfonium hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenosylhomocysteinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>one-carbon metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>melanosome</description>
+      <go_id>GO:0042470</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>adenosylhomocysteinase activity</description>
+      <go_id>GO:0004013</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>methylation</description>
+      <go_id>GO:0032259</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>one-carbon metabolic process</description>
+      <go_id>GO:0006730</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sulfur amino acid metabolic process</description>
+      <go_id>GO:0000096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Melanosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q11.22</locus>
+    <gene_sequence>&gt;1299 bp
+ATGTCTGACAAACTGCCCTACAAAGTCGCCGACATCGGCCTGGCTGCCTGGGGACGCAAG
+GCCCTGGACATTGCTGAGAACGAGATGCCGGGCCTGATGCGTATGCGGGAGCGGTACTCG
+GCCTCCAAGCCACTGAAGGGCGCCCGCATCGCTGGCTGCCTGCACATGACCGTGGAGACG
+GCCGTCCTCATTGAGACCCTCGTCACCCTGGGTGCTGAGGTGCAGTGGTCCAGCTGCAAC
+ATCTTCTCCACCCAGAACCATGCGGCGGCTGCCATTGCCAAGGCTGGCATTCCGGTGTAT
+GCCTGGAAGGGCGAAACGGACGAGGAGTACCTGTGGTGCATTGAGCAGACCCTGTACTTC
+AAGGACGGGCCCCTCAACATGATTCTGGACGACGGGGGCGACCTCACCAACCTCATCCAC
+ACCAAGTACCCGCAGCTTCTGCCAGGCATCCGAGGCATCTCTGAGGAGACCACGACTGGG
+GTCCACAACCTCTACAAGATGATGGCCAATGGGATCCTCAAGGTGCCTGCCATCAATGTC
+AATGACTCCGTCACCAAGAGCAAGTTTGACAACCTCTATGGCTGCCGGGAGTCCCTCATA
+GATGGCATCAAGCGGGCCACAGATGTGATGATTGCCGGCAAGGTAGCGGTGGTAGCAGGC
+TATGGTGATGTGGGCAAGGGCTGTGCCCAGGCCCTGCGGGGTTTCGGAGCCCGCGTCATC
+ATCACCGAGATTGACCCCATCAACGCACTGCAGGCTGCCATGGAGGGCTATGAGGTGACC
+ACCATGGATGAGGCCTGTCAGGAGGGCAACATCTTTGTCACCACCACAGGCTGTATTGAC
+ATCATCCTTGGCCGGCACTTTGAGCAGATGAAGGATGATGCCATTGTGTGTAACATTGGA
+CACTTTGACGTGGAGATCGATGTCAAGTGGCTCAACGAGAACGCCGTGGAGAAGGTGAAC
+ATCAAGCCGCAGGTGGACCGGTATCGGTTGAAGAATGGGCGCCGCATCATCCTGCTGGCC
+GAGGGTCGGCTGGTCAACCTGGGTTGTGCCATGGGCCACCCCAGCTTCGTGATGAGTAAC
+TCCTTCACCAACCAGGTGATGGCGCAGATCGAGCTGTGGACCCATCCAGACAAGTACCCC
+GTTGGGGTTCATTTCCTGCCCAAGAAGCTGGATGAGGCAGTGGCTGAAGCCCACCTGGGC
+AAGCTGAATGTGAAGTTGACCAAGCTAACTGAGAAGCAAGCCCAGTACCTGGGCATGTCC
+TGTGATGGCCCCTTCAAGCCGGATCACTACCGCTACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>432</residue_number>
+    <molecular_weight>47715.715</molecular_weight>
+    <theoretical_pi>6.341</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AdoHcyase</name>
+        <pfam_id>PF05221</pfam_id>
+      </pfam>
+      <pfam>
+        <name>AdoHcyase_NAD</name>
+        <pfam_id>PF00670</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Adenosylhomocysteinase
+MSDKLPYKVADIGLAAWGRKALDIAENEMPGLMRMRERYSASKPLKGARIAGCLHMTVET
+AVLIETLVTLGAEVQWSSCNIFSTQDHAAAAIAKAGIPVYAWKGETDEEYLWCIEQTLYF
+KDGPLNMILDDGGDLTNLIHTKYPQLLPGIRGISEETTTGVHNLYKMMANGILKVPAINV
+NDSVTKSKFDNLYGCRESLIDGIKRATDVMIAGKVAVVAGYGDVGKGCAQALRGFGARVI
+ITEIDPINALQAAMEGYEVTTMDEACQEGNIFVTTTGCIDIILGRHFEQMKDDAIVCNIG
+HFDVEIDVKWLNENAVEKVNIKPQVDRYRLKNGRRIILLAEGRLVNLGCAMGHPSFVMSN
+SFTNQVMAQIELWTHPDKYPVGVHFLPKKLDEAVAEAHLGKLNVKLTKLTEKQAQYLGMS
+CDGPFKPDHYRY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>178277</genbank_protein_id>
+  <uniprot_id>P23526</uniprot_id>
+  <uniprot_name>SAHH_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1A7A</pdb_id>
+    <pdb_id>1LI4</pdb_id>
+    <pdb_id>3NJ4</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M61831</genbank_gene_id>
+  <genecard_id>AHCY</genecard_id>
+  <geneatlas_id>AHCY</geneatlas_id>
+  <hgnc_id>HGNC:343</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Coulter-Karis DE, Hershfield MS: Sequence of full length cDNA for human S-adenosylhomocysteine hydrolase.  Ann Hum Genet. 1989 May;53(Pt 2):169-75.</reference_text>
+      <pubmed_id>2596825</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gupta RA, Yuan CS, Ault-Riche DB, Borchardt RT: Limited proteolysis of S-adenosylhomocysteine hydrolase: implications for the three-dimensional structure. Arch Biochem Biophys. 1995 Jun 1;319(2):365-71.</reference_text>
+      <pubmed_id>7786017</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arredondo-Vega FX, Charlton JA, Edwards YH, Hopkinson DA, Whitehouse DB: Isozyme and DNA analysis of human S-adenosyl-L-homocysteine hydrolase (AHCY). Ann Hum Genet. 1989 May;53(Pt 2):157-67.</reference_text>
+      <pubmed_id>2574561</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yuan CS, Borchardt RT: Photoaffinity labeling of human placental S-adenosylhomocysteine hydrolase with [2-3H]8-azido-adenosine. J Biol Chem. 1995 Jul 7;270(27):16140-6.</reference_text>
+      <pubmed_id>7608178</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chi A, Valencia JC, Hu ZZ, Watabe H, Yamaguchi H, Mangini NJ, Huang H, Canfield VA, Cheng KC, Yang F, Abe R, Yamagishi S, Shabanowitz J, Hearing VJ, Wu C, Appella E, Hunt DF: Proteomic and bioinformatic characterization of the biogenesis and function of melanosomes. J Proteome Res. 2006 Nov;5(11):3135-44.</reference_text>
+      <pubmed_id>17081065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Turner MA, Yuan CS, Borchardt RT, Hershfield MS, Smith GD, Howell PL: Structure determination of selenomethionyl S-adenosylhomocysteine hydrolase using data at a single wavelength. Nat Struct Biol. 1998 May;5(5):369-76.</reference_text>
+      <pubmed_id>9586999</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang X, Hu Y, Yin DH, Turner MA, Wang M, Borchardt RT, Howell PL, Kuczera K, Schowen RL: Catalytic strategy of S-adenosyl-L-homocysteine hydrolase: transition-state stabilization and the avoidance of abortive reactions. Biochemistry. 2003 Feb 25;42(7):1900-9.</reference_text>
+      <pubmed_id>12590576</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gellekink H, den Heijer M, Kluijtmans LA, Blom HJ: Effect of genetic variation in the human S-adenosylhomocysteine hydrolase gene on total homocysteine concentrations and risk of recurrent venous thrombosis. Eur J Hum Genet. 2004 Nov;12(11):942-8.</reference_text>
+      <pubmed_id>15241484</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baric I, Fumic K, Glenn B, Cuk M, Schulze A, Finkelstein JD, James SJ, Mejaski-Bosnjak V, Pazanin L, Pogribny IP, Rados M, Sarnavka V, Scukanec-Spoljar M, Allen RH, Stabler S, Uzelac L, Vugrek O, Wagner C, Zeisel S, Mudd SH: S-adenosylhomocysteine hydrolase deficiency in a human: a genetic disorder of methionine metabolism. Proc Natl Acad Sci U S A. 2004 Mar 23;101(12):4234-9. Epub 2004 Mar 15.</reference_text>
+      <pubmed_id>15024124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Buist NR, Glenn B, Vugrek O, Wagner C, Stabler S, Allen RH, Pogribny I, Schulze A, Zeisel SH, Baric I, Mudd SH: S-Adenosylhomocysteine hydrolase deficiency in a 26-year-old man.  J Inherit Metab Dis. 2006 Aug;29(4):538-545. Epub 2006 May 30.</reference_text>
+      <pubmed_id>16736098</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vugrek O, Beluzic R, Nakic N, Mudd SH: S-adenosylhomocysteine hydrolase (AHCY) deficiency: two novel mutations with lethal outcome. Hum Mutat. 2009 Apr;30(4):E555-65.</reference_text>
+      <pubmed_id>19177456</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isopropyl alcohol</name>
+        <accession>HMDB00863</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isopropyl alcohol</name>
+        <accession>HMDB00863</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-erythro-Eritadenine</name>
+        <accession>HMDB29895</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-erythro-Eritadenine</name>
+        <accession>HMDB29895</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-erythro-Eritadenine</name>
+        <accession>HMDB29895</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

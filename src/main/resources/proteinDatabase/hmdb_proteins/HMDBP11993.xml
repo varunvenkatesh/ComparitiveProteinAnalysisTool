@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:38:59 -0600</creation_date>
+  <update_date>2013-05-27 11:38:59 -0600</update_date>
+  <accession>HMDBP11993</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Huntingtin-interacting protein 2</synonym>
+    <synonym>Ubiquitin carrier protein</synonym>
+    <synonym>Ubiquitin-conjugating enzyme E2-25 kDa</synonym>
+    <synonym>Ubiquitin-protein ligase</synonym>
+    <synonym>HIP-2</synonym>
+    <synonym>Ubiquitin-conjugating enzyme E2(25K)</synonym>
+    <synonym>Ubiquitin-conjugating enzyme E2-25K</synonym>
+  </synonyms>
+  <gene_name>UBE2K</gene_name>
+  <general_function/>
+  <specific_function>Accepts ubiquitin from the E1 complex and catalyzes its covalent attachment to other proteins. In vitro, in the presence or in the absence of BRCA1-BARD1 E3 ubiquitin-protein ligase complex, catalyzes the synthesis of 'Lys-48'-linked polyubiquitin chains. Does not transfer ubiquitin directly to but elongates monoubiquitinated substrate protein. Mediates the selective degradation of short-lived and abnormal proteins, such as the endoplasmic reticulum-associated degradation (ERAD) of misfolded lumenal proteins. Ubiquitinates huntingtin. May mediate foam cell formation by the suppression of apoptosis of lipid-bearing macrophages through ubiquitination and subsequence degradation of p53/TP53. Proposed to be involved in ubiquitination and proteolytic processing of NF-kappa-B; in vitro supports ubiquitination of NFKB1. In case of infection by cytomegaloviruses may be involved in the US11-dependent degradation of MHC class I heavy chains following their export from the ER to the cytosol. In case of viral infections may be involved in the HPV E7 protein-dependent degradation of RB1.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein ubiquitination</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Ubiquitin mediated proteolysis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04120</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein K48-linked ubiquitination</description>
+      <go_id>GO:0070936</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ubiquitin-dependent protein catabolic process</description>
+      <go_id>GO:0006511</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ubiquitin-ubiquitin ligase activity</description>
+      <go_id>GO:0034450</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>4</chromosome_location>
+    <locus>4p14</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>16618.01</molecular_weight>
+    <theoretical_pi>6.551</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|163660387|ref|NP_001104583.1| ubiquitin-conjugating enzyme E2 K isoform 3 [Homo sapiens]
+MANIAVQRIKREFKEVLKSEEVRFITKIWHPNISSVTGAICLDILKDQWAAAMTLRTVLL
+SLQALLAAAE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P61086</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>1YLA</pdb_id>
+    <pdb_id>2O25</pdb_id>
+    <pdb_id>3E46</pdb_id>
+    <pdb_id>3F92</pdb_id>
+    <pdb_id>3K9O</pdb_id>
+    <pdb_id>3K9P</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:4914</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

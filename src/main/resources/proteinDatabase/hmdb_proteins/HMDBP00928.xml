@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:25 -0700</creation_date>
+  <update_date>2013-05-27 11:27:27 -0600</update_date>
+  <accession>HMDBP00928</accession>
+  <secondary_accessions>
+    <accession>6216</accession>
+    <accession>HMDBP04898</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Constitutive NOS</synonym>
+    <synonym>N-NOS</synonym>
+    <synonym>NC-NOS</synonym>
+    <synonym>NOS type I</synonym>
+    <synonym>Neuronal NOS</synonym>
+    <synonym>bNOS</synonym>
+    <synonym>nNOS</synonym>
+    <synonym>Peptidyl-cysteine S-nitrosylase NOS1</synonym>
+  </synonyms>
+  <gene_name>NOS1</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Produces nitric oxide (NO) which is a messenger molecule with diverse functions throughout the body. In the brain and peripheral nervous system, NO displays many properties of a neurotransmitter. Probably has nitrosylase activity and mediates cysteine S-nitrosylation of cytoplasmic target proteins such SRR.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Calcium signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phagosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04145</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Circadian entrainment</name>
+      <smpdb_id/>
+      <kegg_map_id>map04713</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Long-term depression</name>
+      <smpdb_id/>
+      <kegg_map_id>map04730</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Salivary secretion</name>
+      <smpdb_id/>
+      <kegg_map_id>map04970</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alzheimer's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Amyotrophic lateral sclerosis (ALS)</name>
+      <smpdb_id/>
+      <kegg_map_id>map05014</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00517</accession>
+      <name>L-Arginine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04224</accession>
+      <name>N-(o)-Hydroxyarginine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03378</accession>
+      <name>Nitric oxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01520</accession>
+      <name>Flavin Mononucleotide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00027</accession>
+      <name>Tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00038</accession>
+      <name>Dihydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00904</accession>
+      <name>Citrulline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00169</accession>
+      <name>D-Mannose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nadp or nadph binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fad or fadh2 binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calmodulin binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, nadh or nadph as one donor, and incorporation of one atom of oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nitric-oxide synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fmn binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitric oxide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoskeleton</description>
+      <go_id>GO:0005856</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>dendritic spine</description>
+      <go_id>GO:0043197</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>photoreceptor inner segment</description>
+      <go_id>GO:0001917</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>sarcolemma</description>
+      <go_id>GO:0042383</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>sarcoplasmic reticulum</description>
+      <go_id>GO:0016529</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>synapse</description>
+      <go_id>GO:0045202</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arginine binding</description>
+      <go_id>GO:0034618</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cadmium ion binding</description>
+      <go_id>GO:0046870</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavin adenine dinucleotide binding</description>
+      <go_id>GO:0050660</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>FMN binding</description>
+      <go_id>GO:0010181</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADP binding</description>
+      <go_id>GO:0050661</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADPH-hemoprotein reductase activity</description>
+      <go_id>GO:0003958</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nitric-oxide synthase activity</description>
+      <go_id>GO:0004517</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity</description>
+      <go_id>GO:0016491</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tetrahydrobiopterin binding</description>
+      <go_id>GO:0034617</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>arginine catabolic process</description>
+      <go_id>GO:0006527</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>blood coagulation</description>
+      <go_id>GO:0007596</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>exogenous drug catabolic process</description>
+      <go_id>GO:0042738</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>interaction with host</description>
+      <go_id>GO:0051701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organismal response to stress</description>
+      <go_id>GO:0033555</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>myoblast fusion</description>
+      <go_id>GO:0007520</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of blood pressure</description>
+      <go_id>GO:0045776</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of calcium ion transport</description>
+      <go_id>GO:0051926</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of calcium ion transport into cytosol</description>
+      <go_id>GO:0010523</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of hydrolase activity</description>
+      <go_id>GO:0051346</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of potassium ion transport</description>
+      <go_id>GO:0043267</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter biosynthetic process</description>
+      <go_id>GO:0042136</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nitric oxide biosynthetic process</description>
+      <go_id>GO:0006809</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nitric oxide mediated signal transduction</description>
+      <go_id>GO:0007263</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-cysteine S-nitrosylation</description>
+      <go_id>GO:0018119</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phagosome maturation</description>
+      <go_id>GO:0090382</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of guanylate cyclase activity</description>
+      <go_id>GO:0031284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of vasodilation</description>
+      <go_id>GO:0045909</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cardiac muscle contraction</description>
+      <go_id>GO:0055117</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of sodium ion transport</description>
+      <go_id>GO:0002028</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to heat</description>
+      <go_id>GO:0009408</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hypoxia</description>
+      <go_id>GO:0001666</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>striated muscle contraction</description>
+      <go_id>GO:0006941</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>sarcolemma</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Cell projection</subcellular_location>
+    <subcellular_location>dendritic spine</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q24.2-q24.31</locus>
+    <gene_sequence>&gt;4305 bp
+ATGGAGGATCACATGTTCGGTGTTCAGCAAATCCAGCCCAATGTCATTTCTGTTCGTCTC
+TTCAAGCGCAAAGTTGGGGGCCTGGGATTTCTGGTGAAGGAGCGGGTCAGTAAGCCGCCC
+GTGATCATCTCTGACCTGATTCGTGGGGGCGCCGCAGAGCAGAGTGGCCTCATCCAGGCC
+GGAGACATCATTCTTGCGGTCAACGGCCGGCCCTTGGTGGACCTGAGCTATGACAGCGCC
+CTGGAGGTACTCAGAGGCATTGCCTCTGAGACCCACGTGGTCCTCATTCTGAGGGGCCCT
+GAAGGTTTCACCACGCACCTGGAGACCACCTTTACAGGTGATGGGACCCCCAAGACCATC
+CGGGTGACACAGCCCCTGGGTCCCCCCACCAAAGCCGTGGATCTGTCCCACCAGCCACCG
+GCCGGCAAAGAACAGCCCCTGGCAGTGGATGGGGCCTCGGGTCCCGGGAATGGGCCTCAG
+CATGCCTACGATGATGGGCAGGAGGCTGGCTCACTCCCCCATGCCAACGGCCTGGCCCCC
+AGGCCCCCAGGCCAGGACCCCGCGAAGAAAGCAACCAGAGTCAGCCTCCAAGGCAGAGGG
+GAGAACAATGAACTGCTCAAGGAGATAGAGCCTGTGCTGAGCCTTCTCACCAGTGGGAGC
+AGAGGGGTCAAGGGAGGGGCACCTGCCAAGGCAGAGATGAAAGATATGGGAATCCAGGTG
+GACAGAGATTTGGACGGCAAGTCACACAAACCTCTGCCCCTCGGCGTGGAGAACGACCGA
+GTCTTCAATGACCTATGGGGGAAGGGCAATGTGCCTGTCGTCCTCAACAACCCATATTCA
+GAGAAGGAGCAGCCCCCCACCTCAGGAAAACAGTCCCCCACAAAGAATGGCAGCCCCTCC
+AAGTGTCCACGCTTCCTCAAGGTCAAGAACTGGGAGACTGAGGTGGTTCTCACTGACACC
+CTCCACCTTAAGAGCACATTGGAAACGGGATGCACTGAGTACATCTGCATGGGCTCCATC
+ATGCATCCTTCTCAGCATGCAAGGAGGCCTGAAGACGTCCGCACAAAAGGACAGCTCTTC
+CCTCTCGCCAAAGAGTTTATTGATCAATACTATTCATCAATTAAAAGATTTGGCTCCAAA
+GCCCACATGGAAAGGCTGGAAGAGGTGAACAAAGAGATCGACACCACTAGCACTTACCAG
+CTCAAGGACACAGAGCTCATCTATGGGGCCAAGCACGCCTGGCGGAATGCCTCGCGCTGT
+GTGGGCAGGATCCAGTGGTCCAAGCTGCAGGTATTCGATGCCCGTGACTGCACCACGGCC
+CACGGGATGTTCAACTACATCTGTAACCATGTCAAGTATGCCACCAACAAAGGGAACCTC
+AGGTCTGCCATCACCATATTCCCCCAGAGGACAGACGGCAAGCACGACTTCCGAGTCTGG
+AACTCCCAGCTCATCCGCTACGCTGGCTACAAGCAGCCTGACGGCTCCACCCTGGGGGAC
+CCAGCCAATGTGCAGTTCACAGAGATATGCATACAGCAGGGCTGGAAACCGCCTAGAGGC
+CGCTTCGATGTCCTGCCGCTCCTGCTTCAGGCCAACGGCAATGACCCTGAGCTCTTCCAG
+ATTCCTCCAGAGCTGGTGTTGGAAGTTCCCATCAGGCACCCCAAGTTTGAGTGGTTCAAG
+GACCTGGGGCTGAAGTGGTACGGCCTCCCCGCCGTGTCCAACATGCTCCTAGAGATTGGC
+GGCCTGGAGTTCAGCGCCTGTCCCTTCAGTGGCTGGTACATGGGCACAGAGATTGGTGTC
+CGCGACTACTGTGACAACTCCCGCTACAATATCCTGGAGGAAGTGGCCAAGAAGATGAAC
+TTAGACATGAGGAAGACGTCCTCCCTGTGGAAGGACCAGGCGCTGGTGGAGATCAATATC
+GCGGTTCTCTATAGCTTCCAGAGTGACAAAGTGACCATTGTTGACCATCACTCCGCCACC
+GAGTCCTTCATTAAGCACATGGAGAATGAGTACCGCTGCCGGGGGGGCTGCCCTGCCGAC
+TGGGTGTGGATCGTGCCCCCCATGTCCGGAAGCATCACCCCTGTGTTCCACCAGGAGATG
+CTCAACTACCGGCTCACCCCCTCCTTCGAATACCAGCCTGATCCCTGGAACACGCATGTC
+TGGAAAGGCACCAACGGGACCCCCACAAAGCGGCGAGCCATCGGCTTCAAGAAGCTAGCA
+GAAGCTGTCAAGTTCTCGGCCAAGCTGATGGGGCAGGCTATGGCCAAGAGGGTGAAAGCG
+ACCATCCTCTATGCCACAGAGACAGGCAAATCGCAAGCTTATGCCAAGACCTTGTGTGAG
+ATCTTCAAACACGCCTTTGATGCCAAGGTGATGTCCATGGAAGAATATGACATTGTGCAC
+CTGGAACATGAAACTCTGGTCCTTGTGGTCACCAGCACCTTTGGCAATGGAGATCCCCCT
+GAGAATGGGGAGAAATTCGGCTGTGCTTTGATGGAAATGAGGCACCCCAACTCTGTGCAG
+GAAGAAAGGAAGAGCTACAAGGTCCGATTCAACAGCGTCTCCTCCTACTCTGACTCCCAA
+AAATCATCAGGCGATGGGCCCGACCTCAGAGACAACTTTGAGAGTGCTGGACCCCTGGCC
+AATGTGAGGTTCTCAGTTTTTGGCCTCGGCTCACGAGCATACCCTCACTTTTGCGCCTTC
+GGACACGCTGTGGACACCCTCCTGGAAGAACTGGGAGGGGAGAGGATCCTGAAGATGAGG
+GAAGGGGATGAGCTCTGTGGGCAGGAAGAGGCTTTCAGGACCTGGGCCAAGAAGGTCTTC
+AAGGCAGCCTGTGATGTCTTCTGTGTGGGAGATGATGTCAACATTGAAAAGGCCAACAAT
+TCCCTCATCAGCAATGATCGCAGCTGGAAGAGAAACAAGTTCCGCCTCACCTTTGTGGCC
+GAAGCTCCAGAACTCACACAAGGTCTATCCAATGTCCACAAAAAGCGAGTCTCAGCTGCC
+CGGCTCCTTAGCCGTCAAAACCTCCAGAGCCCTAAATCCAGTCGGTCAACTATCTTCGTG
+CGTCTCCACACCAACGGGAGCCAGGAGCTGCAGTACCAGCCTGGGGACCACCTGGGTGTC
+TTCCCTGGCAACCACGAGGACCTCGTGAATGCCCTGATCGAGCGGCTGGAGGACGCGCCG
+CCTGTCAACCAGATGGTGAAAGTGGAACTGCTGGAGGAGCGGAACACGGCTTTAGGTGTC
+ATCAGTAACTGGACAGACGAGCTCCGCCTCCCGCCCTGCACCATCTTCCAGGCCTTCAAG
+TACTACCTGGACATCACCACGCCACCAACGCCTCTGCAGCTGCAGCAGTTTGCCTCCCTA
+GCTACCAGCGAGAAGGAGAAGCAGCGTCTGCTGGTCCTCAGCAAGGGTTTGCAGGAGTAC
+GAGGAATGGAAATGGGGCAAGAACCCCACCATCGTGGAGGTGCTGGAGGAGTTCCCATCT
+ATCCAGATGCCGGCCACCCTGCTCCTGACCCAGCTGTCCCTGCTGCAGCCCCGCTACTAT
+TCCATCAGCTCCTCCCCAGACATGTACCCTGATGAAGTGCACCTCACTGTGGCCATCGTT
+TCCTACCGCACTCGAGATGGAGAAGGACCAATTCACCACGGCGTATGCTCCTCCTGGCTC
+AACCGGATACAGGCTGACGAACTGGTCCCCTGTTTCGTGAGAGGAGCACCCAGCTTCCAC
+CTGCCCCGGAACCCCCAAGTCCCCTGCATCCTCGTTGGACCAGGCACCGGCATTGCCCCT
+TTCCGAAGCTTCTGGCAACAGCGGCAATTTGATATCCAACACAAAGGAATGAACCCCTGC
+CCCATGGTCCTGGTCTTCGGGTGCCGGCAATCCAAGATAGATCATATCTACAGGGAAGAG
+ACCCTGCAGGCCAAGAACAAGGGGGTCTTCAGAGAGCTGTACACGGCTTACTCCCGGGAG
+CCAGACAAACCAAAGAAGTACGTGCAGGACATCCTGCAGGAGCAGCTGGCGGAGTCTGTG
+TACCGAGCCCTGAAGGAGCAAGGGGGCCACATATACGTCTGTGGGGACGTCACCATGGCT
+GCTGATGTCCTCAAAGCCATCCAGCGCATCATGACCCAGCAGGGGAAGCTCTCGGCAGAG
+GACGCCGGCGTATTCATCAGCCGGATGAGGGATGACAACCGATACCATGAGGATATTTTT
+GGAGTCACCCTGCGAACGTACGAAGTGACCAACCGCCTTAGATCTGAGTCCATTGCCTTC
+ATTGAAGAGAGCAAAAAAGACACCGATGAGGTTTTCAGCTCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1434</residue_number>
+    <molecular_weight>160969.095</molecular_weight>
+    <theoretical_pi>7.417</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAD_binding_1</name>
+        <pfam_id>PF00667</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Flavodoxin_1</name>
+        <pfam_id>PF00258</pfam_id>
+      </pfam>
+      <pfam>
+        <name>NAD_binding_1</name>
+        <pfam_id>PF00175</pfam_id>
+      </pfam>
+      <pfam>
+        <name>NO_synthase</name>
+        <pfam_id>PF02898</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PDZ</name>
+        <pfam_id>PF00595</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Nitric oxide synthase, brain
+MEDHMFGVQQIQPNVISVRLFKRKVGGLGFLVKERVSKPPVIISDLIRGGAAEQSGLIQA
+GDIILAVNGRPLVDLSYDSALEVLRGIASETHVVLILRGPEGFTTHLETTFTGDGTPKTI
+RVTQPLGPPTKAVDLSHQPPAGKEQPLAVDGASGPGNGPQHAYDDGQEAGSLPHANGLAP
+RPPGQDPAKKATRVSLQGRGENNELLKEIEPVLSLLTSGSRGVKGGAPAKAEMKDMGIQV
+DRDLDGKSHKPLPLGVENDRVFNDLWGKGNVPVVLNNPYSEKEQPPTSGKQSPTKNGSPS
+KCPRFLKVKNWETEVVLTDTLHLKSTLETGCTEYICMGSIMHPSQHARRPEDVRTKGQLF
+PLAKEFIDQYYSSIKRFGSKAHMERLEEVNKEIDTTSTYQLKDTELIYGAKHAWRNASRC
+VGRIQWSKLQVFDARDCTTAHGMFNYICNHVKYATNKGNLRSAITIFPQRTDGKHDFRVW
+NSQLIRYAGYKQPDGSTLGDPANVQFTEICIQQGWKPPRGRFDVLPLLLQANGNDPELFQ
+IPPELVLEVPIRHPKFEWFKDLGLKWYGLPAVSNMLLEIGGLEFSACPFSGWYMGTEIGV
+RDYCDNSRYNILEEVAKKMNLDMRKTSSLWKDQALVEINIAVLYSFQSDKVTIVDHHSAT
+ESFIKHMENEYRCRGGCPADWVWIVPPMSGSITPVFHQEMLNYRLTPSFEYQPDPWNTHV
+WKGTNGTPTKRRAIGFKKLAEAVKFSAKLMGQAMAKRVKATILYATETGKSQAYAKTLCE
+IFKHAFDAKVMSMEEYDIVHLEHETLVLVVTSTFGNGDPPENGEKFGCALMEMRHPNSVQ
+EERKSYKVRFNSVSSYSDSQKSSGDGPDLRDNFESAGPLANVRFSVFGLGSRAYPHFCAF
+GHAVDTLLEELGGERILKMREGDELCGQEEAFRTWAKKVFKAACDVFCVGDDVNIEKANN
+SLISNDRSWKRNKFRLTFVAEAPELTQGLSNVHKKRVSAARLLSRQNLQSPKSSRSTIFV
+RLHTNGSQELQYQPGDHLGVFPGNHEDLVNALIERLEDAPPVNQMVKVELLEERNTALGV
+ISNWTDELRLPPCTIFQAFKYYLDITTPPTPLQLQQFASLATSEKEKQRLLVLSKGLQEY
+EEWKWGKNPTIVEVLEEFPSIQMPATLLLTQLSLLQPRYYSISSSPDMYPDEVHLTVAIV
+SYRTRDGEGPIHHGVCSSWLNRIQADELVPCFVRGAPSFHLPRNPQVPCILVGPGTGIAP
+FRSFWQQRQFDIQHKGMNPCPMVLVFGCRQSKIDHIYREETLQAKNKGVFRELYTAYSRE
+PDKPKKYVQDILQEQLAESVYRALKEQGGHIYVCGDVTMAADVLKAIQRIMTQQGKLSAE
+DAGVFISRMRDDNRYHEDIFGVTLRTYEVTNRLRSESIAFIEESKKDTDEVFSS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>642526</genbank_protein_id>
+  <uniprot_id>P29475</uniprot_id>
+  <uniprot_name>NOS1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U17327</genbank_gene_id>
+  <genecard_id>NOS1</genecard_id>
+  <geneatlas_id>NOS1</geneatlas_id>
+  <hgnc_id>HGNC:7872</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hall AV, Antoniou H, Wang Y, Cheung AH, Arbus AM, Olson SL, Lu WC, Kau CL, Marsden PA: Structural organization of the human neuronal nitric oxide synthase gene (NOS1). J Biol Chem. 1994 Dec 30;269(52):33082-90.</reference_text>
+      <pubmed_id>7528745</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujisawa H, Ogura T, Kurashima Y, Yokoyama T, Yamashita J, Esumi H: Expression of two types of nitric oxide synthase mRNA in human neuroblastoma cell lines. J Neurochem. 1994 Jul;63(1):140-5.</reference_text>
+      <pubmed_id>7515942</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakane M, Schmidt HH, Pollock JS, Forstermann U, Murad F: Cloned human brain nitric oxide synthase is highly expressed in skeletal muscle. FEBS Lett. 1993 Jan 25;316(2):175-80.</reference_text>
+      <pubmed_id>7678401</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park CS, Gianotti C, Park R, Krishna G: Neuronal isoform of nitric oxide synthase is expressed at low levels in human retina. Cell Mol Neurobiol. 1996 Aug;16(4):499-515.</reference_text>
+      <pubmed_id>8879752</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Goligorsky MS, Lin M, Wilcox JN, Marsden PA: A novel, testis-specific mRNA transcript encoding an NH2-terminal truncated nitric-oxide synthase. J Biol Chem. 1997 Apr 25;272(17):11392-401.</reference_text>
+      <pubmed_id>9111048</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flavin Mononucleotide</name>
+        <accession>HMDB01520</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flavin Mononucleotide</name>
+        <accession>HMDB01520</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flavin Mononucleotide</name>
+        <accession>HMDB01520</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tetrahydrobiopterin</name>
+        <accession>HMDB00027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kamada Y, Jenkins GJ, Lau M, Dunbar AY, Lowe ER, Osawa Y: Tetrahydrobiopterin depletion and ubiquitylation of neuronal nitric oxide synthase. Brain Res Mol Brain Res. 2005 Dec 7;142(1):19-27. Epub 2005 Oct 10.</reference_text>
+        <pubmed_id>16216381</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dihydrobiopterin</name>
+        <accession>HMDB00038</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Li H, Igarashi J, Jamal J, Yang W, Poulos TL: Structural studies of constitutive nitric oxide synthases with diatomic ligands bound. J Biol Inorg Chem. 2006 Sep;11(6):753-68. Epub 2006 Jun 28.</reference_text>
+        <pubmed_id>16804678</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citrulline</name>
+        <accession>HMDB00904</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kominami S, Yamazaki T, Koga T, Hori H: EPR studies on the photo-induced intermediates of ferric NO complexes of rat neuronal nitric oxide synthase trapped at low temperature. J Biochem. 1999 Oct;126(4):756-61.</reference_text>
+        <pubmed_id>10502685</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citrulline</name>
+        <accession>HMDB00904</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Giraldi-Guimaraes A, Tenorio F, Bruning G, Mayer B, Mendez-Otero R, Cavalcante LA: Nitric oxide synthase expression in the opossum superior colliculus: a histochemical, immunohistochemical and biochemical study. Brain Behav Evol. 1999 Dec;54(6):303-13.</reference_text>
+        <pubmed_id>10681601</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citrulline</name>
+        <accession>HMDB00904</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Perry JM, Zhao Y, Marletta MA: Cu2+ and Zn2+ inhibit nitric-oxide synthase through an interaction with the reductase domain. J Biol Chem. 2000 May 12;275(19):14070-6.</reference_text>
+        <pubmed_id>10799481</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citrulline</name>
+        <accession>HMDB00904</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Adak S, Wang Q, Stuehr DJ: Arginine conversion to nitroxide by tetrahydrobiopterin-free neuronal nitric-oxide synthase. Implications for mechanism. J Biol Chem. 2000 Oct 27;275(43):33554-61.</reference_text>
+        <pubmed_id>10945985</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citrulline</name>
+        <accession>HMDB00904</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yu W, Juang S, Lee J, Liu T, Cheng J: Decrease of neuronal nitric oxide synthase in the cerebellum of aged rats.  Neurosci Lett. 2000 Sep 8;291(1):37-40.</reference_text>
+        <pubmed_id>10962148</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Mannose</name>
+        <accession>HMDB00169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Mannose</name>
+        <accession>HMDB00169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Mannose</name>
+        <accession>HMDB00169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

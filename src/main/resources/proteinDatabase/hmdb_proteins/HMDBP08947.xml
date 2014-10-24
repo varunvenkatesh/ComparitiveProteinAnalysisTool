@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:17:32 -0700</creation_date>
+  <update_date>2013-05-27 11:32:39 -0600</update_date>
+  <accession>HMDBP08947</accession>
+  <secondary_accessions>
+    <accession>14676</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Protein-tyrosine phosphatase mu</synonym>
+    <synonym>R-PTP-mu</synonym>
+  </synonyms>
+  <gene_name>PTPRM</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Involved in cell-cell adhesion through homophilic interactions. May play a key role in signal transduction and growth control.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Cell adhesion molecules (CAMs)</name>
+      <smpdb_id/>
+      <kegg_map_id>map04514</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Adherens junction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04520</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cell-cell adherens junction</description>
+      <go_id>GO:0005913</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lamellipodium</description>
+      <go_id>GO:0030027</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cadherin binding</description>
+      <go_id>GO:0045296</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transmembrane receptor protein tyrosine phosphatase activity</description>
+      <go_id>GO:0005001</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>homophilic cell adhesion</description>
+      <go_id>GO:0007156</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of angiogenesis</description>
+      <go_id>GO:0016525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of endothelial cell migration</description>
+      <go_id>GO:0010596</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of endothelial cell proliferation</description>
+      <go_id>GO:0001937</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of vasodilation</description>
+      <go_id>GO:0045909</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retina layer formation</description>
+      <go_id>GO:0010842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retinal ganglion cell axon guidance</description>
+      <go_id>GO:0031290</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>18</chromosome_location>
+    <locus>18p11.2</locus>
+    <gene_sequence>&gt;4359 bp
+ATGAGGACACTTGGGACTTGCCTGGCGACTTTGGCCGGACTTTTGCTAACTGCGGCGGGC
+GAGACGTTCTCAGGTGGCTGCCTCTTTGATGAGCCGTATAGCACATGTGGATATAGTCAA
+TCTGAAGGTGATGACTTCAATTGGGAGCAAGTGAACACCTTGACTAAACCGACTTCTGAT
+CCATGGATGCCATCAGGTTCTCTCATGCTGGTGAATGCCTCTGGGAGACCTGAGGGGCAG
+AGAGCCCACCTGCTCTTACCCCAACTTAAGGAAAATGACACCCACTGCATCGATTTTCAC
+TATTTTGTGTCCAGCAAGAGTAATTCTCCTCCGGGGTTACTCAATGTCTACGTGAAGGTC
+AATAACGGGCCACTGGGGAATCCTATCTGGAATATATCTGGAGACCCAACACGTACATGG
+AACAGGGCAGAACTGGCCATTAGTACTTTCTGGCCTAACTTTTATCAGGTGATTTTTGAA
+GTGATAACTTCTGGACATCAAGGCTATCTCGCTATCGATGAGGTGAAGGTGTTAGGACAT
+CCATGTACCAGGACTCCTCACTTCCTGCGGATTCAGAATGTGGAAGTTAATGCTGGCCAG
+TTTGCTACCTTCCAGTGCAGTGCCATCGGCAGGACCGTGGCAGGAGACAGGCTCTGGTTA
+CAGGGCATTGATGTGCGAGATGCTCCTCTGAAGGAAATCAAGGTGACCAGCTCCCGACGC
+TTCATTGCTTCATTTAATGTTGTGAATACCACCAAACGAGATGCTGGAAAGTACCGCTGC
+ATGATTCGCACTGAAGGAGGTGTTGGAATATCAAACTATGCAGAGTTGGTAGTTAAAGAA
+CCACCCGTTCCTATTGCCCCACCTCAGCTCGCCTCTGTAGGAGCCACCTACCTGTGGATA
+CAGCTCAACGCCAACTCCATCAATGGGGATGGGCCCATTGTGGCCCGAGAGGTGGAGTAC
+TGCACGGCCAGTGGGAGCTGGAATGACCGGCAGCCAGTCGATTCCACGAGCTATAAAATT
+GGACACCTTGACCCAGATACAGAATATGAGATTAGTGTGCTCCTGACCAGGCCAGGGGAG
+GGTGGCACTGGCTCTCCTGGTCCAGCTCTCAGGACAAGAACAAAGTGTGCTGATCCCATG
+CGAGGCCCAAGAAAACTAGAAGTAGTGGAGGTCAAATCTCGGCAAATCACTATCCGCTGG
+GAGCCATTTGGATATAATGTAACTCGTTGCCACAGTTATAATCTCACTGTCCACTACTGT
+TACCAAGTTGGAGGACAAGAACAAGTGCGAGAAGAAGTAAGCTGGGATACAGAAAATTCA
+CACCCTCAACACACGATCACTAACCTGTCACCATACACCAATGTCAGTGTGAAACTGATC
+CTCATGAACCCAGAGGGCCGGAAGGAAAGCCAAGAACTCATAGTGCAGACAGATGAAGAC
+CTCCCAGGTGCTGTTCCCACTGAATCCATACAAGGAAGTACCTTTGAAGAGAAGATATTT
+CTTCAGTGGAGAGAACCAACTCAAACATATGGTGTAATCACTTTATATGAGATCACCTAC
+AAAGCAGTCAGTTCCTTTGACCCAGAAATAGATTTATCCAATCAGAGTGGAAGAGTTTCA
+AAGCTGGGAAATGAAACCCATTTTCTGTTTTTTGGACTGTATCCGGGGACCACATACTCC
+TTTACCATCCGAGCTAGCACAGCTAAGGGTTTTGGGCCTCCAGCAACAAACCAGTTCACC
+ACCAAAATATCAGCACCCTCTATGCCAGCTTATGAACTTGAGACACCTTTGAATCAAACT
+GACAATACCGTGACAGTCATGCTGAAACCTGCCCACAGCAGAGGAGCACCTGTCAGTGTC
+TATCAAATAGTTGTTGAGGAAGAACGTCCTCGAAGAACTAAAAAGACGACAGAAATCTTA
+AAGTGCTACCCAGTGCCAATTCACTTCCAGAATGCTTCTCTGCTGAACTCACAGTACTAC
+TTTGCTGCAGAATTTCCTGCAGACAGCCTCCAAGCTGCGCAGCCTTTTACAATTGGTGAT
+AATAAGACATATAATGGATACTGGAACACTCCCCTTCTCCCCTATAAAAGCTACAGAATT
+TATTTCCAAGCTGCTAGTAGAGCCAATGGGGAAACCAAAATAGACTGTGTCCAAGTGGCC
+ACAAAAGGAGCTGCCACTCCGAAACCAGTCCCAGAACCCGAGAAACAGACAGACCATACA
+GTTAAAATTGCTGGAGTCATCGCGGGCATCTTGCTGTTCGTGATTATATTTCTTGGAGTT
+GTGTTGGTAATGAAGAAAAGGAAACTGGCCAAGAAGCGGAAAGAGACCATGAGCAGCACC
+CGACAGGAGATGACTGTGATGGTGAACTCAATGGACAAGAGCTATGCTGAGCAGGGCACA
+AACTGCGACGAGGCTTTCTCATTCATGGACACGCACAATCTGAATGGGAGATCTGTGTCT
+TCACCATCGTCCTTCACAATGAAAACAAATACACTGAGCACATCGGTGCCTAATTCCTAT
+TACCCAGATGAAACCCACACAATGGCCAGCGATACCAGCAGCCTGGTGCAGTCCCATACT
+TACAAGAAGCGAGAGCCGGCCGACGTGCCCTATCAGACTGGGCAGCTCCACCCCGCCATC
+CGGGTGGCAGACCTCCTTCAGCACATCACACAGATGAAGTGTGCGGAGGGCTACGGCTTC
+AAGGAGGAATACGAGAGCTTCTTTGAAGGGCAGTCTGCACCATGGGACTCGGCTAAGAAA
+GATGAGAACAGAATGAAGAACAGATACGGGAATATCATTGCATACGATCATTCCCGAGTG
+AGGCTGCAGACAATAGAAGGAGACACAAACTCAGACTATATCAATGGCAATTATATCGAT
+GGTTATCATCGACCCAATCATTACATTGCTACCCAAGGGCCAATGCAGGAAACCATCTAT
+GACTTCTGGAGGATGGTGTGGCACGAAAACACTGCAAGTATCATCATGGTGACCAATCTT
+GTGGAAGTGGGAAGGGTCAAATGCTGCAAATACTGGCCAGATGACACAGAGATATATAAA
+GACATTAAAGTTACCCTAATAGAAACAGAACTACTGGCAGAATATGTGATAAGAACATTT
+GCTGTTGAAAAGAGAGGTGTGCATGAAATCCGAGAGATCAGACAGTTTCACTTCACTGGC
+TGGCCGGATCATGGGGTCCCCTACCATGCCACCGGCCTGCTGGGATTCGTGCGGCAAGTC
+AAGTCCAAGAGCCCGCCCAGTGCAGGCCCACTGGTGGTGCACTGCAGTGCTGGTGCAGGG
+AGGACTGGCTGTTTCATCGTCATTGATATCATGTTGGACATGGCCGAAAGGGAAGGGGTC
+GTAGACATCTACAACTGCGTCAGGGAGCTGCGGTCACGGAGGGTGAACATGGTGCAAACA
+GAGGAGCAGTATGTGTTTATCCACGATGCGATCCTGGAAGCCTGTCTTTGTGGGGACACC
+TCTGTGCCTGCTTCCCAAGTTAGGTCTCTGTATTATGACATGAACAAACTGGATCCACAG
+ACAAACTCAAGCCAGATTAAAGAGGAATTCCGGACGCTAAACATGGTGACACCAACGCTG
+CGAGTAGAGGACTGCAGCATCGCACTGTTGCCCCGGAACCATGAGAAAAACCGGTGCATG
+GACATCCTGCCCCCAGACCGCTGCCTGCCCTTCCTCATCACCATCGATGGGGAGAGCAGC
+AACTACATCAATGCTGCCCTCATGGACAGCTATAAACAGCCTTCAGCTTTTATAGTCACC
+CAGCATCCTTTGCCAAACACAGTGAAAGACTTTTGGAGACTGGTCCTGGATTATCACTGC
+ACATCCGTAGTTATGCTAAATGATGTGGATCCTGCCCAGTTGTGTCCACAGTACTGGCCA
+GAAAACGGAGTACACAGACACGGCCCCATCCAGGTGGAATTTGTCTCTGCTGACCTGGAA
+GAGGACATCATCAGCAGGATATTCCGCATTTACAATGCCGCCAGACCCCAAGATGGATAT
+CGGATGGTGCAGCAATTCCAGTTCCTGGGCTGGCCGATGTACAGGGACACACCAGTGTCT
+AAGCGCTCCTTCTTGAAGCTCATTCGCCAGGTGGACAAGTGGCAAGAGGAATACAATGGC
+GGGGAAGGCCCGACCGTTGTGCACTGCTTGAACGGGGGAGGCCGCAGTGGGACGTTCTGC
+GCCATCAGCATCGTATGTGAGATGCTCCGGCACCAGAGAACCGTGGATGTCTTTCACGCT
+GTGAAGACACTGAGGAACAACAAGCCCAACATGGTCGACCTCCTGGATCAGTACAAGTTC
+TGCTACGAGGTGGCCCTGGAATACTTGAATTCTGGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1452</residue_number>
+    <molecular_weight>165058.91</molecular_weight>
+    <theoretical_pi>6.615</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>fn3</name>
+        <pfam_id>PF00041</pfam_id>
+      </pfam>
+      <pfam>
+        <name>ig</name>
+        <pfam_id>PF00047</pfam_id>
+      </pfam>
+      <pfam>
+        <name>MAM</name>
+        <pfam_id>PF00629</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Y_phosphatase</name>
+        <pfam_id>PF00102</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Receptor-type tyrosine-protein phosphatase mu
+MRGLGTCLATLAGLLLTAAGETFSGGCLFDEPYSTCGYSQSEGDDFNWEQVNTLTKPTSD
+PWMPSGSFMLVNASGRPEGQRAHLLLPQLKENDTHCIDFHYFVSSKSNSPPGLLNVYVKV
+NNGPLGNPIWNISGDPTRTWNRAELAISTFWPNFYQVIFEVITSGHQGYLAIDEVKVLGH
+PCTRTPHFLRIQNVEVNAGQFATFQCSAIGRTVAGDRLWLQGIDVRDAPLKEIKVTSSRR
+FIASFNVVNTTKRDAGKYRCMIRTEGGVGISNYAELVVKEPPVPIAPPQLASVGATYLWI
+QLNANSINGDGPIVAREVEYCTASGSWNDRQPVDSTSYKIGHLDPDTEYEISVLLTRPGE
+GGTGSPGPALRTRTKCADPMRGPRKLEVVEVKSRQITIRWEPFGYNVTRCHSYNLTVHYC
+YQVGGQEQVREEVSWDTENSHPQHTITNLSPYTNVSVKLILMNPEGRKESQELIVQTDED
+LPGAVPTESIQGSTFEEKIFLQWREPTQTYGVITLYEITYKAVSSFDPEIDLSNQSGRVS
+KLGNETHFLFFGLYPGTTYSFTIRASTAKGFGPPATNQFTTKISAPSMPAYELETPLNQT
+DNTVTVMLKPAHSRGAPVSVYQIVVEEERPRRTKKTTEILKCYPVPIHFQNASLLNSQYY
+FAAEFPADSLQAAQPFTIGDNKTYNGYWNTPLLPYKSYRIYFQAASRANGETKIDCVQVA
+TKGAATPKPVPEPEKQTDHTVKIAGVIAGILLFVIIFLGVVLVMKKRKLAKKRKETMSST
+RQEMTVMVNSMDKSYAEQGTNCDEAFSFMDTHNLNGRSVSSPSSFTMKTNTLSTSVPNSY
+YPDETHTMASDTSSLVQSHTYKKREPADVPYQTGQLHPAIRVADLLQHITQMKCAEGYGF
+KEEYESFFEGQSAPWDSAKKDENRMKNRYGNIIAYDHSRVRLQTIEGDTNSDYINGNYID
+GYHRPNHYIATQGPMQETIYDFWRMVWHENTASIIMVTNLVEVGRVKCCKYWPDDTEIYK
+DIKVTLIETELLAEYVIRTFAVEKRGVHEIREIRQFHFTGWPDHGVPYHATGLLGFVRQV
+KSKSPPSAGPLVVHCSAGAGRTGCFIVIDIMLDMAEREGVVDIYNCVRELRSRRVNMVQT
+EEQYVFIHDAILEACLCGDTSVPASQVRSLYYDMNKLDPQTNSSQIKEEFRTLNMVTPTL
+RVEDCSIALLPRNHEKNRCMDILPPDRCLPFLITIDGESSNYINAALMDSYKQPSAFIVT
+QHPLPNTVKDFWRLVLDYHCTSVVMLNDVDPAQLCPQYWPENGVHRHGPIQVEFVSADLE
+EDIISRIFRIYNAARPQDGYRMVQQFQFLGWPMYRDTPVSKRSFLKLIRQVDKWQEEYNG
+GEGRTVVHCLNGGGRSGTFCAISIVCEMLRHQRTVDVFHAVKTLRNNKPNMVDLLDQYKF
+CYEVALEYLNSG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>32456</genbank_protein_id>
+  <uniprot_id>P28827</uniprot_id>
+  <uniprot_name>PTPRM_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1RPM</pdb_id>
+    <pdb_id>2C9A</pdb_id>
+    <pdb_id>2V5Y</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X58288</genbank_gene_id>
+  <genecard_id>PTPRM</genecard_id>
+  <geneatlas_id>PTPRM</geneatlas_id>
+  <hgnc_id>HGNC:9675</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Gebbink MF, van Etten I, Hateboer G, Suijkerbuijk R, Beijersbergen RL, Geurts van Kessel A, Moolenaar WH: Cloning, expression and chromosomal localization of a new putative receptor-like protein tyrosine phosphatase. FEBS Lett. 1991 Sep 23;290(1-2):123-30.</reference_text>
+      <pubmed_id>1655529</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nusbaum C, Zody MC, Borowsky ML, Kamal M, Kodira CD, Taylor TD, Whittaker CA, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Yang X, Abouelleil A, Allen NR, Anderson S, Bloom T, Bugalter B, Butler J, Cook A, DeCaprio D, Engels R, Garber M, Gnirke A, Hafez N, Hall JL, Norman CH, Itoh T, Jaffe DB, Kuroki Y, Lehoczky J, Lui A, Macdonald P, Mauceli E, Mikkelsen TS, Naylor JW, Nicol R, Nguyen C, Noguchi H, O'Leary SB, O'Neill K, Piqani B, Smith CL, Talamas JA, Topham K, Totoki Y, Toyoda A, Wain HM, Young SK, Zeng Q, Zimmer AR, Fujiyama A, Hattori M, Birren BW, Sakaki Y, Lander ES: DNA sequence and analysis of human chromosome 18.  Nature. 2005 Sep 22;437(7058):551-5.</reference_text>
+      <pubmed_id>16177791</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoffmann KM, Tonks NK, Barford D: The crystal structure of domain 1 of receptor protein-tyrosine phosphatase mu. J Biol Chem. 1997 Oct 31;272(44):27505-8.</reference_text>
+      <pubmed_id>9346878</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aricescu AR, Hon WC, Siebold C, Lu W, van der Merwe PA, Jones EY: Molecular analysis of receptor protein tyrosine phosphatase mu-mediated cell adhesion. EMBO J. 2006 Feb 22;25(4):701-12. Epub 2006 Feb 2.</reference_text>
+      <pubmed_id>16456543</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

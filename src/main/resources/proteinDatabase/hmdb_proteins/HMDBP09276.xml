@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:21:23 -0700</creation_date>
+  <update_date>2013-01-15 20:21:23 -0700</update_date>
+  <accession>HMDBP09276</accession>
+  <secondary_accessions>
+    <accession>15104</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>AMF receptor, isoform 2</synonym>
+    <synonym>Autocrine motility factor receptor, isoform 2</synonym>
+    <synonym>RING finger protein 45</synonym>
+    <synonym>gp78</synonym>
+  </synonyms>
+  <gene_name>AMFR</gene_name>
+  <general_function>Involved in protein binding</general_function>
+  <specific_function>E3 ubiquitin-protein ligase which can target both itself and other proteins including CD3D and APOB for proteasomal degradation. Mediates polyubiquitination of CYP3A4. Specific receptor for the autocrine motility factor. Mediates tumor invasion and metastasis. Component of a complex required to couple deglycosylation and proteasome-mediated degradation of misfolded proteins in the endoplasmic reticulun that are retrotranslocated in the cytosol. Promotes ubiquitination of misfolded proteins such as mutant CFTR; proposed to mediate sequential ubiquitination by recognizing already ubiquitin-conjugated substrates and to cooperate with E3 ubiquitin-protein ligase RNF5</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16q21</locus>
+    <gene_sequence>&gt;1932 bp
+ATGCCGCTGCTCTTCCTCGAGCGCTTCCCCTGGCCCAGCCTCCGCACCTACACGGGCCTC
+AGCGGCCTGGCCCTGCTGGGCACCATCATCAGCGCCTACCGCGCGCTCAGCCAGCCCGAG
+GCCGGCCCCGGCGAGCCGGACCAGCTAACGGCCTCGCTGCAGCCTGAGCCGCCGGCGCCC
+GCCCGGCCGAGCGCCGGGGGACCCCGGGCCCGCGATGTGGCCCAGTACCTGCTCTCAGAC
+AGCCTCTTCGTGTGGGTTCTAGTAAATACCGCTTGCTGTGTTTTGATGTTGGTGGCTAAG
+CTCATCCAGTGTATTGTGTTTGGCCCTCTTCGAGTGAGTGAGAGACAGCATCTCAAAGAC
+AAATTTTGGAATTTTATTTTCTACAAGTTCATTTTCATCTTTGGTGTGCTGAATGTCCAG
+ACAGTGGAAGAGGTGGTCATGTGGTGCCTCTGGTTTGCCGGACTTGTCTTTCTGCACCTG
+ATGGTTCAGCTCTGCAAGGATCGATTTGAATATCTTTCCTTCTCGCCCACCACGCCGATG
+AGCAGCCACGGTCGAGTCCTGTCCCTGTTGGTTGCCATGCTGCTTTCCTGCTGTGGACTG
+GCGGCCGTCTGCTCCATCACCGGCTACACCCACGGAATGCACACCTTGGCTTTCATGGCT
+GCAGAGTCTCTTCTTGTGACAGTGAGGACTGCTCATGTGATTTTACGATACGTAATTCAC
+CTCTGGGACCTCAACCACGAAGGGACGTGGGAAGGAAAGGGGACGTATGTCTATTACACA
+GACTTTGTCATGGAGCTCACTCTCCTGTCCCTGGACCTCATGCACCATATTCACATGTTG
+TTATTTGGCAACATCTGGTTATCCATGGCCAGCCTGGTCATCTTTATGCAGCTGCGTTAC
+CTGTTTCATGAGGTGCAACGTCGAATTCGTCGGCACAAGAACTATCTACGTGTGGTTGGA
+AACATGGAGGCCAGGTTTGCAGTTGCAACTCCAGAGGAGCTGGCTGTCAACAATGACGAC
+TGTGCCATCTGTTGGGACTCCATGCAGGCTGCGCGGAAACTGCCCTGTGGACATCTTTTC
+CACAACTCCTGTCTTCGTTCCTGGCTAGAACAAGACACCTCCTGTCCAACATGCAGAATG
+TCTCTTAATATTGCCGACAATAATCGTGTCAGGGAAGAACATCAAGGAGAGAACTTGGAT
+GAGAATTTGGTTCCTGTAGCAGCAGCCGAAGGGAGACCTCGCTTAAACCAACACAATCAC
+TTCTTCCATTTCGATGGGTCTCGGATTGCGAGCTGGCTGCCGAGTTTTTCGGTTGAAGTG
+ATGCACACCACCAACATTCTTGGCATTACGCAGGCCAGCAACTCCCAGCTCAATGCAATG
+GCTCATCAGATTCAAGAGATGTTTCCCCAGGTTCCATACCATCTGGTACTGCAGGACCTC
+CAGCTGACACGCTCAGTTGAAATAACAACAGACAATATTTTAGAAGGACGGATTCAAGTA
+CCTTTTCCTACACAGCGGTCAGATAGCATCAGACCTGCATTGAACAGTCCTGTGGAAAGG
+CCAAGCAGTGACCAGGAAGAGGGAGAAACTTCTGCTCAGACCGAGCGTGTGCCACTGGAC
+CTCAGTCCTCGCCTGGAGGAGACGCTGGACTTCGGCGAGGTGGAAGTGGAGCCCAGTGAG
+GTGGAAGACTTCGAGGCTCGTGGGAGCCGCTTCTCCAAGTCTGCTGATGAGAGACAGCGC
+ATGCTGGTGCAGCGTAAGGACGAACTCCTCCAGCAAGCTCGCAAACGTTTCTTGAACAAA
+AGTTCTGAAGATGATGCGGCCTCAGAGAGCTTCCTCCCCTTGGAAGGTGCGTCCTCTGAC
+CCCGTGACCCTGCGTCGAAGGATGCTGGCTGCCGCCGCGGAACGGAGGCTTCAGAAGCAG
+CAGACCTCCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>643</residue_number>
+    <molecular_weight>72995.1</molecular_weight>
+    <theoretical_pi>6.36</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CUE</name>
+        <pfam_id>PF02845</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-C3HC4</name>
+        <pfam_id>PF00097</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>82-102</region>
+      <region>122-142</region>
+      <region>145-165</region>
+      <region>186-206</region>
+      <region>215-235</region>
+      <region>276-296</region>
+      <region>429-449</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;E3 ubiquitin-protein ligase AMFR
+MPLLFLERFPWPSLRTYTGLSGLALLGTIISAYRALSQPEAGPGEPDQLTASLQPEPPAP
+ARPSAGGPRARDVAQYLLSDSLFVWVLVNTACCVLMLVAKLIQCIVFGPLRVSERQHLKD
+KFWNFIFYKFIFIFGVLNVQTVEEVVMWCLWFAGLVFLHLMVQLCKDRFEYLSFSPTTPM
+SSHGRVLSLLVAMLLSCCGLAAVCSITGYTHGMHTLAFMAAESLLVTVRTAHVILRYVIH
+LWDLNHEGTWEGKGTYVYYTDFVMELTLLSLDLMHHIHMLLFGNIWLSMASLVIFMQLRY
+LFHEVQRRIRRHKNYLRVVGNMEARFAVATPEELAVNNDDCAICWDSMQAARKLPCGHLF
+HNSCLRSWLEQDTSCPTCRMSLNIADNNRVREEHQGENLDENLVPVAAAEGRPRLNQHNH
+FFHFDGSRIASWLPSFSVEVMHTTNILGITQASNSQLNAMAHQIQEMFPQVPYHLVLQDL
+QLTRSVEITTDNILEGRIQVPFPTQRSDSIRPALNSPVERPSSDQEEGETSAQTERVPLD
+LSPRLEETLDFGEVEVEPSEVEDFEARGSRFSKSADERQRMLVQRKDELLQQARKRFLNK
+SSEDDAASESFLPSEGASSDPVTLRRRMLAAAAERRLQKQQTS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>5931955</genbank_protein_id>
+  <uniprot_id>Q9UKV5</uniprot_id>
+  <uniprot_name>AMFR2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF124145</genbank_gene_id>
+  <genecard_id>AMFR</genecard_id>
+  <geneatlas_id>AMFR</geneatlas_id>
+  <hgnc_id>HGNC:463</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Shimizu K, Tani M, Watanabe H, Nagamachi Y, Niinaka Y, Shiroishi T, Ohwada S, Raz A, Yokota J: The autocrine motility factor receptor gene encodes a novel type of seven transmembrane protein. FEBS Lett. 1999 Aug 6;456(2):295-300.</reference_text>
+      <pubmed_id>10456327</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fang S, Ferrone M, Yang C, Jensen JP, Tiwari S, Weissman AM: The tumor autocrine motility factor receptor, gp78, is a ubiquitin protein ligase implicated in degradation from the endoplasmic reticulum. Proc Natl Acad Sci U S A. 2001 Dec 4;98(25):14422-7. Epub 2001 Nov 27.</reference_text>
+      <pubmed_id>11724934</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liang JS, Kim T, Fang S, Yamaguchi J, Weissman AM, Fisher EA, Ginsberg HN: Overexpression of the tumor autocrine motility factor receptor Gp78, a ubiquitin protein ligase, results in increased ubiquitinylation and decreased secretion of apolipoprotein B100 in HepG2 cells. J Biol Chem. 2003 Jun 27;278(26):23984-8. Epub 2003 Apr 1.</reference_text>
+      <pubmed_id>12670940</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ye Y, Shibata Y, Kikkert M, van Voorden S, Wiertz E, Rapoport TA: Inaugural Article: Recruitment of the p97 ATPase and ubiquitin ligases to the site of retrotranslocation at the endoplasmic reticulum membrane. Proc Natl Acad Sci U S A. 2005 Oct 4;102(40):14132-8. Epub 2005 Sep 26.</reference_text>
+      <pubmed_id>16186510</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pabarcus MK, Hoe N, Sadeghi S, Patterson C, Wiertz E, Correia MA: CYP3A4 ubiquitination by gp78 (the tumor autocrine motility factor receptor, AMFR) and CHIP E3 ligases. Arch Biochem Biophys. 2009 Mar 1;483(1):66-74. Epub 2008 Dec 10.</reference_text>
+      <pubmed_id>19103148</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

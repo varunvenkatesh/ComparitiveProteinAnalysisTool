@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:37 -0700</creation_date>
+  <update_date>2013-05-27 11:22:39 -0600</update_date>
+  <accession>HMDBP00762</accession>
+  <secondary_accessions>
+    <accession>6037</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>PFK-A</synonym>
+    <synonym>Phosphofructo-1-kinase isozyme A</synonym>
+    <synonym>Phosphofructokinase 1</synonym>
+    <synonym>Phosphofructokinase-M</synonym>
+    <synonym>Phosphohexokinase</synonym>
+  </synonyms>
+  <gene_name>PFKM</gene_name>
+  <general_function>Involved in 6-phosphofructokinase activity</general_function>
+  <specific_function>Catalyzes the third step of glycolysis, the phosphorylation of fructose-6-phosphate (F6P) by ATP to generate fructose-1,6-bisphosphate (FBP) and ADP.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>glycolysis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycolysis / Gluconeogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pentose phosphate pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map00030</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Fructose and mannose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00051</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Galactose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00052</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00124</accession>
+      <name>Fructose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01058</accession>
+      <name>Fructose 1,6-bisphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00082</accession>
+      <name>Cytidine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00189</accession>
+      <name>Inosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00263</accession>
+      <name>Phosphoenolpyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00285</accession>
+      <name>Uridine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01546</accession>
+      <name>CDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03335</accession>
+      <name>IDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03971</accession>
+      <name>Beta-D-Fructose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06872</accession>
+      <name>D-Tagatose 1,6-bisphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06873</accession>
+      <name>D-Tagatose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60444</accession>
+      <name>beta-D-Fructose 1,6-bisphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphofructokinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>6-phosphofructokinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycolysis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>6-phosphofructokinase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>6-phosphofructokinase complex</description>
+      <go_id>GO:0005945</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>apical plasma membrane</description>
+      <go_id>GO:0016324</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>6-phosphofructokinase activity</description>
+      <go_id>GO:0003872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>AMP binding</description>
+      <go_id>GO:0016208</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>fructose binding</description>
+      <go_id>GO:0070061</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>fructose-6-phosphate binding</description>
+      <go_id>GO:0070095</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fructose 1,6-bisphosphate metabolic process</description>
+      <go_id>GO:0030388</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fructose 6-phosphate metabolic process</description>
+      <go_id>GO:0006002</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose homeostasis</description>
+      <go_id>GO:0042593</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolysis</description>
+      <go_id>GO:0006096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>muscle cell homeostasis</description>
+      <go_id>GO:0046716</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of insulin secretion</description>
+      <go_id>GO:0032024</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotetramerization</description>
+      <go_id>GO:0051289</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein oligomerization</description>
+      <go_id>GO:0051259</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q13.3</locus>
+    <gene_sequence>&gt;2343 bp
+ATGACCCATGAAGAGCACCATGCAGCCAAAACCCTGGGGATTGGCAAAGCCATTGCTGTC
+TTAACCTCTGGTGGAGATGCCCAAGGTATGAATGCTGCTGTCAGGGCTGTGGTTCGAGTT
+GGTATCTTCACCGGTGCCCGTGTCTTCTTTGTCCATGAGGGTTATCAAGGCCTGGTGGAT
+GGTGGAGATCACATCAAGGAAGCCACCTGGGAGAGCGTTTCGATGATGCTTCAGCTGGGA
+GGCACGGTGATTGGAAGTGCCCGGTGCAAGGACTTTCGGGAACGAGAAGGACGACTCCGA
+GCTGCCTACAACCTGGTGAAGCGTGGGATCACCAATCTCTGTGTCATTGGGGGTGATGGC
+AGCCTCACTGGGGCTGACACCTTCCGTTCTGAGTGGAGTGACTTGTTGAGTGACCTCCAG
+AAAGCAGGTAAGATCACAGATGAGGAGGCTACGAAGTCCAGCTACCTGAACATTGTGGGC
+CTGGTTGGGTCAATTGACAATGACTTCTGTGGCACCGATATGACCATTGGCACTGACTCT
+GCCCTGCATCGGATCATGGAAATTGTAGATGCCATCACTACCACTGCCCAGAGCCACCAG
+AGGACATTTGTGTTAGAAGTAATGGGCCGCCACTGTGGATACCTGGCCCTTGTCACCTCT
+CTGTCCTGTGGGGCCGACTGGGTTTTTATTCCTGAATGTCCACCAGATGACGACTGGGAG
+GAACACCTTTGTCGCCGACTCAGCGAGACAAGGACCCGTGGTTCTCGTCTCAACATCATC
+ATTGTGGCTGAGGGTGCAATTGACAAGAATGGAAAACCAATCACCTCAGAAGACATCAAG
+AATCTGGTGGTTAAGCGTCTGGGATATGACACCCGGGTTACTGTCTTGGGGCATGTGCAG
+AGGGGTGGGACGCCATCAGCCTTTGACAGAATTCTGGGCAGCAGGATGGGTGTGGAAGCA
+GTGATGGCACTTTTGGAGGGGACCCCAGATACCCCAGCCTGTGTAGTGAGCCTCTCTGGT
+AACCAGGCTGTGCGCCTGCCCCTCATGGAATGTGTCCAGGTGACCAAAGATGTGACCAAG
+GCCATGGATGAGAAGAAATTTGACGAAGCCCTGAAGCTGAGAGGCCGGAGCTTCATGAAC
+AACTGGGAGGTGTACAAGCTTCTAGCTCATGTCAGACCCCCGGTATCTAAGAGTGGTTCG
+CACACAGTGGCTGTGATGAACGTGGGGGCTCCGGCTGCAGGCATGAATGCTGCTGTTCGC
+TCCACTGTGAGGATTGGCCTTATCCAGGGCAACCGAGTGCTCGTTGTCCATGATGGTTTC
+GAGGGCCTGGCCAAGGGGCAGATAGAGGAAGCTGGCTGGAGCTATGTTGGGGGCTGGACT
+GGCCAAGGTGGCTCTAAACTTGGGACTAAAAGGACTCTACCCAAGAAGAGCTTTGAACAG
+ATCAGTGCCAATATAACTAAGTTTAACATTCAGGGCCTTGTCATCATTGGGGGCTTTGAG
+GCTTACACAGGGGGCCTGGAACTGATGGAGGGCAGGAAGCAGTTTGATGAGCTCTGCATC
+CCATTTGTGGTCATTCCTGCTACAGTCTCCAACAATGTCCCTGGCTCAGACTTCAGCGTT
+GGGGCTGACACAGCACTCAATACTATCTGCACAACCTGTGACCGCATCAAGCAGTCAGCA
+GCTGGCACCAAGCGTCGGGTGTTTATCATTGAGACTATGGGTGGCTACTGTGGCTACCTG
+GCTACCATGGCTGGACTGGCAGCTGGGGCCGATGCTGCCTACATTTTTGAGGAGCCCTTC
+ACCATTCGAGACCTGCAGGCAAATGTTGAACATCTGGTGCAAAAGATGAAAACAACTGTG
+AAAAGGGGCTTGGTGTTAAGGAATGAAAAGTGCAATGAGAACTATACCACTGACTTCATT
+TTCAACCTGTACTCTGAGGAGGGGAAGGGCATCTTCGACAGCAGGAAGAATGTGCTTGGT
+CACATGCAGCAGGGTGGGAGCCCAACCCCATTTGATAGGAATTTTGCCACTAAGATGGGC
+GCCAAGGCTATGAACTGGATGTCTGGGAAAATCAAAGAGAGTTACCGTAATGGGCGGATC
+TTTGCCAATACTCCAGATTCGGGCTGTGTTCTGGGGATGCGTAAGAGGGCTCTGGTCTTC
+CAACCAGTGGCTGAGCTGAAGGACCAGACAGATTTTGAGCATCGAATCCCCAAGGAACAG
+TGGTGGCTGAAACTGAGGCCCATCCTCAAAATCCTAGCCAAGTACGAGATTGACTTGGAC
+ACTTCAGACCATGCCCACCTGGAGCACATCACCCGGAAGCGGTCCGGGGAAGCTGCCGTC
+TAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>780</residue_number>
+    <molecular_weight>85181.925</molecular_weight>
+    <theoretical_pi>7.99</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PFK</name>
+        <pfam_id>PF00365</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;6-phosphofructokinase, muscle type
+MTHEEHHAAKTLGIGKAIAVLTSGGDAQGMNAAVRAVVRVGIFTGARVFFVHEGYQGLVD
+GGDHIKEATWESVSMMLQLGGTVIGSARCKDFREREGRLRAAYNLVKRGITNLCVIGGDG
+SLTGADTFRSEWSDLLSDLQKAGKITDEEATKSSYLNIVGLVGSIDNDFCGTDMTIGTDS
+ALHRIMEIVDAITTTAQSHQRTFVLEVMGRHCGYLALVTSLSCGADWVFIPECPPDDDWE
+EHLCRRLSETRTRGSRLNIIIVAEGAIDKNGKPITSEDIKNLVVKRLGYDTRVTVLGHVQ
+RGGTPSAFDRILGSRMGVEAVMALLEGTPDTPACVVSLSGNQAVRLPLMECVQVTKDVTK
+AMDEKKFDEALKLRGRSFMNNWEVYKLLAHVRPPVSKSGSHTVAVMNVGAPAAGMNAAVR
+STVRIGLIQGNRVLVVHDGFEGLAKGQIEEAGWSYVGGWTGQGGSKLGTKRTLPKKSFEQ
+ISANITKFNIQGLVIIGGFEAYTGGLELMEGRKQFDELCIPFVVIPATVSNNVPGSDFSV
+GADTALNTICTTCDRIKQSAAGTKRRVFIIETMGGYCGYLATMAGLAAGADAAYIFEEPF
+TIRDLQANVEHLVQKMKTTVKRGLVLRNEKCNENYTTDFIFNLYSEEGKGIFDSRKNVLG
+HMQQGGSPTPFDRNFATKMGAKAMNWMSGKIKESYRNGRIFANTPDSGCVLGMRKRALVF
+QPVAELKDQTDFEHRIPKEQWWLKLRPILKILAKYEIDLDTSDHAHLEHITRKRSGEAAV
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>189855</genbank_protein_id>
+  <uniprot_id>P08237</uniprot_id>
+  <uniprot_name>K6PF_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M26066</genbank_gene_id>
+  <genecard_id>PFKM</genecard_id>
+  <geneatlas_id>PFKM</geneatlas_id>
+  <hgnc_id>HGNC:8877</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yamasaki T, Nakajima H, Kono N, Hotta K, Yamada K, Imai E, Kuwajima M, Noguchi T, Tanaka T, Tarui S: Structure of the entire human muscle phosphofructokinase-encoding gene: a two-promoter system. Gene. 1991 Aug 15;104(2):277-82.</reference_text>
+      <pubmed_id>1833270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sharma PM, Reddy GR, Vora S, Babior BM, McLachlan A: Cloning and expression of a human muscle phosphofructokinase cDNA.  Gene. 1989 Apr 15;77(1):177-83.</reference_text>
+      <pubmed_id>2526045</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakajima H, Noguchi T, Yamasaki T, Kono N, Tanaka T, Tarui S: Cloning of human muscle phosphofructokinase cDNA.  FEBS Lett. 1987 Oct 19;223(1):113-6.</reference_text>
+      <pubmed_id>2822475</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sharma PM, Reddy GR, Babior BM, McLachlan A: Alternative splicing of the transcript encoding the human muscle isoenzyme of phosphofructokinase. J Biol Chem. 1990 Jun 5;265(16):9006-10.</reference_text>
+      <pubmed_id>2140567</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Valdez BC, Chen Z, Sosa MG, Younathan ES, Chang SH: Human 6-phosphofructo-1-kinase gene has an additional intron upstream of start codon. Gene. 1989 Mar 15;76(1):167-9.</reference_text>
+      <pubmed_id>2526044</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Raben N, Sherman JB: Mutations in muscle phosphofructokinase gene.  Hum Mutat. 1995;6(1):1-6.</reference_text>
+      <pubmed_id>7550225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsujino S, Servidei S, Tonin P, Shanske S, Azan G, DiMauro S: Identification of three novel mutations in non-Ashkenazi Italian patients with muscle phosphofructokinase deficiency. Am J Hum Genet. 1994 May;54(5):812-9.</reference_text>
+      <pubmed_id>7513946</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Raben N, Exelbert R, Spiegel R, Sherman JB, Nakajima H, Plotz P, Heinisch J: Functional expression of human mutant phosphofructokinase in yeast: genetic defects in French Canadian and Swiss patients with phosphofructokinase deficiency. Am J Hum Genet. 1995 Jan;56(1):131-41.</reference_text>
+      <pubmed_id>7825568</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hamaguchi T, Nakajima H, Noguchi T, Nakagawa C, Kuwajima M, Kono N, Tarui S, Matsuzawa Y: Novel missense mutation (W686C) of the phosphofructokinase-M gene in a Japanese patient with a mild form of glycogenosis VII. Hum Mutat. 1996;8(3):273-5.</reference_text>
+      <pubmed_id>8889589</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

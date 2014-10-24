@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:47 -0700</creation_date>
+  <update_date>2013-05-27 11:15:20 -0600</update_date>
+  <accession>HMDBP00328</accession>
+  <secondary_accessions>
+    <accession>5564</accession>
+    <accession>HMDBP04941</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>G6PD</synonym>
+  </synonyms>
+  <gene_name>G6PD</gene_name>
+  <general_function>Involved in glucose-6-phosphate dehydrogenase activity</general_function>
+  <specific_function>Produces pentose sugars for nucleic acid synthesis and main producer of NADPH reducing power.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Pentose Phosphate Pathway</name>
+      <smpdb_id>SMP00031</smpdb_id>
+      <kegg_map_id>map00030</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pentose phosphate pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map00030</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glutathione metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03498</accession>
+      <name>Beta-D-Glucose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00150</accession>
+      <name>Gluconolactone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00228</accession>
+      <name>Phenol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01127</accession>
+      <name>6-Phosphonoglucono-D-lactone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01401</accession>
+      <name>Glucose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00115</accession>
+      <name>Glycolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nadp or nadph binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on ch-oh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-oh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glucose-6-phosphate dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>centrosome</description>
+      <go_id>GO:0005813</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>internal side of plasma membrane</description>
+      <go_id>GO:0009898</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id>GO:0043231</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glucose binding</description>
+      <go_id>GO:0005536</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glucose-6-phosphate dehydrogenase activity</description>
+      <go_id>GO:0004345</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADP binding</description>
+      <go_id>GO:0050661</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to oxidative stress</description>
+      <go_id>GO:0034599</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cytokine production</description>
+      <go_id>GO:0001816</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>erythrocyte maturation</description>
+      <go_id>GO:0043249</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose 6-phosphate metabolic process</description>
+      <go_id>GO:0051156</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutathione metabolic process</description>
+      <go_id>GO:0006749</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of protein glutathionylation</description>
+      <go_id>GO:0010734</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pentose biosynthetic process</description>
+      <go_id>GO:0019322</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pentose-phosphate shunt, oxidative branch</description>
+      <go_id>GO:0009051</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ribose phosphate biosynthetic process</description>
+      <go_id>GO:0046390</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq28</locus>
+    <gene_sequence>&gt;1548 bp
+ATGGCAGAGCAGGTGGCCCTGAGCCGGACCCACGTGTGCGGGATCCTGCGGGAAGAGCTT
+TTCCAGGGCGATGCCTTCCATCAGTCGGATACACACATATTCATCATCATGGGTGCATCG
+GGTGACCTGGCCAAGAAGAAGATCTACCCCACCATCTGGTGGCTGTTCCGGGATGGCCTT
+CTGCCCGAAAACACCTTCATCGTGGGCTATGCCCGTTCCCGCCTCACAGTGGCTGACATC
+CGCAAACAGAGTGAGCCCTTCTTCAAGGCCACCCCAGAGGAGAAGCTCAAGCTGGAGGAC
+TTCTTTGCCCGCAACTCCTATGTGGCTGGCCAGTACGATGATGCAGCCTCCTACCAGCGC
+CTCAACAGCCACATGAATGCCCTCCACCTGGGGTCACAGGCCAACCGCCTCTTCTACCTG
+GCCTTGCCCCCGACCGTCTACGAGGCCGTCACCAAGAACATTCACGAGTCCTGCATGAGC
+CAGATAGGCTGGAACCGCATCATCGTGGAGAAGCCCTTCGGGAGGGACCTGCAGAGCTCT
+GACCGGCTGTCCAACCACATCTCCTCCCTGTTCCGTGAGGACCAGATCTACCGCATCGAC
+CACTACCTGGGCAAGGAGATGGTGCAGAACCTCATGGTGCTGAGATTTGCCAACAGGATC
+TTCGGCCCCATCTGGAACCGGGACAACATCGCCTGCGTTATCCTCACCTTCAAGGAGCCC
+TTTGGCACTGAGGGTCGCGGGGGCTATTTCGATGAATTTGGGATCATCCGGGACGTGATG
+CAGAACCACCTACTGCAGATGCTGTGTCTGGTGGCCATGGAGAAGCCCGCCTCCACCAAC
+TCAGATGACGTCCGTGATGAGAAGGTCAAGGTGTTGAAATGCATCTCAGAGGTGCAGGCC
+AACAATGTGGTCCTGGGCCAGTACGTGGGGAACCCCGATGGAGAGGGCGAGGCCACCAAA
+GGGTACCTGGACGACCCCACGGTGCCCCGCGGGTCCACCACCGCCACTTTTGCAGCCGTC
+GTCCTCTATGTGGAGAATGAGAGGTGGGATGGGGTGCCCTTCATCCTGCGCTGCGGCAAG
+GCCCTGAACGAGCGCAAGGCCGAGGTGAGGCTGCAGTTCCATGATGTGGCCGGCGACATC
+TTCCACCAGCAGTGCAAGCGCAACGAGCTGGTGATCCGCGTGCAGCCCAACGAGGCCGTG
+TACACCAAGATGATGACCAAGAAGCCGGGCATGTTCTTCAACCCCGAGGAGTCGGAGCTG
+GACCTGACCTACGGCAACAGATACAAGAACGTGAAGCTCCCTGACGCCTACGAGCGCCTC
+ATCCTGGACGTCTTCTGCGGGAGCCAGATGCACTTCGTGCGCAGCGACGAGCTCCGTGAG
+GCCTGGCGTATTTTCACCCCACTGCTGCACCAGATTGAGCTGGAGAAGCCCAAGCCCATC
+CCCTATATTTATGGCAGCCGAGGCCCCACGGAGGCAGACGAGCTGATGAAGAGAGTGGGT
+TTCCAGTATGAGGGCACCTACAAGTGGGTGAACCCCCACAAGCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>515</residue_number>
+    <molecular_weight>62467.88</molecular_weight>
+    <theoretical_pi>8.039</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>G6PD_C</name>
+        <pfam_id>PF02781</pfam_id>
+      </pfam>
+      <pfam>
+        <name>G6PD_N</name>
+        <pfam_id>PF00479</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glucose-6-phosphate 1-dehydrogenase
+MAEQVALSRTQVCGILREELFQGDAFHQSDTHIFIIMGASGDLAKKKIYPTIWWLFRDGL
+LPENTFIVGYARSRLTVADIRKQSEPFFKATPEEKLKLEDFFARNSYVAGQYDDAASYQR
+LNSHMNALHLGSQANRLFYLALPPTVYEAVTKNIHESCMSQIGWNRIIVEKPFGRDLQSS
+DRLSNHISSLFREDQIYRIDHYLGKEMVQNLMVLRFANRIFGPIWNRDNIACVILTFKEP
+FGTEGRGGYFDEFGIIRDVMQNHLLQMLCLVAMEKPASTNSDDVRDEKVKVLKCISEVQA
+NNVVLGQYVGNPDGEGEATKGYLDDPTVPRGSTTATFAAVVLYVENERWDGVPFILRCGK
+ALNERKAEVRLQFHDVAGDIFHQQCKRNELVIRVQPNEAVYTKMMTKKPGMFFNPEESEL
+DLTYGNRYKNVKLPDAYERLILDVFCGSQMHFVRSDELREAWRIFTPLLHQIELEKPKPI
+PYIYGSRGPTEADELMKRVGFQYEGTYKWVNPHKL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>31543</genbank_protein_id>
+  <uniprot_id>P11413</uniprot_id>
+  <uniprot_name>G6PD_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1QKI</pdb_id>
+    <pdb_id>2BH9</pdb_id>
+    <pdb_id>2BHL</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X03674</genbank_gene_id>
+  <genecard_id>G6PD</genecard_id>
+  <geneatlas_id>G6PD</geneatlas_id>
+  <hgnc_id>HGNC:4057</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Persico MG, Viglietto G, Martini G, Toniolo D, Paonessa G, Moscatelli C, Dono R, Vulliamy T, Luzzatto L, D'Urso M: Isolation of human glucose-6-phosphate dehydrogenase (G6PD) cDNA clones: primary structure of the protein and unusual 5' non-coding region. Nucleic Acids Res. 1986 Mar 25;14(6):2511-22.</reference_text>
+      <pubmed_id>3515319</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martini G, Toniolo D, Vulliamy T, Luzzatto L, Dono R, Viglietto G, Paonessa G, D'Urso M, Persico MG: Structural analysis of the X-linked gene encoding human glucose 6-phosphate dehydrogenase. EMBO J. 1986 Aug;5(8):1849-55.</reference_text>
+      <pubmed_id>2428611</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hirono A, Beutler E: Molecular cloning and nucleotide sequence of cDNA for human glucose-6-phosphate dehydrogenase variant A(-). Proc Natl Acad Sci U S A. 1988 Jun;85(11):3951-4.</reference_text>
+      <pubmed_id>2836867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen EY, Cheng A, Lee A, Kuang WJ, Hillier L, Green P, Schlessinger D, Ciccodicola A, D'Urso M: Sequence of human glucose-6-phosphate dehydrogenase cloned in plasmids and a yeast artificial chromosome. Genomics. 1991 Jul;10(3):792-800.</reference_text>
+      <pubmed_id>1889820</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen EY, Zollo M, Mazzarella R, Ciccodicola A, Chen CN, Zuo L, Heiner C, Burough F, Repetto M, Schlessinger D, D'Urso M: Long-range sequence analysis in Xq28: thirteen known and six candidate genes in 219.4 kb of high GC DNA between the RCP/GCP and G6PD loci. Hum Mol Genet. 1996 May;5(5):659-68.</reference_text>
+      <pubmed_id>8733135</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kanno H, Huang IY, Kan YW, Yoshida A: Two structural genes on different chromosomes are required for encoding the major subunit of human red cell glucose-6-phosphate dehydrogenase. Cell. 1989 Aug 11;58(3):595-606.</reference_text>
+      <pubmed_id>2758468</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kanno H, Kondoh T, Yoshida A: 5' structure and expression of human glucose-6-phosphate dehydrogenase mRNA. DNA Cell Biol. 1993 Apr;12(3):209-15.</reference_text>
+      <pubmed_id>8466644</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Toniolo D, Filippi M, Dono R, Lettieri T, Martini G: The CpG island in the 5' region of the G6PD gene of man and mouse.  Gene. 1991 Jun 30;102(2):197-203.</reference_text>
+      <pubmed_id>1874446</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chao LT, Du CS, Louie E, Zuo L, Chen E, Lubin B, Chiu DT: A to G substitution identified in exon 2 of the G6PD gene among G6PD deficient Chinese. Nucleic Acids Res. 1991 Nov 11;19(21):6056.</reference_text>
+      <pubmed_id>1945893</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saunders MA, Hammer MF, Nachman MW: Nucleotide variability at G6pd and the signature of malarial selection in humans. Genetics. 2002 Dec;162(4):1849-61.</reference_text>
+      <pubmed_id>12524354</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takizawa T, Huang IY, Ikuta T, Yoshida A: Human glucose-6-phosphate dehydrogenase: primary structure and cDNA cloning. Proc Natl Acad Sci U S A. 1986 Jun;83(12):4157-61.</reference_text>
+      <pubmed_id>3012556</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Camardella L, Caruso C, Rutigliano B, Romano M, Di Prisco G, Descalzi-Cancedda F: Human erythrocyte glucose-6-phosphate dehydrogenase. Identification of a reactive lysyl residue labelled with pyridoxal 5'-phosphate. Eur J Biochem. 1988 Feb 1;171(3):485-9.</reference_text>
+      <pubmed_id>3126064</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Descalzi-Cancedda F, Caruso C, Romano M, di Prisco G, Camardella L: Amino acid sequence of the carboxy-terminal end of human erythrocyte glucose-6-phosphate dehydrogenase. Biochem Biophys Res Commun. 1984 Jan 13;118(1):332-8.</reference_text>
+      <pubmed_id>6696761</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hirono A, Beutler E: Alternative splicing of human glucose-6-phosphate dehydrogenase messenger RNA in different tissues. J Clin Invest. 1989 Jan;83(1):343-6.</reference_text>
+      <pubmed_id>2910917</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Camardella L, Damonte G, Carratore V, Benatti U, Tonetti M, Moneti G: Glucose 6-phosphate dehydrogenase from human erythrocytes: identification of N-acetyl-alanine at the N-terminus of the mature protein. Biochem Biophys Res Commun. 1995 Feb 6;207(1):331-8.</reference_text>
+      <pubmed_id>7857286</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Y, Wolf-Yadlin A, Ross PL, Pappin DJ, Rush J, Lauffenburger DA, White FM: Time-resolved mass spectrometry of tyrosine phosphorylation sites in the epidermal growth factor receptor signaling network reveals dynamic modules. Mol Cell Proteomics. 2005 Sep;4(9):1240-50. Epub 2005 Jun 11.</reference_text>
+      <pubmed_id>15951569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heibeck TH, Ding SJ, Opresko LK, Zhao R, Schepmoes AA, Yang F, Tolmachev AV, Monroe ME, Camp DG 2nd, Smith RD, Wiley HS, Qian WJ: An extensive survey of tyrosine phosphorylation revealing new sites in human mammary epithelial cells. J Proteome Res. 2009 Aug;8(8):3852-61.</reference_text>
+      <pubmed_id>19534553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Au SW, Gover S, Lam VM, Adams MJ: Human glucose-6-phosphate dehydrogenase: the crystal structure reveals a structural NADP(+) molecule and provides insights into enzyme deficiency. Structure. 2000 Mar 15;8(3):293-303.</reference_text>
+      <pubmed_id>10745013</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vulliamy T, Beutler E, Luzzatto L: Variants of glucose-6-phosphate dehydrogenase are due to missense mutations spread throughout the coding region of the gene. Hum Mutat. 1993;2(3):159-67.</reference_text>
+      <pubmed_id>8364584</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kwok CJ, Martin AC, Au SW, Lam VM: G6PDdb, an integrated database of glucose-6-phosphate dehydrogenase (G6PD) mutations. Hum Mutat. 2002 Mar;19(3):217-24.</reference_text>
+      <pubmed_id>11857737</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takizawa T, Yoneyama Y, Miwa S, Yoshida A: A single nucleotide base transition is the basis of the common human glucose-6-phosphate dehydrogenase variant A (+). Genomics. 1987 Nov;1(3):228-31.</reference_text>
+      <pubmed_id>3446582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vulliamy TJ, D'Urso M, Battistuzzi G, Estrada M, Foulkes NS, Martini G, Calabro V, Poggi V, Giordano R, Town M, et al.: Diverse point mutations in the human glucose-6-phosphate dehydrogenase gene cause enzyme deficiency and mild or severe hemolytic anemia. Proc Natl Acad Sci U S A. 1988 Jul;85(14):5171-5.</reference_text>
+      <pubmed_id>3393536</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Vita G, Alcalay M, Sampietro M, Cappelini MD, Fiorelli G, Toniolo D: Two point mutations are responsible for G6PD polymorphism in Sardinia.  Am J Hum Genet. 1989 Feb;44(2):233-40.</reference_text>
+      <pubmed_id>2912069</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beutler E, Westwood B, Prchal JT, Vaca G, Bartsocas CS, Baronciani L: New glucose-6-phosphate dehydrogenase mutations from various ethnic groups. Blood. 1992 Jul 1;80(1):255-6.</reference_text>
+      <pubmed_id>1611091</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Filosa S, Calabro V, Vallone D, Poggi V, Mason P, Pagnini D, Alfinito F, Rotoli B, Martini G, Luzzatto L, et al.: Molecular basis of chronic non-spherocytic haemolytic anaemia: a new G6PD variant (393 Arg----His) with abnormal KmG6P and marked in vivo instability. Br J Haematol. 1992 Jan;80(1):111-6.</reference_text>
+      <pubmed_id>1536798</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perng LI, Chiou SS, Liu TC, Chang JG: A novel C to T substitution at nucleotide 1360 of cDNA which abolishes a natural Hha I site accounts for a new G6PD deficiency gene in Chinese. Hum Mol Genet. 1992 Jun;1(3):205.</reference_text>
+      <pubmed_id>1303180</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ahluwalia A, Corcoran CM, Vulliamy TJ, Ishwad CS, Naidu JM, Argusti A, Stevens DJ, Mason PJ, Luzzatto L: G6PD Kalyan and G6PD Kerala; two deficient variants in India caused by the same 317 Glu--&amp;gt;Lys mutation. Hum Mol Genet. 1992 Jun;1(3):209-10.</reference_text>
+      <pubmed_id>1303182</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nafa K, Reghis A, Osmani N, Baghli L, Benabadji M, Kaplan JC, Vulliamy TJ, Luzzatto L: G6PD Aures: a new mutation (48 Ile--&amp;gt;Thr) causing mild G6PD deficiency is associated with favism. Hum Mol Genet. 1993 Jan;2(1):81-2.</reference_text>
+      <pubmed_id>8490627</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hirono A, Miwa S, Fujii H, Ishida F, Yamada K, Kubota K: Molecular study of eight Japanese cases of glucose-6-phosphate dehydrogenase deficiency by nonradioisotopic single-strand conformation polymorphism analysis. Blood. 1994 Jun 1;83(11):3363-8.</reference_text>
+      <pubmed_id>8193373</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Filosa S, Cai W, Galanello R, Cao A, de Mattia D, Schettini F, Martini G: A novel single-base mutation in the glucose 6-phosphate dehydrogenase gene is associated with chronic non-spherocytic haemolytic anaemia. Hum Genet. 1994 Nov;94(5):560-2.</reference_text>
+      <pubmed_id>7959695</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ganczakowski M, Town M, Bowden DK, Vulliamy TJ, Kaneko A, Clegg JB, Weatherall DJ, Luzzatto L: Multiple glucose 6-phosphate dehydrogenase-deficient variants correlate with malaria endemicity in the Vanuatu archipelago (southwestern Pacific). Am J Hum Genet. 1995 Jan;56(1):294-301.</reference_text>
+      <pubmed_id>7825590</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaeda JS, Chhotray GP, Ranjit MR, Bautista JM, Reddy PH, Stevens D, Naidu JM, Britt RP, Vulliamy TJ, Luzzatto L, et al.: A new glucose-6-phosphate dehydrogenase variant, G6PD Orissa (44 Ala--&amp;gt;Gly), is the major polymorphic variant in tribal populations in India. Am J Hum Genet. 1995 Dec;57(6):1335-41.</reference_text>
+      <pubmed_id>8533762</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mason PJ, Sonati MF, MacDonald D, Lanza C, Busutil D, Town M, Corcoran CM, Kaeda JS, Stevens DJ, al-Ismail S, et al.: New glucose-6-phosphate dehydrogenase mutations associated with chronic anemia. Blood. 1995 Mar 1;85(5):1377-80.</reference_text>
+      <pubmed_id>7858267</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vlachos A, Westwood B, Lipton JM, Beutler E: G6PD Mount Sinai: a new severe hemolytic variant characterized by dual mutations at nucleotides 376G and 1159T (N126D). Hum Mutat. 1998;Suppl 1:S154-5.</reference_text>
+      <pubmed_id>9452072</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Galanello R, Loi D, Sollaino C, Dessi S, Cao A, Melis MA: A new glucose 6 phosphate dehydrogenase variant G6PD Sinnai (34 G--&amp;gt;T). Mutations in brief no. 156. Online. Hum Mutat. 1998;12(1):72-3.</reference_text>
+      <pubmed_id>10627140</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Iancovici-Kidon M, Sthoeger D, Abrahamov A, Wolach B, Beutler E, Gelbart T, Barak Y: A new exon 9 glucose-6-phosphate dehydrogenase mutation (G6PD &amp;quot;Rehovot&amp;quot;) in a Jewish Ethiopian family with variable phenotypes. Blood Cells Mol Dis. 2000 Dec;26(6):567-71.</reference_text>
+      <pubmed_id>11112389</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Louicharoen C, Patin E, Paul R, Nuchprayoon I, Witoonpanich B, Peerapittayamongkol C, Casademont I, Sura T, Laird NM, Singhasivanon P, Quintana-Murci L, Sakuntabhai A: Positively selected G6PD-Mahidol mutation reduces Plasmodium vivax density in Southeast Asians. Science. 2009 Dec 11;326(5959):1546-9.</reference_text>
+      <pubmed_id>20007901</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycolic acid</name>
+        <accession>HMDB00115</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycolic acid</name>
+        <accession>HMDB00115</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

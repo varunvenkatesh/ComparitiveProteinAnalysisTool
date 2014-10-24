@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:21:57 -0700</creation_date>
+  <update_date>2013-01-15 20:21:57 -0700</update_date>
+  <accession>HMDBP09317</accession>
+  <secondary_accessions>
+    <accession>15151</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Synovial apoptosis inhibitor 1</synonym>
+  </synonyms>
+  <gene_name>SYVN1</gene_name>
+  <general_function>Involved in protein binding</general_function>
+  <specific_function>Acts as an E3 ubiquitin-protein ligase which accepts ubiquitin specifically from endoplasmic reticulum-associated UBC7 E2 ligase and transfers it to substrates, promoting their degradation. Component of the endoplasmic reticulum quality control (ERQC) system also called ER-associated degradation (ERAD) involved in ubiquitin-dependent degradation of misfolded endoplasmic reticulum proteins. Also promotes the degradation of normal but naturally short-lived proteins such as SGK. Protects cells from ER stress-induced apoptosis. Protects neurons from apoptosis induced by polyglutamine-expanded huntingtin (HTT) or unfolded GPR37 by promoting their degradation. Sequesters TP53 in the cytoplasm and promotes its degradation, thereby negatively regulating its biological function in transcription, cell cycle regulation and apoptosis</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q13</locus>
+    <gene_sequence>&gt;1854 bp
+ATGTTCCGCACGGCAGTGATGATGGCGGCCAGCCTGGCGCTGACCGGGGCTGTGGTGGCT
+CACGCCTACTACCTCAAACACCAGTTCTACCCCACTGTGGTGTACCTGACCAAGTCCAGC
+CCCAGCATGGCAGTCCTGTACATCCAGGCCTTTGTCCTTGTCTTCCTTCTGGGCAAGGTG
+ATGGGCAAGGTGTTCTTTGGGCAACTGAGGGCAGCAGAGATGGAGCACCTTCTGGAACGT
+TCCTGGTACGCCGTCACAGAGACTTGTCTGGCCTTCACCGTTTTTCGGGATGACTTCAGC
+CCCCGCTTTGTTGCACTCTTCACTCTTCTTCTCTTCCTCAAATGTTTCCACTGGCTGGCT
+GAGGACCGTGTGGACTTTATGGAACGCAGCCCCAACATCTCCTGGCTCTTTCACTGCCGC
+ATTGTCTCTCTTATGTTCCTCCTGGGCATCCTGGACTTCCTCTTCGTCAGCCACGCCTAT
+CACAGCATCCTGACCCGTGGGGCCTCTGTGCAGCTGGTGTTTGGCTTTGAGTATGCCATC
+CTGATGACGATGGTGCTCACCATCTTCATCAAGTATGTGCTGCACTCCGTGGACCTCCAG
+AGTGAGAACCCCTGGGACAACAAGGCTGTGTACATGCTCTACACAGAGCTGTTTACAGGC
+TTCATCAAGGTTCTGCTGTACATGGCCTTCATGACCATCATGATCAAGGTGCACACCTTC
+CCACTCTTTGCCATCCGGCCCATGTACCTGGCCATGAGACAGTTCAAGAAAGCTGTGACA
+GATGCCATCATGTCTCGCCGAGCCATCCGCAACATGAACACCCTGTATCCAGATGCCACC
+CCAGAGGAGCTCCAGGCAATGGACAATGTCTGCATCATCTGCCGAGAAGAGATGGTGACT
+GGTGCCAAGAGACTGCCCTGCAACCACATTTTCCATACCAGCTGCCTGCGCTCCTGGTTC
+CAGCGGCAGCAGACCTGCCCCACCTGCCGTATGGATGTCCTTCGTGCATCGCTGCCAGCG
+CAGTCACCACCACCCCCGGAGCCTGCGGATCAGGGGCCACCCCCTGCCCCCCACCCCCCA
+CCACTCTTGCCTCAGCCCCCCAACTTCCCCCAGGGCCTCCTGCCTCCTTTTCCTCCAGGC
+ATGTTCCCACTGTGGCCCCCCATGGGCCCCTTTCCACCTGTCCCGCCTCCCCCCAGCTCA
+GGAGAGGCTGTGGCTCCTCCATCCACCAGTGCAGCAGCCCTTTCTCGGCCCAGTGGAGCA
+GCTACAACCACAGCTGCTGGCACCAGTGCTACTGCTGCTTCTGCCACAGCATCTGGCCCA
+GGCTCTGGCTCTGCCCCAGAGGCTGGCCCTGCCCCTGGTTTCCCCTTCCCTCCTCCCTGG
+ATGGGTATGCCCCTGCCTCCACCCTTTGCCTTCCCCCCAATGCCTGTGCCCCCTGCGGGC
+TTTGCTGGGCTGACCCCAGAGGAGCTACGAGCTCTGGAGGGCCATGAGCGGCAGCACCTG
+GAGGCCCGGCTGCAGAGCCTGCGTAACATCCACACACTGCTGGACGCCGCCATGCTGCAG
+ATCAACCAGTACCTCACCGTGCTGGCCTCCTTGGGGCCCCCCCGGCCTGCCACTTCAGTC
+AACTCCACTGAGGGGACTGCCACTACAGTTGTTGCTGCTGCCTCCTCCACCAGCATCCCT
+AGCTCAGAGGCCACGACCCCAACCCCAGGAGCCTCCCCACCAGCCCCTGAAATGGAAAGG
+CCTCCAGCTCCTGAGTCAGTGGGCACAGAGGAGATGCCTGAGGATGGAGAGCCCGATGCA
+GCAGAGCTCCGCCGGCGCCGCCTGCAGAAGCTGGAGTCTCCTGTTGCCCACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>617</residue_number>
+    <molecular_weight>67684.1</molecular_weight>
+    <theoretical_pi>6.95</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>zf-C3HC4</name>
+        <pfam_id>PF00097</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>42-62</region>
+      <region>99-119</region>
+      <region>141-161</region>
+      <region>170-190</region>
+      <region>225-245</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-22</region>
+    </signal_regions>
+    <protein_sequence>&gt;E3 ubiquitin-protein ligase synoviolin
+MFRTAVMMAASLALTGAVVAHAYYLKHQFYPTVVYLTKSSPSMAVLYIQAFVLVFLLGKV
+MGKVFFGQLRAAEMEHLLERSWYAVTETCLAFTVFRDDFSPRFVALFTLLLFLKCFHWLA
+EDRVDFMERSPNISWLFHCRIVSLMFLLGILDFLFVSHAYHSILTRGASVQLVFGFEYAI
+LMTMVLTIFIKYVLHSVDLQSENPWDNKAVYMLYTELFTGFIKVLLYMAFMTIMIKVHTF
+PLFAIRPMYLAMRQFKKAVTDAIMSRRAIRNMNTLYPDATPEELQAMDNVCIICREEMVT
+GAKRLPCNHIFHTSCLRSWFQRQQTCPTCRMDVLRASLPAQSPPPPEPADQGPPPAPHPP
+PLLPQPPNFPQGLLPPFPPGMFPLWPPMGPFPPVPPPPSSGEAVAPPSTSAAALSRPSGA
+ATTTAAGTSATAASATASGPGSGSAPEAGPAPGFPFPPPWMGMPLPPPFAFPPMPVPPAG
+FAGLTPEELRALEGHERQHLEARLQSLRNIHTLLDAAMLQINQYLTVLASLGPPRPATSV
+NSTEETATTVVAAASSTSIPSSEATTPTPGASPPAPEMERPPAPESVGTEEMPEDGEPDA
+AELRRRRLQKLESPVAH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>28460644</genbank_protein_id>
+  <uniprot_id>Q86TM6</uniprot_id>
+  <uniprot_name>SYVN1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB024690</genbank_gene_id>
+  <genecard_id>SYVN1</genecard_id>
+  <geneatlas_id>SYVN1</geneatlas_id>
+  <hgnc_id>HGNC:20738</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kaneko M, Ishiguro M, Niinuma Y, Uesugi M, Nomura Y: Human HRD1 protects against ER stress-induced apoptosis through ER-associated degradation. FEBS Lett. 2002 Dec 4;532(1-2):147-52.</reference_text>
+      <pubmed_id>12459480</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nadav E, Shmueli A, Barr H, Gonen H, Ciechanover A, Reiss Y: A novel mammalian endoplasmic reticulum ubiquitin ligase homologous to the yeast Hrd1. Biochem Biophys Res Commun. 2003 Mar 28;303(1):91-7.</reference_text>
+      <pubmed_id>12646171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Amano T, Yamasaki S, Yagishita N, Tsuchimochi K, Shin H, Kawahara K, Aratani S, Fujita H, Zhang L, Ikeda R, Fujii R, Miura N, Komiya S, Nishioka K, Maruyama I, Fukamizu A, Nakajima T: Synoviolin/Hrd1, an E3 ubiquitin ligase, as a novel pathogenic factor for arthropathy. Genes Dev. 2003 Oct 1;17(19):2436-49. Epub 2003 Sep 15.</reference_text>
+      <pubmed_id>12975321</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kikkert M, Doolman R, Dai M, Avner R, Hassink G, van Voorden S, Thanedar S, Roitelman J, Chau V, Wiertz E: Human HRD1 is an E3 ubiquitin ligase involved in degradation of proteins from the endoplasmic reticulum. J Biol Chem. 2004 Jan 30;279(5):3525-34. Epub 2003 Oct 30.</reference_text>
+      <pubmed_id>14593114</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Nakayama M, Nakajima D, Kikuno R, Ohara O: Prediction of the coding sequences of unidentified human genes. XX. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 2001 Apr 27;8(2):85-95.</reference_text>
+      <pubmed_id>11347906</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schulze A, Standera S, Buerger E, Kikkert M, van Voorden S, Wiertz E, Koning F, Kloetzel PM, Seeger M: The ubiquitin-domain protein HERP forms a complex with components of the endoplasmic reticulum associated degradation pathway. J Mol Biol. 2005 Dec 16;354(5):1021-7. Epub 2005 Nov 2.</reference_text>
+      <pubmed_id>16289116</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ye Y, Shibata Y, Kikkert M, van Voorden S, Wiertz E, Rapoport TA: Inaugural Article: Recruitment of the p97 ATPase and ubiquitin ligases to the site of retrotranslocation at the endoplasmic reticulum membrane. Proc Natl Acad Sci U S A. 2005 Oct 4;102(40):14132-8. Epub 2005 Sep 26.</reference_text>
+      <pubmed_id>16186510</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lilley BN, Ploegh HL: Multiprotein complexes that link dislocation, ubiquitination, and extraction of misfolded proteins from the endoplasmic reticulum membrane. Proc Natl Acad Sci U S A. 2005 Oct 4;102(40):14296-301. Epub 2005 Sep 26.</reference_text>
+      <pubmed_id>16186509</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Omura T, Kaneko M, Okuma Y, Orba Y, Nagashima K, Takahashi R, Fujitani N, Matsumura S, Hata A, Kubota K, Murahashi K, Uehara T, Nomura Y: A ubiquitin ligase HRD1 promotes the degradation of Pael receptor, a substrate of Parkin. J Neurochem. 2006 Dec;99(6):1456-69. Epub 2006 Oct 24.</reference_text>
+      <pubmed_id>17059562</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arteaga MF, Wang L, Ravid T, Hochstrasser M, Canessa CM: An amphipathic helix targets serum and glucocorticoid-induced kinase 1 to the endoplasmic reticulum-associated ubiquitin-conjugation machinery. Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11178-83. Epub 2006 Jul 17.</reference_text>
+      <pubmed_id>16847254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamasaki S, Yagishita N, Sasaki T, Nakazawa M, Kato Y, Yamadera T, Bae E, Toriyama S, Ikeda R, Zhang L, Fujitani K, Yoo E, Tsuchimochi K, Ohta T, Araya N, Fujita H, Aratani S, Eguchi K, Komiya S, Maruyama I, Higashi N, Sato M, Senoo H, Ochi T, Yokoyama S, Amano T, Kim J, Gay S, Fukamizu A, Nishioka K, Tanaka K, Nakajima T: Cytoplasmic destruction of p53 by the endoplasmic reticulum-resident ubiquitin ligase 'Synoviolin'. EMBO J. 2007 Jan 10;26(1):113-22. Epub 2006 Dec 14.</reference_text>
+      <pubmed_id>17170702</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang H, Zhong X, Ballar P, Luo S, Shen Y, Rubinsztein DC, Monteiro MJ, Fang S: Ubiquitin ligase Hrd1 enhances the degradation and suppresses the toxicity of polyglutamine-expanded huntingtin. Exp Cell Res. 2007 Feb 1;313(3):538-50. Epub 2006 Nov 3.</reference_text>
+      <pubmed_id>17141218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Madsen L, Andersen KM, Prag S, Moos T, Semple CA, Seeger M, Hartmann-Petersen R: Ubxd1 is a novel co-factor of the human p97 ATPase.  Int J Biochem Cell Biol. 2008;40(12):2927-42. Epub 2008 Jul 5.</reference_text>
+      <pubmed_id>18656546</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hosokawa N, Wada I, Nagasawa K, Moriyama T, Okawa K, Nagata K: Human XTP3-B forms an endoplasmic reticulum quality control scaffold with the HRD1-SEL1L ubiquitin ligase complex and BiP. J Biol Chem. 2008 Jul 25;283(30):20914-24. Epub 2008 May 23.</reference_text>
+      <pubmed_id>18502753</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Christianson JC, Shaler TA, Tyler RE, Kopito RR: OS-9 and GRP94 deliver mutant alpha1-antitrypsin to the Hrd1-SEL1L ubiquitin ligase complex for ERAD. Nat Cell Biol. 2008 Mar;10(3):272-82. Epub 2008 Feb 10.</reference_text>
+      <pubmed_id>18264092</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

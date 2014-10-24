@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:52 -0700</creation_date>
+  <update_date>2013-05-27 11:09:21 -0600</update_date>
+  <accession>HMDBP08901</accession>
+  <secondary_accessions>
+    <accession>14630</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>TFIIF-associating CTD phosphatase</synonym>
+  </synonyms>
+  <gene_name>CTDP1</gene_name>
+  <general_function>Involved in phosphoprotein phosphatase activity</general_function>
+  <specific_function>Processively dephosphorylates 'Ser-2' and 'Ser-5' of the heptad repeats YSPTSPS in the C-terminal domain of the largest RNA polymerase II subunit. This promotes the activity of RNA polymerase II. Plays a role in the exit from mitosis by dephosphorylating crucial mitotic substrates (USP44, CDC20 and WEE1) that are required for M-phase-promoting factor (MPF)/CDK1 inactivation.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>actin cytoskeleton</description>
+      <go_id>GO:0015629</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>centrosome</description>
+      <go_id>GO:0005813</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>midbody</description>
+      <go_id>GO:0030496</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>spindle midzone</description>
+      <go_id>GO:0051233</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>spindle pole</description>
+      <go_id>GO:0000922</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>CTD phosphatase activity</description>
+      <go_id>GO:0008420</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed RNA polymerase activity</description>
+      <go_id>GO:0003899</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell division</description>
+      <go_id>GO:0051301</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>exit from mitosis</description>
+      <go_id>GO:0010458</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitosis</description>
+      <go_id>GO:0007067</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of viral transcription</description>
+      <go_id>GO:0050434</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein dephosphorylation</description>
+      <go_id>GO:0006470</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase II promoter</description>
+      <go_id>GO:0006368</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>viral reproduction</description>
+      <go_id>GO:0016032</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>18</chromosome_location>
+    <locus>18q23</locus>
+    <gene_sequence>&gt;2886 bp
+ATGGAGGTGCCGGCCGCGGGTCGCGTTCCTGCCGAGGGCGCCCCGACGGCGGCTGTGGCC
+GAGGTGCGCTGCCCGGGGCCCGCGCCGCTGCGCCTGCTGGAGTGGAGGGTGGCGGCGGGC
+GCGGCCGTGCGCATCGGCTCGGTGCTGGCCGTGTTCGAGGCCGCCGCCTCCGCGCAGTCC
+TCCGGGGCCTCTCAGTCCCGTGTAGCCTCCGGGGGCTGCGTGCGCCCCGCGCGGCCGGAA
+CGCAGGCTGAGGTCGGAGCGCGCGGGCGTGGTGCGGGAGCTGTGCGCGCAGCCGGGCCAG
+GTGGTCGCCCCAGGAGCGGTTCTGGTGAGGTTGGAAGGATGCAGCCACCCGGTTGTCATG
+AAAGGCCTGTGTGCTGAATGTGGCCAAGACCTCACCCAGTTGCAGAGTAAGAACGGGAAG
+CAGCAGGTGCCGCTGTCCACGGCGACCGTGTCCATGGTGCACAGCGTGCCGGAGTTGATG
+GTGAGCTCCGAGCAAGCTGAACAGCTGGGAAGAGAAGACCAGCAGCGACTGCACCGAAAC
+CGGAAGCTGGTGCTCATGGTGGACTTGGACCAGACGTTGATTCACACAACCGAGCAGCAC
+TGTCAGCAGATGTCGAATAAAGGCATCTTTCACTTCCAGCTGGGCCGGGGTGAGCCCATG
+CTGCACACGCGCCTGCGTCCACACTGCAAGGACTTCCTGGAGAAGATCGCCAAGCTGTAC
+GAGCTGCACGTCTTCACCTTCGGCAGCCGGCTGTACGCACACACCATCGCAGGCTTTTTA
+GACCCCGAGAAGAAGCTTTTTTCTCACCGAATATTATCAAGGGATGAATGTATTGACCCA
+TTTTCTAAAACGGGAAACCTTAGAAATCTCTTTCCTTGTGGAGACTCAATGGTTTGCATT
+ATTGATGATCGAGAAGATGTCTGGAAGTTTGCCCCCAATCTGATAACTGTGAAGAAATAT
+GTATACTTCCAGGGCACGGGTGATATGAATGCGCCCCCTGGGTCCCGAGAATCTCAGACG
+AGAAAGAAAGTAAATCATTCTCGAGGCACTGAGGTCTCAGAGCCATCTCCGCCCGTGAGA
+GACCCTGAGGGGGTAACGCAGGCCCCTGGAGTGGAGCCCAGCAATGGCCTGGAGAAGCCT
+GCACGGGAGCTGAACGGCAGCGAGGCCGCCACCCCGCGGGACTCACCCCGCCCCGGGAAG
+CCAGACGAGAGGGACATCTGGCCCCCTGCCCAGGCCCCCACCAGCAGCCAAGAGCTGGCA
+GGCGCTCCTGAGCCCCAGGGATCCTGTGCGCAGGGTGGCCGGGTGGCACCGGGACAGCGG
+CCTGCCCAGGGTGCCACGGGCACTGACCTGGACTTTGACTTATCCAGCGACAGCGAGAGC
+AGCAGTGAGTCCGAGGGCACGAAGTCCTCCTCCTCCGCCTCTGATGGCGAAAGCGAGGGG
+AAAAGAGGCCGGCAGAAGCCGAAGGCTGCCCCAGAGGGAGCCGGGGCGCTGGCACAGGGC
+AGTTCCCTGGAGCCGGGGCGGCCTGCAGCACCGAGTCTCCCCGGAGAGGCCGAGCCTGGC
+GCGCATGCCCCGGACAAGGAGCCTGAGCTGGGTGGGCAGGAGGAGGGCGAGCGGGATGGC
+CTCTGCGGCCTGGGCAACGGCTGTGCCGACAGGAAGGAGGCGGAGACCGAGTCACAGAAC
+AGCGAGCTGTCGGGGGTCACTGCGGGTGAGTCCCTGGACCAGAGCATGGAGGAGGAGGAG
+GAGGAGGACACGGATGAGGATGACCACCTCATCTACCTGGAGGAGATCCTGGTCCGTGTA
+CACACTGACTACTATGCCAAGTATGACCGCTACCTCAACAAGGAGATCGAGGAGGCGCCG
+GACATCCGCAAGATCGTGCCGGAGCTCAAGAGCAAGGTGCTGGCAGACGTGGCCATAATT
+TTCAGTGGGCTACACCCGACAAACTTCCCGATAGAGAAGACGCGGGAGCATTACCACGCC
+ACGGCGCTGGGAGCGAAGATCCTCACTCGGCTGGTGCTGAGCCCCGACGCCCCTGACAGG
+GCCACGCACCTGATCGCCGCGCGAGCTGGCACAGAGAAGGTGCTGCAGGCACAGGAGTGC
+GGACACCTGCACGTGGTCAACCCTGACTGGCTGTGGAGCTGCCTGGAGCGCTGGGACAAG
+GTGGAGGAGCAGCTCTTCCCGCTCAGGGACGATCACACCAAGGCACAGAGGGAGAACAGC
+CCTGCGGCCTTTCCCGACCGGGAGGGTGTGCCCCCCACCGCCTTGTTCCACCCGATGCCG
+GTTCTTCCCAAGGCCCAGCCTGGCCCCGAGGTTCGGATCTACGACTCCAACACGGGGAAG
+CTCATCAGGACGGGCGCCCGGGGGCCCCCAGCACCCTCCAGCTCCCTACCCATCCGCCAG
+GAGCCCTCTTCCTTCAGAGCGGTTCCGCCACCCCAGCCGCAGATGTTTGGTGAAGAGCTG
+CCTGACGCTCAGGACGGAGAGCAGCCTGGCCCTTCTAGAAGAAAGCGACAGCCCAGTATG
+TCTGAGACAATGCCGCTGTACACTCTTTGTAAGGAGGATTTAGAGAGTATGGACAAAGAG
+GTGGACGACATCCTTGGAGAAGGCAGCGACGACAGCGACAGCGAGAAGAGGAGGCCTGAG
+GAGCAGGAGGAGGAGCCCCAGCCCCGGAAGCCAGGGACCCGCAGGGAGCGGACGCTCGGG
+GCACCTGCGTCCAGCGAGAGGAGCGCGGCAGGGGGCCGGGGGCCCAGAGGCCACAAGAGG
+AAGCTGAATGAAGAGGACGCCGCCAGCGAGTCCAGCAGGGAGTCCAGCAACGAGGATGAG
+GGCAGCAGCTCCGAGGCCGACGAGATGGCCAAGGCGCTGGAGGCGGAGCTCAACGACCTC
+ATGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>961</residue_number>
+    <molecular_weight>92376.475</molecular_weight>
+    <theoretical_pi>5.112</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FCP1_C</name>
+        <pfam_id>PF09309</pfam_id>
+      </pfam>
+      <pfam>
+        <name>NIF</name>
+        <pfam_id>PF03031</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;RNA polymerase II subunit A C-terminal domain phosphatase
+MEVPAAGRVPAEGAPTAAVAEVRCPGPAPLRLLEWRVAAGAAVRIGSVLAVFEAAASAQS
+AGASQSRVASGGCVRPARPERRLRSERAGVVRELCAQPGQVVAPGAVLVRLEGCSHPVVM
+KGLCAECGQDLTQLQSKNGKQQVPLSTATVSMVHSVPELMVSSEQAEQLGREDQQRLHRN
+RKLVLMVDLDQTLIHTTEQHCQQMSNKGIFHFQLGRGEPMLHTRLRPHCKDFLEKIAKLY
+ELHVFTFGSRLYAHTIAGFLDPEKKLFSHRILSRDECIDPFSKTGNLRNLFPCGDSMVCI
+IDDREDVWKFAPNLITVKKYVYFQGTGDMNAPPGSRESQTRKKVNHSRGTEVSEPSPPVR
+DPEGVTQAPGVEPSNGLEKPARELNGSEAATPRDSPRPGKPDERDIWPPAQAPTSSQELA
+GAPEPQGSCAQGGRVAPGQRPAQGATGTDLDFDLSSDSESSSESEGTKSSSSASDGESEG
+KRGRQKPKAAPEGAGALAQGSSLEPGRPAAPSLPGEAEPGAHAPDKEPELGGQEEGERDG
+LCGLGNGCADRKEAETESQNSELSGVTAGESLDQSMEEEEEEDTDEDDHLIYLEEILVRV
+HTDYYAKYDRYLNKEIEEAPDIRKIVPELKSKVLADVAIIFSGLHPTNFPIEKTREHYHA
+TALGAKILTRLVLSPDAPDRATHLIAARAGTEKVLQAQECGHLHVVNPDWLWSCLERWDK
+VEEQLFPLRDDHTKAQRENSPAAFPDREGVPPTALFHPMPVLPKAQPGPEVRIYDSNTGK
+LIRTGARGPPAPSSSLPIRQEPSSFRAVPPPQPQMFGEELPDAQDGEQPGPSRRKRQPSM
+SETMPLYTLCKEDLESMDKEVDDILGEGSDDSDSEKRRPEEQEEEPQPRKPGTRRGADAR
+APASSERSAAGGRGPRGHKRKLNEEDAASESSRESSNEDEGSSSEADEMAKALEAELNDL
+M</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>67188445</genbank_protein_id>
+  <uniprot_id>Q9Y5B0</uniprot_id>
+  <uniprot_name>CTDP1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1J2X</pdb_id>
+    <pdb_id>1ONV</pdb_id>
+    <pdb_id>2K7L</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_004715.3</genbank_gene_id>
+  <genecard_id>CTDP1</genecard_id>
+  <geneatlas_id>CTDP1</geneatlas_id>
+  <hgnc_id>HGNC:2498</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Archambault J, Pan G, Dahmus GK, Cartier M, Marshall N, Zhang S, Dahmus ME, Greenblatt J: FCP1, the RAP74-interacting subunit of a human protein phosphatase that dephosphorylates the carboxyl-terminal domain of RNA polymerase IIO. J Biol Chem. 1998 Oct 16;273(42):27593-601.</reference_text>
+      <pubmed_id>9765293</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cho H, Kim TK, Mancebo H, Lane WS, Flores O, Reinberg D: A protein phosphatase functions to recycle RNA polymerase II.  Genes Dev. 1999 Jun 15;13(12):1540-52.</reference_text>
+      <pubmed_id>10385623</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Licciardo P, Amente S, Ruggiero L, Monti M, Pucci P, Lania L, Majello B: The FCP1 phosphatase interacts with RNA polymerase II and with MEP50 a component of the methylosome complex involved in the assembly of snRNP. Nucleic Acids Res. 2003 Feb 1;31(3):999-1005.</reference_text>
+      <pubmed_id>12560496</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Friedl EM, Lane WS, Erdjument-Bromage H, Tempst P, Reinberg D: The C-terminal domain phosphatase and transcription elongation activities of FCP1 are regulated by phosphorylation. Proc Natl Acad Sci U S A. 2003 Mar 4;100(5):2328-33. Epub 2003 Feb 18.</reference_text>
+      <pubmed_id>12591939</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kamada K, Roeder RG, Burley SK: Molecular mechanism of recruitment of TFIIF- associating RNA polymerase C-terminal domain phosphatase (FCP1) by transcription factor IIF. Proc Natl Acad Sci U S A. 2003 Mar 4;100(5):2296-9. Epub 2003 Feb 18.</reference_text>
+      <pubmed_id>12591941</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Varon R, Gooding R, Steglich C, Marns L, Tang H, Angelicheva D, Yong KK, Ambrugger P, Reinhold A, Morar B, Baas F, Kwa M, Tournev I, Guerguelcheva V, Kremensky I, Lochmuller H, Mullner-Eidenbock A, Merlini L, Neumann L, Burger J, Walter M, Swoboda K, Thomas PK, von Moers A, Risch N, Kalaydjieva L: Partial deficiency of the C-terminal-domain phosphatase of RNA polymerase II is associated with congenital cataracts facial dysmorphism neuropathy syndrome. Nat Genet. 2003 Oct;35(2):185-9. Epub 2003 Sep 21.</reference_text>
+      <pubmed_id>14517542</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

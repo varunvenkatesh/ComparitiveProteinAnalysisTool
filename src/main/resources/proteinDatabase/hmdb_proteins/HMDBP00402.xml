@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:03 -0700</creation_date>
+  <update_date>2013-05-27 11:11:21 -0600</update_date>
+  <accession>HMDBP00402</accession>
+  <secondary_accessions>
+    <accession>5639</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DOT1-like protein</synonym>
+    <synonym>H3-K79-HMTase</synonym>
+    <synonym>Histone H3-K79 methyltransferase</synonym>
+    <synonym>Lysine N-methyltransferase 4</synonym>
+  </synonyms>
+  <gene_name>DOT1L</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Histone methyltransferase. Methylates 'Lys-79' of histone H3. Nucleosomes are preferred as substrate compared to free histones. Binds to DNA.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Transcriptional misregulation in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05202</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00182</accession>
+      <name>L-Lysine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>histone-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone-lysine N-methyltransferase activity</description>
+      <go_id>GO:0018024</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of JAK-STAT cascade</description>
+      <go_id>GO:0046425</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription regulatory region DNA binding</description>
+      <go_id>GO:2000677</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19p13.3</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1739</residue_number>
+    <molecular_weight>164854.41</molecular_weight>
+    <theoretical_pi>9.191</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DOT1</name>
+        <pfam_id>PF08123</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Histone-lysine N-methyltransferase, H3 lysine-79 specific
+MGEKLELRLKSPVGAEPAVYPWPLPVYDKHHDAAHEIIETIRWVCEEIPDLKLAMENYVL
+IDYDTKSFESMQRLCDKYNRAIDSIHQLWKGTTQPMKLNTRPSTGLLRHILQQVYNHSVT
+DPEKLNNYEPFSPEVYGETSFDLVAQMIDEIKMTDDDLFVDLGSGVGQVVLQVAAATNCK
+HHYGVEKADIPAKYAETMDREFRKWMKWYGKKHAEYTLERGDFLSEEWRERIANTSVIFV
+NNFAFGPEVDHQLKERFANMKEGGRIVSSKPFAPLNFRINSRNLSDIGTIMRVVELSPLK
+GSVSWTGKPVSYYLHTIDRTILENYFSSLKNPKLREEQEAARRRQQRESKSNAATPTKGP
+EGKVAGPADAPMDSGAEEEKAGAATVKKPSPSKARKKKLNKKGRKMAGRKRGRPKKMNTA
+NPERKPKKNQTALDALHAQTVSQTAASSPQDAYRSPHSPFYQLPPSVQRHSPNPLLVAPT
+PPALQKLLESFKIQYLQFLAYTKTPQYKASLQELLGQEKEKNAQLLGAAQQLLSHCQAQK
+EEIRRLFQQKLDELGVKALTYNDLIQAQKEISAHNQQLREQSEQLEQDNRALRGQSLQLL
+KARCEELQLDWATLSLEKLLKEKQALKSQISEKQRHCLELQISIVELEKSQRQQELLQLK
+SCVPPDDALSLHLRGKGALGRELEPDASRLHLELDCTKFSLPHLSSMSPELSMNGQAAGY
+ELCGVLSRPSSKQNTPQYLASPLDQEVVPCTPSHVGRPRLEKLSGLAAPDYTRLSPAKIV
+LRRHLSQDHTVPGRPAASELHSRAEHTKENGLPYQSPSVPGSMKLSPQDPRPLSPGALQL
+AGEKSSEKGLRERAYGSSGELITSLPISIPLSTVQPNKLPVSIPLASVVLPSRAERARST
+PSPVLQPRDPSSTLEKQIGANAHGAGSRSLALAPAGFSYAGSVAISGALAGSPASLTPGA
+EPATLDESSSSGSLFATVGSRSSTPQHPLLLAQPRNSLPASPAHQLSSSPRLGGAAQGPL
+PEASKGDLPSDSGFSDPESEAKRRIVFTITTGAGSAKQSPSSKHSPLTASARGDCVPSHG
+QDSRRRGRRKRASAGTPSLSAGVSPKRRALPSVAGLFTQPSGSPLNLNSMVSNINQPLEI
+TAISSPETSLKSSPVPYQDHDQPPVLKKERPLSQTNGAHYSPLTSDEEPGSEDEPSSARI
+ERKIATISLESKSPPKTLENGGGLAGRKPAPAGEPVNSSKWKSTFSPISDIGLAKSADSP
+LQASSALSQNSLFTFRPALEEPSADAKLAAHPRKGFPGSLSGADGLSPGTNPANGCTFGG
+GLAADLSLHSFSDGASLPHKGPEAAGLSSPLSFPSQRGKEGSDANPFLSKRQLDGLAGLK
+GEGSRGKEAGEGGLPLCGPTDKTPLLSGKAAKARDREVDLKNGHNLFISAAAVPPGSLLS
+GPGLAPAASSAGGAASSAQTHRSFLGPFPPGPQFALGPMSLQANLGSVAGSSVLQSLFSS
+VPAAAGLVHVSSAATRLTNSHAMGSFSGVAGGTVGGVVFNHAVPSASAHPFGARVGRGAA
+CGSATLGPSPLQAAASASASSFQAPASVETRPPPPPPPPPPPLPPPAHLGRSPAGPPVLH
+APPPPNAALPPPPTLLASNPEPALLQSLASLPPNQAFLPPTSAASLPPANASLSIKLTSL
+PHKGARPSFTVHHQPLPRLALAQAAPGIPQASATGPSAVWVSLGMPPPYAAHLSGVKPR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>22094135</genbank_protein_id>
+  <uniprot_id>Q8TEK3</uniprot_id>
+  <uniprot_name>DOT1L_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1NW3</pdb_id>
+    <pdb_id>3QOW</pdb_id>
+    <pdb_id>3QOX</pdb_id>
+    <pdb_id>3SR4</pdb_id>
+    <pdb_id>3SX0</pdb_id>
+    <pdb_id>3UWP</pdb_id>
+    <pdb_id>4EK9</pdb_id>
+    <pdb_id>4EKG</pdb_id>
+    <pdb_id>4EKI</pdb_id>
+    <pdb_id>4EQZ</pdb_id>
+    <pdb_id>4ER0</pdb_id>
+    <pdb_id>4ER3</pdb_id>
+    <pdb_id>4ER5</pdb_id>
+    <pdb_id>4ER6</pdb_id>
+    <pdb_id>4ER7</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id>DOT1L</genecard_id>
+  <geneatlas_id>DOT1L</geneatlas_id>
+  <hgnc_id>HGNC:24948</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Feng Q, Wang H, Ng HH, Erdjument-Bromage H, Tempst P, Struhl K, Zhang Y: Methylation of H3-lysine 79 is mediated by a new family of HMTases without a SET domain. Curr Biol. 2002 Jun 25;12(12):1052-8.</reference_text>
+      <pubmed_id>12123582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Nakayama M, Nakajima D, Kikuno R, Ohara O: Prediction of the coding sequences of unidentified human genes. XX. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 2001 Apr 27;8(2):85-95.</reference_text>
+      <pubmed_id>11347906</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jikuya H, Takano J, Kikuno R, Hirosawa M, Nagase T, Nomura N, Ohara O: Characterization of long cDNA clones from human adult spleen. II. The complete sequences of 81 cDNA clones. DNA Res. 2003 Feb 28;10(1):49-57.</reference_text>
+      <pubmed_id>12693554</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Okada Y, Feng Q, Lin Y, Jiang Q, Li Y, Coffield VM, Su L, Xu G, Zhang Y: hDOT1L links histone methylation to leukemogenesis.  Cell. 2005 Apr 22;121(2):167-78.</reference_text>
+      <pubmed_id>15851025</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Min J, Feng Q, Li Z, Zhang Y, Xu RM: Structure of the catalytic domain of human DOT1L, a non-SET domain nucleosomal histone methyltransferase. Cell. 2003 Mar 7;112(5):711-23.</reference_text>
+      <pubmed_id>12628190</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

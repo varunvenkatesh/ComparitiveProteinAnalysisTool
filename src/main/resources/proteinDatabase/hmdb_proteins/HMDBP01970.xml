@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:08 -0700</creation_date>
+  <update_date>2013-05-27 11:25:32 -0600</update_date>
+  <accession>HMDBP01970</accession>
+  <secondary_accessions>
+    <accession>7398</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ALL-1</synonym>
+    <synonym>C-terminal cleavage product of 180 kDa</synonym>
+    <synonym>CXXC-type zinc finger protein 7</synonym>
+    <synonym>KMT2A</synonym>
+    <synonym>Lysine N-methyltransferase 2A</synonym>
+    <synonym>MLL cleavage product C180</synonym>
+    <synonym>MLL cleavage product N320</synonym>
+    <synonym>N-terminal cleavage product of 320 kDa</synonym>
+    <synonym>Trithorax-like protein</synonym>
+    <synonym>Zinc finger protein HRX</synonym>
+    <synonym>p180</synonym>
+    <synonym>p320</synonym>
+  </synonyms>
+  <gene_name>MLL</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Histone methyltransferase that plays an essential role in early development and hematopoiesis. Catalytic subunit of the MLL1/MLL complex, a multiprotein complex that mediates both methylation of 'Lys-4' of histone H3 (H3K4me) complex and acetylation of 'Lys-16' of histone H4 (H4K16ac). In the MLL1/MLL complex, it specifically mediates H3K4me, a specific tag for epigenetic transcriptional activation. Has weak methyltransferase activity by itself, and requires other component of the MLL1/MLL complex to obtain full methyltransferase activity. Has no activity toward histone H3 phosphorylated on 'Thr-3', less activity toward H3 dimethylated on 'Arg-8' or 'Lys-9', while it has higher activity toward H3 acetylated on 'Lys-9'. Required for transcriptional activation of HOXA9. Promotes PPP1R15A-induced apoptosis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Transcriptional misregulation in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05202</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00182</accession>
+      <name>L-Lysine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>histone-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>histone methyltransferase activity (h3-k4 specific)</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular component organization at cellular level</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organelle organization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chromosome organization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chromatin organization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chromatin modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>methyltransferase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>histone methyltransferase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>MLL1 complex</description>
+      <go_id>GO:0071339</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>AT DNA binding</description>
+      <go_id>GO:0003680</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone acetyl-lysine binding</description>
+      <go_id>GO:0070577</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone methyltransferase activity (H3-K4 specific)</description>
+      <go_id>GO:0042800</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sequence-specific DNA binding transcription factor activity</description>
+      <go_id>GO:0003700</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription regulatory region DNA binding</description>
+      <go_id>GO:0044212</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>unmethylated CpG binding</description>
+      <go_id>GO:0045322</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>apoptotic process</description>
+      <go_id>GO:0006915</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic hemopoiesis</description>
+      <go_id>GO:0035162</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H3-K4 trimethylation</description>
+      <go_id>GO:0080182</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H4-K16 acetylation</description>
+      <go_id>GO:0043984</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cellular response to drug</description>
+      <go_id>GO:2001040</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transporter activity</description>
+      <go_id>GO:0032411</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein complex assembly</description>
+      <go_id>GO:0006461</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0006366</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>MLL cleavage product C180:Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q23</locus>
+    <gene_sequence>&gt;11910 bp
+ATGGCGCACAGCTGTCGGTGGCGCTTCCCCGCCCGACCCGGGACCACCGGGGGCGGCGGC
+GGCGGGGGGCGCCGGGGCCTAGGGGGCGCCCCGCGGCAACGCGTCCCGGCCCTGCTGCTT
+CCCCCCGGGCCCCCGGTCGGCGGTGGCGGCCCCGGGGCGCCCCCCTCCCCCCCGGCTGTG
+GCGGCCGCGGCGGCGGCGGCGGGAAGCAGCGGGGCTGGGGTTCCAGGGGGAGCGGCCGCC
+GCCTCAGCAGCCTCCTCGTCGTCCGCCTCGTCTTCGTCTTCGTCATCGTCCTCAGCCTCT
+TCAGGGCCGGCCCTGCTCCGGGTGGGCCCGGGCTTCGACGCGGCGCTGCAGGTCTCGGCC
+GCCATCGGCACCAACCTGCGCCGGTTCCGGGCCGTGTTTGGGGAGAGCGGCGGGGGAGGC
+GGCAGCGGAGAGGATGAGCAATTCTTAGGTTTTGGCTCAGATGAAGAAGTCAGAGTGCGA
+AGTCCCACAAGGTCTCCTTCAGTTAAAACTAGTCCTCGAAAACCTCGTGGGAGACCTAGA
+AGTGGCTCTGACCGAAATTCAGCTATCCTCTCAGATCCATCTGTGTTTTCCCCTCTAAAT
+AAATCAGAGACCAAATCTGGAGATAAGATCAAGAAGAAAGATTCTAAAAGTATAGAAAAG
+AAGAGAGGAAGACCTCCCACCTTCCCTGGAGTAAAAATCAAAATAACACATGGAAAGGAC
+ATTTCAGAGTTACCAAAGGGAAACAAAGAAGATAGCCTGAAAAAAATTAAAAGGACACCT
+TCTGCTACGTTTCAGCAAGCCACAAAGATTAAAAAATTAAGAGCAGGTAAACTCTCTCCT
+CTCAAGTCTAAGTTTAAGACAGGGAAGCTTCAAATAGGAAGGAAGGGGGTACAAATTGTA
+CGACGGAGAGGAAGGCCTCCATCAACAGAAAGGATAAAGACCCCTTCGGGTCTCCTCATT
+AATTCTGAACTGGAAAAGCCCCAGAAAGTCCGGAAAGACAAGGAAGGAACACCTCCACTT
+ACAAAAGAAGATAAGACAGTTGTCAGACAAAGCCCTCGAAGGATTAAGCCAGTTAGGATT
+ATTCCTTCTTCAAAAAGGACAGATGCAACCATTGCTAAGCAACTCTTACAGAGGGCAAAA
+AAGGGGGCTCAAAAGAAAATTGAAAAAGAAGCAGCTCAGCTGCAGGGAAGAAAGGTGAAG
+ACACAGGTCAAAAATATTCGACAGTTCATCATGCCTGTTGTCAGTGCTATCTCCTCGCGG
+ATCATTAAGACCCCTCGGCGGTTTATAGAGGATGAGGATTATGACCCTCCAATTAAAATT
+GCCCGATTAGAGTCTACACCGAATAGTAGATTCAGTGCCCCGTCCTGTGGATCTTCTGAA
+AAATCAAGTGCAGCTTCTCAGCACTCCTCTCAAATGTCTTCAGACTCCTCTCGATCTAGT
+AGCCCCAGTGTTGATACCTCCACAGACTCTCAGGCTTCTGAGGAGATTCAGGTACTTCCT
+GAGGAGCGGAGCGATACCCCTGAAGTTCATCCTCCACTGCCCATTTCCCAGTCCCCAGAA
+AATGAGAGTAATGATAGGAGAAGCAGAAGGTATTCAGTGTCGGAGAGAAGTTTTGGATCT
+AGAACGACGAAAAAATTATCAACTCTACAAAGTGCCCCCCAGCAGCAGACCTCCTCGTCT
+CCACCTCCACCTCTGCTGACTCCACCGCCACCACTGCAGCCAGCCTCCAGTATCTCTGAC
+CACACACCTTGGCTTATGCCTCCAACAATCCCCTTAGCATCACCATTTTTGCCTGCTTCC
+ACTGCTCCTATGCAAGGGAAGCGAAAATCTATTTTGCGAGAACCGACATTTAGGTGGACT
+TCTTTAAAGCATTCTAGGTCAGAGCCACAATACTTTTCCTCAGCAAAGTATGCCAAAGAA
+GGTCTTATTCGCAAACCAATATTTGATAATTTCCGACCCCCTCCACTAACTCCCGAGGAC
+GTTGGCTTTGCATCTGGTTTTTCTGCATCTGGTACCGCTGCTTCAGCCCGATTGTTTTCG
+CCACTCCATTCTGGAACAAGGTTTGATATGCACAAAAGGAGCCCTCTTCTGAGAGCTCCA
+AGATTTACTCCAAGTGAGGCTCACTCTAGAATATTTGAGTCTGTAACCTTGCCTAGTAAT
+CGAACTTCTGCTGGAACATCTTCTTCAGGAGTATCCAATAGAAAAAGGAAAAGAAAAGTG
+TTTAGTCCTATTCGATCTGAACCAAGATCTCCTTCTCACTCCATGAGGACAAGAAGTGGA
+AGGCTTAGTAGTTCTGAGCTCTCACCTCTCACCCCCCCGTCTTCTGTCTCTTCCTCGTTA
+AGCATTTCTGTTAGTCCTCTTGCCACTAGTGCCTTAAACCCAACTTTTACTTTTCCTTCT
+CATTCCCTGACTCAGTCTGGGGAATCTGCAGAGAAAAATCAGAGACCAAGGAAGCAGACT
+AGTGCTCCGGCAGAGCCATTTTCATCAAGTAGTCCTACTCCTCTCTTCCCTTGGTTTACC
+CCAGGCTCTCAGACTGAAAGAGGGAGAAATAAAGACAAGGCCCCCGAGGAGCTGTCCAAA
+GATCGAGATGCTGACAAGAGCGTGGAGAAGGACAAGAGTAGAGAGAGAGACCGGGAGAGA
+GAAAAGGAGAATAAGCGGGAGTCAAGGAAAGAGAAAAGGAAAAAGGGATCAGAAATTCAG
+AGTAGTTCTGCTTTGTATCCTGTGGGTAGGGTTTCCAAAGAGAAGGTTGTTGGTGAAGAT
+GTTGCCACTTCATCTTCTGCCAAAAAAGCAACAGGGCGGAAGAAGTCTTCATCACATGAT
+TCTGGGACTGATATTACTTCTGTGACTCTTGGGGATACAACAGCTGTCAAAACCAAAATA
+CTTATAAAGAAAGGGAGAGGAAATCTGGAAAAAACCAACTTGGACCTCGGCCCAACTGCC
+CCATCCCTGGAGAAGGAGAAAACCCTCTGCCTTTCCACTCCTTCATCTAGCACTGTTAAA
+CATTCCACTTCCTCCATAGGCTCCATGTTGGCTCAGGCAGACAAGCTTCCAATGACTGAC
+AAGAGGGTTGCCAGCCTCCTAAAAAAGGCCAAAGCTCAGCTCTGCAAGATTGAGAAGAGT
+AAGAGTCTTAAACAAACCGACCAGCCCAAAGCACAGGGTCAAGAAAGTGACTCATCAGAG
+ACCTCTGTGCGAGGACCCCGGATTAAACATGTCTGCAGAAGAGCAGCTGTTGCCCTTGGC
+CGAAAACGAGCTGTGTTTCCTGATGACATGCCCACCCTGAGTGCCTTACCATGGGAAGAA
+CGAGAAAAGATTTTGTCTTCCATGGGGAATGATGACAAGTCATCAATTGCTGGCTCAGAA
+GATGCTGAACCTCTTGCTCCACCCATCAAACCAATTAAACCTGTCACTAGAAACAAGGCA
+CCCCAGGAACCTCCAGTAAAGAAAGGACGTCGATCGAGGCGGTGTGGGCAGTGTCCCGGC
+TGCCAGGTGCCTGAGGACTGTGGTGTTTGTACTAATTGCTTAGATAAGCCCAAGTTTGGT
+GGTCGCAATATAAAGAAGCAGTGCTGCAAGATGAGAAAATGTCAGAATCTACAATGGATG
+CCTTCCAAAGCCTACCTGCAGAAGCAAGCTAAAGCTGTGAAAAAGAAAGAGAAAAAGTCT
+AAGACCAGTGAAAAGAAAGACAGCAAAGAGAGCAGTGTTGTGAAGAACGTGGTGGACTCT
+AGTCAGAAACCTACCCCATCAGCAAGAGAGGATCCTGCCCCAAAGAAAAGCAGTAGTGAG
+CCTCCTCCACGAAAGCCCGTCGAGGAAAAGAGTGAAGAAGGGAATGTCTCGGCCCCTGGG
+CCTGAATCCAAACAGGCCACCACTCCAGCTTCCAGGAAGTCAAGCAAGCAGGTCTCCCAG
+CCAGCACTGGTCATCCCGCCTCAGCCACCTACTACAGGACCGCCAAGAAAAGAAGTTCCC
+AAAACCACTCCTAGTGAGCCCAAGAAAAAGCAGCCTCCACCACCAGAATCAGGTCCAGAG
+CAGAGCAAACAGAAAAAAGTGGCTCCCCGCCCAAGTATCCCTGTAAAACAAAAACCAAAA
+GAAAAGGAAAAACCACCTCCGGTCAATAAGCAGGAGAATGCAGGCACTTTGAACATCCTC
+AGCACTCTCTCCAATGGCAATAGTTCTAAGCAAAAAATTCCAGCAGATGGAGTCCACAGG
+ATCAGAGTGGACTTTAAGGAGGATTGTGAAGCAGAAAATGTGTGGGAGATGGGAGGCTTA
+GGAATCTTGACTTCTGTTCCTATAACACCCAGGGTGGTTTGCTTTCTCTGTGCCAGTAGT
+GGGCATGTAGAGTTTGTGTATTGCCAAGTCTGTTGTGAGCCCTTCCACAAGTTTTGTTTA
+GAGGAGAACGAGCGCCCTCTGGAGGACCAGCTGGAAAATTGGTGTTGTCGTCGTTGCAAA
+TTCTGTCACGTTTGTGGAAGGCAACATCAGGCTACAAAGCAGCTGCTGGAGTGTAATAAG
+TGCCGAAACAGCTATCACCCTGAGTGCCTGGGACCAAACTACCCCACCAAACCCACAAAG
+AAGAAGAAAGTCTGGATCTGTACCAAGTGTGTTCGCTGTAAGAGCTGTGGATCCACAACT
+CCAGGCAAAGGGTGGGATGCACAGTGGTCTCATGATTTCTCACTGTGTCATGATTGCGCC
+AAGCTCTTTGCTAAAGGAAACTTCTGCCCTCTCTGTGACAAATGTTATGATGATGATGAC
+TATGAGAGTAAGATGATGCAATGTGGAAAGTGTGATCGCTGGGTCCATTCCAAATGTGAG
+AATCTTTCAGATGAGATGTATGAGATTCTATCTAATCTGCCAGAAAGTGTGGCCTACACT
+TGTGTGAACTGTACTGAGCGGCACCCTGCAGAGTGGCGACTGGCCCTTGAAAAAGAGCTG
+CAGATTTCTCTGAAGCAAGTTCTGACAGCTTTGTTGAATTCTCGGACTACCAGCCATTTG
+CTACGCTACCGGCAGGCTGCCAAGCCTCCAGACTTAAATCCCGAGACAGAGGAGAGTATA
+CCTTCCCGCAGCTCCCCCGAAGGACCTGATCCACCAGTTCTTACTGAGGTCAGCAAACAG
+GATGATCAGCAGCCTTTAGATCTAGAAGGAGTCAAGAGGAAGATGGACCAAGGGAATTAC
+ACATCTGTGTTGGAGTTCAGTGATGATATTGTGAAGATCATTCAAGCAGCCATTAATTCA
+GATGGAGGACAGCCAGAAATTAAAAAAGCCAACAGCATGGTCAAGTCCTTCTTCATTCGG
+CAAATGGAACGTGTTTTTCCATGGTTCAGTGTCAAAAAGTCCAGGTTTTGGGAGCCAAAT
+AAAGTATCAAGCAACAGTGGGATGTTACCAAACGCAGTGCTTCCACCTTCACTTGACCAT
+AATTATGCTCAGTGGCAGGAGCGAGAGGAAAACAGCCACACTGAGCAGCCTCCTTTAATG
+AAGAAAATCATTCCAGCTCCCAAACCCAAAGGTCCTGGAGAACCAGACTCACCAACTCCT
+CTGCATCCTCCTACACCACCAATTTTGAGTACTGATAGGAGTCGAGAAGACAGTCCAGAG
+CTGAACCCACCCCCAGGCATAGAAGACAATAGACAGTGTGCGTTATGTTTGACTTATGGT
+GATGACAGTGCTAATGATGCTGGTCGTTTACTATATATTGGCCAAAATGAGTGGACACAT
+GTAAATTGTGCTTTGTGGTCAGCGGAAGTGTTTGAAGATGATGACGGATCACTAAAGAAT
+GTGCATATGGCTGTGATCAGGGGCAAGCAGCTGAGATGTGAATTCTGCCAAAAGCCAGGA
+GCCACCGTGGGTTGCTGTCTCACATCCTGCACCAGCAACTATCACTTCATGTGTTCCCGA
+GCCAAGAACTGTGTCTTTCTGGATGATAAAAAAGTATATTGCCAACGACATCGGGATTTG
+ATCAAAGGCGAAGTGGTTCCTGAGAATGGATTTGAAGTTTTCAGAAGAGTGTTTGTGGAC
+TTTGAAGGAATCAGCTTGAGAAGGAAGTTTCTCAATGGCTTGGAACCAGAAAATATCCAC
+ATGATGATTGGGTCTATGACAATCGACTGCTTAGGAATTCTAAATGATCTCTCCGACTGT
+GAAGATAAGCTCTTTCCTATTGGATATCAGTGTTCCAGGGTATACTGGAGCACCACAGAT
+GCTCGCAAGCGCTGTGTATATACATGCAAGATAGTGGAGTGCCGTCCTCCAGTCGTAGAG
+CCGGATATCAACAGCACTGTTGAACATGATGAAAACAGGACCATTGCCCATAGTCCAACA
+TCTTTTACAGAAAGTTCATCAAAAGAGAGTCAAAACACAGCTGAAATTATAAGTCCTCCA
+TCACCAGACCGACCTCCTCATTCACAAACCTCTGGCTCCTGTTATTATCATGTCATCTCA
+AAGGTCCCCAGGATTCGAACACCCAGTTATTCTCCAACACAGAGATCCCCTGGCTGTCGA
+CCGTTGCCTTCTGCAGGAAGTCCTACCCCAACCACTCATGAAATAGTCACAGTAGGTGAT
+CCTTTACTCTCCTCTGGACTTCGAAGCATTGGCTCCAGGCGTCACAGTACCTCTTCCTTA
+TCACCCCAGCGGTCCAAACTCCGGATAATGTCTCCAATGAGAACTGGGAATACTTACTCT
+AGGAATAATGTTTCCTCAGTCTCCACCACCGGGACCGCTACTGATCTTGAATCAAGTGCC
+AAAGTAGTTGATCATGTCTTAGGGCCACTGAATTCAAGTACTAGTTTAGGGCAAAACACT
+TCCACCTCTTCAAATTTGCAAAGGACAGTGGTTACTGTAGGCAATAAAAACAGTCACTTG
+GATGGATCTTCATCTTCAGAAATGAAGCAGTCCAGTGCTTCAGACTTGGTGTCCAAGAGC
+TCCTCTTTAAAGGGAGAGAAGACCAAAGTGCTGAGTTCCAAGAGCTCAGAGGGATCTGCA
+CATAATGTGGCTTACCCTGGAATTCCTAAACTGGCCCCACAGGTTCATAACACAACATCT
+AGAGAACTGAATGTTAGTAAAATCGGCTCCTTTGCTGAACCCTCTTCAGTGTCGTTTTCT
+TCTAAAGAGGCCCTCTCCTTCCCACACCTCCATTTGAGAGGGCAAAGGAATGATCGAGAC
+CAACACACAGATTCTACCCAATCAGCAAACTCCTCTCCAGATGAAGATACTGAAGTCAAA
+ACCTTGAAGCTATCTGGAATGAGCAACAGATCATCCATTATCAACGAACATATGGGATCT
+AGTTCCAGAGATAGGAGACAGAAAGGGAAAAAATCCTGTAAAGAAACTTTCAAAGAAAAG
+CATTCCAGTAAATCTTTTTTGGAACCTGGTCAGGTGACAACTGGTGAGGAAGGAAACTTG
+AAGCCAGAGTTTATGGATGAGGTTTTGACTCCTGAGTATATGGGCCAACGACCATGTAAC
+AATGTTTCTTCTGATAAGATTGGTGATAAAGGCCTTTCTATGCCAGGAGTCCCCAAAGCT
+CCACCCATGCAAGTAGAAGGATCTGCCAAGGAATTACAGGCACCACGGAAACGCACAGTC
+AAAGTGACACTGACACCTCTAAAAATGGAAAATGAGAGTCAATCCAAAAATGCCCTGAAA
+GAAAGTAGTCCTGCTTCCCCTTTGCAAATAGAGTCAACATCTCCCACAGAACCAATTTCA
+GCCTCTGAAAATCCAGGAGATGGTCCAGTGGCCCAACCAAGCCCCAATAATACCTCATGC
+CAGGATTCTCAAAGTAACAACTATCAGAATCTTCCAGTACAGGACAGAAACCTAATGCTT
+CCAGATGGCCCCAAACCTCAGGAGGATGGCTCTTTTAAAAGGAGGTATCCCCGTCGCAGT
+GCCCGTGCACGTTCTAACATGTTTTTTGGGCTTACCCCACTCTATGGAGTAAGATCCTAT
+GGTGAAGAAGACATTCCATTCTACAGCAGCTCAACTGGGAAGAAGCGAGGCAAGAGATCA
+GCTGAAGGACAGGTGGATGGGGCCGATGACTTAAGCACTTCAGATGAAGACGACTTATAC
+TATTACAACTTCACTAGAACAGTGATTTCTTCAGGTGGAGAGGAACGACTGGCATCCCAT
+AATTTATTTCGGGAGGAGGAACAGTGTGATCTTCCAAAAATCTCACAGTTGGATGGTGTT
+GATGATGGGACAGAGAGTGATACTAGTGTCACAGCCACAACAAGGAAAAGCAGCCAGATT
+CCAAAAAGAAATGGTAAAGAAAATGGAACAGAGAACTTAAAGATTGATAGACCTGAAGAT
+GCTGGGGAGAAAGAACATGTCACTAAGAGTTCTGTTGGCCACAAAAATGAGCCAAAGATG
+GATAACTGCCATTCTGTAAGCAGAGTTAAAACACAGGGACAAGATTCCTTGGAAGCTCAG
+CTCAGCTCATTGGAGTCAAGCCGCAGAGTCCACACAAGTACCCCCTCCGACAAAAATTTA
+CTGGACACCTATAATACTGAGCTCCTGAAATCAGATTCAGACAATAACAACAGTGATGAC
+TGTGGGAATATCCTGCCTTCAGACATTATGGACTTTGTACTAAAGAATACTCCATCCATG
+CAGGCTTTGGGTGAGAGCCCAGAGTCATCTTCATCAGAACTCCTGAATCTTGGTGAAGGA
+TTGGGTCTTGACAGTAATCGTGAAAAAGACATGGGTCTTTTTGAAGTATTTTCTCAGCAG
+CTGCCTACAACAGAACCTGTGGATAGTAGTGTCTCTTCCTCTATCTCAGCAGAGGAACAG
+TTTGAGTTGCCTCTAGAGCTACCATCTGATCTGTCTGTCTTGACCACCCGGAGTCCCACT
+GTCCCCAGCCAGAATCCCAGTAGACTAGCTGTTATCTCAGACTCAGGGGAGAAGAGAGTA
+ACCATCACAGAAAAATCTGTAGCCTCCTCTGAAAGTGACCCAGCACTGCTGAGCCCAGGA
+GTAGATCCAACTCCTGAAGGCCACATGACTCCTGATCATTTTATCCAAGGACACATGGAT
+GCAGACCACATCTCTAGCCCTCCTTGTGGTTCAGTAGAGCAAGGTCATGGCAACAATCAG
+GATTTAACTAGGAACAGTAGCACCCCTGGCCTTCAGGTACCTGTTTCCCCAACTGTTCCC
+ATCCAGAACCAGAAGTATGTGCCCAATTCTACTGATAGTCCTGGCCCGTCTCAGATTTCC
+AATGCAGCTGTCCAGACCACTCCACCCCACCTGAAGCCAGCCACTGAGAAACTCATAGTT
+GTTAACCAGAACATGCAGCCACTTTATGTTCTCCAAACTCTTCCAAATGGAGTGACCCAA
+AAAATCCAATTGACCTCTTCTGTTAGTTCTACACCCAGTGTGATGGAGACAAATACTTCA
+GTATTGGGACCCATGGGAGGTGGTCTCACCCTTACCACAGGACTAAATCCAAGCTTGCCA
+ACTTCTCAATCTTTGTTCCCTTCTGCTAGCAAAGGATTGCTACCCATGTCTCATCACCAG
+CACTTACATTCCTTCCCTGCAGCTACTCAAAGTAGTTTCCCACCAAACATCAGCAATCCT
+CCTTCAGGCCTGCTTATTGGGGTTCAGCCTCCTCCGGATCCCCAACTTTTGGTTTCAGAA
+TCCAGCCAGAGGACAGACCTCAGTACCACAGTAGCCACTCCATCCTCTGGACTCAAGAAA
+AGACCCATATCTCGTCTACAGACCCGAAAGAATAAAAAACTTGCTCCCTCTAGTACCCCT
+TCAAACATTGCCCCTTCTGATGTGGTTTCTAATATGACATTGATTAACTTCACACCCTCC
+CAGCTTCCTAATCATCCAAGTCTGTTAGATTTGGGGTCACTTAATACTTCATCTCACCGA
+ACTGTCCCCAACATCATAAAAAGATCTAAATCTAGCATCATGTATTTTGAACCGGCACCC
+CTGTTACCACAGAGTGTGGGAGGAACTGCTGCCACAGCGGCAGGCACATCAACAATAAGC
+CAGGATACTAGCCACCTCACATCAGGGTCTGTGTCTGGCTTGGCATCCAGTTCCTCTGTC
+TTGAATGTTGTATCCATGCAAACTACCACAACCCCTACAAGTAGTGCGTCAGTTCCAGGA
+CACGTCACCTTAACCAACCCAAGGTTGCTTGGTACCCCAGATATTGGCTCAATAAGCAAT
+CTTTTAATCAAAGCTAGCCAGCAGAGCCTGGGGATTCAGGACCAGCCTGTGGCTTTACCG
+CCAAGTTCAGGAATGTTTCCACAACTGGGGACATCACAGACCCCCTCTACTGCTGCAATA
+ACAGCGGCATCTAGCATCTGTGTGCTCCCCTCCACTCAGACTACGGGCATAACAGCCGCT
+TCACCTTCTGGGGAAGCAGACGAACACTATCAGCTTCAGCATGTGAACCAGCTCCTTGCC
+AGCAAAACTGGGATTCATTCTTCCCAGCGTGATCTTGATTCTGCTTCAGGGCCCCAGGTA
+TCCAACTTTACCCAGACGGTAGACGCTCCTAATAGCATGGGACTGGAGCAGAACAAGGCT
+TTATCCTCAGCTGTGCAAGCCAGCCCCACCTCTCCTGGGGGTTCTCCATCCTCTCCATCT
+TCTGGACAGCGGTCAGCAAGCCCTTCAGTGCCGGGTCCCACTAAACCCAAACCAAAAACC
+AAACGGTTTCAGCTGCCTCTAGACAAAGGGAATGGCAAGAAGCACAAAGTTTCCCATTTG
+CGGACCAGTTCTTCTGAAGCACACATTCCAGACCAAGAAACGACATCCCTGACCTCAGGC
+ACAGGGACTCCAGGAGCAGAGGCTGAGCAGCAGGATACAGCTAGCGTGGAGCAGTCCTCC
+CAGAAGGAGTGTGGGCAACCTGCAGGGCAAGTCGCTGTTCTTCCGGAAGTTCAGGTGACC
+CAAAATCCAGCAAATGAACAAGAAAGTGCAGAACCTAAAACAGTGGAAGAAGAGGAAAGT
+AATTTCAGCTCCCCACTGATGCTTTGGCTTCAGCAAGAACAAAAGCGGAAGGAAAGCATT
+ACTGAGAAAAAACCCAAGAAAGGACTTGTTTTTGAAATTTCCAGTGATGATGGCTTTCAG
+ATCTGTGCAGAAAGTATTGAAGATGCCTGGAAGTCATTGACAGATAAAGTCCAGGAAGCT
+CGATCAAATGCCCGCCTAAAGCAGCTCTCATTTGCAGGTGTTAACGGTTTGAGGATGCTG
+GGGATTCTCCATGATGCAGTTGTGTTCCTCATTGAGCAGCTGTCTGGTGCCAAGCACTGT
+CGAAATTACAAATTCCGTTTCCACAAGCCAGAGGAGGCCAATGAACCCCCCTTGAACCCT
+CACGGCTCAGCCAGGGCTGAAGTCCACCTCAGGAAGTCAGCATTTGACATGTTTAACTTC
+CTGGCTTCTAAACATCGTCAGCCTCCTGAATACAACCCCAATGATGAAGAAGAGGAGGAG
+GTACAGCTGAAGTCAGCTCGGAGGGCAACTAGCATGGATCTGCCAATGCCCATGCGCTTC
+CGGCACTTAAAAAAGACTTCTAAGGAGGCAGTTGGTGTCTACAGGTCTCCCATCCATGGC
+CGGGGTCTTTTCTGTAAGAGAAACATTGATGCAGGTGAGATGGTGATTGAGTATGCCGGC
+AACGTCATCCGCTCCATCCAGACTGACAAGCGGGAAAAGTATTACGACAGCAAGGGCATT
+GGTTGCTATATGTTCCGAATTGATGACTCAGAGGTAGTGGATGCCACCATGCATGGAAAT
+GCTGCACGCTTCATCAATCACTCGTGTGAGCCTAACTGCTATTCTCGGGTCATCAATATT
+GATGGGCAGAAGCACATTGTCATCTTTGCCATGCGTAAGATCTACCGAGGAGAGGAACTC
+ACTTACGACTATAAGTTCCCCATTGAGGATGCCAGCAACAAGCTGCCCTGCAACTGTGGC
+GCCAAGAAATGCCGGAAGTTCCTAAACTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>3969</residue_number>
+    <molecular_weight>432047.735</molecular_weight>
+    <theoretical_pi>9.072</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FYRC</name>
+        <pfam_id>PF05965</pfam_id>
+      </pfam>
+      <pfam>
+        <name>FYRN</name>
+        <pfam_id>PF05964</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PHD</name>
+        <pfam_id>PF00628</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SET</name>
+        <pfam_id>PF00856</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-CXXC</name>
+        <pfam_id>PF02008</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Histone-lysine N-methyltransferase MLL
+MAHSCRWRFPARPGTTGGGGGGGRRGLGGAPRQRVPALLLPPGPPVGGGGPGAPPSPPAV
+AAAAAAAGSSGAGVPGGAAAASAASSSSASSSSSSSSSASSGPALLRVGPGFDAALQVSA
+AIGTNLRRFRAVFGESGGGGGSGEDEQFLGFGSDEEVRVRSPTRSPSVKTSPRKPRGRPR
+SGSDRNSAILSDPSVFSPLNKSETKSGDKIKKKDSKSIEKKRGRPPTFPGVKIKITHGKD
+ISELPKGNKEDSLKKIKRTPSATFQQATKIKKLRAGKLSPLKSKFKTGKLQIGRKGVQIV
+RRRGRPPSTERIKTPSGLLINSELEKPQKVRKDKEGTPPLTKEDKTVVRQSPRRIKPVRI
+IPSSKRTDATIAKQLLQRAKKGAQKKIEKEAAQLQGRKVKTQVKNIRQFIMPVVSAISSR
+IIKTPRRFIEDEDYDPPIKIARLESTPNSRFSAPSCGSSEKSSAASQHSSQMSSDSSRSS
+SPSVDTSTDSQASEEIQVLPEERSDTPEVHPPLPISQSPENESNDRRSRRYSVSERSFGS
+RTTKKLSTLQSAPQQQTSSSPPPPLLTPPPPLQPASSISDHTPWLMPPTIPLASPFLPAS
+TAPMQGKRKSILREPTFRWTSLKHSRSEPQYFSSAKYAKEGLIRKPIFDNFRPPPLTPED
+VGFASGFSASGTAASARLFSPLHSGTRFDMHKRSPLLRAPRFTPSEAHSRIFESVTLPSN
+RTSAGTSSSGVSNRKRKRKVFSPIRSEPRSPSHSMRTRSGRLSSSELSPLTPPSSVSSSL
+SISVSPLATSALNPTFTFPSHSLTQSGESAEKNQRPRKQTSAPAEPFSSSSPTPLFPWFT
+PGSQTERGRNKDKAPEELSKDRDADKSVEKDKSRERDREREKENKRESRKEKRKKGSEIQ
+SSSALYPVGRVSKEKVVGEDVATSSSAKKATGRKKSSSHDSGTDITSVTLGDTTAVKTKI
+LIKKGRGNLEKTNLDLGPTAPSLEKEKTLCLSTPSSSTVKHSTSSIGSMLAQADKLPMTD
+KRVASLLKKAKAQLCKIEKSKSLKQTDQPKAQGQESDSSETSVRGPRIKHVCRRAAVALG
+RKRAVFPDDMPTLSALPWEEREKILSSMGNDDKSSIAGSEDAEPLAPPIKPIKPVTRNKA
+PQEPPVKKGRRSRRCGQCPGCQVPEDCGVCTNCLDKPKFGGRNIKKQCCKMRKCQNLQWM
+PSKAYLQKQAKAVKKKEKKSKTSEKKDSKESSVVKNVVDSSQKPTPSAREDPAPKKSSSE
+PPPRKPVEEKSEEGNVSAPGPESKQATTPASRKSSKQVSQPALVIPPQPPTTGPPRKEVP
+KTTPSEPKKKQPPPPESGPEQSKQKKVAPRPSIPVKQKPKEKEKPPPVNKQENAGTLNIL
+STLSNGNSSKQKIPADGVHRIRVDFKEDCEAENVWEMGGLGILTSVPITPRVVCFLCASS
+GHVEFVYCQVCCEPFHKFCLEENERPLEDQLENWCCRRCKFCHVCGRQHQATKQLLECNK
+CRNSYHPECLGPNYPTKPTKKKKVWICTKCVRCKSCGSTTPGKGWDAQWSHDFSLCHDCA
+KLFAKGNFCPLCDKCYDDDDYESKMMQCGKCDRWVHSKCENLSDEMYEILSNLPESVAYT
+CVNCTERHPAEWRLALEKELQISLKQVLTALLNSRTTSHLLRYRQAAKPPDLNPETEESI
+PSRSSPEGPDPPVLTEVSKQDDQQPLDLEGVKRKMDQGNYTSVLEFSDDIVKIIQAAINS
+DGGQPEIKKANSMVKSFFIRQMERVFPWFSVKKSRFWEPNKVSSNSGMLPNAVLPPSLDH
+NYAQWQEREENSHTEQPPLMKKIIPAPKPKGPGEPDSPTPLHPPTPPILSTDRSREDSPE
+LNPPPGIEDNRQCALCLTYGDDSANDAGRLLYIGQNEWTHVNCALWSAEVFEDDDGSLKN
+VHMAVIRGKQLRCEFCQKPGATVGCCLTSCTSNYHFMCSRAKNCVFLDDKKVYCQRHRDL
+IKGEVVPENGFEVFRRVFVDFEGISLRRKFLNGLEPENIHMMIGSMTIDCLGILNDLSDC
+EDKLFPIGYQCSRVYWSTTDARKRCVYTCKIVECRPPVVEPDINSTVEHDENRTIAHSPT
+SFTESSSKESQNTAEIISPPSPDRPPHSQTSGSCYYHVISKVPRIRTPSYSPTQRSPGCR
+PLPSAGSPTPTTHEIVTVGDPLLSSGLRSIGSRRHSTSSLSPQRSKLRIMSPMRTGNTYS
+RNNVSSVSTTGTATDLESSAKVVDHVLGPLNSSTSLGQNTSTSSNLQRTVVTVGNKNSHL
+DGSSSSEMKQSSASDLVSKSSSLKGEKTKVLSSKSSEGSAHNVAYPGIPKLAPQVHNTTS
+RELNVSKIGSFAEPSSVSFSSKEALSFPHLHLRGQRNDRDQHTDSTQSANSSPDEDTEVK
+TLKLSGMSNRSSIINEHMGSSSRDRRQKGKKSCKETFKEKHSSKSFLEPGQVTTGEEGNL
+KPEFMDEVLTPEYMGQRPCNNVSSDKIGDKGLSMPGVPKAPPMQVEGSAKELQAPRKRTV
+KVTLTPLKMENESQSKNALKESSPASPLQIESTSPTEPISASENPGDGPVAQPSPNNTSC
+QDSQSNNYQNLPVQDRNLMLPDGPKPQEDGSFKRRYPRRSARARSNMFFGLTPLYGVRSY
+GEEDIPFYSSSTGKKRGKRSAEGQVDGADDLSTSDEDDLYYYNFTRTVISSGGEERLASH
+NLFREEEQCDLPKISQLDGVDDGTESDTSVTATTRKSSQIPKRNGKENGTENLKIDRPED
+AGEKEHVTKSSVGHKNEPKMDNCHSVSRVKTQGQDSLEAQLSSLESSRRVHTSTPSDKNL
+LDTYNTELLKSDSDNNNSDDCGNILPSDIMDFVLKNTPSMQALGESPESSSSELLNLGEG
+LGLDSNREKDMGLFEVFSQQLPTTEPVDSSVSSSISAEEQFELPLELPSDLSVLTTRSPT
+VPSQNPSRLAVISDSGEKRVTITEKSVASSESDPALLSPGVDPTPEGHMTPDHFIQGHMD
+ADHISSPPCGSVEQGHGNNQDLTRNSSTPGLQVPVSPTVPIQNQKYVPNSTDSPGPSQIS
+NAAVQTTPPHLKPATEKLIVVNQNMQPLYVLQTLPNGVTQKIQLTSSVSSTPSVMETNTS
+VLGPMGGGLTLTTGLNPSLPTSQSLFPSASKGLLPMSHHQHLHSFPAATQSSFPPNISNP
+PSGLLIGVQPPPDPQLLVSESSQRTDLSTTVATPSSGLKKRPISRLQTRKNKKLAPSSTP
+SNIAPSDVVSNMTLINFTPSQLPNHPSLLDLGSLNTSSHRTVPNIIKRSKSSIMYFEPAP
+LLPQSVGGTAATAAGTSTISQDTSHLTSGSVSGLASSSSVLNVVSMQTTTTPTSSASVPG
+HVTLTNPRLLGTPDIGSISNLLIKASQQSLGIQDQPVALPPSSGMFPQLGTSQTPSTAAI
+TAASSICVLPSTQTTGITAASPSGEADEHYQLQHVNQLLASKTGIHSSQRDLDSASGPQV
+SNFTQTVDAPNSMGLEQNKALSSAVQASPTSPGGSPSSPSSGQRSASPSVPGPTKPKPKT
+KRFQLPLDKGNGKKHKVSHLRTSSSEAHIPDQETTSLTSGTGTPGAEAEQQDTASVEQSS
+QKECGQPAGQVAVLPEVQVTQNPANEQESAEPKTVEEEESNFSSPLMLWLQQEQKRKESI
+TEKKPKKGLVFEISSDDGFQICAESIEDAWKSLTDKVQEARSNARLKQLSFAGVNGLRML
+GILHDAVVFLIEQLSGAKHCRNYKFRFHKPEEANEPPLNPHGSARAEVHLRKSAFDMFNF
+LASKHRQPPEYNPNDEEEEEVQLKSARRATSMDLPMPMRFRHLKKTSKEAVGVYRSPIHG
+RGLFCKRNIDAGEMVIEYAGNVIRSIQTDKREKYYDSKGIGCYMFRIDDSEVVDATMHGN
+AARFINHSCEPNCYSRVINIDGQKHIVIFAMRKIYRGEELTYDYKFPIEDASNKLPCNCG
+AKKCRKFLN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>34305635</genbank_protein_id>
+  <uniprot_id>Q03164</uniprot_id>
+  <uniprot_name>MLL1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2AGH</pdb_id>
+    <pdb_id>2J2S</pdb_id>
+    <pdb_id>2JYI</pdb_id>
+    <pdb_id>2KKF</pdb_id>
+    <pdb_id>2KU7</pdb_id>
+    <pdb_id>2KYU</pdb_id>
+    <pdb_id>2W5Y</pdb_id>
+    <pdb_id>2W5Z</pdb_id>
+    <pdb_id>3EG6</pdb_id>
+    <pdb_id>3EMH</pdb_id>
+    <pdb_id>3LQH</pdb_id>
+    <pdb_id>3LQI</pdb_id>
+    <pdb_id>3LQJ</pdb_id>
+    <pdb_id>3P4F</pdb_id>
+    <pdb_id>3U85</pdb_id>
+    <pdb_id>3U88</pdb_id>
+    <pdb_id>4ESG</pdb_id>
+    <pdb_id>4GQ6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AY373585</genbank_gene_id>
+  <genecard_id>MLL</genecard_id>
+  <geneatlas_id>MLL</geneatlas_id>
+  <hgnc_id>HGNC:7132</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tkachuk DC, Kohler S, Cleary ML: Involvement of a homolog of Drosophila trithorax by 11q23 chromosomal translocations in acute leukemias. Cell. 1992 Nov 13;71(4):691-700.</reference_text>
+      <pubmed_id>1423624</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nilson I, Lochner K, Siegler G, Greil J, Beck JD, Fey GH, Marschalek R: Exon/intron structure of the human ALL-1 (MLL) gene involved in translocations to chromosomal region 11q23 and acute leukaemias. Br J Haematol. 1996 Jun;93(4):966-72.</reference_text>
+      <pubmed_id>8703835</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamamoto K, Seto M, Komatsu H, Iida S, Akao Y, Kojima S, Kodera Y, Nakazawa S, Ariyoshi Y, Takahashi T, et al.: Two distinct portions of LTG19/ENL at 19p13 are involved in t(11;19) leukemia. Oncogene. 1993 Oct;8(10):2617-25.</reference_text>
+      <pubmed_id>8378076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gu Y, Nakamura T, Alder H, Prasad R, Canaani O, Cimino G, Croce CM, Canaani E: The t(4;11) chromosome translocation of human acute leukemias fuses the ALL-1 gene, related to Drosophila trithorax, to the AF-4 gene. Cell. 1992 Nov 13;71(4):701-8.</reference_text>
+      <pubmed_id>1423625</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Djabali M, Selleri L, Parry P, Bower M, Young BD, Evans GA: A trithorax-like gene is interrupted by chromosome 11q23 translocations in acute leukaemias. Nat Genet. 1992 Oct;2(2):113-8.</reference_text>
+      <pubmed_id>1303259</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Djabali M, Selleri L, Parry P, Bower M, Young B, Evans GA: A trithorax-like gene is interrupted by chromosome 11q23 translocations in acute leukaemias. Nat Genet. 1993 Aug;4(4):431.</reference_text>
+      <pubmed_id>8401594</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marschalek R, Greil J, Lochner K, Nilson I, Siegler G, Zweckbronner I, Beck JD, Fey GH: Molecular analysis of the chromosomal breakpoint and fusion transcripts in the acute lymphoblastic SEM cell line with chromosomal translocation t(4;11). Br J Haematol. 1995 Jun;90(2):308-20.</reference_text>
+      <pubmed_id>7794749</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mbangkollo D, Burnett R, McCabe N, Thirman M, Gill H, Yu H, Rowley JD, Diaz MO: The human MLL gene: nucleotide sequence, homology to the Drosophila trx zinc-finger domain, and alternative splicing. DNA Cell Biol. 1995 Jun;14(6):475-83.</reference_text>
+      <pubmed_id>7598802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gu Y, Alder H, Nakamura T, Schichman SA, Prasad R, Canaani O, Saito H, Croce CM, Canaani E: Sequence analysis of the breakpoint cluster region in the ALL-1 gene involved in acute leukemia. Cancer Res. 1994 May 1;54(9):2326-30.</reference_text>
+      <pubmed_id>8162575</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Forster A, Rabbitts TH: A method for identifying genes within yeast artificial chromosomes: application to isolation of MLL fusion cDNAs from acute leukaemia translocations. Oncogene. 1993 Nov;8(11):3157-60.</reference_text>
+      <pubmed_id>8414518</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hsieh JJ, Ernst P, Erdjument-Bromage H, Tempst P, Korsmeyer SJ: Proteolytic cleavage of MLL generates a complex of N- and C-terminal fragments that confers protein stability and subnuclear localization. Mol Cell Biol. 2003 Jan;23(1):186-94.</reference_text>
+      <pubmed_id>12482972</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taki T, Hayashi Y, Taniwaki M, Seto M, Ueda R, Hanada R, Suzukawa K, Yokota J, Morishita K: Fusion of the MLL gene with two different genes, AF-6 and AF-5alpha, by a complex translocation involving chromosomes 5, 6, 8 and 11 in infant leukemia. Oncogene. 1996 Nov 21;13(10):2121-30.</reference_text>
+      <pubmed_id>8950979</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taki T, Shibuya N, Taniwaki M, Hanada R, Morishita K, Bessho F, Yanagisawa M, Hayashi Y: ABI-1, a human homolog to mouse Abl-interactor 1, fuses the MLL gene in acute myeloid leukemia with t(10;11)(p11.2;q23). Blood. 1998 Aug 15;92(4):1125-30.</reference_text>
+      <pubmed_id>9694699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cui X, De Vivo I, Slany R, Miyamoto A, Firestein R, Cleary ML: Association of SET domain and myotubularin-related proteins modulates growth control. Nat Genet. 1998 Apr;18(4):331-7.</reference_text>
+      <pubmed_id>9537414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Adler HT, Chinery R, Wu DY, Kussick SJ, Payne JM, Fornace AJ Jr, Tkachuk DC: Leukemic HRX fusion proteins inhibit GADD34-induced apoptosis and associate with the GADD34 and hSNF5/INI1 proteins. Mol Cell Biol. 1999 Oct;19(10):7050-60.</reference_text>
+      <pubmed_id>10490642</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taki T, Kano H, Taniwaki M, Sako M, Yanagisawa M, Hayashi Y: AF5q31, a newly identified AF4-related gene, is fused to MLL in infant acute lymphoblastic leukemia with ins(5;11)(q31;q13q23). Proc Natl Acad Sci U S A. 1999 Dec 7;96(25):14535-40.</reference_text>
+      <pubmed_id>10588740</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sano K, Hayakawa A, Piao JH, Kosaka Y, Nakamura H: Novel SH3 protein encoded by the AF3p21 gene is fused to the mixed lineage leukemia protein in a therapy-related leukemia with t(3;11) (p21;q23). Blood. 2000 Feb 1;95(3):1066-8.</reference_text>
+      <pubmed_id>10648423</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pegram LD, Megonigal MD, Lange BJ, Nowell PC, Rowley JD, Rappaport EF, Felix CA: t(3;11) translocation in treatment-related acute myeloid leukemia fuses MLL with the GMPS (GUANOSINE 5' MONOPHOSPHATE SYNTHETASE) gene. Blood. 2000 Dec 15;96(13):4360-2.</reference_text>
+      <pubmed_id>11110714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Megonigal MD, Cheung NK, Rappaport EF, Nowell PC, Wilson RB, Jones DH, Addya K, Leonard DG, Kushner BH, Williams TM, Lange BJ, Felix CA: Detection of leukemia-associated MLL-GAS7 translocation early during chemotherapy with DNA topoisomerase II inhibitors. Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2814-9.</reference_text>
+      <pubmed_id>10706619</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daheron L, Veinstein A, Brizard F, Drabkin H, Lacotte L, Guilhot F, Larsen CJ, Brizard A, Roche J: Human LPP gene is fused to MLL in a secondary acute leukemia with a t(3;11) (q28;q23). Genes Chromosomes Cancer. 2001 Aug;31(4):382-9.</reference_text>
+      <pubmed_id>11433529</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ono R, Taki T, Taketani T, Taniwaki M, Kobayashi H, Hayashi Y: LCX, leukemia-associated protein with a CXXC domain, is fused to MLL in acute myeloid leukemia with trilineage dysplasia having t(10;11)(q22;q23). Cancer Res. 2002 Jul 15;62(14):4075-80.</reference_text>
+      <pubmed_id>12124344</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakamura T, Mori T, Tada S, Krajewski W, Rozovskaia T, Wassell R, Dubois G, Mazo A, Croce CM, Canaani E: ALL-1 is a histone methyltransferase that assembles a supercomplex of proteins involved in transcriptional regulation. Mol Cell. 2002 Nov;10(5):1119-28.</reference_text>
+      <pubmed_id>12453419</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hsieh JJ, Cheng EH, Korsmeyer SJ: Taspase1: a threonine aspartase required for cleavage of MLL and proper HOX gene expression. Cell. 2003 Oct 31;115(3):293-303.</reference_text>
+      <pubmed_id>14636557</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chinwalla V, Chien A, Odero M, Neilly MB, Zeleznik-Le NJ, Rowley JD: A t(11;15) fuses MLL to two different genes, AF15q14 and a novel gene MPFYVE on chromosome 15. Oncogene. 2003 Mar 6;22(9):1400-10.</reference_text>
+      <pubmed_id>12618766</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuefer MU, Chinwalla V, Zeleznik-Le NJ, Behm FG, Naeve CW, Rakestraw KM, Mukatira ST, Raimondi SC, Morris SW: Characterization of the MLL partner gene AF15q14 involved in t(11;15)(q23;q14). Oncogene. 2003 Mar 6;22(9):1418-24.</reference_text>
+      <pubmed_id>12618768</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>von Bergh AR, Wijers PM, Groot AJ, van Zelderen-Bhola S, Falkenburg JH, Kluin PM, Schuuring E: Identification of a novel RAS GTPase-activating protein (RASGAP) gene at 9q34 as an MLL fusion partner in a patient with de novo acute myeloid leukemia. Genes Chromosomes Cancer. 2004 Apr;39(4):324-34.</reference_text>
+      <pubmed_id>14978793</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kojima K, Sakai I, Hasegawa A, Niiya H, Azuma T, Matsuo Y, Fujii N, Tanimoto M, Fujita S: FLJ10849, a septin family gene, fuses MLL in a novel leukemia cell line CNLBC1 derived from chronic neutrophilic leukemia in transformation with t(4;11)(q21;q23). Leukemia. 2004 May;18(5):998-1005.</reference_text>
+      <pubmed_id>14999297</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yokoyama A, Wang Z, Wysocka J, Sanyal M, Aufiero DJ, Kitabayashi I, Herr W, Cleary ML: Leukemia proto-oncoprotein MLL forms a SET1-like histone methyltransferase complex with menin to regulate Hox gene expression. Mol Cell Biol. 2004 Jul;24(13):5639-49.</reference_text>
+      <pubmed_id>15199122</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hayette S, Cornillet-Lefebvre P, Tigaud I, Struski S, Forissier S, Berchet A, Doll D, Gillot L, Brahim W, Delabesse E, Magaud JP, Rimokh R: AF4p12, a human homologue to the furry gene of Drosophila, as a novel MLL fusion partner. Cancer Res. 2005 Aug 1;65(15):6521-5.</reference_text>
+      <pubmed_id>16061630</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dou Y, Milne TA, Tackett AJ, Smith ER, Fukuda A, Wysocka J, Allis CD, Chait BT, Hess JL, Roeder RG: Physical association and coordinate function of the H3 K4 methyltransferase MLL1 and the H4 K16 acetyltransferase MOF. Cell. 2005 Jun 17;121(6):873-85.</reference_text>
+      <pubmed_id>15960975</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nousiainen M, Sillje HH, Sauer G, Nigg EA, Korner R: Phosphoproteome analysis of the human mitotic spindle.  Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5391-6. Epub 2006 Mar 24.</reference_text>
+      <pubmed_id>16565220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cho YW, Hong T, Hong S, Guo H, Yu H, Kim D, Guszczynski T, Dressler GR, Copeland TD, Kalkum M, Ge K: PTIP associates with MLL3- and MLL4-containing histone H3 lysine 4 methyltransferase complex. J Biol Chem. 2007 Jul 13;282(28):20395-406. Epub 2007 May 11.</reference_text>
+      <pubmed_id>17500065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vasilescu J, Zweitzig DR, Denis NJ, Smith JC, Ethier M, Haines DS, Figeys D: The proteomic reactor facilitates the analysis of affinity-purified proteins by mass spectrometry: application for identifying ubiquitinated proteins in human cells. J Proteome Res. 2007 Jan;6(1):298-305.</reference_text>
+      <pubmed_id>17203973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Patel A, Dharmarajan V, Vought VE, Cosgrove MS: On the mechanism of multiple lysine methylation by the human mixed lineage leukemia protein-1 (MLL1) core complex. J Biol Chem. 2009 Sep 4;284(36):24242-56. Epub 2009 Jun 25.</reference_text>
+      <pubmed_id>19556245</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Allen MD, Grummitt CG, Hilcenko C, Min SY, Tonkin LM, Johnson CM, Freund SM, Bycroft M, Warren AJ: Solution structure of the nonmethyl-CpG-binding CXXC domain of the leukaemia-associated MLL histone methyltransferase. EMBO J. 2006 Oct 4;25(19):4503-12. Epub 2006 Sep 21.</reference_text>
+      <pubmed_id>16990798</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Guzman RN, Goto NK, Dyson HJ, Wright PE: Structural basis for cooperative transcription factor binding to the CBP coactivator. J Mol Biol. 2006 Feb 3;355(5):1005-13. Epub 2005 Oct 5.</reference_text>
+      <pubmed_id>16253272</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Patel A, Dharmarajan V, Cosgrove MS: Structure of WDR5 bound to mixed lineage leukemia protein-1 peptide.  J Biol Chem. 2008 Nov 21;283(47):32158-61. Epub 2008 Oct 1.</reference_text>
+      <pubmed_id>18829459</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Southall SM, Wong PS, Odho Z, Roe SM, Wilson JR: Structural basis for the requirement of additional factors for MLL1 SET domain activity and recognition of epigenetic marks. Mol Cell. 2009 Jan 30;33(2):181-91.</reference_text>
+      <pubmed_id>19187761</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:02 -0700</creation_date>
+  <update_date>2013-05-27 11:28:26 -0600</update_date>
+  <accession>HMDBP00855</accession>
+  <secondary_accessions>
+    <accession>6136</accession>
+    <accession>HMDBP03408</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>5-OPase</synonym>
+    <synonym>5-oxo-L-prolinase</synonym>
+    <synonym>Pyroglutamase</synonym>
+  </synonyms>
+  <gene_name>OPLAH</gene_name>
+  <general_function>Involved in hydrolase activity</general_function>
+  <specific_function>Catalyzes the cleavage of 5-oxo-L-proline to form L-glutamate coupled to the hydrolysis of ATP to ADP and inorganic phosphate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glutathione Metabolism</name>
+      <smpdb_id>SMP00015</smpdb_id>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glutathione metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00267</accession>
+      <name>Pyroglutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>5-oxoprolinase (ATP-hydrolyzing) activity</description>
+      <go_id>GO:0017168</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutathione biosynthetic process</description>
+      <go_id>GO:0006750</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q24.3</locus>
+    <gene_sequence>&gt;3867 bp
+ATGGGCAGCCCCGAGGGCCGCTTCCACTTTGCCATCGACCGTGGGGGTACCTTCACAGAC
+GTCTTTGCCCAGTGCCCAGGGGGGCACGTGCGGGTCTTAAAACTGCTCTCAGAGGACCCT
+GCCAACTATGCGGACGCGCCAACCGAAGGCATCCGCCGCATCCTGGAGCAGGAGGCCGGC
+ATGCTCCTGCCCCGGGACCAGCCGCTGGACTCCAGTCATATCGCCAGCATCCGCATGGGC
+ACCACAGTGGCCACCAACGCACTGCTGGAGCGGAAGGGGGAGCGGGTGGCGCTGCTGGTG
+ACACGTGGCTTCCGAGACCTGCTGCACATTGGCACCCAAGCCCGTGGGGACCTCTTTGAC
+CTGGCCGTGCCCATGCCTGAGGTGCTGTATGAAGAGGTGCTGGAGGTGGACGAACGCGTG
+GTGCTGCACCGTGGAGAGGCGGGCACCGGGACGCCTGTGAAAGGCCGCACGGGGGACCTG
+CTGGAAGTGCAGCAGCCTGTGGACCTGGGGGCCCTGCGTGGGAAGCTGGAGGGGCTGCTA
+TCTCGAGGCATCCGCAGCCTGGCTGTGGTGCTCATGCACTCGTACACGTGGGCCCAGCAT
+GAGCAGCAGGTGGGTGTGCTGGCCCGGGAGCTGGGCTTCACGCACGTGTCACTGTCCTCG
+GAGGCCATGCCCATGGTGCGCATCGTCCCTCGGGGGCACACGGCCTGTGCCGACGCCTAC
+CTCACGCCCGCCATCCAGCGCTACGTGCAGGGCTTCTGCCGTGGCTTCCAGGGCCAACTC
+AAGGATGTGCAGGTGTTGTTCATGCGCTCCGATGGCGGCCTGGCGCCCATGGACACCTTC
+AGCGGCTCCAGTGCTGTGCTCTCGGGCCCGGCCGGCGGCGTGGTGGGCTACTCAGCCACC
+ACCTACCAGCAGGAGGGTGGCCAGCCTGTCATCGGCTTTGACATGGGAGGCACGTCCACG
+GATGTGAGCCGCTATGCTGGGGAATTCGAGCACGTCTTCGAGGCCAGCACAGCTGGCGTC
+ACCCTCCAGGCCCCGCAGCTGGACATCAACACCGTGGCAGCGGGAGGGGGTTCCCGCCTC
+TTCTTCAGGTCTGGCCTCTTTGTGGTTGGGCCCGAGTCAGCAGGAGCCCACCCAGGACCC
+GCCTGCTACCGCAAAGGGGGCCCTGTGACAGTGACGGATGCTAATCTGGTCCTGGGTCGC
+CTGCTGCCTGCCTCCTTCCCCTGCATTTTTGGGCCGGGAGAGAACCAACCACTTTCCCCT
+GAGGCCTCCCGCAAAGCCCTGGAGGCTGTGGCCACTGAGGTCAACAGCTTCCTGACCAAC
+GGGCCCTGCCCGGCCTCCCCGCTGAGCCTGGAGGAGGTGGCCATGGGGTTCGTGCGCGTG
+GCCAACGAGGCCATGTGCCGGCCCATCCGTGCACTCACGCAGGCAAGAGGCCATGACCCC
+TCAGCCCATGTGCTGGCCTGCTTTGGGGGAGCTGGTGGGCAGCATGCATGTGCCATCGCC
+CGGGCCCTGGGCATGGACACGGTGCACATCCACAGGCACAGTGGGCTGCTGTCGGCCCTG
+GGGCTGGCCCTGGCTGACGTGGTGCATGAGGCACAGGAACCCTGCTCCCTGCTCTACGCG
+CCTGAGACCTTCGTGCAGCTGGACCAGAGGCTGAGCCGCCTGGAGGAGCAGTGTGTGGAT
+GCTCTGCAGGCCCAGGGCTTCCCCAGGTCCCAGATCAGCACTGAGAGCTTCCTGCACCTG
+CGCTACCAGGGCACGGACTGTGCTCTGATGGTGTCTGCCCACCAGCACCCAGCCACAGCC
+CGCTCGCCCCGTGCGGGGGACTTCGGGGCAGCCTTTGTGGAGCGGTACATGAGGGAGTTT
+GGCTTTGTCATACCTGAGCGGCCGGTGGTCGTGGACGATGTGCGAGTGCGGGGCACCGGC
+CGCAGTGGTCTTCGCCTCGAGGATGCCCCCAAAGCCCAGACCGGGCCTCCCCGGGTGGAC
+AAGATGACCCAGTGCTACTTTGAGGGGGGCTACCAGGAGACCCCTGTGTACCTGCTGGCA
+GAGCTGGGCTATGGGCACAAGCTCCATGGGCCCTGCCTCATCATCGACAGTAACAGCACC
+ATCCTGGTGGAGCCAGGTTGCCAGGCAGAGGTGACCAAGACAGGGGACATCTGCATCTCC
+GTGGGGGCCGAAGTCCCCGGCACAGTGGGCCCCCAGCTGGACCCTATCCAGCTGTCCATC
+TTCTCACACCGCTTCATGAGCATTGCTGAGCAGATGGGCCGCATCCTGCAGCGCACAGCC
+ATCTCCACCAACATCAAGGAGCGTCTGGACTTCTCCTGTGCCCTCTTTGGGCCCGATGGG
+GGGCTGGTGTCCAATGCCCCCCACATCCCTGTGCACCTGGGTGCCATGCAGGAGACGGTG
+CAGTTCCAGATTCAGCACCTGGGGGCCGATCTCCACCCTGGCGACGTGCTACTGAGCAAC
+CATCCCAGTGCCGGGGGCAGCCACCTGCCAGACCTGACTGTTATCACACCGGTGTTTTGG
+CCGGGTCAGACGCGGCCTGTGTTCTATGTGGCCAGCCGAGGGCACCACGCAGACATCGGG
+GGCATCACACCAGGCTCCATGCCCCCCCACTCCACCATGCTGCAACAGGAGGGTGCCGTC
+TTTCTGTCCTTCAAACTTGTCCAGGGGGGCGTCTTCCAGGAGGAGGCGGTGACGGAGGCC
+CTGCGGGCGCCAGGCAAGGTCCCCAACTGCAGCGGAACCAGAAACCTGCACGACAACCTG
+TCGGACCTCCGTGCCCAGGTGGCAGCCAACCAGAAGGGCATCCAGCTGGTGGGGGAGCTC
+ATTGGGCAGTACGGCCTGGACGTGGTGCAGGCCTACATGGGCCATATTCAGGCAAACGCT
+GAGCTGGCCGTGCGAGACATGTTGCGTGCCTTTGGAACCTCCCGGCAGGCCCGGGGCCTG
+CCCCTGGAGGTGTCCTCGGAAGACCACATGGACGACGGTTCCCCCATCCGCCTCCGTGTG
+CAGATCAGCCTGAGTCAGGGCAGCGCTGTGTTTGACTTCAGCGGCACTGGGCCGGAGGTG
+TTTGGTAATCTCAACGCACCGCGGGCCGTAACCCTGTCCGCCCTCATCTACTGCCTGCGC
+TGTCTGGTGGGCCGCGACATCCCACTCAACCAGGGCTGCCTGGCGCCAGTGCGCGTGGTC
+ATTCCCCGAGGCTCCATCCTGGACCCGTCGCCCGAGGCGGCGGTGGTGGGCGGCAACGTG
+CTCACGTCGCAGCGCGTGGTGGATGTCATCCTGGGGGCCTTTGGGGCCTGCGCCGCCTCC
+CAGGGCTGCATGAACAACGTGACCCTGGGCAACGCCCACATGGGCTACTACGAGACGGTG
+GCGGGCGGCGCGGGCGCGGGTCCCAGCTGGCACGGGCGCAGCGGTGTGCACAGCCACATG
+ACCAACACACGCATCACCGACCCTGAGATCCTGGAGAGCCGGTACCCGGTCATCCTGCGC
+CGCTTCGAGCTGCGGCGGGGCTCGGGGGGCAGAGGCCGCTTCCGAGGCGGCGACGGCGTC
+ACCCGCGAGCTGCTCTTTCGTGAGGAGGCGCTGCTGTCAGTGCTGACCGAGCGCCGCGCC
+TTCCGGCCATACGGGCTCCACGGGGGCGAGCCTGGCGCCCGCGGCCTAAACCTGCTGATC
+CGCAAAAACGGCCGGACGGTGAATCTGGGCGGCAAGACGTCGGTGACCGTGTACCCCGGG
+GATGTGTTCTGTCTCCACACGCCCGGCGGCGGTGGCTATGGGGACCCGGAGGACCCCGCC
+CCACCGCCGGGGTCGCCCCCGCAAGCACTGGCCTTTCCCGAGCACGGCAGCGTCTATGAG
+TATCGCCGGGCCCAGGAGGCCGTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1288</residue_number>
+    <molecular_weight>137456.195</molecular_weight>
+    <theoretical_pi>6.581</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Hydant_A_N</name>
+        <pfam_id>PF05378</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Hydantoinase_A</name>
+        <pfam_id>PF01968</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Hydantoinase_B</name>
+        <pfam_id>PF02538</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;5-oxoprolinase
+MGSPEGRFHFAIDRGGTFTDVFAQCPGGHVRVLKLLSEDPANYADAPTEGIRRILEQEAG
+MLLPRDQPLDSSHIASIRMGTTVATNALLERKGERVALLVTRGFRDLLHIGTQARGDLFD
+LAVPMPEVLYEEVLEVDERVVLHRGEAGTGTPVKGRTGDLLEVQQPVDLGALRGKLEGLL
+SRGIRSLAVVLMHSYTWAQHEQQVGVLARELGFTHVSLSSEAMPMVRIVPRGHTACADAY
+LTPAIQRYVQGFCRGFQGQLKDVQVLFMRSDGGLAPMDTFSGSSAVLSGPAGGVVGYSAT
+TYQQEGGQPVIGFDMGGTSTDVSRYAGEFEHVFEASTAGVTLQAPQLDINTVAAGGGSRL
+FFRSGLFVVGPESAGAHPGPACYRKGGPVTVTDANLVLGRLLPASFPCIFGPGENQPLSP
+EASRKALEAVATEVNSFLTNGPCPASPLSLEEVAMGFVRVANEAMCRPIRALTQARGHDP
+SAHVLACFGGAGGQHACAIARALGMDTVHIHRHSGLLSALGLALADVVHEAQEPCSLLYA
+PETFVQLDQRLSRLEEQCVDALQAQGFPRSQISTESFLHLRYQGTDCALMVSAHQHPATA
+RSPRAGDFGAAFVERYMREFGFVIPERPVVVDDVRVRGTGRSGLRLEDAPKAQTGPPRVD
+KMTQCYFEGGYQETPVYLLAELGYGHKLHGPCLIIDSNSTILVEPGCQAEVTKTGDICIS
+VGAEVPGTVGPQLDPIQLSIFSHRFMSIAEQMGRILQRTAISTNIKERLDFSCALFGPDG
+GLVSNAPHIPVHLGAMQETVQFQIQHLGADLHPGDVLLSNHPSAGGSHLPDLTVITPVFW
+PGQTRPVFYVASRGHHADIGGITPGSMPPHSTMLQQEGAVFLSFKLVQGGVFQEEAVTEA
+LRAPGKVPNCSGTRNLHDNLSDLRAQVAANQKGIQLVGELIGQYGLDVVQAYMGHIQANA
+ELAVRDMLRAFGTSRQARGLPLEVSSEDHMDDGSPIRLRVQISLSQGSAVFDFSGTGPEV
+FGNLNAPRAVTLSALIYCLRCLVGRDIPLNQGCLAPVRVVIPRGSILDPSPEAAVVGGNV
+LTSQRVVDVILGAFGACAASQGCMNNVTLGNAHMGYYETVAGGAGAGPSWHGRSGVHSHM
+TNTRITDPEILESRYPVILRRFELRRGSGGRGRFRGGDGVTRELLFREEALLSVLTERRA
+FRPYGLHGGEPGARGLNLLIRKNGRTVNLGGKTSVTVYPGDVFCLHTPGGGGYGDPEDPA
+PPPGSPPQALAFPEHGSVYEYRRAQEAV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O14841</uniprot_id>
+  <uniprot_name>OPLA_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB122018</genbank_gene_id>
+  <genecard_id>OPLAH</genecard_id>
+  <geneatlas_id>OPLAH</geneatlas_id>
+  <hgnc_id>HGNC:8149</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Watanabe T, Abe K, Ishikawa H, Iijima Y: Bovine 5-oxo-L-prolinase: simple assay method, purification, cDNA cloning, and detection of mRNA in the coronary artery. Biol Pharm Bull. 2004 Mar;27(3):288-94.</reference_text>
+      <pubmed_id>14993790</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nishimura A, Itoh H, Oyama H, Murao S, Oda K: A simultaneous assay method for L-glutamate and L-pyroglutamate contents in soy sauce using a 5-oxoprolinase (without ATP hydrolyzing activity). Biosci Biotechnol Biochem. 2001 Feb;65(2):477-9.</reference_text>
+        <pubmed_id>11302195</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Van der Werf P, Stephani RA, Orlowski M, Meister A: Inhibition of 5-oxoprolinase by 2-imidazolidone-4-carboxylic acid.  Proc Natl Acad Sci U S A. 1973 Mar;70(3):759-61.</reference_text>
+        <pubmed_id>4514988</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Seddon AP, Li LY, Meister A: Resolution of 5-oxo-L-prolinase into a 5-oxo-L-proline-dependent ATPase and a coupling protein. J Biol Chem. 1984 Jul 10;259(13):8091-4.</reference_text>
+        <pubmed_id>6145710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

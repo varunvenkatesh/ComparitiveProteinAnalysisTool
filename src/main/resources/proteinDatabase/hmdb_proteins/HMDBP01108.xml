@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:23 -0700</creation_date>
+  <update_date>2013-04-11 14:11:43 -0600</update_date>
+  <accession>HMDBP01108</accession>
+  <secondary_accessions>
+    <accession>6401</accession>
+    <accession>HMDBP07214</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MCT 3</synonym>
+    <synonym>Solute carrier family 16 member 8</synonym>
+  </synonyms>
+  <gene_name>SLC16A8</gene_name>
+  <general_function>Involved in transmembrane transport</general_function>
+  <specific_function>Proton-linked monocarboxylate transporter. Catalyzes the rapid transport across the plasma membrane of many monocarboxylates such as lactate, pyruvate, branched-chain oxo acids derived from leucine, valine and isoleucine, and the ketone bodies acetoacetate, beta-hydroxybutyrate and acetate</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00243</accession>
+      <name>Pyruvic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>organic acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carboxylic acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monocarboxylic acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>secondary active monocarboxylate transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:2</chromosome_location>
+    <locus>22q12.3-q13.2</locus>
+    <gene_sequence>&gt;1515 bp
+ATGGGCGCTGGCGGCCCCCGGCGGGGCGAGGGCCCCCCAGACGGCGGCTGGGGCTGGGTG
+GTGCTGGGCGCCTGCTTTGTGGTCACCGGCTTCGCCTACGGCTTCCCCAAAGCCGTGAGC
+GTCTTCTTCCGCGCGCTCATGCGCGACTTCGACGCCGGCTACAGCGACACGGCCTGGGTG
+TCCTCCATCATGCTAGCCATGCTCTACGGCACGGGCCCCGTGTCCAGCATCCTCGTGACC
+CGCTTTGGCTGTCGCCCGGTGATGCTGGCGGGTGGGCTGCTGGCTTCCGCGGGCATGATC
+CTAGCTTCCTTTGCCACGCGCCTTCTGGAGCTCTACCTGACCGCTGGGGTGCTCACAGGC
+CTGGGCCTGGCCCTCAACTTCCAGCCGTCGCTCATCATGCTGGGGCTGTACTTCGAGCGG
+CGGCGGCCTCTGGCCAACGGGCTGGCGGCGGCGGGCAGCCCCGTGTTCCTGTCCGCGCTG
+TCGCCGCTCGGCCAGCAGCTGCTGGAGCGCTTCGGCTGGCGCGGCGGCTTCCTGCTGCTC
+GGCGGGCTCCTGCTGCACTGCTGCGCCTGCGGGGCTGTCATGAGGCCGCCGCCCGGGCCG
+GGCCCGCGACCGCGCAGGGACAGCGCCGGCGACCGCGCCGGGGACGCTCCGGGCGAGGCG
+GAGGCTGACGGTGCGGGGCTGCAGCTGCGCGAGGCATCCCCCTGGGTCCGGCCCCGCCGG
+CGCCTGCTGGACTTGGCAGTGTGCACCGACCGCGCCTTCGCCGTGTACGCCGTCACCAAG
+TTCCTGATGGCGCTCGGGCTCTTCGTCCCCGCCATCCTGCTGGTGAACTACGCCAAGGAC
+GCGGGCGTGCCCGACACCGACGCCGCCTTCCTGCTGTCCATCGTGGGCTTCGTGGACATC
+GTGGCGCGCCCGGCGTGCGGCGCCCTGGCGGGCCTGGCGCGTCTGCGGCCGCACGTCCCG
+TATCTGTTCAGCCTGGCCCTGCTGGCCAATGGGCTCACAGACCTGAGCAGCGCACGCGCG
+CGCTCCTACGGCGCCCTCGTCGCCTTCTGCGTCGCCTTCGGCCTCTCCTACGGCATGGTG
+GGCGCGCTGCAGTTCGAGGTGCTCATGGCGGCTGTGGGCGCGCCCCGCTTCCCCAGTGCG
+CTGGGCCTGGTGTTGCTCGTGGAGGCCGCGGCTGTGCTCATCGGACCGCCCTCTGCCGGC
+CGCCTGGTGGATGCGTTGAAGAACTATGAGATCATCTTCTACCTGGCCGGCTCTGAGGTG
+GCCCTGGCTGGGGTCTTCATGGCTGTCGCCACCAACTGCTGCCTGCGTTGTGCTAAAGCT
+GCCCCGTCAGGCCCAGGCACTGAGGGCGGAGCCAGTGACACTGAGGACGCTGAGGCTGAA
+GGGGACTCTGAGCCCCTGCCTGTTGTTGCAGAGGAACCCGGCAACCTGGAGGCCCTGGAG
+GTGCTCAGCGCCCGGGGCGAGCCCACAGAACCAGAAATAGAGGCGAGGCCGAGGCTGGCT
+GCCGAGTCTGTATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>504</residue_number>
+    <molecular_weight>52318.2</molecular_weight>
+    <theoretical_pi>5.32</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MFS_1</name>
+        <pfam_id>PF07690</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>15-35</region>
+      <region>59-79</region>
+      <region>86-106</region>
+      <region>116-136</region>
+      <region>144-164</region>
+      <region>173-193</region>
+      <region>255-275</region>
+      <region>290-310</region>
+      <region>319-335</region>
+      <region>343-363</region>
+      <region>377-397</region>
+      <region>411-431</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Monocarboxylate transporter 3
+MGAGGPRRGEGPPDGGWGWVVLGACFVVTGFAYGFPKAVSVFFRALMRDFDAGYSDTAWV
+SSIMLAMLYGTGPVSSILVTRFGCRPVMLAGGLLASAGMILASFATRLLELYLTAGVLTG
+LGLALNFQPSLIMLGLYFERRRPLANGLAAAGSPVFLSALSPLGQQLLERFGWRGGFLLL
+GGLLLHCCACGAVMRPPPGPGPRPRRDSAGDRAGDAPGEAEADGAGLQLREASPRVRPRR
+RLLDLAVCTDRAFAVYAVTKFLMALGLFVPAILLVNYAKDAGVPDTDAAFLLSIVGFVDI
+VARPACGALAGLARLRPHVPYLFSLALLANGLTDLSSARARSYGALVAFCVAFGLSYGMV
+GALQFEVLMAAVGAPRFPSALGLVLLVEAAAVLIGPPSAGRLVDVLKNYEIIFYLAGSEV
+ALAGVFMAVATNCCLRCAKAAPSGPGTEGGASDTEDAEAEGDSEPLPVVAEEPGNLEALE
+VLSARGEPTEPEIEARPRLAAESV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>6103363</genbank_protein_id>
+  <uniprot_id>O95907</uniprot_id>
+  <uniprot_name>MOT3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF132610</genbank_gene_id>
+  <genecard_id>SLC16A8</genecard_id>
+  <geneatlas_id>SLC16A8</geneatlas_id>
+  <hgnc_id>HGNC:16270</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yoon H, Donoso LA, Philp NJ: Cloning of the human monocarboxylate transporter MCT3 gene: localization to chromosome 22q12.3-q13.2. Genomics. 1999 Sep 15;60(3):366-70.</reference_text>
+      <pubmed_id>10493836</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jansen S, Esmaeilpour T, Pantaleon M, Kaye PL: Glucose affects monocarboxylate cotransporter (MCT) 1 expression during mouse preimplantation development. Reproduction. 2006 Mar;131(3):469-79.</reference_text>
+        <pubmed_id>16514190</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

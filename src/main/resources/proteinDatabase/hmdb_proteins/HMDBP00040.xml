@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:46 -0700</creation_date>
+  <update_date>2013-05-27 11:21:01 -0600</update_date>
+  <accession>HMDBP00040</accession>
+  <secondary_accessions>
+    <accession>5269</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>3-hydroxy-3-methylglutaryl coenzyme A synthase</synonym>
+    <synonym>HMG-CoA synthase</synonym>
+  </synonyms>
+  <gene_name>HMGCS2</gene_name>
+  <general_function>Involved in hydroxymethylglutaryl-CoA synthase activity</general_function>
+  <specific_function>This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>(R)-mevalonate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Synthesis and degradation of ketone bodies</name>
+      <smpdb_id/>
+      <kegg_map_id>map00072</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Valine, leucine and isoleucine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00280</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Butanoate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00650</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Terpenoid backbone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00900</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>PPAR signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03320</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00032</accession>
+      <name>7-Dehydrocholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01375</accession>
+      <name>3-Hydroxy-3-methylglutaryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01484</accession>
+      <name>Acetoacetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydroxymethylglutaryl-coa synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>isoprenoid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>isoprenoid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hydroxymethylglutaryl-CoA synthase activity</description>
+      <go_id>GO:0004421</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>adipose tissue development</description>
+      <go_id>GO:0060612</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>brain development</description>
+      <go_id>GO:0007420</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id>GO:0044255</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to amino acid stimulus</description>
+      <go_id>GO:0071230</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to fatty acid</description>
+      <go_id>GO:0071398</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to glucocorticoid stimulus</description>
+      <go_id>GO:0071385</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to insulin stimulus</description>
+      <go_id>GO:0032869</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to lipopolysaccharide</description>
+      <go_id>GO:0071222</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>isoprenoid biosynthetic process</description>
+      <go_id>GO:0008299</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ketone body biosynthetic process</description>
+      <go_id>GO:0046951</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>kidney development</description>
+      <go_id>GO:0001822</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>liver development</description>
+      <go_id>GO:0001889</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lung development</description>
+      <go_id>GO:0030324</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>midgut development</description>
+      <go_id>GO:0007494</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organismal response to stress</description>
+      <go_id>GO:0033555</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cAMP</description>
+      <go_id>GO:0051591</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ethanol</description>
+      <go_id>GO:0045471</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to glucagon stimulus</description>
+      <go_id>GO:0033762</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to growth hormone stimulus</description>
+      <go_id>GO:0060416</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to linoleic acid</description>
+      <go_id>GO:0070543</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to metal ion</description>
+      <go_id>GO:0010038</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to monosaccharide stimulus</description>
+      <go_id>GO:0034284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient</description>
+      <go_id>GO:0007584</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to prostaglandin F stimulus</description>
+      <go_id>GO:0034696</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to starvation</description>
+      <go_id>GO:0042594</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to temperature stimulus</description>
+      <go_id>GO:0009266</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to testosterone stimulus</description>
+      <go_id>GO:0033574</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to triglyceride</description>
+      <go_id>GO:0034014</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p13-p12</locus>
+    <gene_sequence>&gt;1527 bp
+ATGCAGCGTCTGTTGACTCCAGTGAAGCGCATTCTGCAACTGACAAGAGCGGTGCAGGAA
+ACCTCCCTCACACCTGCTCGCCTGCTCCCAGTAGCCCACCAAAGGTTTTCTACAGCCTCT
+GCTGTCCCCCTGGCCAAAACAGATACTTGGCCAAAGGACGTGGGCATCCTGGCCCTGGAG
+GTCTACTTCCCAGCCCAATATGTGGACCAAACTGACCTGGAGAAGTATAACAATGTGGAA
+GCAGGAAAGTATACAGTGGGCTTGGGCCAGACCCGTATGGGCTTCTGCTCAGTCCAAGAG
+GACATCAACTCCCTGTGCCTGACGGTGGTGCAACGGCTGATGGAGCGCATACAGCTCCCA
+TGGGACTCTGTGGGCAGGCTGGAAGTAGGCACTGAGACCATCATTGACAAGTCCAAAGCT
+GTCAAAACAGTGCTCATGGAACTCTTCCAGGATTCAGGCAATACTGATATTGAGGGCATA
+GATACCACCAATGCCTGCTACGGTGGTACTGCCTCCCTCTTCAATGCTGCCAACTGGATG
+GAGTCCAGTTCCTGGGATGGTCGTTATGCCATGGTGGTCTGTGGAGACATTGCCGTCTAT
+CCCAGTGGTAATGCTCGTCCCACAGGTGGGGCCGGAGCTGTGGCTATGCTGATTGGGCCC
+AAGGCCCCTCTGGCCCTGGAGCGAGGGCTGAGGGGAACCCATATGGAGAATGTGTATGAC
+TTCTACAAACCAAATTTGGCCTCGGAGTACCCAATAGTGGATGGGAAGCTTTCCATCCAG
+TGCTACTTGCGGGCCTTGGATCGATGTTACACATCATACCGTAAAAAAATCCAGAATCAG
+TGGAAGCAAGCTGGCAGCGATCGACCCTTCACCCTTGACGATTTACAGTACATGATCTTT
+CATACACCCTTTTGCAAGATGGTCCAGAAGTCTCTGGCTCGCCTGATGTTCAATGACTTC
+CTGTCAGCCAGCAGTGACACACAAACCAGCTTATATAAGGGGCTGGAGGCTTTCGGGGGG
+CTAAAGCTGGAAGACACCTACACCAACAAGGACCTGGATAAAGCACTTCTAAAGGCCTCT
+CAGGACATGTTCGACAAGAAAACCAAGGCTTCCCTTTACCTCTCCACTCACAATGGGAAC
+ATGTACACCTCATCCCTGTACGGGTGCCTGGCCTCGCTTCTGTCCCACCACTCTGCCCAA
+GAACTGGCTGGCTCCAGGATTGGTGCCTTCTCTTATGGCTCTGGTTTAGCAGCAAGTTTC
+TTTTCATTTCGAGTATCCCAGGATGCTGCTCCAGGCTCTCCCCTGGACAAGTTGGTGTCC
+AGCACATCAGACCTGCCAAAACGCCTAGCCTCCCGAAAGTGTGTGTCTCCTGAGGAGTTC
+ACAGAAATAATGAACCAAAGAGAGCAATTCTACCATAAGGTGAATTTCTCCCCACCTGGT
+GACACAAACAGCCTTTTCCCAGGTACTTGGTACCTGGAGCGAGTGGACGAGCAGCATCGC
+CGAAAGTATGCCCGGCGTCCCGTCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>508</residue_number>
+    <molecular_weight>52481.065</molecular_weight>
+    <theoretical_pi>7.877</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>HMG_CoA_synt_C</name>
+        <pfam_id>PF08540</pfam_id>
+      </pfam>
+      <pfam>
+        <name>HMG_CoA_synt_N</name>
+        <pfam_id>PF01154</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Hydroxymethylglutaryl-CoA synthase, mitochondrial
+MQRLLTPVKRILQLTRAVQETSLTPARLLPVAHQRFSTASAVPLAKTDTWPKDVGILALE
+VYFPAQYVDQTDLEKYNNVEAGKYTVGLGQTRMGFCSVQEDINSLCLTVVQRLMERIQLP
+WDSVGRLEVGTETIIDKSKAVKTVLMELFQDSGNTDIEGIDTTNACYGGTASLFNAANWM
+ESSSWDGRYAMVVCGDIAVYPSGNARPTGGAGAVAMLIGPKAPLALERGLRGTHMENVYD
+FYKPNLASEYPIVDGKLSIQCYLRALDRCYTSYRKKIQNQWKQAGSDRPFTLDDLQYMIF
+HTPFCKMVQKSLARLMFNDFLSASSDTQTSLYKGLEAFGGLKLEDTYTNKDLDKALLKAS
+QDMFDKKTKASLYLSTHNGNMYTSSLYGCLASLLSHHSAQELAGSRIGAFSYGSGLAASF
+FSFRVSQDAAPGSPLDKLVSSTSDLPKRLASRKCVSPEEFTEIMNQREQFYHKVNFSPPG
+DTNSLFPGTWYLERVDEQHRRKYARRPV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>56205097</genbank_protein_id>
+  <uniprot_id>P54868</uniprot_id>
+  <uniprot_name>HMCS2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2WYA</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AL589734</genbank_gene_id>
+  <genecard_id>HMGCS2</genecard_id>
+  <geneatlas_id>HMGCS2</geneatlas_id>
+  <hgnc_id>HGNC:5008</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mascaro C, Buesa C, Ortiz JA, Haro D, Hegardt FG: Molecular cloning and tissue expression of human mitochondrial 3-hydroxy-3-methylglutaryl-CoA synthase. Arch Biochem Biophys. 1995 Mar 10;317(2):385-90.</reference_text>
+      <pubmed_id>7893153</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Boukaftane Y, Mitchell GA: Cloning and characterization of the human mitochondrial 3-hydroxy-3-methylglutaryl CoA synthase gene. Gene. 1997 Aug 22;195(2):121-6.</reference_text>
+      <pubmed_id>9305755</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Boukaftane Y, Duncan A, Wang S, Labuda D, Robert MF, Sarrazin J, Schappert K, Mitchell GA: Human mitochondrial HMG CoA synthase: liver cDNA and partial genomic cloning, chromosome mapping to 1p12-p13, and possible role in vertebrate evolution. Genomics. 1994 Oct;23(3):552-9.</reference_text>
+      <pubmed_id>7851882</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Camarero N, Mascaro C, Mayordomo C, Vilardell F, Haro D, Marrero PF: Ketogenic HMGCS2 Is a c-Myc target gene expressed in differentiated cells of human colonic epithelium and down-regulated in colon cancer. Mol Cancer Res. 2006 Sep;4(9):645-53. Epub 2006 Aug 28.</reference_text>
+      <pubmed_id>16940161</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aledo R, Zschocke J, Pie J, Mir C, Fiesel S, Mayatepek E, Hoffmann GF, Casals N, Hegardt FG: Genetic basis of mitochondrial HMG-CoA synthase deficiency.  Hum Genet. 2001 Jul;109(1):19-23.</reference_text>
+      <pubmed_id>11479731</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bouchard L, Robert MF, Vinarov D, Stanley CA, Thompson GN, Morris A, Leonard JV, Quant P, Hsu BY, Boneh A, Boukaftane Y, Ashmarina L, Wang S, Miziorko H, Mitchell GA: Mitochondrial 3-hydroxy-3-methylglutaryl-CoA synthase deficiency: clinical course and description of causal mutations in two patients. Pediatr Res. 2001 Mar;49(3):326-31.</reference_text>
+      <pubmed_id>11228257</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wolf NI, Rahman S, Clayton PT, Zschocke J: Mitochondrial HMG-CoA synthase deficiency: identification of two further patients carrying two novel mutations. Eur J Pediatr. 2003 Apr;162(4):279-80. Epub 2003 Feb 11.</reference_text>
+      <pubmed_id>12647205</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Dehydrocholesterol</name>
+        <accession>HMDB00032</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Honda M, Tint GS, Honda A, Nguyen LB, Chen TS, Shefer S: 7-Dehydrocholesterol down-regulates cholesterol biosynthesis in cultured Smith-Lemli-Opitz syndrome skin fibroblasts. J Lipid Res. 1998 Mar;39(3):647-57.</reference_text>
+        <pubmed_id>9548596</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

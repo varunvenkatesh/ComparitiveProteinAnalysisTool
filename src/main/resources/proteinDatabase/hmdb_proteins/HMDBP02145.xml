@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:02:59 -0700</creation_date>
+  <update_date>2013-01-15 19:02:59 -0700</update_date>
+  <accession>HMDBP02145</accession>
+  <secondary_accessions>
+    <accession>7628</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>DNA-binding factor KBF1</synonym>
+    <synonym>EBP-1</synonym>
+    <synonym>Nuclear factor NF-kappa-B p50 subunit</synonym>
+    <synonym>Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1</synonym>
+  </synonyms>
+  <gene_name>NFKB1</gene_name>
+  <general_function>Involved in protein binding</general_function>
+  <specific_function>NF-kappa-B is a pleiotropic transcription factor which is present in almost all cell types and is involved in many biological processed such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF- kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52 and the heterodimeric p65-p50 complex appears to be most abundant one. The dimers bind at kappa-B sites in the DNA of their target genes and the individual dimers have distinct preferences for different kappa-B sites that they can bind with distinguishable affinity and specificity. Different dimer combinations act as transcriptional activators or repressors, respectively. NF-kappa-B is controlled by various mechanisms of post-translational modification and subcellular compartmentalization as well as by interactions with other cofactors or corepressors. NF-kappa-B complexes are held in the cytoplasm in an inactive state complexed with members of the NF- kappa-B inhibitor (I-kappa-B) family. In a conventional activation pathway, I-kappa-B is phosphorylated by I-kappa-B kinases (IKKs) in response to different activators, subsequently degraded thus liberating the active NF-kappa-B complex which translocates to the nucleus. NF-kappa-B heterodimeric p65-p50 and RelB-p50 complexes are transcriptional activators. The NF-kappa-B p50-p50 homodimer is a transcriptional repressor, but can act as a transcriptional activator when associated with BCL3. NFKB1 appears to have dual functions such as cytoplasmic retention of attached NF-kappa-B proteins by p105 and generation of p50 by a cotranslational processing. The proteasome-mediated process ensures the production of both p50 and p105 and preserves their independent function, although processing of NFKB1/p105 also appears to occur post- translationally. p50 binds to the kappa-B consensus sequence 5'- GGRNNYYCC-3', located in the enhancer region of genes involved in immune response and acute phase reactions. In a complex with MAP3K8, NFKB1/p105 represses MAP3K8-induced MAPK signaling; active MAP3K8 is released by proteasome-dependent degradation of NFKB1/p105</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB13870</accession>
+      <name>cis,trans-5'-Hydroxythalidomide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15481</accession>
+      <name>Pranlukast</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>sequence-specific dna binding transcription factor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:4</chromosome_location>
+    <locus>4q24</locus>
+    <gene_sequence>&gt;2907 bp
+ATGGCAGAAGATGATCCATATTTGGGAAGGCCTGAACAAATGTTTCATTTGGATCCTTCT
+TTGACTCATACAATATTTAATCCAGAAGTATTTCAACCACAGATGGCACTGCCAACAGAT
+GGCCCATACCTTCAAATATTAGAGCAACCTAAACAGAGAGGATTTCGTTTCCGTTATGTA
+TGTGAAGGCCCATCCCATGGTGGACTACCTGGTGCCTCTAGTGAAAAGAACAAGAAGTCT
+TACCCTCAGGTCAAAATCTGCAACTATGTGGGACCAGCAAAGGTTATTGTTCAGTTGGTC
+ACAAATGGAAAAAATATCCACCTGCATGCCCACAGCCTGGTGGGAAAACACTGTGAGGAT
+GGGATCTGCACTGTAACTGCTGGACCCAAGGACATGGTGGTCGGCTTCGCAAACCTGGGT
+ATACTTCATGTGACAAAGAAAAAAGTATTTGAAACACTGGAAGCACGAATGACAGAGGCG
+TGTATAAGGGGCTATAATCCTGGACTCTTGGTGCACCCTGACCTTGCCTATTTGCAAGCA
+GAAGGTGGAGGGGACCGGCAGCTGGGAGATCGGGAAAAAGAGCTAATCCGCCAAGCAGCT
+CTGCAGCAGACCAAGGAGATGGACCTCAGCGTGGTGCGGCTCATGTTTACAGCTTTTCTT
+CCGGATAGCACTGGCAGCTTCACAAGGCGCCTGGAACCCGTGGTATCAGACGCCATCTAT
+GACAGTAAAGCCCCCAATGCATCCAACTTGAAAATTGTAAGAATGGACAGGACAGCTGGA
+TGTGTGACTGGAGGGGAGGAAATTTATCTTCTTTGTGACAAAGTTCAGAAAGATGACATC
+CAGATTCGATTTTATGAAGAGGAAGAAAATGGTGGAGTCTGGGAAGGATTTGGAGATTTT
+TCCCCCACAGATGTTCATAGACAATTTGCCATTGTCTTCAAAACTCCAAAGTATAAAGAT
+ATTAATATTACAAAACCAGCCTCTGTGTTTGTCCAGCTTCGGAGGAAATCTGACTTGGAA
+ACTAGTGAACCAAAACCTTTCCTCTACTATCCTGAAATCAAAGATAAAGAAGAAGTGCAG
+AGGAAACGTCAGAAGCTCATGCCCAATTTTTCGGATAGTTTCGGCGGTGGTAGTGGTGCT
+GGAGCTGGAGGCGGAGGCATGTTTGGTAGTGGCGGTGGAGGAGGGGGCACTGGAAGTACA
+GGTCCAGGGTATAGCTTCCCACACTATGGATTTCCTACTTATGGTGGGATTACTTTCCAT
+CCTGGAACTACTAAATCTAATGCTGGGATGAAGCATGGAACCATGGACACTGAATCTAAA
+AAGGACCCTGAAGGTTGTGACAAAAGTGATGACAAAAACACTGTAAACCTCTTTGGGAAA
+GTTATTGAAACCACAGAGCAAGATCAGGAGCCCAGCGAGGCCACCGTTGGGAATGGTGAG
+GTCACTCTAACGTATGCAACAGGAACAAAAGAAGAGAGTGCTGGAGTTCAGGATAACCTC
+TTTCTAGAGAAGGCTATGCAGCTTGCAAAGAGGCATGCCAATGCCCTTTTCGACTACGCG
+GTGACAGGAGACGTGAAGATGCTGCTGGCCGTCCAGCGCCATCTCACTGCTGTGCAGGAT
+GAGAATGGGGACAGTGTCTTACACTTAGCAATCATCCACCTTCATTCTCAACTTGTGAGG
+GATCTACTAGAAGTCACATCTGGTTTGATTTCTGATGACATTATCAACATGAGAAATGAT
+CTGTACCAGACGCCCTTGCACTTGGCAGTGATCACTAAGCAGGAAGATGTGGTGGAGGAT
+TTGCTGAGGGCTGGGGCCGACCTGAGCCTTCTGGACCGCTTGGGTAACTCTGTTTTGCAC
+CTAGCTGCCAAAGAAGGACATGATAAAGTTCTCAGTATCTTACTCAAGCACAAAAAGGCA
+GCACTACTTCTTGACCACCCCAACGGGGACGGTCTGAATGCCATTCATCTAGCCATGATG
+AGCAATAGCCTGCCATGTTTGCTGCTGCTGGTGGCCGCTGGGGCTGACGTCAATGCTCAG
+GAGCAGAAGTCCGGGCGCACAGCACTGCACCTGGCTGTGGAGCACGACAACATCTCATTG
+GCAGGCTGCCTGCTCCTGGAGGGTGATGCCCATGTGGACAGTACTACCTACGATGGAACC
+ACACCCCTGCATATAGCAGCTGGGAGAGGGTCCACCAGGCTGGCAGCTCTTCTCAAAGCA
+GCAGGAGCAGATCCCCTGGTGGAGAACTTTGAGCCTCTCTATGACCTGGATGACTCTTGG
+GAAAATGCAGGAGAGGATGAAGGAGTTGTGCCTGGAACCACGCCTCTAGATATGGCCACC
+AGCTGGCAGGTATTTGACATATTAAATGGGAAACCATATGAGCCAGAGTTTACATCTGAT
+GATTTACTAGCACAAGGAGACATGAAACAGCTGGCTGAAGATGTGAAGCTGCAGCTGTAT
+AAGTTACTAGAAATTCCTGATCCAGACAAAAACTGGGCTACTCTGGCGCAGAAATTAGGT
+CTGGGGATACTTAATAATGCCTTCCGGCTGAGTCCTGCTCCTTCCAAAACACTTATGGAC
+AACTATGAGGTCTCTGGGGGTACAGTCAGAGAGCTGGTGGAGGCCCTGAGACAAATGGGC
+TACACCGAAGCAATTGAAGTGATCCAGGCAGCCTCCAGCCCAGTGAAGACCACCTCTCAG
+GCCCACTCGCTGCCTCTCTCGCCTGCCTCCACAAGGCAGCAAATAGACGAGCTCCGAGAC
+AGTGACAGTGTCTGCGACAGCGGCGTGGAGACATCCTTCCGCAAACTCAGCTTTACCGAG
+TCTCTGACCAGTGGTGCCTCACTGCTAACTCTCAACAAAATGCCCCATGATTATGGGCAG
+GAAGGACCTCTAGAAGGCAAAATTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>968</residue_number>
+    <molecular_weight>105355.2</molecular_weight>
+    <theoretical_pi>5.05</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ank</name>
+        <pfam_id>PF00023</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Death</name>
+        <pfam_id>PF00531</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RHD</name>
+        <pfam_id>PF00554</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Nuclear factor NF-kappa-B p105 subunit
+MAEDDPYLGRPEQMFHLDPSLTHTIFNPEVFQPQMALPTDGPYLQILEQPKQRGFRFRYV
+CEGPSHGGLPGASSEKNKKSYPQVKICNYVGPAKVIVQLVTNGKNIHLHAHSLVGKHCED
+GICTVTAGPKDMVVGFANLGILHVTKKKVFETLEARMTEACIRGYNPGLLVHPDLAYLQA
+EGGGDRQLGDREKELIRQAALQQTKEMDLSVVRLMFTAFLPDSTGSFTRRLEPVVSDAIY
+DSKAPNASNLKIVRMDRTAGCVTGGEEIYLLCDKVQKDDIQIRFYEEEENGGVWEGFGDF
+SPTDVHRQFAIVFKTPKYKDINITKPASVFVQLRRKSDLETSEPKPFLYYPEIKDKEEVQ
+RKRQKLMPNFSDSFGGGSGAGAGGGGMFGSGGGGGGTGSTGPGYSFPHYGFPTYGGITFH
+PGTTKSNAGMKHGTMDTESKKDPEGCDKSDDKNTVNLFGKVIETTEQDQEPSEATVGNGE
+VTLTYATGTKEESAGVQDNLFLEKAMQLAKRHANALFDYAVTGDVKMLLAVQRHLTAVQD
+ENGDSVLHLAIIHLHSQLVRDLLEVTSGLISDDIINMRNDLYQTPLHLAVITKQEDVVED
+LLRAGADLSLLDRLGNSVLHLAAKEGHDKVLSILLKHKKAALLLDHPNGDGLNAIHLAMM
+SNSLPCLLLLVAAGADVNAQEQKSGRTALHLAVEHDNISLAGCLLLEGDAHVDSTTYDGT
+TPLHIAAGRGSTRLAALLKAAGADPLVENFEPLYDLDDSWENAGEDEGVVPGTTPLDMAT
+SWQVFDILNGKPYEPEFTSDDLLAQGDMKQLAEDVKLQLYKLLEIPDPDKNWATLAQKLG
+LGILNNAFRLSPAPSKTLMDNYEVSGGTVRELVEALRQMGYTEAIEVIQAASSPVKTTSQ
+AHSLPLSPASTRQQIDELRDSDSVCDSGVETSFRKLSFTESLTSGASLLTLNKMPHDYGQ
+EGPLEGKI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>7012906</genbank_protein_id>
+  <uniprot_id>P19838</uniprot_id>
+  <uniprot_name>NFKB1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1SVC</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF213884</genbank_gene_id>
+  <genecard_id>NFKB1</genecard_id>
+  <geneatlas_id>NFKB1</geneatlas_id>
+  <hgnc_id>HGNC:7794</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kieran M, Blank V, Logeat F, Vandekerckhove J, Lottspeich F, Le Bail O, Urban MB, Kourilsky P, Baeuerle PA, Israel A: The DNA binding subunit of NF-kappa B is identical to factor KBF1 and homologous to the rel oncogene product. Cell. 1990 Sep 7;62(5):1007-18.</reference_text>
+      <pubmed_id>2203531</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bours V, Villalobos J, Burd PR, Kelly K, Siebenlist U: Cloning of a mitogen-inducible gene encoding a kappa B DNA-binding protein with homology to the rel oncogene and to cell-cycle motifs. Nature. 1990 Nov 1;348(6296):76-80.</reference_text>
+      <pubmed_id>2234062</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meyer R, Hatada EN, Hohmann HP, Haiker M, Bartsch C, Rothlisberger U, Lahm HW, Schlaeger EJ, van Loon AP, Scheidereit C: Cloning of the DNA-binding subunit of human nuclear factor kappa B: the level of its mRNA is strongly regulated by phorbol ester or tumor necrosis factor alpha. Proc Natl Acad Sci U S A. 1991 Feb 1;88(3):966-70.</reference_text>
+      <pubmed_id>1992489</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heron E, Deloukas P, van Loon AP: The complete exon-intron structure of the 156-kb human gene NFKB1, which encodes the p105 and p50 proteins of transcription factors NF-kappa B and I kappa B-gamma: implications for NF-kappa B-mediated signal transduction. Genomics. 1995 Dec 10;30(3):493-505.</reference_text>
+      <pubmed_id>8825636</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hansen SK, Nerlov C, Zabel U, Verde P, Johnsen M, Baeuerle PA, Blasi F: A novel complex between the p65 subunit of NF-kappa B and c-Rel binds to a DNA element involved in the phorbol ester induction of the human urokinase gene. EMBO J. 1992 Jan;11(1):205-13.</reference_text>
+      <pubmed_id>1740106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Palombella VJ, Rando OJ, Goldberg AL, Maniatis T: The ubiquitin-proteasome pathway is required for processing the NF-kappa B1 precursor protein and the activation of NF-kappa B. Cell. 1994 Sep 9;78(5):773-85.</reference_text>
+      <pubmed_id>8087845</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beg AA, Baldwin AS Jr: Activation of multiple NF-kappa B/Rel DNA-binding complexes by tumor necrosis factor. Oncogene. 1994 May;9(5):1487-92.</reference_text>
+      <pubmed_id>8152812</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin L, Ghosh S: A glycine-rich region in NF-kappaB p105 functions as a processing signal for the generation of the p50 subunit. Mol Cell Biol. 1996 May;16(5):2248-54.</reference_text>
+      <pubmed_id>8628291</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matthews JR, Botting CH, Panico M, Morris HR, Hay RT: Inhibition of NF-kappaB DNA binding by nitric oxide.  Nucleic Acids Res. 1996 Jun 15;24(12):2236-42.</reference_text>
+      <pubmed_id>8710491</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li Z, Nabel GJ: A new member of the I kappaB protein family, I kappaB epsilon, inhibits RelA (p65)-mediated NF-kappaB transcription. Mol Cell Biol. 1997 Oct;17(10):6184-90.</reference_text>
+      <pubmed_id>9315679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin L, DeMartino GN, Greene WC: Cotranslational biogenesis of NF-kappaB p50 by the 26S proteasome.  Cell. 1998 Mar 20;92(6):819-28.</reference_text>
+      <pubmed_id>9529257</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heissmeyer V, Krappmann D, Wulczyn FG, Scheidereit C: NF-kappaB p105 is a target of IkappaB kinases and controls signal induction of Bcl-3-p50 complexes. EMBO J. 1999 Sep 1;18(17):4766-78.</reference_text>
+      <pubmed_id>10469655</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Belich MP, Salmeron A, Johnston LH, Ley SC: TPL-2 kinase regulates the proteolysis of the NF-kappaB-inhibitory protein NF-kappaB1 p105. Nature. 1999 Jan 28;397(6717):363-8.</reference_text>
+      <pubmed_id>9950430</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin L, DeMartino GN, Greene WC: Cotranslational dimerization of the Rel homology domain of NF-kappaB1 generates p50-p105 heterodimers and is required for effective p50 production. EMBO J. 2000 Sep 1;19(17):4712-22.</reference_text>
+      <pubmed_id>10970863</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Werbajh S, Nojek I, Lanz R, Costas MA: RAC-3 is a NF-kappa B coactivator.  FEBS Lett. 2000 Nov 24;485(2-3):195-9.</reference_text>
+      <pubmed_id>11094166</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marshall HE, Stamler JS: Inhibition of NF-kappa B by S-nitrosylation.  Biochemistry. 2001 Feb 13;40(6):1688-93.</reference_text>
+      <pubmed_id>11327828</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ayroldi E, Migliorati G, Bruscoli S, Marchetti C, Zollo O, Cannarile L, D'Adamio F, Riccardi C: Modulation of T-cell activation by the glucocorticoid-induced leucine zipper factor via inhibition of nuclear factor kappaB. Blood. 2001 Aug 1;98(3):743-53.</reference_text>
+      <pubmed_id>11468175</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Salmeron A, Janzen J, Soneji Y, Bump N, Kamens J, Allen H, Ley SC: Direct phosphorylation of NF-kappaB1 p105 by the IkappaB kinase complex on serine 927 is essential for signal-induced p105 proteolysis. J Biol Chem. 2001 Jun 22;276(25):22215-22. Epub 2001 Apr 10.</reference_text>
+      <pubmed_id>11297557</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li Z, Zhang J, Chen D, Shu HB: Casper/c-FLIP is physically and functionally associated with NF-kappaB1 p105. Biochem Biophys Res Commun. 2003 Oct 3;309(4):980-5.</reference_text>
+      <pubmed_id>13679070</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Furia B, Deng L, Wu K, Baylor S, Kehn K, Li H, Donnelly R, Coleman T, Kashanchi F: Enhancement of nuclear factor-kappa B acetylation by coactivator p300 and HIV-1 Tat proteins. J Biol Chem. 2002 Feb 15;277(7):4973-80. Epub 2001 Dec 5.</reference_text>
+      <pubmed_id>11739381</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Berrebi D, Bruscoli S, Cohen N, Foussat A, Migliorati G, Bouchet-Delbos L, Maillot MC, Portier A, Couderc J, Galanaud P, Peuchmaur M, Riccardi C, Emilie D: Synthesis of glucocorticoid-induced leucine zipper (GILZ) by macrophages: an anti-inflammatory and immunosuppressive mechanism shared by glucocorticoids and IL-10. Blood. 2003 Jan 15;101(2):729-38. Epub 2002 Sep 12.</reference_text>
+      <pubmed_id>12393603</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deng WG, Zhu Y, Wu KK: Up-regulation of p300 binding and p50 acetylation in tumor necrosis factor-alpha-induced cyclooxygenase-2 promoter activation. J Biol Chem. 2003 Feb 14;278(7):4770-7. Epub 2002 Dec 5.</reference_text>
+      <pubmed_id>12471036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Demarchi F, Bertoli C, Sandy P, Schneider C: Glycogen synthase kinase-3 beta regulates NF-kappa B1/p105 stability.  J Biol Chem. 2003 Oct 10;278(41):39583-90. Epub 2003 Jul 18.</reference_text>
+      <pubmed_id>12871932</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lang V, Janzen J, Fischer GZ, Soneji Y, Beinke S, Salmeron A, Allen H, Hay RT, Ben-Neriah Y, Ley SC: betaTrCP-mediated proteolysis of NF-kappaB1 p105 requires phosphorylation of p105 serines 927 and 932. Mol Cell Biol. 2003 Jan;23(1):402-13.</reference_text>
+      <pubmed_id>12482991</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang J, Xu LG, Han KJ, Shu HB: Identification of a ZU5 and death domain-containing inhibitor of NF-kappaB. J Biol Chem. 2004 Apr 23;279(17):17819-25. Epub 2004 Feb 9.</reference_text>
+      <pubmed_id>14769797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lang V, Symons A, Watton SJ, Janzen J, Soneji Y, Beinke S, Howell S, Ley SC: ABIN-2 forms a ternary complex with TPL-2 and NF-kappa B1 p105 and is essential for TPL-2 protein stability. Mol Cell Biol. 2004 Jun;24(12):5235-48.</reference_text>
+      <pubmed_id>15169888</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guizani-Tabbane L, Ben-Aissa K, Belghith M, Sassi A, Dellagi K: Leishmania major amastigotes induce p50/c-Rel NF-kappa B transcription factor in human macrophages: involvement in cytokine synthesis. Infect Immun. 2004 May;72(5):2582-9.</reference_text>
+      <pubmed_id>15102766</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beinke S, Robinson MJ, Hugunin M, Ley SC: Lipopolysaccharide activation of the TPL-2/MEK/extracellular signal-regulated kinase mitogen-activated protein kinase cascade is regulated by IkappaB kinase-induced proteolysis of NF-kappaB1 p105. Mol Cell Biol. 2004 Nov;24(21):9658-67.</reference_text>
+      <pubmed_id>15485931</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bouwmeester T, Bauch A, Ruffner H, Angrand PO, Bergamini G, Croughton K, Cruciat C, Eberhard D, Gagneur J, Ghidelli S, Hopf C, Huhse B, Mangano R, Michon AM, Schirle M, Schlegl J, Schwab M, Stein MA, Bauer A, Casari G, Drewes G, Gavin AC, Jackson DB, Joberty G, Neubauer G, Rick J, Kuster B, Superti-Furga G: A physical and functional map of the human TNF-alpha/NF-kappa B signal transduction pathway. Nat Cell Biol. 2004 Feb;6(2):97-105. Epub 2004 Jan 25.</reference_text>
+      <pubmed_id>14743216</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muller CW, Rey FA, Sodeoka M, Verdine GL, Harrison SC: Structure of the NF-kappa B p50 homodimer bound to DNA.  Nature. 1995 Jan 26;373(6512):311-7.</reference_text>
+      <pubmed_id>7830764</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jacobs MD, Harrison SC: Structure of an IkappaBalpha/NF-kappaB complex.  Cell. 1998 Dec 11;95(6):749-58.</reference_text>
+      <pubmed_id>9865693</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>cis,trans-5'-Hydroxythalidomide</name>
+        <accession>HMDB13870</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yasui K, Kobayashi N, Yamazaki T, Agematsu K: Thalidomide as an immunotherapeutic agent: the effects on neutrophil-mediated inflammation. Curr Pharm Des. 2005;11(3):395-401.</reference_text>
+        <pubmed_id>15723633</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>cis,trans-5'-Hydroxythalidomide</name>
+        <accession>HMDB13870</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pranlukast</name>
+        <accession>HMDB15481</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tomari S, Matsuse H, Machida I, Kondo Y, Kawano T, Obase Y, Fukushima C, Shimoda T, Kohno S: Pranlukast, a cysteinyl leukotriene receptor 1 antagonist, attenuates allergen-specific tumour necrosis factor alpha production and nuclear factor kappa B nuclear translocation in peripheral blood monocytes from atopic asthmatics. Clin Exp Allergy. 2003 Jun;33(6):795-801.</reference_text>
+        <pubmed_id>12801315</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pranlukast</name>
+        <accession>HMDB15481</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ichiyama T, Hasegawa S, Umeda M, Terai K, Matsubara T, Furukawa S: Pranlukast inhibits NF-kappa B activation in human monocytes/macrophages and T cells. Clin Exp Allergy. 2003 Jun;33(6):802-7.</reference_text>
+        <pubmed_id>12801316</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

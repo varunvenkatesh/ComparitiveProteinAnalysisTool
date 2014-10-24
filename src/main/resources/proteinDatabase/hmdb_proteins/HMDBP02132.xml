@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:02:52 -0700</creation_date>
+  <update_date>2013-01-15 19:02:52 -0700</update_date>
+  <accession>HMDBP02132</accession>
+  <secondary_accessions>
+    <accession>7614</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CD62 antigen-like family member P</synonym>
+    <synonym>CD62P antigen</synonym>
+    <synonym>GMP-140</synonym>
+    <synonym>Granule membrane protein 140</synonym>
+    <synonym>LECAM3</synonym>
+    <synonym>Leukocyte-endothelial cell adhesion molecule 3</synonym>
+    <synonym>PADGEM</synonym>
+    <synonym>Platelet activation dependent granule-external membrane protein</synonym>
+  </synonyms>
+  <gene_name>SELP</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Ca(2+)-dependent receptor for myeloid cells that binds to carbohydrates on neutrophils and monocytes. Mediates the interaction of activated endothelial cells or platelets with leukocytes. The ligand recognized is sialyl-Lewis X. Mediates rapid rolling of leukocyte rolling over vascular surfaces during the initial steps in inflammation through interaction with PSGL1</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00024</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05011</accession>
+      <name>Clopidogrel</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06565</accession>
+      <name>Sialyl-Lewis X</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell adhesion</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1q22-q25</locus>
+    <gene_sequence>&gt;2493 bp
+ATGGCCAACTGCCAAATAGCCATCTTGTACCAGAGATTCCAGAGAGTGGTCTTTGGAATT
+TCCCAACTCCTTTGCTTCAGTGCCCTGATCTCTGAACTAACAAACCAGAAAGAAGTGGCA
+GCATGGACTTATCATTACAGCACAAAAGCATACTCATGGAATATTTCCCGTAAATACTGC
+CAGAATCGCTACACAGACTTAGTGGCCATCCAGAATAAAAATGAAATTGATTACCTCAAT
+AAGGTCCTACCCTACTACAGCTCCTACTACTGGATTGGGATCCGAAAGAACAATAAGACA
+TGGACATGGGTGGGAACCAAAAAGGCTCTCACCAACGAGGCTGAGAACTGGGCTGATAAT
+GAACCTAACAACAAAAGGAACAACGAGGACTGCGTGGAGATATACATCAAGAGTCCGTCA
+GCCCCTGGCAAGTGGAATGATGAGCACTGCTTGAAGAAAAAGCACGCATTGTGTTACACA
+GCCTCCTGCCAGGACATGTCCTGCAGCAAACAAGGAGAGTGCCTCGAGACCATCGGGAAC
+TACACCTGCTCCTGTTACCCTGGATTCTATGGGCCAGAATGTGAATACGTGAGAGAGTGT
+GGAGAACTTGAGCTCCCTCAACACGTGCTCATGAACTGCAGCCACCCTCTGGGAAACTTC
+TCTTTTAACTCGCAGTGCAGCTTCCACTGCACTGACGGGTACCAAGTAAATGGGCCCAGC
+AAGCTGGAATGCTTGGCTTCTGGAATCTGGACAAATAAGCCTCCACAGTGTTTAGCTGCC
+CAGTGCCCACCCCTGAAGATTCCTGAACGAGGAAACATGACCTGCCTTCATTCTGCAAAA
+GCATTCCAGCATCAGTCTAGCTGCAGCTTCAGTTGTGAAGAGGGATTTGCATTAGTTGGA
+CCGGAAGTGGTGCAATGCACAGCCTCGGGGGTATGGACAGCCCCAGCCCCAGTGTGTAAA
+GCTGTGCAGTGTCAGCACCTGGAAGCCCCCAGTGAAGGAACCATGGACTGTGTTCATCCG
+CTCACTGCTTTTGCCTATGGCTCCAGCTGTAAATTTGAGTGCCAGCCCGGCTACAGAGTG
+AGGGGCTTGGACATGCTCCGCTGCATTGACTCTGGACACTGGTCTGCACCCTTGCCAACC
+TGTGAGGCTATTTCGTGTGAGCCGCTGGAGAGTCCTGTCCACGGAAGCATGGATTGCTCT
+CCATCCTTGAGAGCGTTTCAGTATGACACCAACTGTAGCTTCCGCTGTGCTGAAGGTTTC
+ATGCTGAGAGGAGCCGATATAGTTCGGTGTGATAACTTGGGACAGTGGACAGCACCAGCC
+CCAGTCTGTCAAGCTTTGCAGTGCCAGGATCTCCCAGTTCCAAATGAGGCCCGGGTGAAC
+TGCTCCCACCCCTTCGGTGCCTTTAGGTACCAGTCAGTCTGCAGCTTCACCTGCAATGAA
+GGCTTGCTCCTGGTGGGAGCAAGTGTGCTACAGTGCTTGGCTACTGGAAACTGGAATTCT
+GTTCCTCCAGAATGCCAAGCCATTCCCTGCACACCTTTGCTAAGCCCTCAGAATGGAACA
+ATGACCTGTGTTCAACCTCTTGGAAGTTCCAGTTATAAATCCACATGTCAATTCATCTGT
+GACGAGGGATATTCTTTGTCTGGACCAGAAAGATTGGATTGTACTCGATCGGGACGCTGG
+ACAGACTCCCCACCAATGTGTGAAGCCATCAAGTGCCCAGAACTCTTTGCCCCAGAGCAG
+GGCAGCCTGGATTGTTCTGACACTCGTGGAGAATTCAATGTTGGCTCCACCTGCCATTTC
+TCTTGTAACAACGGCTTTAAGCTGGAGGGGCCCAATAATGTGGAATGCACAACTTCTGGA
+AGATGGTCAGCTACTCCACCAACCTGCAAAGGCATAGCATCACTTCCTACTCCAGGGGTG
+CAATGTCCAGCCCTCACCACTCCTGGGCAGGGAACCATGTACTGTAGGCATCATCCGGGA
+ACCTTTGGTTTTAATACCACTTGTTACTTTGGCTGCAACGCTGGATTCACACTCATAGGA
+GACAGCACTCTCAGCTGCAGACCTTCAGGACAATGGACAGCAGTAACTCCAGCATGCAGA
+GCTGTGAAATGCTCAGAACTACATGTTAATAAGCCAATAGCGATGAACTGCTCCAACCTC
+TGGGGAAACTTCAGTTATGGATCAATCTGCTCTTTCCATTGTCTAGAGGGCCAGTTACTT
+AATGGCTCTGCACAAACAGCATGCCAAGAGAATGGCCACTGGTCAACTACCGTGCCAACC
+TGCCAAGCAGGACCATTGACTATCCAGGAAGCCCTGACTTACTTTGGTGGAGCGGTGGCT
+TCTACGATAGGTCTGATAATGGGTGGGACGCTCCTGGCTTTGCTAAGAAAGCGTTTCAGA
+CAAAAAGATGATGGGAAATGCCCCTTGAATCCTCACAGCCACCTAGGAACATATGGAGTT
+TTTACAAACGCTGCATTTGACCCGAGTCCTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>830</residue_number>
+    <molecular_weight>90833.1</molecular_weight>
+    <theoretical_pi>6.57</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Lectin_C</name>
+        <pfam_id>PF00059</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Sushi</name>
+        <pfam_id>PF00084</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>772-795</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-41</region>
+    </signal_regions>
+    <protein_sequence>&gt;P-selectin
+MANCQIAILYQRFQRVVFGISQLLCFSALISELTNQKEVAAWTYHYSTKAYSWNISRKYC
+QNRYTDLVAIQNKNEIDYLNKVLPYYSSYYWIGIRKNNKTWTWVGTKKALTNEAENWADN
+EPNNKRNNEDCVEIYIKSPSAPGKWNDEHCLKKKHALCYTASCQDMSCSKQGECLETIGN
+YTCSCYPGFYGPECEYVRECGELELPQHVLMNCSHPLGNFSFNSQCSFHCTDGYQVNGPS
+KLECLASGIWTNKPPQCLAAQCPPLKIPERGNMTCLHSAKAFQHQSSCSFSCEEGFALVG
+PEVVQCTASGVWTAPAPVCKAVQCQHLEAPSEGTMDCVHPLTAFAYGSSCKFECQPGYRV
+RGLDMLRCIDSGHWSAPLPTCEAISCEPLESPVHGSMDCSPSLRAFQYDTNCSFRCAEGF
+MLRGADIVRCDNLGQWTAPAPVCQALQCQDLPVPNEARVNCSHPFGAFRYQSVCSFTCNE
+GLLLVGASVLQCLATGNWNSVPPECQAIPCTPLLSPQNGTMTCVQPLGSSSYKSTCQFIC
+DEGYSLSGPERLDCTRSGRWTDSPPMCEAIKCPELFAPEQGSLDCSDTRGEFNVGSTCHF
+SCDNGFKLEGPNNVECTTSGRWSATPPTCKGIASLPTPGLQCPALTTPGQGTMYCRHHPG
+TFGFNTTCYFGCNAGFTLIGDSTLSCRPSGQWTAVTPACRAVKCSELHVNKPIAMNCSNL
+WGNFSYGSICSFHCLEGQLLNGSAQTACQENGHWSTTVPTCQAGPLTIQEALTYFGGAVA
+STIGLIMGGTLLALLRKRFRQKDDGKCPLNPHSHLGTYGVFTNAAFDPSP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>22771014</genbank_protein_id>
+  <uniprot_id>P16109</uniprot_id>
+  <uniprot_name>LYAM3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1G1S</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF542391</genbank_gene_id>
+  <genecard_id>SELP</genecard_id>
+  <geneatlas_id>SELP</geneatlas_id>
+  <hgnc_id>HGNC:10721</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Johnston GI, Cook RG, McEver RP: Cloning of GMP-140, a granule membrane protein of platelets and endothelium: sequence similarity to proteins involved in cell adhesion and inflammation. Cell. 1989 Mar 24;56(6):1033-44.</reference_text>
+      <pubmed_id>2466574</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujimoto T, Stroud E, Whatley RE, Prescott SM, Muszbek L, Laposata M, McEver RP: P-selectin is acylated with palmitic acid and stearic acid at cysteine 766 through a thioester linkage. J Biol Chem. 1993 May 25;268(15):11394-400.</reference_text>
+      <pubmed_id>7684381</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sako D, Comess KM, Barone KM, Camphausen RT, Cumming DA, Shaw GD: A sulfated peptide segment at the amino terminus of PSGL-1 is critical for P-selectin binding. Cell. 1995 Oct 20;83(2):323-31.</reference_text>
+      <pubmed_id>7585949</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pouyani T, Seed B: PSGL-1 recognition of P-selectin is controlled by a tyrosine sulfation consensus at the PSGL-1 amino terminus. Cell. 1995 Oct 20;83(2):333-43.</reference_text>
+      <pubmed_id>7585950</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wilkins PP, Moore KL, McEver RP, Cummings RD: Tyrosine sulfation of P-selectin glycoprotein ligand-1 is required for high affinity binding to P-selectin. J Biol Chem. 1995 Sep 29;270(39):22677-80.</reference_text>
+      <pubmed_id>7559387</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Florian V, Schluter T, Bohnensack R: A new member of the sorting nexin family interacts with the C-terminus of P-selectin. Biochem Biophys Res Commun. 2001 Mar 9;281(4):1045-50.</reference_text>
+      <pubmed_id>11237770</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Knauth P, Schluter T, Czubayko M, Kirsch C, Florian V, Schreckenberger S, Hahn H, Bohnensack R: Functions of sorting nexin 17 domains and recognition motif for P-selectin trafficking. J Mol Biol. 2005 Apr 8;347(4):813-25.</reference_text>
+      <pubmed_id>15769472</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lewandrowski U, Moebius J, Walter U, Sickmann A: Elucidation of N-glycosylation sites on human platelet proteins: a glycoproteomic approach. Mol Cell Proteomics. 2006 Feb;5(2):226-33. Epub 2005 Oct 31.</reference_text>
+      <pubmed_id>16263699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Freedman SJ, Sanford DG, Bachovchin WW, Furie BC, Baleja JD, Furie B: Structure and function of the epidermal growth factor domain of P-selectin. Biochemistry. 1996 Oct 29;35(43):13733-44.</reference_text>
+      <pubmed_id>8901515</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bajorath J, Stenkamp R, Aruffo A: Knowledge-based model building of proteins: concepts and examples.  Protein Sci. 1993 Nov;2(11):1798-810.</reference_text>
+      <pubmed_id>7505680</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Somers WS, Tang J, Shaw GD, Camphausen RT: Insights into the molecular basis of leukocyte tethering and rolling revealed by structures of P- and E-selectin bound to SLe(X) and PSGL-1. Cell. 2000 Oct 27;103(3):467-79.</reference_text>
+      <pubmed_id>11081633</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Herrmann SM, Ricard S, Nicaud V, Mallet C, Evans A, Ruidavets JB, Arveiler D, Luc G, Cambien F: The P-selectin gene is highly polymorphic: reduced frequency of the Pro715 allele carriers in patients with myocardial infarction. Hum Mol Genet. 1998 Aug;7(8):1277-84.</reference_text>
+      <pubmed_id>9668170</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cargill M, Altshuler D, Ireland J, Sklar P, Ardlie K, Patil N, Shaw N, Lane CR, Lim EP, Kalyanaraman N, Nemesh J, Ziaugra L, Friedland L, Rolfe A, Warrington J, Lipshutz R, Daley GQ, Lander ES: Characterization of single-nucleotide polymorphisms in coding regions of human genes. Nat Genet. 1999 Jul;22(3):231-8.</reference_text>
+      <pubmed_id>10391209</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zee RY, Cook NR, Cheng S, Reynolds R, Erlich HA, Lindpaintner K, Ridker PM: Polymorphism in the P-selectin and interleukin-4 genes as determinants of stroke: a population-based, prospective genetic analysis. Hum Mol Genet. 2004 Feb 15;13(4):389-96. Epub 2003 Dec 17.</reference_text>
+      <pubmed_id>14681304</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>3-O-Sulfogalactosylceramide (d18:1/24:0)</name>
+        <accession>HMDB00024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Squadrito F, Altavilla D, Squadrito G, Campo GM, Arlotta M, Quartarone C, Minutoli L, Ferlito M, Saitta A, Caputi AP: Sulfatide reduces leucocyte accumulation and reverts vascular failure in splanchnic artery occlusion shock. Eur J Pharmacol. 1998 Nov 13;361(1):101-8.</reference_text>
+        <pubmed_id>9851547</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

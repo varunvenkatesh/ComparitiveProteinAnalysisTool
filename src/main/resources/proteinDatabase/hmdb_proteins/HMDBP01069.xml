@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:09 -0700</creation_date>
+  <update_date>2013-05-27 11:04:00 -0600</update_date>
+  <accession>HMDBP01069</accession>
+  <secondary_accessions>
+    <accession>6358</accession>
+    <accession>HMDBP05091</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ANP-A</synonym>
+    <synonym>ANPR-A</synonym>
+    <synonym>Atrial natriuretic peptide receptor type A</synonym>
+    <synonym>GC-A</synonym>
+    <synonym>Guanylate cyclase A</synonym>
+    <synonym>NPR-A</synonym>
+  </synonyms>
+  <gene_name>NPR1</gene_name>
+  <general_function>Involved in phosphorus-oxygen lyase activity</general_function>
+  <specific_function>Receptor for the atrial natriuretic peptide NPPA/ANP and the brain natriuretic peptide NPPB/BNP which are potent vasoactive hormones playing a key role in cardiovascular homeostasis. Has guanylate cyclase activity upon binding of the ligand.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Vascular smooth muscle contraction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04270</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01314</accession>
+      <name>Cyclic GMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14470</accession>
+      <name>Nitroprusside</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14865</accession>
+      <name>Nitroglycerin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15021</accession>
+      <name>Isosorbide Dinitrate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15550</accession>
+      <name>Amyl Nitrite</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15551</accession>
+      <name>Erythrityl Tetranitrate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptide receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptide receptor activity, g-protein coupled</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphorus-oxygen lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>intracellular signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside monophosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside monophosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cyclic nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>intracellular</description>
+      <go_id>GO:0005622</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>G-protein coupled peptide receptor activity</description>
+      <go_id>GO:0008528</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GTP binding</description>
+      <go_id>GO:0005525</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>guanylate cyclase activity</description>
+      <go_id>GO:0004383</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hormone binding</description>
+      <go_id>GO:0042562</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>natriuretic peptide receptor activity</description>
+      <go_id>GO:0016941</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptide hormone binding</description>
+      <go_id>GO:0017046</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein kinase activity</description>
+      <go_id>GO:0004672</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>body fluid secretion</description>
+      <go_id>GO:0007589</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dopamine metabolic process</description>
+      <go_id>GO:0042417</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intracellular signal transduction</description>
+      <go_id>GO:0035556</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of angiogenesis</description>
+      <go_id>GO:0016525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell growth</description>
+      <go_id>GO:0030308</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of smooth muscle cell proliferation</description>
+      <go_id>GO:0048662</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cGMP biosynthetic process</description>
+      <go_id>GO:0030828</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of renal sodium excretion</description>
+      <go_id>GO:0035815</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of urine volume</description>
+      <go_id>GO:0035810</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>receptor guanylyl cyclase signaling pathway</description>
+      <go_id>GO:0007168</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of blood pressure</description>
+      <go_id>GO:0008217</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of blood vessel size</description>
+      <go_id>GO:0050880</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of vascular permeability</description>
+      <go_id>GO:0043114</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of vasodilation</description>
+      <go_id>GO:0042312</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q21-q22</locus>
+    <gene_sequence>&gt;3186 bp
+ATGCCGGGGCCCCGGCGCCCCGCTGGCTCCCGCCTGCGCCTGCTCCTGCTCCTGCTGCTG
+CCGCCGCTGCTGCTGCTGCTCCGGGGCAGCCACGCGGGCAACCTGACGGTAGCCGTGGTA
+CTGCCGCTGGCCAATACCTCGTACCCCTGGTCGTGGGCGCGCGTGGGACCCGCCGTGGAG
+CTGGCCTTGGCCCAGGTGAAGGCGCGCCCCGACTTGCTGCCGGGCTGGACGGTCCGCACG
+GTGCTGGGCAGCAGCGAAAACGCGCTGGGCGTCTGCTCCGACACCGCAGCGCCCCTGGCC
+GCGGTGGACCTCAAGTGGGAGCACAACCCCGCTGTGTTCCTGGGCCCCGGCTGCGTGTAC
+GCCGCCGCCCCAGTGGGGCGCTTCACCGCGCACTGGCGGGTCCCGCTGCTGACCGCCGGC
+GCCCCGGCGCTGGGCTTCGGTGTCAAGGACGAGTATGCGCTGACCACCCGCGCGGGGCCC
+AGCTACGCCAAGCTGGGGGACTTCGTGGCGGCGCTGCACCGACGGCTGGGCTGGGAGCGC
+CAAGCGCTCATGCTCTACGCCTACCGGCCGGGTGACGAAGAGCACTGCTTCTTCCTCGTG
+GAGGGGCTGTTCATGCGGGTCCGCGACCGCCTCAATATTACGGTGGACCACCTGGAGTTC
+GCCGAGGACGACCTCAGCCACTACACCAGGCTGCTGCGGACCATGCCGCGCAAAGGCCGA
+GTTATCTACATCTGCAGCTCCCCTGATGCCTTCAGAACCCTCATGCTCCTGGCCCTGGAA
+GCTGGCTTGTGTGGGGAGGACTACGTTTTCTTCCACCTGGATATCTTTGGGCAAAGCCTG
+CAAGGTGGACAGGGCCCTGCTCCCCGCAGGCCCTGGGAGAGAGGGGATGGGCAGGATGTC
+AGTGCCCGCCAGGCCTTTCAGGCTGCCAAAATCATTACATATAAAGACCCAGATAATCCC
+GAGTACTTGGAATTCCTGAAGCAGTTAAAACACCTGGCCTATGAGCAGTTCAACTTCACC
+ATGGAGGATGGCCTGGTGAACACCATCCCAGCATCCTTCCACGACGGGCTCCTGCTCTAT
+ATCCAGGCAGTGACGGAGACTCTGGCACATGGGGGAACTGTTACTGATGGGGAGAACATC
+ACTCAGCGGATGTGGAACCGAAGCTTTCAAGGTGTGACAGGATACCTGAAAATTGATAGC
+AGTGGCGATCGGGAAACAGACTTCTCCCTCTGGGATATGGATCCCGAGAATGGTGCCTTC
+AGGGTTGTACTGAACTACAATGGGACTTCCCAAGAGCTGGTGGCTGTGTCGGGGCGCAAA
+CTGAACTGGCCCCTGGGGTACCCTCCTCCTGACATCCCCAAATGTGGCTTTGACAACGAA
+GACCCAGCATGCAACCAAGATCACCTTTCCACCCTGGAGGTGCTGGCTTTGGTGGGCAGC
+CTCTCCTTGCTCGGCATTCTGATTGTCTCCTTCTTCATATACAGGAAGATGCAGCTGGAG
+AAGGAACTGGCCTCGGAGCTGTGGCGGGTGCGCTGGGAGGACGTTGAGCCCAGTAGCCTT
+GAGAGGCACCTGCGGAGTGCAGGCAGCCGGCTGACCCTGAGCGGGAGAGGCTCCAATTAC
+GGCTCCCTGCTAACCACAGAGGGCCAGTTCCAAGTCTTTGCCAAGACAGCATATTATAAG
+GGCAACCTCGTGGCTGTGAAACGTGTGAACCGTAAACGCATTGAGCTGACACGAAAAGTC
+CTGTTTGAACTGAAGCATATGCGGGATGTGCAGAATGAACACCTGACCAGGTTTGTGGGA
+GCCTGCACCGACCCCCCCAATATCTGCATCCTCACAGAGTACTGTCCCCGTGGGAGCCTG
+CAGGACATTCTGGAGAATGAGAGCATCACCCTGGACTGGATGTTCCGGTACTCACTCACC
+AATGACATCGTCAAGGGCATGCTGTTTCTACACAATGGGGCTATCTGTTCCCATGGGAAC
+CTCAAGTCATCCAACTGCGTGGTAGATGGGCGCTTTGTGCTCAAGATCACCGACTATGGG
+CTGGAGAGCTTCAGGGACCTGGACCCAGAGCAAGGACACACCGTTTATGCCAAAAAGCTG
+TGGACGGCCCCTGAGCTCCTGCGAATGGCTTCACCCCCTGTGCGGGGCTCCCAGGCTGGT
+GACGTATACAGCTTTGGGATCATCCTTCAGGAGATTGCCCTGAGGAGTGGGGTCTTCCAC
+GTGGAAGGTTTGGACCTGAGCCCCAAAGAGATCATCGAGCGGGTGACTCGGGGTGAGCAG
+CCCCCCTTCCGGCCCTCCCTGGCCCTGCAGAGTCACCTGGAGGAGTTGGGGCTGCTCATG
+CAGCGGTGCTGGGCTGAGGACCCACAGGAGAGGCCACCATTCCAGCAGATCCGCCTGACG
+TTGCGCAAATTTAACAGGGAGAACAGCAGCAACATCCTGGACAACCTGCTGTCCCGCATG
+GAGCAGTACGCGAACAATCTGGAGGAACTGGTGGAGGAGCGGACCCAGGCATACCTGGAG
+GAGAAGCGCAAGGCTGAGGCCCTGCTCTACCAGATCCTGCCTCACTCAGTGGCTGAGCAG
+CTGAAGCGTGGGGAGACGGTGCAGGCCGAAGCCTTTGACAGTGTTACCATCTACTTCAGT
+GACATTGTGGGTTTCACAGCGCTGTCGGCGGAGAGCACACCCATGCAGGTGGTGACCCTG
+CTCAATGACCTGTACACTTGCTTTGATGCTGTCATAGACAACTTTGATGTGTACAAGGTG
+GAGACAATTGGCGATGCCTACATGGTGGTGTCAGGGCTCCCTGTGCGGAACGGGCGGCTA
+CACGCCTGCGAGGTAGCCCGCATGGCCCTGGCACTGCTGGATGCTGTGCGCTCCTTCCGA
+ATCCGCCACCGGCCCCAGGAGCAGCTGCGCTTGCGCATTGGCATCCACACAGGACCTGTG
+TGTGCTGGAGTGGTGGGACTGAAGATGCCCCGTTACTGTCTCTTTGGGGATACAGTCAAC
+ACAGCCTCAAGAATGGAGTCTAATGGGGAAGCCCTGAAGATCCACTTGTCTTCTGAGACC
+AAGGCTGTCCTGGAGGAGTTTGGTGGTTTCGAGCTGGAGCTTCGAGGGGATGTAGAAATG
+AAGGGCAAAGGCAAGGTTCGGACCTACTGGCTCCTTGGGGAGAGGGGGAGTAGCACCCGA
+GGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1061</residue_number>
+    <molecular_weight>118918.11</molecular_weight>
+    <theoretical_pi>6.635</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ANF_receptor</name>
+        <pfam_id>PF01094</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Guanylate_cyc</name>
+        <pfam_id>PF00211</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Pkinase_Tyr</name>
+        <pfam_id>PF07714</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Atrial natriuretic peptide receptor 1
+MPGPRRPAGSRLRLLLLLLLPPLLLLLRGSHAGNLTVAVVLPLANTSYPWSWARVGPAVE
+LALAQVKARPDLLPGWTVRTVLGSSENALGVCSDTAAPLAAVDLKWEHNPAVFLGPGCVY
+AAAPVGRFTAHWRVPLLTAGAPALGFGVKDEYALTTRAGPSYAKLGDFVAALHRRLGWER
+QALMLYAYRPGDEEHCFFLVEGLFMRVRDRLNITVDHLEFAEDDLSHYTRLLRTMPRKGR
+VIYICSSPDAFRTLMLLALEAGLCGEDYVFFHLDIFGQSLQGGQGPAPRRPWERGDGQDV
+SARQAFQAAKIITYKDPDNPEYLEFLKQLKHLAYEQFNFTMEDGLVNTIPASFHDGLLLY
+IQAVTETLAHGGTVTDGENITQRMWNRSFQGVTGYLKIDSSGDRETDFSLWDMDPENGAF
+RVVLNYNGTSQELVAVSGRKLNWPLGYPPPDIPKCGFDNEDPACNQDHLSTLEVLALVGS
+LSLLGILIVSFFIYRKMQLEKELASELWRVRWEDVEPSSLERHLRSAGSRLTLSGRGSNY
+GSLLTTEGQFQVFAKTAYYKGNLVAVKRVNRKRIELTRKVLFELKHMRDVQNEHLTRFVG
+ACTDPPNICILTEYCPRGSLQDILENESITLDWMFRYSLTNDIVKGMLFLHNGAICSHGN
+LKSSNCVVDGRFVLKITDYGLESFRDLDPEQGHTVYAKKLWTAPELLRMASPPVRGSQAG
+DVYSFGIILQEIALRSGVFHVEGLDLSPKEIIERVTRGEQPPFRPSLALQSHLEELGLLM
+QRCWAEDPQERPPFQQIRLTLRKFNRENSSNILDNLLSRMEQYANNLEELVEERTQAYLE
+EKRKAEALLYQILPHSVAEQLKRGETVQAEAFDSVTIYFSDIVGFTALSAESTPMQVVTL
+LNDLYTCFDAVIDNFDVYKVETIGDAYMVVSGLPVRNGRLHACEVARMALALLDAVRSFR
+IRHRPQEQLRLRIGIHTGPVCAGVVGLKMPRYCLFGDTVNTASRMESNGEALKIHLSSET
+KAVLEEFGGFELELRGDVEMKGKGKVRTYWLLGERGSSTRG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3297986</genbank_protein_id>
+  <uniprot_id>P16066</uniprot_id>
+  <uniprot_name>ANPRA_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB010491</genbank_gene_id>
+  <genecard_id>NPR1</genecard_id>
+  <geneatlas_id>NPR1</geneatlas_id>
+  <hgnc_id>HGNC:7943</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Lowe DG, Chang MS, Hellmiss R, Chen E, Singh S, Garbers DL, Goeddel DV: Human atrial natriuretic peptide receptor defines a new paradigm for second messenger signal transduction. EMBO J. 1989 May;8(5):1377-84.</reference_text>
+      <pubmed_id>2569967</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi Y, Nakayama T, Soma M, Izumi Y, Kanmatsuse K: Organization of the human natriuretic peptide receptor A gene.  Biochem Biophys Res Commun. 1998 May 29;246(3):736-9.</reference_text>
+      <pubmed_id>9618281</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pardhasaradhi K, Kutty RK, Gentleman S, Krishna G: Expression of mRNA for atrial natriuretic peptide receptor guanylate cyclase (ANPRA) in human retina. Cell Mol Neurobiol. 1994 Feb;14(1):1-7.</reference_text>
+      <pubmed_id>7954658</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bennett BD, Bennett GL, Vitangcol RV, Jewett JR, Burnier J, Henzel W, Lowe DG: Extracellular domain-IgG fusion proteins for three human natriuretic peptide receptors. Hormone pharmacology and application to solid phase screening of synthetic peptide antisera. J Biol Chem. 1991 Dec 5;266(34):23060-7.</reference_text>
+      <pubmed_id>1660465</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Koller KJ, Lowe DG, Bennett GL, Minamino N, Kangawa K, Matsuo H, Goeddel DV: Selective activation of the B natriuretic peptide receptor by C-type natriuretic peptide (CNP). Science. 1991 Apr 5;252(5002):120-3.</reference_text>
+      <pubmed_id>1672777</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitroprusside</name>
+        <accession>HMDB14470</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fortin Y, De Lean A: Role of cyclic GMP and calcineurin in homologous and heterologous desensitization of natriuretic peptide receptor-A. Can J Physiol Pharmacol. 2006 May;84(5):539-46.</reference_text>
+        <pubmed_id>16902599</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitroprusside</name>
+        <accession>HMDB14470</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Madhani M, Okorie M, Hobbs AJ, MacAllister RJ: Reciprocal regulation of human soluble and particulate guanylate cyclases in vivo. Br J Pharmacol. 2006 Nov;149(6):797-801. Epub 2006 Oct 3.</reference_text>
+        <pubmed_id>17016498</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitroprusside</name>
+        <accession>HMDB14470</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Steinmetz M, Potthast R, Sabrane K, Kuhn M: Diverging vasorelaxing effects of C-type natriuretic peptide in renal resistance arteries and aortas of GC-A-deficient mice. Regul Pept. 2004 Jun 15;119(1-2):31-7.</reference_text>
+        <pubmed_id>15093694</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitroglycerin</name>
+        <accession>HMDB14865</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Madhani M, Scotland RS, MacAllister RJ, Hobbs AJ: Vascular natriuretic peptide receptor-linked particulate guanylate cyclases are modulated by nitric oxide-cyclic GMP signalling. Br J Pharmacol. 2003 Aug;139(7):1289-96.</reference_text>
+        <pubmed_id>12890708</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitroglycerin</name>
+        <accession>HMDB14865</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bauersachs J: Aminoethyl nitrate--the novel super nitrate?  Br J Pharmacol. 2009 Sep;158(2):507-9.</reference_text>
+        <pubmed_id>19732062</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isosorbide Dinitrate</name>
+        <accession>HMDB15021</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isosorbide Dinitrate</name>
+        <accession>HMDB15021</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isosorbide Dinitrate</name>
+        <accession>HMDB15021</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Villarroya M, Lopez MG, de Pascual R, Garcia AG: Preclinical profile of PF9404C, a nitric oxide donor with beta receptor blocking properties. Cardiovasc Drug Rev. 2005 Summer;23(2):149-60.</reference_text>
+        <pubmed_id>16007231</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isosorbide Dinitrate</name>
+        <accession>HMDB15021</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takabuchi S, Hirota K, Nishi K, Oda S, Oda T, Shingu K, Takabayashi A, Adachi T, Semenza GL, Fukuda K: The inhibitory effect of sodium nitroprusside on HIF-1 activation is not dependent on nitric oxide-soluble guanylyl cyclase pathway. Biochem Biophys Res Commun. 2004 Nov 5;324(1):417-23.</reference_text>
+        <pubmed_id>15465035</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isosorbide Dinitrate</name>
+        <accession>HMDB15021</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Beauregard C, Brandt PC, Chiou GC: Nitric oxide and cyclic GMP-mediated protein secretion from cultured lacrimal gland acinar cells. J Ocul Pharmacol Ther. 2002 Oct;18(5):429-43.</reference_text>
+        <pubmed_id>12419094</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amyl Nitrite</name>
+        <accession>HMDB15550</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Madhani M, Scotland RS, MacAllister RJ, Hobbs AJ: Vascular natriuretic peptide receptor-linked particulate guanylate cyclases are modulated by nitric oxide-cyclic GMP signalling. Br J Pharmacol. 2003 Aug;139(7):1289-96.</reference_text>
+        <pubmed_id>12890708</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amyl Nitrite</name>
+        <accession>HMDB15550</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bauersachs J: Aminoethyl nitrate--the novel super nitrate?  Br J Pharmacol. 2009 Sep;158(2):507-9.</reference_text>
+        <pubmed_id>19732062</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erythrityl Tetranitrate</name>
+        <accession>HMDB15551</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erythrityl Tetranitrate</name>
+        <accession>HMDB15551</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erythrityl Tetranitrate</name>
+        <accession>HMDB15551</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schroder H, Noack E: Structure-activity relationship of organic nitrates for activation of guanylate cyclase. Arch Int Pharmacodyn Ther. 1987 Dec;290(2):235-46.</reference_text>
+        <pubmed_id>2895614</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

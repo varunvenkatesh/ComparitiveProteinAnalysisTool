@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:05:58 -0700</creation_date>
+  <update_date>2013-01-15 19:05:58 -0700</update_date>
+  <accession>HMDBP02528</accession>
+  <secondary_accessions>
+    <accession>8026</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Leucine zipper protein NF-E2</synonym>
+    <synonym>Nuclear factor, erythroid-derived 2 45 kDa subunit</synonym>
+    <synonym>p45 NF-E2</synonym>
+  </synonyms>
+  <gene_name>NFE2</gene_name>
+  <general_function>Involved in sequence-specific DNA binding transcription factor activity</general_function>
+  <specific_function>Component of the NF-E2 complex essential for regulating erythroid and megakaryocytic maturation and differentiation. Binds to the hypersensitive site 2 (HS2) of the beta-globin control region (LCR). This subunit (NFE2) recognizes the TCAT/C sequence of the AP-1-like core palindrome present in a number of erythroid and megakaryocytic gene promoters. Requires MAFK or other small MAF proteins for binding to the NF-E2 motif. May play a role in all aspects of hemoglobin production from globin and heme synthesis to procurement of iron</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein dimerization activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sequence-specific dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sequence-specific dna binding transcription factor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>PML body</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>12q13</locus>
+    <gene_sequence>&gt;1122 bp
+ATGTCCCCGTGTCCTCCCCAGCAGAGCAGGAACAGGGTGATACAGCTGTCCACTTCAGAG
+CTAGGAGAGATGGAACTGACTTGGCAGGAGATCATGTCCATCACCGAGCTGCAGGGTCTG
+AATGCTCCAAGTGAGCCATCATTTGAGCCCCAAGCCCCAGCTCCATACCTTGGACCTCCA
+CCACCCACAACTTACTGCCCCTGCTCAATCCACCCAGATTCTGGCTTCCCACTTCCTCCA
+CCACCTTATGAGCTCCCAGCATCCACATCCCATGTCCCAGATCCCCCATACTCCTATGGC
+AACATGGCCATACCAGTCTCCAAGCCACTGAGCCTCTCAGGCCTGCTCAGTGAGCCGCTC
+CAAGACCCCTTAGCCCTCCTGGACATTGGGCTGCCAGCAGGGCCACCTAAGCCCCAAGAA
+GACCCAGAATCCGACTCAGGATTATCCCTCAACTATAGCGATGCTGAATCTCTTGAGCTG
+GAGGGGACAGAGGCTGGTCGGCGGCGCAGCGAATATGTAGAGATGTACCCAGTGGAGTAC
+CCCTACTCACTCATGCCCAACTCCTTGGCCCACTCCAACTATACCTTGCCAGCTGCTGAG
+ACCCCCTTGGCCTTAGAGCCCTCCTCAGGCCCTGTGCGGGCTAAGCCCACTGCACGGGGG
+GAGGCAGGGAGTCGGGATGAACGTCGGGCCTTGGCCATGAAGATTCCTTTTCCTACGGAC
+AAGATTGTCAACTTGCCGGTAGATGACTTTAATGAGCTATTGGCAAGGTACCCGCTGACA
+GAGAGCCAGCTAGCGCTAGTCCGGGACATCCGACGACGGGGCAAAAACAAGGTGGCAGCC
+CAGAACTGCCGCAAGAGGAAGCTGGAAACCATTGTGCAGCTGGAGCGGGAGCTGGAGCGG
+CTGACCAATGAACGGGAGCGGCTTCTCAGGGCCCGCGGGGAGGCAGACCGGACCCTGGAG
+GTCATGCGCCAACAGCTGACAGAGCTGTACCGTGACATTTTCCAGCACCTTCGGGATGAA
+TCAGGCAACAGCTACTCTCCTGAAGAGTACGCGCTGCAACAGGCTGCCGATGGGACCATC
+TTCCTTGTGCCCCGGGGGACCAAGATGGAGGCCACAGACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>373</residue_number>
+    <molecular_weight>41472.2</molecular_weight>
+    <theoretical_pi>4.59</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>bZIP_1</name>
+        <pfam_id>PF00170</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Transcription factor NF-E2 45 kDa subunit
+MSPCPPQQSRNRVIQLSTSELGEMELTWQEIMSITELQGLNAPSEPSFEPQAPAPYLGPP
+PPTTYCPCSIHPDSGFPLPPPPYELPASTSHVPDPPYSYGNMAIPVSKPLSLSGLLSEPL
+QDPLALLDIGLPAGPPKPQEDPESDSGLSLNYSDAESLELEGTEAGRRRSEYVEMYPVEY
+PYSLMPNSLAHSNYTLPAAETPLALEPSSGPVRAKPTARGEAGSRDERRALAMKIPFPTD
+KIVNLPVDDFNELLARYPLTESQLALVRDIRRRGKNKVAAQNCRKRKLETIVQLERELER
+LTNERERLLRARGEADRTLEVMRQQLTELYRDIFQHLRDESGNSYSPEEYALQQAADGTI
+FLVPRGTKMEATD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>13477165</genbank_protein_id>
+  <uniprot_id>Q16621</uniprot_id>
+  <uniprot_name>NFE2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC005044</genbank_gene_id>
+  <genecard_id>NFE2</genecard_id>
+  <geneatlas_id>NFE2</geneatlas_id>
+  <hgnc_id>HGNC:7780</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Chan JY, Han XL, Kan YW: Isolation of cDNA encoding the human NF-E2 protein.  Proc Natl Acad Sci U S A. 1993 Dec 1;90(23):11366-70.</reference_text>
+      <pubmed_id>8248255</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ney PA, Andrews NC, Jane SM, Safer B, Purucker ME, Weremowicz S, Morton CC, Goff SC, Orkin SH, Nienhuis AW: Purification of the human NF-E2 complex: cDNA cloning of the hematopoietic cell-specific subunit and evidence for an associated partner. Mol Cell Biol. 1993 Sep;13(9):5604-12.</reference_text>
+      <pubmed_id>8355703</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pischedda C, Cocco S, Melis A, Marini MG, Kan YW, Cao A, Moi P: Isolation of a differentially regulated splicing isoform of human NF-E2.  Proc Natl Acad Sci U S A. 1995 Apr 11;92(8):3511-5.</reference_text>
+      <pubmed_id>7724591</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hung HL, Kim AY, Hong W, Rakowski C, Blobel GA: Stimulation of NF-E2 DNA binding by CREB-binding protein (CBP)-mediated acetylation. J Biol Chem. 2001 Apr 6;276(14):10715-21. Epub 2001 Jan 11.</reference_text>
+      <pubmed_id>11154691</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shyu YC, Lee TL, Ting CY, Wen SC, Hsieh LJ, Li YC, Hwang JL, Lin CC, Shen CK: Sumoylation of p45/NF-E2: nuclear positioning and transcriptional activation of the mammalian beta-like globin gene locus. Mol Cell Biol. 2005 Dec;25(23):10365-78.</reference_text>
+      <pubmed_id>16287851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee TL, Shyu YC, Hsu TY, Shen CK: Itch regulates p45/NF-E2 in vivo by Lys63-linked ubiquitination.  Biochem Biophys Res Commun. 2008 Oct 24;375(3):326-30. Epub 2008 Aug 19.</reference_text>
+      <pubmed_id>18718448</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:58:45 -0700</creation_date>
+  <update_date>2013-05-27 11:07:31 -0600</update_date>
+  <accession>HMDBP07409</accession>
+  <secondary_accessions>
+    <accession>13097</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>CMPK2</gene_name>
+  <general_function>Involved in thymidylate kinase activity</general_function>
+  <specific_function>May participate in dUTP and dCTP synthesis in mitochondria. Is able to phosphorylate dUMP, dCMP, CMP, UMP and monophosphates of the pyrimidine nucleoside analogs ddC, dFdC, araC, BVDU and FdUrd with ATP as phosphate donor. Efficacy is highest for dUMP followed by dCMP; CMP and UMP are poor substrates. May be involved in mtDNA depletion caused by long term treatment with ddC or other pyrimidine analogs.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Pyrimidine Metabolism</name>
+      <smpdb_id>SMP00046</smpdb_id>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00288</accession>
+      <name>Uridine 5'-monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01546</accession>
+      <name>CDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00095</accession>
+      <name>Cytidine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01245</accession>
+      <name>dCDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01202</accession>
+      <name>dCMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00900</accession>
+      <name>Ergocalciferol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, phosphate group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>thymidylate kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyrimidine nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyrimidine nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyrimidine nucleoside diphosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyrimidine deoxyribonucleoside diphosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dtdp biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cytidylate kinase activity</description>
+      <go_id>GO:0004127</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>UMP kinase activity</description>
+      <go_id>GO:0033862</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to lipopolysaccharide</description>
+      <go_id>GO:0071222</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleotide biosynthetic process</description>
+      <go_id>GO:0006221</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2p25.2</locus>
+    <gene_sequence>&gt;1350 bp
+ATGGCCTTCGCCCGCCGGCTCCTGCGCGGGCCACTGTCGGGGCCGCTGCTCGGGCGGCGC
+GGGGTCTGCGCTGGGGCCATGGCTCCGCCGCGCCGCTTCGTCCTGGAGCTTCCCGACTGC
+ACCCTGGCTCACTTCGCCCTAGGCGCCGACGCCCCCGGCGACGCAGACGCCCCCGACCCC
+CGCCTGGCGGCGCTGCTGGGGCCCCCGGAGCGCAGCTACTCGCTGTGCGTGCCCGTGACC
+CCGGACGCCGGCTGCGGGGCCCGGGTCCGGGCGGCGCGGCTGCACCAGCGCCTGCTGCAC
+CAGCTGCGCCGCGGCCCCTTCCAGCGGTGCCAGCTGCTCAGGCTGCTCTGCTACTGCCCG
+GGCGGCCAGGCCGGCGGCGCACAGCAAGGCTTCCTGCTGCGCGACCCCCTGGATGACCCT
+GACACCCGGCAAGCGCTGCTCGAGCTGCTGGGCGCCTGTCAGGAGGCACCACGCCCGCAC
+TTGGGCGAGTTCGAGGCCGACCCGCGCGGCCAGCTGTGGCAGCGCCTCTGGGAGGTGCAA
+GACGGCAGGCGGCTGCAGGTGGGCTGCGCACAGGTCGTGCCCGTCCCGGAGCCCCCGCTG
+CACCCGGTGGTGCCAGACTTGCCCAGTTCCGTGGTCTTCCCGGACCGGGAAGCCGCCCGG
+GCCGTTTTGGAGGAGTGTACCTCCTTTATTCCTGAAGCCCGGGCAGTGCTTGACCTGGTC
+GACCAGTGCCCAAAACAGATCCAGAAAGGAAAGTTCCAGGTTGTTGCCATCGAAGGACTG
+GATGCCACGGGTAAAACCACGGTGACCCAGTCAGTGGCAGATTCACTTAAGGCTGTCCTC
+TTAAAGTCACCACCCTCTTGCATTGGCCAGTGGAGGAAGATCTTTGATGATGAACCAACT
+ATCATTAGAAGAGCTTTTTACTCTTTGGGCAATTATATTGTGGCCTCCGAAATAGCTAAA
+GAATCTGCCAAATCTCCTGTGATTGTAGACAGGTACTGGCACAGCACGGCCACCTATGCC
+ATAGCCACTGAGGTGAGTGGGGGTCTCCAGCACCTGCCCCCAGCCCATCACCCTGTGTAC
+CAGTGGCCAGAGGACCTGCTCAAACCTGACCTTATCCTGCTGCTCACTGTGAGTCCTGAG
+GAGAGGTTGCAGAGGCTGCAGGGCCGGGGCATGGAGAAGACCAGGGAAGAAGCAGAACTT
+GAGGCCAACAGTGTGTTTCGTCAAAAGGTAGAAATGTCCTACCAGCGGATGGAGAATCCT
+GGCTGCCATGTGGTTGATGCCAGCCCCTCCAGAGAAAAGGTCCTGCAGACGGTATTAAGC
+CTAATCCAGAATAGTTTTAGTGAACCGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>449</residue_number>
+    <molecular_weight>44958.27</molecular_weight>
+    <theoretical_pi>7.383</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Thymidylate_kin</name>
+        <pfam_id>PF02223</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;UMP-CMP kinase 2, mitochondrial
+MAFARRLLRGPLSGPLLGRRGVCAGAMAPPRRFVLELPDCTLAHFALGADAPGDADAPDP
+RLAALLGPPERSYSLCVPVTPDAGCGARVRAARLHQRLLHQLRRGPFQRCQLLRLLCYCP
+GGQAGGAQQGFLLRDPLDDPDTRQALLELLGACQEAPRPHLGEFEADPRGQLWQRLWEVQ
+DGRRLQVGCAQVVPVPEPPLHPVVPDLPSSVVFPDREAARAVLEECTSFIPEARAVLDLV
+DQCPKQIQKGKFQVVAIEGLDATGKTTVTQSVADSLKAVLLKSPPSCIGQWRKIFDDEPT
+IIRRAFYSLGNYIVASEIAKESAKSPVIVDRYWHSTATYAIATEVSGGLQHLPPAHHPVY
+QWPEDLLKPDLILLLTVSPEERLQRLQGRGMEKTREEAELEANSVFRQKVEMSYQRMENP
+GCHVVDASPSREKVLQTVLSLIQNSFSEP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>117606370</genbank_protein_id>
+  <uniprot_id>Q5EBM0</uniprot_id>
+  <uniprot_name>CMPK2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_207315.2</genbank_gene_id>
+  <genecard_id>CMPK2</genecard_id>
+  <geneatlas_id>CMPK2</geneatlas_id>
+  <hgnc_id>HGNC:27015</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Xu Y, Johansson M, Karlsson A: Human UMP-CMP kinase 2, a novel nucleoside monophosphate kinase localized in mitochondria. J Biol Chem. 2008 Jan 18;283(3):1563-71. Epub 2007 Nov 13.</reference_text>
+      <pubmed_id>17999954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

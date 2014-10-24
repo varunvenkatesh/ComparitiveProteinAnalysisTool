@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:18 -0700</creation_date>
+  <update_date>2013-05-27 10:57:14 -0600</update_date>
+  <accession>HMDBP02935</accession>
+  <secondary_accessions>
+    <accession>8445</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>8-oxo-dGTPase</synonym>
+    <synonym>Nucleoside diphosphate-linked moiety X motif 1</synonym>
+    <synonym>Nudix motif 1</synonym>
+    <synonym>2-hydroxy-dATP diphosphatase</synonym>
+  </synonyms>
+  <gene_name>NUDT1</gene_name>
+  <general_function>Involved in 8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity</general_function>
+  <specific_function>Antimutagenic. Acts as a sanitizing enzyme for oxidized nucleotide pools, thus suppressing cell dysfunction and death induced by oxidative stress. Hydrolyzes 8-oxo-dGTP, 8-oxo-dATP and 2-OH-dATP, thus preventing misincorporation of oxidized purine nucleoside triphosphates into DNA and subsequently preventing A:T to C:G and G:C to T:A transversions. Able to hydrolyze also the corresponding ribonucleotides, 2-OH-ATP, 8-oxo-GTP and 8-oxo-ATP.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB11615</accession>
+      <name>8-Oxo-dGTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11670</accession>
+      <name>8-Oxo-dGMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59593</accession>
+      <name>2-hydroxy-dATP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59594</accession>
+      <name>2-hydroxy-dAMP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphate diphosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity</description>
+      <go_id>GO:0035539</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity</description>
+      <go_id>GO:0008413</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP diphosphatase activity</description>
+      <go_id>GO:0047693</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GTPase activity</description>
+      <go_id>GO:0003924</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>snoRNA binding</description>
+      <go_id>GO:0030515</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ATP catabolic process</description>
+      <go_id>GO:0006200</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dGTP catabolic process</description>
+      <go_id>GO:0006203</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA protection</description>
+      <go_id>GO:0042262</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA repair</description>
+      <go_id>GO:0006281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>7</chromosome_location>
+    <locus>7p22</locus>
+    <gene_sequence>&gt;594 bp
+ATGTACTGGAGCAATCAGATCACACGGCGGCTTGGAGAGCGAGTGCAAGGTTTTATGAGT
+GGAATTAGCCCTCAGCAGATGGGGGAGCCAGAAGGCAGTTGGAGTGGGAAGAACCCAGGG
+ACCATGGGCGCCTCCAGGCTCTATACCCTGGTGCTGGTCCTGCAGCCTCAGCGAGTTCTC
+CTGGGCATGAAAAAGCGAGGCTTCGGGGCCGGCCGGTGGAATGGCTTTGGGGGCAAAGTG
+CAAGAAGGAGAGACCATCGAGGATGGGGCTAGGAGGGAGCTGCAGGAGGAGAGCGGTCTG
+ACAGTGGACGCCCTGCACAAGGTGGGCCAGATCGTGTTTGAGTTCGTGGGCGAGCCTGAG
+CTCATGGACATGCATGTCTTCTGCACAGACAGCATCCAGGGGACCCCCGTGGAGAGCGAC
+GAAATGCGCCCATGCTGGTTCCAGCTGGATCAGATCCCCTTCAAGGACATGTGGCCCGAC
+GACAGCTACTGGTTTCCACTCCTGCTTCAGAAGAAGAAATTCCACGGGTACTTCAAGTTC
+CAGGGTCAGGACACCATCCTGGACTACACACTCCGCGAGGTGGACACGGTCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>197</residue_number>
+    <molecular_weight>17951.435</molecular_weight>
+    <theoretical_pi>5.086</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>NUDIX</name>
+        <pfam_id>PF00293</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;7,8-dihydro-8-oxoguanine triphosphatase
+MYWSNQITRRLGERVQGFMSGISPQQMGEPEGSWSGKNPGTMGASRLYTLVLVLQPQRVL
+LGMKKRGFGAGRWNGFGGKVQEGETIEDGARRELQEESGLTVDALHKVGQIVFEFVGEPE
+LMDVHVFCTDSIQGTPVESDEMRPCWFQLDQIPFKDMWPDDSYWFPLLLQKKKFHGYFKF
+QGQDTILDYTLREVDTV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>5821385</genbank_protein_id>
+  <uniprot_id>P36639</uniprot_id>
+  <uniprot_name>8ODP_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1IRY</pdb_id>
+    <pdb_id>3Q93</pdb_id>
+    <pdb_id>3ZR0</pdb_id>
+    <pdb_id>3ZR1</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB025240</genbank_gene_id>
+  <genecard_id>NUDT1</genecard_id>
+  <geneatlas_id>NUDT1</geneatlas_id>
+  <hgnc_id>HGNC:8048</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sakumi K, Furuichi M, Tsuzuki T, Kakuma T, Kawabata S, Maki H, Sekiguchi M: Cloning and expression of cDNA for a human enzyme that hydrolyzes 8-oxo-dGTP, a mutagenic substrate for DNA synthesis. J Biol Chem. 1993 Nov 5;268(31):23524-30.</reference_text>
+      <pubmed_id>8226881</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Furuichi M, Yoshida MC, Oda H, Tajiri T, Nakabeppu Y, Tsuzuki T, Sekiguchi M: Genomic structure and chromosome location of the human mutT homologue gene MTH1 encoding 8-oxo-dGTPase for prevention of A:T to C:G transversion. Genomics. 1994 Dec;24(3):485-90.</reference_text>
+      <pubmed_id>7713500</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oda H, Nakabeppu Y, Furuichi M, Sekiguchi M: Regulation of expression of the human MTH1 gene encoding 8-oxo-dGTPase. Alternative splicing of transcription products. J Biol Chem. 1997 Jul 11;272(28):17843-50.</reference_text>
+      <pubmed_id>9211940</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oda H, Taketomi A, Maruyama R, Itoh R, Nishioka K, Yakushiji H, Suzuki T, Sekiguchi M, Nakabeppu Y: Multi-forms of human MTH1 polypeptides produced by alternative translation initiation and single nucleotide polymorphism. Nucleic Acids Res. 1999 Nov 15;27(22):4335-43.</reference_text>
+      <pubmed_id>10536140</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SW, Cheung J, MacDonald JR, Osborne LR, Nakabayashi K, Herbrick JA, Carson AR, Parker-Katiraee L, Skaug J, Khaja R, Zhang J, Hudek AK, Li M, Haddad M, Duggan GE, Fernandez BA, Kanematsu E, Gentles S, Christopoulos CC, Choufani S, Kwasnicka D, Zheng XH, Lai Z, Nusskern D, Zhang Q, Gu Z, Lu F, Zeesman S, Nowaczyk MJ, Teshima I, Chitayat D, Shuman C, Weksberg R, Zackai EH, Grebe TA, Cox SR, Kirkpatrick SJ, Rahman N, Friedman JM, Heng HH, Pelicci PG, Lo-Coco F, Belloni E, Shaffer LG, Pober B, Morton CC, Gusella JF, Bruns GA, Korf BR, Quade BJ, Ligon AH, Ferguson H, Higgins AW, Leach NT, Herrick SR, Lemyre E, Farra CG, Kim HG, Summers AM, Gripp KW, Roberts W, Szatmari P, Winsor EJ, Grzeschik KH, Teebi A, Minassian BA, Kere J, Armengol L, Pujana MA, Estivill X, Wilson MD, Koop BF, Tosi S, Moore GE, Boright AP, Zlotorynski E, Kerem B, Kroisel PM, Petek E, Oscier DG, Mould SJ, Dohner H, Dohner K, Rommens JM, Vincent JB, Venter JC, Li PW, Mural RJ, Adams MD, Tsui LC: Human chromosome 7: DNA sequence and biology.  Science. 2003 May 2;300(5620):767-72. Epub 2003 Apr 10.</reference_text>
+      <pubmed_id>12690205</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Fulton RS, Fulton LA, Graves TA, Pepin KH, Wagner-McPherson C, Layman D, Maas J, Jaeger S, Walker R, Wylie K, Sekhon M, Becker MC, O'Laughlin MD, Schaller ME, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Cordes M, Du H, Sun H, Edwards J, Bradshaw-Cordum H, Ali J, Andrews S, Isak A, Vanbrunt A, Nguyen C, Du F, Lamar B, Courtney L, Kalicki J, Ozersky P, Bielicki L, Scott K, Holmes A, Harkins R, Harris A, Strong CM, Hou S, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Leonard S, Rohlfing T, Rock SM, Tin-Wollam AM, Abbott A, Minx P, Maupin R, Strowmatt C, Latreille P, Miller N, Johnson D, Murray J, Woessner JP, Wendl MC, Yang SP, Schultz BR, Wallis JW, Spieth J, Bieri TA, Nelson JO, Berkowicz N, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Bedell JA, Mardis ER, Clifton SW, Chissoe SL, Marra MA, Raymond C, Haugen E, Gillett W, Zhou Y, James R, Phelps K, Iadanoto S, Bubb K, Simms E, Levy R, Clendenning J, Kaul R, Kent WJ, Furey TS, Baertsch RA, Brent MR, Keibler E, Flicek P, Bork P, Suyama M, Bailey JA, Portnoy ME, Torrents D, Chinwalla AT, Gish WR, Eddy SR, McPherson JD, Olson MV, Eichler EE, Green ED, Waterston RH, Wilson RK: The DNA sequence of human chromosome 7.  Nature. 2003 Jul 10;424(6945):157-64.</reference_text>
+      <pubmed_id>12853948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujii Y, Shimokawa H, Sekiguchi M, Nakabeppu Y: Functional significance of the conserved residues for the 23-residue module among MTH1 and MutT family proteins. J Biol Chem. 1999 Dec 31;274(53):38251-9.</reference_text>
+      <pubmed_id>10608900</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mishima M, Sakai Y, Itoh N, Kamiya H, Furuichi M, Takahashi M, Yamagata Y, Iwai S, Nakabeppu Y, Shirakawa M: Structure of human MTH1, a Nudix family hydrolase that selectively degrades oxidized purine nucleoside triphosphates. J Biol Chem. 2004 Aug 6;279(32):33806-15. Epub 2004 May 7.</reference_text>
+      <pubmed_id>15133035</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

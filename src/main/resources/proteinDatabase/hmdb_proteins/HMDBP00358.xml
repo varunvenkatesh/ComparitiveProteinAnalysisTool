@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:53 -0700</creation_date>
+  <update_date>2013-05-27 11:20:41 -0600</update_date>
+  <accession>HMDBP00358</accession>
+  <secondary_accessions>
+    <accession>5594</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HMBS</synonym>
+    <synonym>Hydroxymethylbilane synthase</synonym>
+    <synonym>PBG-D</synonym>
+    <synonym>Pre-uroporphyrinogen synthase</synonym>
+  </synonyms>
+  <gene_name>HMBS</gene_name>
+  <general_function>Involved in hydroxymethylbilane synthase activity</general_function>
+  <specific_function>Tetrapolymerization of the monopyrrole PBG into the hydroxymethylbilane pre-uroporphyrinogen in several discrete steps.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protoporphyrin-IX biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Porphyrin and chlorophyll metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00860</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03419</accession>
+      <name>Formyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00245</accession>
+      <name>Porphobilinogen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01137</accession>
+      <name>Hydroxymethylbilane</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring alkyl or aryl (other than methyl) groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydroxymethylbilane synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein-cofactor linkage</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>peptidyl-pyrromethane cofactor linkage</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>heterocycle biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>tetrapyrrole biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>axon</description>
+      <go_id>GO:0030424</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>condensed chromosome</description>
+      <go_id>GO:0000793</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>amine binding</description>
+      <go_id>GO:0043176</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carboxylic acid binding</description>
+      <go_id>GO:0031406</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>coenzyme binding</description>
+      <go_id>GO:0050662</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hydroxymethylbilane synthase activity</description>
+      <go_id>GO:0004418</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>uroporphyrinogen-III synthase activity</description>
+      <go_id>GO:0004852</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>astrocyte differentiation</description>
+      <go_id>GO:0048708</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to amine stimulus</description>
+      <go_id>GO:0071418</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to antibiotic</description>
+      <go_id>GO:0071236</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to arsenic-containing substance</description>
+      <go_id>GO:0071243</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to cytokine stimulus</description>
+      <go_id>GO:0071345</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to dexamethasone stimulus</description>
+      <go_id>GO:0071549</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to lead ion</description>
+      <go_id>GO:0071284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heme biosynthetic process</description>
+      <go_id>GO:0006783</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>organ regeneration</description>
+      <go_id>GO:0031100</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-pyrromethane cofactor linkage</description>
+      <go_id>GO:0018160</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protoporphyrinogen IX biosynthetic process</description>
+      <go_id>GO:0006782</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amino acid stimulus</description>
+      <go_id>GO:0043200</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to carbohydrate stimulus</description>
+      <go_id>GO:0009743</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cobalt ion</description>
+      <go_id>GO:0032025</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to estradiol stimulus</description>
+      <go_id>GO:0032355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hypoxia</description>
+      <go_id>GO:0001666</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to methylmercury</description>
+      <go_id>GO:0051597</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to vitamin</description>
+      <go_id>GO:0033273</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to zinc ion</description>
+      <go_id>GO:0010043</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q23.3</locus>
+    <gene_sequence>&gt;1086 bp
+ATGTCTGGTAACGGCAATGCGGCTGCAACGGCGGAAGAAAACAGCCCAAAGATGAGAGTG
+ATTCGCGTGGGTACCCGCAAGAGCCAGCTTGCTCGCATACAGACGGACAGTGTGGTGGCA
+ACATTGAAAGCCTCGTACCCTGGCCTGCAGTTTGAAATCATTGCTATGTCCACCACAGGG
+GACAAGATTCTTGATACTGCACTCTCTAAGATTGGAGAGAAAAGCCTGTTTACCAAGGAG
+CTTGAACATGCCCTGGAGAAGAATGAAGTGGACCTGGTTGTTCACTCCTTGAAGGACCTG
+CCCACTGTGCTTCCTCCTGGCTTCACCATCGGAGCCATCTGCAAGCGGGAAAACCCTCAT
+GATGCTGTTGTCTTTCACCCAAAATTTGTTGGGAAGACCCTAGAAACCCTGCCAGAGAAG
+AGTGTGGTGGGAACCAGCTCCCTGCGAAGAGCAGCCCAGCTGCAGAGAAAGTTCCCGCAT
+CTGGAGTTCAGGAGTATTCGGGGAAACCTCAACACCCGGCTTCGGAAGCTGGACGAGCAG
+CAGGAGTTCAGTGCCATCATCCTGGCAACAGCTGGCCTGCAGCGCATGGGCTGGCACAAC
+CGGGTGGGGCAGATCCTGCACCCTGAGGAATGCATGTATGCTGTGGGCCAGGGGGCCTTG
+GGCGTGGAAGTGCGAGCCAAGGACCAGGACATCTTGGATCTGGTGGGTGTGCTGCACGAT
+CCCGAGACTCTGCTTCGCTGCATCGCTGAAAGGGCCTTCCTGAGGCACCTGGAAGGAGGC
+TGCAGTGTGCCAGTAGCCGTGCATACAGCTATGAAGGATGGGCAACTGTACCTGACTGGA
+GGAGTCTGGAGTCTAGACGGCTCAGATAGCATACAAGAGACCATGCAGGCTACCATCCAT
+GTCCCTGCCCAGCATGAAGATGGCCCTGAGGATGACCCACAGTTGGTAGGCATCACTGCT
+CGTAACATTCCACGAGGGCCCCAGTTGGCTGCCCAGAACTTGGGCATCAGCCTGGCCAAC
+TTGTTGCTGAGCAAAGGAGCCAAAAACATCCTGGATGTTGCACGGCAGCTTAACGATGCC
+CATTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>361</residue_number>
+    <molecular_weight>39329.74</molecular_weight>
+    <theoretical_pi>7.174</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Porphobil_deam</name>
+        <pfam_id>PF01379</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Porphobil_deamC</name>
+        <pfam_id>PF03900</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Porphobilinogen deaminase
+MSGNGNAAATAEENSPKMRVIRVGTRKSQLARIQTDSVVATLKASYPGLQFEIIAMSTTG
+DKILDTALSKIGEKSLFTKELEHALEKNEVDLVVHSLKDLPTVLPPGFTIGAICKRENPH
+DAVVFHPKFVGKTLETLPEKSVVGTSSLRRAAQLQRKFPHLEFRSIRGNLNTRLRKLDEQ
+QEFSAIILATAGLQRMGWHNRVGQILHPEECMYAVGQGALGVEVRAKDQDILDLVGVLHD
+PETLLRCIAERAFLRHLEGGCSVPVAVHTAMKDGQLYLTGGVWSLDGSDSIQETMQATIH
+VPAQHEDGPEDDPQLVGITARNIPRGPQLAAQNLGISLANLLLSKGAKNILDVARQLNDA
+H</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>158261573</genbank_protein_id>
+  <uniprot_id>P08397</uniprot_id>
+  <uniprot_name>HEM3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3ECR</pdb_id>
+    <pdb_id>3EQ1</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AK290275</genbank_gene_id>
+  <genecard_id>HMBS</genecard_id>
+  <geneatlas_id>HMBS</geneatlas_id>
+  <hgnc_id>HGNC:4982</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Raich N, Romeo PH, Dubart A, Beaupain D, Cohen-Solal M, Goossens M: Molecular cloning and complete primary sequence of human erythrocyte porphobilinogen deaminase. Nucleic Acids Res. 1986 Aug 11;14(15):5955-68.</reference_text>
+      <pubmed_id>2875434</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grandchamp B, De Verneuil H, Beaumont C, Chretien S, Walter O, Nordmann Y: Tissue-specific expression of porphobilinogen deaminase. Two isoenzymes from a single gene. Eur J Biochem. 1987 Jan 2;162(1):105-10.</reference_text>
+      <pubmed_id>3816774</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoo HW, Warner CA, Chen CH, Desnick RJ: Hydroxymethylbilane synthase: complete genomic sequence and amplifiable polymorphisms in the human gene. Genomics. 1993 Jan;15(1):21-9.</reference_text>
+      <pubmed_id>7916736</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chretien S, Dubart A, Beaupain D, Raich N, Grandchamp B, Rosa J, Goossens M, Romeo PH: Alternative transcription and splicing of the human porphobilinogen deaminase gene result either in tissue-specific or in housekeeping expression. Proc Natl Acad Sci U S A. 1988 Jan;85(1):6-10.</reference_text>
+      <pubmed_id>3422427</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lannfelt L, Wetterberg L, Lilius L, Thunell S, Jornvall H, Pavlu B, Wielburski A, Gellerfors P: Porphobilinogen deaminase in human erythrocytes: purification of two forms with apparent molecular weights of 40 kDa and 42 kDa. Scand J Clin Lab Invest. 1989 Nov;49(7):677-84.</reference_text>
+      <pubmed_id>2609111</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gill R, Kolstoe SE, Mohammed F, Al D-Bass A, Mosely JE, Sarwar M, Cooper JB, Wood SP, Shoolingin-Jordan PM: Structure of human porphobilinogen deaminase at 2.8 A: the molecular basis of acute intermittent porphyria. Biochem J. 2009 Apr 28;420(1):17-25.</reference_text>
+      <pubmed_id>19207107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Song G, Li Y, Cheng C, Zhao Y, Gao A, Zhang R, Joachimiak A, Shaw N, Liu ZJ: Structural insight into acute intermittent porphyria.  FASEB J. 2009 Feb;23(2):396-404. Epub 2008 Oct 20.</reference_text>
+      <pubmed_id>18936296</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Delfau MH, Picat C, de Rooij FW, Hamer K, Bogard M, Wilson JH, Deybach JC, Nordmann Y, Grandchamp B: Two different point G to A mutations in exon 10 of the porphobilinogen deaminase gene are responsible for acute intermittent porphyria. J Clin Invest. 1990 Nov;86(5):1511-6.</reference_text>
+      <pubmed_id>2243128</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Delfau MH, Picat C, De Rooij F, Voortman G, Deybach JC, Nordmann Y, Grandchamp B: Molecular heterogeneity of acute intermittent porphyria: identification of four additional mutations resulting in the CRIM-negative subtype of the disease. Am J Hum Genet. 1991 Aug;49(2):421-8.</reference_text>
+      <pubmed_id>1714233</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gu XF, de Rooij F, Voortman G, Te Velde K, Nordmann Y, Grandchamp B: High frequency of mutations in exon 10 of the porphobilinogen deaminase gene in patients with a CRIM-positive subtype of acute intermittent porphyria. Am J Hum Genet. 1992 Sep;51(3):660-5.</reference_text>
+      <pubmed_id>1496994</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mgone CS, Lanyon WG, Moore MR, Connor JM: Detection of seven point mutations in the porphobilinogen deaminase gene in patients with acute intermittent porphyria, by direct sequencing of in vitro amplified cDNA. Hum Genet. 1992 Sep-Oct;90(1-2):12-6.</reference_text>
+      <pubmed_id>1427766</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kauppinen R, Peltonen L, Pihlaja H, Mustajoki P: CRIM-positive mutations of acute intermittent porphyria in Finland.  Hum Mutat. 1992;1(5):392-6.</reference_text>
+      <pubmed_id>1301948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mgone CS, Lanyon WG, Moore MR, Louie GV, Connor JM: Detection of a high mutation frequency in exon 12 of the porphobilinogen deaminase gene in patients with acute intermittent porphyria. Hum Genet. 1993 Dec;92(6):619-22.</reference_text>
+      <pubmed_id>8262523</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Llewellyn DH, Whatley S, Elder GH: Acute intermittent porphyria caused by an arginine to histidine substitution (R26H) in the cofactor-binding cleft of porphobilinogen deaminase. Hum Mol Genet. 1993 Aug;2(8):1315-6.</reference_text>
+      <pubmed_id>8401516</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gu XF, de Rooij F, de Baar E, Bruyland M, Lissens W, Nordmann Y, Grandchamp B: Two novel mutations of the porphobilinogen deaminase gene in acute intermittent porphyria. Hum Mol Genet. 1993 Oct;2(10):1735-6.</reference_text>
+      <pubmed_id>8268934</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gu XF, de Rooij F, Voortman G, Te Velde K, Deybach JC, Nordmann Y, Grandchamp B: Detection of eleven mutations causing acute intermittent porphyria using denaturing gradient gel electrophoresis. Hum Genet. 1994 Jan;93(1):47-52.</reference_text>
+      <pubmed_id>8270254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lundin G, Wedell A, Thunell S, Anvret M: Two new mutations in the porphobilinogen deaminase gene and a screening method using PCR amplification of specific alleles. Hum Genet. 1994 Jan;93(1):59-62.</reference_text>
+      <pubmed_id>8270256</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mgone CS, Lanyon WG, Moore MR, Louie GV, Connor JM: Identification of five novel mutations in the porphobilinogen deaminase gene. Hum Mol Genet. 1994 May;3(5):809-11.</reference_text>
+      <pubmed_id>8081367</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Astrin KH, Desnick RJ: Molecular basis of acute intermittent porphyria: mutations and polymorphisms in the human hydroxymethylbilane synthase gene. Hum Mutat. 1994;4(4):243-52.</reference_text>
+      <pubmed_id>7866402</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen CH, Astrin KH, Lee G, Anderson KE, Desnick RJ: Acute intermittent porphyria: identification and expression of exonic mutations in the hydroxymethylbilane synthase gene. An initiation codon missense mutation in the housekeeping transcript causes &amp;quot;variant acute intermittent porphyria&amp;quot; with normal expression of the erythroid-specific enzyme. J Clin Invest. 1994 Nov;94(5):1927-37.</reference_text>
+      <pubmed_id>7962538</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kauppinen R, Mustajoki S, Pihlaja H, Peltonen L, Mustajoki P: Acute intermittent porphyria in Finland: 19 mutations in the porphobilinogen deaminase gene. Hum Mol Genet. 1995 Feb;4(2):215-22.</reference_text>
+      <pubmed_id>7757070</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lundin G, Hashemi J, Floderus Y, Thunell S, Sagen E, Laegreid A, Wassif W, Peters T, Anvret M: Four mutations in the porphobilinogen deaminase gene in patients with acute intermittent porphyria. J Med Genet. 1995 Dec;32(12):979-81.</reference_text>
+      <pubmed_id>8825929</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Puy H, Deybach JC, Lamoril J, Robreau AM, Da Silva V, Gouya L, Grandchamp B, Nordmann Y: Molecular epidemiology and diagnosis of PBG deaminase gene defects in acute intermittent porphyria. Am J Hum Genet. 1997 Jun;60(6):1373-83.</reference_text>
+      <pubmed_id>9199558</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lundin G, Lee JS, Thunell S, Anvret M: Genetic investigation of the porphobilinogen deaminase gene in Swedish acute intermittent porphyria families. Hum Genet. 1997 Jul;100(1):63-6.</reference_text>
+      <pubmed_id>9225970</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mustajoki S, Pihlaja H, Ahola H, Petersen NE, Mustajoki P, Kauppinen R: Three splicing defects, an insertion, and two missense mutations responsible for acute intermittent porphyria. Hum Genet. 1998 May;102(5):541-8.</reference_text>
+      <pubmed_id>9654202</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ong PM, Lanyon WG, Hift RJ, Halkett J, Cramp CE, Moore MR, Connor JM: Identification of two novel mutations in the hydroxymethylbilane synthase gene in three patients from two unrelated families with acute intermittent porphyria. Hum Hered. 1998 Jan-Feb;48(1):24-9.</reference_text>
+      <pubmed_id>9463797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Siervi A, Rossetti MV, Parera VE, Astrin KH, Aizencang GI, Glass IA, Batlle AM, Desnick RJ: Identification and characterization of hydroxymethylbilane synthase mutations causing acute intermittent porphyria: evidence for an ancestral founder of the common G111R mutation. Am J Med Genet. 1999 Oct 8;86(4):366-75.</reference_text>
+      <pubmed_id>10494093</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Whatley SD, Woolf JR, Elder GH: Comparison of complementary and genomic DNA sequencing for the detection of mutations in the HMBS gene in British patients with acute intermittent porphyria: identification of 25 novel mutations. Hum Genet. 1999 Jun;104(6):505-10.</reference_text>
+      <pubmed_id>10453740</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Siervi A, Mendez M, Parera VE, Varela L, Batlle AM, Rossetti MV: Acute intermittent porphyria: characterization of two novel mutations in the porphobilinogen deaminase gene, one amino acid deletion (453-455delAGC) and one splicing aceptor site mutation (IVS8-1G&amp;gt;T). Hum Mutat. 1999 Oct;14(4):355.</reference_text>
+      <pubmed_id>10502788</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gross U, Puy H, Doss M, Robreau AM, Nordmann Y, Doss MO, Deybach JC: New mutations of the hydroxymethylbilane synthase gene in German patients with acute intermittent porphyria. Mol Cell Probes. 1999 Dec;13(6):443-7.</reference_text>
+      <pubmed_id>10657149</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Solis C, Lopez-Echaniz I, Sefarty-Graneda D, Astrin KH, Desnick RJ: Identification and expression of mutations in the hydroxymethylbilane synthase gene causing acute intermittent porphyria (AIP). Mol Med. 1999 Oct;5(10):664-71.</reference_text>
+      <pubmed_id>10602775</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ramdall RB, Cunha L, Astrin KH, Katz DR, Anderson KE, Glucksman M, Bottomley SS, Desnick RJ: Acute intermittent porphyria: novel missense mutations in the human hydroxymethylbilane synthase gene. Genet Med. 2000 Sep-Oct;2(5):290-5.</reference_text>
+      <pubmed_id>11399210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Robreau-Fraolini AM, Puy H, Aquaron C, Bogard C, Traore M, Nordmann Y, Aquaron R, Deybach JC: Porphobilinogen deaminase gene in African and Afro-Caribbean ethnic groups: mutations causing acute intermittent porphyria and specific intragenic polymorphisms. Hum Genet. 2000 Aug;107(2):150-9.</reference_text>
+      <pubmed_id>11030413</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schneider-Yin X, Bogard C, Rufenacht UB, Puy H, Nordmann Y, Minder EI, Deybach J: Identification of a prevalent nonsense mutation (W283X) and two novel mutations in the porphobilinogen deaminase gene of Swiss patients with acute intermittent porphyria. Hum Hered. 2000 Jul-Aug;50(4):247-50.</reference_text>
+      <pubmed_id>10782018</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Siervi A, Weiss Cadiz DE, Parera VE, del C Batlle AM, Rossetti MV: Identification and characterization of two novel mutations that produce acute intermittent porphyria: A 3-base deletion (841-843delGGA) and a missense mutation (T35M). Hum Mutat. 2000 Oct;16(4):373.</reference_text>
+      <pubmed_id>11013452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kauppinen R, von und zu Fraunberg M: Molecular and biochemical studies of acute intermittent porphyria in 196 patients and their families. Clin Chem. 2002 Nov;48(11):1891-900.</reference_text>
+      <pubmed_id>12406973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Floderus Y, Shoolingin-Jordan PM, Harper P: Acute intermittent porphyria in Sweden. Molecular, functional and clinical consequences of some new mutations found in the porphobilinogen deaminase gene. Clin Genet. 2002 Oct;62(4):288-97.</reference_text>
+      <pubmed_id>12372055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregor A, Schneider-Yin X, Szlendak U, Wettstein A, Lipniacka A, Rufenacht UB, Minder EI: Molecular study of the hydroxymethylbilane synthase gene (HMBS) among Polish patients with acute intermittent porphyria. Hum Mutat. 2002 Mar;19(3):310.</reference_text>
+      <pubmed_id>11857754</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gouya L, Puy H, Robreau AM, Lyoumi S, Lamoril J, Da Silva V, Grandchamp B, Deybach JC: Modulation of penetrance by the wild-type allele in dominantly inherited erythropoietic protoporphyria and acute hepatic porphyrias. Hum Genet. 2004 Feb;114(3):256-62. Epub 2003 Dec 11.</reference_text>
+      <pubmed_id>14669009</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hessels J, Voortman G, van der Wagen A, van der Elzen C, Scheffer H, Zuijderhoudt FM: Homozygous acute intermittent porphyria in a 7-year-old boy with massive excretions of porphyrins and porphyrin precursors. J Inherit Metab Dis. 2004;27(1):19-27.</reference_text>
+      <pubmed_id>14970743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schneider-Yin X, Hergersberg M, Schuurmans MM, Gregor A, Minder EI: Mutation hotspots in the human porphobilinogen deaminase gene: recurrent mutations G111R and R173Q occurring at CpG motifs. J Inherit Metab Dis. 2004;27(5):625-31.</reference_text>
+      <pubmed_id>15669678</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

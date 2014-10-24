@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:50 -0700</creation_date>
+  <update_date>2013-05-27 11:29:47 -0600</update_date>
+  <accession>HMDBP00600</accession>
+  <secondary_accessions>
+    <accession>5872</accession>
+    <accession>HMDBP04368</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CGI-PDE A</synonym>
+    <synonym>Cyclic GMP-inhibited phosphodiesterase A</synonym>
+  </synonyms>
+  <gene_name>PDE3A</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Cyclic nucleotide phosphodiesterase with a dual-specificity for the second messengers cAMP and cGMP, which are key regulators of many important physiological processes (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Insulin signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04910</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Progesterone-mediated oocyte maturation</name>
+      <smpdb_id/>
+      <kegg_map_id>map04914</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Morphine addiction</name>
+      <smpdb_id/>
+      <kegg_map_id>map05032</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01314</accession>
+      <name>Cyclic GMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01889</accession>
+      <name>Theophylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14380</accession>
+      <name>Milrinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14406</accession>
+      <name>Anagrelide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15058</accession>
+      <name>Levosimendan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15297</accession>
+      <name>Cilostazol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15354</accession>
+      <name>Aminophylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15415</accession>
+      <name>Oxtriphylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15496</accession>
+      <name>Amrinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15599</accession>
+      <name>Enoximone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15614</accession>
+      <name>Ibudilast</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15699</accession>
+      <name>Tofisopam</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric diester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3',5'-cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3',5'-cyclic-AMP phosphodiesterase activity</description>
+      <go_id>GO:0004115</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cAMP binding</description>
+      <go_id>GO:0030552</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cGMP-inhibited cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id>GO:0004119</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>blood coagulation</description>
+      <go_id>GO:0007596</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cAMP catabolic process</description>
+      <go_id>GO:0006198</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cAMP-mediated signaling</description>
+      <go_id>GO:0019933</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to cGMP</description>
+      <go_id>GO:0071321</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to transforming growth factor beta stimulus</description>
+      <go_id>GO:0071560</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cGMP-mediated signaling</description>
+      <go_id>GO:0019934</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lipid metabolic process</description>
+      <go_id>GO:0006629</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of vascular permeability</description>
+      <go_id>GO:0043116</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oocyte maturation</description>
+      <go_id>GO:0001556</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of oocyte development</description>
+      <go_id>GO:0060282</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of vascular permeability</description>
+      <go_id>GO:0043117</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of meiosis</description>
+      <go_id>GO:0040020</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cAMP</description>
+      <go_id>GO:0051591</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p12</locus>
+    <gene_sequence>&gt;3426 bp
+ATGGCAGTGCCCGGCGACGCTGCACGAGTCAGGGACAAGCCCGTCCACAGTGGGGTGAGT
+CAAGCCCCCACGGCGGGCCGGGACTGCCACCATCGTGCGGACCCCGCATCGCCGCGGGAC
+TCGGGCTGCCGTGGCTGCTGGGGAGACCTGGTGCTGCAGCCGCTCCGGAGCTCTCGGAAA
+CTTTCCTCCGCGCTGTGCGCGGGCTCCCTATCCTTTCTGCTGGCGCTGCTGGTGAGGCTG
+GTCCGCGGGGAGGTCGGCTGTGACCTGGAGCAGTGTAAGGAGGCGGCGGCGGCGGAGGAG
+GAGGAAGCAGCCCCGGGAGCAGAAGGGGGCGTCTTCCCGGGGCCTCGGGGAGGTGCTCCC
+GGGGGCGGTGCGCGGCTCAGCCCCTGGCTGCAGCCCTCGGCGCTGCTCTTCAGTCTCCTG
+TGTGCCTTCTTCTGGATGGGCTTGTACCTCCTGCGCGCCGGGGTGCGCCTGCCTCTGGCT
+GTCGCGCTGCTGGCCGCCTGCTGCGGGGGGGAAGCGCTCGTCCAGATTGGGCTGGGCGTC
+GGGGAGGATCACTTACTCTCACTCCCCGCTGCGGGGGTGGTGCTCAGCTGCTTGGCCGCC
+GCGACATGGCTGGTGCTGAGGCTGAGGCTGGGCGTCCTCATGATCGCCTTGACTAGCGCG
+GTCAGGACCGTGTCCCTCATTTCCTTAGAGAGGTTCAAGGTCGCCTGGAGACCTTACCTG
+GCGTACCTGGCCGGCGTGCTGGGGATCCTCTTGGCCAGGTACGTGGAACAAATCTTGCCG
+CAGTCCGCGGAGGCGGCTCCAAGGGAGCATTTGGGGTCCCAGCTGATTGCTGGGACCAAG
+GAAGATATCCCGGTGTTTAAGAGGAGGAGGCGGTCCAGCTCCGTCGTGTCCGCCGAGATG
+TCCGGCTGCAGCAGCAAGTCCCATCGGAGGACCTCCCTGCCCTGTATACCGAGGGAACAG
+CTCATGGGGCATTCAGAATGGGACCACAAACGAGGGCCAAGAGGATCACAGTCTTCAGGA
+ACCAGTATTACTGTGGACATCGCCGTCATGGGCGAAGCCCACGGCCTCATTACCGACCTC
+CTGGCAGACCCTTCTCTTCCACCAAACGTGTGCACATCCTTGAGAGCCGTGAGCAACTTG
+CTCAGCACACAGCTCACCTTCCAGGCCATTCACAAGCCCAGAGTGAATCCCGTTACTTCG
+CTCAGTGAAAACTATACCTGTTCTGACTCTGAAGAGAGCTCTGAAAAAGACAAGCTTGCT
+ATTCCAAAGCGCCTGAGAAGGAGTTTGCCTCCTGGCTTGTTGAGACGAGTTTCTTCCACT
+TGGACCACCACCACCTCGGCCACAGGTCTACCCACCTTGGAGCCTGCACCAGTACGGAGA
+GACCGCAGCACCAGCATCAAACTGCAGGAAGCACCTTCATCCAGTCCTGATTCTTGGAAT
+AATCCAGTGATGATGACCCTCACCAAAAGCAGATCCTTTACTTCATCCTATGCTATTTCT
+GCAGCTAACCATGTAAAGGCTAAAAAGCAAAGTCGACCAGGTGCCCTCGCTAAAATTTCA
+CCTCTTTCATCGCCCTGCTCCTCACCTCTCCAAGGGACTCCTGCCAGCAGCCTGGTCAGC
+AAAATTTCTGCAGTGCAGTTTCCAGAATCTGCTGACACAACTGCCAAACAAAGCCTAGGT
+TCTCACAGGGCCTTAACTTACACTCAGAGTGCCCCAGACCTATCCCCTCAAATCCTGACT
+CCACCTGTTATATGTAGCAGCTGTGGCAGACCATATTCCCAAGGGAATCCTGCTGATGAG
+CCCCTGGAGAGAAGTGGGGTAGCCACTCGGACACCAAGTCGAACAGATGACACTGCTCAA
+GTTACCTCTGATTATGAAACCAATAACAACAGTGACAGCAGTGACATTGTACAGAATGAA
+GATGAAACAGAGTGCCTGAGAGAGCCTCTGAGGAAAGCATCGGCTTGCAGCACCTATGCT
+CCTGAGACCATGATGTTTCTGGACAAACCAATTCTTGCTCCCGAACCTCTTGTCATGGAT
+AACCTGGACTCAATTATGGAGCAGCTAAATACTTGGAATTTTCCAATTTTTGATTTAGTG
+GAAAATATAGGAAGAAAATGTGGCCGTATTCTTAGTCAGGTATCTTACAGACTTTTTGAA
+GACATGGGCCTCTTTGAAGCTTTTAAAATTCCAATTAGGGAATTTATGAATTATTTTCAT
+GCTTTGGAGATTGGATATAGGGATATTCCTTATCATAACAGAATCCATGCCACTGATGTT
+TTACATGCTGTTTGGTATCTTACTACACAGCCTATTCCAGGCCTCTCAACTGTGATTAAT
+GATCATGGTTCAACCAGTGATTCAGATTCTGACAGTGGATTTACACATGGACATATGGGA
+TATGTATTCTCAAAAACGTATAATGTGACAGATGATAAATACGGATGTCTGTCTGGGAAT
+ATCCCTGCCTTGGAGTTGATGGCGCTGTATGTGGCTGCAGCCATGCACGATTATGATCAT
+CCAGGAAGGACTAATGCTTTCCTGGTTGCAACTAGTGCTCCTCAGGCGGTGCTATATAAC
+GATCGTTCAGTTTTGGAGAATCATCACGCAGCTGCTGCATGGAATCTTTTCATGTCCCGG
+CCAGAGTATAACTTCTTAATTAACCTTGACCATGTGGAATTTAAGCATTTCCGTTTCCTT
+GTCATTGAAGCAATTTTGGCCACTGACCTGAAGAAACACTTTGACTTCGTAGCCAAATTT
+AATGGCAAGGTAAATGATGATGTTGGAATAGATTGGACCAATGAAAATGATCGTCTACTG
+GTTTGTCAAATGTGTATAAAGTTGGCTGATATCAATGGTCCAGCTAAATGTAAAGAACTC
+CATCTTCAGTGGACAGATGGTATTGTCAATGAATTTTATGAACAGGGTGATGAAGAGGCC
+AGCCTTGGATTACCCATAAGCCCCTTCATGGATCGTTCTGCTCCTCAGCTGGCCAACCTT
+CAGGAATCCTTCATCTCTCACATTGTGGGGCCTCTGTGCAACTCCTATGATTCAGCAGGA
+CTAATGCCTGGAAAATGGGTGGAAGACAGCGATGAGTCAGGAGATACTGATGACCCAGAA
+GAAGAGGAGGAAGAAGCACCAGCACCAAATGAAGAGGAAACCTGTGAAAATAATGAATCT
+CCAAAAAAGAAGACTTTCAAAAGGAGAAAAATCTACTGCCAAATAACTCAGCACCTCTTA
+CAGAACCACAAGATGTGGAAGAAAGTCATTGAAGAGGAGCAACGGTTGGCAGGCATAGAA
+AATCAATCCCTGGACCAGACCCCTCAGTCGCACTCTTCAGAACAGATCCAGGCTATCAAG
+GAAGAAGAAGAAGAGAAAGGGAAACCAAGAGGCGAGGAGATACCAACCCAAAAGCCAGAC
+CAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1141</residue_number>
+    <molecular_weight>124978.06</molecular_weight>
+    <theoretical_pi>5.993</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PDEase_I</name>
+        <pfam_id>PF00233</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;cGMP-inhibited 3',5'-cyclic phosphodiesterase A
+MAVPGDAARVRDKPVHSGVSQAPTAGRDCHHRADPASPRDSGCRGCWGDLVLQPLRSSRK
+LSSALCAGSLSFLLALLVRLVRGEVGCDLEQCKEAAAAEEEEAAPGAEGGVFPGPRGGAP
+GGGARLSPWLQPSALLFSLLCAFFWMGLYLLRAGVRLPLAVALLAACCGGEALVQIGLGV
+GEDHLLSLPAAGVVLSCLAAATWLVLRLRLGVLMIALTSAVRTVSLISLERFKVAWRPYL
+AYLAGVLGILLARYVEQILPQSAEAAPREHLGSQLIAGTKEDIPVFKRRRRSSSVVSAEM
+SGCSSKSHRRTSLPCIPREQLMGHSEWDHKRGPRGSQSSGTSITVDIAVMGEAHGLITDL
+LADPSLPPNVCTSLRAVSNLLSTQLTFQAIHKPRVNPVTSLSENYTCSDSEESSEKDKLA
+IPKRLRRSLPPGLLRRVSSTWTTTTSATGLPTLEPAPVRRDRSTSIKLQEAPSSSPDSWN
+NPVMMTLTKSRSFTSSYAISAANHVKAKKQSRPGALAKISPLSSPCSSPLQGTPASSLVS
+KISAVQFPESADTTAKQSLGSHRALTYTQSAPDLSPQILTPPVICSSCGRPYSQGNPADE
+PLERSGVATRTPSRTDDTAQVTSDYETNNNSDSSDIVQNEDETECLREPLRKASACSTYA
+PETMMFLDKPILAPEPLVMDNLDSIMEQLNTWNFPIFDLVENIGRKCGRILSQVSYRLFE
+DMGLFEAFKIPIREFMNYFHALEIGYRDIPYHNRIHATDVLHAVWYLTTQPIPGLSTVIN
+DHGSTSDSDSDSGFTHGHMGYVFSKTYNVTDDKYGCLSGNIPALELMALYVAAAMHDYDH
+PGRTNAFLVATSAPQAVLYNDRSVLENHHAAAAWNLFMSRPEYNFLINLDHVEFKHFRFL
+VIEAILATDLKKHFDFVAKFNGKVNDDVGIDWTNENDRLLVCQMCIKLADINGPAKCKEL
+HLQWTDGIVNEFYEQGDEEASLGLPISPFMDRSAPQLANLQESFISHIVGPLCNSYDSAG
+LMPGKWVEDSDESGDTDDPEEEEEEAPAPNEEETCENNESPKKKTFKRRKIYCQITQHLL
+QNHKMWKKVIEEEQRLAGIENQSLDQTPQSHSSEQIQAIKEEEEEKGKPRGEEIPTQKPD
+Q</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>38201493</genbank_protein_id>
+  <uniprot_id>Q14432</uniprot_id>
+  <uniprot_name>PDE3A_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1LRC</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M91667</genbank_gene_id>
+  <genecard_id>PDE3A</genecard_id>
+  <geneatlas_id>PDE3A</geneatlas_id>
+  <hgnc_id>HGNC:8778</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Meacci E, Taira M, Moos M Jr, Smith CJ, Movsesian MA, Degerman E, Belfrage P, Manganiello V: Molecular cloning and expression of human myocardial cGMP-inhibited cAMP phosphodiesterase. Proc Natl Acad Sci U S A. 1992 May 1;89(9):3721-5.</reference_text>
+      <pubmed_id>1315035</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cheung PP, Xu H, McLaughlin MM, Ghazaleh FA, Livi GP, Colman RW: Human platelet cGI-PDE: expression in yeast and localization of the catalytic domain by deletion mutagenesis. Blood. 1996 Aug 15;88(4):1321-9.</reference_text>
+      <pubmed_id>8695850</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuthe A, Eckel H, Stief CG, Uckert S, Forssmann WG, Jonas U, Magert HJ: Molecular biological characterization of phosphodiesterase 3A from human corpus cavernosum. Chem Biol Interact. 1999 May 14;119-120:593-8.</reference_text>
+      <pubmed_id>10421499</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Degerman E, Moos M Jr, Rascon A, Vasta V, Meacci E, Smith CJ, Lindgren S, Andersson KE, Belfrage P, Manganiello V: Single-step affinity purification, partial structure and properties of human platelet cGMP inhibited cAMP phosphodiesterase. Biochim Biophys Acta. 1994 Apr 13;1205(2):189-98.</reference_text>
+      <pubmed_id>8155697</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zahedi RP, Lewandrowski U, Wiesner J, Wortelkamp S, Moebius J, Schutz C, Walter U, Gambaryan S, Sickmann A: Phosphoproteome of resting human platelets.  J Proteome Res. 2008 Feb;7(2):526-34. Epub 2007 Dec 19.</reference_text>
+      <pubmed_id>18088087</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rickards KJ, Andrews MJ, Waterworth TH, Alexander GB, Cunningham FM: Differential effects of phosphodiesterase inhibitors on platelet activating factor (PAF)- and adenosine diphosphate (ADP)-induced equine platelet aggregation. J Vet Pharmacol Ther. 2003 Aug;26(4):277-82.</reference_text>
+        <pubmed_id>12887610</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wu BN, Lin RJ, Lo YC, Shen KP, Wang CC, Lin YT, Chen IJ: KMUP-1, a xanthine derivative, induces relaxation of guinea-pig isolated trachea: the role of the epithelium, cyclic nucleotides and K+ channels. Br J Pharmacol. 2004 Aug;142(7):1105-14. Epub 2004 Jul 5.</reference_text>
+        <pubmed_id>15237094</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kajikawa S, Kigami D, Nakayama H, Doi K: Changes in submaxillary gland gene expression in F344 rats by multiple dosing of theophylline. Exp Anim. 2006 Apr;55(2):143-6.</reference_text>
+        <pubmed_id>16651698</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Milrinone</name>
+        <accession>HMDB14380</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cone J, Wang S, Tandon N, Fong M, Sun B, Sakurai K, Yoshitake M, Kambayashi J, Liu Y: Comparison of the effects of cilostazol and milrinone on intracellular cAMP levels and cellular function in platelets and cardiac cells. J Cardiovasc Pharmacol. 1999 Oct;34(4):497-504.</reference_text>
+        <pubmed_id>10511123</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Milrinone</name>
+        <accession>HMDB14380</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kuthe A, Magert H, Uckert S, Forssmann WG, Stief CG, Jonas U: Gene expression of the phosphodiesterases 3A and 5A in human corpus cavernosum penis. Eur Urol. 2000 Jul;38(1):108-14.</reference_text>
+        <pubmed_id>10859452</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Milrinone</name>
+        <accession>HMDB14380</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lefievre L, de Lamirande E, Gagnon C: Presence of cyclic nucleotide phosphodiesterases PDE1A, existing as a stable complex with calmodulin, and PDE3A in human spermatozoa. Biol Reprod. 2002 Aug;67(2):423-30.</reference_text>
+        <pubmed_id>12135876</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Milrinone</name>
+        <accession>HMDB14380</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang W, Ke H, Colman RW: Identification of interaction sites of cyclic nucleotide phosphodiesterase type 3A with milrinone and cilostazol using molecular modeling and site-directed mutagenesis. Mol Pharmacol. 2002 Sep;62(3):514-20.</reference_text>
+        <pubmed_id>12181427</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Milrinone</name>
+        <accession>HMDB14380</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shakur Y, Fong M, Hensley J, Cone J, Movsesian MA, Kambayashi J, Yoshitake M, Liu Y: Comparison of the effects of cilostazol and milrinone on cAMP-PDE activity, intracellular cAMP and calcium in the heart. Cardiovasc Drugs Ther. 2002 Sep;16(5):417-27.</reference_text>
+        <pubmed_id>12652111</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Milrinone</name>
+        <accession>HMDB14380</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Anagrelide</name>
+        <accession>HMDB14406</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Anagrelide</name>
+        <accession>HMDB14406</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Anagrelide</name>
+        <accession>HMDB14406</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Venuti MC, Stephenson RA, Alvarez R, Bruno JJ, Strosberg AM: Inhibitors of cyclic AMP phosphodiesterase. 3. Synthesis and biological evaluation of pyrido and imidazolyl analogues of 1,2,3,5-tetrahydro-2-oxoimidazo[2,1-b]quinazoline. J Med Chem. 1988 Nov;31(11):2136-45.</reference_text>
+        <pubmed_id>2846839</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Anagrelide</name>
+        <accession>HMDB14406</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Levosimendan</name>
+        <accession>HMDB15058</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Szilagyi S, Pollesello P, Levijoki J, Haikala H, Bak I, Tosaki A, Borbely A, Edes I, Papp Z: Two inotropes with different mechanisms of action: contractile, PDE-inhibitory and direct myofibrillar effects of levosimendan and enoximone. J Cardiovasc Pharmacol. 2005 Sep;46(3):369-76.</reference_text>
+        <pubmed_id>16116344</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilostazol</name>
+        <accession>HMDB15297</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilostazol</name>
+        <accession>HMDB15297</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hong KW, Lee JH, Kima KY, Park SY, Lee WS: Cilostazol: therapeutic potential against focal cerebral ischemic damage.  Curr Pharm Des. 2006;12(5):565-73.</reference_text>
+        <pubmed_id>16472148</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilostazol</name>
+        <accession>HMDB15297</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schror K: The pharmacology of cilostazol.  Diabetes Obes Metab. 2002 Mar;4 Suppl 2:S14-9.</reference_text>
+        <pubmed_id>12180353</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilostazol</name>
+        <accession>HMDB15297</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mokry J, Mokra D, Nosalova G, Beharkova M, Feherova Z: Influence of selective inhibitors of phosphodiesterase 3 and 4 on cough and airway reactivity. J Physiol Pharmacol. 2008 Dec;59 Suppl 6:473-82.</reference_text>
+        <pubmed_id>19218671</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilostazol</name>
+        <accession>HMDB15297</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Parkkonen J, Hasala H, Moilanen E, Giembycz MA, Kankaanranta H: Phosphodiesterase 4 inhibitors delay human eosinophil and neutrophil apoptosis in the absence and presence of salbutamol. Pulm Pharmacol Ther. 2008;21(3):499-506. Epub 2007 Nov 22.</reference_text>
+        <pubmed_id>18282775</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aminophylline</name>
+        <accession>HMDB15354</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hirota K, Yoshioka H, Kabara S, Koizumi Y, Abe H, Sato T, Matsuki A: Spasmolytic effects of colforsin daropate on serotonin-induced pulmonary hypertension and bronchoconstriction in dogs. Acta Anaesthesiol Scand. 2002 Mar;46(3):297-302.</reference_text>
+        <pubmed_id>11939921</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aminophylline</name>
+        <accession>HMDB15354</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rickards KJ, Andrews MJ, Waterworth TH, Alexander GB, Cunningham FM: Differential effects of phosphodiesterase inhibitors on platelet activating factor (PAF)- and adenosine diphosphate (ADP)-induced equine platelet aggregation. J Vet Pharmacol Ther. 2003 Aug;26(4):277-82.</reference_text>
+        <pubmed_id>12887610</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wu BN, Lin RJ, Lo YC, Shen KP, Wang CC, Lin YT, Chen IJ: KMUP-1, a xanthine derivative, induces relaxation of guinea-pig isolated trachea: the role of the epithelium, cyclic nucleotides and K+ channels. Br J Pharmacol. 2004 Aug;142(7):1105-14. Epub 2004 Jul 5.</reference_text>
+        <pubmed_id>15237094</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kajikawa S, Kigami D, Nakayama H, Doi K: Changes in submaxillary gland gene expression in F344 rats by multiple dosing of theophylline. Exp Anim. 2006 Apr;55(2):143-6.</reference_text>
+        <pubmed_id>16651698</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amrinone</name>
+        <accession>HMDB15496</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amrinone</name>
+        <accession>HMDB15496</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kobayashi T, Sugawara Y, Ohkubo T, Imamura H, Makuuchi M: Effects of amrinone on hepatic ischemia-reperfusion injury in rats.  J Hepatol. 2002 Jul;37(1):31-8.</reference_text>
+        <pubmed_id>12076859</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amrinone</name>
+        <accession>HMDB15496</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ko Y, Morita K, Nagahori R, Kinouchi K, Shinohara G, Kagawa H, Hashimoto K: Myocardial cyclic AMP augmentation with high-dose PDEIII inhibitor in terminal warm blood cardioplegia. Ann Thorac Cardiovasc Surg. 2009 Oct;15(5):311-7.</reference_text>
+        <pubmed_id>19901885</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amrinone</name>
+        <accession>HMDB15496</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kucuk C, Akcan A, Akyyldyz H, Akgun H, Muhtaroglu S, Sozuer E: Effects of amrinone in an experimental model of hepatic ischemia-reperfusion injury. J Surg Res. 2009 Jan;151(1):74-9. Epub 2008 Mar 13.</reference_text>
+        <pubmed_id>18468627</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enoximone</name>
+        <accession>HMDB15599</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Boldt J, Suttner S: Combined use of ultra-short acting beta-blocker esmolol and intravenous phosphodiesterase 3 inhibitor enoximone. Expert Opin Pharmacother. 2007 Sep;8(13):2135-47.</reference_text>
+        <pubmed_id>17714066</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enoximone</name>
+        <accession>HMDB15599</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sandroni C, Cavallaro F, Caricato A, Scapigliati A, Fenici P, Antonelli M: Enoximone in cardiac arrest caused by propranolol: two case reports.  Acta Anaesthesiol Scand. 2006 Jul;50(6):759-61.</reference_text>
+        <pubmed_id>16987374</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ibudilast</name>
+        <accession>HMDB15614</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yamazaki T, Anraku T, Matsuzawa S: Ibudilast, a mixed PDE3/4 inhibitor, causes a selective and nitric oxide/cGMP-independent relaxation of the intracranial vertebrobasilar artery. Eur J Pharmacol. 2011 Jan 15;650(2-3):605-11. Epub 2010 Oct 29.</reference_text>
+        <pubmed_id>21036126</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tofisopam</name>
+        <accession>HMDB15699</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rundfeldt C, Socala K, Wlaz P: The atypical anxiolytic drug, tofisopam, selectively blocks phosphodiesterase isoenzymes and is active in the mouse model of negative symptoms of psychosis. J Neural Transm. 2010 Nov;117(11):1319-25. Epub 2010 Oct 22.</reference_text>
+        <pubmed_id>20967473</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

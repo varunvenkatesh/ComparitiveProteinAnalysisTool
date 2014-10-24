@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:37:04 -0700</creation_date>
+  <update_date>2013-01-15 20:37:04 -0700</update_date>
+  <accession>HMDBP10711</accession>
+  <secondary_accessions>
+    <accession>16972</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>AZ3</synonym>
+    <synonym>ODC-Az 3</synonym>
+  </synonyms>
+  <gene_name>OAZ3</gene_name>
+  <general_function>Involved in enzyme inhibitor activity</general_function>
+  <specific_function>Binds to, and destabilizes, ornithine decarboxylase. Does not accelerate ornithine decarboxylase degeneration. OAZ3 probably plays a key role in spermatogenesis by regulating the intracellular concentration of polyamines in haploid germ cells</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00214</accession>
+      <name>Ornithine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ornithine decarboxylase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme inhibitor activity</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1q21.3</locus>
+    <gene_sequence>&gt;564 bp
+ATGCTGCCTCGTTGTTATAAAAGCATCACTTATAAGGAAGAGGAGGACTTGACACTCCAG
+CCCCGTTCCTGCCTCCAGTGCTCTGAGTCCCTAGTAGGCCTCCAGGAGGGCAAAAGCACC
+GAGCAGGGTAACCACGACCAGCTTAAAGAACTGTATTCGGCTGGGAACTTGACGGTGCTG
+GCTACTGACCCCCTGCTCCACCAGGACCCAGTACAGTTAGACTTTCACTTCCGCCTTACC
+TCCCAGACCTCTGCCCATTGGCACGGCCTTCTCTGTGACCGTCGACTCTTCCTGGATATC
+CCATATCAGGCCTTGGATCAAGGCAACCGGGAAAGTTTGACTGCAACCCTGGAGTACGTG
+GAAGAGAAGACAAATGTGGACTCTGTGTTTGTGAACTTCCAGAATGATCGGAACGACAGA
+GGTGCCCTGCTGCGGGCCTTCAGCTACATGGGCTTTGAGGTGGTCAGACCAGATCACCCT
+GCCCTCCCTCCCTTGGACAATGTCATCTTTATGGTGTATCCCCTTGAAAGGGATGTTGGC
+CACCTGCCCAGTGAGCCTCCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>187</residue_number>
+    <molecular_weight>21374.8</molecular_weight>
+    <theoretical_pi>4.67</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ODC_AZ</name>
+        <pfam_id>PF02100</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Ornithine decarboxylase antizyme 3
+MLPRCYKSITYKEEEDLTLQPRSCLQCSESLVGLQEGKSTEQGNHDQLKELYSAGNLTVL
+ATDPLLHQDPVQLDFHFRLTSQTSAHWHGLLCDRRLFLDIPYQALDQGNRESLTATLEYV
+EEKTNVDSVFVNFQNDRNDRGALLRAFSYMGFEVVRPDHPALPPLDNVIFMVYPLERDVG
+HLPSEPP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>5802609</genbank_protein_id>
+  <uniprot_id>Q9UMX2</uniprot_id>
+  <uniprot_name>OAZ3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF175296</genbank_gene_id>
+  <genecard_id>OAZ3</genecard_id>
+  <geneatlas_id>OAZ3</geneatlas_id>
+  <hgnc_id>HGNC:8097</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ivanov IP, Rohrwasser A, Terreros DA, Gesteland RF, Atkins JF: Discovery of a spermatogenesis stage-specific ornithine decarboxylase antizyme: antizyme 3. Proc Natl Acad Sci U S A. 2000 Apr 25;97(9):4808-13.</reference_text>
+      <pubmed_id>10781085</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

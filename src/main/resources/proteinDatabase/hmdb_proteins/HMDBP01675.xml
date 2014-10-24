@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:34 -0700</creation_date>
+  <update_date>2013-01-15 18:58:34 -0700</update_date>
+  <accession>HMDBP01675</accession>
+  <secondary_accessions>
+    <accession>7012</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CBF5 homolog</synonym>
+    <synonym>Dyskerin</synonym>
+    <synonym>Nopp140-associated protein of 57 kDa</synonym>
+    <synonym>Nucleolar protein NAP57</synonym>
+    <synonym>Nucleolar protein family A member 4</synonym>
+    <synonym>snoRNP protein DKC1</synonym>
+  </synonyms>
+  <gene_name>DKC1</gene_name>
+  <general_function>Involved in RNA processing</general_function>
+  <specific_function>Required for ribosome biogenesis and telomere maintenance. Probable catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Each rRNA can contain up to 100 pseudouridine ('psi') residues, which may serve to stabilize the conformation of rRNAs. Also required for correct processing or intranuclear trafficking of TERC, the RNA component of the telomerase reverse transcriptase (TERT) holoenzyme</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00767</accession>
+      <name>Pseudouridine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00296</accession>
+      <name>Uridine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>isomerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>intramolecular transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pseudouridine synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pseudouridine synthesis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna processing</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleolus</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cajal body</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location/>
+    <locus/>
+    <gene_sequence>&gt;1545 bp
+ATGGCGGATGCGGAAGTAATTATTTTGCCAAAGAAACATAAGAAGAAAAAGGAGCGGAAG
+TCATTGCCAGAAGAAGATGTAGCCGAAATACAACACGCTGAAGAATTTCTTATCAAACCT
+GAATCCAAAGTTGCTAAGTTGGACACGTCTCAGTGGCCCCTTTTGCTAAAGAATTTTGAT
+AAGCTGAATGTAAGGACAACACACTATACACCTCTTGCATGTGGTTCAAATCCTCTGAAG
+AGAGAGATTGGGGACTATATCAGGACAGGTTTCATTAATCTTGACAAGCCCTCTAACCCC
+TCTTCCCATGAGGTGGTAGCCTGGATTCGACGGATACTTCGGGTGGAGAAGACAGGGCAC
+AGTGGTACTCTGGATCCCAAGGTGACTGGTTGTTTAATCGTGTGCATAGAACGAGCCACT
+CGCTTGGTGAAGTCACAACAGAGTGCAGGCAAAGAGTATGTGGGGATTGTCCGGCTGCAC
+AATGCTATTGAAGGGGGGACCCAGCTTTCTAGGGCCCTAGAAACTCTGACAGGTGCCTTA
+TTCCAGCGACCCCCACTTATTGCTGCAGTAAAGAGGCAGCTCCGAGTGAGGACCATCTAC
+GAGAGCAAAATGATTGAATACGATCCTGAAAGAAGATTAGGAATCTTTTGGGTGAGTTGT
+GAGGCTGGCACCTACATTCGGACATTATGTGTGCACCTTGGTTTGTTATTGGGAGTTGGT
+GGTCAGATGCAGGAGCTTCGGAGGGTTCGTTCTGGAGTCATGAGTGAAAAGGACCACATG
+GTGACAATGCATGATGTGCTTGATGCTCAGTGGCTGTATGATAACCACAAGGATGAGAGT
+TACCTGCGGCGAGTTGTTTACCCTTTGGAAAAGCTGTTGACATCTCATAAACGGCTGGTT
+ATGAAAGACAGTGCAGTAAATGCCATCTGCTATGGGGCCAAGATTATGCTTCCAGGTGTT
+CTTCGATATGAGGACGGCATTGAGGTCAATCAGGAGATTGTGGTTATCACCACCAAAGGA
+GAAGCAATCTGCATGGCTATTGCATTAATGACCACAGCGGTCATCTCTACCTGCGACCAT
+GGTATAGTAGCCAAGATCAAGAGAGTGATCATGGAGAGAGACACTTACCCTCGGAAGTGG
+GGTTTAGGTCCAAAGGCAAGTCAGAAGAAGCTGATGATCAAGCAGGGCCTTCTGGACAAG
+CATGGGAAGCCCACAGACAGCACACCTGCCACCTGGAAGCAGGAGTATGTTGACTACAGT
+GAGTCTGCCAAAAAAGAGGTGGTTGCTGAAGTGGTAAAAGCCCCGCAGGTAGTTGCCGAA
+GCAGCAAAAACTGCGAAGCGGAAGCGAGAGAGTGAGAGTGAAAGTGACGAGACTCCTCCA
+GCAGCTCCTCAGTTGATCAAGAAGGAAAAGAAGAAGAGTAAGAAGGACAAGAAGGCCAAA
+GCTGGTCTGGAGAGCGGGGCCGAGCCTGGAGATGGGGACAGTGATACCACCAAGAAGAAG
+AAGAAGAAGAAGAAAGCAAAAGAGGTAGAATTGGTTTCTGAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>514</residue_number>
+    <molecular_weight>57673.7</molecular_weight>
+    <theoretical_pi>10.02</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DKCLD</name>
+        <pfam_id>PF08068</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PUA</name>
+        <pfam_id>PF01472</pfam_id>
+      </pfam>
+      <pfam>
+        <name>TruB_N</name>
+        <pfam_id>PF01509</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;H/ACA ribonucleoprotein complex subunit 4
+MADAEVIILPKKHKKKKERKSLPEEDVAEIQHAEEFLIKPESKVAKLDTSQWPLLLKNFD
+KLNVRTTHYTPLACGSNPLKREIGDYIRTGFINLDKPSNPSSHEVVAWIRRILRVEKTGH
+SGTLDPKVTGCLIVCIERATRLVKSQQSAGKEYVGIVRLHNAIEGGTQLSRALETLTGAL
+FQRPPLIAAVKRQLRVRTIYESKMIEYDPERRLGIFWVSCEAGTYIRTLCVHLGLLLGVG
+GQMQELRRVRSGVMSEKDHMVTMHDVLDAQWLYDNHKDESYLRRVVYPLEKLLTSHKRLV
+MKDSAVNAICYGAKIMLPGVLRYEDGIEVNQEIVVITTKGEAICMAIALMTTAVISTCDH
+GIVAKIKRVIMERDTYPRKWGLGPKASQKKLMIKQGLLDKHGKPTDSTPATWKQEYVDYS
+ESAKKEVVAEVVKAPQVVAEAAKTAKRKRESESESDETPPAAPQLIKKEKKKSKKDKKAK
+AGLESGAEPGDGDSDTTKKKKKKKKAKEVELVSE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3873221</genbank_protein_id>
+  <uniprot_id>O60832</uniprot_id>
+  <uniprot_name>DKC1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF067008</genbank_gene_id>
+  <genecard_id>DKC1</genecard_id>
+  <geneatlas_id>DKC1</geneatlas_id>
+  <hgnc_id>HGNC:2890</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Heiss NS, Knight SW, Vulliamy TJ, Klauck SM, Wiemann S, Mason PJ, Poustka A, Dokal I: X-linked dyskeratosis congenita is caused by mutations in a highly conserved gene with putative nucleolar functions. Nat Genet. 1998 May;19(1):32-8.</reference_text>
+      <pubmed_id>9590285</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Knight SW, Heiss NS, Vulliamy TJ, Greschner S, Stavrides G, Pai GS, Lestringant G, Varma N, Mason PJ, Dokal I, Poustka A: X-linked dyskeratosis congenita is predominantly caused by missense mutations in the DKC1 gene. Am J Hum Genet. 1999 Jul;65(1):50-8.</reference_text>
+      <pubmed_id>10364516</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hassock S, Vetrie D, Giannelli F: Mapping and characterization of the X-linked dyskeratosis congenita (DKC) gene. Genomics. 1999 Jan 1;55(1):21-7.</reference_text>
+      <pubmed_id>9888995</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heiss NS, Girod A, Salowsky R, Wiemann S, Pepperkok R, Poustka A: Dyskerin localizes to the nucleolus and its mislocalization is unlikely to play a role in the pathogenesis of dyskeratosis congenita. Hum Mol Genet. 1999 Dec;8(13):2515-24.</reference_text>
+      <pubmed_id>10556300</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mitchell JR, Wood E, Collins K: A telomerase component is defective in the human disease dyskeratosis congenita. Nature. 1999 Dec 2;402(6761):551-5.</reference_text>
+      <pubmed_id>10591218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heiss NS, Bachner D, Salowsky R, Kolb A, Kioschis P, Poustka A: Gene structure and expression of the mouse dyskeratosis congenita gene, dkc1. Genomics. 2000 Jul 15;67(2):153-63.</reference_text>
+      <pubmed_id>10903840</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pogacic V, Dragon F, Filipowicz W: Human H/ACA small nucleolar RNPs and telomerase share evolutionarily conserved proteins NHP2 and NOP10. Mol Cell Biol. 2000 Dec;20(23):9028-40.</reference_text>
+      <pubmed_id>11074001</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherl A, Coute Y, Deon C, Calle A, Kindbeiter K, Sanchez JC, Greco A, Hochstrasser D, Diaz JJ: Functional proteomic analysis of human nucleolus.  Mol Biol Cell. 2002 Nov;13(11):4100-9.</reference_text>
+      <pubmed_id>12429849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang C, Meier UT: Architecture and assembly of mammalian H/ACA small nucleolar and telomerase ribonucleoproteins. EMBO J. 2004 Apr 21;23(8):1857-67. Epub 2004 Mar 25.</reference_text>
+      <pubmed_id>15044956</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim JE, Tannenbaum SR, White FM: Global phosphoproteome of HT-29 human colon adenocarcinoma cells.  J Proteome Res. 2005 Jul-Aug;4(4):1339-46.</reference_text>
+      <pubmed_id>16083285</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Darzacq X, Kittur N, Roy S, Shav-Tal Y, Singer RH, Meier UT: Stepwise RNP assembly at the site of H/ACA RNA transcription in human cells. J Cell Biol. 2006 Apr 24;173(2):207-18. Epub 2006 Apr 17.</reference_text>
+      <pubmed_id>16618814</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nousiainen M, Sillje HH, Sauer G, Nigg EA, Korner R: Phosphoproteome analysis of the human mitotic spindle.  Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5391-6. Epub 2006 Mar 24.</reference_text>
+      <pubmed_id>16565220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoareau-Aveilla C, Bonoli M, Caizergues-Ferrer M, Henry Y: hNaf1 is required for accumulation of human box H/ACA snoRNPs, scaRNPs, and telomerase. RNA. 2006 May;12(5):832-40. Epub 2006 Apr 6.</reference_text>
+      <pubmed_id>16601202</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giorgianni F, Zhao Y, Desiderio DM, Beranova-Giorgianni S: Toward a global characterization of the phosphoproteome in prostate cancer cells: identification of phosphoproteins in the LNCaP cell line. Electrophoresis. 2007 Jun;28(12):2027-34.</reference_text>
+      <pubmed_id>17487921</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Han G, Ye M, Zhou H, Jiang X, Feng S, Jiang X, Tian R, Wan D, Zou H, Gu J: Large-scale phosphoproteome analysis of human liver tissue by enrichment and fractionation of phosphopeptides with strong anion exchange chromatography. Proteomics. 2008 Apr;8(7):1346-61.</reference_text>
+      <pubmed_id>18318008</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Venteicher AS, Abreu EB, Meng Z, McCann KE, Terns RM, Veenstra TD, Terns MP, Artandi SE: A human telomerase holoenzyme protein required for Cajal body localization and telomere synthesis. Science. 2009 Jan 30;323(5914):644-8.</reference_text>
+      <pubmed_id>19179534</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Knight SW, Heiss NS, Vulliamy TJ, Aalfs CM, McMahon C, Richmond P, Jones A, Hennekam RC, Poustka A, Mason PJ, Dokal I: Unexplained aplastic anaemia, immunodeficiency, and cerebellar hypoplasia (Hoyeraal-Hreidarsson syndrome) due to mutations in the dyskeratosis congenita gene, DKC1. Br J Haematol. 1999 Nov;107(2):335-9.</reference_text>
+      <pubmed_id>10583221</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cossu F, Vulliamy TJ, Marrone A, Badiali M, Cao A, Dokal I: A novel DKC1 mutation, severe combined immunodeficiency (T+B-NK- SCID) and bone marrow transplantation in an infant with Hoyeraal-Hreidarsson syndrome. Br J Haematol. 2002 Dec;119(3):765-8.</reference_text>
+      <pubmed_id>12437656</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

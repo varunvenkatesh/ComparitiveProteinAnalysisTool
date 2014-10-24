@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:00:41 -0700</creation_date>
+  <update_date>2013-01-15 20:00:41 -0700</update_date>
+  <accession>HMDBP07586</accession>
+  <secondary_accessions>
+    <accession>13294</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Endoplasmic reticulum intermembrane small protein</synonym>
+    <synonym>Miner1</synonym>
+    <synonym>MitoNEET-related 1 protein</synonym>
+    <synonym>NAF-1</synonym>
+    <synonym>Nutrient-deprivation autophagy factor-1</synonym>
+  </synonyms>
+  <gene_name>CISD2</gene_name>
+  <general_function>Involved in 2 iron, 2 sulfur cluster binding</general_function>
+  <specific_function>Regulator of autophagy that contributes to antagonize BECN1-mediated cellular autophagy at the endoplasmic reticulum. Participates to the interaction of BCL2 with BECN1 and is required for BCL2-mediated depression of endoplasmic reticulum Ca(2+) stores during autophagy. Contributes to BIK-initiated autophagy, while it is not involved in BIK-dependent activation of caspases. Involved in life span control, probably via its function as regulator of autophagy</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal cluster binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron-sulfur cluster binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>2 iron, 2 sulfur cluster binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+    <subcellular_location>Mitochondrion outer membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:4</chromosome_location>
+    <locus>4q24</locus>
+    <gene_sequence>&gt;408 bp
+ATGGTGCTGGAGAGCGTGGCCCGTATCGTGAAGGTGCAGCTCCCTGCATATCTGAAGCGG
+CTCCCAGTCCCTGAAAGCATTACCGGGTTCGCTAGGCTCACAGTTTCAGAATGGCTTCGG
+TTATTGCCTTTCCTTGGTGTACTCGCACTTCTTGGCTACCTTGCAGTTCGTCCATTCCTC
+CCGAAGAAGAAACAACAGAAGGATAGCTTGATTAATCTTAAAATACAAAAGGAAAATCCG
+AAAGTAGTGAATGAAATAAACATTGAAGATTTGTGTCTTACTAAAGCAGCTTATTGTAGG
+TGTTGGCGTTCTAAAACGTTTCCTGCCTGCGATGGTTCACATAATAAACACAATGAATTG
+ACAGGAGATAATGTGGGTCCACTAATACTGAAGAAGAAAGAAGTATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>135</residue_number>
+    <molecular_weight>15278.0</molecular_weight>
+    <theoretical_pi>10.25</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MitoNEET_N</name>
+        <pfam_id>PF10660</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-CDGSH</name>
+        <pfam_id>PF09360</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>38-60</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;CDGSH iron-sulfur domain-containing protein 2
+MVLESVARIVKVQLPAYLKRLPVPESITGFARLTVSEWLRLLPFLGVLALLGYLAVRPFL
+PKKKQQKDSLINLKIQKENPKVVNEINIEDLCLTKAAYCRCWRSKTFPACDGSHNKHNEL
+TGDNVGPLILKKKEV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>158257700</genbank_protein_id>
+  <uniprot_id>Q8N5K1</uniprot_id>
+  <uniprot_name>CISD2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK292134</genbank_gene_id>
+  <genecard_id>CISD2</genecard_id>
+  <geneatlas_id>CISD2</geneatlas_id>
+  <hgnc_id>HGNC:24212</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Amr S, Heisey C, Zhang M, Xia XJ, Shows KH, Ajlouni K, Pandya A, Satin LS, El-Shanti H, Shiang R: A homozygous mutation in a novel zinc-finger protein, ERIS, is responsible for Wolfram syndrome 2. Am J Hum Genet. 2007 Oct;81(4):673-83. Epub 2007 Aug 20.</reference_text>
+      <pubmed_id>17846994</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wiley SE, Murphy AN, Ross SA, van der Geer P, Dixon JE: MitoNEET is an iron-containing outer mitochondrial membrane protein that regulates oxidative capacity. Proc Natl Acad Sci U S A. 2007 Mar 27;104(13):5318-23. Epub 2007 Mar 21.</reference_text>
+      <pubmed_id>17376863</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chang NC, Nguyen M, Germain M, Shore GC: Antagonism of Beclin 1-dependent autophagy by BCL-2 at the endoplasmic reticulum requires NAF-1. EMBO J. 2010 Feb 3;29(3):606-18. Epub 2009 Dec 10.</reference_text>
+      <pubmed_id>20010695</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Conlan AR, Axelrod HL, Cohen AE, Abresch EC, Zuris J, Yee D, Nechushtai R, Jennings PA, Paddock ML: Crystal structure of Miner1: The redox-active 2Fe-2S protein causative in Wolfram Syndrome 2. J Mol Biol. 2009 Sep 11;392(1):143-53. Epub 2009 Jul 4.</reference_text>
+      <pubmed_id>19580816</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

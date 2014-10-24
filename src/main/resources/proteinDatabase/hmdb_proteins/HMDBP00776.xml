@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:41 -0700</creation_date>
+  <update_date>2013-05-27 11:04:34 -0600</update_date>
+  <accession>HMDBP00776</accession>
+  <secondary_accessions>
+    <accession>6055</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Acid sphingomyelinase</synonym>
+    <synonym>aSMase</synonym>
+  </synonyms>
+  <gene_name>SMPD1</gene_name>
+  <general_function>Involved in hydrolase activity</general_function>
+  <specific_function>Converts sphingomyelin to ceramide. Also has phospholipase C activities toward 1,2-diacylglycerolphosphocholine and 1,2-diacylglycerolphosphoglycerol. Isoform 2 and isoform 3 have lost catalytic activity.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>sphingolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00600</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01348</accession>
+      <name>SM(d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01565</accession>
+      <name>Phosphorylcholine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04947</accession>
+      <name>Ceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04948</accession>
+      <name>Ceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04949</accession>
+      <name>Ceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04950</accession>
+      <name>Ceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04951</accession>
+      <name>Ceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04952</accession>
+      <name>Ceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04953</accession>
+      <name>Cer(d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04954</accession>
+      <name>Cer(d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04955</accession>
+      <name>Cer(d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04956</accession>
+      <name>Ceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04957</accession>
+      <name>Ceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10169</accession>
+      <name>SM(d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10168</accession>
+      <name>SM(d18:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00790</accession>
+      <name>N-Palmitoylsphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00829</accession>
+      <name>N-Stearoylsphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00831</accession>
+      <name>N-Lignoceroylsphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00950</accession>
+      <name>Cer(d18:1/23:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06752</accession>
+      <name>Dihydroceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10697</accession>
+      <name>Cer(t18:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11758</accession>
+      <name>Cer(d18:0/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11759</accession>
+      <name>Cer(d18:0/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11760</accession>
+      <name>Cer(d18:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11761</accession>
+      <name>Cer(d18:0/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11762</accession>
+      <name>Cer(d18:0/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11763</accession>
+      <name>Cer(d18:0/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11764</accession>
+      <name>Cer(d18:0/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11765</accession>
+      <name>Cer(d18:0/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11766</accession>
+      <name>Cer(d18:0/22:1(13Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11767</accession>
+      <name>Cer(d18:0/23:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11768</accession>
+      <name>Cer(d18:0/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11769</accession>
+      <name>Cer(d18:0/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11770</accession>
+      <name>Cer(d18:0/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11771</accession>
+      <name>Cer(d18:0/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11772</accession>
+      <name>Cer(d18:0/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11773</accession>
+      <name>Cer(d18:1/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11774</accession>
+      <name>Cer(d18:1/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11775</accession>
+      <name>Cer(d18:1/22:1(13Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06482</accession>
+      <name>LysoSM(d18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11694</accession>
+      <name>SM(d16:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11695</accession>
+      <name>SM(d17:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11696</accession>
+      <name>SM(d17:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11697</accession>
+      <name>SM(d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11698</accession>
+      <name>SM(d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11699</accession>
+      <name>SM(d19:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12082</accession>
+      <name>LysoSM(d18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12084</accession>
+      <name>SM(d18:0/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12085</accession>
+      <name>SM(d18:0/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12087</accession>
+      <name>SM(d18:0/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12088</accession>
+      <name>SM(d18:0/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12089</accession>
+      <name>SM(d18:0/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12090</accession>
+      <name>SM(d18:0/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12091</accession>
+      <name>SM(d18:0/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12092</accession>
+      <name>SM(d18:0/22:1(13Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12093</accession>
+      <name>SM(d18:0/23:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12094</accession>
+      <name>SM(d18:0/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12095</accession>
+      <name>SM(d18:0/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12096</accession>
+      <name>SM(d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12097</accession>
+      <name>SM(d18:1/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12100</accession>
+      <name>SM(d18:1/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12101</accession>
+      <name>SM(d18:1/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12102</accession>
+      <name>SM(d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12103</accession>
+      <name>SM(d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12104</accession>
+      <name>SM(d18:1/22:1(13Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12105</accession>
+      <name>SM(d18:1/23:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12107</accession>
+      <name>SM(d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00024</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00140</accession>
+      <name>Glucosylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04832</accession>
+      <name>Galabiosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04833</accession>
+      <name>Galabiosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04834</accession>
+      <name>Galabiosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04835</accession>
+      <name>Galabiosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04836</accession>
+      <name>Galabiosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04837</accession>
+      <name>Galabiosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04838</accession>
+      <name>Galabiosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04839</accession>
+      <name>Galabiosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04840</accession>
+      <name>Galabiosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04841</accession>
+      <name>Galabiosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04866</accession>
+      <name>Lactosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04872</accession>
+      <name>Lactosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04873</accession>
+      <name>Lactosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04874</accession>
+      <name>Lactosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04876</accession>
+      <name>Lactosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04877</accession>
+      <name>Trihexosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04878</accession>
+      <name>Trihexosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04879</accession>
+      <name>Trihexosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04880</accession>
+      <name>Trihexosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04881</accession>
+      <name>Trihexosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04882</accession>
+      <name>Trihexosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04883</accession>
+      <name>Trihexosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04884</accession>
+      <name>Trihexosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04886</accession>
+      <name>Trihexosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04887</accession>
+      <name>Trihexosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04958</accession>
+      <name>Tetrahexosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04959</accession>
+      <name>Tetrahexosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04960</accession>
+      <name>Tetrahexosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04961</accession>
+      <name>Tetrahexosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04962</accession>
+      <name>Tetrahexosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04963</accession>
+      <name>Tetrahexosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04964</accession>
+      <name>Tetrahexosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04965</accession>
+      <name>Tetrahexosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04966</accession>
+      <name>Tetrahexosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04967</accession>
+      <name>Tetrahexosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04968</accession>
+      <name>Tetrahexosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04969</accession>
+      <name>Glucosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04970</accession>
+      <name>Glucosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04971</accession>
+      <name>Glucosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04972</accession>
+      <name>Glucosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04973</accession>
+      <name>Glucosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04974</accession>
+      <name>Glucosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04975</accession>
+      <name>Glucosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04976</accession>
+      <name>Glucosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04977</accession>
+      <name>Glucosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04978</accession>
+      <name>Glucosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04979</accession>
+      <name>Glucosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06750</accession>
+      <name>Lactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10708</accession>
+      <name>Galactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10709</accession>
+      <name>Galactosylceramide (d18:1/18:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10710</accession>
+      <name>Galactosylceramide (d18:1/20:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10711</accession>
+      <name>Galactosylceramide (d18:1/22:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10712</accession>
+      <name>Galactosylceramide (d18:1/24:1(15Z)) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10713</accession>
+      <name>Galactosylceramide (d18:1/26:1(17Z)) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10714</accession>
+      <name>Galactosylceramide (d18:1/18:1(9Z)) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11591</accession>
+      <name>Lactosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11592</accession>
+      <name>Lactosyceramide (d18:1/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11594</accession>
+      <name>Lactosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11595</accession>
+      <name>Lactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12237</accession>
+      <name>Inositol-P-ceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12256</accession>
+      <name>Mannosyl-diinositol-phosphorylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12257</accession>
+      <name>Mannosyl-inositol-phosphorylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12311</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12312</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12313</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12314</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12315</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12316</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12317</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12318</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12319</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12320</accession>
+      <name>Galactosylceramide (d18:1/12:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12321</accession>
+      <name>Galactosylceramide (d18:1/14:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13461</accession>
+      <name>SM(d18:0/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13462</accession>
+      <name>SM(d18:0/14:1(9Z)(OH))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13463</accession>
+      <name>SM(d18:0/16:1(9Z)(OH))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13464</accession>
+      <name>SM(d18:0/16:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13465</accession>
+      <name>SM(d18:0/20:2(11Z,14Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13466</accession>
+      <name>SM(d18:0/22:1(13Z)(OH))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13467</accession>
+      <name>SM(d18:0/22:2(13Z,16Z)(OH))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13468</accession>
+      <name>SM(d18:0/22:3(10Z,13Z,16Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13469</accession>
+      <name>SM(d18:0/24:1(15Z)(OH))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15282</accession>
+      <name>Desipramine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lipase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phospholipase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sphingomyelin phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organophosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phospholipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sphingomyelin metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sphingomyelin catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lamellar body</description>
+      <go_id>GO:0042599</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal lumen</description>
+      <go_id>GO:0043202</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id>GO:0016798</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sphingomyelin phosphodiesterase activity</description>
+      <go_id>GO:0004767</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell death</description>
+      <go_id>GO:0008219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ceramide biosynthetic process</description>
+      <go_id>GO:0046513</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosphingolipid metabolic process</description>
+      <go_id>GO:0006687</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of MAP kinase activity</description>
+      <go_id>GO:0043407</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nervous system development</description>
+      <go_id>GO:0007399</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of apoptotic process</description>
+      <go_id>GO:0043065</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of protein dephosphorylation</description>
+      <go_id>GO:0035307</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cocaine</description>
+      <go_id>GO:0042220</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>signal transduction</description>
+      <go_id>GO:0007165</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingomyelin catabolic process</description>
+      <go_id>GO:0006685</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingomyelin metabolic process</description>
+      <go_id>GO:0006684</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>termination of signal transduction</description>
+      <go_id>GO:0023021</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11p15.4-p15.1</locus>
+    <gene_sequence>&gt;1890 bp
+ATGCCCCGCTACGGAGCGTCACTCCGCCAGAGCTGCCCCAGGTCCGGCCGGGAGCAGGGA
+CAAGACGGGACCGCCGGAGCCCCCGGACTCCTTTGGATGGGCCTGGTGCTGGCGCTGGCG
+CTGGCGCTGGCGCTGGCTCTGTCTGACTCTCGGGTTCTCTGGGCTCCGGCAGAGGCTCAC
+CCTCTTTCTCCCCAAGGCCATCCTGCCAGGTTACATCGCATAGTGCCCCGGCTCCGAGAT
+GTCTTTGGGTGGGGGAACCTCACCTGCCCAATCTGCAAAGGTCTATTCACCGCCATCAAC
+CTCGGGCTGAAGAAGGAACCCAATGTGGCTCGCGTGGGCTCCGTGGCCATCAAGCTGTGC
+AATCTGCTGAAGATAGCACCACCTGCCGTGTGCCAATCCATTGTCCACCTCTTTGAGGAT
+GACATGGTGGAGGTGTGGAGACGCTCAGTGCTGAGCCCATCTGAGGCCTGTGGCCTGCTC
+CTGGGCTCCACCTGTGGGCACTGGGACATTTTCTCATCTTGGAACATCTCTTTGCCTACT
+GTGCCGAAGCCGCCCCCCAAACCCCCTAGCCCCCCAGCCCCAGGTGCCCCTGTCAGCCGC
+ATCCTCTTCCTCACTGACCTGCACTGGGATCATGACTACCTGGAGGGCACGGACCCTGAC
+TGTGCAGACCCACTGTGCTGCCGCCGGGGTTCTGGCCTGCCGCCCGCATCCCGGCCAGGT
+GCCGGATACTGGGGCGAATACAGCAAGTGTGACCTGCCCCTGAGGACCCTGGAGAGCCTG
+TTGAGTGGGCTGGGCCCAGCCGGCCCTTTTGATATGGTGTACTGGACAGGAGACATCCCC
+GCACATGATGTCTGGCACCAGACTCGTCAGGACCAACTGCGGGCCCTGACCACCGTCACA
+GCACTTGTGAGGAAGTTCCTGGGGCCAGTGCCAGTGTACCCTGCTGTGGGTAACCATGAA
+AGCATACCTGTCAATAGCTTCCCTCCCCCCTTCATTGAGGGCAACCACTCCTCCCGCTGG
+CTCTATGAAGCGATGGCCAAGGCTTGGGAGCCCTGGCTGCCTGCCGAAGCCCTGCGCACC
+CTCAGAATTGGGGGGTTCTATGCTCTTTCCCCATACCCCGGTCTCCGCCTCATCTCTCTC
+AATATGAATTTTTGTTCCCGTGAGAACTTCTGGCTCTTGATCAACTCCACGGATCCCGCA
+GGACAGCTCCAGTGGCTGGTGGGGGAGCTTCAGGCTGCTGAGGATCGAGGAGACAAAGTG
+CATATAATTGGCCACATTCCCCCAGGGCACTGTCTGAAGAGCTGGAGCTGGAATTATTAC
+CGAATTGTAGCCAGGTATGAGAACACCCTGGCTGCTCAGTTCTTTGGCCACACTCATGTG
+GATGAATTTGAGGTCTTCTATGATGAAGAGACTCTGAGCCGGCCGCTGGCTGTAGCCTTC
+CTGGCACCCAGTGCAACTACCTACATCGGCCTTAATCCTGGTTACCGTGTGTACCAAATA
+GATGGAAACTACTCCAGGAGCTCTCACGTGGTCCTGGACCATGAGACCTACATCCTGAAT
+CTGACCCAGGCAAACATACCGGGAGCCATACCGCACTGGCAGCTTCTCTACAGGGCTCGA
+GAAACCTATGGGCTGCCCAACACACTGCCTACCGCCTGGCACAACCTGGTATATCGCATG
+CGGGGCGACATGCAACTTTTCCAGACCTTCTGGTTTCTCTACCATAAGGGCCACCCACCC
+TCGGAGCCCTGTGGCACGCCCTGCCGTCTGGCTACTCTTTGTGCCCAGCTCTCTGCCCGT
+GCTGACAGCCCTGCTCTGTGCCGCCACCTGATGCCAGATGGGAGCCTCCCAGAGGCCCAG
+AGCCTGTGGCCAAGGCCACTGTTTTGCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>629</residue_number>
+    <molecular_weight>69935.53</molecular_weight>
+    <theoretical_pi>7.29</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Metallophos</name>
+        <pfam_id>PF00149</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Sphingomyelin phosphodiesterase
+MPRYGASLRQSCPRSGREQGQDGTAGAPGLLWMGLVLALALALALALSDSRVLWAPAEAH
+PLSPQGHPARLHRIVPRLRDVFGWGNLTCPICKGLFTAINLGLKKEPNVARVGSVAIKLC
+NLLKIAPPAVCQSIVHLFEDDMVEVWRRSVLSPSEACGLLLGSTCGHWDIFSSWNISLPT
+VPKPPPKPPSPPAPGAPVSRILFLTDLHWDHDYLEGTDPDCADPLCCRRGSGLPPASRPG
+AGYWGEYSKCDLPLRTLESLLSGLGPAGPFDMVYWTGDIPAHDVWHQTRQDQLRALTTVT
+ALVRKFLGPVPVYPAVGNHESTPVNSFPPPFIEGNHSSRWLYEAMAKAWEPWLPAEALRT
+LRIGGFYALSPYPGLRLISLNMNFCSRENFWLLINSTDPAGQLQWLVGELQAAEDRGDKV
+HIIGHIPPGHCLKSWSWNYYRIVARYENTLAAQFFGHTHVDEFEVFYDEETLSRPLAVAF
+LAPSATTYIGLNPGYRVYQIDGNYSGSSHVVLDHETYILNLTQANIPGAIPHWQLLYRAR
+ETYGLPNTLPTAWHNLVYRMRGDMQLFQTFWFLYHKGHPPSEPCGTPCRLATLCAQLSAR
+ADSPALCRHLMPDGSLPEAQSLWPRPLFC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>179095</genbank_protein_id>
+  <uniprot_id>P17405</uniprot_id>
+  <uniprot_name>ASM_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M59916</genbank_gene_id>
+  <genecard_id>SMPD1</genecard_id>
+  <geneatlas_id>SMPD1</geneatlas_id>
+  <hgnc_id>HGNC:11120</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Schuchman EH, Suchi M, Takahashi T, Sandhoff K, Desnick RJ: Human acid sphingomyelinase. Isolation, nucleotide sequence and expression of the full-length and alternatively spliced cDNAs. J Biol Chem. 1991 May 5;266(13):8531-9.</reference_text>
+      <pubmed_id>1840600</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Newrzella D, Stoffel W: Molecular cloning of the acid sphingomyelinase of the mouse and the organization and complete nucleotide sequence of the gene. Biol Chem Hoppe Seyler. 1992 Dec;373(12):1233-8.</reference_text>
+      <pubmed_id>1292508</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schuchman EH, Levran O, Pereira LV, Desnick RJ: Structural organization and complete nucleotide sequence of the gene encoding human acid sphingomyelinase (SMPD1). Genomics. 1992 Feb;12(2):197-205.</reference_text>
+      <pubmed_id>1740330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ida H, Rennert OM, Eto Y, Chan WY: Cloning of a human acid sphingomyelinase cDNA with a new mutation that renders the enzyme inactive. J Biochem (Tokyo). 1993 Jul;114(1):15-20.</reference_text>
+      <pubmed_id>8407868</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Quintern LE, Schuchman EH, Levran O, Suchi M, Ferlinz K, Reinke H, Sandhoff K, Desnick RJ: Isolation of cDNA clones encoding human acid sphingomyelinase: occurrence of alternatively processed transcripts. EMBO J. 1989 Sep;8(9):2469-73.</reference_text>
+      <pubmed_id>2555181</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ferlinz K, Hurwitz R, Moczall H, Lansmann S, Schuchman EH, Sandhoff K: Functional characterization of the N-glycosylation sites of human acid sphingomyelinase by site-directed mutagenesis. Eur J Biochem. 1997 Jan 15;243(1-2):511-7.</reference_text>
+      <pubmed_id>9030779</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lansmann S, Schuette CG, Bartelsen O, Hoernschemeyer J, Linke T, Weisgerber J, Sandhoff K: Human acid sphingomyelinase.  Eur J Biochem. 2003 Mar;270(6):1076-88.</reference_text>
+      <pubmed_id>12631268</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dastani Z, Ruel IL, Engert JC, Genest J Jr, Marcil M: Sphingomyelin phosphodiesterase-1 (SMPD1) coding variants do not contribute to low levels of high-density lipoprotein cholesterol. BMC Med Genet. 2007 Dec 18;8:79.</reference_text>
+      <pubmed_id>18088425</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ferlinz K, Hurwitz R, Sandhoff K: Molecular basis of acid sphingomyelinase deficiency in a patient with Niemann-Pick disease type A. Biochem Biophys Res Commun. 1991 Sep 30;179(3):1187-91.</reference_text>
+      <pubmed_id>1718266</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Levran O, Desnick RJ, Schuchman EH: Niemann-Pick disease: a frequent missense mutation in the acid sphingomyelinase gene of Ashkenazi Jewish type A and B patients. Proc Natl Acad Sci U S A. 1991 May 1;88(9):3748-52.</reference_text>
+      <pubmed_id>2023926</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Levran O, Desnick RJ, Schuchman EH: Niemann-Pick type B disease. Identification of a single codon deletion in the acid sphingomyelinase gene and genotype/phenotype correlations in type A and B patients. J Clin Invest. 1991 Sep;88(3):806-10.</reference_text>
+      <pubmed_id>1885770</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Levran O, Desnick RJ, Schuchman EH: Identification and expression of a common missense mutation (L302P) in the acid sphingomyelinase gene of Ashkenazi Jewish type A Niemann-Pick disease patients. Blood. 1992 Oct 15;80(8):2081-7.</reference_text>
+      <pubmed_id>1391960</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi T, Desnick RJ, Takada G, Schuchman EH: Identification of a missense mutation (S436R) in the acid sphingomyelinase gene from a Japanese patient with type B Niemann-Pick disease. Hum Mutat. 1992;1(1):70-1.</reference_text>
+      <pubmed_id>1301192</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi T, Suchi M, Desnick RJ, Takada G, Schuchman EH: Identification and expression of five mutations in the human acid sphingomyelinase gene causing types A and B Niemann-Pick disease. Molecular evidence for genetic heterogeneity in the neuronopathic and non-neuronopathic forms. J Biol Chem. 1992 Jun 25;267(18):12552-8.</reference_text>
+      <pubmed_id>1618760</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sperl W, Bart G, Vanier MT, Christomanou H, Baldissera I, Steichen-Gersdorf E, Paschke E: A family with visceral course of Niemann-Pick disease, macular halo syndrome and low sphingomyelin degradation rate. J Inherit Metab Dis. 1994;17(1):93-103.</reference_text>
+      <pubmed_id>8051942</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schuchman EH: Two new mutations in the acid sphingomyelinase gene causing type a Niemann-pick disease: N389T and R441X. Hum Mutat. 1995;6(4):352-4.</reference_text>
+      <pubmed_id>8680412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi T, Suchi M, Sato W, Ten SB, Sakuragawa N, Desnick RJ, Schuchman EH, Takada G: Identification and expression of a missense mutation (Y446C) in the acid sphingomyelinase gene from a Japanese patient with type A Niemann-Pick disease. Tohoku J Exp Med. 1995 Oct;177(2):117-23.</reference_text>
+      <pubmed_id>8693491</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ida H, Rennert OM, Maekawa K, Eto Y: Identification of three novel mutations in the acid sphinogomyelinase gene of Japanese patients with Niemann-Pick disease type A and B. Hum Mutat. 1996;7(1):65-7.</reference_text>
+      <pubmed_id>8664904</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pavlu H, Elleder M: Two novel mutations in patients with atypical phenotypes of acid sphingomyelinase deficiency. J Inherit Metab Dis. 1997 Aug;20(4):615-6.</reference_text>
+      <pubmed_id>9266408</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simonaro CM, Desnick RJ, McGovern MM, Wasserstein MP, Schuchman EH: The demographics and distribution of type B Niemann-Pick disease: novel mutations lead to new genotype/phenotype correlations. Am J Hum Genet. 2002 Dec;71(6):1413-9. Epub 2002 Oct 4.</reference_text>
+      <pubmed_id>12369017</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sikora J, Pavlu-Pereira H, Elleder M, Roelofs H, Wevers RA: Seven novel acid sphingomyelinase gene mutations in Niemann-Pick type A and B patients. Ann Hum Genet. 2003 Jan;67(Pt 1):63-70.</reference_text>
+      <pubmed_id>12556236</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ricci V, Stroppiano M, Corsolini F, Di Rocco M, Parenti G, Regis S, Grossi S, Biancheri R, Mazzotti R, Filocamo M: Screening of 25 Italian patients with Niemann-Pick A reveals fourteen new mutations, one common and thirteen private, in SMPD1. Hum Mutat. 2004 Jul;24(1):105.</reference_text>
+      <pubmed_id>15221801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pittis MG, Ricci V, Guerci VI, Marcais C, Ciana G, Dardis A, Gerin F, Stroppiano M, Vanier MT, Filocamo M, Bembi B: Acid sphingomyelinase: identification of nine novel mutations among Italian Niemann Pick type B patients and characterization of in vivo functional in-frame start codon. Hum Mutat. 2004 Aug;24(2):186-7.</reference_text>
+      <pubmed_id>15241805</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dardis A, Zampieri S, Filocamo M, Burlina A, Bembi B, Pittis MG: Functional in vitro characterization of 14 SMPD1 mutations identified in Italian patients affected by Niemann Pick Type B disease. Hum Mutat. 2005 Aug;26(2):164.</reference_text>
+      <pubmed_id>16010684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pavlu-Pereira H, Asfaw B, Poupctova H, Ledvinova J, Sikora J, Vanier MT, Sandhoff K, Zeman J, Novotna Z, Chudoba D, Elleder M: Acid sphingomyelinase deficiency. Phenotype variability with prevalence of intermediate phenotype in a series of twenty-five Czech and Slovak patients. A multi-approach study. J Inherit Metab Dis. 2005;28(2):203-27.</reference_text>
+      <pubmed_id>15877209</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mussig K, Harzer K, Mayrhofer H, Krageloh-Mann I, Haring HU, Machicao F: Clinical findings in Niemann-Pick disease type B.  Intern Med J. 2006 Feb;36(2):135-6.</reference_text>
+      <pubmed_id>16472269</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rodriguez-Pascau L, Gort L, Schuchman EH, Vilageliu L, Grinberg D, Chabas A: Identification and characterization of SMPD1 mutations causing Niemann-Pick types A and B in Spanish patients. Hum Mutat. 2009 Jul;30(7):1117-22.</reference_text>
+      <pubmed_id>19405096</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Testai FD, Landek MA, Dawson G: Regulation of sphingomyelinases in cells of the oligodendrocyte lineage.  J Neurosci Res. 2004 Jan 1;75(1):66-74.</reference_text>
+        <pubmed_id>14689449</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kolzer M, Werth N, Sandhoff K: Interactions of acid sphingomyelinase and lipid bilayers in the presence of the tricyclic antidepressant desipramine. FEBS Lett. 2004 Feb 13;559(1-3):96-8.</reference_text>
+        <pubmed_id>14960314</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Erdreich-Epstein A, Tran LB, Cox OT, Huang EY, Laug WE, Shimada H, Millard M: Endothelial apoptosis induced by inhibition of integrins alphavbeta3 and alphavbeta5 involves ceramide metabolic pathways. Blood. 2005 Jun 1;105(11):4353-61. Epub 2005 Feb 10.</reference_text>
+        <pubmed_id>15705795</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zeidan YH, Pettus BJ, Elojeimy S, Taha T, Obeid LM, Kawamori T, Norris JS, Hannun YA: Acid ceramidase but not acid sphingomyelinase is required for tumor necrosis factor-{alpha}-induced PGE2 production. J Biol Chem. 2006 Aug 25;281(34):24695-703. Epub 2006 Jun 27.</reference_text>
+        <pubmed_id>16803890</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hurwitz R, Ferlinz K, Sandhoff K: The tricyclic antidepressant desipramine causes proteolytic degradation of lysosomal sphingomyelinase in human fibroblasts. Biol Chem Hoppe Seyler. 1994 Jul;375(7):447-50.</reference_text>
+        <pubmed_id>7945993</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kornhuber J, Tripal P, Reichel M, Muhle C, Rhein C, Muehlbacher M, Groemer TW, Gulbins E: Functional Inhibitors of Acid Sphingomyelinase (FIASMAs): a novel pharmacological group of drugs with broad clinical applications. Cell Physiol Biochem. 2010;26(1):9-20. Epub 2010 May 18.</reference_text>
+        <pubmed_id>20502000</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

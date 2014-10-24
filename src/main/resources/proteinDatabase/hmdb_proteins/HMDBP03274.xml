@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:11:35 -0700</creation_date>
+  <update_date>2013-05-27 11:34:53 -0600</update_date>
+  <accession>HMDBP03274</accession>
+  <secondary_accessions>
+    <accession>8849</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Low affinity sodium-glucose cotransporter</synonym>
+    <synonym>Na(+)/glucose cotransporter 2</synonym>
+    <synonym>Solute carrier family 5 member 2</synonym>
+  </synonyms>
+  <gene_name>SLC5A2</gene_name>
+  <general_function>Involved in transporter activity</general_function>
+  <specific_function>Sodium-dependent glucose transporter. Has a Na(+) to glucose coupling ratio of 1:1.
+Efficient substrate transport in mammalian kidney is provided by the concerted action of a low affinity high capacity and a high affinity low capacity Na(+)/glucose cotransporter arranged in series along kidney proximal tubules.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>brush border membrane</description>
+      <go_id>GO:0031526</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>low-affinity glucose:sodium symporter activity</description>
+      <go_id>GO:0005362</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16p11.2</locus>
+    <gene_sequence>&gt;2019 bp
+ATGGAGGAGCACACAGAGGCAGGCTCGGCACCAGAGATGGGGGCCCAGAAGGCCCTGATT
+GACAATCCTGCTGACATCCTAGTCATTGCTGCATATTTCCTGCTGGTCATTGGCGTTGGC
+TTGTGGTCCATGTGCAGAACCAACAGAGGCACTGTGGGCGGCTACTTCCTGGCAGGACGC
+AGCATGGTGTGGTGGCCGGTTGGGGCCTCTCTCTTCGCCAGCAACATCGGCAGTGGCCAC
+TTTGTGGGCCTGGCAGGGACTGGCGCTGCAAGTGGCTTGGCTGTTGCTGGATTCGAGTGG
+AATGCGCTCTTCGTGGTGCTGCTACTGGGCTGGCTGTTTGCACCCGTGTACCTGACAGCG
+GGGGTCATCACGATGCCACAGTACCTGCGCAAGCGCTTCGGCGGCCGCCGCATCCGCCTC
+TACCTGTCTGTGCTCTCCCTTTTCCTGTACATCTTCACCAAGATCTCAGTGGACATGTTC
+TCCGGAGCTGTATTCATCCAGCAGGCTCTGGGCTGGAACATCTATGCCTCCGTCATCGCG
+CTTCTGGGCATCACCATGATTTACACGGTGACAGGAGGGCTGGCCGCGCTGATGTACACG
+GACACGGTACAGACCTTCGTCATTCTGGGGGGCGCCTGCATCCTCATGGGTTACGCCTTC
+CACGAGGTGGGCGGGTATTCGGGTCTCTTCGACAAATACCTGGGAGCAGCGACTTCGCTG
+ACGGTGTCCGAGGATCCAGCCGTGGGAAACATCTCCAGCTTCTGCTATCGACCCCGGCCC
+GACTCCTACCACCTGCTCCGGCACCCCGTGACCGGGGATCTGCCGTGGCCCGCGCTGCTC
+CTCGGACTCACAATCGTCTCGGGCTGGTACTGGTGCAGCGACCAGGTCATCGTGCAGCGC
+TGCCTGGCCGGGAAGAGCCTGACCCACATCAAGGCGGGCTGCATCCTGTGTGGGTACCTG
+AAGCTGACGCCCATGTTTCTCATGGTCATGCCAGGCATGATCAGCCGCATTCTGTACCCA
+GACGAGGTGGCGTGCGTGGTGCCTGAGGTGTGCAGGCGCGTGTGCGGCACGGAGGTGGGC
+TGCTCCAACATCGCCTACCCGCGGCTCGTCGTGAAGCTCATGCCCAACGGTCTGCGCGGA
+CTCATGCTGGCGGTCATGCTGGCCGCGCTCATGTCCTCGCTGGCCTCCATCTTCAACAGC
+AGCAGCACGCTCTTCACCATGGACATCTACACGCGCCTGCGGCCACGCGCCGGCGACCGC
+GAGCTGCTGCTGGTGGGACGGCTCTGGGTGGTGTTCATCGTGGTAGTGTCGGTGGCCTGG
+CTTCCCGTGGTGCAGGCGGCACAGGGCGGGCAGCTCTTCGATTACATCCAGGCAGTCTCT
+AGCTACCTGGCACCGCCCGTGTCCGCCGTCTTCGTGCTGGCGCTCTTCGTGCCGCGCGTT
+AATGAGCAGGGCGCCTTCTGGGGACTCATCGGGGGCCTGCTGATGGGCCTGGCACGCCTG
+ATTCCCGAGTTCTCCTTCGGCTCGGGCAGCTGTGTGCAGCCCTCGGCGTGCCCAGCTTTC
+CTCTGCGGCGTGCACTACCTCTACTTCGCCATTGTGCTGTTCTTCTGCTCTGGCCTCCTC
+ACCCTCACGGTCTCCCTGTGCACCGCGCCCATCCCCAGAAAGCACCTCCACCGCCTGGTC
+TTCAGTCTCCGGCATAGCAAGGAGGAACGGGAGGACCTGGATGCTGATGAGCAGCAAGGC
+TCCTCACTCCCTGTACAGAATGGGTGCCCAGAGAGTGCCATGGAGATGAATGAGCCCCAG
+GCCCCGGCACCAAGCCTCTTCCGCCAGTGCCTGCTCTGGTTTTGTGGAATGAGCAGAGGT
+GGGGTGGGCAGTCCTCCGCCCCTTACCCAGGAGGAGGCAGCGGCAGCAGCCAGGCGGCTG
+GAGGACATCAGCGAGGACCCGAGCTGGGCCCGTGTGGTCAACCTCAATGCCCTGCTCATG
+ATGGCAGTGGCCGTGTTCCTCTGGGGCTTCTATGCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>672</residue_number>
+    <molecular_weight>72895.995</molecular_weight>
+    <theoretical_pi>7.479</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SSF</name>
+        <pfam_id>PF00474</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Sodium/glucose cotransporter 2
+MEEHTEAGSAPEMGAQKALIDNPADILVIAAYFLLVIGVGLWSMCRTNRGTVGGYFLAGR
+SMVWWPVGASLFASNIGSGHFVGLAGTGAASGLAVAGFEWNALFVVLLLGWLFAPVYLTA
+GVITMPQYLRKRFGGRRIRLYLSVLSLFLYIFTKISVDMFSGAVFIQQALGWNIYASVIA
+LLGITMIYTVTGGLAALMYTDTVQTFVILGGACILMGYAFHEVGGYSGLFDKYLGAATSL
+TVSEDPAVGNISSFCYRPRPDSYHLLRHPVTGDLPWPALLLGLTIVSGWYWCSDQVIVQR
+CLAGKSLTHIKAGCILCGYLKLTPMFLMVMPGMISRILYPDEVACVVPEVCRRVCGTEVG
+CSNIAYPRLVVKLMPNGLRGLMLAVMLAALMSSLASIFNSSSTLFTMDIYTRLRPRAGDR
+ELLLVGRLWVVFIVVVSVAWLPVVQAAQGGQLFDYIQAVSSYLAPPVSAVFVLALFVPRV
+NEQGAFWGLIGGLLMGLARLIPEFSFGSGSCVQPSACPAFLCGVHYLYFAIVLFFCSGLL
+TLTVSLCTAPIPRKHLHRLVFSLRHSKEEREDLDADEQQGSSLPVQNGCPESAMEMNEPQ
+APAPSLFRQCLLWFCGMSRGGVGSPPPLTQEEAAAAARRLEDISEDPSWARVVNLNALLM
+MAVAVFLWGFYA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>338053</genbank_protein_id>
+  <uniprot_id>P31639</uniprot_id>
+  <uniprot_name>SC5A2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M95549</genbank_gene_id>
+  <genecard_id>SLC5A2</genecard_id>
+  <geneatlas_id>SLC5A2</geneatlas_id>
+  <hgnc_id>HGNC:11037</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wells RG, Pajor AM, Kanai Y, Turk E, Wright EM, Hediger MA: Cloning of a human kidney cDNA with similarity to the sodium-glucose cotransporter. Am J Physiol. 1992 Sep;263(3 Pt 2):F459-65.</reference_text>
+      <pubmed_id>1415574</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Calado J, Soto K, Clemente C, Correia P, Rueff J: Novel compound heterozygous mutations in SLC5A2 are responsible for autosomal recessive renal glucosuria. Hum Genet. 2004 Feb;114(3):314-6. Epub 2003 Nov 12.</reference_text>
+      <pubmed_id>14614622</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

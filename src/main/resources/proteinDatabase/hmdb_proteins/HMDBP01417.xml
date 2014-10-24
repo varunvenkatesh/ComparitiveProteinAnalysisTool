@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:56:16 -0700</creation_date>
+  <update_date>2013-01-15 18:56:16 -0700</update_date>
+  <accession>HMDBP01417</accession>
+  <secondary_accessions>
+    <accession>6713</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>KRP</synonym>
+    <synonym>Kinase-related protein</synonym>
+    <synonym>MLCK</synonym>
+    <synonym>Telokin</synonym>
+  </synonyms>
+  <gene_name>MYLK</gene_name>
+  <general_function>Involved in protein kinase activity</general_function>
+  <specific_function>Calcium/calmodulin-dependent enzyme implicated in smooth muscle contraction via phosphorylation of myosin light chains (MLC). Also regulates actin-myosin interaction through a non- kinase activty. Implicated in the regulation of endothelial as well as vascular permeability. In the nervous system it has been shown to control the growth initiation of astrocytic processes in culture and to participate in transmitter release at synapses formed between cultured sympathetic ganglion cells. Critical participant in signaling sequences that result in fibroblast apoptosis</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein serine/threonine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid phosphorylation</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:3</chromosome_location>
+    <locus>3q21</locus>
+    <gene_sequence>&gt;5745 bp
+ATGGGGGATGTGAAGCTGGTTGCCTCGTCACACATTTCCAAAACCTCCCTCAGTGTGGAT
+CCCTCAAGAGTTGACTCCATGCCCCTGACAGAGGCCCCTGCTTTCATTTTGCCCCCTCGG
+AACCTCTGCATCAAAGAAGGAGCCACCGCCAAGTTCGAAGGGCGGGTCCGGGGTTACCCA
+GAGCCCCAGGTGACATGGCACAGAAACGGGCAACCCATCACCAGCGGGGGCCGCTTCCTG
+CTGGATTGCGGCATCCGGGGGACTTTCAGCCTTGTGATTCATGCTGTCCATGAGGAGGAC
+AGGGGAAAGTATACCTGTGAAGCCACCAATGGCAGTGGTGCTCGCCAGGTGACAGTGGAG
+TTGACAGTAGAAGGAAGTTTTGCGAAGCAGCTTGGTCAGCCTGTTGTTTCCAAAACCTTA
+GGGGATAGATTTTCAGCTCCAGCAGTGGAGACCCGTCCTAGCATCTGGGGGGAGTGCCCA
+CCAAAGTTTGCTACCAAGCTGGGCCGAGTTGTGGTCAAAGAAGGACAGATGGGACGATTC
+TCCTGCAAGATCACTGGCCGGCCCCAACCGCAGGTCACCTGGCTCAAGGGAAATGTTCCA
+CTGCAGCCGAGTGCCCGTGTGTCTGTGTCTGAGAAGAACGGCATGCAGGTTCTGGAAATC
+CATGGAGTCAACCAAGATGACGTGGGAGTGTACACGTGCCTGGTGGTGAACGGGTCGGGG
+AAGGCCTCGATGTCAGCTGAACTTTCCATCCAAGGTTTGGACAGTGCCAATAGGTCATTT
+GTGAGAGAAACAAAAGCCACCAATTCAGATGTCAGGAAAGAGGTGACCAATGTAATCTCA
+AAGGAGTCGAAGCTGGACAGTCTGGAGGCTGCAGCCAAAAGCAAGAACTGCTCCAGCCCC
+CAGAGAGGTGGCTCCCCACCCTGGGCTGCAAACAGCCAGCCTCAGCCCCCAAGGGAGTCC
+AAGCTGGAGTCATGCAAGGACTCGCCCAGAACGGCCCCGCAGACCCCGGTCCTTCAGAAG
+ACTTCCAGCTCCATCACCCTGCAGGCCGCAAGAGTTCAGCCGGAACCAAGAGCACCAGGC
+CTGGGGGTCCTATCACCTTCTGGAGAAGAGAGGAAGAGGCCAGCTCCTCCCCGTCCAGCC
+ACCTTCCCCACCAGGCAGCCTGGCCTGGGGAGCCAAGATGTTGTGAGCAAGGCTGCTAAC
+AGGAGAATCCCCATGGAGGGCCAGAGGGATTCAGCATTCCCCAAATTTGAGAGCAAGCCC
+CAAAGCCAGGAGGTCAAGGAAAATCAAACTGTCAAGTTCAGATGTGAAGTTTCCGGGATT
+CCAAAGCCTGAAGTGGCCTGGTTCCTGGAAGGCACCCCCGTGAGGAGACAGGAAGGCAGC
+ATTGAGGTTTATGAAGATGCTGGCTCCCATTACCTCTGCCTGCTGAAAGCCCGGACCAGG
+GACAGTGGGACATACAGCTGCACTGCTTCCAACGCCCAAGGCCAGCTGTCCTGTAGCTGG
+ACCCTCCAAGTGGAAAGGCTTGCCGTGATGGAGGTGGCCCCCTCCTTCTCCAGTGTCCTG
+AAGGACTGCGCTGTTATTGAGGGCCAGGATTTTGTGCTGCAGTGCTCCGTACGGGGGACC
+CCAGTGCCCCGGATCACTTGGCTGCTGAATGGGCAGCCCATCCAGTACGCTCGCTCCACC
+TGCGAGGCCGGCGTGGCTGAGCTCCACATCCAGGATGCCCTGCCGGAGGACCATGGCACC
+TACACCTGCCTAGCTGAGAATGCCTTGGGGCAGGTGTCCTGCAGCGCCTGGGTCACCGTC
+CATGAAAAGAAGAGTAGCAGGAAGAGTGAGTACCTTCTGCCTGTGGCTCCCAGCAAGCCC
+ACTGCACCCATCTTCCTGCAGGGCCTCTCTGATCTCAAAGTCATGGATGGAAGCCAGGTC
+ACTATGACTGTCCAAGTGTCAGGGAATCCACCCCCTGAAGTCATCTGGCTGCACAATGGG
+AATGAGATCCAAGAGTCAGAGGACTTCCACTTTGAACAGAGAGGAACTCAGCACAGCCTT
+TGTATCCAGGAAGTGTTCCCGGAGGACACGGGCACGTACACCTGCGAGGCCTGGAACAGC
+GCTGGAGAGGTCCGCACCCAGGCCGTGCTCACGGTACAAGAGCCTCACGATGGCACCCAG
+CCCTGGTTCATCAGTAAGCCTCGCTCAGTGACAGCCTCCCTGGGCCAGAGTGTCCTCATC
+TCCTGCGCCATAGCTGGTGACCCCTTTCCTACCGTGCACTGGCTCAGAGATGGCAAAGCC
+CTCTGCAAAGACACTGGCCACTTCGAGGTGCTTCAGAATGAGGACGTGTTCACCCTGGTT
+CTAAAGAAGGTGCAGCCCTGGCATGCCGGCCAGTATGAGATCCTGCTCAAGAACCGGGTT
+GGCGAATGCAGTTGCCAGGTGTCACTGATGCTACAGAACAGCTCTGCCAGAGCCCTTCCA
+CGGGGGAGGGAGCCTGCCAGCTGCGAGGACCTCTGTGGTGGAGGAGTTGGTGCTGATGGT
+GGTGGTAGTGACCGCTATGGGTCCCTGAGGCCTGGCTGGCCAGCAAGAGGGCAGGGTTGG
+CTAGAGGAGGAAGACGGCGAGGACGTGCGAGGGGTGCTGAAGAGGCGCGTGGAGACGAGG
+CAGCACACTGAGGAGGCGATCCGCCAGCAGGAGGTGGAGCAGCTGGACTTCCGAGACCTC
+CTGGGGAAGAAGGTGAGTACAAAGACCCTATCGGAAGACGACCTGAAGGAGATCCCAGCC
+GAGCAGATGGATTTCCGTGCCAACCTGCAGCGGCAAGTGAAGCCAAAGACTGTGTCTGAG
+GAAGAGAGGAAGGTGCACAGCCCCCAGCAGGTCGATTTTCGCTCTGTCCTGGCCAAGAAG
+GGGACTTCCAAGACCCCCGTGCCTGAGAAGGTGCCACCGCCAAAACCTGCCACCCCGGAT
+TTTCGCTCAGTGCTGGGTGGCAAGAAGAAATTACCAGCAGAGAATGGCAGCAGCAGTGCC
+GAGACCCTGAATGCCAAGGCAGTGGAGAGTTCCAAGCCCCTGAGCAATGCACAGCCTTCA
+GGGCCCTTGAAACCCGTGGGCAACGCCAAGCCTGCTGAGACCCTGAAGCCAATGGGCAAC
+GCCAAGCCTGCCGAGACCCTGAAGCCCATGGGCAATGCCAAGCCTGATGAGAACCTGAAA
+TCCGCTAGCAAAGAAGAACTCAAGAAAGACGTTAAGAATGATGTGAACTGCAAGAGAGGC
+CATGCAGGGACCACAGATAATGAAAAGAGATCAGAGAGCCAGGGGACAGCCCCAGCCTTC
+AAGCAGAAGCTGCAAGATGTTCATGTGGCAGAGGGCAAGAAGCTGCTGCTCCAGTGCCAG
+GTGTCTTCTGACCCCCCAGCCACCATCATCTGGACGCTGAACGGAAAGACCCTCAAGACC
+ACCAAGTTCATCATCCTCTCCCAGGAAGGCTCACTCTGCTCCGTCTCCATCGAGAAGGCA
+CTGCCTGAGGACAGAGGCTTATACAAGTGTGTAGCCAAGAATGACGCTGGCCAGGCGGAG
+TGCTCCTGCCAAGTCACCGTGGATGATGCTCCAGCCAGTGAGAACACCAAGGCCCCAGAG
+ATGAAATCCCGGAGGCCCAAGAGCTCTCTTCCTCCCGTGCTAGGAACTGAGAGTGATGCG
+ACTGTGAAAAAGAAACCTGCCCCCAAGACACCTCCGAAGGCAGCAATGCCCCCTCAGATC
+ATCCAGTTCCCTGAGGACCAGAAGGTACGCGCAGGAGAGTCAGTGGAGCTGTTTGGCAAA
+GTGACAGGCACTCAGCCCATCACCTGTACCTGGATGAAGTTCCGAAAGCAGATCCAGGAA
+AGCGAGCACATGAAGGTGGAGAACAGCGAGAATGGCAGCAAGCTCACCATCCTGGCCGCG
+CGCCAGGAGCACTGCGGCTGCTACACACTGCTGGTGGAGAACAAGCTGGGCAGCAGGCAG
+GCCCAGGTCAACCTCACTGTCGTGGATAAGCCAGACCCCCCAGCTGGCACACCTTGTGCC
+TCTGACATTCGGAGCTCCTCACTGACCCTGTCCTGGTATGGCTCCTCATATGATGGGGGC
+AGTGCTGTACAGTCCTACAGCATCGAGATCTGGGACTCAGCCAACAAGACGTGGAAGGAA
+CTAGCCACATGCCGCAGCACCTCTTTCAACGTCCAGGACCTGCTGCCTGACCACGAATAT
+AAGTTCCGTGTACGTGCAATCAACGTGTATGGAACCAGTGAGCCAAGCCAGGAGTCTGAA
+CTCACAACGGTAGGAGAGAAACCTGAAGAGCCGAAGGATGAAGTGGAGGTGTCAGATGAT
+GATGAGAAGGAGCCCGAGGTTGATTACCGGACAGTGACAATCAATACTGAACAAAAAGTA
+TCTGACTTCTACGACATTGAGGAGAGATTAGGATCTGGGAAATTTGGACAGGTCTTTCGA
+CTTGTAGAAAAGAAAACTCGAAAAGTCTGGGCAGGGAAGTTCTTCAAGGCATATTCAGCA
+AAAGAGAAAGAGAATATCCGGCAGGAGATTAGCATCATGAACTGCCTCCACCACCCTAAG
+CTGGTCCAGTGTGTGGATGCCTTTGAAGAAAAGGCCAACATCGTCATGGTCCTGGAGATC
+GTGTCAGGAGGGGAGCTGTTTGAGCGCATCATTGACGAGGACTTTGAGCTGACGGAGCGT
+GAGTGCATCAAGTACATGCGGCAGATCTCGGAGGGAGTGGAGTACATCCACAAGCAGGGC
+ATCGTGCACCTGGACCTCAAGCCGGAGAACATCATGTGTGTCAACAAGACGGGCACCAGG
+ATCAAGCTCATCGACTTTGGTCTGGCCAGGAGGCTGGAGAATGCGGGGTCTCTGAAGGTC
+CTCTTTGGCACCCCAGAATTTGTGGCTCCTGAAGTGATCAACTATGAGCCCATCGGCTAC
+GCCACAGACATGTGGAGCATCGGGGTCATCTGCTACATCCTAGTCAGTGGCCTTTCCCCC
+TTCATGGGAGACAACGATAACGAAACCTTGGCCAACGTTACCTCAGCCACCTGGGACTTC
+GACGACGAGGCATTCGATGAGATCTCCGACGATGCCAAGGATTTCATCAGCAATCTGCTG
+AAGAAAGATATGAAAAACCGCCTGGACTGCACGCAGTGCCTTCAGCATCCATGGCTAATG
+AAAGATACCAAGAACATGGAGGCCAAGAAACTCTCCAAGGACCGGATGAAGAAGTACATG
+GCAAGAAGGAAATGGCAGAAAACGGGCAATGCTGTGAGAGCCATTGGAAGACTGTCCTCT
+ATGGCAATGATCTCAGGGCTCAGTGGCAGGAAATCCTCAACAGGGTCACCAACCAGCCCG
+CTCAATGCAGAAAAACTAGAATCTGAAGAAGATGTGTCCCAAGCTTTCCTTGAGGCTGTT
+GCTGAGGAAAAGCCTCATGTAAAACCCTATTTCTCTAAGACCATTCGCGATTTAGAAGTT
+GTGGAGGGAAGTGCTGCTAGATTTGACTGCAAGATTGAAGGATACCCAGACCCCGAGGTT
+GTCTGGTTCAAAGATGACCAGTCAATCAGGGAGTCCCGCCACTTCCAGATAGACTACGAT
+GAGGACGGGAACTGCTCTTTAATTATTAGTGATGTTTGCGGGGATGACGATGCCAAGTAC
+ACCTGCAAGGCTGTCAACAGTCTTGGAGAAGCCACCTGCACAGCAGAGCTCATTGTGGAA
+ACGATGGAGGAAGGTGAAGGGGAAGGGGAAGAGGAAGAAGAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1914</residue_number>
+    <molecular_weight>210713.5</molecular_weight>
+    <theoretical_pi>6.03</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>fn3</name>
+        <pfam_id>PF00041</pfam_id>
+      </pfam>
+      <pfam>
+        <name>I-set</name>
+        <pfam_id>PF07679</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Pkinase</name>
+        <pfam_id>PF00069</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Myosin light chain kinase, smooth muscle
+MGDVKLVASSHISKTSLSVDPSRVDSMPLTEAPAFILPPRNLCIKEGATAKFEGRVRGYP
+EPQVTWHRNGQPITSGGRFLLDCGIRGTFSLVIHAVHEEDRGKYTCEATNGSGARQVTVE
+LTVEGSFAKQLGQPVVSKTLGDRFSAPAVETRPSIWGECPPKFATKLGRVVVKEGQMGRF
+SCKITGRPQPQVTWLKGNVPLQPSARVSVSEKNGMQVLEIHGVNQDDVGVYTCLVVNGSG
+KASMSAELSIQGLDSANRSFVRETKATNSDVRKEVTNVISKESKLDSLEAAAKSKNCSSP
+QRGGSPPWAANSQPQPPRESKLESCKDSPRTAPQTPVLQKTSSSITLQAARVQPEPRAPG
+LGVLSPSGEERKRPAPPRPATFPTRQPGLGSQDVVSKAANRRIPMEGQRDSAFPKFESKP
+QSQEVKENQTVKFRCEVSGIPKPEVAWFLEGTPVRRQEGSIEVYEDAGSHYLCLLKARTR
+DSGTYSCTASNAQGQLSCSWTLQVERLAVMEVAPSFSSVLKDCAVIEGQDFVLQCSVRGT
+PVPRITWLLNGQPIQYARSTCEAGVAELHIQDALPEDHGTYTCLAENALGQVSCSAWVTV
+HEKKSSRKSEYLLPVAPSKPTAPIFLQGLSDLKVMDGSQVTMTVQVSGNPPPEVIWLHNG
+NEIQESEDFHFEQRGTQHSLCIQEVFPEDTGTYTCEAWNSAGEVRTQAVLTVQEPHDGTQ
+PWFISKPRSVTASLGQSVLISCAIAGDPFPTVHWLRDGKALCKDTGHFEVLQNEDVFTLV
+LKKVQPWHAGQYEILLKNRVGECSCQVSLMLQNSSARALPRGREPASCEDLCGGGVGADG
+GGSDRYGSLRPGWPARGQGWLEEEDGEDVRGVLKRRVETRQHTEEAIRQQEVEQLDFRDL
+LGKKVSTKTLSEDDLKEIPAEQMDFRANLQRQVKPKTVSEEERKVHSPQQVDFRSVLAKK
+GTSKTPVPEKVPPPKPATPDFRSVLGGKKKLPAENGSSSAETLNAKAVESSKPLSNAQPS
+GPLKPVGNAKPAETLKPMGNAKPAETLKPMGNAKPDENLKSASKEELKKDVKNDVNCKRG
+HAGTTDNEKRSESQGTAPAFKQKLQDVHVAEGKKLLLQCQVSSDPPATIIWTLNGKTLKT
+TKFIILSQEGSLCSVSIEKALPEDRGLYKCVAKNDAGQAECSCQVTVDDAPASENTKAPE
+MKSRRPKSSLPPVLGTESDATVKKKPAPKTPPKAAMPPQIIQFPEDQKVRAGESVELFGK
+VTGTQPITCTWMKFRKQIQESEHMKVENSENGSKLTILAARQEHCGCYTLLVENKLGSRQ
+AQVNLTVVDKPDPPAGTPCASDIRSSSLTLSWYGSSYDGGSAVQSYSIEIWDSANKTWKE
+LATCRSTSFNVQDLLPDHEYKFRVRAINVYGTSEPSQESELTTVGEKPEEPKDEVEVSDD
+DEKEPEVDYRTVTINTEQKVSDFYDIEERLGSGKFGQVFRLVEKKTRKVWAGKFFKAYSA
+KEKENIRQEISIMNCLHHPKLVQCVDAFEEKANIVMVLEIVSGGELFERIIDEDFELTER
+ECIKYMRQISEGVEYIHKQGIVHLDLKPENIMCVNKTGTRIKLIDFGLARRLENAGSLKV
+LFGTPEFVAPEVINYEPIGYATDMWSIGVICYILVSGLSPFMGDNDNETLANVTSATWDF
+DDEAFDEISDDAKDFISNLLKKDMKNRLDCTQCLQHPWLMKDTKNMEAKKLSKDRMKKYM
+ARRKWQKTGNAVRAIGRLSSMAMISGLSGRKSSTGSPTSPLNAEKLESEEDVSQAFLEAV
+AEEKPHVKPYFSKTIRDLEVVEGSAARFDCKIEGYPDPEVVWFKDDQSIRESRHFQIDYD
+EDGNCSLIISDVCGDDDAKYTCKAVNSLGEATCTAELIVETMEEGEGEGEEEEE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>116008192</genbank_protein_id>
+  <uniprot_id>Q15746</uniprot_id>
+  <uniprot_name>MYLK_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_053025.3</genbank_gene_id>
+  <genecard_id>MYLK</genecard_id>
+  <geneatlas_id>MYLK</geneatlas_id>
+  <hgnc_id>HGNC:7590</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Potier MC, Chelot E, Pekarsky Y, Gardiner K, Rossier J, Turnell WG: The human myosin light chain kinase (MLCK) from hippocampus: cloning, sequencing, expression, and localization to 3qcen-q21. Genomics. 1995 Oct 10;29(3):562-70.</reference_text>
+      <pubmed_id>8575746</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Garcia JG, Lazar V, Gilbert-McClain LI, Gallagher PJ, Verin AD: Myosin light chain kinase in endothelium: molecular cloning and regulation. Am J Respir Cell Mol Biol. 1997 May;16(5):489-94.</reference_text>
+      <pubmed_id>9160829</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lazar V, Garcia JG: A single human myosin light chain kinase gene (MLCK; MYLK).  Genomics. 1999 Apr 15;57(2):256-67.</reference_text>
+      <pubmed_id>10198165</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Birukov KG, Csortos C, Marzilli L, Dudek S, Ma SF, Bresnick AR, Verin AD, Cotter RJ, Garcia JG: Differential regulation of alternatively spliced endothelial cell myosin light chain kinase isoforms by p60(Src). J Biol Chem. 2001 Mar 16;276(11):8567-73. Epub 2000 Dec 11.</reference_text>
+      <pubmed_id>11113114</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clayburgh DR, Rosen S, Witkowski ED, Wang F, Blair S, Dudek S, Garcia JG, Alverdy JC, Turner JR: A differentiation-dependent splice variant of myosin light chain kinase, MLCK1, regulates epithelial tight junction permeability. J Biol Chem. 2004 Dec 31;279(53):55506-13. Epub 2004 Oct 26.</reference_text>
+      <pubmed_id>15507455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dulyaninova NG, Patskovsky YV, Bresnick AR: The N-terminus of the long MLCK induces a disruption in normal spindle morphology and metaphase arrest. J Cell Sci. 2004 Mar 15;117(Pt 8):1481-93.</reference_text>
+      <pubmed_id>15020676</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muzny DM, Scherer SE, Kaul R, Wang J, Yu J, Sudbrak R, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Wei S, Wheeler DA, Wright MW, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clendenning J, Clerc-Blankenburg KP, Chen R, Chen Z, Davis C, Delgado O, Dinh HH, Dong W, Draper H, Ernst S, Fu G, Gonzalez-Garay ML, Garcia DK, Gillett W, Gu J, Hao B, Haugen E, Havlak P, He X, Hennig S, Hu S, Huang W, Jackson LR, Jacob LS, Kelly SH, Kube M, Levy R, Li Z, Liu B, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Palmeiri A, Pasternak S, Perez LM, Phelps KA, Plopper FJ, Qiang B, Raymond C, Rodriguez R, Saenphimmachak C, Santibanez J, Shen H, Shen Y, Subramanian S, Tabor PE, Verduzco D, Waldron L, Wang J, Wang J, Wang Q, Williams GA, Wong GK, Yao Z, Zhang J, Zhang X, Zhao G, Zhou J, Zhou Y, Nelson D, Lehrach H, Reinhardt R, Naylor SL, Yang H, Olson M, Weinstock G, Gibbs RA: The DNA sequence, annotation and analysis of human chromosome 3.  Nature. 2006 Apr 27;440(7088):1194-8.</reference_text>
+      <pubmed_id>16641997</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Watterson DM, Schavocky JP, Guo L, Weiss C, Chlenski A, Shirinsky VP, Van Eldik LJ, Haiech J: Analysis of the kinase-related protein gene found at human chromosome 3q21 in a multi-gene cluster: organization, expression, alternative splicing, and polymorphic marker. J Cell Biochem. 1999 Dec 1;75(3):481-91.</reference_text>
+      <pubmed_id>10536370</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zahedi RP, Lewandrowski U, Wiesner J, Wortelkamp S, Moebius J, Schutz C, Walter U, Gambaryan S, Sickmann A: Phosphoproteome of resting human platelets.  J Proteome Res. 2008 Feb;7(2):526-34. Epub 2007 Dec 19.</reference_text>
+      <pubmed_id>18088087</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Han G, Ye M, Zhou H, Jiang X, Feng S, Jiang X, Tian R, Wan D, Zou H, Gu J: Large-scale phosphoproteome analysis of human liver tissue by enrichment and fractionation of phosphopeptides with strong anion exchange chromatography. Proteomics. 2008 Apr;8(7):1346-61.</reference_text>
+      <pubmed_id>18318008</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

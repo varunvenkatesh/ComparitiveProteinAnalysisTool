@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:01 -0700</creation_date>
+  <update_date>2013-05-27 10:57:18 -0600</update_date>
+  <accession>HMDBP00852</accession>
+  <secondary_accessions>
+    <accession>6133</accession>
+    <accession>HMDBP03644</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>LKR</synonym>
+    <synonym>LKR/SDH</synonym>
+    <synonym>LOR</synonym>
+    <synonym>Lysine ketoglutarate reductase</synonym>
+    <synonym>SDH</synonym>
+    <synonym>Saccharopine dehydrogenase</synonym>
+  </synonyms>
+  <gene_name>AASS</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Bifunctional enzyme that catalyzes the first two steps in lysine degradation. The N-terminal and the C-terminal contain lysine-ketoglutarate reductase and saccharopine dehydrogenase activity, respectively.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>L-lysine degradation via saccharopine pathway</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00182</accession>
+      <name>L-Lysine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00279</accession>
+      <name>Saccharopine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01263</accession>
+      <name>Allysine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59595</accession>
+      <name>(S)-2-amino-6-oxohexanoate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity</description>
+      <go_id>GO:0047131</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>saccharopine dehydrogenase (NADP+, L-lysine-forming) activity</description>
+      <go_id>GO:0047130</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-lysine catabolic process to acetyl-CoA via saccharopine</description>
+      <go_id>GO:0033512</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lysine catabolic process</description>
+      <go_id>GO:0006554</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein tetramerization</description>
+      <go_id>GO:0051262</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>7</chromosome_location>
+    <locus>7q31.3</locus>
+    <gene_sequence>&gt;2781 bp
+ATGCTGCAAGTACATAGGACTGGACTGGGCAGGCTGGGGGTCAGCCTCTCCAAGGGTCTT
+CACCACAAAGCTGTGTTGGCCGTCCGGAGGGAGGATGTGAACGCCTGGGAGAGAAGGGCC
+CCGCTAGCTCCCAAGCACATCAAAGGCATCACCAATCTGGGATACAAGGTCTTGATACAG
+CCTTCGAATCGGCGGGCCATTCATGATAAGGACTATGTCAAAGCTGGTGGCATTCTTCAG
+GAGGATATTTCTGAAGCTTGTCTAATTTTAGGAGTTAAAAGACCTCCAGAGGAAAAATTA
+ATGTCCAGGAAGACTTATGCATTTTTCTCCCACACAATAAAAGCTCAGGAGGCCAATATG
+GGCTTGTTGGATGAGATTCTAAAACAGGAAATTCGCCTTATTGATTATGAGAAAATGGTG
+GATCATAGAGGAGTACGGGTAGTGGCATTTGGACAGTGGGCTGGTGTGGCAGGAATGATC
+AACATTTTACATGGAATGGGTTTAAGGCTCCTTGCTTTGGGACATCACACACCTTTTATG
+CACATTGGCATGGCTCATAACTACAGGAATAGCAGTCAGGCTGTGCAAGCTGTCCGTGAT
+GCTGGCTATGAAATATCTTTGGGTTTGATGCCTAAGTCAATAGGACCCTTAACATTTGTG
+TTCACAGGAACTGGTAATGTTTCTAAGGGAGCCCAAGCAATCTTTAATGAGCTACCTTGT
+GAATATGTGGAGCCCCATGAATTAAAAGAAGTTTCCCAAACTGGAGACCTCAGAAAAGTG
+TATGGGACGGTGTTAAGTCGTCATCATCATCTTGTCAGGAAAACAGATGCTGTGTATGAT
+CCTGCAGAGTATGACAAACATCCGGAGCGCTACATAAGTCGTTTTAATACTGATATTGCA
+CCCTATACAACTTGCTTAATTAATGGAATCTACTGGGAACAAAACACTCCTCGCCTCCTA
+ACCCGCCAAGATGCTCAGAGTCTCCTGGCTCCGGGCAAGTTCTCACCTGCTGGTGTGGAA
+GGCTGCCCTGCATTACCACACAAACTCGTGGCAATATGTGACATTTCAGCTGACACAGGA
+GGGTCTATAGAGTTTATGACTGAGTGTACAACAATAGAGCATCCCTTTTGCATGTATGAT
+GCAGACCAGCATATTATTCATGACAGTGTTGAAGGCTCGGGGATCCTGATGTGTTCCATT
+GACAATTTGCCGGCACAGCTCCCAATTGAAGCTACAGAATGCTTTGGAGACATGCTTTAC
+CCTTATGTTGAAGAAATGATATTATCAGACGCGACACAGCCTCTTGAAAGTCAGAATTTT
+TCTCCTGTGGTGAGAGATGCAGTGATTACATCCAACGGTACATTACCTGATAAATATAAA
+TATATCCAGACACTCCGGGAGAGCAGGGAACGTGCTCAGTCACTTTCAATGGGCACCAGG
+AGAAAGGTTTTGGTTCTTGGATCTGGCTACATATCTGAGCCTGTATTAGAATATTTATCA
+AGAGATGGCAATATAGAAATAACAGTAGGATCTGACATGAAGAATCAAATTGAACAGTTA
+GGCAAGAAATATAATATTAATCCTGTTAGCATGGACATTTGTAAACAAGAAGAGAAGCTG
+GGCTTCTTGGTGGCAAAACAGGATCTTGTCATCAGCTTGTTGCCTTATGTATTGCACCCT
+CTTGTGGCCAAGGCCTGCATCACAAACAAAGTTAACATGGTCACTGCAAGCTACATCACA
+CCAGCACTAAAAGAATTGGAAAAGAGTGTGGAAGATGCTGGCATCACAATCATTGGTGAA
+TTGGGATTGGACCCTGGTCTGGATCACATGTTAGCAATGGAAACAATAGATAAAGCCAAG
+GAAGTGGGAGCCACGATTGAATCATATATTTCCTACTGTGGTGGGCTTCCAGCCCCTGAA
+CATTCAAACAATCCATTGAGATATAAATTTAGCTGGAGTCCAGTGGGAGTTTTGATGAAT
+GTAATGCAGTCTGCCACCTATCTGCTCGATGGAAAGGTTGTGAATGTTGCAGGAGGCATC
+TCCTTTCTTGATGCCGTTACGTCCATGGATTTTTTTCCAGGATTAAATTTGGAAGGCTAT
+CCTAACAGAGACAGTACGAAATATGCTGAGATTTATGGCATTTCTTCTGCTCACACTTTG
+TTGCGGGGGACACTGAGATATAAGGGATATATGAAAGCTTTGAATGGATTTGTAAAATTA
+GGTCTTATAAACAGAGAAGCGCTTCCTGCCTTTAGACCTGAGGCCAACCCTCTCACCTGG
+AAACAACTCCTCTGTGACCTAGTTGGGATTTCACCCTCCTCTGAGCATGATGTGTTGAAG
+GAAGCTGTTCTTAAGAAACTAGGAGGAGACAATACCCAGTTGGAGGCTGCTGAATGGTTG
+GGCTTACTTGGGGATGAACAAGTTCCTCAGGCAGAGTCCATTCTGGATGCCCTCTCCAAG
+CATTTGGTCATGAAGCTTTCCTATGGTCCTGAAGAAAAAGATATGATTGTGATGAGAGAC
+AGCTTTGGAATCAGACATCCTTCTGGACATTTAGAACATAAAACGATTGATCTTGTGGCT
+TATGGGGACATCAATGGCTTTTCAGCCATGGCTAAAACCGTGGGGTTACCCACCGCCATG
+GCAGCCAAAATGTTGCTTGATGGTGAAATTGGAGCCAAAGGCCTAATGGGGCCCTTTTCA
+AAGGAGATCTATGGACCAATATTGGAGCGAATTAAAGCAGAAGGCATTATATATACTACA
+CAGAGTACAATTAAACCATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>926</residue_number>
+    <molecular_weight>102130.895</molecular_weight>
+    <theoretical_pi>6.638</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AlaDh_PNT_C</name>
+        <pfam_id>PF01262</pfam_id>
+      </pfam>
+      <pfam>
+        <name>AlaDh_PNT_N</name>
+        <pfam_id>PF05222</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Saccharop_dh</name>
+        <pfam_id>PF03435</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alpha-aminoadipic semialdehyde synthase, mitochondrial
+MLQVHRTGLGRLGVSLSKGLHHKAVLAVRREDVNAWERRAPLAPKHIKGITNLGYKVLIQ
+PSNRRAIHDKDYVKAGGILQEDISEACLILGVKRPPEEKLMSRKTYAFFSHTIKAQEANM
+GLLDEILKQEIRLIDYEKMVDHRGVRVVAFGQWAGVAGMINILHGMGLRLLALGHHTPFM
+HIGMAHNYRNSSQAVQAVRDAGYEISLGLMPKSIGPLTFVFTGTGNVSKGAQAIFNELPC
+EYVEPHELKEVSQTGDLRKVYGTVLSRHHHLVRKTDAVYDPAEYDKHPERYISRFNTDIA
+PYTTCLINGIYWEQNTPRLLTRQDAQSLLAPGKFSPAGVEGCPALPHKLVAICDISADTG
+GSIEFMTECTTIEHPFCMYDADQHIIHDSVEGSGILMCSIDNLPAQLPIEATECFGDMLY
+PYVEEMILSDATQPLESQNFSPVVRDAVITSNGTLPDKYKYIQTLRESRERAQSLSMGTR
+RKVLVLGSGYISEPVLEYLSRDGNIEITVGSDMKNQIEQLGKKYNINPVSMDICKQEEKL
+GFLVAKQDLVISLLPYVLHPLVAKACITNKVNMVTASYITPALKELEKSVEDAGITIIGE
+LGLDPGLDHMLAMETIDKAKEVGATIESYISYCGGLPAPEHSNNPLRYKFSWSPVGVLMN
+VMQSATYLLDGKVVNVAGGISFLDAVTSMDFFPGLNLEGYPNRDSTKYAEIYGISSAHTL
+LRGTLRYKGYMKALNGFVKLGLINREALPAFRPEANPLTWKQLLCDLVGISPSSEHDVLK
+EAVLKKLGGDNTQLEAAEWLGLLGDEQVPQAESILDALSKHLVMKLSYGPEEKDMIVMRD
+SFGIRHPSGHLEHKTIDLVAYGDINGFSAMAKTVGLPTAMAAKMLLDGEIGAKGLMGPFS
+KEIYGPILERIKAEGIIYTTQSTIKP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9UDR5</uniprot_id>
+  <uniprot_name>AASS_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF229180</genbank_gene_id>
+  <genecard_id>AASS</genecard_id>
+  <geneatlas_id>AASS</geneatlas_id>
+  <hgnc_id>HGNC:17366</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sacksteder KA, Biery BJ, Morrell JC, Goodman BK, Geisbrecht BV, Cox RP, Gould SJ, Geraghty MT: Identification of the alpha-aminoadipic semialdehyde synthase gene, which is defective in familial hyperlysinemia. Am J Hum Genet. 2000 Jun;66(6):1736-43. Epub 2000 Apr 20.</reference_text>
+      <pubmed_id>10775527</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Fulton RS, Fulton LA, Graves TA, Pepin KH, Wagner-McPherson C, Layman D, Maas J, Jaeger S, Walker R, Wylie K, Sekhon M, Becker MC, O'Laughlin MD, Schaller ME, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Cordes M, Du H, Sun H, Edwards J, Bradshaw-Cordum H, Ali J, Andrews S, Isak A, Vanbrunt A, Nguyen C, Du F, Lamar B, Courtney L, Kalicki J, Ozersky P, Bielicki L, Scott K, Holmes A, Harkins R, Harris A, Strong CM, Hou S, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Leonard S, Rohlfing T, Rock SM, Tin-Wollam AM, Abbott A, Minx P, Maupin R, Strowmatt C, Latreille P, Miller N, Johnson D, Murray J, Woessner JP, Wendl MC, Yang SP, Schultz BR, Wallis JW, Spieth J, Bieri TA, Nelson JO, Berkowicz N, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Bedell JA, Mardis ER, Clifton SW, Chissoe SL, Marra MA, Raymond C, Haugen E, Gillett W, Zhou Y, James R, Phelps K, Iadanoto S, Bubb K, Simms E, Levy R, Clendenning J, Kaul R, Kent WJ, Furey TS, Baertsch RA, Brent MR, Keibler E, Flicek P, Bork P, Suyama M, Bailey JA, Portnoy ME, Torrents D, Chinwalla AT, Gish WR, Eddy SR, McPherson JD, Olson MV, Eichler EE, Green ED, Waterston RH, Wilson RK: The DNA sequence of human chromosome 7.  Nature. 2003 Jul 10;424(6945):157-64.</reference_text>
+      <pubmed_id>12853948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Saccharopine</name>
+        <accession>HMDB00279</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Saccharopine</name>
+        <accession>HMDB00279</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Saccharopine</name>
+        <accession>HMDB00279</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gaziola SA, Teixeira CM, Lugli J, Sodek L, Azevedo RA: The enzymology of lysine catabolism in rice seeds--isolation, characterization, and regulatory properties of a lysine 2-oxoglutarate reductase/saccharopine dehydrogenase bifunctional polypeptide. Eur J Biochem. 1997 Jul 1;247(1):364-71.</reference_text>
+        <pubmed_id>9249048</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Goncalves-Butruille M, Szajner P, Torigoi E, Leite A, Arruda P: Purification and Characterization of the Bifunctional Enzyme Lysine-Ketoglutarate Reductase-Saccharopine Dehydrogenase from Maize. Plant Physiol. 1996 Mar;110(3):765-771.</reference_text>
+        <pubmed_id>12226216</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Noda C, Ichihara A: Purification and properties of L-lysine-alpha-ketoglutarate reductase from rat liver mitochondria. Biochim Biophys Acta. 1978 Aug 7;525(2):307-13.</reference_text>
+        <pubmed_id>687635</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

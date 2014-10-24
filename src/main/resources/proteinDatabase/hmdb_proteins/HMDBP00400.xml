@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:02 -0700</creation_date>
+  <update_date>2013-05-27 11:28:12 -0600</update_date>
+  <accession>HMDBP00400</accession>
+  <secondary_accessions>
+    <accession>5637</accession>
+    <accession>HMDBP03490</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Ornithine aminotransferase, hepatic form</synonym>
+    <synonym>Ornithine aminotransferase, renal form</synonym>
+    <synonym>Ornithine delta-aminotransferase</synonym>
+    <synonym>Ornithine--oxo-acid aminotransferase</synonym>
+  </synonyms>
+  <gene_name>OAT</gene_name>
+  <general_function>Involved in transaminase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Arginine and Proline Metabolism</name>
+      <smpdb_id>SMP00020</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>L-proline biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00214</accession>
+      <name>Ornithine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02104</accession>
+      <name>L-Glutamic gamma-semialdehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12251</accession>
+      <name>L-Canaline</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cofactor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring nitrogenous groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ornithine-oxo-acid transaminase activity</description>
+      <go_id>GO:0004587</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id>GO:0030170</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular amino acid biosynthetic process</description>
+      <go_id>GO:0008652</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-proline biosynthetic process</description>
+      <go_id>GO:0055129</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>visual perception</description>
+      <go_id>GO:0007601</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q26</locus>
+    <gene_sequence>&gt;1320 bp
+ATGTTTTCCAAACTAGCACATTTGCAGAGGTTTGCTGTACTTAGTCGCGGAGTTCATTCT
+TCAGTGGCTTCTGCTACATCTGTTGCAACTAAAAAAACAGTCCAAGGCCCTCCAACCTCT
+GATGACATTTTTGAAAGGGAATATAAGTATGGTGCACACAACTACCATCCTTTACCTGTA
+GCCCTGGAGAGAGGAAAAGGTATTTACTTATGGGATGTAGAAGGCAGAAAATATTTTGAC
+TTCCTGAGTTCTTACAGTGCTGTCAACCAAGGGCATTGTCACCCCAAGATTGTGAATGCT
+CTGAAGAGTCAAGTGGACAAATTGACCTTAACATCTAGAGCTTTCTATAATAACGTACTT
+GGTGAATATGAGGAGTATATTACTAAACTTTTCAACTACCACAAAGTTCTTCCTATGAAT
+ACAGGAGTGGAGGCTGGAGAGACTGCCTGTAAACTAGCTCGTAAGTGGGGCTATACCGTG
+AAGGGCATTCAGAAATACAAAGCAAAGATTGTTTTTGCAGCTGGGAACTTCTGGGGTAGG
+ACGTTGTCTGCTATCTCCAGTTCCACAGACCCAACCAGTTACGATGGTTTTGGACCATTT
+ATGCCGGGATTCGACATCATTCCCTATAATGATCTGCCCGCACTGGAGCGTGCTCTTCAG
+GATCCAAATGTGGCTGCGTTCATGGTAGAACCAATTCAGGGTGAAGCAGGCGTTGTTGTT
+CCGGATCCAGGTTACCTAATGGGAGTGCGAGAGCTCTGCACCAGGCACCAGGTTCTCTTT
+ATTGCTGATGAAATACAGACAGGATTGGCCAGAACTGGTAGATGGCTGGCTGTTGATTAT
+GAAAATGTCAGACCTGATATAGTCCTCCTTGGAAAGGCCCTTTCTGGGGGCTTATACCCT
+GTGTCTGCAGTGCTGTGTGATGATGACATCATGCTGACCATTAAGCCAGGGGAGCATGGG
+TCCACATACGGTGGCAATCCACTAGGCTGCCGAGTGGCCATCGCAGCCCTTGAGGTTTTA
+GAAGAAGAAAACCTTGCTGAAAATGCAGACAAATTGGGCATTATCTTGAGAAATGAACTC
+ATGAAGCTACCTTCTGATGTTGTAACTGCCGTAAGAGGAAAAGGATTATTAAATGCTATT
+GTCATTAAAGAAACCAAAGATTGGGATGCTTGGAAGGTGTGTCTACGACTTCGAGATAAT
+GGACTTCTGGCCAAGCCAACCCATGGCGACATTATCAGGTTTGCGCCTCCGCTGGTGATC
+AAGGAGGATGAGCTTCGAGAGTCCATTGAAATTATTAACAAGACCATCTTGTCTTTCTGA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>439</residue_number>
+    <molecular_weight>48534.39</molecular_weight>
+    <theoretical_pi>7.041</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aminotran_3</name>
+        <pfam_id>PF00202</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ornithine aminotransferase, mitochondrial
+MFSKLAHLQRFAVLSRGVHSSVASATSVATKKTVQGPPTSDDIFEREYKYGAHNYHPLPV
+ALERGKGIYLWDVEGRKYFDFLSSYSAVNQGHCHPKIVNALKSQVDKLTLTSRAFYNNVL
+GEYEEYITKLFNYHKVLPMNTGVEAGETACKLARKWGYTVKGIQKYKAKIVFAAGNFWGR
+TLSAISSSTDPTSYDGFGPFMPGFDIIPYNDLPALERALQDPNVAAFMVEPIQGEAGVVV
+PDPGYLMGVRELCTRHQVLFIADEIQTGLARTGRWLAVDYENVRPDIVLLGKALSGGLYP
+VSAVLCDDDIMLTIKPGEHGSTYGGNPLGCRVAIAALEVLEEENLAENADKLGIILRNEL
+MKLPSDVVTAVRGKGLLNAIVIKETKDWDAWKVCLRLRDNGLLAKPTHGDIIRFAPPLVI
+KEDELRESIEIINKTILSF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>189069120</genbank_protein_id>
+  <uniprot_id>P04181</uniprot_id>
+  <uniprot_name>OAT_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1GBN</pdb_id>
+    <pdb_id>1OAT</pdb_id>
+    <pdb_id>2BYJ</pdb_id>
+    <pdb_id>2BYL</pdb_id>
+    <pdb_id>2CAN</pdb_id>
+    <pdb_id>2OAT</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AK312561</genbank_gene_id>
+  <genecard_id>OAT</genecard_id>
+  <geneatlas_id>OAT</geneatlas_id>
+  <hgnc_id>HGNC:8091</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Inana G, Totsuka S, Redmond M, Dougherty T, Nagle J, Shiono T, Ohura T, Kominami E, Katunuma N: Molecular cloning of human ornithine aminotransferase mRNA.  Proc Natl Acad Sci U S A. 1986 Mar;83(5):1203-7.</reference_text>
+      <pubmed_id>3456579</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ramesh V, Shaffer MM, Allaire JM, Shih VE, Gusella JF: Investigation of gyrate atrophy using a cDNA clone for human ornithine aminotransferase. DNA. 1986 Dec;5(6):493-501.</reference_text>
+      <pubmed_id>3816496</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kobayashi T, Nishii M, Takagi Y, Titani K, Matsuzawa T: Molecular cloning and nucleotide sequence analysis of mRNA for human kidney ornithine aminotransferase. An examination of ornithine aminotransferase isozymes between liver and kidney. FEBS Lett. 1989 Sep 25;255(2):300-4.</reference_text>
+      <pubmed_id>2507357</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mitchell GA, Looney JE, Brody LC, Steel G, Suchanek M, Engelhardt JF, Willard HF, Valle D: Human ornithine-delta-aminotransferase. cDNA cloning and analysis of the structural gene. J Biol Chem. 1988 Oct 5;263(28):14288-95.</reference_text>
+      <pubmed_id>3170546</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zintz CB, Inana G: Analysis of the human ornithine aminotransferase gene family.  Exp Eye Res. 1990 Jun;50(6):759-70.</reference_text>
+      <pubmed_id>2373169</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ramesh V, Gusella JF, Shih VE: Molecular pathology of gyrate atrophy of the choroid and retina due to ornithine aminotransferase deficiency. Mol Biol Med. 1991 Feb;8(1):81-93.</reference_text>
+      <pubmed_id>1682785</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simmaco M, John RA, Barra D, Bossa F: The primary structure of ornithine aminotransferase. Identification of active-site sequence and site of post-translational proteolysis. FEBS Lett. 1986 Apr 7;199(1):39-42.</reference_text>
+      <pubmed_id>3754226</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shah SA, Shen BW, Brunger AT: Human ornithine aminotransferase complexed with L-canaline and gabaculine: structural basis for substrate recognition. Structure. 1997 Aug 15;5(8):1067-75.</reference_text>
+      <pubmed_id>9309222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shen BW, Hennig M, Hohenester E, Jansonius JN, Schirmer T: Crystal structure of human recombinant ornithine aminotransferase.  J Mol Biol. 1998 Mar 20;277(1):81-102.</reference_text>
+      <pubmed_id>9514741</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Storici P, Capitani G, Muller R, Schirmer T, Jansonius JN: Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999 Jan 8;285(1):297-309.</reference_text>
+      <pubmed_id>9878407</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ramesh V, McClatchey AI, Ramesh N, Benoit LA, Berson EL, Shih VE, Gusella JF: Molecular basis of ornithine aminotransferase deficiency in B-6-responsive and -nonresponsive forms of gyrate atrophy. Proc Natl Acad Sci U S A. 1988 Jun;85(11):3777-80.</reference_text>
+      <pubmed_id>3375240</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Inana G, Chambers C, Hotta Y, Inouye L, Filpula D, Pulford S, Shiono T: Point mutation affecting processing of the ornithine aminotransferase precursor protein in gyrate atrophy. J Biol Chem. 1989 Oct 15;264(29):17432-6.</reference_text>
+      <pubmed_id>2793865</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Michaud J, Brody LC, Steel G, Fontaine G, Martin LS, Valle D, Mitchell G: Strand-separating conformational polymorphism analysis: efficacy of detection of point mutations in the human ornithine delta-aminotransferase gene. Genomics. 1992 Jun;13(2):389-94.</reference_text>
+      <pubmed_id>1612597</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brody LC, Mitchell GA, Obie C, Michaud J, Steel G, Fontaine G, Robert MF, Sipila I, Kaiser-Kupfer M, Valle D: Ornithine delta-aminotransferase mutations in gyrate atrophy. Allelic heterogeneity and functional consequences. J Biol Chem. 1992 Feb 15;267(5):3302-7.</reference_text>
+      <pubmed_id>1737786</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Michaud J, Thompson GN, Brody LC, Steel G, Obie C, Fontaine G, Schappert K, Keith CG, Valle D, Mitchell GA: Pyridoxine-responsive gyrate atrophy of the choroid and retina: clinical and biochemical correlates of the mutation A226V. Am J Hum Genet. 1995 Mar;56(3):616-22.</reference_text>
+      <pubmed_id>7887415</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kobayashi T, Ogawa H, Kasahara M, Shiozawa Z, Matsuzawa T: A single amino acid substitution within the mature sequence of ornithine aminotransferase obstructs mitochondrial entry of the precursor. Am J Hum Genet. 1995 Aug;57(2):284-91.</reference_text>
+      <pubmed_id>7668253</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Levillain O, Balvay S, Peyrol S: Localization and differential expression of arginase II in the kidney of male and female mice. Pflugers Arch. 2005 Feb;449(5):491-503. Epub 2004 Dec 23.</reference_text>
+        <pubmed_id>15616821</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Inubushi T, Takasawa T, Tuboi Y, Watanabe N, Aki K, Katunuma N: Changes of glucose metabolism and skin-collagen neogenesis in vitamin B6 deficiency. Biofactors. 2005;23(2):59-67.</reference_text>
+        <pubmed_id>16179747</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kaneko S, Ueda-Yamada M, Ando A, Matsumura S, Okuda-Ashitaka E, Matsumura M, Uyama M, Ito S: Cytotoxic effect of spermine on retinal pigment epithelial cells.  Invest Ophthalmol Vis Sci. 2007 Jan;48(1):455-63.</reference_text>
+        <pubmed_id>17197567</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Canaline</name>
+        <accession>HMDB12251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Canaline</name>
+        <accession>HMDB12251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Canaline</name>
+        <accession>HMDB12251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

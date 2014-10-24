@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:06 -0700</creation_date>
+  <update_date>2013-05-27 11:35:58 -0600</update_date>
+  <accession>HMDBP00653</accession>
+  <secondary_accessions>
+    <accession>5925</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Selenium donor protein 1</synonym>
+    <synonym>Selenophosphate synthase 1</synonym>
+  </synonyms>
+  <gene_name>SEPHS1</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Synthesizes selenophosphate from selenide and ATP.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Selenocompound metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00450</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB06407</accession>
+      <name>Selenophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03840</accession>
+      <name>Phosphoroselenoic acid </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11110</accession>
+      <name>Hydrogen selenide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01349</accession>
+      <name>Selenium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>selenide, water dikinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GTP binding</description>
+      <go_id>GO:0005525</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>selenide, water dikinase activity</description>
+      <go_id>GO:0004756</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular protein modification process</description>
+      <go_id>GO:0006464</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10p14</locus>
+    <gene_sequence>&gt;1179 bp
+ATGTCTACGCGGGAGTCCTTTAACCCGGAAAGTTACGAATTGGACAAAAGCTTCCGGCTA
+ACCAGATTCACTGAACTGAAGGGCACAGGCTGCAAAGTGCCCCAAGATGTCCTGCAAAAA
+TTGCTGGAATCTTTACAGGAGAACCACTTCCAAGAAGATGAGCAGTTTCTGGGAGCCGTT
+ATGCCAAGGCTTGGCATTGGAATGGATACTTGTGTCATTCCTTTGAGGCACGGTGGGCTT
+TCCTTGGTTCAAACCACAGATTACATTTACCCGATCGTAGACGACCCTTACATGATGGGC
+AGGATAGCGTGTGCCAATGTCCTCAGTGACCTCTATGCAATGGGGGTCACGGAATGTGAC
+AATATGCTGATGCTCCTTGGAGTCAGTAATAAAATGACCGACAGGGAAAGGGATAAAGTG
+ATGCCTCTGATTATCCAAGGTTTTAAAGACGCAGCTGAGGAAGCAGGAACATCTGTAACA
+GGCGGCCAAACAGTACTAAACCCCTGGATTGTCCTGGGAGGAGTGGCTACCACTGTCTGC
+CAACCCAATGAATTTATCATGCCAGACAATGCAGTGCCAGGGGACGTGCTGGTGCTGACA
+AAACCCCTGGGGACACAGGTGGCAGTGGCTGTGCACCAGTGGCTGGATATCCCTGAGAAA
+TGGAATAAGATTAAACTAGTGGTCACCCAAGAAGATGTAGAGCTGGCCTACCAGGAGGCG
+ATGATGAACATGGCGAGGCTCAACAGGACAGCTGCAGGACTCATGCACACGTTCAATGCC
+CACGCCGCCACTGACATCACGGGCTTCGGGATTTTGGGCCATGCGCAGAACCTGGCCAAG
+CAGCAGAGGAACGAGGTGTCGTTTGTAATTCACAACCTCCCGGTGCTGGCCAAGATGGCT
+GCGGTGAGCAAGGCCTGCGGAAACATGTTCGGCCTCATGCACGGGACCTGCCCGGAGACT
+TCAGGCGGCCTTCTGATCTGTTTACCACGTGAGCAAGCAGCTCGGTTCTGTGCAGAGATA
+AAGTCCCCCAAATATGGTGAAGGCCACCAAGCATGGATTATTGGGATTGTAGAGAAGGGC
+AACCGCACAGCCAGAATCATAGACAAACCCCGGATCATCGAGGTCGCACCACAAGTGGCC
+ACTCAAAATGTGAATCCCACACCCGGGGCCACCTCTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>392</residue_number>
+    <molecular_weight>42910.325</molecular_weight>
+    <theoretical_pi>5.972</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AIRS</name>
+        <pfam_id>PF00586</pfam_id>
+      </pfam>
+      <pfam>
+        <name>AIRS_C</name>
+        <pfam_id>PF02769</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Selenide, water dikinase 1
+MSTRESFNPESYELDKSFRLTRFTELKGTGCKVPQDVLQKLLESLQENHFQEDEQFLGAV
+MPRLGIGMDTCVIPLRHGGLSLVQTTDYIYPIVDDPYMMGRIACANVLSDLYAMGVTECD
+NMLMLLGVSNKMTDRERDKVMPLIIQGFKDAAEEAGTSVTGGQTVLNPWIVLGGVATTVC
+QPNEFIMPDNAVPGDVLVLTKPLGTQVAVAVHQWLDIPEKWNKIKLVVTQEDVELAYQEA
+MMNMARLNRTAAGLMHTFNAHAATDITGFGILGHAQNLAKQQRNEVSFVIHNLPVLAKMA
+AVSKACGNMFGLMHGTCPETSGGLLICLPREQAARFCAEIKSPKYGEGHQAWIIGIVEKG
+NRTARIIDKPRIIEVAPQVATQNVNPTPGATS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>55957750</genbank_protein_id>
+  <uniprot_id>P49903</uniprot_id>
+  <uniprot_name>SPS1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3FD5</pdb_id>
+    <pdb_id>3FD6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AL138764</genbank_gene_id>
+  <genecard_id>SEPHS1</genecard_id>
+  <geneatlas_id>SEPHS1</geneatlas_id>
+  <hgnc_id>HGNC:19685</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Low SC, Harney JW, Berry MJ: Cloning and functional characterization of human selenophosphate synthetase, an essential component of selenoprotein synthesis. J Biol Chem. 1995 Sep 15;270(37):21659-64.</reference_text>
+      <pubmed_id>7665581</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang KT, Wang J, Li LF, Su XD: Crystal structures of catalytic intermediates of human selenophosphate synthetase 1. J Mol Biol. 2009 Jul 24;390(4):747-59. Epub 2009 May 25.</reference_text>
+      <pubmed_id>19477186</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:03:53 -0700</creation_date>
+  <update_date>2013-05-27 11:11:15 -0600</update_date>
+  <accession>HMDBP02251</accession>
+  <secondary_accessions>
+    <accession>7736</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DNA MTase HsaIIIB</synonym>
+    <synonym>DNA methyltransferase HsaIIIB</synonym>
+    <synonym>Dnmt3b</synonym>
+    <synonym>M.HsaIIIB</synonym>
+  </synonyms>
+  <gene_name>DNMT3B</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Required for genome-wide de novo methylation and is essential for the establishment of DNA methylation patterns during development. DNA methylation is coordinated with methylation of histones. May preferentially methylates nucleosomal DNA within the nucleosome core region. May function as transcriptional co-repressor by associating with CBX4 and independently of DNA methylation. Seems to be involved in gene silencing (By similarity). In association with DNMT1 and via the recruitment of CTCFL/BORIS, involved in activation of BAG1 gene expression by modulating dimethylation of promoter histone H3 at H3K4 and H3K9. Isoforms 4 and 5 are probably not functional due to the deletion of two conserved methyltransferase motifs. Function as transcriptional corepressor by associating with ZHX1.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Cysteine and methionine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00270</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02894</accession>
+      <name>5-Methylcytosine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna alkylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna methylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>chromosome, centromeric region</description>
+      <go_id>GO:0000775</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear heterochromatin</description>
+      <go_id>GO:0005720</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA (cytosine-5-)-methyltransferase activity</description>
+      <go_id>GO:0003886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA (cytosine-5-)-methyltransferase activity, acting on CpG substrates</description>
+      <go_id>GO:0051718</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription corepressor activity</description>
+      <go_id>GO:0003714</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>unmethylated CpG binding</description>
+      <go_id>GO:0045322</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to amino acid stimulus</description>
+      <go_id>GO:0071230</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA methylation involved in embryo development</description>
+      <go_id>GO:0043045</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA methylation on cytosine within a CG sequence</description>
+      <go_id>GO:0010424</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>methylation-dependent chromatin silencing</description>
+      <go_id>GO:0006346</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of histone H3-K9 methylation</description>
+      <go_id>GO:0051573</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of gene expression</description>
+      <go_id>GO:0010628</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of histone H3-K4 methylation</description>
+      <go_id>GO:0051571</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of neuron differentiation</description>
+      <go_id>GO:0045666</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein complex localization</description>
+      <go_id>GO:0031503</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of gene expression by genetic imprinting</description>
+      <go_id>GO:0006349</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ionizing radiation</description>
+      <go_id>GO:0010212</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>S-adenosylhomocysteine metabolic process</description>
+      <go_id>GO:0046498</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>S-adenosylmethioninamine metabolic process</description>
+      <go_id>GO:0046499</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q11.2</locus>
+    <gene_sequence>&gt;2562 bp
+ATGAAGGGAGACACCAGGCATCTCAATGGAGAGGAGGACGCCGGCGGGAGGGAAGACTCG
+ATCCTCGTCAACGGGGCCTGCAGCGACCAGTCCTCCGACTCGCCCCCAATCCTGGAGGCT
+ATCCGCACCCCGGAGATCAGAGGCCGAAGATCAAGCTCGCGACTCTCCAAGAGGGAGGTG
+TCCAGTCTGCTAAGCTACACACAGGACTTGACAGGCGATGGCGACGGGGAAGATGGGGAT
+GGCTCTGACACCCCAGTCATGCCAAAGCTCTTCCGGGAAACCAGGACTCGTTCAGAAAGC
+CCAGCTGTCCGAACTCGAAATAACAACAGTGTCTCCAGCCGGGAGAGGCACAGGCCTTCC
+CCACGTTCCACCCGAGGCCGGCAGGGCCGCAACCATGTGGACGAGTCCCCCGTGGAGTTC
+CCGGCTACCAGGTCCCTGAGACGGCGGGCAACAGCATCGGCAGGAACGCCATGGCCGTCC
+CCTCCCAGCTCTTACCTTACCATCGACCTCACAGACGACACAGAGGACACACATGGGACG
+CCCCAGAGCAGCAGTACCCCCTACGCCCGCCTAGCCCAGGACAGCCAGCAGGGGGGCATG
+GAGTCCCCGCAGGTGGAGGCAGACAGTGGAGATGGAGACAGTTCAGAGTATCAGGATGGG
+AAGGAGTTTGGAATAGGGGACCTCGTGTGGGGAAAGATCAAGGGCTTCTCCTGGTGGCCC
+GCCATGGTGGTGTCTTGGAAGGCCACCTCCAAGCGACAGGCTATGTCTGGCATGCGGTGG
+GTCCAGTGGTTTGGCGATGGCAAGTTCTCCGAGGTCTCTGCAGACAAACTGGTGGCACTG
+GGGCTGTTCAGCCAGCACTTTAATTTGGCCACCTTCAATAAGCTCGTCTCCTATCGAAAA
+GCCATGTACCATGCTCTGGAGAAAGCTAGGGTGCGAGCTGGCAAGACCTTCCCCAGCAGC
+CCTGGAGACTCATTGGAGGACCAGCTGAAGCCCATGTTGGAGTGGGCCCACGGGGGCTTC
+AAGCCCACTGGGATCGAGGGCCTCAAACCCAACAACACGCAACCAGTGGTTAATAAGTCG
+AAGGTGCGTCGTGCAGGCAGTAGGAAATTAGAATCAAGGAAATACGAGAACAAGACTCGA
+AGACGCACAGCTGACGACTCAGCCACCTCTGACTACTGCCCCGCACCCAAGCGCCTCAAG
+ACAAATTGCTATAACAACGGCAAAGACCGAGGGGATGAAGATCAGAGCCGAGAACAAATG
+GCTTCAGATGTTGCCAACAACAAGAGCAGCCTGGAAGATGGCTGTTTGTCTTGTGGCAGG
+AAAAACCCCGTGTCCTTCCACCCTCTCTTTGAGGGGGGGCTCTGTCAGACATGCCGGGAT
+CGCTTCCTTGAGCTGTTTTACATGTATGATGACGATGGCTATCAGTCTTACTGCACTGTG
+TGCTGCGAGGGCCGAGAGCTGCTGCTTTGCAGCAACACGAGCTGCTGCCGGTGTTTCTGT
+GTGGAGTGCCTGGAGGTGCTGGTGGGCACAGGCACAGCGGCCGAGGCCAAGCTTCAGGAG
+CCCTGGAGCTGTTACATGTGTCTCCCGCAGCGCTGTCATGGCGTCCTGCGGCGCCGGAAG
+GACTGGAACGTGCGCCTGCAGGCCTTCTTCACCAGTGACACGGGGCTTGAATATGAAGCC
+CCCAAGCTGTACCCTGCCATTCCCGCAGCCCGAAGGCGGCCCATTCGAGTCCTGTCATTG
+TTTGATGGCATCGCGACAGGCTACCTAGTCCTCAAAGAGTTGGGCATAAAGGTAGGAAAG
+TACGTCGCTTCTGAAGTGTGTGAGGAGTCCATTGCTGTTGGAACCGTGAAGCACGAGGGG
+AATATCAAATACGTGAACGACGTGAGGAACATCACAAAGAAAAATATTGAAGAATGGGGC
+CCATTTGACTTGGTGATTGGCGGAAGCCCATGCAACGATCTCTCAAATGTGAATCCAGCC
+AGGAAAGGCCTGTATGAGGGTACAGGCCGGCTCTTCTTCGAATTTTACCACCTGCTGAAT
+TACTCACGCCCCAAGGAGGGTGATGACCGGCCGTTCTTCTGGATGTTTGAGAATGTTGTA
+GCCATGAAGGTTGGCGACAAGAGGGACATCTCACGGTTCCTGGAGTGTAATCCAGTGATG
+ATTGATGCCATCAAAGTTTCTGCTGCTCACAGGGCCCGATACTTCTGGGGCAACCTACCC
+GGGATGAACAGGCCCGTGATAGCATCAAAGAATGATAAACTCGAGCTGCAGGACTGCTTG
+GAATACAATAGGATAGCCAAGTTAAAGAAAGTACAGACAATAACCACCAAGTCGAACTCG
+ATCAAACAGGGGAAAAACCAACTTTTCCCTGTTGTCATGAATGGCAAAGAAGATGTTTTG
+TGGTGCACTGAGCTCGAAAGGATCTTTGGCTTTCCTGTGCACTACACAGACGTGTCCAAC
+ATGGGCCGTGGTGCCCGCCAGAAGCTGCTGGGAAGGTCCTGGAGCGTGCCTGTCATCCGA
+CACCTCTTCGCCCCTCTGAAGGACTACTTTGCATGTGAATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>853</residue_number>
+    <molecular_weight>81309.795</molecular_weight>
+    <theoretical_pi>7.035</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DNA_methylase</name>
+        <pfam_id>PF00145</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PWWP</name>
+        <pfam_id>PF00855</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA (cytosine-5)-methyltransferase 3B
+MKGDTRHLNGEEDAGGREDSILVNGACSDQSSDSPPILEAIRTPEIRGRRSSSRLSKREV
+SSLLSYTQDLTGDGDGEDGDGSDTPVMPKLFRETRTRSESPAVRTRNNNSVSSRERHRPS
+PRSTRGRQGRNHVDESPVEFPATRSLRRRATASAGTPWPSPPSSYLTIDLTDDTEDTHGT
+PQSSSTPYARLAQDSQQGGMESPQVEADSGDGDSSEYQDGKEFGIGDLVWGKIKGFSWWP
+AMVVSWKATSKRQAMSGMRWVQWFGDGKFSEVSADKLVALGLFSQHFNLATFNKLVSYRK
+AMYHALEKARVRAGKTFPSSPGDSLEDQLKPMLEWAHGGFKPTGIEGLKPNNTQPVVNKS
+KVRRAGSRKLESRKYENKTRRRTADDSATSDYCPAPKRLKTNCYNNGKDRGDEDQSREQM
+ASDVANNKSSLEDGCLSCGRKNPVSFHPLFEGGLCQTCRDRFLELFYMYDDDGYQSYCTV
+CCEGRELLLCSNTSCCRCFCVECLEVLVGTGTAAEAKLQEPWSCYMCLPQRCHGVLRRRK
+DWNVRLQAFFTSDTGLEYEAPKLYPAIPAARRRPIRVLSLFDGIATGYLVLKELGIKVGK
+YVASEVCEESIAVGTVKHEGNIKYVNDVRNITKKNIEEWGPFDLVIGGSPCNDLSNVNPA
+RKGLYEGTGRLFFEFYHLLNYSRPKEGDDRPFFWMFENVVAMKVGDKRDISRFLECNPVM
+IDAIKVSAAHRARYFWGNLPGMNRPVIASKNDKLELQDCLEYNRIAKLKKVQTITTKSNS
+IKQGKNQLFPVVMNGKEDVLWCTELERIFGFPVHYTDVSNMGRGARQKLLGRSWSVPVIR
+HLFAPLKDYFACE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>5901940</genbank_protein_id>
+  <uniprot_id>Q9UBC3</uniprot_id>
+  <uniprot_name>DNM3B_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3FLG</pdb_id>
+    <pdb_id>3QKJ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_006892.3</genbank_gene_id>
+  <genecard_id>DNMT3B</genecard_id>
+  <geneatlas_id>DNMT3B</geneatlas_id>
+  <hgnc_id>HGNC:2979</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Xie S, Wang Z, Okano M, Nogami M, Li Y, He WW, Okumura K, Li E: Cloning, expression and chromosome locations of the human DNMT3 gene family. Gene. 1999 Aug 5;236(1):87-95.</reference_text>
+      <pubmed_id>10433969</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu GL, Bestor TH, Bourc'his D, Hsieh CL, Tommerup N, Bugge M, Hulten M, Qu X, Russo JJ, Viegas-Pequignot E: Chromosome instability and immunodeficiency syndrome caused by mutations in a DNA methyltransferase gene. Nature. 1999 Nov 11;402(6758):187-91.</reference_text>
+      <pubmed_id>10647011</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Robertson KD, Uzvolgyi E, Liang G, Talmadge C, Sumegi J, Gonzales FA, Jones PA: The human DNA methyltransferases (DNMTs) 1, 3a and 3b: coordinate mRNA expression in normal tissues and overexpression in tumors. Nucleic Acids Res. 1999 Jun 1;27(11):2291-8.</reference_text>
+      <pubmed_id>10325416</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kang ES, Park CW, Chung JH: Dnmt3b, de novo DNA methyltransferase, interacts with SUMO-1 and Ubc9 through its N-terminal region and is subject to modification by SUMO-1. Biochem Biophys Res Commun. 2001 Dec 14;289(4):862-8.</reference_text>
+      <pubmed_id>11735126</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim GD, Ni J, Kelesoglu N, Roberts RJ, Pradhan S: Co-operation and communication between the human maintenance and de novo DNA (cytosine-5) methyltransferases. EMBO J. 2002 Aug 1;21(15):4183-95.</reference_text>
+      <pubmed_id>12145218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li H, Rauch T, Chen ZX, Szabo PE, Riggs AD, Pfeifer GP: The histone methyltransferase SETDB1 and the DNA methyltransferase DNMT3A interact directly and localize to promoters silenced in cancer cells. J Biol Chem. 2006 Jul 14;281(28):19489-500. Epub 2006 May 8.</reference_text>
+      <pubmed_id>16682412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vire E, Brenner C, Deplus R, Blanchon L, Fraga M, Didelot C, Morey L, Van Eynde A, Bernard D, Vanderwinden JM, Bollen M, Esteller M, Di Croce L, de Launoit Y, Fuks F: The Polycomb group protein EZH2 directly controls DNA methylation.  Nature. 2006 Feb 16;439(7078):871-4. Epub 2005 Dec 14.</reference_text>
+      <pubmed_id>16357870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schlesinger Y, Straussman R, Keshet I, Farkash S, Hecht M, Zimmerman J, Eden E, Yakhini Z, Ben-Shushan E, Reubinoff BE, Bergman Y, Simon I, Cedar H: Polycomb-mediated methylation on Lys27 of histone H3 pre-marks genes for de novo methylation in cancer. Nat Genet. 2007 Feb;39(2):232-6. Epub 2006 Dec 31.</reference_text>
+      <pubmed_id>17200670</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun L, Huang L, Nguyen P, Bisht KS, Bar-Sela G, Ho AS, Bradbury CM, Yu W, Cui H, Lee S, Trepel JB, Feinberg AP, Gius D: DNA methyltransferase 1 and 3B activate BAG-1 expression via recruitment of CTCFL/BORIS and modulation of promoter histone methylation. Cancer Res. 2008 Apr 15;68(8):2726-35.</reference_text>
+      <pubmed_id>18413740</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim SH, Park J, Choi MC, Park JH, Kim HP, Lee JH, Oh DY, Im SA, Bang YJ, Kim TY: DNA methyltransferase 3B acts as a co-repressor of the human polycomb protein hPc2 to repress fibroblast growth factor receptor 3 transcription. Int J Biochem Cell Biol. 2008;40(11):2462-71. Epub 2008 May 18.</reference_text>
+      <pubmed_id>18567530</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Okano M, Bell DW, Haber DA, Li E: DNA methyltransferases Dnmt3a and Dnmt3b are essential for de novo methylation and mammalian development. Cell. 1999 Oct 29;99(3):247-57.</reference_text>
+      <pubmed_id>10555141</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hansen RS, Wijmenga C, Luo P, Stanek AM, Canfield TK, Weemaes CM, Gartler SM: The DNMT3B DNA methyltransferase gene is mutated in the ICF immunodeficiency syndrome. Proc Natl Acad Sci U S A. 1999 Dec 7;96(25):14412-7.</reference_text>
+      <pubmed_id>10588719</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wijmenga C, Hansen RS, Gimelli G, Bjorck EJ, Davies EG, Valentine D, Belohradsky BH, van Dongen JJ, Smeets DF, van den Heuvel LP, Luyten JA, Strengman E, Weemaes C, Pearson PL: Genetic variation in ICF syndrome: evidence for genetic heterogeneity.  Hum Mutat. 2000 Dec;16(6):509-17.</reference_text>
+      <pubmed_id>11102980</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jiang YL, Rigolet M, Bourc'his D, Nigon F, Bokesoy I, Fryns JP, Hulten M, Jonveaux P, Maraschio P, Megarbane A, Moncla A, Viegas-Pequignot E: DNMT3B mutations and DNA methylation defect define two types of ICF syndrome. Hum Mutat. 2005 Jan;25(1):56-63.</reference_text>
+      <pubmed_id>15580563</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

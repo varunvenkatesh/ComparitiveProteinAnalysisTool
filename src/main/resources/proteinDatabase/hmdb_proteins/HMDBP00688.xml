@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:16 -0700</creation_date>
+  <update_date>2013-05-27 11:15:48 -0600</update_date>
+  <accession>HMDBP00688</accession>
+  <secondary_accessions>
+    <accession>5961</accession>
+    <accession>HMDBP03597</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>GCVT</synonym>
+    <synonym>Glycine cleavage system T protein</synonym>
+  </synonyms>
+  <gene_name>AMT</gene_name>
+  <general_function>Involved in aminomethyltransferase activity</general_function>
+  <specific_function>The glycine cleavage system catalyzes the degradation of glycine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycine, serine and threonine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00260</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>One carbon pool by folate</name>
+      <smpdb_id/>
+      <kegg_map_id>map00670</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01846</accession>
+      <name>Tetrahydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01562</accession>
+      <name>N5-Formyl-THF</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01354</accession>
+      <name>5,10-Methenyltetrahydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01533</accession>
+      <name>5,10-Methylene-THF</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00123</accession>
+      <name>Glycine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>aminomethyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>serine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycine catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>aminomethyltransferase activity</description>
+      <go_id>GO:0004047</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transaminase activity</description>
+      <go_id>GO:0008483</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycine catabolic process</description>
+      <go_id>GO:0006546</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3p21.2-p21.1</locus>
+    <gene_sequence>&gt;1212 bp
+ATGCAGAGGGCTGTAAGTGTGGTGGCCCGTCTGGGCTTTCGCCTGCAGGCATTCCCCCCG
+GCCTTGTGTCGTCCACTTAGTTGCGCACAGGAGGTGCTCCGCAGGACACCGCTCTATGAC
+TTCCACCTGGCCCACGGCGGGAAAATGGTGGCGTTTGCGGGTTGGAGTCTGCCAGTGCAG
+TACCGGGACAGTCACACTGACTCGCACCTGCACACACGCCAGCACTGCTCGCTCTTTGAC
+GTGTCTCATATGCTGCAGACCAAGATACTTGGTAGTGACCGGGTGAAGCTGATGGAGAGT
+CTAGTGGTTGGAGACATTGCAGAGCTAAGACCAAACCAGGGGACACTGTCGCTGTTTACC
+AACGAGGCTGGAGGCATCTTAGATGACTTGATTGTAACCAATACTTCTGAGGGCCACCTG
+TATGTGGTGTCCAACGCTGGCTGCTGGGAGAAAGATTTGGCCCTCATGCAGGACAAGGTC
+AGGGAGCTTCAGAACCAGGGCAGAGATGTGGGCCTGGAGGTGTTGGATAATGCCCTGCTA
+GCTCTGCAAGGCCCCACTGCAGCCCAGGTACTACAGGCCGGCGTGGCAGATGACCTGAGG
+AAACTGCCCTTCATGACCAGTGCTGTGATGGAGGTGTTTGGCGTGTCTGGCTGCCGCGTG
+ACCCGCTGTGGCTACACAGGAGAGGATGGTGTGGAGATCTCGGTGCCGGTAGCGGGGGCA
+GTTCACCTGGCAACAGCTATTCTGAAAAACCCAGAGGTGAAGCTGGCAGGGCTGGCAGCC
+AGGGACAGCCTGCGCCTGGAGGCAGGCCTCTGCCTGTATGGGAATGACATTGATGAACAC
+ACTACACCTGTGGAGGGCAGCCTCAGTTGGACACTGGGGAAGCGCCGCCGAGCTGCTATG
+GACTTCCCTGGAGCCAAGGTCATTGTTCCCCAGCTGAAGGGCAGGGTGCAGCGGAGGCGT
+GTGGGGTTGATGTGTGAGGGGGCCCCCATGCGGGCACACAGTCCCATCCTGAACATGGAG
+GGTACCAAGATTGGTACTGTGACTAGTGGCTGCCCCTCCCCCTCTCTGAAGAAGAATGTG
+GCGATGGGTTATGTGCCCTGCGAGTACAGTCGTCCAGGGACAATGCTGCTGGTAGAGGTG
+CGGCGGAAGCAGCAGATGGCTGTAGTCAGCAAGATGCCCTTTGTGCCCACAAACTACTAT
+ACCCTCAAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>403</residue_number>
+    <molecular_weight>43945.65</molecular_weight>
+    <theoretical_pi>8.566</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GCV_T</name>
+        <pfam_id>PF01571</pfam_id>
+      </pfam>
+      <pfam>
+        <name>GCV_T_C</name>
+        <pfam_id>PF08669</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Aminomethyltransferase, mitochondrial
+MQRAVSVVARLGFRLQAFPPALCRPLSCAQEVLRRTPLYDFHLAHGGKMVAFAGWSLPVQ
+YRDSHTDSHLHTRQHCSLFDVSHMLQTKILGSDRVKLMESLVVGDIAELRPNQGTLSLFT
+NEAGGILDDLIVTNTSEGHLYVVSNAGCWEKDLALMQDKVRELQNQGRDVGLEVLDNALL
+ALQGPTAAQVLQAGVADDLRKLPFMTSAVMEVFGVSGCRVTRCGYTGEDGVEISVPVAGA
+VHLATAILKNPEVKLAGLAARDSLRLEAGLCLYGNDIDEHTTPVEGSLSWTLGKRRRAAM
+DFPGAKVIVPQLKGRVQRRRVGLMCEGAPMRAHSPILNMEGTKIGTVTSGCPSPSLKKNV
+AMGYVPCEYSRPGTMLLVEVRRKQQMAVVSKMPFVPTNYYTLK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>158254632</genbank_protein_id>
+  <uniprot_id>P48728</uniprot_id>
+  <uniprot_name>GCST_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1WSR</pdb_id>
+    <pdb_id>1WSV</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AK290600</genbank_gene_id>
+  <genecard_id>AMT</genecard_id>
+  <geneatlas_id>AMT</geneatlas_id>
+  <hgnc_id>HGNC:473</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hayasaka K, Nanao K, Takada G, Okamura-Ikeda K, Motokawa Y: Isolation and sequence determination of cDNA encoding human T-protein of the glycine cleavage system. Biochem Biophys Res Commun. 1993 Apr 30;192(2):766-71.</reference_text>
+      <pubmed_id>7916605</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nanao K, Takada G, Takahashi E, Seki N, Komatsu Y, Okamura-Ikeda K, Motokawa Y, Hayasaka K: Structure and chromosomal localization of the aminomethyltransferase gene (AMT) Genomics. 1994 Jan 1;19(1):27-30.</reference_text>
+      <pubmed_id>8188235</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nanao K, Okamura-Ikeda K, Motokawa Y, Danks DM, Baumgartner ER, Takada G, Hayasaka K: Identification of the mutations in the T-protein gene causing typical and atypical nonketotic hyperglycinemia. Hum Genet. 1994 Jun;93(6):655-8.</reference_text>
+      <pubmed_id>8005589</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kure S, Mandel H, Rolland MO, Sakata Y, Shinka T, Drugan A, Boneh A, Tada K, Matsubara Y, Narisawa K: A missense mutation (His42Arg) in the T-protein gene from a large Israeli-Arab kindred with nonketotic hyperglycinemia. Hum Genet. 1998 Apr;102(4):430-4.</reference_text>
+      <pubmed_id>9600239</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kure S, Shinka T, Sakata Y, Osamu N, Takayanagi M, Tada K, Matsubara Y, Narisawa K: A one-base deletion (183delC) and a missense mutation (D276H) in the T-protein gene from a Japanese family with nonketotic hyperglycinemia. J Hum Genet. 1998;43(2):135-7.</reference_text>
+      <pubmed_id>9621520</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Toone JR, Applegarth DA, Coulter-Mackie MB, James ER: Biochemical and molecular investigations of patients with nonketotic hyperglycinemia. Mol Genet Metab. 2000 Jun;70(2):116-21.</reference_text>
+      <pubmed_id>10873393</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Toone JR, Applegarth DA, Coulter-Mackie MB, James ER: Recurrent mutations in P- and T-proteins of the glycine cleavage complex and a novel T-protein mutation (N145I): a strategy for the molecular investigation of patients with nonketotic hyperglycinemia (NKH). Mol Genet Metab. 2001 Apr;72(4):322-5.</reference_text>
+      <pubmed_id>11286506</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

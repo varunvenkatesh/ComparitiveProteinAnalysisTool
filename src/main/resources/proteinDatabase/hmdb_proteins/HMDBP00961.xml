@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:35 -0700</creation_date>
+  <update_date>2013-05-27 11:11:30 -0600</update_date>
+  <accession>HMDBP00961</accession>
+  <secondary_accessions>
+    <accession>6249</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>DNA polymerase II subunit A</synonym>
+  </synonyms>
+  <gene_name>POLE</gene_name>
+  <general_function>Involved in nucleotide binding</general_function>
+  <specific_function>Participates in DNA repair and in chromosomal DNA replication.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Nucleotide Excision Repair</name>
+      <smpdb_id>SMP00478</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>DNA replication</name>
+      <smpdb_id/>
+      <kegg_map_id>map03030</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Base excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03410</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Nucleotide excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03420</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HTLV-I infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05166</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00998</accession>
+      <name>dCTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01342</accession>
+      <name>Thymidine 5'-triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01440</accession>
+      <name>dGTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01532</accession>
+      <name>Deoxyadenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14387</accession>
+      <name>Cladribine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna-directed dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>epsilon DNA polymerase complex</description>
+      <go_id>GO:0008622</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>4 iron, 4 sulfur cluster binding</description>
+      <go_id>GO:0051539</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chromatin binding</description>
+      <go_id>GO:0003682</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed DNA polymerase activity</description>
+      <go_id>GO:0003887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>base-excision repair, gap-filling</description>
+      <go_id>GO:0006287</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication initiation</description>
+      <go_id>GO:0006270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA synthesis involved in DNA repair</description>
+      <go_id>GO:0000731</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>G1/S transition of mitotic cell cycle</description>
+      <go_id>GO:0000082</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>M/G1 transition of mitotic cell cycle</description>
+      <go_id>GO:0000216</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA gap filling</description>
+      <go_id>GO:0006297</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>S phase of mitotic cell cycle</description>
+      <go_id>GO:0000084</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via recombination</description>
+      <go_id>GO:0000722</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via semi-conservative replication</description>
+      <go_id>GO:0032201</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription-coupled nucleotide-excision repair</description>
+      <go_id>GO:0006283</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q24.3</locus>
+    <gene_sequence>&gt;6861 bp
+ATGTCTCTGAGGAGCGGCGGGCGGCGGCGCGCGGACCCAGGCGCGGATGGCGAGGCCAGC
+AGGGATGATGGCGCCACTTCCTCAGTTTCGGCACTCAAGCGCCTGGAACGGAGTCAGTGG
+ACGGATAAGATGGATTTGCGGTTTGGTTTTGAGCGGCTGAAGGAGCCTGGTGAGAAGACA
+GGCTGGCTCATTAACATGCATCCTACCGAGATTTTAGATGAAGATAAGCGCTTAGGCAGT
+GCAGTGGATTACTACTTTATTCAAGATGACGGAAGCAGATTTAAGGTGGCTTTGCCCTAT
+AAACCGTATTTCTACATTGCGACCAGAAAGGGTTGTGAGCGAGAAGTTTCATCTTTTCTC
+TCCAAGAAGTTTCAGGGCAAAATTGCAAAAGTGGAGACTGTCCCCAAAGAGGATCTGGAC
+TTGCCAAATCACTTGGTGGGTTTGAAGCGAAATTACATCAGGCTGTCCTTCCACACTGTG
+GAGGATCTTGTCAAAGTGAGGAAGGAGATCTCCCCTGCCGTGAAGAAGAACAGGGAGCAG
+GATCACGCCAGCGACGCGTACACAGCTCTGCTTTCCAGTGTTCTGCAGAGGGGCGGTGTC
+ATTACTGATGAAGAGGAAACCTCTAAGAAGATAGCTGACCAGTTGGACAACATTGTGGAC
+ATGCGCGAGTACGATGTTCCCTACCACATCCGCCTCTCCATTGACCTGAAGATCCACGTG
+GCTCATTGGTACAATGTCAGATACCGAGGAAATGCTTTTCCGGTAGAAATCACCCGCCGA
+GATGACCTTGTTGAACGACCTGACCCTGTGGTTTTGGCATTTGACATTGAGACGACCAAA
+CTGCCCCTCAAGTTTCCTGATGCTGAGACAGACCAGATTATGATGATTTCCTACATGATC
+GATGGCCAGGGCTACCTCATCACCAACAGGGAGATTGTTTCAGAAGATATTGAAGATTTT
+GAGTTCACCCCCAAGCCAGAATATGAAGGCCCCTTTTGTGTCTTCAATGAACCCGATGAG
+GCTCATCTGATCCAAAGGTGGTTTGAACACGTCCAGGAGACCAAACCCACCATCATGGTC
+ACCTACAACGGGGACTTTTTTGACTGGCCATTTGTGGAGGCCCGGGCAGCAGTCCACGGT
+CTGAGCATGCAGCAGGAGATAGGCTTCCAGAAGGACAGCCAGGGGGAGTACAAGGCGCCC
+CAGTGCATCCACATGGACTGCCTCAGGTGGGTGAAGAGGGACAGTTACCTTCCTGTGGGC
+AGTCATAATCTCAAGGCGGCCGCCAAGGCCAAGCTAGGCTATGATCCCGTGGAGCTAGAC
+CCGGAGGACATGTGCCGGATGGCCACGGAGCAGCCCCAGACTCTGGCCACGTATTCTGTG
+TCAGATGCTGTCGCCACTTACTACCTGTACATGAAGTACGTCCACCCATTCATCTTTGCT
+CTGTGCACCATTATTCCCATGGAGCCCGACGAGGTGCTGCGGAAGGGCTCTGGCACTCTG
+TGTGAGGCCTTGCTGATGGTGCAGGCCTTCCACGCCAACATCATCTTCCCCAACAAGCAA
+GAGCAGGAGTTCAATAAGCTGACGGACGACGGACACGTGCTGGACTCTGAGACCTACGTC
+GGGGGCCACGTGGAGGCCCTCGAGTCTGGGGTTTTCCGCAGCGATATCCCTTGCCGGTTT
+AGGATGAATCCTGCCGCCTTTGACTTCCTGCTGCAGCGGGTTGAGAAGACCTTGCGCCAC
+GCCCTTGAGGAAGAGGAGAAAGTGCCTGTGGAGCAAGTCACCAACTTTGAAGAGGTGTGT
+GATGAGATTAAGAGCAAGCTTGCCTCCCTGAAGGACGTTCCCAGCCGCATCGAGTGTCCA
+CTCATCTACCACCTGGACGTGGGGGCCATGTACCCCAACATCATCCTGACCAACCGCCTG
+CAGCCCTCTGCCATGGTGGACGAAGCCACCTGTGCTGCCTGTGACTTCAATAAGCCTGGA
+GCAAACTGCCAGCGGAAGATGGCCTGGCAGTGGAGGGGCGAGTTCATGCCAGCCAGTCGC
+AGCGAATACCATCGGATCCAGCACCAGCTGGAGTCAGAGAAGTTCCCCCCCTTGTTCCCA
+GAGGGGCCAGCTCGGGCCTTTCATGAACTGTCCCGCGAGGAACAGGCGAAATACGAGAAG
+AGAAGGCTGGCGGATTACTGCCGGAAAGCCTACAAGAAGATCCACATCACCAAGGTGGAA
+GAGCGTCTCACCACCATCTGCCAGCGGGAAAACTCCTTCTACGTGGACACCGTGCGTGCC
+TTCCGGGACAGGCGTTACGAGTTCAAAGGGCTCCACAAGGTGTGGAAAAAGAAGCTCTCG
+GCGGCCGTGGAGGTGGGCGACGCGGCTGAGGTGAAGCGCTGCAAGAACATGGAGGTGCTG
+TATGACTCGCTGCAGCTGGCCCACAAGTGCATCCTGAACTCCTTCTATGGCTATGTCATG
+CGCAAGGGGGCTCGCTGGTACTCCATGGAGATGGCTGGCATCGTCTGCTTCACAGGGGCC
+AACATCATCACCCAGGCACGGGAGCTGATCGAGCAGATTGGGAGGCCCTTAGAGCTGGAC
+ACAGATGGTATATGGTGCGTCCTGCCCAACAGCTTCCCAGAAAATTTTGTCTTCAAGACG
+ACCAATGTGAAGAAGCCCAAAGTGACCATCTCCTACCCAGGCGCCATGTTGAACATCATG
+GTCAAGGAAGGCTTCACCAATGACCAGTACCAGGAGCTGGCTGAGCCGTCCTCACTCACC
+TACGTCACCCGCTCAGAGAACAGCATCTTTTTTGAGGTTGATGGGCCCTACCTTGCCATG
+ATTCTTCCAGCCTCCAAGGAAGAAGGCAAGAAATTGAAGAAGAGGTATGCTGTGTTCAAT
+GAAGACGGTTCTCTGGCTGAGCTCAAGGGCTTTGAGGTCAAACGCCGCGGGGAACTGCAG
+CTGATTAAGATCTTCCAATCCTCGGTGTTTGAGGCCTTCCTCAAGGGCAGCACGCTGGAA
+GAGGTGTATGGCTCTGTAGCCAAGGTGGCTGACTACTGGCTGGACGTGCTGTACAGCAAG
+GCAGCCAACATGCCTGACTCTGAGCTATTCGAGCTCATCTCTGAGAACCGTTCCATGTCT
+CGGAAGCTGGAAGATTACGGGGAGCAGAAGTCTACGTCCATCAGCACAGCAAAGCGCCTG
+GCCGAGTTCCTGGGAGACCAGATGGTCAAGGATGCAGGGCTGAGTTGCCGCTACATCATC
+TCCCGCAAGCCCGAGGGCTCCCCTGTCACGGAGAGGGCCATCCCACTTGCCATTTTCCAA
+GCAGAGCCCACGGTGAGGAAGCACTTTCTCCGGAAATGGCTCAAGAGCTCTTCCCTTCAA
+GACTTTGATATTCGAGCAATTCTGGATTGGGACTACTACATTGAGCGGCTGGGAAGCGCC
+ATCCAGAAGATCATCACCATCCCTGCGGCCCTGCAGCAGGTAAAGAACCCAGTGCCACGT
+GTCAAACACCCCGACTGGCTGCACAAAAAACTGCTGGAGAAGAATGATGTCTACAAGCAG
+AAGAAGATCAGTGAGCTCTTCACCCTGGAGGGCAGGAGACAGGTCACGATGGCCGAGGCC
+TCAGAAGACAGTCCGAGGCCAAGTGCTCCTGACATGGAGGACTTCGGCCTCGTAAAGCTG
+CCTCACCCAGCAGCCCCTGTCACTGTGAAGAGGAAGCGAGTTCTTTGGGAGAGCCAGGAG
+GAGTCCCAGGACCTCACGCCGACTGTGCCCTGGCAGGAAATCTTGGGGCAGCCTCCCGCC
+CTGGGAACCAGCCAGGAGGAATGGCTTGTCTGGCTCCGGTTCCACAAGAAGAAGTGGCAG
+CTGCAGGCCCGGCAGCGCCTCGCCCGCAGGAAGAGGCAGCGTCTGGAGTCGGCAGAGGGT
+GTGCTCAGGCCCGGGGCCATCCGGGATGGTCCTGCCACGGGGCTGGGGAGCTTCTTGCGA
+AGAACTGCCCGCAGCATCCTGGACCTTCCGTGGCAGATTGTGCAGATCAGCGAGACCAGC
+CAGGCCGGCCTGTTCAGGCTGTGGGCGCTCGTTGGCAGTGACTTGCACTGCATCAGGCTG
+AGCATCCCCCGTGTGTTCTACGTGAACCAGCGAGTCGCTAAAGCGGAGGAGGGTGCTTCG
+TATCGCAAGGTAAATCGGGTCCTTCCTCGCTCCAACATGGTCTACAATCTCTATGAGTAT
+TCAGTGCCAGAGGACATGTACCAGGAACACATCAACGAGATCAACGCTGAGCTGTCAGCG
+CCAGACATCGAGGGCGTATATGAGACTCAGGTTCCGTTACTGTTCCGGGCCCTGGTGCAC
+CTGGGCTGTGTGTGTGTGGTCAATAAACAGCTGGTGAGGCACCTTTCAGGCTGGGAAGCA
+GAGACCTTTGCTCTTGAGCACCTGGAGATGCGCTCTCTGGCCCAGTTCAGCTACCTGGAA
+CCAGGGAGTATCCGCCATATCTACCTGTACCACCACGCACAGGCCCACAAAGCGCTCTTC
+GGGATCTTCATCCCCTCACAGCGCAGGGCATCCGTCTTTGTGCTGGACACTGTGCGCAGC
+AACCAGATGCCCAGCCTTGGCGCCCTGTACTCAGCAGAGCACGGCCTCCTCCTGGAGAAG
+GTGGGCCCTGAGCTCCTGCCACCCCCCAAACACACCTTCGAAGTTCGGGCAGAAACTGAC
+CTGAAGACCATCTGCAGAGCCATCCAGCGATTCCTGCTCGCCTACAAGGAGGAGCGCCGG
+GGGCCCACACTCATCGCTGTTCAGTCCAGCTGGGAGCTGAAGAGGCTGGCCAGTGAAATT
+CCTGTCTTGGAGGAATTCCCACTGGTGCCTATCTGTGTGGCTGACAAGATCAACTATGGG
+GTCCTGGACTGGCAGCGCCATGGAGCCCGGCGCATGATCCGTCACTACCTCAACCTGGAC
+ACCTGCCTGTCGCAGGCCTTCGAGATGAGCAGGTACTTTCACATTCCCATTGGGAACCTA
+CCAGAGGACATCTCCACATTCGGCTCCGACCTCTTCTTTGCCCGCCACCTCCAGCGCCAC
+AACCACCTGCTCTGGCTGTCCCCTACAGCCCGCCCTGACCTGGGTGGAAAGGAGGCTGAT
+GACAACTGTCTTGTCATGGAGTTCGATGACCAAGCCACTGTTGAGATCAACAGTTCAGGC
+TGTTACTCCACAGTGTGTGTGGAGCTGGACCTTCAGAACCTGGCCGTCAACACCATTCTC
+CAGTCTCACCATGTCAACGACATGGAGGGGGCCGACAGCATGGGGATCAGCTTCGACGTG
+ATCCAGCAGGCCTCCCTGGAGGACATGATCACGGGTGGTCAGGCTGCCAGTGCCCCGGCC
+AGCTACGATGAGACAGCCCTGTGCTCTAACACCTTCAGGATCCTGAAGAGCATGGTCGTG
+GGCTGGGTGAAGGAGATCACCCAGTACCACAACATCTATGCAGACAACCAGGTGATGCAC
+TTCTACCGCTGGCTTCGGTCGCCATCCTCTCTGCTTCATGACCCTGCCCTGCACCGCACA
+CTCCACAACATGATGAAGAAGCTCTTCCTGCAGCTCATCGCTGAGTTCAAGCGCCTGGGG
+TCATCAGTCATCTACGCCAACTTCAACCGCATCATCCTCTGTACAAAGAAGCGCCGTGTG
+GAAGATGCCATCGCTTACGTGGAGTACATCACCAGCAGCATCCATTCAAAGGAGACCTTC
+CATTCTCTGACAATTTCTTTCTCTCGATGCTGGGAATTTCTTCTCTGGATGGATCCATCT
+AACTATGGCGGAATCAAAGGAAAAGTTTCATCTCGTATTCACTGTGGACTGCAAGACTCC
+CAGAAAGCAGGGGGAGCAGAGGATGAGCAGGAAAATGAGGACGATGAGGAGGAAAGAGAT
+GGGGAGGAGGAGGAAGAGGCGGAGGAATCCAACGTGGAGGATTTACTGGAAAACAACTGG
+AACATTTTGCAGTTTTTGCCACAGGCAGCCTCCTGCCAGAACTACTTCCTCATGATTGTT
+TCAGCGTACATCGTGGCCGTGTACCACTGCATGAAGGACGGGCTGAGGCGCAGTGCTCCA
+GGGAGCACCCCCGTGAGGAGGAGGGGGGCCAGCCAGCTCTCCCAGGAGGCCGAGGGGGCG
+GTCGGAGCCCTTCCCGGAATGATCACCTTCTCTCAGGATTATGTCGCAAATGAGCTCACT
+CAGAGCTTCTTCACCATCACTCAGAAGATTCAGAAGAAAGTCACAGGCTCTCGGAACTCC
+ACTGAGCTCTCAGAGATGTTTCCTGTCCTCCCCGGTTCCCACTTGCTGCTCAATAACCCT
+GCCCTGGAGTTCATCAAATACGTGTGCAAGGTGCTGTCCCTGGACACCAACATCACAAAC
+CAGGTGAATAAGCTGAACCGAGACCTGCTTCGCCTGGTGGATGTCGGCGAGTTCTCCGAG
+GAGGCCCAGTTCCGAGACCCCTGCCGCTCCTACGTGCTTCCTGAGGTCATCTGCCGCAGC
+TGTAACTTCTGCCGCGACCTGGACCTGTGTAAAGACTCTTCCTTCTCAGAGGATGGGGCG
+GTCCTGCCTCAGTGGCTCTGCTCCAACTGTCAGGCGCCCTACGACTCCTCTGCCATCGAG
+ATGACGCTGGTGGAAGTTCTACAGAAGAAGCTGATGGCCTTCACCCTGCAGGACCTGGTC
+TGCCTGAAGTGCCGCGGGGTGAAGGAGACCAGCATGCCTGTGTACTGCAGCTGCGCGGGA
+GACTTCGCCCTCACCATCCACACCCAGGTCTTCATGGAACAGATCGGAATATTCCGGAAC
+ATTGCCCAGCACTACGGCATGTCGTACCTCCTGGAGACCCTGGAGTGGCTGCTGCAGAAG
+AACCCACAGCTGGGCCATTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2286</residue_number>
+    <molecular_weight>261515.525</molecular_weight>
+    <theoretical_pi>6.392</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DNA_pol_B</name>
+        <pfam_id>PF00136</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DNA_pol_B_exo</name>
+        <pfam_id>PF03104</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DUF1744</name>
+        <pfam_id>PF08490</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA polymerase epsilon catalytic subunit A
+MSLRSGGRRRADPGADGEASRDDGATSSVSALKRLERSQWTDKMDLRFGFERLKEPGEKT
+GWLINMHPTEILDEDKRLGSAVDYYFIQDDGSRFKVALPYKPYFYIATRKGCEREVSSFL
+SKKFQGKIAKVETVPKEDLDLPNHLVGLKRNYIRLSFHTVEDLVKVRKEISPAVKKNREQ
+DHASDAYTALLSSVLQRGGVITDEEETSKKIADQLDNIVDMREYDVPYHIRLSIDLKIHV
+AHWYNVRYRGNAFPVEITRRDDLVERPDPVVLAFDIETTKLPLKFPDAETDQIMMISYMI
+DGQGYLITNREIVSEDIEDFEFTPKPEYEGPFCVFNEPDEAHLIQRWFEHVQETKPTIMV
+TYNGDFFDWPFVEARAAVHGLSMQQEIGFQKDSQGEYKAPQCIHMDCLRWVKRDSYLPVG
+SHNLKAAAKAKLGYDPVELDPEDMCRMATEQPQTLATYSVSDAVATYYLYMKYVHPFIFA
+LCTIIPMEPDEVLRKGSGTLCEALLMVQAFHANIIFPNKQEQEFNKLTDDGHVLDSETYV
+GGHVEALESGVFRSDIPCRFRMNPAAFDFLLQRVEKTLRHALEEEEKVPVEQVTNFEEVC
+DEIKSKLASLKDVPSRIECPLIYHLDVGAMYPNIILTNRLQPSAMVDEATCAACDFNKPG
+ANCQRKMAWQWRGEFMPASRSEYHRIQHQLESEKFPPLFPEGPARAFHELSREEQAKYEK
+RRLADYCRKAYKKIHITKVEERLTTICQRENSFYVDTVRAFRDRRYEFKGLHKVWKKKLS
+AAVEVGDAAEVKRCKNMEVLYDSLQLAHKCILNSFYGYVMRKGARWYSMEMAGIVCFTGA
+NIITQARELIEQIGRPLELDTDGIWCVLPNSFPENFVFKTTNVKKPKVTISYPGAMLNIM
+VKEGFTNDQYQELAEPSSLTYVTRSENSIFFEVDGPYLAMILPASKEEGKKLKKRYAVFN
+EDGSLAELKGFEVKRRGELQLIKIFQSSVFEAFLKGSTLEEVYGSVAKVADYWLDVLYSK
+AANMPDSELFELISENRSMSRKLEDYGEQKSTSISTAKRLAEFLGDQMVKDAGLSCRYII
+SRKPEGSPVTERAIPLAIFQAEPTVRKHFLRKWLKSSSLQDFDIRAILDWDYYIERLGSA
+IQKIITIPAALQQVKNPVPRVKHPDWLHKKLLEKNDVYKQKKISELFTLEGRRQVTMAEA
+SEDSPRPSAPDMEDFGLVKLPHPAAPVTVKRKRVLWESQEESQDLTPTVPWQEILGQPPA
+LGTSQEEWLVWLRFHKKKWQLQARQRLARRKRQRLESAEGVLRPGAIRDGPATGLGSFLR
+RTARSILDLPWQIVQISETSQAGLFRLWALVGSDLHCIRLSIPRVFYVNQRVAKAEEGAS
+YRKVNRVLPRSNMVYNLYEYSVPEDMYQEHINEINAELSAPDIEGVYETQVPLLFRALVH
+LGCVCVVNKQLVRHLSGWEAETFALEHLEMRSLAQFSYLEPGSIRHIYLYHHAQAHKALF
+GIFIPSQRRASVFVLDTVRSNQMPSLGALYSAEHGLLLEKVGPELLPPPKHTFEVRAETD
+LKTICRAIQRFLLAYKEERRGPTLIAVQSSWELKRLASEIPVLEEFPLVPICVADKINYG
+VLDWQRHGARRMIRHYLNLDTCLSQAFEMSRYFHIPIGNLPEDISTFGSDLFFARHLQRH
+NHLLWLSPTARPDLGGKEADDNCLVMEFDDQATVEINSSGCYSTVCVELDLQNLAVNTIL
+QSHHVNDMEGADSMGISFDVIQQASLEDMITGGQAASAPASYDETALCSNTFRILKSMVV
+GWVKEITQYHNIYADNQVMHFYRWLRSPSSLLHDPALHRTLHNMMKKLFLQLIAEFKRLG
+SSVIYANFNRIILCTKKRRVEDAIAYVEYITSSIHSKETFHSLTISFSRCWEFLLWMDPS
+NYGGIKGKVSSRIHCGLQDSQKAGGAEDEQENEDDEEERDGEEEEEAEESNVEDLLENNW
+NILQFLPQAASCQNYFLMIVSAYIVAVYHCMKDGLRRSAPGSTPVRRRGASQLSQEAEGA
+VGALPGMITFSQDYVANELTQSFFTITQKIQKKVTGSRNSTELSEMFPVLPGSHLLLNNP
+ALEFIKYVCKVLSLDTNITNQVNKLNRDLLRLVDVGEFSEEAQFRDPCRSYVLPEVICRS
+CNFCRDLDLCKDSSFSEDGAVLPQWLCSNCQAPYDSSAIEMTLVEVLQKKLMAFTLQDLV
+CLKCRGVKETSMPVYCSCAGDFALTIHTQVFMEQIGIFRNIAQHYGMSYLLETLEWLLQK
+NPQLGH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62198237</genbank_protein_id>
+  <uniprot_id>Q07864</uniprot_id>
+  <uniprot_name>DPOE1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_006231.2</genbank_gene_id>
+  <genecard_id>POLE</genecard_id>
+  <geneatlas_id>POLE</geneatlas_id>
+  <hgnc_id>HGNC:9177</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kesti T, Frantti H, Syvaoja JE: Molecular cloning of the cDNA for the catalytic subunit of human DNA polymerase epsilon. J Biol Chem. 1993 May 15;268(14):10238-45.</reference_text>
+      <pubmed_id>8486689</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Makiniemi M, Hillukkala T, Tuusa J, Reini K, Vaara M, Huang D, Pospiech H, Majuri I, Westerling T, Makela TP, Syvaoja JE: BRCT domain-containing protein TopBP1 functions in DNA replication and damage response. J Biol Chem. 2001 Aug 10;276(32):30399-406. Epub 2001 Jun 6.</reference_text>
+      <pubmed_id>11395493</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Post SM, Tomkinson AE, Lee EY: The human checkpoint Rad protein Rad17 is chromatin-associated throughout the cell cycle, localizes to DNA replication sites, and interacts with DNA polymerase epsilon. Nucleic Acids Res. 2003 Oct 1;31(19):5568-75.</reference_text>
+      <pubmed_id>14500819</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

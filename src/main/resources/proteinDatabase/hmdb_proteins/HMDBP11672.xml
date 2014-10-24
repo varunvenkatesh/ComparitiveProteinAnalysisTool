@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:09:50 -0600</creation_date>
+  <update_date>2013-05-27 11:09:50 -0600</update_date>
+  <accession>HMDBP11672</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DEAD box protein 3, X-chromosomal</synonym>
+    <synonym>DEAD box, X isoform</synonym>
+    <synonym>Helicase-like protein 2</synonym>
+    <synonym>HLP2</synonym>
+  </synonyms>
+  <gene_name>DDX3X</gene_name>
+  <general_function/>
+  <specific_function>Multifunctional ATP-dependent RNA helicase. The ATPase activity can be stimulated by various ribo- and deoxynucleic acids indicative for a relaxed substrate specificity. In vitro can unwind partially double stranded DNA with a preference for 5'-single stranded DNA overhangs. Is involved in several steps of gene expression, such as transcription, mRNA maturation, mRNA export and translation. However, the exact mechanisms are not known and some functions may be specific for a subset of mRNAs. Involved in transcriptional regulation. Can enhance transcription from the CDKN1A/WAF1 promoter in a SP1-dependent manner. Found associated with the E-cadherin promoter and can down-regulate transcription from the promoter. Involved in regulation of translation initiation. Proposed to be involved in positive regulation of translation such as of cyclin E1/CCNE1 mRNA and specifically of mRNAs containing complex secondary structures in their 5'UTRs; these functions seem to require RNA helicase activity. Specifically promotes translation of a subset of viral and cellular mRNAs carrying a 5'proximal stem-loop structure in their 5'UTRs and cooperates with the eIF4F complex. Proposed to act prior to 43S ribosomal scanning and to locally destabilize these RNA structures to allow recognition of the mRNA cap or loading onto the 40S subunit. After association with 40S ribosomal subunits seems to be involved in the functional assembly of 80S ribosomes; the function seems to cover translation of mRNAs with structured and non-structured 5'UTRs and is independent of RNA helicase activity. Also proposed to inhibit cap-dependent translation by competetive interaction with EIF4E which can block the EIF4E:EIF4G complex formation. Proposed to be involved in stress response and stress granule assembly; the function is independent of RNA helicase activity and seems to involve association with EIF4E. May be involved in nuclear export of specific mRNAs but not in bulk mRNA export via interactions with XPO1 and NXF1. Also associates with polyadenylated mRNAs independently of NXF1. Associates with spliced mRNAs in an exon junction complex (EJC)-dependent manner and seems not to be directly involved in splicing. May be involved in nuclear mRNA export by association with DDX5 and regulating its nuclear location. Involved in innate immune signaling promoting the production of type I interferon (IFN-alpha and IFN-beta); proposed to act as viral RNA sensor, signaling intermediate and transcriptional coactivator. Involved in TBK1 and IKBKE-dependent IRF3 activation leading to IFN-beta induction. Also found associated with IFN-beta promoters; the function is independent of IRF3. Can bind to viral RNAs and via association with MAVS/IPS1 and DDX58/RIG-I is thought to induce signaling in early stages of infection. Involved in regulation of apoptosis. May be required for activation of the intrinsic but inhibit activation of the extrinsic apoptotic pathway. Acts as an antiapoptotic protein through association with GSK3A/B and BIRC2 in an apoptosis antagonizing signaling complex; activation of death receptors promotes caspase-dependent cleavage of BIRC2 and DDX3X and relieves the inhibition. May be involved in mitotic chromosome segregation. Appears to be a prime target for viral manipulations. Hepatitis B virus (HBV) polymerase and possibly vaccinia virus (VACV) protein K7 inhibit IFN-beta induction probably by dissociating DDX3X from TBK1 or IKBKE. Is involved in hepatitis C virus (HCV) replication; the function may involve the association with HCV core protein. HCV core protein inhibits the IPS1-dependent function in viral RNA sensing and may switch the function from a INF-beta inducing to a HCV replication mode. Involved in HIV-1 replication. Acts as a cofactor for XPO1-mediated nuclear export of incompletely spliced HIV-1 Rev RNAs.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RIG-I-like receptor signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04622</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hepatitis B</name>
+      <smpdb_id/>
+      <kegg_map_id>map05161</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Viral carcinogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05203</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mRNA 5'-UTR binding</description>
+      <go_id>GO:0048027</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial outer membrane</description>
+      <go_id>GO:0005741</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cell growth</description>
+      <go_id>GO:0030307</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of apoptotic process</description>
+      <go_id>GO:0043065</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell growth</description>
+      <go_id>GO:0030308</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent DNA helicase activity</description>
+      <go_id>GO:0004003</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to virus</description>
+      <go_id>GO:0009615</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to arsenic-containing substance</description>
+      <go_id>GO:0071243</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent RNA helicase activity</description>
+      <go_id>GO:0004004</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasmic stress granule</description>
+      <go_id>GO:0010494</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>poly(A) RNA binding</description>
+      <go_id>GO:0008143</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear speck</description>
+      <go_id>GO:0016607</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>eukaryotic initiation factor 4E binding</description>
+      <go_id>GO:0008190</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ribosomal small subunit binding</description>
+      <go_id>GO:0043024</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA stem-loop binding</description>
+      <go_id>GO:0035613</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription factor binding</description>
+      <go_id>GO:0008134</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to osmotic stress</description>
+      <go_id>GO:0071470</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chromosome segregation</description>
+      <go_id>GO:0007059</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>extrinsic apoptotic signaling pathway via death domain receptors</description>
+      <go_id>GO:0008625</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intracellular protein kinase cascade</description>
+      <go_id>GO:0007243</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intrinsic apoptotic signaling pathway</description>
+      <go_id>GO:0097193</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mature ribosome assembly</description>
+      <go_id>GO:0042256</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+      <go_id>GO:0043154</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of intrinsic apoptotic signaling pathway</description>
+      <go_id>GO:2001243</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of protein complex assembly</description>
+      <go_id>GO:0031333</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of translation</description>
+      <go_id>GO:0017148</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of chemokine (C-C motif) ligand 5 production</description>
+      <go_id>GO:0071651</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+      <go_id>GO:0043280</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of G1/S transition of mitotic cell cycle</description>
+      <go_id>GO:1900087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of interferon-beta production</description>
+      <go_id>GO:0032728</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of translational initiation</description>
+      <go_id>GO:0045948</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>RNA secondary structure unwinding</description>
+      <go_id>GO:0010501</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>stress granule assembly</description>
+      <go_id>GO:0034063</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xp11.3-p11.23</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>71354.575</molecular_weight>
+    <theoretical_pi>6.618</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|301171475|ref|NP_001180346.1| ATP-dependent RNA helicase DDX3X isoform 3 [Homo sapiens]
+MSHVAVENALGLDQQFAGLDLNSSDNQSGGSTASSFYDKDSSGWSSSKDKDAYSSFGSRS
+DSRGKSSFFS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O00571</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2I4I</pdb_id>
+    <pdb_id>2JGN</pdb_id>
+    <pdb_id>3JRV</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:2745</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

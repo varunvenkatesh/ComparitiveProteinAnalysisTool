@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:53 -0700</creation_date>
+  <update_date>2013-05-27 11:03:59 -0600</update_date>
+  <accession>HMDBP01721</accession>
+  <secondary_accessions>
+    <accession>7065</accession>
+    <accession>HMDBP09946</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>72 kDa ICln-binding protein</synonym>
+    <synonym>Histone-arginine N-methyltransferase PRMT5</synonym>
+    <synonym>Jak-binding protein 1</synonym>
+    <synonym>SKB1 homolog</synonym>
+    <synonym>SKB1Hs</synonym>
+    <synonym>Shk1 kinase-binding protein 1 homolog</synonym>
+    <synonym>SubName: Putative uncharacterized protein PRMT5</synonym>
+    <synonym>SubName: cDNA FLJ90770 fis, clone THYRO1000866, highly similar to Protein arginine N-methyltransferase 5 (EC 2.1.1.-)</synonym>
+  </synonyms>
+  <gene_name>PRMT5</gene_name>
+  <general_function>Involved in histone-arginine N-methyltransferase activity</general_function>
+  <specific_function>Arginine methyltransferase that can both catalyze the formation of omega-N monomethylarginine (MMA) and symmetrical dimethylarginine (sDMA), with a preference for the formation of MMA. Specifically mediates the symmetrical dimethylation of arginine residues in the small nuclear ribonucleoproteins Sm D1 (SNRPD1) and Sm D3 (SNRPD3); such methylation being required for the assembly and biogenesis of snRNP core particles. Methylates SUPT5H. Mono- and dimethylates arginine residues of myelin basic protein (MBP) in vitro. Plays a role in the assembly of snRNP core particles. May play a role in cytokine-activated transduction pathways. Negatively regulates cyclin E1 promoter activity and cellular proliferation. May regulate the SUPT5H transcriptional elongation properties. May be part of a pathway that is connected to a chloride current, possibly through cytoskeletal rearrangement. Methylates histone H2A and H4 'Arg-3' during germ cell development. Methylates histone H3 'Arg-8', which may repress transcription. Methylates the Piwi proteins (PIWIL1, PIWIL2 and PIWIL4), methylation of Piwi proteins being required for the interaction with Tudor domain-containing proteins and subsequent localization to the meiotic nuage. Methylates RPS10. Attenuates EGF signaling through the MAPK1/MAPK3 pathway acting at 2 levels. First, monomethylates EGFR; this enhances EGFR 'Tyr-1197' phosphorylation and PTPN6 recruitment, eventually leading to reduced SOS1 phosphorylation. Second, methylates RAF1 and probably BRAF, hence destabilizing these 2 signaling proteins and reducing their catalytic activity. Required for induction of E-selectin and VCAM-1, on the endothelial cells surface at sites of inflammation. Methylates HOXA9. Methylates and regulates SRGAP2 which is involved in cell migration and differentiation.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RNA transport</name>
+      <smpdb_id/>
+      <kegg_map_id>map03013</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06316</accession>
+      <name>Cob(II)alamin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>protein complex</description>
+      <go_id>GO:0043234</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chromatin binding</description>
+      <go_id>GO:0003682</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone-arginine N-methyltransferase activity</description>
+      <go_id>GO:0008469</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein-arginine omega-N symmetric methyltransferase activity</description>
+      <go_id>GO:0035243</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ribonucleoprotein complex binding</description>
+      <go_id>GO:0043021</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>endothelial cell activation</description>
+      <go_id>GO:0042118</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H4-R3 methylation</description>
+      <go_id>GO:0043985</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ncRNA metabolic process</description>
+      <go_id>GO:0034660</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of mitosis</description>
+      <go_id>GO:0007088</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spliceosomal snRNP assembly</description>
+      <go_id>GO:0000387</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>14</chromosome_location>
+    <locus>14q11.2</locus>
+    <gene_sequence>&gt;1914 bp
+ATGGCGGCGATGGCGGTCGGGGGTGCTGGTGGGAGCCGCGTGTCCAGCGGGAGGGACCTG
+AATTGCGTCCCCGAAATAGCTGACACACTAGGGGCTGTGGCCAAGCAGGGGTTTGATTTC
+CTCTGCATGCCTGTCTTCCATCCGCGTTTCAAGAGGGAGTTCATTCAGGAACCTGCTAAG
+AATCGGCCCGGTCCCCAGACACGATCAGACCTACTGCTGTCAGGAAGGGACTGGAATACG
+CTAATTGTGGGAAAGCTTTCTCCATGGATTCGTCCAGACTCAAAAGTGGAGAAGATTCGC
+AGGAACTCCGAGGCGGCCATGTTACAGGAGCTGAATTTTGGTGCATATTTGGGTCTTCCA
+GCTTTCCTGCTGCCCCTTAATCAGGAAGATAACACCAACCTGGCCAGAGTTTTGACCAAC
+CACATCCACACTGGCCATCACTCTTCCATGTTCTGGATGCGGGTACCCTTGGTGGCACCA
+GAGGACCTGAGAGATGATATAATTGAGAATGCACCAACTACACACACAGAGGAGTACAGT
+GGGGAGGAGAAAACGTGGATGTGGTGGCACAACTTCCGGACTTTGTGTGACTATAGTAAG
+AGGATTGCAGTGGCTCTTGAAATTGGGGCTGACCTCCCATCTAATCATGTCATTGATCGC
+TGGCTTGGGGAGCCCATCAAAGCAGCCATTCTCCCCACTAGCATTTTCCTGACCAATAAG
+AAGGGATTTCCTGTTCTTTCTAAGATGCACCAGAGGCTCATCTTCCGGCTCCTCAAGTTG
+GAGGTGCAGTTCATCATCACAGGCACCAACCACCACTCAGAGAAGGAGTTCTGCTCCTAC
+CTCCAATACCTGGAATACTTAAGCCAGAACCGTCCTCCACCTAATGCCTATGAACTCTTT
+GCCAAGGGCTATGAAGACTATCTGCAGTCCCCGCTTCAGCCACTGATGGACAATCTGGAA
+TCTCAGACATATGAAGTGTTTGAAAAGGACCCCATCAAATACTCTCAGTACCAGCAGGCC
+ATCTATAAATGTCTGCTAGACCGAGTACCAGAAGAGGAGAAGGATACCAATGTCCAGGTA
+CTGATGGTGCTGGGAGCAGGACGGGGACCCCTGGTGAACGCTTCCCTGCGGGCAGCCAAG
+CAGGCCGACCGGCGGATAAAGCTGTATGCTGTGGAGAAAAACCCAAATGCCGTGGTGACG
+CTAGAGAACTGGCAGTTTGAAGAATGGGGAAGCCAAGTGACCGTAGTCTCATCAGACATG
+AGGGAATGGGTGGCTCCAGAGAAAGCAGACATCATTGTCAGTGAGCTTCTGGGCTCATTT
+GCTGACAATGAATTGTCGCCTGAGTGCCTGGATGGAGCCCAGCACTTCCTAAAAGATGAT
+GGTGTGAGCATCCCCGGGGAGTACACTTCCTTTCTGGCTCCCATCTCTTCCTCCAAGCTG
+TACAATGAGGTCCGAGCCTGTAGGGAGAAGGACCGTGACCCTGAGGCCCAGTTTGAGATG
+CCTTATGTGGTACGGCTGCACAACTTCCACCAGCTCTCTGCACCCCAGCCCTGTTTCACC
+TTCAGCCATCCCAACAGAGATCCTATGATTGACAACAACCGCTATTGCACCTTGGAATTT
+CCTGTGGAGGTGAACACAGTACTACATGGCTTTGCCGGCTACTTTGAGACTGTGCTTTAT
+CAGGACATCACTCTGAGTATCCGTCCAGAGACTCACTCTCCCGGGATGTTCTCATGGTTT
+CCCATCCTCTTCCCTATTAAGCAGCCCATAACGGTACGTGAAGGCCAAACCATCTGTGTG
+CGTTTCTGGCGATGCAGCAATTCCAAGAAGGTGTGGTATGAGTGGGCTGTGACAGCACCA
+GTCTGTTCTGCTATTCATAACCCCACAGGCCGCTCATATACCATTGGCCTCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>637</residue_number>
+    <molecular_weight>71319.755</molecular_weight>
+    <theoretical_pi>6.454</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PRMT5</name>
+        <pfam_id>PF05185</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Protein arginine N-methyltransferase 5
+MAAMAVGGAGGSRVSSGRDLNCVPEIADTLGAVAKQGFDFLCMPVFHPRFKREFIQEPAK
+NRPGPQTRSDLLLSGRDWNTLIVGKLSPWIRPDSKVEKIRRNSEAAMLQELNFGAYLGLP
+AFLLPLNQEDNTNLARVLTNHIHTGHHSSMFWMRVPLVAPEDLRDDIIENAPTTHTEEYS
+GEEKTWMWWHNFRTLCDYSKRIAVALEIGADLPSNHVIDRWLGEPIKAAILPTSIFLTNK
+KGFPVLSKMHQRLIFRLLKLEVQFIITGTNHHSEKEFCSYLQYLEYLSQNRPPPNAYELF
+AKGYEDYLQSPLQPLMDNLESQTYEVFEKDPIKYSQYQQAIYKCLLDRVPEEEKDTNVQV
+LMVLGAGRGPLVNASLRAAKQADRRIKLYAVEKNPNAVVTLENWQFEEWGSQVTVVSSDM
+REWVAPEKADIIVSELLGSFADNELSPECLDGAQHFLKDDGVSIPGEYTSFLAPISSSKL
+YNEVRACREKDRDPEAQFEMPYVVRLHNFHQLSAPQPCFTFSHPNRDPMIDNNRYCTLEF
+PVEVNTVLHGFAGYFETVLYQDITLSIRPETHSPGMFSWFPILFPIKQPITVREGQTICV
+RFWRCSNSKKVWYEWAVTAPVCSAIHNPTGRSYTIGL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>197692193</genbank_protein_id>
+  <uniprot_id>O14744</uniprot_id>
+  <uniprot_name>ANM5_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>4GQB</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB451246</genbank_gene_id>
+  <genecard_id>PRMT5</genecard_id>
+  <geneatlas_id>PRMT5</geneatlas_id>
+  <hgnc_id>HGNC:10894</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Krapivinsky G, Pu W, Wickman K, Krapivinsky L, Clapham DE: pICln binds to a mammalian homolog of a yeast protein involved in regulation of cell morphology. J Biol Chem. 1998 May 1;273(18):10811-4.</reference_text>
+      <pubmed_id>9556550</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gilbreth M, Yang P, Bartholomeusz G, Pimental RA, Kansra S, Gadiraju R, Marcus S: Negative regulation of mitosis in fission yeast by the shk1 interacting protein skb1 and its human homolog, Skb1Hs. Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14781-6.</reference_text>
+      <pubmed_id>9843966</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pollack BP, Kotenko SV, He W, Izotova LS, Barnoski BL, Pestka S: The human homologue of the yeast proteins Skb1 and Hsl7p interacts with Jak kinases and contains protein methyltransferase activity. J Biol Chem. 1999 Oct 29;274(44):31531-42.</reference_text>
+      <pubmed_id>10531356</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goshima N, Kawamura Y, Fukumoto A, Miura A, Honma R, Satoh R, Wakamatsu A, Yamamoto J, Kimura K, Nishikawa T, Andoh T, Iida Y, Ishikawa K, Ito E, Kagawa N, Kaminaga C, Kanehori K, Kawakami B, Kenmochi K, Kimura R, Kobayashi M, Kuroita T, Kuwayama H, Maruyama Y, Matsuo K, Minami K, Mitsubori M, Mori M, Morishita R, Murase A, Nishikawa A, Nishikawa S, Okamoto T, Sakagami N, Sakamoto Y, Sasaki Y, Seki T, Sono S, Sugiyama A, Sumiya T, Takayama T, Takayama Y, Takeda H, Togashi T, Yahata K, Yamada H, Yanagisawa Y, Endo Y, Imamoto F, Kisu Y, Tanaka S, Isogai T, Imai J, Watanabe S, Nomura N: Human protein factory for converting the transcriptome into an in vitro-expressed proteome,. Nat Methods. 2008 Dec;5(12):1011-7.</reference_text>
+      <pubmed_id>19054851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Azzouz TN, Pillai RS, Dapp C, Chari A, Meister G, Kambach C, Fischer U, Schumperli D: Toward an assembly line for U7 snRNPs: interactions of U7-specific Lsm proteins with PRMT5 and SMN complexes. J Biol Chem. 2005 Oct 14;280(41):34435-40. Epub 2005 Aug 8.</reference_text>
+      <pubmed_id>16087681</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schwarzler A, Kreienkamp HJ, Richter D: Interaction of the somatostatin receptor subtype 1 with the human homolog of the Shk1 kinase-binding protein from yeast. J Biol Chem. 2000 Mar 31;275(13):9557-62.</reference_text>
+      <pubmed_id>10734105</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rho J, Choi S, Seong YR, Cho WK, Kim SH, Im DS: Prmt5, which forms distinct homo-oligomers, is a member of the protein-arginine methyltransferase family. J Biol Chem. 2001 Apr 6;276(14):11393-401. Epub 2001 Jan 10.</reference_text>
+      <pubmed_id>11152681</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meister G, Eggert C, Buhler D, Brahms H, Kambach C, Fischer U: Methylation of Sm proteins by a complex containing PRMT5 and the putative U snRNP assembly factor pICln. Curr Biol. 2001 Dec 11;11(24):1990-4.</reference_text>
+      <pubmed_id>11747828</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fabbrizio E, El Messaoudi S, Polanowska J, Paul C, Cook JR, Lee JH, Negre V, Rousset M, Pestka S, Le Cam A, Sardet C: Negative regulation of transcription by the type II arginine methyltransferase PRMT5. EMBO Rep. 2002 Jul;3(7):641-5.</reference_text>
+      <pubmed_id>12101096</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kwak YT, Guo J, Prajapati S, Park KJ, Surabhi RM, Miller B, Gehrig P, Gaynor RB: Methylation of SPT5 regulates its interaction with RNA polymerase II and transcriptional elongation properties. Mol Cell. 2003 Apr;11(4):1055-66.</reference_text>
+      <pubmed_id>12718890</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pal S, Vishwanath SN, Erdjument-Bromage H, Tempst P, Sif S: Human SWI/SNF-associated PRMT5 methylates histone H3 arginine 8 and negatively regulates expression of ST7 and NM23 tumor suppressor genes. Mol Cell Biol. 2004 Nov;24(21):9630-45.</reference_text>
+      <pubmed_id>15485929</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gonsalvez GB, Tian L, Ospina JK, Boisvert FM, Lamond AI, Matera AG: Two distinct arginine methyltransferases are required for biogenesis of Sm-class ribonucleoproteins. J Cell Biol. 2007 Aug 27;178(5):733-40. Epub 2007 Aug 20.</reference_text>
+      <pubmed_id>17709427</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lacroix M, El Messaoudi S, Rodier G, Le Cam A, Sardet C, Fabbrizio E: The histone-binding protein COPR5 is required for nuclear functions of the protein arginine methyltransferase PRMT5. EMBO Rep. 2008 May;9(5):452-8. Epub 2008 Apr 11.</reference_text>
+      <pubmed_id>18404153</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ren J, Wang Y, Liang Y, Zhang Y, Bao S, Xu Z: Methylation of ribosomal protein S10 by protein-arginine methyltransferase 5 regulates ribosome biogenesis. J Biol Chem. 2010 Apr 23;285(17):12695-705. Epub 2010 Feb 16.</reference_text>
+      <pubmed_id>20159986</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heilig R, Eckenberg R, Petit JL, Fonknechten N, Da Silva C, Cattolico L, Levy M, Barbe V, de Berardinis V, Ureta-Vidal A, Pelletier E, Vico V, Anthouard V, Rowen L, Madan A, Qin S, Sun H, Du H, Pepin K, Artiguenave F, Robert C, Cruaud C, Bruls T, Jaillon O, Friedlander L, Samson G, Brottier P, Cure S, Segurens B, Aniere F, Samain S, Crespeau H, Abbasi N, Aiach N, Boscus D, Dickhoff R, Dors M, Dubois I, Friedman C, Gouyvenoux M, James R, Madan A, Mairey-Estrada B, Mangenot S, Martins N, Menard M, Oztas S, Ratcliffe A, Shaffer T, Trask B, Vacherie B, Bellemere C, Belser C, Besnard-Gonnet M, Bartol-Mavel D, Boutard M, Briez-Silla S, Combette S, Dufosse-Laurent V, Ferron C, Lechaplais C, Louesse C, Muselet D, Magdelenat G, Pateau E, Petit E, Sirvain-Trukniewicz P, Trybou A, Vega-Czarny N, Bataille E, Bluet E, Bordelais I, Dubois M, Dumont C, Guerin T, Haffray S, Hammadi R, Muanga J, Pellouin V, Robert D, Wunderle E, Gauguet G, Roy A, Sainte-Marthe L, Verdier J, Verdier-Discala C, Hillier L, Fulton L, McPherson J, Matsuda F, Wilson R, Scarpelli C, Gyapay G, Wincker P, Saurin W, Quetier F, Waterston R, Hood L, Weissenbach J: The DNA sequence and analysis of human chromosome 14.  Nature. 2003 Feb 6;421(6923):601-7. Epub 2003 Jan 1.</reference_text>
+      <pubmed_id>12508121</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Venter JC, Adams MD, Myers EW, Li PW, Mural RJ, Sutton GG, Smith HO, Yandell M, Evans CA, Holt RA, Gocayne JD, Amanatides P, Ballew RM, Huson DH, Wortman JR, Zhang Q, Kodira CD, Zheng XH, Chen L, Skupski M, Subramanian G, Thomas PD, Zhang J, Gabor Miklos GL, Nelson C, Broder S, Clark AG, Nadeau J, McKusick VA, Zinder N, Levine AJ, Roberts RJ, Simon M, Slayman C, Hunkapiller M, Bolanos R, Delcher A, Dew I, Fasulo D, Flanigan M, Florea L, Halpern A, Hannenhalli S, Kravitz S, Levy S, Mobarry C, Reinert K, Remington K, Abu-Threideh J, Beasley E, Biddick K, Bonazzi V, Brandon R, Cargill M, Chandramouliswaran I, Charlab R, Chaturvedi K, Deng Z, Di Francesco V, Dunn P, Eilbeck K, Evangelista C, Gabrielian AE, Gan W, Ge W, Gong F, Gu Z, Guan P, Heiman TJ, Higgins ME, Ji RR, Ke Z, Ketchum KA, Lai Z, Lei Y, Li Z, Li J, Liang Y, Lin X, Lu F, Merkulov GV, Milshina N, Moore HM, Naik AK, Narayan VA, Neelam B, Nusskern D, Rusch DB, Salzberg S, Shao W, Shue B, Sun J, Wang Z, Wang A, Wang X, Wang J, Wei M, Wides R, Xiao C, Yan C, Yao A, Ye J, Zhan M, Zhang W, Zhang H, Zhao Q, Zheng L, Zhong F, Zhong W, Zhu S, Zhao S, Gilbert D, Baumhueter S, Spier G, Carter C, Cravchik A, Woodage T, Ali F, An H, Awe A, Baldwin D, Baden H, Barnstead M, Barrow I, Beeson K, Busam D, Carver A, Center A, Cheng ML, Curry L, Danaher S, Davenport L, Desilets R, Dietz S, Dodson K, Doup L, Ferriera S, Garg N, Gluecksmann A, Hart B, Haynes J, Haynes C, Heiner C, Hladun S, Hostin D, Houck J, Howland T, Ibegwam C, Johnson J, Kalush F, Kline L, Koduru S, Love A, Mann F, May D, McCawley S, McIntosh T, McMullen I, Moy M, Moy L, Murphy B, Nelson K, Pfannkoch C, Pratts E, Puri V, Qureshi H, Reardon M, Rodriguez R, Rogers YH, Romblad D, Ruhfel B, Scott R, Sitter C, Smallwood M, Stewart E, Strong R, Suh E, Thomas R, Tint NN, Tse S, Vech C, Wang G, Wetter J, Williams S, Williams M, Windsor S, Winn-Deen E, Wolfe K, Zaveri J, Zaveri K, Abril JF, Guigo R, Campbell MJ, Sjolander KV, Karlak B, Kejariwal A, Mi H, Lazareva B, Hatton T, Narechania A, Diemer K, Muruganujan A, Guo N, Sato S, Bafna V, Istrail S, Lippert R, Schwartz R, Walenz B, Yooseph S, Allen D, Basu A, Baxendale J, Blick L, Caminha M, Carnes-Stine J, Caulk P, Chiang YH, Coyne M, Dahlke C, Mays A, Dombroski M, Donnelly M, Ely D, Esparham S, Fosler C, Gire H, Glanowski S, Glasser K, Glodek A, Gorokhov M, Graham K, Gropman B, Harris M, Heil J, Henderson S, Hoover J, Jennings D, Jordan C, Jordan J, Kasha J, Kagan L, Kraft C, Levitsky A, Lewis M, Liu X, Lopez J, Ma D, Majoros W, McDaniel J, Murphy S, Newman M, Nguyen T, Nguyen N, Nodell M, Pan S, Peck J, Peterson M, Rowe W, Sanders R, Scott J, Simpson M, Smith T, Sprague A, Stockwell T, Turner R, Venter E, Wang M, Wen M, Wu D, Wu M, Xia A, Zandieh A, Zhu X: The sequence of the human genome.  Science. 2001 Feb 16;291(5507):1304-51.</reference_text>
+      <pubmed_id>11181995</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

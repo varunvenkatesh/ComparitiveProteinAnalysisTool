@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:59:39 -0700</creation_date>
+  <update_date>2013-01-15 19:59:39 -0700</update_date>
+  <accession>HMDBP07496</accession>
+  <secondary_accessions>
+    <accession>13204</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Low-voltage-activated calcium channel alpha1 3.2 subunit</synonym>
+    <synonym>Voltage-gated calcium channel subunit alpha Cav3.2</synonym>
+  </synonyms>
+  <gene_name>CACNA1H</gene_name>
+  <general_function>Involved in ion channel activity</general_function>
+  <specific_function>Voltage-sensitive calcium channels (VSCC) mediate the entry of calcium ions into excitable cells and are also involved in a variety of calcium-dependent processes, including muscle contraction, hormone or neurotransmitter release, gene expression, cell motility, cell division and cell death. The isoform alpha-1H gives rise to T-type calcium currents. T-type calcium channels belong to the "low-voltage activated (LVA)" group and are strongly blocked by nickel and mibefradil. A particularity of this type of channels is an opening at quite negative potentials, and a voltage-dependent inactivation. T-type channels serve pacemaking functions in both central neurons and cardiac nodal cells and support calcium signaling in secretory cells and vascular smooth muscle. They may also be involved in the modulation of firing patterns of neurons which is important for information processing as well as in cell growth processes</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14415</accession>
+      <name>Isradipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14708</accession>
+      <name>Cinnarizine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15045</accession>
+      <name>Zonisamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15158</accession>
+      <name>Felodipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15187</accession>
+      <name>Nitrendipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15247</accession>
+      <name>Nifedipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15374</accession>
+      <name>Bepridil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15589</accession>
+      <name>Flunarizine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>voltage-gated calcium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>di-, tri-valent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>divalent metal ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>calcium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16p13.3</locus>
+    <gene_sequence>&gt;7062 bp
+ATGACCGAGGGCGCACGGGCCGCCGACGAGGTCCGGGTGCCCCTGGGCGCGCCGCCCCCT
+GGCCCTGCGGCGTTGGTGGGGGCGTCCCCGGAGAGCCCCGGGGCGCCGGGACGCGAGGCG
+GAGCGGGGGTCCGAGCTCGGCGTGTCACCCTCCGAGAGCCCGGCGGCCGAGCGCGGCGCG
+GAGCTGGGTGCCGACGAGGAGCAGCGCGTCCCGTACCCGGCCTTGGCGGCCACGGTCTTC
+TTCTGCCTCGGTCAGACCACGCGGCCGCGCAGCTGGTGCCTCCGGCTGGTCTGCAACCCA
+TGGTTCGAGCACGTGAGCATGCTGGTAATCATGCTCAACTGCGTGACCCTGGGCATGTTC
+CGGCCCTGTGAGGACGTTGAGTGCGGCTCCGAGCGCTGCAACATCCTGGAGGCCTTTGAC
+GCCTTCATTTTCGCCTTTTTTGCGGTGGAGATGGTCATCAAGATGGTGGCCTTGGGGCTG
+TTCGGGCAGAAGTGTTACCTGGGTGACACGTGGAACAGGCTGGATTTCTTCATCGTCGTG
+GCGGGCATGATGGAGTACTCGTTGGACGGACACAACGTGAGCCTCTCGGCTATCAGGACC
+GTGCGGGTGCTGCGGCCCCTCCGCGCCATCAACCGCGTGCCTAGCATGCGGATCCTGGTC
+ACTCTGCTGCTGGATACGCTGCCCATGCTCGGGAACGTCCTTCTGCTGTGCTTCTTCGTC
+TTCTTCATTTTCGGCATCGTTGGCGTCCAGCTCTGGGCTGGCCTCCTGCGGAACCGCTGC
+TTCCTGGACAGTGCCTTTGTCAGGAACAACAACCTGACCTTCCTGCGGCCGTACTACCAG
+ACGGAGGAGGGCGAGGAGAACCCGTTCATCTGCTCCTCACGCCGAGACAACGGCATGCAG
+AAGTGCTCGCACATCCCCGGCCGCCGCGAGCTGCGCATGCCCTGCACCCTGGGCTGGGAG
+GCCTACACGCAGCCGCAGGCCGAGGGGGTGGGCGCTGCACGCAACGCCTGCATCAACTGG
+AACCAGTACTACAACGTGTGCCGCTCGGGTGACTCCAACCCCCACAACGGTGCCATCAAC
+TTCGACAACATCGGCTACGCCTGGATCGCCATCTTCCAGGTGATCACGCTGGAAGGCTGG
+GTGGACATCATGTACTACGTCATGGACGCCCACTCATTCTACAACTTCATCTATTTCATC
+CTGCTCATCATCGTGGGCTCCTTCTTCATGATCAACCTGTGCCTGGTGGTGATTGCCACG
+CAGTTCTCGGAGACGAAGCAGCGGGAGAGTCAGCTGATGCGGGAGCAGCGGGCACGCCAC
+CTGTCCAACGACAGCACGCTGGCCAGCTTCTCCGAGCCTGGCAGCTGCTACGAAGAGCTG
+CTGAAGTACGTGGGCCACATATTCCGCAAGGTCAAGCGGCGCAGCTTGCGCCTCTACGCC
+CGCTGGCAGAGCCGCTGGCGCAAGAAGGTGGACCCCAGTGCTGTGCAAGGCCAGGGTCCC
+GGGCACCGCCAGCGCCGGGCAGGCAGGCACACAGCCTCGGTGCACCACCTGGTCTACCAC
+CACCATCACCACCACCACCACCACTACCATTTCAGCCATGGCAGCCCCCGCAGGCCCGGC
+CCCGAGCCAGGCGCCTGCGACACCAGGCTGGTCCGAGCTGGCGCGCCCCCCTCGCCACCT
+TCCCCAGGCCGCGGACCCCCCGACGCAGAGTCTGTGCACAGCATCTACCATGCCGACTGC
+CACATAGAGGGGCCGCAGGAGAGGGCCCGGGTGGCACATGCCGCAGCCACTGCTGCTGCC
+AGCCTCAGGCTGGCCACAGGGCTGGGCACCATGAACTACCCCACGATCCTGCCCTCAGGG
+GTGGGCAGCGGCAAAGGCAGCACCAGCCCCGGACCCAAGGGGAAGTGGGCCGGTGGACCG
+CCAGGCACCGGGGGGCACGGCCCGTTGAGCTTGAACAGCCCTGATCCCTACGAGAAGATC
+CCGCATGTGGCCGGGGAGCATGGACTGGGCCAAGCCCCTGGCCATCTGTCGGGCCTCAGT
+GTGCCCTGCCCCCTGCCCAGCCCCCCAGCGGGCACACTGACCTGTGAGCTGAAGAGCTGC
+CCGTACTGCACCCGTGCCCTGGAGGACCCGGAGGGTGAGCTCAGCGGCTCGGAAAGTGGA
+GACTCAGATGGCCGTGGCGTCTATGAATTCACGCAGGACGTCCGGCACGGTGACCGCTGG
+GACCCCACGCGACCACCCCGTGCGACGGACACACCAGGCCCAGGCCCAGGCAGCCCCCAG
+CGGCGGGCACAGCAGAGGGCAGCCCCGGGCGAGCCAGGCTGGATGGGCCGCCTCTGGGTT
+ACCTTCAGCGGCAAGCTGCGCCGCATCGTGGACAGCAAGTACTTCAGCCGTGGCATCATG
+ATGGCCATCCTTGTCAACACGCTGAGCATGGGCGTGGAGTACCATGAGCAGCCCGAGGAG
+CTGACTAATGCTCTGGAGATCAGCAACATCGTGTTCACCAGCATGTTTGCCCTGGAGATG
+CTGCTGAAGCTGCTGGCCTGCGGCCCTCTGGGCTACATCCGGAACCCGTACAACATCTTC
+GACGGCATCATCGTGGTCATCAGCGTCTGGGAGATCGTGGGGCAGGCGGACGGTGGCTTG
+TCTGTGCTGCGCACCTTCCGGCTGCTGCGTGTGCTGAAGCTGGTGCGCTTTCTGCCAGCC
+CTGCGGCGCCAGCTCGTGGTGCTGGTGAAGACCATGGACAACGTGGCTACCTTCTGCACG
+CTGCTCATGCTCTTCATTTTCATCTTCAGCATCCTGGGCATGCACCTTTTCGGCTGCAAG
+TTCAGCCTGAAGACAGACACCGGAGACACCGTGCCTGACAGGAAGAACTTCGACTCCCTG
+CTGTGGGCCATCGTCACCGTGTTCCAGATCCTGACCCAGGAGGACTGGAACGTGGTCCTG
+TACAACGGCATGGCCTCCACCTCCTCCTGGGCCGCCCTCTACTTCGTGGCCCTCATGACC
+TTCGGCAACTATGTGCTCTTCAACCTGCTGGTGGCCATCCTCGTGGAGGGCTTCCAGGCG
+GAGGGCGATGCCAACAGATCCGACACGGACGAGGACAAGACGTCGGTCCACTTCGAGGAG
+GACTTCCACAAGCTCAGAGAACTCCAGACCACAGAGCTGAAGATGTGTTCCCTGGCCGTG
+ACCCCCAACGGGCACCTGGAGGGACGAGGCAGCCTGTCCCCTCCCCTCATCATGTGCACA
+GCTGCCACGCCCATGCCTACCCCCAAGAGCTCACCATTCCTGGATGCAGCCCCCAGCCTC
+CCAGACTCTCGGCGTGGCAGCAGCAGCTCCGGGGACCCGCCACTGGGAGACCAGAAGCCT
+CCGGCCAGCCTCCGAAGTTCTCCCTGTGCCCCCTGGGGCCCCAGTGGCGCCTGGAGCAGC
+CGGCGCTCCAGCTGGAGCAGCCTGGGCCGTGCCCCCAGCCTCAAGCGCCGCGGCCAGTGT
+GGGGAACGTGAGTCCCTGCTGTCTGGCGAGGGCAAGGGCAGCACCGACGACGAAGCTGAG
+GACGGCAGGGCCGCGCCCGGGCCCCGTGCCACCCCACTGCGGCGGGCCGAGTCCCTGGAC
+CCACGGCCCCTGCGGCCGGCCGCCCTCCCGCCTACCAAGTGCCGCGATCGCGACGGGCAG
+GTGGTGGCCCTGCCCAGCGACTTCTTCCTGCGCATCGACAGCCACCGTGAGGATGCAGCC
+GAGCTTGACGACGACTCGGAGGACAGCTGCTGCCTCCGCCTGCATAAAGTGCTGGAGCCC
+TACAAGCCCCAGTGGTGCCGGAGCCGCGAGGCCTGGGCCCTCTACCTCTTCTCCCCACAG
+AACCGGTTCCGCGTCTCCTGCCAGAAGGTCATCACACACAAGATGTTTGATCACGTGGTC
+CTCGTCTTCATCTTCCTCAACTGCGTCACCATCGCCCTGGAGAGGCCTGACATTGATCCC
+GGCAGCACCGAGCGGGTCTTCCTCAGCGTCTCCAATTACATCTTCACGGCCATCTTCGTG
+GCGGAGATGATGGTGAAGGTGGTGGCCCTGGGGCTGCTGTCCGGCGAGCACGCCTACCTG
+CAGAGCAGCTGGAACCTGCTGGATGGGCTGCTGGTGCTGGTGTCCCTGGTGGACATTGTC
+GTGGCCATGGCCTCGGCTGGTGGCGCCAAGATCCTGGGTGTTCTGCGCGTGCTGCGTCTG
+CTGCGGACCCTGCGGCCTCTGAGGGTCATCAGCCGGGCCCCGGGCCTCAAGCTGGTGGTG
+GAGACGCTGATATCATCACTCAGGCCCATTGGGAACATCGTCCTCATCTGCTGCGCCTTC
+TTCATCATTTTTGGCATTTTGGGTGTGCAGCTCTTCAAAGGGAAGTTCTACTACTGCGAG
+GGCCCCGACACCAGGAACATCTCCACCAAGGCACAGTGCCGGGCCGCCCACTACCGCTGG
+GTGCGACGCAAGTACAACTTCGACAACCTGGGCCAGGCCCTGATGTCGCTGTTCGTGCTG
+TCATCCAAGGATGGATGGGTGAACATCATGTACGACGGGCTGGATGCCGTGGGTGTCGAC
+CAGCAGCCTGTGCAGAACCACAACCCCTGGATGCTGCTGTACTTCATCTCCTTCCTGCTC
+ATCGTCAGCTTCTTCGTGCTCAACATGTTCGTGGGCGTCGTGGTCGAGAACTTCCACAAG
+TGCCGGCAGCACCAGGAGGCGGAGGAGGCGCGGCGGCGAGAGGAGAAGCGGCTGCGGCGC
+CTAGAGAGGAGGCGCAGGAGCACTTTCCCCAGCCCAGAGGCCCAGCGCCGGCCCTACTAT
+GCCGACTACTCGCCCACGCGCCGCTCCATTCACTCGCTGTGCACCAGCCACTATCTCGAC
+CTCTTCATCACCTTCATCATCTGTGTCAACGTCATCACCATGTCCATGGAGCACTATAAC
+CAACCCAAGTCGCTGGACGAGGCCCTCAAGTACTGCAACTACGTCTTCACCATCGTGTTT
+GTCTTCGAGGCTGCACTGAAGCTGGTAGCATTTGGGTTCCGTCGGTTCTTCAAGGACAGG
+TGGAACCAGCTGGACCTGGCCATCGTGCTGCTGTCACTCATGGGCATCACGCTGGAGGAG
+ATAGAGATGAGCGCCGCGCTGCCCATCAACCCCACCATCATCCGCATCATGCGCGTGCTT
+CGCATTGCCCGTGTGCTGAAGCTGCTGAAGATGGCTACGGGCATGCGCGCCCTGCTGGAC
+ACTGTGGTGCAAGCTCTCCCCCAGGTGGGGAACCTGGGCCTTCTTTTCATGCTCCTGTTT
+TTTATCTATGCTGCGCTGGGAGTGGAGCTGTTCGGGAGGCTGGAGTGCAGTGAAGACAAC
+CCCTGCGAGGGCCTGAGCAGGCACGCCACCTTCAGCAACTTCGGCATGGCCTTCCTCACG
+CTGTTCCGCGTGTCCACGGGGGACAACTGGAACGGGATCATGAAGGACACGCTGCGCGAG
+TGCTCCCGTGAGGACAAGCACTGCCTGAGCTACCTGCCGGCCCTGTCGCCCGTCTACTTC
+GTGACCTTCGTGCTGGTGGCCCAGTTCGTGCTGGTGAACGTGGTGGTGGCCGTGCTCATG
+AAGCACCTGGAGGAGAGCAACAAGGAGGCACGGGAGGATGCGGAGCTGGACGCCGAGATC
+GAGCTGGAGATGGCGCAGGGCCCCGGGAGTGCACGCCGGGTGGACGCGGACAGGCCTCCC
+TTGCCCCAGGAGAGTCCGGGCGCCAGGGATGCCCCAAACCTGGTTGCACGCAAGGTGTCC
+GTGTCCAGGATGCTCTCGCTGCCCAACGACAGCTACATGTTCAGGCCCGTGGTGCCTGCC
+TCGGCGCCCCACCCCCGCCCGCTGCAGGAGGTGGAGATGGAGACCTATGGGGCCGGCACC
+CCCTTGGGCTCCGTTGCCTCTGTGCACTCTCCGCCCGCAGAGTCCTGTGCCTCCCTCCAG
+ATCCCACTGGCTGTGTCGTCCCCAGCCAGGAGCGGCGAGCCCCTCCACGCCCTGTCCCCT
+CGGGGCACAGCCCGCTCCCCCAGTCTCAGCCGGCTGCTCTGCAGACAGGAGGCTGTGCAC
+ACCGATTCCTTGGAAGGGAAGATTGACAGCCCTAGGGACACCCTGGATCCTGCAGAGCCT
+GGTGAGAAAACCCCGGTGAGGCCGGTGACCCAGGGGGGCTCCCTGCAGTCCCCACCACGC
+TCCCCACGGCCCGCCAGCGTCCGCACTCGTAAGCATACCTTCGGACAGCGCTGCGTCTCC
+AGCCGGCCGGCGGCCCCAGGCGGAGAGGAGGCCGAGGCCTCGGACCCAGCCGACGAGGAG
+GTCAGCCACATCACCAGCTCCGCCTGCCCCTGGCAGCCCACAGCCGAGCCCCATGGCCCC
+GAAGCCTCTCCGGTGGCCGGCGGCGAGCGGGACCTGCGCAGGCTCTACAGCGTGGATGCT
+CAGGGCTTCCTGGACAAGCCGGGCCGGGCAGACGAGCAGTGGCGGCCCTCGGCGGAGCTG
+GGCAGCGGGGAGCCTGGGGAGGCGAAGGCCTGGGGCCCTGAGGCCGAGCCCGCTCTGGGT
+GCGCGCAGAAAGAAGAAGATGAGCCCCCCCTGCATCTCGGTGGAACCCCCTGCGGAGGAC
+GAGGGCTCTGCGCGGCCCTCCGCGGCAGAGGGCGGCAGCACCACACTGAGGCGCAGGACC
+CCGTCCTGTGAGGCCACGCCTCACAGGGACTCCCTGGAGCCCACAGAGGGCTCAGGCGCC
+GGGGGGGACCCTGCAGCCAAGGGGGAGCGCTGGGGCCAGGCCTCCTGCCGGGCTGAGCAC
+CTGACCGTCCCCAGCTTTGCCTTTGAGCCGCTGGACCTCGGGGTCCCCAGTGGAGACCCT
+TTCTTGGACGGTAGCCACAGTGTGACCCCAGAATCCAGAGCTTCCTCTTCAGGGGCCATA
+GTGCCCCTGGAACCCCCAGAATCAGAGCCTCCCATGCCCGTCGGTGACCCCCCAGAGAAG
+AGGCGGGGGCTGTACCTCACAGTCCCCCAGTGTCCTCTGGAGAAACCAGGGTCCCCCTCA
+GCCACCCCTGCCCCAGGGGGTGGTGCAGATGACCCCGTGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2353</residue_number>
+    <molecular_weight>259160.2</molecular_weight>
+    <theoretical_pi>7.38</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ion_trans</name>
+        <pfam_id>PF00520</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>101-119</region>
+      <region>140-160</region>
+      <region>170-184</region>
+      <region>194-212</region>
+      <region>233-253</region>
+      <region>395-419</region>
+      <region>794-814</region>
+      <region>828-849</region>
+      <region>856-874</region>
+      <region>883-906</region>
+      <region>918-938</region>
+      <region>991-1015</region>
+      <region>1291-1313</region>
+      <region>1332-1352</region>
+      <region>1363-1382</region>
+      <region>1397-1418</region>
+      <region>1429-1452</region>
+      <region>1530-1555</region>
+      <region>1617-1637</region>
+      <region>1652-1673</region>
+      <region>1681-1699</region>
+      <region>1714-1737</region>
+      <region>1752-1772</region>
+      <region>1836-1863</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Voltage-dependent T-type calcium channel subunit alpha-1H
+MTEGARAADEVRVPLGAPPPGPAALVGASPESPGAPGREAERGSELGVSPSESPAAERGA
+ELGADEEQRVPYPALAATVFFCLGQTTRPRSWCLRLVCNPWFEHVSMLVIMLNCVTLGMF
+RPCEDVECGSERCNILEAFDAFIFAFFAVEMVIKMVALGLFGQKCYLGDTWNRLDFFIVV
+AGMMEYSLDGHNVSLSAIRTVRVLRPLRAINRVPSMRILVTLLLDTLPMLGNVLLLCFFV
+FFIFGIVGVQLWAGLLRNRCFLDSAFVRNNNLTFLRPYYQTEEGEENPFICSSRRDNGMQ
+KCSHIPGRRELRMPCTLGWEAYTQPQAEGVGAARNACINWNQYYNVCRSGDSNPHNGAIN
+FDNIGYAWIAIFQVITLEGWVDIMYYVMDAHSFYNFIYFILLIIVGSFFMINLCLVVIAT
+QFSETKQRESQLMREQRARHLSNDSTLASFSEPGSCYEELLKYVGHIFRKVKRRSLRLYA
+RWQSRWRKKVDPSAVQGQGPGHRQRRAGRHTASVHHLVYHHHHHHHHHYHFSHGSPRRPG
+PEPGACDTRLVRAGAPPSPPSPGRGPPDAESVHSIYHADCHIEGPQERARVAHAAATAAA
+SLRLATGLGTMNYPTILPSGVGSGKGSTSPGPKGKWAGGPPGTGGHGPLSLNSPDPYEKI
+PHVVGEHGLGQAPGHLSGLSVPCPLPSPPAGTLTCELKSCPYCTRALEDPEGELSGSESG
+DSDGRGVYEFTQDVRHGDRWDPTRPPRATDTPGPGPGSPQRRAQQRAAPGEPGWMGRLWV
+TFSGKLRRIVDSKYFSRGIMMAILVNTLSMGVEYHEQPEELTNALEISNIVFTSMFALEM
+LLKLLACGPLGYIRNPYNIFDGIIVVISVWEIVGQADGGLSVLRTFRLLRVLKLVRFLPA
+LRRQLVVLVKTMDNVATFCTLLMLFIFIFSILGMHLFGCKFSLKTDTGDTVPDRKNFDSL
+LWAIVTVFQILTQEDWNVVLYNGMASTSSWAALYFVALMTFGNYVLFNLLVAILVEGFQA
+EGDANRSDTDEDKTSVHFEEDFHKLRELQTTELKMCSLAVTPNGHLEGRGSLSPPLIMCT
+AATPMPTPKSSPFLDAAPSLPDSRRGSSSSGDPPLGDQKPPASLRSSPCAPWGPSGAWSS
+RRSSWSSLGRAPSLKRRGQCGERESLLSGEGKGSTDDEAEDGRAAPGPRATPLRRAESLD
+PRPLRPAALPPTKCRDRDGQVVALPSDFFLRIDSHREDAAELDDDSEDSCCLRLHKVLEP
+YKPQWCRSREAWALYLFSPQNRFRVSCQKVITHKMFDHVVLVFIFLNCVTIALERPDIDP
+GSTERVFLSVSNYIFTAIFVAEMMVKVVALGLLSGEHAYLQSSWNLLDGLLVLVSLVDIV
+VAMASAGGAKILGVLRVLRLLRTLRPLRVISRAPGLKLVVETLISSLRPIGNIVLICCAF
+FIIFGILGVQLFKGKFYYCEGPDTRNISTKAQCRAAHYRWVRRKYNFDNLGQALMSLFVL
+SSKDGWVNIMYDGLDAVGVDQQPVQNHNPWMLLYFISFLLIVSFFVLNMFVGVVVENFHK
+CRQHQEAEEARRREEKRLRRLERRRRSTFPSPEAQRRPYYADYSPTRRSIHSLCTSHYLD
+LFITFIICVNVITMSMEHYNQPKSLDEALKYCNYVFTIVFVFEAALKLVAFGFRRFFKDR
+WNQLDLAIVLLSLMGITLEEIEMSAALPINPTIIRIMRVLRIARVLKLLKMATGMRALLD
+TVVQALPQVGNLGLLFMLLFFIYAALGVELFGRLECSEDNPCEGLSRHATFSNFGMAFLT
+LFRVSTGDNWNGIMKDTLRECSREDKHCLSYLPALSPVYFVTFVLVAQFVLVNVVVAVLM
+KHLEESNKEAREDAELDAEIELEMAQGPGSARRVDADRPPLPQESPGARDAPNLVARKVS
+VSRMLSLPNDSYMFRPVVPASAPHPRPLQEVEMETYGAGTPLGSVASVHSPPAESCASLQ
+IPLAVSSPARSGEPLHALSPRGTARSPSLSRLLCRQEAVHTDSLEGKIDSPRDTLDPAEP
+GEKTPVRPVTQGGSLQSPPRSPRPASVRTRKHTFGQRCVSSRPAAPGGEEAEASDPADEE
+VSHITSSACPWQPTAEPHGPEASPVAGGERDLRRLYSVDAQGFLDKPGRADEQWRPSAEL
+GSGEPGEAKAWGPEAEPALGARRKKKMSPPCISVEPPAEDEGSARPSAAEGGSTTLRRRT
+PSCEATPHRDSLEPTEGSGAGGDPAAKGERWGQASCRAEHLTVPSFAFEPLDLGVPSGDP
+FLDGSHSVTPESRASSSGAIVPLEPPESEPPMPVGDPPEKRRGLYLTVPQCPLEKPGSPS
+ATPAPGGGADDPV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>14670397</genbank_protein_id>
+  <uniprot_id>O95180</uniprot_id>
+  <uniprot_name>CAC1H_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF051946</genbank_gene_id>
+  <genecard_id>CACNA1H</genecard_id>
+  <geneatlas_id>CACNA1H</geneatlas_id>
+  <hgnc_id>HGNC:1395</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Cribbs LL, Lee JH, Yang J, Satin J, Zhang Y, Daud A, Barclay J, Williamson MP, Fox M, Rees M, Perez-Reyes E: Cloning and characterization of alpha1H from human heart, a member of the T-type Ca2+ channel gene family. Circ Res. 1998 Jul 13;83(1):103-9.</reference_text>
+      <pubmed_id>9670923</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Williams ME, Washburn MS, Hans M, Urrutia A, Brust PF, Prodanovich P, Harpold MM, Stauderman KA: Structure and functional characterization of a novel human low-voltage activated calcium channel. J Neurochem. 1999 Feb;72(2):791-9.</reference_text>
+      <pubmed_id>9930755</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jagannathan S, Punt EL, Gu Y, Arnoult C, Sakkas D, Barratt CL, Publicover SJ: Identification and localization of T-type voltage-operated calcium channel subunits in human male germ cells. Expression of multiple isoforms. J Biol Chem. 2002 Mar 8;277(10):8449-56. Epub 2001 Dec 21.</reference_text>
+      <pubmed_id>11751928</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daniels RJ, Peden JF, Lloyd C, Horsley SW, Clark K, Tufarelli C, Kearney L, Buckle VJ, Doggett NA, Flint J, Higgs DR: Sequence, structure and pathology of the fully annotated terminal 2 Mb of the short arm of human chromosome 16. Hum Mol Genet. 2001 Feb 15;10(4):339-52.</reference_text>
+      <pubmed_id>11157797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martin J, Han C, Gordon LA, Terry A, Prabhakar S, She X, Xie G, Hellsten U, Chan YM, Altherr M, Couronne O, Aerts A, Bajorek E, Black S, Blumer H, Branscomb E, Brown NC, Bruno WJ, Buckingham JM, Callen DF, Campbell CS, Campbell ML, Campbell EW, Caoile C, Challacombe JF, Chasteen LA, Chertkov O, Chi HC, Christensen M, Clark LM, Cohn JD, Denys M, Detter JC, Dickson M, Dimitrijevic-Bussod M, Escobar J, Fawcett JJ, Flowers D, Fotopulos D, Glavina T, Gomez M, Gonzales E, Goodstein D, Goodwin LA, Grady DL, Grigoriev I, Groza M, Hammon N, Hawkins T, Haydu L, Hildebrand CE, Huang W, Israni S, Jett J, Jewett PB, Kadner K, Kimball H, Kobayashi A, Krawczyk MC, Leyba T, Longmire JL, Lopez F, Lou Y, Lowry S, Ludeman T, Manohar CF, Mark GA, McMurray KL, Meincke LJ, Morgan J, Moyzis RK, Mundt MO, Munk AC, Nandkeshwar RD, Pitluck S, Pollard M, Predki P, Parson-Quintana B, Ramirez L, Rash S, Retterer J, Ricke DO, Robinson DL, Rodriguez A, Salamov A, Saunders EH, Scott D, Shough T, Stallings RL, Stalvey M, Sutherland RD, Tapia R, Tesmer JG, Thayer N, Thompson LS, Tice H, Torney DC, Tran-Gyamfi M, Tsai M, Ulanovsky LE, Ustaszewska A, Vo N, White PS, Williams AL, Wills PL, Wu JR, Wu K, Yang J, Dejong P, Bruce D, Doggett NA, Deaven L, Schmutz J, Grimwood J, Richardson P, Rokhsar DS, Eichler EE, Gilna P, Lucas SM, Myers RM, Rubin EM, Pennacchio LA: The sequence and analysis of duplication-rich human chromosome 16.  Nature. 2004 Dec 23;432(7020):988-94.</reference_text>
+      <pubmed_id>15616553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen Y, Lu J, Pan H, Zhang Y, Wu H, Xu K, Liu X, Jiang Y, Bao X, Yao Z, Ding K, Lo WH, Qiang B, Chan P, Shen Y, Wu X: Association between genetic variation of CACNA1H and childhood absence epilepsy. Ann Neurol. 2003 Aug;54(2):239-43.</reference_text>
+      <pubmed_id>12891677</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isradipine</name>
+        <accession>HMDB14415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cohen CJ, Spires S, Van Skiver D: Block of T-type Ca channels in guinea pig atrial cells by antiarrhythmic agents and Ca channel antagonists. J Gen Physiol. 1992 Oct;100(4):703-28.</reference_text>
+        <pubmed_id>1281221</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isradipine</name>
+        <accession>HMDB14415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Perez-Reyes E, Van Deusen AL, Vitko I: Molecular pharmacology of human Cav3.2 T-type Ca2+ channels: block by antihypertensives, antiarrhythmics, and their analogs. J Pharmacol Exp Ther. 2009 Feb;328(2):621-7. Epub 2008 Oct 30.</reference_text>
+        <pubmed_id>18974361</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cinnarizine</name>
+        <accession>HMDB14708</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Singh BN: The mechanism of action of calcium antagonists relative to their clinical applications. Br J Clin Pharmacol. 1986;21 Suppl 2:109S-121S.</reference_text>
+        <pubmed_id>3530295</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cinnarizine</name>
+        <accession>HMDB14708</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cohen CJ, Spires S, Van Skiver D: Block of T-type Ca channels in guinea pig atrial cells by antiarrhythmic agents and Ca channel antagonists. J Gen Physiol. 1992 Oct;100(4):703-28.</reference_text>
+        <pubmed_id>1281221</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schulze-Bonhage A: Zonisamide in the treatment of epilepsy.  Expert Opin Pharmacother. 2010 Jan;11(1):115-26.</reference_text>
+        <pubmed_id>20001433</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kothare SV, Kaleyias J: Zonisamide: review of pharmacology, clinical efficacy, tolerability, and safety.  Expert Opin Drug Metab Toxicol. 2008 Apr;4(4):493-506.</reference_text>
+        <pubmed_id>18433351</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sobieszek G, Borowicz KK, Kimber-Trojnar Z, Malek R, Piskorska B, Czuczwar SJ: Zonisamide: a new antiepileptic drug.  Pol J Pharmacol. 2003 Sep-Oct;55(5):683-9.</reference_text>
+        <pubmed_id>14704463</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Janszky J: [Role of zonisamid in treating epilepsy, Parkinson disorders and other neurological diseases]. Ideggyogy Sz. 2009 Nov 30;62(11-12):383-9.</reference_text>
+        <pubmed_id>20025128</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sonsalla PK, Wong LY, Winnik B, Buckley B: The antiepileptic drug zonisamide inhibits MAO-B and attenuates MPTP toxicity in mice: clinical relevance. Exp Neurol. 2010 Feb;221(2):329-34. Epub 2009 Dec 4.</reference_text>
+        <pubmed_id>19948168</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leppik IE: Zonisamide: chemistry, mechanism of action, and pharmacokinetics.  Seizure. 2004 Dec;13 Suppl 1:S5-9; discussion S10.</reference_text>
+        <pubmed_id>15511691</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Murata M: Novel therapeutic effects of the anti-convulsant, zonisamide, on Parkinson's disease. Curr Pharm Des. 2004;10(6):687-93.</reference_text>
+        <pubmed_id>14965331</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Murata M: Zonisamide: a new drug for Parkinson's disease.  Drugs Today (Barc). 2010 Apr;46(4):251-8.</reference_text>
+        <pubmed_id>20502722</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zaccara G, Specchio LM: Long-term safety and effectiveness of zonisamide in the treatment of epilepsy: a review of the literature. Neuropsychiatr Dis Treat. 2009;5:249-59. Epub 2009 May 20.</reference_text>
+        <pubmed_id>19557119</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Biton V: Clinical pharmacology and mechanism of action of zonisamide.  Clin Neuropharmacol. 2007 Jul-Aug;30(4):230-40.</reference_text>
+        <pubmed_id>17762320</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Felodipine</name>
+        <accession>HMDB15158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cohen CJ, Spires S, Van Skiver D: Block of T-type Ca channels in guinea pig atrial cells by antiarrhythmic agents and Ca channel antagonists. J Gen Physiol. 1992 Oct;100(4):703-28.</reference_text>
+        <pubmed_id>1281221</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Felodipine</name>
+        <accession>HMDB15158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Perez-Reyes E, Van Deusen AL, Vitko I: Molecular pharmacology of human Cav3.2 T-type Ca2+ channels: block by antihypertensives, antiarrhythmics, and their analogs. J Pharmacol Exp Ther. 2009 Feb;328(2):621-7. Epub 2008 Oct 30.</reference_text>
+        <pubmed_id>18974361</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitrendipine</name>
+        <accession>HMDB15187</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Perez-Reyes E, Van Deusen AL, Vitko I: Molecular pharmacology of human Cav3.2 T-type Ca2+ channels: block by antihypertensives, antiarrhythmics, and their analogs. J Pharmacol Exp Ther. 2009 Feb;328(2):621-7. Epub 2008 Oct 30.</reference_text>
+        <pubmed_id>18974361</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nifedipine</name>
+        <accession>HMDB15247</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lee TS, Kaku T, Takebayashi S, Uchino T, Miyamoto S, Hadama T, Perez-Reyes E, Ono K: Actions of mibefradil, efonidipine and nifedipine block of recombinant T- and L-type Ca channels with distinct inhibitory mechanisms. Pharmacology. 2006;78(1):11-20. Epub 2006 Aug 7.</reference_text>
+        <pubmed_id>16899990</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bepridil</name>
+        <accession>HMDB15374</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cohen CJ, Spires S, Van Skiver D: Block of T-type Ca channels in guinea pig atrial cells by antiarrhythmic agents and Ca channel antagonists. J Gen Physiol. 1992 Oct;100(4):703-28.</reference_text>
+        <pubmed_id>1281221</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bepridil</name>
+        <accession>HMDB15374</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bezprozvanny I, Tsien RW: Voltage-dependent blockade of diverse types of voltage-gated Ca2+ channels expressed in Xenopus oocytes by the Ca2+ channel antagonist mibefradil (Ro 40-5967). Mol Pharmacol. 1995 Sep;48(3):540-9.</reference_text>
+        <pubmed_id>7565636</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Uebele VN, Nuss CE, Fox SV, Garson SL, Cristescu R, Doran SM, Kraus RL, Santarelli VP, Li Y, Barrow JC, Yang ZQ, Schlegel KA, Rittle KE, Reger TS, Bednar RA, Lemaire W, Mullen FA, Ballard JE, Tang C, Dai G, McManus OB, Koblan KS, Renger JJ: Positive allosteric interaction of structurally diverse T-type calcium channel antagonists. Cell Biochem Biophys. 2009;55(2):81-93. Epub 2009 Jul 7.</reference_text>
+        <pubmed_id>19582593</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Santi CM, Cayabyab FS, Sutton KG, McRory JE, Mezeyova J, Hamming KS, Parker D, Stea A, Snutch TP: Differential inhibition of T-type calcium channels by neuroleptics.  J Neurosci. 2002 Jan 15;22(2):396-403.</reference_text>
+        <pubmed_id>11784784</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:51:24 -0700</creation_date>
+  <update_date>2013-01-15 20:51:24 -0700</update_date>
+  <accession>HMDBP11577</accession>
+  <secondary_accessions>
+    <accession>21021</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Deubiquitinating enzyme 28</synonym>
+    <synonym>Ubiquitin thiolesterase 28</synonym>
+    <synonym>Ubiquitin-specific-processing protease 28</synonym>
+  </synonyms>
+  <gene_name>USP28</gene_name>
+  <general_function>Involved in ubiquitin thiolesterase activity</general_function>
+  <specific_function>Deubiquitinase involved in DNA damage response checkpoint and MYC proto-oncogene stability. Involved in DNA damage induced apoptosis by specifically deubiquitinating proteins of the DNA damage pathway such as CLSPN. Also involved in G2 DNA damage checkpoint, by deubiquitinating CLSPN, and preventing its degradation by the anaphase promoting complex/cyclosome (APC/C). In contrast, it does not deubiquitinate PLK1. Specifically deubiquitinates MYC in the nucleoplasm, leading to prevent MYC degradation by the proteasome:acts by specifically interacting with isoform 1 of FBXW7 (FBW7alpha) in the nucleoplasm and counteracting ubiquitination of MYC by the SCF(FBW7) complex. In contrast, it does not interact with isoform 4 of FBXW7 (FBW7gamma) in the nucleolus, allowing MYC degradation and explaining the selective MYC degradation in the nucleolus</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>thiolester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ubiquitin thiolesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>modification-dependent macromolecule catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>modification-dependent protein catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ubiquitin-dependent protein catabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q23</locus>
+    <gene_sequence>&gt;3234 bp
+ATGACTGCGGAGCTGCAGCAGGACGACGCGGCCGGCGCGGCAGACGGCCACGGCTCGAGC
+TGCCAAATGCTGTTAAATCAACTGAGAGAAATCACAGGCATTCAGGACCCTTCCTTTCTC
+CATGAAGCTCTGAAGGCCAGTAATGGTGACATTACTCAGGCAGTCAGCCTTCTCACTGAT
+GAGAGAGTTAAGGAGCCCAGTCAAGACACTGTTGCTACAGAACCATCTGAAGTAGAGGGG
+AGTGCTGCCAACAAGGAAGTATTAGCAAAAGTTATAGACCTTACTCATGATAACAAAGAT
+GATCTTCAGGCTGCCATTGCTTTGAGTCTACTGGAGTCTCCCAAAATTCAAGCTGATGGA
+AGAGATCTTAACAGGATGCATGAAGCAACCTCTGCAGAAACTAAACGCTCAAAGAGAAAA
+CGCTGTGAAGTCTGGGGAGAAAACCCCAATCCCAATGACTGGAGGAGAGTTGATGGTTGG
+CCAGTTGGGCTGAAAAATGTTGGCAATACATGTTGGTTTAGTGCTGTTATTCAGTCTCTC
+TTTCAATTGCCTGAATTTCGAAGACTTGTTCTCAGTTATAGTCTGCCACAAAATGTACTT
+GAAAATTGTCGAAGTCATACAGAAAAGAGAAATATCATGTTTATGCAAGAGCTTCAGTAT
+TTGTTTGCTCTAATGATGGGATCAAATAGAAAATTTGTAGACCCGTCTGCAGCCCTGGAT
+CTATTAAAGGGAGCATTCCGATCATCTGAGGAACAGCAGCAAGATGTGAGTGAATTCACA
+CACAAGCTCCTGGATTGGCTAGAGGACGCATTCCAGCTAGCTGTTAATGTTAACAGTCCC
+AGGAACAAATCTGAAAATCCAATGGTGCAGCTGTTCTATGGTACTTTCCTGACTGAAGGG
+GTTCGTGAAGGAAAACCCTTTTGTAACAATGAGACCTTCGGCCAGTATCCTCTTCAGGTA
+AACGGTTATCGCAACTTAGACGAGTGTTTGGAAGGGGCCATGGTGGAGGGTGATGTTGAG
+CTTCTTCCCTCCGATCACTCGGTGAAGTATGGACAAGAGCGTTGGTTTACAAAGCTACCT
+CCAGTGTTGACCTTTGAACTCTCAAGATTTGAGTTTAATCAGTCCCTTGGGCAGCCAGAG
+AAAATTCACAATAAGCTGGAATTTCCTCAGATTATTTATATGGACAGGTACATGTACAGG
+AGCAAGGAGCTTATTCGAAATAAGAGAGAGTGTATTCGAAAGTTGAAGGAGGAAATAAAA
+ATTCTGCAGCAAAAATTGGAAAGGTATGTGAAATATGGCTCAGGCCCAGCTCGGTTCCCG
+CTCCCGGACATGCTGAAATATGTTATTGAATTTGCTAGTACAAAACCTGCCTCAGAAAGC
+TGTCCACCTGAAAGTGACACACATATGACATTACCACTTTCTTCAGTGCACTGCTCGGTT
+TCTGACCAGACATCCAAGGAAAGTACAAGTACAGAAAGCTCTTCTCAGGATGTTGAAAGT
+ACCTTTTCTTCTCCTGAAGATTCTTTACCCAAGTCTAAACCACTGACATCTTCTCGGTCT
+TCCATGGAAATGCCTTCACAGCCAGCTCCACGAACAGTCACAGATGAGGAGATAAATTTT
+GTTAAGACCTGTCTTCAGAGATGGAGGAGTGAGATTGAACAAGATATACAAGATTTAAAG
+ACTTGTATTGCAAGTACTACTCAGACTATTGAACAGATGTACTGCGATCCTCTCCTTCGT
+CAGGTGCCTTATCGCTTGCATGCAGTTCTTGTTCATGAAGGACAAGCAAATGCTGGACAC
+TATTGGGCCTATATCTATAATCAACCCCGACAGAGCTGGCTCAAGTACAATGACATCTCT
+GTTACTGAATCTTCCTGGGAAGAAGTTGAAAGAGATTCCTATGGAGGCCTGAGAAATGTT
+AGTGCTTACTGTCTGATGTACATTAATGACAAACTACCCTACTTCAATGCAGAGGCAGCC
+CCAACTGAATCAGATCAAATGTCAGAAGTGGAAGCCCTATCTGTGGAACTCAAGCATTAC
+ATTCAGGAGGATAACTGGCGGTTTGAGCAGGAAGTAGAGGAGTGGGAAGAAGAGCAGTCT
+TGCAAAATCCCTCAAATGGAGTCCTCCACCAACTCCTCATCACAGGACTACTCTACATCA
+CAAGAGCCTTCAGTAGCCTCTTCTCATGGGGTTCGCTGCTTGTCGTCTGAGCATGCTGTG
+ATTGTAAAGGAGCAAACTGCCCAGGCTATTGCAAACACAGCCCGTGCCTATGAGAAGAGC
+GGTGTAGAAGCGGCACTGAGTGAGGTGATGCTGAGCCCTGCCATGCAAGGGGTCATCCTG
+GCCATAGCTAAAGCCCGTCAGACCTTTGACCGAGATGGGTCTGAAGCAGGGCTGATTAAG
+GCATTCCATGAAGAATACTCCAGGCTCTATCAGCTTGCCAAAGAGACCCCCACCTCTCAC
+AGTGATCCTCGACTTCAGCATGTCCTTGTCTACTTTTTCCAAAATGAAGCACCCAAAAGG
+GTAGTAGAACGAACCCTTCTGGAACAGTTTGCAGATAAAAATCTTAGCTATGATGAAAGA
+TCAATCAGCATTATGAAGGTGGCTCAAGCGAAACTGAAGGAAATTGGTCCAGATGACATG
+AATATGGAAGAGTACAAGAAGTGGCATGAAGATTATAGTTTGTTCCGAAAAGTGTCTGTG
+TATCTCCTAACAGGCCTAGAACTCTATCAAAAAGGAAAGTACCAAGAGGCACTTTCCTAC
+CTGGTATATGCCTACCAGAGCAATGCTGCCCTGCTGATGAAGGGGCCCCGCCGGGGGGTC
+AAAGAATCCGTGATTGCTTTATACCGAAGAAAATGCCTTCTGGAGCTGAATGCCAAAGCA
+GCTTCTCTTTTTGAAACAAATGATGATCACTCCGTAACTGAGGGCATTAATGTGATGAAT
+GAACTGATCATCCCCTGCATTCACCTTATCATTAATAATGACATTTCCAAGGATGATCTG
+GATGCCATTGAGGTCATGAGAAACCATTGGTGCTCTTACCTTGGGCAAGATATTGCAGAA
+AATCTGCAGCTGTGCCTAGGGGAGTTTCTACCCAGACTTCTAGATCCTTCTGCAGAAATC
+ATCGTCTTGAAAGAGCCTCCAACTATTCGACCCAATTCTCCCTATGACCTATGTAGCCGA
+TTTGCAGCTGTCATGGAGTCAATTCAGGGAGTTTCAACTGTGACAGTGAAATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1077</residue_number>
+    <molecular_weight>122490.0</molecular_weight>
+    <theoretical_pi>4.84</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UCH</name>
+        <pfam_id>PF00443</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Ubiquitin carboxyl-terminal hydrolase 28
+MTAELQQDDAAGAADGHGSSCQMLLNQLREITGIQDPSFLHEALKASNGDITQAVSLLTD
+ERVKEPSQDTVATEPSEVEGSAANKEVLAKVIDLTHDNKDDLQAAIALSLLESPKIQADG
+RDLNRMHEATSAETKRSKRKRCEVWGENPNPNDWRRVDGWPVGLKNVGNTCWFSAVIQSL
+FQLPEFRRLVLSYSLPQNVLENCRSHTEKRNIMFMQELQYLFALMMGSNRKFVDPSAALD
+LLKGAFRSSEEQQQDVSEFTHKLLDWLEDAFQLAVNVNSPRNKSENPMVQLFYGTFLTEG
+VREGKPFCNNETFGQYPLQVNGYRNLDECLEGAMVEGDVELLPSDHSVKYGQERWFTKLP
+PVLTFELSRFEFNQSLGQPEKIHNKLEFPQIIYMDRYMYRSKELIRNKRECIRKLKEEIK
+ILQQKLERYVKYGSGPARFPLPDMLKYVIEFASTKPASESCPPESDTHMTLPLSSVHCSV
+SDQTSKESTSTESSSQDVESTFSSPEDSLPKSKPLTSSRSSMEMPSQPAPRTVTDEEINF
+VKTCLQRWRSEIEQDIQDLKTCIASTTQTIEQMYCDPLLRQVPYRLHAVLVHEGQANAGH
+YWAYIYNQPRQSWLKYNDISVTESSWEEVERDSYGGLRNVSAYCLMYINDKLPYFNAEAA
+PTESDQMSEVEALSVELKHYIQEDNWRFEQEVEEWEEEQSCKIPQMESSTNSSSQDYSTS
+QEPSVASSHGVRCLSSEHAVIVKEQTAQAIANTARAYEKSGVEAALSEVMLSPAMQGVIL
+AIAKARQTFDRDGSEAGLIKAFHEEYSRLYQLAKETPTSHSDPRLQHVLVYFFQNEAPKR
+VVERTLLEQFADKNLSYDERSISIMKVAQAKLKEIGPDDMNMEEYKKWHEDYSLFRKVSV
+YLLTGLELYQKGKYQEALSYLVYAYQSNAALLMKGPRRGVKESVIALYRRKCLLELNAKA
+ASLFETNDDHSVTEGINVMNELIIPCIHLIINNDISKDDLDAIEVMRNHWCSYLGQDIAE
+NLQLCLGEFLPRLLDPSAEIIVLKEPPTIRPNSPYDLCSRFAAVMESIQGVSTVTVK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>16507200</genbank_protein_id>
+  <uniprot_id>Q96RU2</uniprot_id>
+  <uniprot_name>UBP28_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_020886.2</genbank_gene_id>
+  <genecard_id>USP28</genecard_id>
+  <geneatlas_id>USP28</geneatlas_id>
+  <hgnc_id>HGNC:12625</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Valero R, Bayes M, Francisca Sanchez-Font M, Gonzalez-Angulo O, Gonzalez-Duarte R, Marfany G: Characterization of alternatively spliced products and tissue-specific isoforms of USP28 and USP25. Genome Biol. 2001;2(10):RESEARCH0043. Epub 2001 Sep 13.</reference_text>
+      <pubmed_id>11597335</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Kikuno R, Ishikawa K, Hirosawa M, Ohara O: Prediction of the coding sequences of unidentified human genes. XVII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 2000 Apr 28;7(2):143-50.</reference_text>
+      <pubmed_id>10819331</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang D, Zaugg K, Mak TW, Elledge SJ: A role for the deubiquitinating enzyme USP28 in control of the DNA-damage response. Cell. 2006 Aug 11;126(3):529-42.</reference_text>
+      <pubmed_id>16901786</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Popov N, Herold S, Llamazares M, Schulein C, Eilers M: Fbw7 and Usp28 regulate myc protein stability in response to DNA damage.  Cell Cycle. 2007 Oct 1;6(19):2327-31. Epub 2007 Jul 26.</reference_text>
+      <pubmed_id>17873522</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Popov N, Wanzel M, Madiredjo M, Zhang D, Beijersbergen R, Bernards R, Moll R, Elledge SJ, Eilers M: The ubiquitin-specific protease USP28 is required for MYC stability.  Nat Cell Biol. 2007 Jul;9(7):765-74. Epub 2007 Jun 10.</reference_text>
+      <pubmed_id>17558397</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bassermann F, Frescas D, Guardavaccaro D, Busino L, Peschiaroli A, Pagano M: The Cdc14B-Cdh1-Plk1 axis controls the G2 DNA-damage-response checkpoint.  Cell. 2008 Jul 25;134(2):256-67.</reference_text>
+      <pubmed_id>18662541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li Q, Kluz T, Sun H, Costa M: Mechanisms of c-myc degradation by nickel compounds and hypoxia.  PLoS One. 2009 Dec 31;4(12):e8531.</reference_text>
+      <pubmed_id>20046830</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

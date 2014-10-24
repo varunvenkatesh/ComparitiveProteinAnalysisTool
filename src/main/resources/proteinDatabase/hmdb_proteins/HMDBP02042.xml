@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:51 -0700</creation_date>
+  <update_date>2013-05-27 11:32:17 -0600</update_date>
+  <accession>HMDBP02042</accession>
+  <secondary_accessions>
+    <accession>7521</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Proline oxidase</synonym>
+    <synonym>Proline oxidase 2</synonym>
+    <synonym>p53-induced gene 6 protein</synonym>
+  </synonyms>
+  <gene_name>PRODH</gene_name>
+  <general_function>Involved in proline dehydrogenase activity</general_function>
+  <specific_function>Converts proline to delta-1-pyrroline-5-carboxylate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Arginine and Proline Metabolism</name>
+      <smpdb_id>SMP00020</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>L-proline degradation into L-glutamate</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00162</accession>
+      <name>L-Proline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06556</accession>
+      <name>L-4-Hydroxyglutamate semialdehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01301</accession>
+      <name>1-Pyrroline-5-carboxylic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02273</accession>
+      <name>4-Hydroxy-L-glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06055</accession>
+      <name>4-Hydroxy-L-proline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-nh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>proline dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proline metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proline catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>FAD binding</description>
+      <go_id>GO:0071949</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>proline dehydrogenase activity</description>
+      <go_id>GO:0004657</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>4-hydroxyproline catabolic process</description>
+      <go_id>GO:0019470</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate biosynthetic process</description>
+      <go_id>GO:0006537</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intrinsic apoptotic signaling pathway in response to oxidative stress</description>
+      <go_id>GO:0008631</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proline catabolic process</description>
+      <go_id>GO:0006562</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proline catabolic process to glutamate</description>
+      <go_id>GO:0010133</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>22</chromosome_location>
+    <locus>22q11.21</locus>
+    <gene_sequence>&gt;1551 bp
+ATGCTGGAATTTGTGATGAGAGAGTGGAAAAAATCCAGGAAACTTCTAGGACAGAGGCTA
+TTCAACAAGCTCATGAAGATGACCTTCTATGGGCATTTTGTAGCCGGGGAGGACCAGGAG
+TCCATCCAGCCCCTGCTTCGGCACTACAGGGCCTTCGGTGTCAGCGCCATCCTGGACTAT
+GGAGTGGAGGAGGACCTGAGCCCCGAGGAGGCAGAGCACAAGGAGATGGAGTCCTGCTCC
+TCGGCTGCGGAGAGGGATGGCAGTGGCACGAATAAGCGGGACAAGCAATACCAGGCCCAC
+CGGGCTTTCGGGGACCGCAGGAATGGTGTCATCAGTGCCCGCACCTACTTCTACGCCAAT
+GAGGCCAAGTGCGACAGCCACATGGAGACATTCTTGCGCTGCATCGAAGCCTCAGGTAGA
+GTCAGCGATGACGGCTTCATAGCCATTAAGCTCACAGCACTGGGGAGACCCCAGTTTCTG
+CTGCAGTTCTCAGAGGTGCTGGCCAAGTGGAGGTGCTTCTTTCACCAAATGGCTGTGGAG
+CAAGGGCAGGCGGGCCTGGCTGCCATGGACACCAAGCTGGAGGTGGCGGTGCTGCAGGAA
+AGTGTCGCAAAGTTGGGCATCGCATCCAGGGCTGAGATTGAGGACTGGTTCACGGCAGAG
+ACCCTGGGAGTGTCTGGCACCATGGACCTGCTGGACTGGAGCAGCCTCATCGACAGCAGG
+ACCAAGCTGTCCAAGCACCTGGTAGTCCCCAACGCACAGACAGGACAGCTGGAGCCCCTG
+CTGTCCCGGTTCACTGAGGAGGAGGAGCTACAGATGACCAGGATGCTACAGCGGATGGAT
+GTCCTGGCCAAGAAAGCCACAGAGATGGGCGTGCGGCTGATGGTGGATGCCGAGCAGACC
+TACTTCCAGCCGGCCATCAGCCGCCTGACGCTGGAGATGCAGCGGAAGTTCAATGTGGAG
+AAGCCGCTCATCTTCAACACATACCAGTGCTACCTCAAGGATGCCTATGACAATGTGACC
+CTGGACGTGGAGCTGGCTCGCCGTGAGGGCTGGTGTTTTGGGGCCAAGCTGGTGCGGGGC
+GCATACCTGGCCCAGGAGCGAGCCCGTGCGGCAGAGATCGGCTATGAGGACCCCATCAAC
+CCCACGTACGAGGCCACCAACGCCATGTACCACAGGTGCCTGGACTACGTGTTGGAGGAG
+CTGAAGCACAACGCCAAGGCCAAGGTGATGGTGGCCTCCCACAATGAGGACACAGTGCGC
+TTCGCACTGCGCAGGATGGAGGAGCTGGGCCTGCATCCTGCTGACCACCAGGTGTACTTT
+GGACAGCTGCTAGGCATGTGTGACCAGATCAGCTTCCCGCTGGGCCAGGCCGGCTACCCC
+GTGTACAAGTACGTGCCCTATGGCCCCGTGATGGAGGTGCTGCCCTACTTGTCCCGCCGT
+GCCCTGGAGAACAGCAGCCTCATGAAGGGCACCCATCGGGAGCGGCAGTTGCTGTGGCTG
+GAGCTCTTGAGGCGGCTCCGAACTGGCAACCTCTTCCATCGCCCTGCCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>516</residue_number>
+    <molecular_weight>56196.675</molecular_weight>
+    <theoretical_pi>6.336</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pro_dh</name>
+        <pfam_id>PF01619</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Proline dehydrogenase, mitochondrial
+MLEFVMREWKKSRKLLGQRLFNKLMKMTFYGHFVAGEDQESIQPLLRHYRAFGVSAILDY
+GVEEDLSPEEAEHKEMESCTSAAERDGSGTNKRDKQYQAHRAFGDRRNGVISARTYFYAN
+EAKCDSHMETFLRCIEASGRVSDDGFIAIKLTALGRPQFLLQFSEVLAKWRCFFHQMAVE
+QGQAGLAAMDTKLEVAVLQESVAKLGIASRAEIEDWFTAETLGVSGTMDLLDWSSLIDSR
+TKLSKHLVVPNAQTGQLEPLLSRFTEEEELQMTRMLQRMDVLAKKATEMGVRLMVDAEQT
+YFQPAISRLTLEMQRKFNVEKPLIFNTYQCYLKDAYDNVTLDVELARREGWCFGAKLVRG
+AYLAQERARAAEIGYEDPINPTYEATNAMYHRCLDYVLEELKHNAKAKVMVASHNEDTVR
+FALRRMEELGLHPADHQVYFGQLLGMCDQISFPLGQAGYPVYKYVPYGPVMEVLPYLSRR
+ALENSSLMKGTHRERQLLWLELLRRLRTGNLFHRPA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2677802</genbank_protein_id>
+  <uniprot_id>O43272</uniprot_id>
+  <uniprot_name>PROD_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U82381</genbank_gene_id>
+  <genecard_id>PRODH</genecard_id>
+  <geneatlas_id>PRODH</geneatlas_id>
+  <hgnc_id>HGNC:9453</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Campbell HD, Webb GC, Young IG: A human homologue of the Drosophila melanogaster sluggish-A (proline oxidase) gene maps to 22q11.2, and is a candidate gene for type-I hyperprolinaemia. Hum Genet. 1997 Nov;101(1):69-74.</reference_text>
+      <pubmed_id>9385373</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gogos JA, Santha M, Takacs Z, Beck KD, Luine V, Lucas LR, Nadler JV, Karayiorgou M: The gene encoding proline dehydrogenase modulates sensorimotor gating in mice. Nat Genet. 1999 Apr;21(4):434-9.</reference_text>
+      <pubmed_id>10192398</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bender HU, Almashanu S, Steel G, Hu CA, Lin WW, Willis A, Pulver A, Valle D: Functional consequences of PRODH missense mutations.  Am J Hum Genet. 2005 Mar;76(3):409-20. Epub 2005 Jan 20.</reference_text>
+      <pubmed_id>15662599</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Polyak K, Xia Y, Zweier JL, Kinzler KW, Vogelstein B: A model for p53-induced apoptosis.  Nature. 1997 Sep 18;389(6648):300-5.</reference_text>
+      <pubmed_id>9305847</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jacquet H, Raux G, Thibaut F, Hecketsweiler B, Houy E, Demilly C, Haouzir S, Allio G, Fouldrin G, Drouin V, Bou J, Petit M, Campion D, Frebourg T: PRODH mutations and hyperprolinemia in a subset of schizophrenic patients.  Hum Mol Genet. 2002 Sep 15;11(19):2243-9.</reference_text>
+      <pubmed_id>12217952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu H, Heath SC, Sobin C, Roos JL, Galke BL, Blundell ML, Lenane M, Robertson B, Wijsman EM, Rapoport JL, Gogos JA, Karayiorgou M: Genetic variation at the 22q11 PRODH2/DGCR6 locus presents an unusual pattern and increases susceptibility to schizophrenia. Proc Natl Acad Sci U S A. 2002 Mar 19;99(6):3717-22. Epub 2002 Mar 12.</reference_text>
+      <pubmed_id>11891283</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Raux G, Bumsel E, Hecketsweiler B, van Amelsvoort T, Zinkstok J, Manouvrier-Hanu S, Fantini C, Breviere GM, Di Rosa G, Pustorino G, Vogels A, Swillen A, Legallic S, Bou J, Opolczynski G, Drouin-Garraud V, Lemarchand M, Philip N, Gerard-Desplanches A, Carlier M, Philippe A, Nolen MC, Heron D, Sarda P, Lacombe D, Coizet C, Alembik Y, Layet V, Afenjar A, Hannequin D, Demily C, Petit M, Thibaut F, Frebourg T, Campion D: Involvement of hyperprolinemia in cognitive and psychiatric features of the 22q11 deletion syndrome. Hum Mol Genet. 2007 Jan 1;16(1):83-91. Epub 2006 Nov 29.</reference_text>
+      <pubmed_id>17135275</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Proline</name>
+        <accession>HMDB00162</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Huang TC, Huang YW, Hung HJ, Ho CT, Wu ML: Delta1-pyrroline-5-carboxylic acid formed by proline dehydrogenase from the Bacillus subtilis ssp. natto expressed in Escherichia coli as a precursor for 2-acetyl-1-pyrroline. J Agric Food Chem. 2007 Jun 27;55(13):5097-102. Epub 2007 May 31.</reference_text>
+        <pubmed_id>17536821</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Proline</name>
+        <accession>HMDB00162</accession>
+      </metabolite>
+      <reference>
+        <reference_text>White TA, Krishnan N, Becker DF, Tanner JJ: Structure and kinetics of monofunctional proline dehydrogenase from Thermus thermophilus. J Biol Chem. 2007 May 11;282(19):14316-27. Epub 2007 Mar 7.</reference_text>
+        <pubmed_id>17344208</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Proline</name>
+        <accession>HMDB00162</accession>
+      </metabolite>
+      <reference>
+        <reference_text>White TA, Tanner JJ: Cloning, purification and crystallization of Thermus thermophilus proline dehydrogenase. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2005 Aug 1;61(Pt 8):737-9. Epub       2005 Jul 8.</reference_text>
+        <pubmed_id>16511143</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Proline</name>
+        <accession>HMDB00162</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Phang JM, Donald SP, Pandhare J, Liu Y: The metabolism of proline, a stress substrate, modulates carcinogenic pathways.  Amino Acids. 2008 Nov;35(4):681-90. Epub 2008 Apr 10.</reference_text>
+        <pubmed_id>18401543</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Proline</name>
+        <accession>HMDB00162</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Phang JM, Liu W, Zabirnyk O: Proline metabolism and microenvironmental stress.  Annu Rev Nutr. 2010 Aug 21;30:441-63.</reference_text>
+        <pubmed_id>20415579</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

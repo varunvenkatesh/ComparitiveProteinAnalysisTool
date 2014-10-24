@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:31:26 -0700</creation_date>
+  <update_date>2013-01-15 20:31:26 -0700</update_date>
+  <accession>HMDBP10118</accession>
+  <secondary_accessions>
+    <accession>16073</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Deubiquitinating enzyme 35</synonym>
+    <synonym>Ubiquitin thiolesterase 35</synonym>
+    <synonym>Ubiquitin-specific-processing protease 35</synonym>
+  </synonyms>
+  <gene_name>USP35</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Thiol-dependent hydrolysis of ester, thioester, amide, peptide and isopeptide bonds formed by the C- terminal Gly of ubiquitin (a 76-residue protein attached to proteins as an intracellular targeting signal)</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>thiolester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ubiquitin thiolesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>modification-dependent macromolecule catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>modification-dependent protein catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ubiquitin-dependent protein catabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q14.1</locus>
+    <gene_sequence>&gt;3054 bp
+ATGGACAAGATCTTGGAGGCGGTGGTGACGTCGTCATACCCGGTCAGCGTGAAGCAGGGG
+CTGGTTCGGCGCGTGCTGGAGGCGGCGCGGCAGCCGCTGGAGCGTGAGCAGTGCCTGGCG
+CTGCTGGCGCTGGGCGCGCGCCTCTACGTGGGCGGCGCGGAGGAGCTGCCGCGCCGCGTG
+GGCTGCCAGCTGCTGCACGTGGCCGGCCGCCACCACCCCGACGTCTTCGCCGAGTTCTTC
+AGCGCGCGTCGCGTGCTGCGCCTGCTGCAGGGTGGCGCCGGCCCCCCGGGCCCCCGCGCG
+CTCGCCTGCGTGCAGCTGGGTCTGCAGCTGCTGCCCGAGGGGCCTGCGGCCGACGAGGTG
+TTCGCGCTGCTGCGGCGCGAGGTGCTGCGCACCGTGTGCGAGCGCCCGGGCCCCGCGGCC
+TGCGCGCAGGTGGCACGGCTGCTGGCTCGCCACCCGCGCTGTGTGCCCGACGGACCCCAC
+CGCCTGCTCTTCTGCCAGCAGCTGGTGCGTTGCCTCGGCCGCTTCCGCTGCCCAGCCGAA
+GGCGAGGAGGGCGCCGTGGAGTTCCTAGAGCAGGCCCAGCAGGTGAGCGGGCTCCTGGCG
+CAGCTGTGGCGCGCACAGCCCGCCGCCATCCTGCCCTGCCTCAAAGAGCTGTTCGCAGTC
+ATCTCCTGCGAGGAGGAGCCACCATCTAGCGCCCTGGCCAGCGTGGTCCAGCACCTCCCA
+TTGGAGCTCATGGATGGTGTTGTCCGGAACCTCAGCAATGATGACAGTGTGACAGACTCG
+CAGATGCTGACTGCCATTAGCAGGATGATTGACTGGGTGTCCTGGCCCCTGGGGAAGAAT
+ATTGACAAGTGGATCATTGCACTGCTGAAGGGCCTGGCTGCTGTTAAGAAGTTCAGCATC
+TTGATCGAGGTTTCGCTCACCAAAATTGAGAAGGTTTTCTCTAAGCTGCTGTACCCCATC
+GTCCGGGGAGCTGCCTTGTCTGTGCTCAAGTACATGCTCCTGACCTTCCAGCACTCCCAC
+GAAGCCTTCCACCTGCTCCTCCCTCACATCCCCCCCATGGTGGCCTCTCTGGTCAAGGAG
+GACTCGAACTCGGGGACCAGCTGCCTGGAGCAGCTGGCGGAGCTGGTCCACTGCATGGTG
+TTCCGGTTCCCGGGCTTCCCGGATCTGTATGAGCCTGTCATGGAGGCCATCAAGGACCTC
+CATGTTCCCAATGAGGACCGCATCAAGCAGCTGCTGGGGCAGGATGCCTGGACTTCGCAG
+AAGAGCGAGCTGGCGGGTTTCTATCCCCGGCTCATGGCCAAGTCAGACACGGGCAAGATT
+GGTCTCATCAACCTGGGCAACACATGCTATGTCAACAGCATCCTTCAGGCCTTATTCATG
+GCGTCTGAGTTCAGACATTGTGTGCTCCGCTTGACTGAGAACAACTCACAGCCCCTGATG
+ACCAAGCTGCAGTGGCTCTTTGGCTTCCTAGAACACAGCCAGCGGCCTGCCATTTCCCCA
+GAGAACTTCCTCTCCGCATCCTGGACGCCCTGGTTCAGCCCTGGCACCCAGCAGGACTGC
+TCGGAGTATCTGAAGTACCTGCTGGATAGGCTGCACGAAGAGGAGAAAACGGGCACAAGG
+ATCTGCCAGAAACTCAAGCAGTCCAGCTCGCCCTCTCCGCCCGAGGAGCCCCCGGCCCCA
+AGTTCAACCTCTGTGGAAAAAATGTTTGGAGGCAAGATAGTGACTCGGATCTGCTGTCTC
+TGCTGCCTCAACGTCTCCTCCCGGGAGGAGGCCTTCACGGACCTCTCTCTCGCCTTCCCT
+CCTCCTGAGCGCTGTCGCCGCCGCCGCCTGGGCTCTGTGATGCGCCCCACAGAAGACATC
+ACAGCCCGGGAGTTGCCCCCACCAACCAGTGCACAGGGGCCAGGCAGGGTGGGTCCTCGG
+AGGCAAAGGAAACACTGCATCACAGAGGACACCCCCCCCACCAGCCTGTACATCGAAGGC
+CTGGACTCCAAGGAAGCTGGTGGGCAGAGCAGTCAGGAGGAAAGGATAGAGAGGGAGGAA
+GAAGGGAAGGAGGAGAGAACGGAGAAGGAAGAAGTGGGGGAGGAGGAGGAAAGCACCAGA
+GGGGAAGGAGAGAGGGAGAAAGAGGAGGAGGTGGAAGAGGAAGAAGAGAAGGTGGAGAAG
+GAGACAGAAAAGGAGGCTGAGCAGGAAAAGGAAGAAGACAGCCTGGGAGCGGGGACCCAC
+CCGGATGCTGCCATCCCCTCCGGGGAGCGGACATGTGGCTCTGAGGGCTCCCGCTCCGTC
+CTGGACCTGGTTAACTACTTCCTGTCCCCCGAGAAGCTGACAGCAGAAAACCGCTACTAC
+TGCGAGTCGTGTGCCTCCCTGCAGGATGCCGAGAAGGTGGTGGAGCTGAGCCAAGGGCCG
+TGCTACCTCATCCTCACACTGCTGCGCTTCTCTTTCGACCTGCGCACCATGCGGCGCCGC
+AAGATCCTGGATGACGTCTCCATCCCCCTGCTGCTCCGCCTGCCACTGGCTGGTGGCCGT
+GGCCAGGCCTATGACCTCTGCAGTGTGGTGGTGCACTCTGGAGTGTCTTCGGAGAGTGGT
+CACTACTACTGCTATGCCCGTGAGGGCGCTGCCCGCCCTGCCGCTTCTCTGGGAACTGCC
+GATAGGCCAGAGCCCGAGAACCAGTGGTACCTGTTCAATGACACTCGGGTGTCCTTCTCT
+TCCTTCGAATCTGTCAGCAACGTCACCTCCTTCTTCCCTAAGGACACAGCCTATGTGCTG
+TTTTACCGGCAGCGGCCCAGGGAGGGGCCCGAGGCTGAGTTGGGCTCTTCTAGAGTCCGG
+ACAGAGCCCACCCTGCACAAGGACTTGATGGAAGCCATTTCCAAAGACAACATCCTTTAC
+CTACAGGAGCAGGAGAAGGAGGCCCGGAGCAGGGCGGCCTACATCTCTGCACTCCCCACA
+TCTCCGCACTGGGGGAGGGGCTTTGATGAAGACAAGGATGAGGATGAAGGCTCTCCAGGG
+GGCTGCAATCCTGCAGGTGGCAATGGTGGTGACTTCCACAGACTGGTCTTCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1017</residue_number>
+    <molecular_weight>113346.8</molecular_weight>
+    <theoretical_pi>5.28</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UCH</name>
+        <pfam_id>PF00443</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Ubiquitin carboxyl-terminal hydrolase 35
+MDKILEAVVTSSYPVSVKQGLVRRVLEAARQPLEREQCLALLALGARLYVGGAEELPRRV
+GCQLLHVAGRHHPDVFAEFFSARRVLRLLQGGAGPPGPRALACVQLGLQLLPEGPAADEV
+FALLRREVLRTVCERPGPAACAQVARLLARHPRCVPDGPHRLLFCQQLVRCLGRFRCPAE
+GEEGAVEFLEQAQQVSGLLAQLWRAQPAAILPCLKELFAVISCEEEPPSSALASVVQHLP
+LELMDGVVRNLSNDDSVTDSQMLTAISRMIDWVSWPLGKNIDKWIIALLKGLAAVKKFSI
+LIEVSLTKIEKVFSKLLYPIVRGAALSVLKYMLLTFQHSHEAFHLLLPHIPPMVASLVKE
+DSNSGTSCLEQLAELVHCMVFRFPGFPDLYEPVMEAIKDLHVPNEDRIKQLLGQDAWTSQ
+KSELAGFYPRLMAKSDTGKIGLINLGNTCYVNSILQALFMASEFRHCVLRLTENNSQPLM
+TKLQWLFGFLEHSQRPAISPENFLSASWTPWFSPGTQQDCSEYLKYLLDRLHEEEKTGTR
+ICQKLKQSSSPSPPEEPPAPSSTSVEKMFGGKIVTRICCLCCLNVSSREEAFTDLSLAFP
+PPERCRRRRLGSVMRPTEDITARELPPPTSAQGPGRVGPRRQRKHCITEDTPPTSLYIEG
+LDSKEAGGQSSQEERIEREEEGKEERTEKEEVGEEEESTRGEGEREKEEEVEEEEEKVEK
+ETEKEAEQEKEEDSLGAGTHPDAAIPSGERTCGSEGSRSVLDLVNYFLSPEKLTAENRYY
+CESCASLQDAEKVVELSQGPCYLILTLLRFSFDLRTMRRRKILDDVSIPLLLRLPLAGGR
+GQAYDLCSVVVHSGVSSESGHYYCYAREGAARPAASLGTADRPEPENQWYLFNDTRVSFS
+SFESVSNVTSFFPKDTAYVLFYRQRPREGPEAELGSSRVRTEPTLHKDLMEAISKDNILY
+LQEQEKEARSRAAYISALPTSPHWGRGFDEDKDEDEGSPGGCNPAGGNGGDFHRLVF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>40788031</genbank_protein_id>
+  <uniprot_id>Q9P2H5</uniprot_id>
+  <uniprot_name>UBP35_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AJ586137</genbank_gene_id>
+  <genecard_id>USP35</genecard_id>
+  <geneatlas_id>USP35</geneatlas_id>
+  <hgnc_id>HGNC:20061</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Quesada V, Diaz-Perales A, Gutierrez-Fernandez A, Garabaya C, Cal S, Lopez-Otin C: Cloning and enzymatic analysis of 22 novel human ubiquitin-specific proteases. Biochem Biophys Res Commun. 2004 Jan 30;314(1):54-62.</reference_text>
+      <pubmed_id>14715245</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Kikuno R, Ishikawa KI, Hirosawa M, Ohara O: Prediction of the coding sequences of unidentified human genes. XVI. The complete sequences of 150 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 2000 Feb 28;7(1):65-73.</reference_text>
+      <pubmed_id>10718198</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

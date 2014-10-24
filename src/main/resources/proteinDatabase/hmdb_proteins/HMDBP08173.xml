@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:07:13 -0700</creation_date>
+  <update_date>2013-01-15 20:07:13 -0700</update_date>
+  <accession>HMDBP08173</accession>
+  <secondary_accessions>
+    <accession>13884</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>OATP-H</synonym>
+    <synonym>OATP-M1</synonym>
+    <synonym>Organic anion transporter M1</synonym>
+    <synonym>Solute carrier family 21 member 20</synonym>
+  </synonyms>
+  <gene_name>SLCO4C1</gene_name>
+  <general_function>Involved in transporter activity</general_function>
+  <specific_function>Organic anion transporter, capable of transporting pharmacological substances such as digoxin, ouabain, thyroxine, methotrexate and cAMP. May participate in the regulation of membrane transport of ouabain. Involved in the uptake of the dipeptidyl peptidase-4 inhibitor sitagliptin and hence may play a role in its transport into and out of renal proximal tubule cells. May be involved in the first step of the transport pathway of digoxin and various compounds into the urine in the kidney. May be involved in sperm maturation by enabling directed movement of organic anions and compounds within or between cells. This ion- transporting process is important to maintain the strict epididymal homeostasis necessary for sperm maturation. May have a role in secretory functions since seminal vesicle epithelial cells are assumed to secrete proteins involved in decapacitation by modifying surface proteins to facilitate the acquisition of the ability to fertilize the egg</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01917</accession>
+      <name>Digoxin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14534</accession>
+      <name>Digoxin n</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15224</accession>
+      <name>Ouabain</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15468</accession>
+      <name>Digitoxin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15523</accession>
+      <name>Liotrix</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Basolateral cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:5</chromosome_location>
+    <locus>5q21.2</locus>
+    <gene_sequence>&gt;2175 bp
+ATGAAGAGCGCCAAAGGTATTGAGAACTTGGCTTTTGTCCCCTCCAGCCCAGACATCCTG
+CGCCGCTTGTCTGCGTCGCCCTCCCAAATCGAAGTCTCTGCCTTGTCCTCTGACCCCCAA
+AGAGAGAATTCTCAGCCACAGGAGCTTCAGAAGCCCCAGGAGCCCCAGAAGTCACCAGAG
+CCATCTCTGCCTTCAGCCCCTCCCAATGTCTCCGAAGAGAAGCTCCGGTCACTGTCGCTG
+TCCGAGTTTGAGGAGGGGTCTTACGGCTGGAGGAACTTCCATCCTCAATGTCTCCAGCGC
+TGCAACACACCTGGAGGCTTTCTGCTTCACTACTGCCTCTTGGCCGTCACGCAAGGTATT
+GTAGTTAATGGCCTAGTAAATATTAGCATTTCCACTGTTGAGAAGCGTTATGAAATGAAG
+AGTTCCCTGACTGGCCTGATTTCATCAAGCTACGATATTTCATTCTGTTTGTTGTCTTTA
+TTTGTATCATTCTTTGGTGAAAGAGGACATAAGCCGAGATGGCTTGCATTTGCAGCCTTT
+ATGATTGGACTGGGAGCACTTGTATTCTCATTGCCACAATTTTTCAGTGGAGAATATAAA
+TTGGGGTCTCTTTTTGAAGACACTTGTGTAACAACAAGGAATAGCACCAGTTGTACATCT
+TCAACTTCTTCACTTTCTAACTACTTGTATGTCTTCATCTTGGGACAACTATTGCTGGGG
+GCAGGAGGAACTCCTCTTTATACTCTGGGAACAGCCTTTCTTGATGATTCTGTGCCCACA
+CACAAGTCTTCTCTCTATATAGGAACCGGTTATGCTATGTCAATCTTAGGCCCTGCTATT
+GGCTATGTATTGGGAGGACAACTGCTAACCATATACATTGATGTTGCTATGGGAGAAAGC
+ACTGATGTCACTGAGGATGATCCGCGATGGTTGGGAGCTTGGTGGATTGGGTTTCTTCTA
+TCATGGATCTTTGCTTGGTCTTTAATAATACCTTTTTCTTGCTTTCCAAAACATTTACCA
+GGTACAGCAGAAATTCAAGCTGGAAAAACTTCCCAGGCTCATCAGAGTAATAGTAATGCA
+GATGTGAAATTTGGAAAAAGTATTAAAGATTTTCCAGCTGCTCTAAAGAATTTGATGAAG
+AATGCTGTCTTTATGTGTTTAGTTCTATCAACTTCTTCAGAAGCCTTAATTACTACTGGA
+TTTGCTACATTTTTACCTAAATTTATAGAAAATCAATTCGGATTGACATCCAGCTTCGCA
+GCTACTCTTGGAGGGGCTGTTTTAATTCCTGGAGCTGCTCTCGGTCAAATTTTAGGTGGC
+TTCCTTGTTTCAAAATTCAGAATGACATGTAAAAACACAATGAAGTTTGCACTGTTCACA
+TCTGGAGTTGCACTTACGCTGAGTTTTGTATTTATGTATGCCAAATGTGAAAATGAGCCA
+TTTGCTGGTGTATCTGAATCATATAATGGGACTGGAGAATTGGGAAACTTGATAGCCCCT
+TGTAATGCCAATTGTAACTGTTCGCGATCATATTATTATCCTGTCTGTGGAGATGGAGTC
+CAATATTTTTCTCCCTGCTTTGCAGGCTGTTCAAACCCAGTTGCACACAGGAAGCCAAAG
+GTATATTACAACTGTTCCTGTATTGAAAGGAAAACAGAAATAACATCCACTGCAGAAACT
+TTTGGTTTTGAAGCTAAAGCTGGAAAATGTGAAACTCATTGTGCGAAACTGCCCATATTC
+CTTTGCATTTTCTTTATTGTAATTATTTTTACCTTTATGGCCGGTACTCCTATAACTGTG
+TCTATCCTAAGGTGTGTTAATCACAGACAACGGTCCCTAGCCTTGGGAATACAATTTATG
+GTCCTTCGATTATTAGGAACAATTCCTGGACCAATTATATTTGGTTTCACAATAGACAGC
+ACATGTATTCTTTGGGATATAAATGATTGTGGAATTAAAGGAGCTTGCTGGATTTATGAT
+AACATCAAGATGGCCCATATGCTAGTAGCCATAAGTGTTACTTGTAAAGTTATCACCATG
+TTCTTCAATGGATTTGCAATCTTTTTGTATAAACCACCTCCATCAGCCACAGATGTGTCA
+TTTCATAAAGAGAATGCAGTTGTGACTAATGTTTTAGCAGAACAGGATCTCAACAAAATA
+GTAAAAGAAGGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>724</residue_number>
+    <molecular_weight>78947.5</molecular_weight>
+    <theoretical_pi>7.57</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Kazal_2</name>
+        <pfam_id>PF07648</pfam_id>
+      </pfam>
+      <pfam>
+        <name>OATP</name>
+        <pfam_id>PF03137</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>106-126</region>
+      <region>145-165</region>
+      <region>175-195</region>
+      <region>229-249</region>
+      <region>273-293</region>
+      <region>310-330</region>
+      <region>382-402</region>
+      <region>423-443</region>
+      <region>454-474</region>
+      <region>578-598</region>
+      <region>624-644</region>
+      <region>668-688</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Solute carrier organic anion transporter family member 4C1
+MKSAKGIENLAFVPSSPDILRRLSASPSQIEVSALSSDPQRENSQPQELQKPQEPQKSPE
+PSLPSAPPNVSEEKLRSLSLSEFEEGSYGWRNFHPQCLQRCNTPGGFLLHYCLLAVTQGI
+VVNGLVNISISTVEKRYEMKSSLTGLISSSYDISFCLLSLFVSFFGERGHKPRWLAFAAF
+MIGLGALVFSLPQFFSGEYKLGSLFEDTCVTTRNSTSCTSSTSSLSNYLYVFILGQLLLG
+AGGTPLYTLGTAFLDDSVPTHKSSLYIGTGYAMSILGPAIGYVLGGQLLTIYIDVAMGES
+TDVTEDDPRWLGAWWIGFLLSWIFAWSLIIPFSCFPKHLPGTAEIQAGKTSQAHQSNSNA
+DVKFGKSIKDFPAALKNLMKNAVFMCLVLSTSSEALITTGFATFLPKFIENQFGLTSSFA
+ATLGGAVLIPGAALGQILGGFLVSKFRMTCKNTMKFALFTSGVALTLSFVFMYAKCENEP
+FAGVSESYNGTGELGNLIAPCNANCNCSRSYYYPVCGDGVQYFSPCFAGCSNPVAHRKPK
+VYYNCSCIERKTEITSTAETFGFEAKAGKCETHCAKLPIFLCIFFIVIIFTFMAGTPITV
+SILRCVNHRQRSLALGIQFMVLRLLGTIPGPIIFGFTIDSTCILWDINDCGIKGACWIYD
+NIKMAHMLVAISVTCKVITMFFNGFAIFLYKPPPSATDVSFHKENAVVTNVLAEQDLNKI
+VKEG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q6ZQN7</uniprot_id>
+  <uniprot_name>SO4C1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF401643</genbank_gene_id>
+  <genecard_id>SLCO4C1</genecard_id>
+  <geneatlas_id>SLCO4C1</geneatlas_id>
+  <hgnc_id>HGNC:23612</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda S, Tokui T, Eto N, Abe M, Satoh F, Unno M, Hishinuma T, Inui K, Ito S, Goto J, Abe T: Isolation and characterization of a digoxin transporter and its rat homologue expressed in the kidney. Proc Natl Acad Sci U S A. 2004 Mar 9;101(10):3569-74. Epub 2004 Mar 1.</reference_text>
+      <pubmed_id>14993604</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chu XY, Bleasby K, Yabut J, Cai X, Chan GH, Hafey MJ, Xu S, Bergman AJ, Braun MP, Dean DC, Evers R: Transport of the dipeptidyl peptidase-4 inhibitor sitagliptin by human organic anion transporter 3, organic anion transporting polypeptide 4C1, and multidrug resistance P-glycoprotein. J Pharmacol Exp Ther. 2007 May;321(2):673-83. Epub 2007 Feb 21.</reference_text>
+      <pubmed_id>17314201</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Digoxin n</name>
+        <accession>HMDB14534</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda S, Tokui T, Eto N, Abe M, Satoh F, Unno M, Hishinuma T, Inui K, Ito S, Goto J, Abe T: Isolation and characterization of a digoxin transporter and its rat homologue expressed in the kidney. Proc Natl Acad Sci U S A. 2004 Mar 9;101(10):3569-74. Epub 2004 Mar 1.</reference_text>
+        <pubmed_id>14993604</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ouabain</name>
+        <accession>HMDB15224</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda S, Tokui T, Eto N, Abe M, Satoh F, Unno M, Hishinuma T, Inui K, Ito S, Goto J, Abe T: Isolation and characterization of a digoxin transporter and its rat homologue expressed in the kidney. Proc Natl Acad Sci U S A. 2004 Mar 9;101(10):3569-74. Epub 2004 Mar 1.</reference_text>
+        <pubmed_id>14993604</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Digitoxin</name>
+        <accession>HMDB15468</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda S, Tokui T, Eto N, Abe M, Satoh F, Unno M, Hishinuma T, Inui K, Ito S, Goto J, Abe T: Isolation and characterization of a digoxin transporter and its rat homologue expressed in the kidney. Proc Natl Acad Sci U S A. 2004 Mar 9;101(10):3569-74. Epub 2004 Mar 1.</reference_text>
+        <pubmed_id>14993604</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Liotrix</name>
+        <accession>HMDB15523</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda S, Tokui T, Eto N, Abe M, Satoh F, Unno M, Hishinuma T, Inui K, Ito S, Goto J, Abe T: Isolation and characterization of a digoxin transporter and its rat homologue expressed in the kidney. Proc Natl Acad Sci U S A. 2004 Mar 9;101(10):3569-74. Epub 2004 Mar 1.</reference_text>
+        <pubmed_id>14993604</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:00:55 -0700</creation_date>
+  <update_date>2013-05-27 11:15:38 -0600</update_date>
+  <accession>HMDBP01952</accession>
+  <secondary_accessions>
+    <accession>7366</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Cytochrome oxidase assembly factor PET112 homolog</synonym>
+    <synonym>Glu-ADT subunit B</synonym>
+    <synonym>Cytochrome c oxidase assembly factor PET112 homolog</synonym>
+  </synonyms>
+  <gene_name>PET112</gene_name>
+  <general_function>Involved in carbon-nitrogen ligase activity, with glutamine as amido-N-donor</general_function>
+  <specific_function>Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in the mitochondria. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln).
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00641</accession>
+      <name>L-Glutamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbon-nitrogen ligase activity, with glutamine as amido-n-donor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>glutamyl-tRNA(Gln) amidotransferase complex</description>
+      <go_id>GO:0030956</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity</description>
+      <go_id>GO:0050567</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>translation factor activity, nucleic acid binding</description>
+      <go_id>GO:0008135</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutaminyl-tRNAGln biosynthesis via transamidation</description>
+      <go_id>GO:0070681</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrial translation</description>
+      <go_id>GO:0032543</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>4</chromosome_location>
+    <locus>4q31.3</locus>
+    <gene_sequence>&gt;1674 bp
+ATGGCGGCGCCCATGCTGCGCTGGGGCTGCCGTGGAAGACGTTGGGCTTTCGCCCGGGTT
+GACGGTGGTTCTTGCCACCGAAGAGGGGCTCCGACTGGGTCCACATCCAACCAGATTAGG
+GGAGAGAGCTCAGTGGCTCAGCAGCCCCTCCACACGGCCCAGAAGACGAGGAAAGGTGAA
+CACAAATGGGCTGCTGTGGTAGGTTTGGAAATTCATGCCCAGATTTCCTCCAACTCTAAA
+CTCTTCTCTGGATCTCAAGTTCGCTTTTCAGCACCTCCAAATTCTTTGGTTTCTTTTTTT
+GATGCATCTCTACCTGGAACTTTGCCGGTTCTCAACAGGAGGTGTGTAGAAGCGGCGGTG
+ATGACAGGCCTGGCTCTGAACTGCCACATAAACAAGAAGTCCTTGTTTGACAGGAAGCAC
+TACTTCTATGCAGACCTCCCTGCAGGCTACCAAATTACCCAGCAGAGGCTCCCAATTGCT
+GTGAATGGGAGCTTGATATATGGCGTCTGTGCAGGGAAGAAGCAGAGTCAGGTGATCCCC
+AAGACGGTGAGGATCAAGCAGATCCAGTTGGAGCAAGACAGTGGCAAAAGCCTCCACGAC
+AACCTGAGGTCTCAGACGCTCATTGATTTGAACAGGGCAGGAGTGGGCCTTCTGGAGGTG
+GTCCTGGAGCCCGACATGTCCTGTGGAGAAGAGGCGGCAACAGCTGTCAGGGAGCTGCAG
+CTGATCCTTCAAGCCCTGGGGACCAGCCAGGCGAACATGGCAGAGGGCCAGTTGAGAGTG
+GATGCCAATATATCCGTGCATCACCCTGGGGAGCCTTTGGGCGTTCGAACGGAAGTGAAG
+AATCTCAACAGCATCAGGTTCCTGGCCAAAGCCATAGACTATGAAATTCAGAGGCAAATC
+AATGAACTTGAGAATGGAGGTGAAATTCTGAACGAAACACGCTCATTTCATCACAAGCTG
+GGGTGCACCATGTCAATGAGAGACAAAGAAGGAAAACAGGACTACAGGTTCATGCCAGAA
+CCCAACCTGCCTCCCCTGGTGCTCTACGACGCCACATCTCTGCCCGCAGGTGCAGACCCA
+CAGCAAGTGATCAATATTGACCAGATTCGGGAGACACTCCCGGAGCTCCCCAGTGTGACC
+CGAGAGAAGCTTGTCCAACAGTATGGGATGCTGCTGGAACACAGCTTCACTTTGCTGAAC
+GAAGTCGGCCTACTGGAGTTCTTCCAAAATGTGATAAAAGAAACTAGGGCAGAGCCAAAA
+AAGGTGACTAGTTGGGTCCTCAACACTTTTCTGGGCTATTTAAAGCAACAGAACCTCGCT
+GTCAGTGAGAGTCCTGTCACACCCTCTGCACTCGCTGAGCTTCTTGACCTGCTGGACAGC
+AGAACAATTTCTTCATCAGCAGCTAAACAGGTGTTTGAGGAACTGTGGAAGAGGGAAGGC
+AAGACTCCAGGGCAGATTGTTTCAGAAAAGCAGCTTGAACTGATGCAGGACCAGGGGGCA
+CTGGAGCAGCTCTGCCACTCTGTGATGGAGGCCCATCCTCAAGTGGTAATGGATGTGAAG
+AACAGAAACCCCAGAGCTATAAATAAACTGATTGGGTTGGTCCGGAAAGCGACTCAAAGC
+CGAGCAGATCCAGTCATGATAAAGGAGATCCTGGAGAAGAAGCTGTCATTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>557</residue_number>
+    <molecular_weight>61863.57</molecular_weight>
+    <theoretical_pi>8.631</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GatB_N</name>
+        <pfam_id>PF02934</pfam_id>
+      </pfam>
+      <pfam>
+        <name>GatB_Yqey</name>
+        <pfam_id>PF02637</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Probable glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial
+MAAPMLRWGCRGRRWAFARVDGGSCHRRGAPTGSTSNQIRGESSVAQQPLHTAQKTRKGE
+HKWAAVVGLEIHAQISSNSKLFSGSQVRFSAPPNSLVSFFDASLPGTLPVLNRRCVEAAV
+MTGLALNCHINKKSLFDRKHYFYADLPAGYQITQQRLPIAVNGSLIYGVCAGKKQSQVIP
+KTVRIKQIQLEQDSGKSLHDNLRSQTLIDLNRAGVGLLEVVLEPDMSCGEEAATAVRELQ
+LILQALGTSQANMAEGQLRVDANISVHHPGEPLGVRTEVKNLNSIRFLAKAIDYEIQRQI
+NELENGGEILNETRSFHHKLGCTMSMRDKEGKQDYRFMPEPNLPPLVLYDATSLPAGADP
+QQVINIDQIRETLPELPSVTREKLVQQYGMLLEHSFTLLNEVGLLEFFQNVIKETRAEPK
+KVTSWVLNTFLGYLKQQNLAVSESPVTPSALAELLDLLDSRTISSSAAKQVFEELWKREG
+KTPGQIVSEKQLELMQDQGALEQLCHSVMEAHPQVVMDVKNRNPRAINKLIGLVRKATQS
+RADPVMIKEILEKKLSL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O75879</uniprot_id>
+  <uniprot_name>GATB_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF026851</genbank_gene_id>
+  <genecard_id>PET112L</genecard_id>
+  <geneatlas_id>PET112L</geneatlas_id>
+  <hgnc_id>HGNC:8849</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Petruzzella V, Tiranti V, Fernandez P, Ianna P, Carrozzo R, Zeviani M: Identification and characterization of human cDNAs specific to BCS1, PET112, SCO1, COX15, and COX11, five genes involved in the formation and function of the mitochondrial respiratory chain. Genomics. 1998 Dec 15;54(3):494-504.</reference_text>
+      <pubmed_id>9878253</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang QH, Ye M, Wu XY, Ren SX, Zhao M, Zhao CJ, Fu G, Shen Y, Fan HY, Lu G, Zhong M, Xu XR, Han ZG, Zhang JW, Tao J, Huang QH, Zhou J, Hu GX, Gu J, Chen SJ, Chen Z: Cloning and functional analysis of cDNAs with open reading frames for 300 previously undefined genes expressed in CD34+ hematopoietic stem/progenitor cells. Genome Res. 2000 Oct;10(10):1546-60.</reference_text>
+      <pubmed_id>11042152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

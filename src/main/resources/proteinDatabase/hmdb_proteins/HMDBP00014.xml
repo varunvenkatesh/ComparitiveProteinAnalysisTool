@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:40 -0700</creation_date>
+  <update_date>2013-05-27 11:06:20 -0600</update_date>
+  <accession>HMDBP00014</accession>
+  <secondary_accessions>
+    <accession>5243</accession>
+    <accession>HMDBP09982</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>CREBBP</gene_name>
+  <general_function>Involved in transcription cofactor activity</general_function>
+  <specific_function>Acetylates histones, giving a specific tag for transcriptional activation. Also acetylates non-histone proteins, like NCOA3 and FOXO1. Binds specifically to phosphorylated CREB and enhances its transcriptional activity toward cAMP-responsive genes. Acts as a coactivator of ALX1 in the presence of EP300.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cell cycle</name>
+      <smpdb_id/>
+      <kegg_map_id>map04110</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Wnt signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04310</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Notch signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>TGF-beta signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Adherens junction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04520</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Jak-STAT signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04630</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Long-term potentiation</name>
+      <smpdb_id/>
+      <kegg_map_id>map04720</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Melanogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04916</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Huntington's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05016</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Tuberculosis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05152</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hepatitis B</name>
+      <smpdb_id/>
+      <kegg_map_id>map05161</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Influenza A</name>
+      <smpdb_id/>
+      <kegg_map_id>map05164</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HTLV-I infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05166</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Herpes simplex infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05168</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Epstein-Barr virus infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05169</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Viral carcinogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05203</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Renal cell carcinoma</name>
+      <smpdb_id/>
+      <kegg_map_id>map05211</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Prostate cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05215</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>n-acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lysine n-acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>histone acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription coactivator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription factor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription cofactor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular component organization at cellular level</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organelle organization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chromosome organization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chromatin organization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chromatin modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>covalent chromatin modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>histone modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>histone acetylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>histone acetyltransferase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>condensed chromosome outer kinetochore</description>
+      <go_id>GO:0000940</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>histone acetyltransferase complex</description>
+      <go_id>GO:0000123</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear body</description>
+      <go_id>GO:0016604</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear chromatin</description>
+      <go_id>GO:0000790</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>transcription factor complex</description>
+      <go_id>GO:0005667</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chromatin binding</description>
+      <go_id>GO:0003682</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>core promoter proximal region sequence-specific DNA binding</description>
+      <go_id>GO:0000987</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone acetyltransferase activity</description>
+      <go_id>GO:0004402</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>MRF binding</description>
+      <go_id>GO:0043426</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA polymerase II activating transcription factor binding</description>
+      <go_id>GO:0001102</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription</description>
+      <go_id>GO:0001078</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA polymerase II transcription coactivator activity</description>
+      <go_id>GO:0001105</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA polymerase II transcription factor binding transcription factor activity involved in negative regulation of transcription</description>
+      <go_id>GO:0001191</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>signal transducer activity</description>
+      <go_id>GO:0004871</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id>GO:0044255</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic digit morphogenesis</description>
+      <go_id>GO:0042733</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>germ-line stem cell maintenance</description>
+      <go_id>GO:0030718</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>homeostatic process</description>
+      <go_id>GO:0042592</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>N-terminal peptidyl-lysine acetylation</description>
+      <go_id>GO:0018076</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Notch signaling pathway</description>
+      <go_id>GO:0007219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein complex assembly</description>
+      <go_id>GO:0006461</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of S phase</description>
+      <go_id>GO:0033261</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of smoothened signaling pathway</description>
+      <go_id>GO:0008589</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription from RNA polymerase II promoter in response to hypoxia</description>
+      <go_id>GO:0061418</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase II promoter</description>
+      <go_id>GO:0006367</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16p13.3</locus>
+    <gene_sequence>&gt;7329 bp
+ATGGCTGAGAACTTGCTGGACGGACCGCCCAACCCCAAAAGAGCCAAACTCAGCTCGCCC
+GGTTTCTCGGCGAATGACAGCACAGATTTTGGATCATTGTTTGACTTGGAAAATGATCTT
+CCTGATGAGCTGATACCCAATGGAGGAGAATTAGGCCTTTTAAACAGTGGGAACCTTGTT
+CCAGATGCTGCTTCCAAACATAAACAACTGTCGGAGCTTCTACGAGGAGGCAGCGGCTCT
+AGTATCAACCCAGGAATAGGAAATGTGAGCGCCAGCAGCCCCGTGCAGCAGGGCCTGGGT
+GGCCAGGCTCAAGGGCAGCCGAACAGTGCTAACATGGCCAGCCTCAGTGCCATGGGCAAG
+AGCCCTCTGAGCCAGGGAGATTCTTCAGCCCCCAGCCTGCCTAAACAGGCAGCCAGCACC
+TCTGGGCCCACCCCCGCTGCCTCCCAAGCACTGAATCCGCAAGCACAAAAGCAAGTGGGG
+CTGGCGACTAGCAGCCCTGCCACGTCACAGACTGGACCTGGTATCTGCATGAATGCTAAC
+TTTAACCAGACCCACCCAGGCCTCCTCAATAGTAACTCTGGCCATAGCTTAATTAATCAG
+GCTTCACAAGGGCAGGCGCAAGTCATGAATGGATCTCTTGGGGCTGCTGGCAGAGGAAGG
+GGAGCTGGAATGCCGTACCCTACTCCAGCCATGCAGGGCGCCTCGAGCAGCGTGCTGGCT
+GAGACCCTAACGCAGGTTTCCCCGCAAATGACTGGTCACGCGGGACTGAACACCGCACAG
+GCAGGAGGCATGGCCAAGATGGGAATAACTGGGAACACAAGTCCATTTGGACAGCCCTTT
+AGTCAAGCTGGAGGGCAGCCAATGGGAGCCACTGGAGTGAACCCCCAGTTAGCCAGCAAA
+CAGAGCATGGTCAACAGTTTGCCCACCTTCCCTACAGATATCAAGAATACTTCAGTCACC
+AACGTGCCAAATATGTCTCAGATGCAAACATCAGTGGGAATTGTACCCACACAAGCAATT
+GCAACAGGCCCCACTGCAGATCCTGAAAAACGCAAACTGATACAGCAGCAGCTGGTTCTA
+CTGCTTCATGCTCATAAGTGTCAGAGACGAGAGCAAGCAAACGGAGAGGTTCGGGCCTGC
+TCGCTCCCGCATTGTCGAACCATGAAAAACGTTTTGAATCACATGACGCATTGTCAGGCT
+GGGAAAGCCTGCCAAGTTGCCCATTGTGCATCTTCACGACAAATCATCTCTCATTGGAAG
+AACTGCACACGACATGACTGTCCTGTTTGCCTCCCTTTGAAAAATGCCAGTGACAAGCGA
+AACCAACAAACCATCCTGGGGTCTCCAGCTAGTGGAATTCAAAACACAATTGGTTCTGTT
+GGCACAGGGCAACAGAATGCCACTTCTTTAAGTAACCCAAATCCCATAGACCCCAGCTCC
+ATGCAGCGAGCCTATGCTGCTCTCGGACTCCCCTACATGAACCAGCCCCAGACGCAGCTG
+CAGCCTCAGGTTCCTGGCCAGCAACCAGCACAGCCTCAAACCCACCAGCAGATGAGGACT
+CTCAACCCCCTGGGAAATAATCCAATGAACATTCCAGCAGGAGGAATAACAACAGATCAG
+CAGCCCCCAAACTTGATTTCAGAATCAGCTCTTCCGACTTCCCTGGGGGCCACAAACCCA
+CTGATGAACGATGGCTCCAACTCTGGTAACATTGGAACCCTCAGCACTATACCAACAGCA
+GCTCCTCCTTCTAGCACCGGTGTAAGGAAAGGCTGGCACGAACATGTCACTCAGGACCTG
+CGGAGCCATCTAGTGCATAAACTCGTCCAAGCCATCTTCCCAACACCTGATCCCGCAGCT
+CTAAAGGATCGCCGCATGGAAAACCTGGTAGCCTATGCTAAGAAAGTGGAAGGGGACATG
+TACGAGTCTGCCAACAGCAGGGATGAATATTATCACTTATTAGCAGAGAAAATCTACAAG
+ATACAAAAAGAACTAGAAGAAAAACGGAGGTCGCGTTTACATAAACAAGGCATCTTGGGG
+AACCAGCCAGCCTTACCAGCCCCGGGGGCTCAGCCCCCTGTGATTCCACAGGCACAACCT
+GTGAGACCTCCAAATGGACCCCTGTCCCTGCCAGTGAATCGCATGCAAGTTTCTCAAGGG
+ATGAATTCATTTAACCCCATGTCCTTGGGGAACGTCCAGTTGCCACAAGCACCCATGGGA
+CCTCGTGCAGCCTCCCCAATGAACCACTCTGTCCAGATGAACAGCATGGGCTCAGTGCCA
+GGGATGGCCATTTCTCCTTCCCGAATGCCTCAGCCTCCGAACATGATGGGTGCACACACC
+AACAACATGATGGCCCAGGCGCCCGCTCAGAGCCAGTTTCTGCCACAGAACCAGTTCCCG
+TCATCCAGCGGGGCGATGAGTGTGGGCATGGGGCAGCCGCCAGCCCAAACAGGCGTGTCA
+CAGGGACAGGTGCCTGGTGCTGCTCTTCCTAACCCTCTCAACATGCTGGGGCCTCAGGCC
+AGCCAGCTACCTTGCCCTCCAGTGACACAGTCACCACTGCACCCAACACCGCCTCCTGCT
+TCCACGGCTGCTGGCATGCCATCTCTCCAGCACACGACACCACCTGGGATGACTCCTCCC
+CAGCCAGCAGCTCCCACTCAGCCATCAACTCCTGTGTCGTCTTCCGGGCAGACTCCCACC
+CCGACTCCTGGCTCAGTGCCCAGTGCTACCCAAACCCAGAGCACCCCTACAGTCCAGGCA
+GCAGCCCAGGCCCAGGTGACCCCGCAGCCTCAAACCCCAGTTCAGCCCCCGTCTGTGGCT
+ACCCCTCAGTCATCGCAGCAACAGCCGACGCCTGTGCACGCCCAGCCTCCTGGCACACCG
+CTTTCCCAGGCAGCAGCCAGCATTGATAACAGAGTCCCTACCCCCTCCTCGGTGGCCAGC
+GCAGAAACCAATTCCCAGCAGCCAGGACCTGACGTACCTGTGCTGGAAATGAAGACGGAG
+ACCCAAGCAGAGGACACTGAGCCCGATCCTGGTGAATCCAAAGGGGAGCCCAGGTCTGAG
+ATGATGGAGGAGGATTTGCAAGGAGCTTCCCAAGTTAAAGAAGAAACAGACATAGCAGAG
+CAGAAATCAGAACCAATGGAAGTGGATGAAAAGAAACCTGAAGTGAAAGTAGAAGTTAAA
+GAGGAAGAAGAGAGTAGCAGTAACGGCACAGCCTCTCAGTCAACATCTCCTTCGCAGCCG
+CGCAAAAAAATCTTTAAACCAGAGGAGTTACGCCAGGCCCTCATGCCAACCCTAGAAGCA
+CTGTATCGACAGGACCCAGAGTCATTACCTTTCCGGCAGCCTGTAGATCCCCAGCTCCTC
+GGAATTCCAGACTATTTTGACATCGTAAAGAATCCCATGGACCTCTCCACCATCAAGCGG
+AAGCTGGACACAGGGCAATACCAAGAGCCCTGGCAGTACGTGGACGACGTCTGGCTCATG
+TTCAACAATGCCTGGCTCTATAATCGCAAGACATCCCGAGTCTATAAGTTTTGCAGTAAG
+CTTGCAGAGGTCTTTGAGCAGGAAATTGACCCTGTCATGCAGTCCCTTGGATATTGCTGT
+GGACGCAAGTATGAGTTTTCCCCACAGACTTTGTGCTGCTATGGGAAGCAGCTGTGTACC
+ATTCCTCGCGATGCTGCCTACTACAGCTATCAGAATAGGTATCATTTCTGTGAGAAGTGT
+TTCACAGAGATCCAGGGCGAGAATGTGACCCTGGGTGACGACCCTTCACAGCCCCAGACG
+ACAATTTCAAAGGATCAGTTTGAAAAGAAGAAAAATGATACCTTAGACCCCGAACCTTTC
+GTTGATTGCAAGGAGTGTGGCCGGAAGATGCATCAGATTTGCGTTCTGCACTATGACATC
+ATTTGGCCTTCAGGTTTTGTGTGCGACAACTGCTTGAAGAAAACTGGCAGACCTCGAAAA
+GAAAACAAATTCAGTGCTAAGAGGCTGCAGACCACAAGACTGGGAAACCACTTGGAAGAC
+CGAGTGAACAAATTTTTGCGGCGCCAGAATCACCCTGAAGCCGGGGAGGTTTTTGTCCGA
+GTGGTGGCCAGCTCAGACAAGACGGTGGAGGTCAAGCCCGGGATGAAGTCACGGTTTGTG
+GATTCTGGGGAAATGTCTGAATCTTTCCCATATCGAACCAAAGCTCTGTTTGCTTTTGAG
+GAAATTGACGGCGTGGATGTCTGCTTTTTTGGAATGCACGTCCAAGAATACGGCTCTGAT
+TGCCCCCCTCCAAACACGAGGCGTGTGTACATTTCTTATCTGGATAGTATTCATTTCTTC
+CGGCCACGTTGCCTCCGCACAGCCGTTTACCATGAGATCCTTATTGGATATTTAGAGTAT
+GTGAAGAAATTAGGGTATGTGACAGGGCACATCTGGGCCTGTCCTCCAAGTGAAGGAGAT
+GATTACATCTTCCATTGCCACCCACCTGATCAAAAAATACCCAAGCCAAAACGACTGCAG
+GAGTGGTACAAAAAGATGCTGGACAAGGCGTTTGCAGAGCGGATCATCCATGACTACAAG
+GATATTTTCAAACAAGCAACTGAAGACAGGCTCACCAGTGCCAAGGAACTGCCCTATTTT
+GAAGGTGATTTCTGGCCCAATGTGTTAGAAGAGAGCATTAAGGAACTAGAACAAGAAGAA
+GAGGAGAGGAAAAAGGAAGAGAGCACTGCAGCCAGTGAAACCACTGAGGGCAGTCAGGGC
+GACAGCAAGAATGCCAAGAAGAAGAACAACAAGAAAACCAACAAGAACAAAAGCAGCATC
+AGCCGCGCCAACAAGAAGAAGCCCAGCATGCCCAACGTGTCCAATGACCTGTCCCAGAAG
+CTGTATGCCACCATGGAGAAGCACAAGGAGGTCTTCTTCGTGATCCACCTGCACGCTGGG
+CCTGTCATCAACACCCTGCCCCCCATCGTCGACCCCGACCCCCTGCTCAGCTGTGACCTC
+ATGGATGGGCGCGACGCCTTCCTCACCCTCGCCAGAGACAAGCACTGGGAGTTCTCCTCC
+TTGCGCCGCTCCAAGTGGTCCACGCTCTGCATGCTGGTGGAGCTGCACACCCAGGGCCAG
+GACCGCTTTGTCTACACCTGCAACGAGTGCAAGCACCACGTGGAGACGCGCTGGCACTGC
+ACTGTGTGCGAGGACTACGACCTCTGCATCAACTGCTATAACACGAAGAGCCATGCCCAT
+AAGATGGTGAAGTGGGGGCTGGGCCTGGATGACGAGGGCAGCAGCCAGGGCGAGCCACAG
+TCAAAGAGCCCCCAGGAGTCACGCCGGCTGAGCATCCAGCGCTGCATCCAGTCGCTGGTG
+CACGCGTGCCAGTGCCGCAACGCCAACTGCTCGCTGCCATCCTGCCAGAAGATGAAGCGG
+GTGGTGCAGCACACCAAGGGCTGCAAACGCAAGACCAACGGGGGCTGCCCGGTGTGCAAG
+CAGCTCATCGCCCTCTGCTGCTACCACGCCAAGCACTGCCAAGAAAACAAATGCCCCGTG
+CCCTTCTGCCTCAACATCAAACACAAGCTCCGCCAGCAGCAGATCCAGCACCGCCTGCAG
+CAGGCCCAGCTCATGCGCCGGCGGATGGCCACCATGAACACCCGCAACGTGCCTCAGCAG
+AGTCTGCCTTCTCCTACCTCAGCACCGCCCGGGACCCCCACACAGCAGCCCAGCACACCC
+CAGACGCCGCAGCCCCCTGCCCAGCCCCAACCCTCACCCGTGAGCATGTCACCAGCTGGC
+TTCCCCAGCGTGGCCCGGACTCAGCCCCCCACCACGGTGTCCACAGGGAAGCCTACCAGC
+CAGGTGCCGGCCCCCCCACCCCCGGCCCAGCCCCCTCCTGCAGCGGTGGAAGCGGCTCGG
+CAGATCGAGCGTGAGGCCCAGCAGCAGCAGCACCTGTACCGGGTGAACATCAACAACAGC
+ATGCCCCCAGGACGCACGGGCATGGGGACCCCGGGGAGCCAGATGGCCCCCGTGAGCCTG
+AATGTGCCCCGACCCAACCAGGTGAGCGGGCCCGTCATGCCCAGCATGCCTCCCGGGCAG
+TGGCAGCAGGCGCCCCTTCCCCAGCAGCAGCCCATGCCAGGCTTGCCCAGGCCTGTGATA
+TCCATGCAGGCCCAGGCGGCCGTGGCTGGGCCCCGGATGCCCAGCGTGCAGCCACCCAGG
+AGCATCTCACCCAGCGCTCTGCAAGACCTGCTGCGGACCCTGAAGTCGCCCAGCTCCCCT
+CAGCAGCAACAGCAGGTGCTGAACATTCTCAAATCAAACCCGCAGCTAATGGCAGCTTTC
+ATCAAACAGCGCACAGCCAAGTACGTGGCCAATCAGCCCGGCATGCAGCCCCAGCCTGGC
+CTCCAGTCCCAGCCCGGCATGCAACCCCAGCCTGGCATGCACCAGCAGCCCAGCCTGCAG
+AACCTGAATGCCATGCAGGCTGGCGTGCCGCGGCCCGGTGTGCCTCCACAGCAGCAGGCG
+ATGGGAGGCCTGAACCCCCAGGGCCAGGCCTTGAACATCATGAACCCAGGACACAACCCC
+AACATGGCGAGTATGAATCCACAGTACCGAGAAATGTTACGGAGGCAGCTGCTGCAGCAG
+CAGCAGCAACAGCAGCAGCAACAACAGCAGCAACAGCAGCAGCAGCAAGGGAGTGCCGGC
+ATGGCTGGGGGCATGGCGGGGCACGGCCAGTTCCAGCAGCCTCAAGGACCCGGAGGCTAC
+CCACCGGCCATGCAGCAGCAGCAGCGCATGCAGCAGCATCTCCCCCTCCAGGGCAGCTCC
+ATGGGCCAGATGGCGGCTCAGATGGGACAGCTTGGCCAGATGGGGCAGCCGGGGCTGGGG
+GCAGACAGCACCCCCAACATCCAGCAAGCCCTGCAGCAGCGGATTCTGCAGCAACAGCAG
+ATGAAGCAGCAGATTGGGTCCCCAGGCCAGCCGAACCCCATGAGCCCCCAGCAACACATG
+CTCTCAGGACAGCCACAGGCCTCGCATCTCCCTGGCCAGCAGATCGCCACGTCCCTTAGT
+AACCAGGTGCGGTCTCCAGCCCCTGTCCAGTCTCCACGGCCCCAGTCCCAGCCTCCACAT
+TCCAGCCCGTCACCACGGATACAGCCCCAGCCTTCGCCACACCACGTCTCACCCCAGACT
+GGTTCCCCCCACCCCGGACTCGCAGTCACCATGGCCAGCTCCATAGATCAGGGACACTTG
+GGGAACCCCGAACAGAGTGCAATGCTCCCCCAGCTGAACACCCCCAGCAGGAGTGCGCTG
+TCCAGCGAACTGTCCCTGGTCGGGGACACCACGGGGGACACGCTAGAGAAGTTTGTGGAG
+GGCTTGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2442</residue_number>
+    <molecular_weight>260991.825</molecular_weight>
+    <theoretical_pi>8.475</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Bromodomain</name>
+        <pfam_id>PF00439</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Creb_binding</name>
+        <pfam_id>PF09030</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DUF902</name>
+        <pfam_id>PF06001</pfam_id>
+      </pfam>
+      <pfam>
+        <name>KAT11</name>
+        <pfam_id>PF08214</pfam_id>
+      </pfam>
+      <pfam>
+        <name>KIX</name>
+        <pfam_id>PF02172</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-TAZ</name>
+        <pfam_id>PF02135</pfam_id>
+      </pfam>
+      <pfam>
+        <name>ZZ</name>
+        <pfam_id>PF00569</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;CREB-binding protein
+MAENLLDGPPNPKRAKLSSPGFSANDSTDFGSLFDLENDLPDELIPNGGELGLLNSGNLV
+PDAASKHKQLSELLRGGSGSSINPGIGNVSASSPVQQGLGGQAQGQPNSANMASLSAMGK
+SPLSQGDSSAPSLPKQAASTSGPTPAASQALNPQAQKQVGLATSSPATSQTGPGICMNAN
+FNQTHPGLLNSNSGHSLINQASQGQAQVMNGSLGAAGRGRGAGMPYPTPAMQGASSSVLA
+ETLTQVSPQMTGHAGLNTAQAGGMAKMGITGNTSPFGQPFSQAGGQPMGATGVNPQLASK
+QSMVNSLPTFPTDIKNTSVTNVPNMSQMQTSVGIVPTQAIATGPTADPEKRKLIQQQLVL
+LLHAHKCQRREQANGEVRACSLPHCRTMKNVLNHMTHCQAGKACQVAHCASSRQIISHWK
+NCTRHDCPVCLPLKNASDKRNQQTILGSPASGIQNTIGSVGTGQQNATSLSNPNPIDPSS
+MQRAYAALGLPYMNQPQTQLQPQVPGQQPAQPQTHQQMRTLNPLGNNPMNIPAGGITTDQ
+QPPNLISESALPTSLGATNPLMNDGSNSGNIGTLSTIPTAAPPSSTGVRKGWHEHVTQDL
+RSHLVHKLVQAIFPTPDPAALKDRRMENLVAYAKKVEGDMYESANSRDEYYHLLAEKIYK
+IQKELEEKRRSRLHKQGILGNQPALPAPGAQPPVIPQAQPVRPPNGPLSLPVNRMQVSQG
+MNSFNPMSLGNVQLPQAPMGPRAASPMNHSVQMNSMGSVPGMAISPSRMPQPPNMMGAHT
+NNMMAQAPAQSQFLPQNQFPSSSGAMSVGMGQPPAQTGVSQGQVPGAALPNPLNMLGPQA
+SQLPCPPVTQSPLHPTPPPASTAAGMPSLQHTTPPGMTPPQPAAPTQPSTPVSSSGQTPT
+PTPGSVPSATQTQSTPTVQAAAQAQVTPQPQTPVQPPSVATPQSSQQQPTPVHAQPPGTP
+LSQAAASIDNRVPTPSSVASAETNSQQPGPDVPVLEMKTETQAEDTEPDPGESKGEPRSE
+MMEEDLQGASQVKEETDIAEQKSEPMEVDEKKPEVKVEVKEEEESSSNGTASQSTSPSQP
+RKKIFKPEELRQALMPTLEALYRQDPESLPFRQPVDPQLLGIPDYFDIVKNPMDLSTIKR
+KLDTGQYQEPWQYVDDVWLMFNNAWLYNRKTSRVYKFCSKLAEVFEQEIDPVMQSLGYCC
+GRKYEFSPQTLCCYGKQLCTIPRDAAYYSYQNRYHFCEKCFTEIQGENVTLGDDPSQPQT
+TISKDQFEKKKNDTLDPEPFVDCKECGRKMHQICVLHYDIIWPSGFVCDNCLKKTGRPRK
+ENKFSAKRLQTTRLGNHLEDRVNKFLRRQNHPEAGEVFVRVVASSDKTVEVKPGMKSRFV
+DSGEMSESFPYRTKALFAFEEIDGVDVCFFGMHVQEYGSDCPPPNTRRVYISYLDSIHFF
+RPRCLRTAVYHEILIGYLEYVKKLGYVTGHIWACPPSEGDDYIFHCHPPDQKIPKPKRLQ
+EWYKKMLDKAFAERIIHDYKDIFKQATEDRLTSAKELPYFEGDFWPNVLEESIKELEQEE
+EERKKEESTAASETTEGSQGDSKNAKKKNNKKTNKNKSSISRANKKKPSMPNVSNDLSQK
+LYATMEKHKEVFFVIHLHAGPVINTLPPIVDPDPLLSCDLMDGRDAFLTLARDKHWEFSS
+LRRSKWSTLCMLVELHTQGQDRFVYTCNECKHHVETRWHCTVCEDYDLCINCYNTKSHAH
+KMVKWGLGLDDEGSSQGEPQSKSPQESRRLSIQRCIQSLVHACQCRNANCSLPSCQKMKR
+VVQHTKGCKRKTNGGCPVCKQLIALCCYHAKHCQENKCPVPFCLNIKHKLRQQQIQHRLQ
+QAQLMRRRMATMNTRNVPQQSLPSPTSAPPGTPTQQPSTPQTPQPPAQPQPSPVSMSPAG
+FPSVARTQPPTTVSTGKPTSQVPAPPPPAQPPPAAVEAARQIEREAQQQQHLYRVNINNS
+MPPGRTGMGTPGSQMAPVSLNVPRPNQVSGPVMPSMPPGQWQQAPLPQQQPMPGLPRPVI
+SMQAQAAVAGPRMPSVQPPRSISPSALQDLLRTLKSPSSPQQQQQVLNILKSNPQLMAAF
+IKQRTAKYVANQPGMQPQPGLQSQPGMQPQPGMHQQPSLQNLNAMQAGVPRPGVPPQQQA
+MGGLNPQGQALNIMNPGHNPNMASMNPQYREMLRRQLLQQQQQQQQQQQQQQQQQQGSAG
+MAGGMAGHGQFQQPQGPGGYPPAMQQQQRMQQHLPLQGSSMGQMAAQMGQLGQMGQPGLG
+ADSTPNIQQALQQRILQQQQMKQQIGSPGQPNPMSPQQHMLSGQPQASHLPGQQIATSLS
+NQVRSPAPVQSPRPQSQPPHSSPSPRIQPQPSPHHVSPQTGSPHPGLAVTMASSIDQGHL
+GNPEQSAMLPQLNTPSRSALSSELSLVGDTTGDTLEKFVEGL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>68533141</genbank_protein_id>
+  <uniprot_id>Q92793</uniprot_id>
+  <uniprot_name>CBP_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1JSP</pdb_id>
+    <pdb_id>1LIQ</pdb_id>
+    <pdb_id>1WO3</pdb_id>
+    <pdb_id>1WO4</pdb_id>
+    <pdb_id>1WO5</pdb_id>
+    <pdb_id>1WO6</pdb_id>
+    <pdb_id>1WO7</pdb_id>
+    <pdb_id>1ZOQ</pdb_id>
+    <pdb_id>2D82</pdb_id>
+    <pdb_id>2KJE</pdb_id>
+    <pdb_id>2KWF</pdb_id>
+    <pdb_id>2L84</pdb_id>
+    <pdb_id>2L85</pdb_id>
+    <pdb_id>2RNY</pdb_id>
+    <pdb_id>3DWY</pdb_id>
+    <pdb_id>3P1C</pdb_id>
+    <pdb_id>3P1D</pdb_id>
+    <pdb_id>3P1E</pdb_id>
+    <pdb_id>3P1F</pdb_id>
+    <pdb_id>3SVH</pdb_id>
+    <pdb_id>4A9K</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>U85962</genbank_gene_id>
+  <genecard_id>CREBBP</genecard_id>
+  <geneatlas_id>CREBBP</geneatlas_id>
+  <hgnc_id>HGNC:2348</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sobulo OM, Borrow J, Tomek R, Reshmi S, Harden A, Schlegelberger B, Housman D, Doggett NA, Rowley JD, Zeleznik-Le NJ: MLL is fused to CBP, a histone acetyltransferase, in therapy-related acute myeloid leukemia with a t(11;16)(q23;p13.3). Proc Natl Acad Sci U S A. 1997 Aug 5;94(16):8732-7.</reference_text>
+      <pubmed_id>9238046</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giles RH, Petrij F, Dauwerse HG, den Hollander AI, Lushnikova T, van Ommen GJ, Goodman RH, Deaven LL, Doggett NA, Peters DJ, Breuning MH: Construction of a 1.2-Mb contig surrounding, and molecular analysis of, the human CREB-binding protein (CBP/CREBBP) gene on chromosome 16p13.3. Genomics. 1997 May 15;42(1):96-114.</reference_text>
+      <pubmed_id>9177780</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Borrow J, Stanton VP Jr, Andresen JM, Becher R, Behm FG, Chaganti RS, Civin CI, Disteche C, Dube I, Frischauf AM, Horsman D, Mitelman F, Volinia S, Watmore AE, Housman DE: The translocation t(8;16)(p11;p13) of acute myeloid leukaemia fuses a putative acetyltransferase to the CREB-binding protein. Nat Genet. 1996 Sep;14(1):33-41.</reference_text>
+      <pubmed_id>8782817</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Panagopoulos I, Fioretos T, Isaksson M, Samuelsson U, Billstrom R, Strombeck B, Mitelman F, Johansson B: Fusion of the MORF and CBP genes in acute myeloid leukemia with the t(10;16)(q22;p13). Hum Mol Genet. 2001 Feb 15;10(4):395-404.</reference_text>
+      <pubmed_id>11157802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang XJ, Ogryzko VV, Nishikawa J, Howard BH, Nakatani Y: A p300/CBP-associated factor that competes with the adenoviral oncoprotein E1A. Nature. 1996 Jul 25;382(6589):319-24.</reference_text>
+      <pubmed_id>8684459</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arany Z, Huang LE, Eckner R, Bhattacharya S, Jiang C, Goldberg MA, Bunn HF, Livingston DM: An essential role for p300/CBP in the cellular response to hypoxia.  Proc Natl Acad Sci U S A. 1996 Nov 12;93(23):12969-73.</reference_text>
+      <pubmed_id>8917528</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bex F, Yin MJ, Burny A, Gaynor RB: Differential transcriptional activation by human T-cell leukemia virus type 1 Tax mutants is mediated by distinct interactions with CREB binding protein and p300. Mol Cell Biol. 1998 Apr;18(4):2392-405.</reference_text>
+      <pubmed_id>9528808</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang W, Bieker JJ: Acetylation and modulation of erythroid Kruppel-like factor (EKLF) activity by interaction with histone acetyltransferases. Proc Natl Acad Sci U S A. 1998 Aug 18;95(17):9855-60.</reference_text>
+      <pubmed_id>9707565</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Johnston H, Kneer J, Chackalaparampil I, Yaciuk P, Chrivia J: Identification of a novel SNF2/SWI2 protein family member, SRCAP, which interacts with CREB-binding protein. J Biol Chem. 1999 Jun 4;274(23):16370-6.</reference_text>
+      <pubmed_id>10347196</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Doucas V, Tini M, Egan DA, Evans RM: Modulation of CREB binding protein function by the promyelocytic (PML) oncoprotein suggests a role for nuclear bodies in hormone signaling. Proc Natl Acad Sci U S A. 1999 Mar 16;96(6):2627-32.</reference_text>
+      <pubmed_id>10077561</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen H, Lin RJ, Xie W, Wilpitz D, Evans RM: Regulation of hormone-induced histone hyperacetylation and gene activation via acetylation of an acetylase. Cell. 1999 Sep 3;98(5):675-86.</reference_text>
+      <pubmed_id>10490106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mahajan MA, Samuels HH: A new family of nuclear receptor coregulators that integrate nuclear receptor signaling through CREB-binding protein. Mol Cell Biol. 2000 Jul;20(14):5048-63.</reference_text>
+      <pubmed_id>10866662</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hung HL, Kim AY, Hong W, Rakowski C, Blobel GA: Stimulation of NF-E2 DNA binding by CREB-binding protein (CBP)-mediated acetylation. J Biol Chem. 2001 Apr 6;276(14):10715-21. Epub 2001 Jan 11.</reference_text>
+      <pubmed_id>11154691</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang T, Davis RJ, Chow CW: Requirement of two NFATc4 transactivation domains for CBP potentiation.  J Biol Chem. 2001 Oct 26;276(43):39569-76. Epub 2001 Aug 20.</reference_text>
+      <pubmed_id>11514544</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chakraborty S, Senyuk V, Sitailo S, Chi Y, Nucifora G: Interaction of EVI1 with cAMP-responsive element-binding protein-binding protein (CBP) and p300/CBP-associated factor (P/CAF) results in reversible acetylation of EVI1 and in co-localization in nuclear speckles. J Biol Chem. 2001 Nov 30;276(48):44936-43. Epub 2001 Sep 21.</reference_text>
+      <pubmed_id>11568182</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scoggin KE, Ulloa A, Nyborg JK: The oncoprotein Tax binds the SRC-1-interacting domain of CBP/p300 to mediate transcriptional activation. Mol Cell Biol. 2001 Aug;21(16):5520-30.</reference_text>
+      <pubmed_id>11463834</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang W, Nisbet JW, Albrecht B, Ding W, Kashanchi F, Bartoe JT, Lairmore MD: Human T-lymphotropic virus type 1 p30(II) regulates gene transcription by binding CREB binding protein/p300. J Virol. 2001 Oct;75(20):9885-95.</reference_text>
+      <pubmed_id>11559821</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gizard F, Lavallee B, DeWitte F, Hum DW: A novel zinc finger protein TReP-132 interacts with CBP/p300 to regulate human CYP11A1 gene expression. J Biol Chem. 2001 Sep 7;276(36):33881-92. Epub 2001 May 10.</reference_text>
+      <pubmed_id>11349124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vadlamudi RK, Wang RA, Mazumdar A, Kim Y, Shin J, Sahin A, Kumar R: Molecular cloning and characterization of PELP1, a novel human coregulator of estrogen receptor alpha. J Biol Chem. 2001 Oct 12;276(41):38272-9. Epub 2001 Jul 31.</reference_text>
+      <pubmed_id>11481323</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamamoto H, Kihara-Negishi F, Yamada T, Suzuki M, Nakano T, Oikawa T: Interaction between the hematopoietic Ets transcription factor Spi-B and the coactivator CREB-binding protein associated with negative cross-talk with c-Myb. Cell Growth Differ. 2002 Feb;13(2):69-75.</reference_text>
+      <pubmed_id>11864910</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Braganca J, Swingler T, Marques FI, Jones T, Eloranta JJ, Hurst HC, Shioda T, Bhattacharya S: Human CREB-binding protein/p300-interacting transactivator with ED-rich tail (CITED) 4, a new member of the CITED family, functions as a co-activator for transcription factor AP-2. J Biol Chem. 2002 Mar 8;277(10):8559-65. Epub 2001 Dec 14.</reference_text>
+      <pubmed_id>11744733</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu RC, Qin J, Hashimoto Y, Wong J, Xu J, Tsai SY, Tsai MJ, O'Malley BW: Regulation of SRC-3 (pCIP/ACTR/AIB-1/RAC-3/TRAM-1) Coactivator activity by I kappa B kinase. Mol Cell Biol. 2002 May;22(10):3549-61.</reference_text>
+      <pubmed_id>11971985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Masumi A, Yamakawa Y, Fukazawa H, Ozato K, Komuro K: Interferon regulatory factor-2 regulates cell growth through its acetylation. J Biol Chem. 2003 Jul 11;278(28):25401-7. Epub 2003 May 7.</reference_text>
+      <pubmed_id>12738767</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Watanabe N, Wachi S, Fujita T: Identification and characterization of BCL-3-binding protein: implications for transcription and DNA repair or recombination. J Biol Chem. 2003 Jul 11;278(28):26102-10. Epub 2003 May 2.</reference_text>
+      <pubmed_id>12730195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang H, Fang R, Cho JY, Libermann TA, Oettgen P: Positive and negative modulation of the transcriptional activity of the ETS factor ESE-1 through interaction with p300, CREB-binding protein, and Ku 70/86. J Biol Chem. 2004 Jun 11;279(24):25241-50. Epub 2004 Apr 8.</reference_text>
+      <pubmed_id>15075319</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van der Horst A, Tertoolen LG, de Vries-Smits LM, Frye RA, Medema RH, Burgering BM: FOXO4 is acetylated upon peroxide stress and deacetylated by the longevity protein hSir2(SIRT1). J Biol Chem. 2004 Jul 9;279(28):28873-9. Epub 2004 May 4.</reference_text>
+      <pubmed_id>15126506</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pradhan A, Liu Y: The calcium-responsive transactivator recruits CREB binding protein to nuclear bodies. Neurosci Lett. 2004 Nov 11;370(2-3):191-5.</reference_text>
+      <pubmed_id>15488321</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aizawa H, Hu SC, Bobb K, Balakrishnan K, Ince G, Gurevich I, Cowan M, Ghosh A: Dendrite development regulated by CREST, a calcium-regulated transcriptional activator. Science. 2004 Jan 9;303(5655):197-202.</reference_text>
+      <pubmed_id>14716005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim SC, Sprung R, Chen Y, Xu Y, Ball H, Pei J, Cheng T, Kho Y, Xiao H, Xiao L, Grishin NV, White M, Yang XJ, Zhao Y: Substrate and functional diversity of lysine acetylation revealed by a proteomics survey. Mol Cell. 2006 Aug;23(4):607-18.</reference_text>
+      <pubmed_id>16916647</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarkar D, Park ES, Emdad L, Lee SG, Su ZZ, Fisher PB: Molecular basis of nuclear factor-kappaB activation by astrocyte elevated gene-1. Cancer Res. 2008 Mar 1;68(5):1478-84.</reference_text>
+      <pubmed_id>18316612</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dames SA, Martinez-Yamout M, De Guzman RN, Dyson HJ, Wright PE: Structural basis for Hif-1 alpha /CBP recognition in the cellular hypoxic response. Proc Natl Acad Sci U S A. 2002 Apr 16;99(8):5271-6.</reference_text>
+      <pubmed_id>11959977</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kitabayashi I, Aikawa Y, Nguyen LA, Yokoyama A, Ohki M: Activation of AML1-mediated transcription by MOZ and inhibition by the MOZ-CBP fusion protein. EMBO J. 2001 Dec 17;20(24):7184-96.</reference_text>
+      <pubmed_id>11742995</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vendel AC, Lumb KJ: NMR mapping of the HIV-1 Tat interaction surface of the KIX domain of the human coactivator CBP. Biochemistry. 2004 Feb 3;43(4):904-8.</reference_text>
+      <pubmed_id>14744133</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murata T, Kurokawa R, Krones A, Tatsumi K, Ishii M, Taki T, Masuno M, Ohashi H, Yanagisawa M, Rosenfeld MG, Glass CK, Hayashi Y: Defect of histone acetyltransferase activity of the nuclear transcriptional coactivator CBP in Rubinstein-Taybi syndrome. Hum Mol Genet. 2001 May 1;10(10):1071-6.</reference_text>
+      <pubmed_id>11331617</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bartsch O, Locher K, Meinecke P, Kress W, Seemanova E, Wagner A, Ostermann K, Rodel G: Molecular studies in 10 cases of Rubinstein-Taybi syndrome, including a mild variant showing a missense mutation in codon 1175 of CREBBP. J Med Genet. 2002 Jul;39(7):496-501.</reference_text>
+      <pubmed_id>12114483</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kalkhoven E, Roelfsema JH, Teunissen H, den Boer A, Ariyurek Y, Zantema A, Breuning MH, Hennekam RC, Peters DJ: Loss of CBP acetyltransferase activity by PHD finger mutations in Rubinstein-Taybi syndrome. Hum Mol Genet. 2003 Feb 15;12(4):441-50.</reference_text>
+      <pubmed_id>12566391</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Roelfsema JH, White SJ, Ariyurek Y, Bartholdi D, Niedrist D, Papadia F, Bacino CA, den Dunnen JT, van Ommen GJ, Breuning MH, Hennekam RC, Peters DJ: Genetic heterogeneity in Rubinstein-Taybi syndrome: mutations in both the CBP and EP300 genes cause disease. Am J Hum Genet. 2005 Apr;76(4):572-80. Epub 2005 Feb 10.</reference_text>
+      <pubmed_id>15706485</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

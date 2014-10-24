@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:07:40 -0700</creation_date>
+  <update_date>2013-05-27 11:37:14 -0600</update_date>
+  <accession>HMDBP02739</accession>
+  <secondary_accessions>
+    <accession>8244</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>HEST2</synonym>
+    <synonym>TP2</synonym>
+    <synonym>Telomerase catalytic subunit</synonym>
+    <synonym>Telomerase-associated protein 2</synonym>
+  </synonyms>
+  <gene_name>TERT</gene_name>
+  <general_function>Involved in RNA binding</general_function>
+  <specific_function>Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>HTLV-I infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05166</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>telomeric template rna reverse transcriptase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna-directed dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna-dependent dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear telomere cap complex</description>
+      <go_id>GO:0000783</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>PML body</description>
+      <go_id>GO:0016605</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>telomerase holoenzyme complex</description>
+      <go_id>GO:0005697</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>telomeric DNA binding</description>
+      <go_id>GO:0042162</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>telomeric RNA binding</description>
+      <go_id>GO:0070034</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>telomeric template RNA reverse transcriptase activity</description>
+      <go_id>GO:0003721</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA strand elongation</description>
+      <go_id>GO:0022616</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>replicative senescence</description>
+      <go_id>GO:0090399</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere formation via telomerase</description>
+      <go_id>GO:0032203</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via telomerase</description>
+      <go_id>GO:0007004</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleolus</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleoplasm</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Chromosome</subcellular_location>
+    <subcellular_location>telomere</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5p15.33</locus>
+    <gene_sequence>&gt;3399 bp
+ATGCCGCGCGCTCCCCGCTGCCGAGCCGTGCGCTCCCTGCTGCGCAGCCACTACCGCGAG
+GTGCTGCCGCTGGCCACGTTCGTGCGGCGCCTGGGGCCCCAGGGCTGGCGGCTGGTGCAG
+CGCGGGGACCCGGCGGCTTTCCGCGCGCTGGTGGCCCAGTGCCTGGTGTGCGTGCCCTGG
+GACGCACGGCCGCCCCCCGCCGCCCCCTCCTTCCGCCAGGTGTCCTGCCTGAAGGAGCTG
+GTGGCCCGAGTGCTGCAGAGGCTGTGCGAGCGCGGCGCGAAGAACGTGCTGGCCTTCGGC
+TTCGCGCTGCTGGACGGGGCCCGCGGGGGCCCCCCCGAGGCCTTCACCACCAGCGTGCGC
+AGCTACCTGCCCAACACGGTGACCGACGCACTGCGGGGGAGCGGGGCGTGGGGGCTGCTG
+CTGCGCCGCGTGGGCGACGACGTGCTGGTTCACCTGCTGGCACGCTGCGCGCTCTTTGTG
+CTGGTGGCTCCCAGCTGCGCCTACCAGGTGTGCGGGCCGCCGCTGTACCAGCTCGGCGCT
+GCCACTCAGGCCCGGCCCCCGCCACACGCTAGTGGACCCCGAAGGCGTCTGGGATGCGAA
+CGGGCCTGGAACCATAGCGTCAGGGAGGCCGGGGTCCCCCTGGGCCTGCCAGCCCCGGGT
+GCGAGGAGGCGCGGGGGCAGTGCCAGCCGAAGTCTGCCGTTGCCCAAGAGGCCCAGGCGT
+GGCGCTGCCCCTGAGCCGGAGCGGACGCCCGTTGGGCAGGGGTCCTGGGCCCACCCGGGC
+AGGACGCGTGGACCGAGTGACCGTGGTTTCTGTGTGGTGTCACCTGCCAGACCCGCCGAA
+GAAGCCACCTCTTTGGAGGGTGCGCTCTCTGGCACGCGCCACTCCCACCCATCCGTGGGC
+CGCCAGCACCACGCGGGCCCCCCATCCACATCGCGGCCACCACGTCCCTGGGACACGCCT
+TGTCCCCCGGTGTACGCCGAGACCAAGCACTTCCTCTACTCCTCAGGCGACAAGGAGCAG
+CTGCGGCCCTCCTTCCTACTCAGCTCTCTGAGGCCCAGCCTGACTGGCGCTCGGAGGCTC
+GTGGAGACCATCTTTCTGGGTTCCAGGCCCTGGATGCCAGGGACTCCCCGCAGGTTGCCC
+CGCCTGCCCCAGCGCTACTGGCAAATGCGGCCCCTGTTTCTGGAGCTGCTTGGGAACCAC
+GCGCAGTGCCCCTACGGGGTGCTCCTCAAGACGCACTGCCCGCTGCGAGCTGCGGTCACC
+CCAGCAGCCGGTGTCTGTGCCCGGGAGAAGCCCCAGGGCTCTGTGGCGGCCCCCGAGGAG
+GAGGACACAGACCCCCGTCGCCTGGTGCAGCTGCTCCGCCAGCACAGCAGCCCCTGGCAG
+GTGTACGGCTTCGTGCGGGCCTGCCTGCGCCGGCTGGTGCCCCCAGGCCTCTGGGGCTCC
+AGGCACAACGAACGCCGCTTCCTCAGGAACACCAAGAAGTTCATCTCCCTGGGGAAGCAT
+GCCAAGCTCTCGCTGCAGGAGCTGACGTGGAAGATGAGCGTGCGGGACTGCGCTTGGCTG
+CGCAGGAGCCCAGGGGTTGGCTGTGTTCCGGCCGCAGAGCACCGTCTGCGTGAGGAGATC
+CTGGCCAAGTTCCTGCACTGGCTGATGAGTGTGTACGTCGTCGAGCTGCTCAGGTCTTTC
+TTTTATGTCACGGAGACCACGTTTCAAAAGAACAGGCTCTTTTTCTACCGGAAGAGTGTC
+TGGAGCAAGTTGCAAAGCATTGGAATCAGACAGCACTTGAAGAGGGTGCAGCTGCGGGAG
+CTGTCGGAAGCAGAGGTCAGGCAGCATCGGGAAGCCAGGCCCGCCCTGCTGACGTCCAGA
+CTCCGCTTCATCCCCAAGCCTGACGGGCTGCGGCCGATTGTGAACATGGACTACGTCGTG
+GGAGCCAGAACGTTCCGCAGAGAAAAGAGGGCCGAGCGTCTCACCTCGAGGGTGAAGGCA
+CTGTTCAGCGTGCTCAACTACGAGCGGGCGCGGCGCCCCGGCCTCCTGGGCGCCTCTGTG
+CTGGGCCTGGACGATATCCACAGGGCCTGGCGCACCTTCGTGCTGCGTGTGCGGGCCCAG
+GACCCGCCGCCTGAGCTGTACTTTGTCAAGGTGGATGTGACGGGCGCGTACGACACCATC
+CCCCAGGACAGGCTCACGGAGGTCATCGCCAGCATCATCAAACCCCAGAACACGTACTGC
+GTGCGTCGGTATGCCGTGGTCCAGAAGGCCGCCCATGGGCACGTCCGCAAGGCCTTCAAG
+AGCCACGTCTCTACCTTGACAGACCTCCAGCCGTACATGCGACAGTTCGTGGCTCACCTG
+CAGGAGACCAGCCCGCTGAGGGATGCCGTCGTCATCGAGCAGAGCTCCTCCCTGAATGAG
+GCCAGCAGTGGCCTCTTCGACGTCTTCCTACGCTTCATGTGCCACCACGCCGTGCGCATC
+AGGGGCAAGTCCTACGTCCAGTGCCAGGGGATCCCGCAGGGCTCCATCCTCTCCACGCTG
+CTCTGCAGCCTGTGCTACGGCGACATGGAGAACAAGCTGTTTGCGGGGATTCGGCGGGAC
+GGGCTGCTCCTGCGTTTGGTGGATGATTTCTTGTTGGTGACACCTCACCTCACCCACGCG
+AAAACCTTCCTCAGGACCCTGGTCCGAGGTGTCCCTGAGTATGGCTGCGTGGTGAACTTG
+CGGAAGACAGTGGTGAACTTCCCTGTAGAAGACGAGGCCCTGGGTGGCACGGCTTTTGTT
+CAGATGCCGGCCCACGGCCTATTCCCCTGGTGCGGCCTGCTGCTGGATACCCGGACCCTG
+GAGGTGCAGAGCGACTACTCCAGCTATGCCCGGACCTCCATCAGAGCCAGTCTCACCTTC
+AACCGCGGCTTCAAGGCTGGGAGGAACATGCGTCGCAAACTCTTTGGGGTCTTGCGGCTG
+AAGTGTCACAGCCTGTTTCTGGATTTGCAGGTGAACAGCCTCCAGACGGTGTGCACCAAC
+ATCTACAAGATCCTCCTGCTGCAGGCGTACAGGTTTCACGCATGTGTGCTGCAGCTCCCA
+TTTCATCAGCAAGTTTGGAAGAACCCCACATTTTTCCTGCGCGTCATCTCTGACACGGCC
+TCCCTCTGCTACTCCATCCTGAAAGCCAAGAACGCAGGGATGTCGCTGGGGGCCAAGGGC
+GCCGCCGGCCCTCTGCCCTCCGAGGCCGTGCAGTGGCTGTGCCACCAAGCATTCCTGCTC
+AAGCTGACTCGACACCGTGTCACCTACGTGCCACTCCTGGGGTCACTCAGGACAGCCCAG
+ACGCAGCTGAGTCGGAAGCTCCCGGGGACGACGCTGACTGCCCTGGAGGCCGCAGCCAAC
+CCGGCACTGCCCTCAGACTTCAAGACCATCCTGGACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1132</residue_number>
+    <molecular_weight>120046.48</molecular_weight>
+    <theoretical_pi>10.706</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>RVT_1</name>
+        <pfam_id>PF00078</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Telomerase_RBD</name>
+        <pfam_id>PF12009</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Telomerase reverse transcriptase
+MPRAPRCRAVRSLLRSHYREVLPLATFVRRLGPQGWRLVQRGDPAAFRALVAQCLVCVPW
+DARPPPAAPSFRQVSCLKELVARVLQRLCERGAKNVLAFGFALLDGARGGPPEAFTTSVR
+SYLPNTVTDALRGSGAWGLLLRRVGDDVLVHLLARCALFVLVAPSCAYQVCGPPLYQLGA
+ATQARPPPHASGPRRRLGCERAWNHSVREAGVPLGLPAPGARRRGGSASRSLPLPKRPRR
+GAAPEPERTPVGQGSWAHPGRTRGPSDRGFCVVSPARPAEEATSLEGALSGTRHSHPSVG
+RQHHAGPPSTSRPPRPWDTPCPPVYAETKHFLYSSGDKEQLRPSFLLSSLRPSLTGARRL
+VETIFLGSRPWMPGTPRRLPRLPQRYWQMRPLFLELLGNHAQCPYGVLLKTHCPLRAAVT
+PAAGVCAREKPQGSVAAPEEEDTDPRRLVQLLRQHSSPWQVYGFVRACLRRLVPPGLWGS
+RHNERRFLRNTKKFISLGKHAKLSLQELTWKMSVRDCAWLRRSPGVGCVPAAEHRLREEI
+LAKFLHWLMSVYVVELLRSFFYVTETTFQKNRLFFYRKSVWSKLQSIGIRQHLKRVQLRE
+LSEAEVRQHREARPALLTSRLRFIPKPDGLRPIVNMDYVVGARTFRREKRAERLTSRVKA
+LFSVLNYERARRPGLLGASVLGLDDIHRAWRTFVLRVRAQDPPPELYFVKVDVTGAYDTI
+PQDRLTEVIASIIKPQNTYCVRRYAVVQKAAHGHVRKAFKSHVSTLTDLQPYMRQFVAHL
+QETSPLRDAVVIEQSSSLNEASSGLFDVFLRFMCHHAVRIRGKSYVQCQGIPQGSILSTL
+LCSLCYGDMENKLFAGIRRDGLLLRLVDDFLLVTPHLTHAKTFLRTLVRGVPEYGCVVNL
+RKTVVNFPVEDEALGGTAFVQMPAHGLFPWCGLLLDTRTLEVQSDYSSYARTSIRASLTF
+NRGFKAGRNMRRKLFGVLRLKCHSLFLDLQVNSLQTVCTNIYKILLLQAYRFHACVLQLP
+FHQQVWKNPTFFLRVISDTASLCYSILKAKNAGMSLGAKGAAGPLPSEAVQWLCHQAFLL
+KLTRHRVTYVPLLGSLRTAQTQLSRKLPGTTLTALEAAANPALPSDFKTILD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>109633031</genbank_protein_id>
+  <uniprot_id>O14746</uniprot_id>
+  <uniprot_name>TERT_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2BCK</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_198253.2</genbank_gene_id>
+  <genecard_id>TERT</genecard_id>
+  <geneatlas_id>TERT</geneatlas_id>
+  <hgnc_id>HGNC:11730</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Meyerson M, Counter CM, Eaton EN, Ellisen LW, Steiner P, Caddle SD, Ziaugra L, Beijersbergen RL, Davidoff MJ, Liu Q, Bacchetti S, Haber DA, Weinberg RA: hEST2, the putative human telomerase catalytic subunit gene, is up-regulated in tumor cells and during immortalization. Cell. 1997 Aug 22;90(4):785-95.</reference_text>
+      <pubmed_id>9288757</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakamura TM, Morin GB, Chapman KB, Weinrich SL, Andrews WH, Lingner J, Harley CB, Cech TR: Telomerase catalytic subunit homologs from fission yeast and human.  Science. 1997 Aug 15;277(5328):955-9.</reference_text>
+      <pubmed_id>9252327</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wick M, Zubov D, Hagen G: Genomic organization and promoter characterization of the gene encoding the human telomerase reverse transcriptase (hTERT). Gene. 1999 May 17;232(1):97-106.</reference_text>
+      <pubmed_id>10333526</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hisatomi H, Ohyashiki K, Ohyashiki JH, Nagao K, Kanamaru T, Hirata H, Hibi N, Tsukada Y: Expression profile of a gamma-deletion variant of the human telomerase reverse transcriptase gene. Neoplasia. 2003 May-Jun;5(3):193-7.</reference_text>
+      <pubmed_id>12869302</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagao K, Katsumata K, Aizawa Y, Saito N, Hirata H, Sasaki H, Yamamoto S, Hikiji K, Koiwa T, Hisatomi H: Differential alternative splicing expressions of telomerase reverse transcriptase in gastrointestinal cell lines. Oncol Rep. 2004 Jan;11(1):127-31.</reference_text>
+      <pubmed_id>14654914</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Weng NP, Levine BL, June CH, Hodes RJ: Regulated expression of telomerase activity in human T lymphocyte development and activation. J Exp Med. 1996 Jun 1;183(6):2471-9.</reference_text>
+      <pubmed_id>8676067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Harrington L, Zhou W, McPhail T, Oulton R, Yeung DS, Mar V, Bass MB, Robinson MO: Human telomerase contains evolutionarily conserved catalytic and structural subunits. Genes Dev. 1997 Dec 1;11(23):3109-15.</reference_text>
+      <pubmed_id>9389643</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beattie TL, Zhou W, Robinson MO, Harrington L: Reconstitution of human telomerase activity in vitro.  Curr Biol. 1998 Jan 29;8(3):177-80.</reference_text>
+      <pubmed_id>9443919</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beattie TL, Zhou W, Robinson MO, Harrington L: Polymerization defects within human telomerase are distinct from telomerase RNA and TEP1 binding. Mol Biol Cell. 2000 Oct;11(10):3329-40.</reference_text>
+      <pubmed_id>11029039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Forsythe HL, Jarvis JL, Turner JW, Elmore LW, Holt SE: Stable association of hsp90 and p23, but Not hsp70, with active human telomerase. J Biol Chem. 2001 May 11;276(19):15571-4. Epub 2001 Mar 23.</reference_text>
+      <pubmed_id>11274138</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haendeler J, Hoffmann J, Brandes RP, Zeiher AM, Dimmeler S: Hydrogen peroxide triggers nuclear export of telomerase reverse transcriptase via Src kinase family-dependent phosphorylation of tyrosine 707. Mol Cell Biol. 2003 Jul;23(13):4598-610.</reference_text>
+      <pubmed_id>12808100</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Song H, Li Y, Chen G, Xing Z, Zhao J, Yokoyama KK, Li T, Zhao M: Human MCRS2, a cell-cycle-dependent protein, associates with LPTS/PinX1 and reduces the telomere length. Biochem Biophys Res Commun. 2004 Apr 16;316(4):1116-23.</reference_text>
+      <pubmed_id>15044100</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haendeler J, Hoffmann J, Diehl JF, Vasa M, Spyridopoulos I, Zeiher AM, Dimmeler S: Antioxidants inhibit nuclear export of telomerase reverse transcriptase and delay replicative senescence of endothelial cells. Circ Res. 2004 Apr 2;94(6):768-75. Epub 2004 Feb 12.</reference_text>
+      <pubmed_id>14963003</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yan P, Benhattar J, Seelentag W, Stehle JC, Bosman FT: Immunohistochemical localization of hTERT protein in human tissues.  Histochem Cell Biol. 2004 May;121(5):391-7. Epub 2004 May 7.</reference_text>
+      <pubmed_id>15138842</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Khurts S, Masutomi K, Delgermaa L, Arai K, Oishi N, Mizuno H, Hayashi N, Hahn WC, Murakami S: Nucleolin interacts with telomerase.  J Biol Chem. 2004 Dec 3;279(49):51508-15. Epub 2004 Sep 14.</reference_text>
+      <pubmed_id>15371412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moriarty TJ, Marie-Egyptienne DT, Autexier C: Functional organization of repeat addition processivity and DNA synthesis determinants in the human telomerase multimer. Mol Cell Biol. 2004 May;24(9):3720-33.</reference_text>
+      <pubmed_id>15082768</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim JH, Park SM, Kang MR, Oh SY, Lee TH, Muller MT, Chung IK: Ubiquitin ligase MKRN1 modulates telomere length homeostasis through a proteolysis of hTERT. Genes Dev. 2005 Apr 1;19(7):776-81.</reference_text>
+      <pubmed_id>15805468</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moriarty TJ, Ward RJ, Taboski MA, Autexier C: An anchor site-type defect in human telomerase that disrupts telomere length maintenance and cellular immortalization. Mol Biol Cell. 2005 Jul;16(7):3152-61. Epub 2005 Apr 27.</reference_text>
+      <pubmed_id>15857955</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao WA, Wollscheid B, O'Brien R, Eng JK, Li XJ, Bodenmiller B, Watts JD, Hood L, Aebersold R: Quantitative phosphoproteome analysis using a dendrimer conjugation chemistry and tandem mass spectrometry. Nat Methods. 2005 Aug;2(8):591-8.</reference_text>
+      <pubmed_id>16094384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rahman R, Mo L, Cui W: Telomerase with mutated catalytic motifs has dominant negative effects on telomerase activity and inhibits cell growth. Biochem Biophys Res Commun. 2006 Nov 24;350(3):796-802. Epub 2006 Sep 29.</reference_text>
+      <pubmed_id>17026956</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nousiainen M, Sillje HH, Sauer G, Nigg EA, Korner R: Phosphoproteome analysis of the human mitotic spindle.  Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5391-6. Epub 2006 Mar 24.</reference_text>
+      <pubmed_id>16565220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Plunkett FJ, Franzese O, Finney HM, Fletcher JM, Belaramani LL, Salmon M, Dokal I, Webster D, Lawson AD, Akbar AN: The loss of telomerase activity in highly differentiated CD8+CD28-CD27- T cells is associated with decreased Akt (Ser473) phosphorylation. J Immunol. 2007 Jun 15;178(12):7710-9.</reference_text>
+      <pubmed_id>17548608</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fu D, Collins K: Purification of human telomerase complexes identifies factors involved in telomerase biogenesis and telomere length regulation. Mol Cell. 2007 Dec 14;28(5):773-85.</reference_text>
+      <pubmed_id>18082603</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wyatt HD, Lobb DA, Beattie TL: Characterization of physical and functional anchor site interactions in human telomerase. Mol Cell Biol. 2007 Apr;27(8):3226-40. Epub 2007 Feb 12.</reference_text>
+      <pubmed_id>17296728</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Drosopoulos WC, Prasad VR: The active site residue Valine 867 in human telomerase reverse transcriptase influences nucleotide incorporation and fidelity. Nucleic Acids Res. 2007;35(4):1155-68. Epub 2007 Jan 30.</reference_text>
+      <pubmed_id>17264120</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jakob S, Schroeder P, Lukosz M, Buchner N, Spyridopoulos I, Altschmied J, Haendeler J: Nuclear protein tyrosine phosphatase Shp-2 is one important negative regulator of nuclear export of telomerase reverse transcriptase. J Biol Chem. 2008 Nov 28;283(48):33155-61. Epub 2008 Oct 1.</reference_text>
+      <pubmed_id>18829466</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ram R, Uziel O, Eldan O, Fenig E, Beery E, Lichtenberg S, Nordenberg Y, Lahav M: Ionizing radiation up-regulates telomerase activity in cancer cell lines by post-translational mechanism via ras/phosphatidylinositol 3-kinase/Akt pathway. Clin Cancer Res. 2009 Feb 1;15(3):914-23.</reference_text>
+      <pubmed_id>19188162</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park JI, Venteicher AS, Hong JY, Choi J, Jun S, Shkreli M, Chang W, Meng Z, Cheung P, Ji H, McLaughlin M, Veenstra TD, Nusse R, McCrea PD, Artandi SE: Telomerase modulates Wnt signalling by association with target gene chromatin. Nature. 2009 Jul 2;460(7251):66-72.</reference_text>
+      <pubmed_id>19571879</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wyatt HD, Tsang AR, Lobb DA, Beattie TL: Human telomerase reverse transcriptase (hTERT) Q169 is essential for telomerase function in vitro and in vivo. PLoS One. 2009 Sep 24;4(9):e7176.</reference_text>
+      <pubmed_id>19777057</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Venteicher AS, Abreu EB, Meng Z, McCann KE, Terns RM, Veenstra TD, Terns MP, Artandi SE: A human telomerase holoenzyme protein required for Cajal body localization and telomere synthesis. Science. 2009 Jan 30;323(5914):644-8.</reference_text>
+      <pubmed_id>19179534</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cole DK, Rizkallah PJ, Gao F, Watson NI, Boulter JM, Bell JI, Sami M, Gao GF, Jakobsen BK: Crystal structure of HLA-A*2402 complexed with a telomerase peptide.  Eur J Immunol. 2006 Jan;36(1):170-9.</reference_text>
+      <pubmed_id>16323248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vulliamy TJ, Walne A, Baskaradas A, Mason PJ, Marrone A, Dokal I: Mutations in the reverse transcriptase component of telomerase (TERT) in patients with bone marrow failure. Blood Cells Mol Dis. 2005 May-Jun;34(3):257-63.</reference_text>
+      <pubmed_id>15885610</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamaguchi H, Calado RT, Ly H, Kajigaya S, Baerlocher GM, Chanock SJ, Lansdorp PM, Young NS: Mutations in TERT, the gene for telomerase reverse transcriptase, in aplastic anemia. N Engl J Med. 2005 Apr 7;352(14):1413-24.</reference_text>
+      <pubmed_id>15814878</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Armanios M, Chen JL, Chang YP, Brodsky RA, Hawkins A, Griffin CA, Eshleman JR, Cohen AR, Chakravarti A, Hamosh A, Greider CW: Haploinsufficiency of telomerase reverse transcriptase leads to anticipation in autosomal dominant dyskeratosis congenita. Proc Natl Acad Sci U S A. 2005 Nov 1;102(44):15960-4. Epub 2005 Oct 24.</reference_text>
+      <pubmed_id>16247010</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsubara Y, Murata M, Watanabe K, Saito I, Miyaki K, Omae K, Ishikawa M, Matsushita K, Iwanaga S, Ogawa S, Ikeda Y: Coronary artery disease and a functional polymorphism of hTERT.  Biochem Biophys Res Commun. 2006 Sep 22;348(2):669-72. Epub 2006 Jul 28.</reference_text>
+      <pubmed_id>16890917</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vulliamy TJ, Marrone A, Knight SW, Walne A, Mason PJ, Dokal I: Mutations in dyskeratosis congenita: their impact on telomere length and the diversity of clinical presentation. Blood. 2006 Apr 1;107(7):2680-5. Epub 2005 Dec 6.</reference_text>
+      <pubmed_id>16332973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liang J, Yagasaki H, Kamachi Y, Hama A, Matsumoto K, Kato K, Kudo K, Kojima S: Mutations in telomerase catalytic protein in Japanese children with aplastic anemia. Haematologica. 2006 May;91(5):656-8. Epub 2006 Apr 19.</reference_text>
+      <pubmed_id>16627250</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xin ZT, Beauchamp AD, Calado RT, Bradford JW, Regal JA, Shenoy A, Liang Y, Lansdorp PM, Young NS, Ly H: Functional characterization of natural telomerase mutations found in patients with hematologic disorders. Blood. 2007 Jan 15;109(2):524-32. Epub 2006 Sep 21.</reference_text>
+      <pubmed_id>16990594</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marrone A, Walne A, Tamary H, Masunari Y, Kirwan M, Beswick R, Vulliamy T, Dokal I: Telomerase reverse-transcriptase homozygous mutations in autosomal recessive dyskeratosis congenita and Hoyeraal-Hreidarsson syndrome. Blood. 2007 Dec 15;110(13):4198-205. Epub 2007 Sep 4.</reference_text>
+      <pubmed_id>17785587</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Armanios MY, Chen JJ, Cogan JD, Alder JK, Ingersoll RG, Markin C, Lawson WE, Xie M, Vulto I, Phillips JA 3rd, Lansdorp PM, Greider CW, Loyd JE: Telomerase mutations in families with idiopathic pulmonary fibrosis.  N Engl J Med. 2007 Mar 29;356(13):1317-26.</reference_text>
+      <pubmed_id>17392301</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsakiri KD, Cronkhite JT, Kuan PJ, Xing C, Raghu G, Weissler JC, Rosenblatt RL, Shay JW, Garcia CK: Adult-onset pulmonary fibrosis caused by mutations in telomerase.  Proc Natl Acad Sci U S A. 2007 May 1;104(18):7552-7. Epub 2007 Apr 25.</reference_text>
+      <pubmed_id>17460043</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kirwan M, Vulliamy T, Marrone A, Walne AJ, Beswick R, Hillmen P, Kelly R, Stewart A, Bowen D, Schonland SO, Whittle AM, McVerry A, Gilleece M, Dokal I: Defining the pathogenic role of telomerase mutations in myelodysplastic syndrome and acute myeloid leukemia. Hum Mutat. 2009 Nov;30(11):1567-73.</reference_text>
+      <pubmed_id>19760749</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Calado RT, Regal JA, Hills M, Yewdell WT, Dalmazzo LF, Zago MA, Lansdorp PM, Hogge D, Chanock SJ, Estey EH, Falcao RP, Young NS: Constitutional hypomorphic telomerase mutations in patients with acute myeloid leukemia. Proc Natl Acad Sci U S A. 2009 Jan 27;106(4):1187-92. Epub 2009 Jan 15.</reference_text>
+      <pubmed_id>19147845</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

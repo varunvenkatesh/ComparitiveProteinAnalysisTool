@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:35 -0700</creation_date>
+  <update_date>2013-05-27 11:38:31 -0600</update_date>
+  <accession>HMDBP00273</accession>
+  <secondary_accessions>
+    <accession>5505</accession>
+    <accession>HMDBP05338</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>TH</synonym>
+    <synonym>Tyrosine 3-hydroxylase</synonym>
+  </synonyms>
+  <gene_name>TH</gene_name>
+  <general_function>Involved in monooxygenase activity</general_function>
+  <specific_function>Plays an important role in the physiology of adrenergic neurons.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Catecholamine Biosynthesis</name>
+      <smpdb_id>SMP00012</smpdb_id>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Tyrosine Metabolism</name>
+      <smpdb_id>SMP00006</smpdb_id>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>dopamine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tyrosine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Dopaminergic synapse</name>
+      <smpdb_id/>
+      <kegg_map_id>map04728</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Parkinson's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05012</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cocaine addiction</name>
+      <smpdb_id/>
+      <kegg_map_id>map05030</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Amphetamine addiction</name>
+      <smpdb_id/>
+      <kegg_map_id>map05031</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alcoholism</name>
+      <smpdb_id/>
+      <kegg_map_id>map05034</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00181</accession>
+      <name>L-Dopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00158</accession>
+      <name>L-Tyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00027</accession>
+      <name>Tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00038</accession>
+      <name>Dihydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00609</accession>
+      <name>DL-Dopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02281</accession>
+      <name>4a-Hydroxytetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00159</accession>
+      <name>L-Phenylalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00787</accession>
+      <name>Sapropterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14903</accession>
+      <name>Metyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59658</accession>
+      <name>L-erythro-tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02215</accession>
+      <name>4a-Carbinolamine tetrahydrobiopterin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>tyrosine 3-monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular biogenic amine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>catecholamine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>catecholamine biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>aromatic amino acid family metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>dendrite</description>
+      <go_id>GO:0030425</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>internal side of plasma membrane</description>
+      <go_id>GO:0009898</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>melanosome membrane</description>
+      <go_id>GO:0033162</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>neuron projection</description>
+      <go_id>GO:0043005</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perikaryon</description>
+      <go_id>GO:0043204</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>smooth endoplasmic reticulum</description>
+      <go_id>GO:0005790</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>synaptic vesicle</description>
+      <go_id>GO:0008021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>terminal button</description>
+      <go_id>GO:0043195</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>amino acid binding</description>
+      <go_id>GO:0016597</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dopamine binding</description>
+      <go_id>GO:0035240</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ferric iron binding</description>
+      <go_id>GO:0008199</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ferrous iron binding</description>
+      <go_id>GO:0008198</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxygen binding</description>
+      <go_id>GO:0019825</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tetrahydrobiopterin binding</description>
+      <go_id>GO:0034617</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tyrosine 3-monooxygenase activity</description>
+      <go_id>GO:0004511</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to drug</description>
+      <go_id>GO:0035690</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to glucose stimulus</description>
+      <go_id>GO:0071333</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to growth factor stimulus</description>
+      <go_id>GO:0071363</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to manganese ion</description>
+      <go_id>GO:0071287</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to nicotine</description>
+      <go_id>GO:0071316</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cerebral cortex development</description>
+      <go_id>GO:0021987</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>circadian sleep/wake cycle</description>
+      <go_id>GO:0042745</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dopamine biosynthetic process from tyrosine</description>
+      <go_id>GO:0006585</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>eating behavior</description>
+      <go_id>GO:0042755</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic camera-type eye morphogenesis</description>
+      <go_id>GO:0048596</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>epinephrine biosynthetic process</description>
+      <go_id>GO:0042418</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>eye photoreceptor cell development</description>
+      <go_id>GO:0042462</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id>GO:0006631</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heart morphogenesis</description>
+      <go_id>GO:0003007</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>isoquinoline alkaloid metabolic process</description>
+      <go_id>GO:0033076</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>learning</description>
+      <go_id>GO:0007612</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>locomotory behavior</description>
+      <go_id>GO:0007626</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mating behavior</description>
+      <go_id>GO:0007617</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>memory</description>
+      <go_id>GO:0007613</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organismal aging</description>
+      <go_id>GO:0010259</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter biosynthetic process</description>
+      <go_id>GO:0042136</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>norepinephrine biosynthetic process</description>
+      <go_id>GO:0042421</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phthalate metabolic process</description>
+      <go_id>GO:0018963</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phytoalexin metabolic process</description>
+      <go_id>GO:0052314</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pigmentation</description>
+      <go_id>GO:0043473</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of heart contraction</description>
+      <go_id>GO:0008016</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to activity</description>
+      <go_id>GO:0014823</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amphetamine</description>
+      <go_id>GO:0001975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to corticosterone stimulus</description>
+      <go_id>GO:0051412</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to electrical stimulus</description>
+      <go_id>GO:0051602</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to estradiol stimulus</description>
+      <go_id>GO:0032355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ethanol</description>
+      <go_id>GO:0045471</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ether</description>
+      <go_id>GO:0045472</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to herbicide</description>
+      <go_id>GO:0009635</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hypoxia</description>
+      <go_id>GO:0001666</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to light stimulus</description>
+      <go_id>GO:0009416</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to lipopolysaccharide</description>
+      <go_id>GO:0032496</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient levels</description>
+      <go_id>GO:0031667</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to peptide hormone stimulus</description>
+      <go_id>GO:0043434</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to pyrethroid</description>
+      <go_id>GO:0046684</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to salt stress</description>
+      <go_id>GO:0009651</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to water deprivation</description>
+      <go_id>GO:0009414</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to zinc ion</description>
+      <go_id>GO:0010043</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sensory perception of sound</description>
+      <go_id>GO:0007605</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>social behavior</description>
+      <go_id>GO:0035176</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingolipid metabolic process</description>
+      <go_id>GO:0006665</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>synaptic transmission, dopaminergic</description>
+      <go_id>GO:0001963</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>synaptic vesicle amine transport</description>
+      <go_id>GO:0015842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>terpene metabolic process</description>
+      <go_id>GO:0042214</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>visual perception</description>
+      <go_id>GO:0007601</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11p15.5</locus>
+    <gene_sequence>&gt;1587 bp
+ATGCCCACCCCCGACGCCACCACGCCACAGGCCAAGGGCTTCCGCAGGGCCGTGTCTGAG
+CTGGACGCCAAGCAGGCAGAGGCCATCATGGTAAGAGGGCAGGGCGCCCCGGGGCCCAGC
+CTCACAGGCTCTCCGTGGCCTGGAACTGCAGCCCCAGCTGCATCCTACACCCCCACCCCA
+AGGTCCCCGCGGTTCATTGGGCGCAGGCAGAGCCTCATCGAGGACGCCCGCAAGGAGCGG
+GAGGCGGCGGTGGCAGCAGCGGCCGCTGCAGTCCCCTCGGAGCCCGGGGACCCCCTGGAG
+GCTGTGGCCTTTGAGGAGAAGGAGGGGAAGGCCGTGCTAAACCTGCTCTTCTCCCCGAGG
+GCCACCAAGCCCTCGGCGCTGTCCCGAGCTGTGAAGGTGTTTGAGACGTTTGAAGCCAAA
+ATCCACCATCTAGAGACCCGGCCCGCCCAGAGGCCGCGAGCTGGGGGCCCCCACCTGGAG
+TACTTCGTGCGCCTCGAGGTGCGCCGAGGGGACCTGGCCGCCCTGCTCAGTGGTGTGCGC
+CAGGTGTCAGAGGACGTGCGCAGCCCCGCGGGGCCCAAGGTCCCCTGGTTCCCAAGAAAA
+GTGTCAGAGCTGGACAAGTGTCATCACCTGGTCACCAAGTTCGACCCTGACCTGGACTTG
+GACCACCCGGGCTTCTCGGACCAGGTGTACCGCCAGCGCAGGAAGCTGATTGCTGAGATC
+GCCTTCCAGTACAGGCACGGCGACCCGATTCCCCGTGTGGAGTACACCGCCGAGGAGATT
+GCCACCTGGAAGGAGGTCTACACCACGCTGAAGGGCCTCTACGCCACGCACGCCTGCGGG
+GAGCACCTGGAGGCCTTTGCTTTGCTGGAGCGCTTCAGCGGCTACCGGGAAGACAATATC
+CCCCAGCTGGAGGACGTCTCCCGCTTCCTGAAGGAGCGCACGGGCTTCCAGCTGCGGCCT
+GTGGCCGGCCTGCTGTCCGCCCGGGACTTCCTGGCCAGCCTGGCCTTCCGCGTGTTCCAG
+TGCACCCAGTATATCCGCCACGCGTCCTCGCCCATGCACTCCCCTGAGCCGGACTGCTGC
+CACGAGCTGCTGGGGCACGTGCCCATGCTGGCCGACCGCACCTTCGCGCAGTTCTCGCAG
+GACATTGGCCTGGCGTCCCTGGGGGCCTCGGATGAGGAAATTGAGAAGCTGTCCACGCTG
+TCATGGTTCACGGTGGAGTTCGGGCTGTGTAAGCAGAACGGGGAGGTGAAGGCCTATGGT
+GCCGGGCTGCTGTCCTCCTACGGGGAGCTCCTGCACTGCCTGTCTGAGGAGCCTGAGATT
+CGGGCCTTCGACCCTGAGGCTGCGGCCGTGCAGCCCTACCAAGACCAGACGTACCAGTCA
+GTCTACTTCGTGTCTGAGAGCTTCAGTGACGCCAAGGACAAGCTCAGGAGCTATGCCTCA
+CGCATCCAGCGCCCCTTCTCCGTGAAGTTCGACCCGTACACGCTGGCCATCGACGTGCTG
+GACAGCCCCCAGGCCGTGCGGCGCTCCCTGGAGGGTGTCCAGGATGAGCTGGACACCCTT
+GCCCATGCGCTGAGTGCCATTGGCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>528</residue_number>
+    <molecular_weight>55611.26</molecular_weight>
+    <theoretical_pi>6.109</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Biopterin_H</name>
+        <pfam_id>PF00351</pfam_id>
+      </pfam>
+      <pfam>
+        <name>TOH_N</name>
+        <pfam_id>PF12549</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tyrosine 3-monooxygenase
+MPTPDATTPQAKGFRRAVSELDAKQAEAIMVRGQGAPGPSLTGSPWPGTAAPAASYTPTP
+RSPRFIGRRQSLIEDARKEREAAVAAAAAAVPSEPGDPLEAVAFEEKEGKAVLNLLFSPR
+ATKPSALSRAVKVFETFEAKIHHLETRPAQRPRAGGPHLEYFVRLEVRRGDLAALLSGVR
+QVSEDVRSPAGPKVPWFPRKVSELDKCHHLVTKFDPDLDLDHPGFSDQVYRQRRKLIAEI
+AFQYRHGDPIPRVEYTAEEIATWKEVYTTLKGLYATHACGEHLEAFALLERFSGYREDNI
+PQLEDVSRFLKERTGFQLRPVAGLLSARDFLASLAFRVFQCTQYIRHASSPMHSPEPDCC
+HELLGHVPMLADRTFAQFSQDIGLASLGASDEEIEKLSTLYWFTVEFGLCKQNGEVKAYG
+AGLLSSYGELLHCLSEEPEIRAFDPEAAAVQPYQDQTYQSVYFVSESFSDAKDKLRSYAS
+RIQRPFSVKFDPYTLAIDVLDSPQAVRRSLEGVQDELDTLAHALSAIG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>339681</genbank_protein_id>
+  <uniprot_id>P07101</uniprot_id>
+  <uniprot_name>TY3H_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2XSN</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M17589</genbank_gene_id>
+  <genecard_id>TH</genecard_id>
+  <geneatlas_id>TH</geneatlas_id>
+  <hgnc_id>HGNC:11782</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kaneda N, Kobayashi K, Ichinose H, Kishi F, Nakazawa A, Kurosawa Y, Fujita K, Nagatsu T: Isolation of a novel cDNA clone for human tyrosine hydroxylase: alternative RNA splicing produces four kinds of mRNA from a single gene. Biochem Biophys Res Commun. 1987 Aug 14;146(3):971-5.</reference_text>
+      <pubmed_id>2887169</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grima B, Lamouroux A, Boni C, Julien JF, Javoy-Agid F, Mallet J: A single human gene encoding multiple tyrosine hydroxylases with different predicted functional characteristics. Nature. 1987 Apr 16-22;326(6114):707-11.</reference_text>
+      <pubmed_id>2882428</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kobayashi K, Kaneda N, Ichinose H, Kishi F, Nakazawa A, Kurosawa Y, Fujita K, Nagatsu T: Isolation of a full-length cDNA clone encoding human tyrosine hydroxylase type 3. Nucleic Acids Res. 1987 Aug 25;15(16):6733.</reference_text>
+      <pubmed_id>2888085</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kobayashi K, Kaneda N, Ichinose H, Kishi F, Nakazawa A, Kurosawa Y, Fujita K, Nagatsu T: Structure of the human tyrosine hydroxylase gene: alternative splicing from a single gene accounts for generation of four mRNA types. J Biochem (Tokyo). 1988 Jun;103(6):907-12.</reference_text>
+      <pubmed_id>2902075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Le Bourdelles B, Boularand S, Boni C, Horellou P, Dumas S, Grima B, Mallet J: Analysis of the 5' region of the human tyrosine hydroxylase gene: combinatorial patterns of exon splicing generate multiple regulated tyrosine hydroxylase isoforms. J Neurochem. 1988 Mar;50(3):988-91.</reference_text>
+      <pubmed_id>2892893</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ginns EI, Rehavi M, Martin BM, Weller M, O'Malley KL, LaMarca ME, McAllister CG, Paul SM: Expression of human tyrosine hydroxylase cDNA in invertebrate cells using a baculovirus vector. J Biol Chem. 1988 May 25;263(15):7406-10.</reference_text>
+      <pubmed_id>2896667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ludecke B, Dworniczak B, Bartholome K: A point mutation in the tyrosine hydroxylase gene associated with Segawa's syndrome. Hum Genet. 1995 Jan;95(1):123-5.</reference_text>
+      <pubmed_id>7814018</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ludecke B, Bartholome K: Frequent sequence variant in the human tyrosine hydroxylase gene.  Hum Genet. 1995 Jun;95(6):716.</reference_text>
+      <pubmed_id>7789962</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Knappskog PM, Flatmark T, Mallet J, Ludecke B, Bartholome K: Recessively inherited L-DOPA-responsive dystonia caused by a point mutation (Q381K) in the tyrosine hydroxylase gene. Hum Mol Genet. 1995 Jul;4(7):1209-12.</reference_text>
+      <pubmed_id>8528210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ludecke B, Knappskog PM, Clayton PT, Surtees RA, Clelland JD, Heales SJ, Brand MP, Bartholome K, Flatmark T: Recessively inherited L-DOPA-responsive parkinsonism in infancy caused by a point mutation (L205P) in the tyrosine hydroxylase gene. Hum Mol Genet. 1996 Jul;5(7):1023-8.</reference_text>
+      <pubmed_id>8817341</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kunugi H, Kawada Y, Hattori M, Ueki A, Otsuka M, Nanko S: Association study of structural mutations of the tyrosine hydroxylase gene with schizophrenia and Parkinson's disease. Am J Med Genet. 1998 Mar 28;81(2):131-3.</reference_text>
+      <pubmed_id>9613851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ishiguro H, Arinami T, Saito T, Akazawa S, Enomoto M, Mitushio H, Fujishiro H, Tada K, Akimoto Y, Mifune H, Shiozuka S, Hamaguchi H, Toru M, Shibuya H: Systematic search for variations in the tyrosine hydroxylase gene and their associations with schizophrenia, affective disorders, and alcoholism. Am J Med Genet. 1998 Sep 7;81(5):388-96.</reference_text>
+      <pubmed_id>9754624</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van den Heuvel LP, Luiten B, Smeitink JA, de Rijk-van Andel JF, Hyland K, Steenbergen-Spanjers GC, Janssen RJ, Wevers RA: A common point mutation in the tyrosine hydroxylase gene in autosomal recessive L-DOPA-responsive dystonia in the Dutch population. Hum Genet. 1998 Jun;102(6):644-6.</reference_text>
+      <pubmed_id>9703425</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cargill M, Altshuler D, Ireland J, Sklar P, Ardlie K, Patil N, Shaw N, Lane CR, Lim EP, Kalyanaraman N, Nemesh J, Ziaugra L, Friedland L, Rolfe A, Warrington J, Lipshutz R, Daley GQ, Lander ES: Characterization of single-nucleotide polymorphisms in coding regions of human genes. Nat Genet. 1999 Jul;22(3):231-8.</reference_text>
+      <pubmed_id>10391209</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Swaans RJ, Rondot P, Renier WO, Van Den Heuvel LP, Steenbergen-Spanjers GC, Wevers RA: Four novel mutations in the tyrosine hydroxylase gene in patients with infantile parkinsonism. Ann Hum Genet. 2000 Jan;64(Pt 1):25-31.</reference_text>
+      <pubmed_id>11246459</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tyrosine</name>
+        <accession>HMDB00158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Olsovska J, Novotna J, Flieger M, Spizek J: Assay of tyrosine hydroxylase based on high-performance liquid chromatography separation and quantification of L-dopa and L-tyrosine. Biomed Chromatogr. 2007 Dec;21(12):1252-8.</reference_text>
+        <pubmed_id>17604359</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tyrosine</name>
+        <accession>HMDB00158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bodnar I, Hechtl D, Szekacs D, Olah M, Nagy GM: Effect of local (intracerebral and intracerebroventricular) administration of tyrosine hydroxylase inhibitor on the neuroendocrine dopaminergic neurons and prolactin release. Ideggyogy Sz. 2007 Mar 30;60(3-4):177-81.</reference_text>
+        <pubmed_id>17451064</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tyrosine</name>
+        <accession>HMDB00158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rostrup M, Fossbakk A, Hauge A, Kleppe R, Gnaiger E, Haavik J: Oxygen dependence of tyrosine hydroxylase.  Amino Acids. 2008 Apr;34(3):455-64. Epub 2007 May 23.</reference_text>
+        <pubmed_id>17520326</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tyrosine</name>
+        <accession>HMDB00158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Richards AB, Scheel TA, Wang K, Henkemeyer M, Kromer LF: EphB1 null mice exhibit neuronal loss in substantia nigra pars reticulata and spontaneous locomotor hyperactivity. Eur J Neurosci. 2007 May;25(9):2619-28.</reference_text>
+        <pubmed_id>17561836</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tyrosine</name>
+        <accession>HMDB00158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ugriumov MV: [Brain neurons partly expressing monoaminergic phenotype: distribution, development, and functional significance]. Usp Fiziol Nauk. 2007 Apr-Jun;38(2):3-25.</reference_text>
+        <pubmed_id>17578016</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tyrosine</name>
+        <accession>HMDB00158</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tetrahydrobiopterin</name>
+        <accession>HMDB00027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Madsen JT, Jansen P, Hesslinger C, Meyer M, Zimmer J, Gramsbergen JB: Tetrahydrobiopterin precursor sepiapterin provides protection against neurotoxicity of 1-methyl-4-phenylpyridinium in nigral slice cultures. J Neurochem. 2003 Apr;85(1):214-23.</reference_text>
+        <pubmed_id>12641743</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dihydrobiopterin</name>
+        <accession>HMDB00038</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Goodwill KE, Sabatier C, Stevens RC: Crystal structure of tyrosine hydroxylase with bound cofactor analogue and iron at 2.3 A resolution: self-hydroxylation of Phe300 and the pterin-binding site. Biochemistry. 1998 Sep 29;37(39):13437-45.</reference_text>
+        <pubmed_id>9753429</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fukami MH, Haavik J, Flatmark T: Phenylalanine as substrate for tyrosine hydroxylase in bovine adrenal chromaffin cells. Biochem J. 1990 Jun 1;268(2):525-8.</reference_text>
+        <pubmed_id>1973034</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ogawa S, Ichinose H: Effect of metals and phenylalanine on the activity of human tryptophan hydroxylase-2: comparison with that on tyrosine hydroxylase activity. Neurosci Lett. 2006 Jul 3;401(3):261-5. Epub 2006 Apr 11.</reference_text>
+        <pubmed_id>16581181</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schallreuter KU, Kothari S, Hasse S, Kauser S, Lindsey NJ, Gibbons NC, Hibberts N, Wood JM: In situ and in vitro evidence for DCoH/HNF-1 alpha transcription of tyrosinase in human skin melanocytes. Biochem Biophys Res Commun. 2003 Feb 7;301(2):610-6.</reference_text>
+        <pubmed_id>12565907</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>McQuade PS, Juorio AV: The effect of various amino acids and drugs on the para- and meta-hydroxyphenylacetic acid concentrations in the mouse caudate nucleus. Neurochem Res. 1983 Jul;8(7):903-12.</reference_text>
+        <pubmed_id>6621777</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fusetti F, Erlandsen H, Flatmark T, Stevens RC: Structure of tetrameric human phenylalanine hydroxylase and its implications for phenylketonuria. J Biol Chem. 1998 Jul 3;273(27):16962-7.</reference_text>
+        <pubmed_id>9642259</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metyrosine</name>
+        <accession>HMDB14903</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nasrallah HA, Donnelly EF, Bigelow LB, Rivera-Calimlim L, Rogol A, Potkin S, Rauscher FP, Wyatt RJ: Inhibition of dopamine synthesis in chronic schizophrenia. Clinical ineffectiveness of metyrosine. Arch Gen Psychiatry. 1977 Jun;34(6):649-55.</reference_text>
+        <pubmed_id>17374</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metyrosine</name>
+        <accession>HMDB14903</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yoshimoto Y, Nakaso K, Nakashima K: L-dopa and dopamine enhance the formation of aggregates under proteasome inhibition in PC12 cells. FEBS Lett. 2005 Feb 14;579(5):1197-202. Epub 2005 Jan 21.</reference_text>
+        <pubmed_id>15710413</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metyrosine</name>
+        <accession>HMDB14903</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shore PA, Dorris RL: On a prime role for newly synthesized dopamine in striatal function.  Eur J Pharmacol. 1975 Feb;30(2):315-8.</reference_text>
+        <pubmed_id>1168577</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metyrosine</name>
+        <accession>HMDB14903</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Moore KE, Demarest KT, Johnston CA: Influence of prolactin on dopaminergic neuronal systems in the hypothalamus.  Fed Proc. 1980 Sep;39(11):2912-6.</reference_text>
+        <pubmed_id>7409209</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metyrosine</name>
+        <accession>HMDB14903</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

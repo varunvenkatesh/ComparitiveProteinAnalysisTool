@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:13:46 -0600</creation_date>
+  <update_date>2013-05-27 11:13:46 -0600</update_date>
+  <accession>HMDBP11733</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Basic transcription factor 2 89 kDa subunit</synonym>
+    <synonym>DNA excision repair protein ERCC-3</synonym>
+    <synonym>DNA repair protein complementing XP-B cells</synonym>
+    <synonym>TFIIH basal transcription factor complex 89 kDa subunit</synonym>
+    <synonym>Xeroderma pigmentosum group B-complementing protein</synonym>
+    <synonym>BTF2 p89</synonym>
+    <synonym>TFIIH 89 kDa subunit</synonym>
+    <synonym>TFIIH p89</synonym>
+  </synonyms>
+  <gene_name>ERCC3</gene_name>
+  <general_function/>
+  <specific_function>ATP-dependent 3'-5' DNA helicase, component of the core-TFIIH basal transcription factor, involved in nucleotide excision repair (NER) of DNA and, when complexed to CAK, in RNA transcription by RNA polymerase II. Acts by opening DNA either around the RNA transcription start site or the DNA damage.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Basal transcription factors</name>
+      <smpdb_id/>
+      <kegg_map_id>map03022</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Nucleotide excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03420</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>viral reproduction</description>
+      <go_id>GO:0016032</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GTP binding</description>
+      <go_id>GO:0005525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hypoxia</description>
+      <go_id>GO:0001666</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptide binding</description>
+      <go_id>GO:0042277</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>induction of apoptosis</description>
+      <go_id>GO:0006917</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATPase activity</description>
+      <go_id>GO:0016887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent DNA helicase activity</description>
+      <go_id>GO:0004003</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>UV protection</description>
+      <go_id>GO:0009650</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase II promoter</description>
+      <go_id>GO:0006367</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of viral transcription</description>
+      <go_id>GO:0050434</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase II promoter</description>
+      <go_id>GO:0006368</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription factor binding</description>
+      <go_id>GO:0008134</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein localization</description>
+      <go_id>GO:0008104</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription-coupled nucleotide-excision repair</description>
+      <go_id>GO:0006283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to UV</description>
+      <go_id>GO:0009411</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>damaged DNA binding</description>
+      <go_id>GO:0003684</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>holo TFIIH complex</description>
+      <go_id>GO:0005675</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>SSL2-core TFIIH complex</description>
+      <go_id>GO:0000441</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>7-methylguanosine mRNA capping</description>
+      <go_id>GO:0006370</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell cycle checkpoint</description>
+      <go_id>GO:0000075</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hair cell differentiation</description>
+      <go_id>GO:0035315</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA damage removal</description>
+      <go_id>GO:0000718</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA incision</description>
+      <go_id>GO:0033683</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>termination of RNA polymerase I transcription</description>
+      <go_id>GO:0006363</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase I promoter</description>
+      <go_id>GO:0006362</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase I promoter</description>
+      <go_id>GO:0006361</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3'-5' DNA helicase activity</description>
+      <go_id>GO:0043138</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dATP binding</description>
+      <go_id>GO:0032564</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA polymerase II carboxy-terminal domain kinase activity</description>
+      <go_id>GO:0008353</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA topological change</description>
+      <go_id>GO:0006265</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA duplex unwinding</description>
+      <go_id>GO:0000717</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q21</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>89276.985</molecular_weight>
+    <theoretical_pi>7.227</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|4557563|ref|NP_000113.1| TFIIH basal transcription factor complex helicase XPB subunit [Homo sapiens]
+MGKRDRADRDKKKSRKRHYEDEEDDEEDAPGNDPQEAVPSAAGKQVDESGTKVDEYGAKD
+YRLQMPLKDD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P19447</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:3435</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

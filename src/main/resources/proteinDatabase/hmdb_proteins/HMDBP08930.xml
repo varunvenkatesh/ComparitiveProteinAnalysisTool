@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:17:17 -0700</creation_date>
+  <update_date>2013-05-27 11:32:28 -0600</update_date>
+  <accession>HMDBP08930</accession>
+  <secondary_accessions>
+    <accession>14659</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Brain-derived phosphatase</synonym>
+  </synonyms>
+  <gene_name>PTPN18</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Differentially dephosphorylate autophosphorylated tyrosine kinases which are known to be overexpressed in tumor tissues.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>non-membrane spanning protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004726</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q21.1</locus>
+    <gene_sequence>&gt;1377 bp
+ATGAGCCGCAGCCTGGACTCGGCGCGGAGCTTCCTGGAGCGGCTGGAAGCGCGGGGCGGC
+CGGGAGGGGGCAGTCCTCGCCGGCGAGTTCAGCGACATCCAGGCCTGCTCGGCCGCCTGG
+AAGGCTGACGGCGTGTGCTCCACCGTGGCCGGCAGTCGGCCAGAGAACGTGAGGAAGAAC
+CGCTACAAAGACGTGCTGCCTTATGATCAGACGCGAGTAATCCTCTCCCTGCTCCAGGAA
+GAGGGACACAGCGACTACATTAATGGCAACTTCATCCGGGGCGTGGATGGAAGCCTGGCC
+TACATTGCCACGCAAGGACCCTTGCCTCACACCCTGCTAGACTTCTGGAGACTGGTCTGG
+GAGTTTGGGGTCAAGGTGATCCTGATGGCCTGTCGAGAGATAGAGAATGGGCGGAAAAGG
+TGTGAGCGGTACTGGGCCCAGGAGCAGGAGCCACTGCAGACTGGGCTTTTCTGCATCACT
+CTGATAAAGGAGAAGTGGCTGAATGAGGACATCATGCTCAGGACCCTCAAGGTCACATTC
+CAGAAGGAGTCCCGTTCTGTGTACCAGCTACAGTATATGTCCTGGCCAGACCGTGGGGTC
+CCCAGCAGTCCTGACCACATGCTCGCCATGGTGGAGGAAGCCCGTCGCCTCCAGGGATCT
+GGCCCTGAACCCCTCTGTGTCCACTGCAGTGCGGGTTGTGGGCGAACAGGCGTCCTGTGC
+ACCGTGGATTATGTGAGGCAGCTGCTCCTGACCCAGATGATCCCACCTGACTTCAGTCTC
+TTTGATGTGGTCCTTAAGATGAGGAAGCAGCGGCCTGCGGCCGTGCAGACAGAGGAGCAG
+TACAGGTTCCTGTACCACACGGTGGCTCAGATGTTCTGCTCCACACTCCAGAATGCCAGC
+CCCCACTACCAGAACATCAAAGAGAATTGTGCCCCACTCTACGACGATGCCCTCTTCCTC
+CGGACTCCCCAGGCACTTCTCGCCATACCCCGCCCACCAGGAGGGGTCCTCAGGAGCATC
+TCTGTGCCCGGGTCCCCGGGCCACGCCATGGCTGACACCTACGCGGAGGAGCAGAAGCGC
+GGGGCTCCAGCGGGCGCCGGGAGTGGGACGCAGACGGGGACGGGGACGGGGGCGCGCAGC
+GCGGAGGAGGCGCCGCTCTACAGCAAGGTGACGCCGCGCGCCCAGCGACCCGGGGCGCAC
+GCGGAGGACGCGAGGGGGACGCTGCCTGGCCGCGTTCCTGCTGACCAAAGTCCTGCCGGA
+TCTGGCGCCTACGAGGACGTGGCGGGTGGAGCTCAGACCGGTGGGCTAGGTTTCAACCTG
+CGCATTGGGAGGCCGAAGGGTCCCCGGGACCCGCCTGCTGAGTGGACCCGGGTGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>460</residue_number>
+    <molecular_weight>38475.43</molecular_weight>
+    <theoretical_pi>8.591</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Y_phosphatase</name>
+        <pfam_id>PF00102</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tyrosine-protein phosphatase non-receptor type 18
+MSRSLDSARSFLERLEARGGREGAVLAGEFSDIQACSAAWKADGVCSTVAGSRPENVRKN
+RYKDVLPYDQTRVILSLLQEEGHSDYINGNFIRGVDGSLAYIATQGPLPHTLLDFWRLVW
+EFGVKVILMACREIENGRKRCERYWAQEQEPLQTGLFCITLIKEKWLNEDIMLRTLKVTF
+QKESRSVYQLQYMSWPDRGVPSSPDHMLAMVEEARRLQGSGPEPLCVHCSAGCGRTGVLC
+TVDYVRQLLLTQMIPPDFSLFDVVLKMRKQRPAAVQTEEQYRFLYHTVAQMFCSTLQNAS
+PHYQNIKENCAPLYDDALFLRTPQALLAIPRPPGGVLRSISVPGSPGHAMADTYAVVQKR
+GAPAGAGSGTQTGTGTGTGARSAEEAPLYSKVTPRAQRPGAHAEDARGTLPGRVPADQSP
+AGSGAYEDVAGGAQTGGLGFNLRIGRPKGPRDPPAEWTRV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>1871531</genbank_protein_id>
+  <uniprot_id>Q99952</uniprot_id>
+  <uniprot_name>PTN18_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2OC3</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X79568</genbank_gene_id>
+  <genecard_id>PTPN18</genecard_id>
+  <geneatlas_id>PTPN18</geneatlas_id>
+  <hgnc_id>HGNC:9649</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kim YW, Wang H, Sures I, Lammers R, Martell KJ, Ullrich A: Characterization of the PEST family protein tyrosine phosphatase BDP1.  Oncogene. 1996 Nov 21;13(10):2275-9.</reference_text>
+      <pubmed_id>8950995</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Y, Wolf-Yadlin A, Ross PL, Pappin DJ, Rush J, Lauffenburger DA, White FM: Time-resolved mass spectrometry of tyrosine phosphorylation sites in the epidermal growth factor receptor signaling network reveals dynamic modules. Mol Cell Proteomics. 2005 Sep;4(9):1240-50. Epub 2005 Jun 11.</reference_text>
+      <pubmed_id>15951569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao WA, Wollscheid B, O'Brien R, Eng JK, Li XJ, Bodenmiller B, Watts JD, Hood L, Aebersold R: Quantitative phosphoproteome analysis using a dendrimer conjugation chemistry and tandem mass spectrometry. Nat Methods. 2005 Aug;2(8):591-8.</reference_text>
+      <pubmed_id>16094384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wolf-Yadlin A, Hautaniemi S, Lauffenburger DA, White FM: Multiple reaction monitoring for robust quantitative proteomic analysis of cellular signaling networks. Proc Natl Acad Sci U S A. 2007 Apr 3;104(14):5860-5. Epub 2007 Mar 26.</reference_text>
+      <pubmed_id>17389395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heibeck TH, Ding SJ, Opresko LK, Zhao R, Schepmoes AA, Yang F, Tolmachev AV, Monroe ME, Camp DG 2nd, Smith RD, Wiley HS, Qian WJ: An extensive survey of tyrosine phosphorylation revealing new sites in human mammary epithelial cells. J Proteome Res. 2009 Aug;8(8):3852-61.</reference_text>
+      <pubmed_id>19534553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barr AJ, Ugochukwu E, Lee WH, King ON, Filippakopoulos P, Alfano I, Savitsky P, Burgess-Brown NA, Muller S, Knapp S: Large-scale structural analysis of the classical human protein tyrosine phosphatome. Cell. 2009 Jan 23;136(2):352-63.</reference_text>
+      <pubmed_id>19167335</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

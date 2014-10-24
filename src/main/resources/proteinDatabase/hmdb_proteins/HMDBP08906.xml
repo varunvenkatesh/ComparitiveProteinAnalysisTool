@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:55 -0700</creation_date>
+  <update_date>2013-05-27 11:11:57 -0600</update_date>
+  <accession>HMDBP08906</accession>
+  <secondary_accessions>
+    <accession>14635</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MAP kinase phosphatase 7</synonym>
+    <synonym>MKP-7</synonym>
+    <synonym>Mitogen-activated protein kinase phosphatase 7</synonym>
+  </synonyms>
+  <gene_name>DUSP16</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Dual specificity protein phosphatase involved in the inactivation of MAP kinases. Dephosphorylates MAPK10 bound to ARRB2.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>MAPK signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04010</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>map kinase tyrosine/serine/threonine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine/serine/threonine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasmic membrane-bounded vesicle</description>
+      <go_id>GO:0016023</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>MAP kinase tyrosine/serine/threonine phosphatase activity</description>
+      <go_id>GO:0017017</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>MAPK export from nucleus</description>
+      <go_id>GO:0045204</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>MAPK phosphatase export from nucleus, leptomycin B sensitive</description>
+      <go_id>GO:0045209</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-tyrosine dephosphorylation</description>
+      <go_id>GO:0035335</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasmic vesicle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p13</locus>
+    <gene_sequence>&gt;1998 bp
+ATGGCCCATGAGATGATTGGAACTCAAATTGTTACTGAGAGGTTGGTGGCTCTGCTGGAA
+AGTGGAACGGAAAAAGTGCTGCTAATTGATAGCCGGCCATTTGTGGAATACAATACATCC
+CACATTTTGGAAGCCATTAATATCAACTGCTCCAAGCTTATGAAGCGAAGGTTGCAACAG
+GACAAAGTGTTAATTACAGAGCTCATCCAGCATTCAGCGAAACATAAGGTTGACATTGAT
+TGCAGTCAGAAGGTTGTAGTTTACGATCAAAGCTCCCAAGATGTTGCCTCTCTCTCTTCA
+GACTGTTTTCTCACTGTACTTCTGGGTAAACTGGAGAAGAGCTTCAACTCTGTTCACCTG
+CTTGCAGGTGGGTTTGCTGAGTTCTCTCGTTGTTTCCCTGGCCTCTGTGAAGGAAAATCC
+ACTCTAGTCCCTACCTGCATTTCTCAGCCTTGCTTACCTGTTGCCAACATTGGGCCAACC
+CGAATTCTTCCCAATCTTTATCTTGGCTGCCAGCGAGATGTCCTCAACAAGGAGCTGATG
+CAGCAGAATGGGATTGGTTATGTGTTAAATGCCAGCAATACCTGTCCAAAGCCTGACTTT
+ATCCCCGAGTCTCATTTCCTGCGTGTGCCTGTGAATGACAGCTTTTGTGAGAAAATTTTG
+CCGTGGTTGGACAAATCAGTAGATTTCATTGAGAAAGCAAAAGCCTCCAATGGATGTGTT
+CTAGTGCACTGTTTAGCTGGGATCTCCCGCTCCGCCACCATCGCTATCGCCTACATCATG
+AAGAGGATGGACATGTCTTTAGATGAAGCTTACAGATTTGTGAAAGAAAAAAGACCTACT
+ATATCTCCAAACTTCAATTTTCTGGGCCAACTCCTGGACTATGAGAAGAAGATTAAGAAC
+CAGACTGGAGCATCAGGGCCAAAGAGCAAACTCAAGCTGCTGCACCTGGAGAAGCCAAAT
+GAACCTGTCCCTGCTGTCTCAGAGGGTGGACAGAAAAGCGAGACGCCCCTCAGTCCACCC
+TGTGCCGACTCTGCTACCTCAGAGGCAGCAGGACAAAGGCCCGTGCATCCCGCCAGCGTG
+CCCAGCGTGCCCAGCGTGCAGCCGTCGCTGTTAGAGGACAGCCCGCTGGTACAGGCGCTC
+AGTGGGCTGCACCTGTCCGCAGACAGGCTGGAAGACAGCAATAAGCTCAAGCGTTCCTTC
+TCTCTGGATATCAAATCAGTTTCATATTCAGCCAGCATGGCAGCATCCTTACATGGCTTC
+TCCTCATCAGAAGATGCTTTGGAATACTACAAACCTTCCACTACTCTGGATGGGACCAAC
+AAGCTATGCCAGTTCTCCCCTGTTCAGGAACTATCGGAGCAGACTCCCGAAACCAGTCCT
+GATAAGGAGGAAGCCAGCATCCCCAAGAAGCTGCAGACCGCCAGGCCTTCAGACAGCCAG
+AGCAAGCGATTGCATTCGGTCAGAACCAGCAGCAGTGGCACCGCCCAGAGGTCCCTTTTA
+TCTCCACTGCATCGAAGTGGGAGCGTGGAGGACAATTACCACACCAGCTTCCTTTTCGGC
+CTTTCCACCAGCCAGCAGCACCTCACGAAGTCTGCTGGCCTGGGCCTTAAGGGCTGGCAC
+TCGGATATCTTGGCCCCCCAGACCTCTACCCCTTCCCTGACCAGCAGCTGGTATTTTGCC
+ACAGAGTCCTCACACTTCTACTCTGCCTCAGCCATCTACGGAGGCAGTGCCAGTTACTCT
+GCCTACAGCTGCAGCCAGCTGCCCACTTGCGGAGACCAAGTCTATTCTGTGCGCAGGCGG
+CAGAAGCCAAGTGACAGAGCTGACTCGCGGCGGAGCTGGCATGAAGAGAGCCCCTTTGAA
+AAGCAGTTTAAACGCAGAAGCTGCCAAATGGAATTTGGAGAGAGCATCATGTCAGAGAAC
+AGGTCACGGGAAGAGCTGGGGAAAGTGGGCAGTCAGTCTAGCTTTTCGGGCAGCATGGAA
+ATCATTGAGGTCTCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>665</residue_number>
+    <molecular_weight>73100.95</molecular_weight>
+    <theoretical_pi>7.463</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DSPc</name>
+        <pfam_id>PF00782</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Rhodanese</name>
+        <pfam_id>PF00581</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Dual specificity protein phosphatase 16
+MAHEMIGTQIVTERLVALLESGTEKVLLIDSRPFVEYNTSHILEAININCSKLMKRRLQQ
+DKVLITELIQHSAKHKVDIDCSQKVVVYDQSSQDVASLSSDCFLTVLLGKLEKSFNSVHL
+LAGGFAEFSRCFPGLCEGKSTLVPTCISQPCLPVANIGPTRILPNLYLGCQRDVLNKELM
+QQNGIGYVLNASNTCPKPDFIPESHFLRVPVNDSFCEKILPWLDKSVDFIEKAKASNGCV
+LVHCLAGISRSATIAIAYIMKRMDMSLDEAYRFVKEKRPTISPNFNFLGQLLDYEKKIKN
+QTGASGPKSKLKLLHLEKPNEPVPAVSEGGQKSETPLSPPCADSATSEAAGQRPVHPASV
+PSVPSVQPSLLEDSPLVQALSGLHLSADRLEDSNKLKRSFSLDIKSVSYSASMAASLHGF
+SSSEDALEYYKPSTTLDGTNKLCQFSPVQELSEQTPETSPDKEEASIPKKLQTARPSDSQ
+SKRLHSVRTSSSGTAQRSLLSPLHRSGSVEDNYHTSFLFGLSTSQQHLTKSAGLGLKGWH
+SDILAPQTSTPSLTSSWYFATESSHFYSASAIYGGSASYSAYSCSQLPTCGDQVYSVRRR
+QKPSDRADSRRSWHEESPFEKQFKRRSCQMEFGESIMSENRSREELGKVGSQSSFSGSME
+IIEVS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>38372911</genbank_protein_id>
+  <uniprot_id>Q9BY84</uniprot_id>
+  <uniprot_name>DUS16_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2VSW</pdb_id>
+    <pdb_id>3TG3</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_030640.2</genbank_gene_id>
+  <genecard_id>DUSP16</genecard_id>
+  <geneatlas_id>DUSP16</geneatlas_id>
+  <hgnc_id>HGNC:17909</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Masuda K, Shima H, Watanabe M, Kikuchi K: MKP-7, a novel mitogen-activated protein kinase phosphatase, functions as a shuttle protein. J Biol Chem. 2001 Oct 19;276(42):39002-11. Epub 2001 Aug 6.</reference_text>
+      <pubmed_id>11489891</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoornaert I, Marynen P, Goris J, Sciot R, Baens M: MAPK phosphatase DUSP16/MKP-7, a candidate tumor suppressor for chromosome region 12p12-13, reduces BCR-ABL-induced transformation. Oncogene. 2003 Oct 30;22(49):7728-36.</reference_text>
+      <pubmed_id>14586399</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Kikuno R, Hattori A, Kondo Y, Okumura K, Ohara O: Prediction of the coding sequences of unidentified human genes. XIX. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 2000 Dec 31;7(6):347-55.</reference_text>
+      <pubmed_id>11214970</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Willoughby EA, Collins MK: Dynamic interaction between the dual specificity phosphatase MKP7 and the JNK3 scaffold protein beta-arrestin 2. J Biol Chem. 2005 Jul 8;280(27):25651-8. Epub 2005 May 10.</reference_text>
+      <pubmed_id>15888437</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

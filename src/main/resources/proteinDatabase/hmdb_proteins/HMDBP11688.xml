@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:09:56 -0600</creation_date>
+  <update_date>2013-05-27 11:09:56 -0600</update_date>
+  <accession>HMDBP11688</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DEAD box protein 58</synonym>
+    <synonym>RIG-I-like receptor 1</synonym>
+    <synonym>Retinoic acid-inducible gene 1 protein</synonym>
+    <synonym>Retinoic acid-inducible gene I protein</synonym>
+    <synonym>RLR-1</synonym>
+    <synonym>RIG-1</synonym>
+    <synonym>RIG-I</synonym>
+  </synonyms>
+  <gene_name>DDX58</gene_name>
+  <general_function/>
+  <specific_function>Innate immune receptor which acts as a cytoplasmic sensor of viral nucleic acids and plays a major role in sensing viral infection and in the activation of a cascade of antiviral responses including the induction of type I interferons and proinflammatory cytokines. Its ligands include: 5'-triphosphorylated ssRNA and dsRNA and short dsRNA (&lt;1 kb in length). In addition to the 5'-triphosphate moiety, blunt-end base pairing at the 5'-end of the RNA is very essential. Overhangs at the non-triphosphorylated end of the dsRNA RNA have no major impact on its activity. A 3'overhang at the 5'triphosphate end decreases and any 5'overhang at the 5' triphosphate end abolishes its activity. Upon ligand binding it associates with mitochondria antiviral signaling protein (MAVS/IPS1) which activates the IKK-related kinases: TBK1 and IKBKE which phosphorylate interferon regulatory factors: IRF3 and IRF7 which in turn activate transcription of antiviral immunological genes, including interferons (IFNs); IFN-alpha and IFN-beta. Detects both positive and negative strand RNA viruses including members of the families Paramyxoviridae: Human respiratory syncytial virus and measles virus (MeV), Rhabdoviridae: vesicular stomatitis virus (VSV), Orthomyxoviridae: influenza A and B virus, Flaviviridae: Japanese encephalitis virus (JEV), hepatitis C virus (HCV), dengue virus (DENV) and west Nile virus (WNV). It also detects rotavirus and reovirus. Also involved in antiviral signaling in response to viruses containing a dsDNA genome such as Epstein-Barr virus (EBV). Detects dsRNA produced from non-self dsDNA by RNA polymerase III, such as Epstein-Barr virus-encoded RNAs (EBERs). May play important roles in granulocyte production and differentiation, bacterial phagocytosis and in the regulation of cell migration.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>NF-kappa B signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04064</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>RIG-I-like receptor signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04622</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cytosolic DNA-sensing pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04623</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hepatitis C</name>
+      <smpdb_id/>
+      <kegg_map_id>map05160</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hepatitis B</name>
+      <smpdb_id/>
+      <kegg_map_id>map05161</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Measles</name>
+      <smpdb_id/>
+      <kegg_map_id>map05162</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Influenza A</name>
+      <smpdb_id/>
+      <kegg_map_id>map05164</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Herpes simplex infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05168</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Epstein-Barr virus infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05169</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of defense response to virus by host</description>
+      <go_id>GO:0002230</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>tight junction</description>
+      <go_id>GO:0005923</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>actin cytoskeleton</description>
+      <go_id>GO:0015629</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent helicase activity</description>
+      <go_id>GO:0008026</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>double-stranded RNA binding</description>
+      <go_id>GO:0003725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to exogenous dsRNA</description>
+      <go_id>GO:0043330</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of interferon-beta production</description>
+      <go_id>GO:0032728</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ruffle membrane</description>
+      <go_id>GO:0032587</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>double-stranded DNA binding</description>
+      <go_id>GO:0003690</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>single-stranded RNA binding</description>
+      <go_id>GO:0003727</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>detection of virus</description>
+      <go_id>GO:0009597</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of type I interferon production</description>
+      <go_id>GO:0032480</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of interferon-alpha production</description>
+      <go_id>GO:0032727</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of sequence-specific DNA binding transcription factor activity</description>
+      <go_id>GO:0051091</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription factor import into nucleus</description>
+      <go_id>GO:0042993</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cell migration</description>
+      <go_id>GO:0030334</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of type III interferon production</description>
+      <go_id>GO:0034344</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>RIG-I signaling pathway</description>
+      <go_id>GO:0039529</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9p12</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>106598.72</molecular_weight>
+    <theoretical_pi>6.407</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>RIG-I_C-RD</name>
+        <pfam_id>PF11648</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|27881482|ref|NP_055129.2| probable ATP-dependent RNA helicase DDX58 [Homo sapiens]
+MTTEQRRSLQAFQDYIRKTLDPTYILSYMAPWFREEEVQYIQAEKNNKGPMEAATLFLKF
+LLELQEEGWF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O95786</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2LWD</pdb_id>
+    <pdb_id>2LWE</pdb_id>
+    <pdb_id>2QFB</pdb_id>
+    <pdb_id>2QFD</pdb_id>
+    <pdb_id>2RMJ</pdb_id>
+    <pdb_id>2YKG</pdb_id>
+    <pdb_id>3LRN</pdb_id>
+    <pdb_id>3LRR</pdb_id>
+    <pdb_id>3NCU</pdb_id>
+    <pdb_id>3OG8</pdb_id>
+    <pdb_id>3TMI</pdb_id>
+    <pdb_id>4AY2</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:19102</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

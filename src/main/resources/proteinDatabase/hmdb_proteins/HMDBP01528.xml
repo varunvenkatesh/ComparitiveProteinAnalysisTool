@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:23 -0700</creation_date>
+  <update_date>2013-05-27 11:30:15 -0600</update_date>
+  <accession>HMDBP01528</accession>
+  <secondary_accessions>
+    <accession>6824</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Cell migration-inducing gene 10 protein</synonym>
+    <synonym>PRP 2</synonym>
+    <synonym>Primer recognition protein 2</synonym>
+  </synonyms>
+  <gene_name>PGK1</gene_name>
+  <general_function>Involved in phosphoglycerate kinase activity</general_function>
+  <specific_function>In addition to its role as a glycolytic enzyme, it seems that PGK-1 acts as a polymerase alpha cofactor protein (primer recognition protein).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>glycolysis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycolysis / Gluconeogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01270</accession>
+      <name>Glyceric acid 1,3-biphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00807</accession>
+      <name>3-Phosphoglyceric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00362</accession>
+      <name>2-Phosphoglyceric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoglycerate kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycolysis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphoglycerate kinase activity</description>
+      <go_id>GO:0004618</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gluconeogenesis</description>
+      <go_id>GO:0006094</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolysis</description>
+      <go_id>GO:0006096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq13.3</locus>
+    <gene_sequence>&gt;1254 bp
+ATGTCGCTTTCTAACAAGCTGACGCTGGACAAGCTGGACGTTAAAGGGAAGCGGGTCGTT
+ATGAGAGTCGACTTCAATGTTCCTATGAAGAACAACCAGATAACAAACAACCAGAGGATT
+AAGGCTGCTGTCCCAAGCATCAAATTCTGCTTGGACAATGGAGCCAAGTCGGTAGTCCTT
+ATGAGCCACCTAGGCCGGCCTGATGGTGTGCCCATGCCTGACAAGTACTCCTTAGAGCCA
+GTTGCTGTAGAACTCAAATCTCTGCTGGGCAAGGATGTTCTGTTCTTGAAGGACTGTGTA
+GGCCCAGAAGTGGAGAAAGCCTGTGCCAACCCAGCTGCTGGGTCTGTCATCCTGCTGGAG
+AACCTCCGCTTTCATGTGGAGGAAGAAGGGAAGGGAAAAGATGCTTCTGGGAACAAGGTT
+AAAGCCGAGCCAGCCAAAATAGAAGCTTTCCGAGCTTCACTTTCCAAGCTAGGGGATGTC
+TATGTCAATGATGCTTTTGGCACTGCTCACAGAGCCCACAGCTCCATGGTAGGAGTCAAT
+CTGCCACAGAAGGCTGGTGGGTTTTTGATGAAGAAGGAGCTGAACTACTTTGCAAAGGCC
+TTGGAGAGCCCAGAGCGACCCTTCCTGGCCATCCTGGGCGGAGCTAAAGTTGCAGACAAG
+ATCCAGCTCATCAATAATATGCTGGACAAAGTCAATGAGATGATTATTGGTGGTGGAATG
+GCTTTTACCTTCCTTAAGGTGCTCAACAACATGGAGATTGGCACTTCTCTGTTTGATGAA
+GAGGGAGCCAAGATTGTCAAAGACCTAATGTCCAAAGCTGAGAAGAATGGTGTGAAGATT
+ACCTTGCCTGTTGACTTTGTCACTGCTGACAAGTTTGATGAGAATGCCAAGACTGGCCAA
+GCCACTGTGGCTTCTGGCATACCTGCTGGCTGGATGGGCTTGGACTGTGGTCCTGAAAGC
+AGCAAGAAGTATGCTGAGGCTGTCACTCGGGCTAAGCAGATTGTGTGGAATGGTCCTGTG
+GGGGTATTTGAATGGGAAGCTTTTGCCCGGGGAACCAAAGCTCTCATGGATGAGGTGGTG
+AAAGCCACTTCTAGGGGCTGCATCACCATCATAGGTGGTGGAGACACTGCCACTTGCTGT
+GCCAAATGGAACACGGAGGATAAAGTCAGCCATGTGAGCACTGGGGGTGGTGCCAGTTTG
+GAGCTCCTGGAAGGTAAAGTCCTTCCTGGGGTGGATGCTCTCAGCAATATTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>417</residue_number>
+    <molecular_weight>44614.36</molecular_weight>
+    <theoretical_pi>8.102</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PGK</name>
+        <pfam_id>PF00162</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Phosphoglycerate kinase 1
+MSLSNKLTLDKLDVKGKRVVMRVDFNVPMKNNQITNNQRIKAAVPSIKFCLDNGAKSVVL
+MSHLGRPDGVPMPDKYSLEPVAVELKSLLGKDVLFLKDCVGPEVEKACANPAAGSVILLE
+NLRFHVEEEGKGKDASGNKVKAEPAKIEAFRASLSKLGDVYVNDAFGTAHRAHSSMVGVN
+LPQKAGGFLMKKELNYFAKALESPERPFLAILGGAKVADKIQLINNMLDKVNEMIIGGGM
+AFTFLKVLNNMEIGTSLFDEEGAKIVKDLMSKAEKNGVKITLPVDFVTADKFDENAKTGQ
+ATVASGIPAGWMGLDCGPESSKKYAEAVTRAKQIVWNGPVGVFEWEAFARGTKALMDEVV
+KATSRGCITIIGGGDTATCCAKWNTEDKVSHVSTGGGASLELLEGKVLPGVDALSNI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>35435</genbank_protein_id>
+  <uniprot_id>P00558</uniprot_id>
+  <uniprot_name>PGK1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2WZB</pdb_id>
+    <pdb_id>2WZC</pdb_id>
+    <pdb_id>2WZD</pdb_id>
+    <pdb_id>2X13</pdb_id>
+    <pdb_id>2X14</pdb_id>
+    <pdb_id>2X15</pdb_id>
+    <pdb_id>2XE6</pdb_id>
+    <pdb_id>2XE7</pdb_id>
+    <pdb_id>2XE8</pdb_id>
+    <pdb_id>2Y3I</pdb_id>
+    <pdb_id>2YBE</pdb_id>
+    <pdb_id>2ZGV</pdb_id>
+    <pdb_id>3C39</pdb_id>
+    <pdb_id>3C3A</pdb_id>
+    <pdb_id>3C3B</pdb_id>
+    <pdb_id>3C3C</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>V00572</genbank_gene_id>
+  <genecard_id>PGK1</genecard_id>
+  <geneatlas_id>PGK1</geneatlas_id>
+  <hgnc_id>HGNC:8896</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Michelson AM, Markham AF, Orkin SH: Isolation and DNA sequence of a full-length cDNA clone for human X chromosome-encoded phosphoglycerate kinase. Proc Natl Acad Sci U S A. 1983 Jan;80(2):472-6.</reference_text>
+      <pubmed_id>6188151</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Michelson AM, Blake CC, Evans ST, Orkin SH: Structure of the human phosphoglycerate kinase gene and the intron-mediated evolution and dispersal of the nucleotide-binding domain. Proc Natl Acad Sci U S A. 1985 Oct;82(20):6965-9.</reference_text>
+      <pubmed_id>2995995</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Singer-Sam J, Keith DH, Tani K, Simmer RL, Shively L, Lindsay S, Yoshida A, Riggs AD: Sequence of the promoter region of the gene for human X-linked 3-phosphoglycerate kinase] Gene. 1984 Dec;32(3):409-17.</reference_text>
+      <pubmed_id>6099325</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pfeifer GP, Steigerwald SD, Mueller PR, Wold B, Riggs AD: Genomic sequencing and methylation analysis by ligation mediated PCR.  Science. 1989 Nov 10;246(4931):810-3.</reference_text>
+      <pubmed_id>2814502</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang IY, Welch CD, Yoshida A: Complete amino acid sequence of human phosphoglycerate kinase. Cyanogen bromide peptides and complete amino acid sequence. J Biol Chem. 1980 Jul 10;255(13):6412-20.</reference_text>
+      <pubmed_id>7391027</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jindal HK, Vishwanatha JK: Functional identity of a primer recognition protein as phosphoglycerate kinase. J Biol Chem. 1990 Apr 25;265(12):6540-3.</reference_text>
+      <pubmed_id>2324090</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshida A: Hematologically important mutations: molecular abnormalities of phosphoglycerate kinase. Blood Cells Mol Dis. 1996;22(3):265-7.</reference_text>
+      <pubmed_id>9075577</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshida A, Twele TW, Dave V, Beutler E: Molecular abnormality of a phosphoglycerate kinase variant (PGK-Alabama).  Blood Cells Mol Dis. 1995;21(3):179-81.</reference_text>
+      <pubmed_id>8673469</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cohen-Solal M, Valentin C, Plassa F, Guillemin G, Danze F, Jaisson F, Rosa R: Identification of new mutations in two phosphoglycerate kinase (PGK) variants expressing different clinical syndromes: PGK Creteil and PGK Amiens. Blood. 1994 Aug 1;84(3):898-903.</reference_text>
+      <pubmed_id>8043870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ookawara T, Dave V, Willems P, Martin JJ, de Barsy T, Matthys E, Yoshida A: Retarded and aberrant splicings caused by single exon mutation in a phosphoglycerate kinase variant. Arch Biochem Biophys. 1996 Mar 1;327(1):35-40.</reference_text>
+      <pubmed_id>8615693</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Valentin C, Birgens H, Craescu CT, Brodum-Nielsen K, Cohen-Solal M: A phosphoglycerate kinase mutant (PGK Herlev; D285V) in a Danish patient with isolated chronic hemolytic anemia: mechanism of mutation and structure-function relationships. Hum Mutat. 1998;12(4):280-7.</reference_text>
+      <pubmed_id>9744480</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maeda M, Yoshida A: Molecular defect of a phosphoglycerate kinase variant (PGK-Matsue) associated with hemolytic anemia: Leu----Pro substitution caused by T/A----C/G transition in exon 3. Blood. 1991 Mar 15;77(6):1348-52.</reference_text>
+      <pubmed_id>2001457</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maeda M, Bawle EV, Kulkarni R, Beutler E, Yoshida A: Molecular abnormalities of a phosphoglycerate kinase variant generated by spontaneous mutation. Blood. 1992 May 15;79(10):2759-62.</reference_text>
+      <pubmed_id>1586722</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujii H, Krietsch WK, Yoshida A: A single amino acid substitution (Asp leads to Asn) in a phosphoglycerate kinase variant (PGK Munchen) associated with enzyme deficiency. J Biol Chem. 1980 Jul 10;255(13):6421-3.</reference_text>
+      <pubmed_id>7391028</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang IY, Fujii H, Yoshida A: Structure and function of normal and variant human phosphoglycerate kinase. Hemoglobin. 1980;4(5-6):601-9.</reference_text>
+      <pubmed_id>7440217</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujii H, Kanno H, Hirono A, Shiomura T, Miwa S: A single amino acid substitution (157 Gly----Val) in a phosphoglycerate kinase variant (PGK Shizuoka) associated with chronic hemolysis and myoglobinuria. Blood. 1992 Mar 15;79(6):1582-5.</reference_text>
+      <pubmed_id>1547346</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujii H, Chen SH, Akatsuka J, Miwa S, Yoshida A: Use of cultured lymphoblastoid cells for the study of abnormal enzymes: molecular abnormality of a phosphoglycerate kinase variant associated with hemolytic anemia. Proc Natl Acad Sci U S A. 1981 Apr;78(4):2587-90.</reference_text>
+      <pubmed_id>6941312</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujii H, Yoshida A: Molecular abnormality of phosphoglycerate kinase-Uppsala associated with chronic nonspherocytic hemolytic anemia. Proc Natl Acad Sci U S A. 1980 Sep;77(9):5461-5.</reference_text>
+      <pubmed_id>6933565</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

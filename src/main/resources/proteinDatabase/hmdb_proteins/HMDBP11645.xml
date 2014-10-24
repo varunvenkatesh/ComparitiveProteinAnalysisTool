@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:07:06 -0600</creation_date>
+  <update_date>2013-05-27 11:07:06 -0600</update_date>
+  <accession>HMDBP11645</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CHD-8</synonym>
+    <synonym>ATP-dependent helicase CHD8</synonym>
+    <synonym>Helicase with SNF2 domain 1</synonym>
+  </synonyms>
+  <gene_name>CHD8</gene_name>
+  <general_function/>
+  <specific_function>DNA helicase that acts as a chromatin remodeling factor and regulates transcription. Acts as a transcription repressor by remodeling chromatin structure and recruiting histone H1 to target genes. Suppresses p53/TP53-mediated apoptosis by recruiting histone H1 and preventing p53/TP53 transactivation activity. Acts as a negative regulator of Wnt signaling pathway by regulating beta-catenin (CTNNB1) activity. Negatively regulates CTNNB1-targeted gene expression by being recruited specifically to the promoter regions of several CTNNB1 responsive genes. Involved in both enhancer blocking and epigenetic remodeling at chromatin boundary via its interaction with CTCF. Acts as a suppressor of STAT3 activity by suppressing the LIF-induced STAT3 transcriptional activity. Also acts as a transcription activator via its interaction with ZNF143 by participating in efficient U6 RNA polymerase III transcription.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Wnt signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045892</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA helicase activity</description>
+      <go_id>GO:0003678</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>beta-catenin binding</description>
+      <go_id>GO:0008013</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>methylated histone residue binding</description>
+      <go_id>GO:0035064</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>MLL1 complex</description>
+      <go_id>GO:0071339</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-dependent ATPase activity</description>
+      <go_id>GO:0008094</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>p53 binding</description>
+      <go_id>GO:0002039</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ATP-dependent chromatin remodeling</description>
+      <go_id>GO:0043044</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>canonical Wnt receptor signaling pathway</description>
+      <go_id>GO:0060070</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of Wnt receptor signaling pathway</description>
+      <go_id>GO:0030178</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase III promoter</description>
+      <go_id>GO:0045945</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>14</chromosome_location>
+    <locus>14q11.2</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>290516.69</molecular_weight>
+    <theoretical_pi>6.471</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|282165704|ref|NP_001164100.1| chromodomain-helicase-DNA-binding protein 8 isoform 1 [Homo sapiens]
+MADPIMDLFDDPNLFGLDSLTDDSFNQVTQDPIEEALGLPSSLDSLDQMNQDGGGGDVGN
+SSASELVPPP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9HCK8</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2CKA</pdb_id>
+    <pdb_id>2DL6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:20153</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

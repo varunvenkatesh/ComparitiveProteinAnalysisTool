@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:23 -0700</creation_date>
+  <update_date>2013-05-27 11:29:29 -0600</update_date>
+  <accession>HMDBP00924</accession>
+  <secondary_accessions>
+    <accession>6212</accession>
+    <accession>HMDBP09936</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>193 kDa vault protein</synonym>
+    <synonym>PARP-4</synonym>
+    <synonym>PARP-related/IalphaI-related H5/proline-rich</synonym>
+    <synonym>PH5P</synonym>
+    <synonym>VPARP</synonym>
+    <synonym>Vault poly(ADP-ribose) polymerase</synonym>
+    <synonym>ADP-ribosyltransferase diphtheria toxin-like 4</synonym>
+    <synonym>ARTD4</synonym>
+  </synonyms>
+  <gene_name>PARP4</gene_name>
+  <general_function>Involved in NAD+ ADP-ribosyltransferase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Base excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03410</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01406</accession>
+      <name>Niacinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nad+ adp-ribosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring pentosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid adp-ribosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ribonucleoprotein complex</description>
+      <go_id>GO:0030529</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>spindle microtubule</description>
+      <go_id>GO:0005876</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>enzyme binding</description>
+      <go_id>GO:0019899</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD+ ADP-ribosyltransferase activity</description>
+      <go_id>GO:0003950</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell death</description>
+      <go_id>GO:0008219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA repair</description>
+      <go_id>GO:0006281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inflammatory response</description>
+      <go_id>GO:0006954</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein ADP-ribosylation</description>
+      <go_id>GO:0006471</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transport</description>
+      <go_id>GO:0006810</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytoskeleton</subcellular_location>
+    <subcellular_location>spindle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>13</chromosome_location>
+    <locus>13q11</locus>
+    <gene_sequence>&gt;5175 bp
+ATGGTGATGGGAATCTTTGCAAATTGTATCTTCTGTTTGAAAGTGAAGTACTTACCTCAG
+CAGCAGAAGAAAAAGCTACAAACTGACATTAAGGAAAATGGCGGAAAGTTTTCCTTTTCG
+TTAAATCCTCAGTGCACACATATAATCTTAGATAATGCTGATGTTCTGAGTCAGTACCAA
+CTGAATTCTATCCAAAAGAACCACGTTCATATTGCAAACCCAGATTTTATATGGAAATCT
+ATCAGAGAAAAGAGACTCTTGGATGTAAAGAATTATGATCCTTATAAGCCCCTGGACATC
+ACACCACCTCCTGATCAGAAGGCGAGCAGTTCTGAAGTGAAAACAGAAGGTCTATGCCCG
+GACAGTGCCACAGAGGAGGAAGACACTGTGGAACTCACTGAGTTTGGTATGCAGAATGTT
+GAAATTCCTCATCTTCCTCAAGATTTTGAAGTTGCAAAATATAACACCTTGGAGAAAGTG
+GGAATGGAGGGAGGCCAGGAAGCTGTGGTGGTGGAGCTTCAGTGTTCGCGGGACTCCAGG
+GACTGTCCTTTCCTGATATCCTCACACTTCCTCCTGGATGATGGCATGGAGACTAGAAGA
+CAGTTTGCTATAAAGAAAACCTCTGAAGATGCAAGTGAATACTTTGAAAATTACATTGAA
+GAACTGAAGAAACAAGGATTTCTACTAAGAGAACATTTCACACCTGAAGCAACCCAATTA
+GCATCTGAACAATTGCAAGCATTGCTTTTGGAGGAAGTCATGAATTCAAGCACTCTGAGC
+CAAGAGGTGAGCGATTTAGTAGAGATGATTTGGGCAGAGGCCCTGGGCCACCTGGAACAC
+ATGCTTCTCAAGCCAGTGAACAGGATTAGCCTCAACGATGTGAGCAAGGCAGAGGGGATT
+CTCCTTCTAGTAAAGGCAGCACTGAAAAATGGAGAAACAGCAGAGCAATTGCAAAAGATG
+ATGACAGAGTTTTACAGACTGATACCTCACAAAGGCACAATGCCCAAAGAAGTGAACCTG
+GGACTATTGGCTAAGAAAGCAGACCTCTGCCAGCTAATAAGAGACATGGTTAATGTCTGT
+GAAACTAATTTGTCCAAACCCAACCCACCATCCCTGGCCAAATACCGAGCTTTGAGGTGC
+AAAATTGAGCATGTTGAACAGAATACTGAAGAATTTCTCAGGGTTAGAAAAGAGGTTTTG
+CAGAATCATCACAGTAAGAGCCCAGTGGATGTCTTGCAGATATTTAGAGTTGGCAGAGTG
+AATGAAACCACAGAGTTTTTGAGCAAACTTGGTAATGTGAGGCCCTTGTTGCATGGTTCT
+CCTGTACAAAACATCGTGGGAATCTTGTGTCGAGGGTTGCTTTTACCCAAAGTAGTGGAA
+GATCGTGGTGTGCAAAGAACAGACGTCGGAAACCTTGGAAGTGGGATTTATTTCAGTGAT
+TCGCTCAGTACAAGTATCAAGTACTCACACCCGGGAGAGACAGATGGCACCAGACTCCTG
+CTCATTTGTGACGTAGCCCTCGGAAAGTGTATGGACTTACATGAGAAGGACTTTTCCTTA
+ACTGAAGCACCACCAGGCTACGACAGTGTGCATGGAGTTTCACAAACAGCCTCTGTCACC
+ACAGACTTTGAGGATGATGAATTTGTTGTCTATAAAACCAATCAGGTTAAAATGAAATAT
+ATTATTAAATTTTCCATGCCTGGAGATCAGATAAAGGACTTTCATCCTAGTGATCATACT
+GAATTAGAGGAATACAGACCTGAGTTTTCAAATTTTTCAAAGGTTGAAGATTACCAGTTA
+CCAGATGCCAAAACTTCCAGCAGCACCAAGGCCGGCCTCCAGGATGCTTCTGGGAACTTG
+GTTCCTCTGGAGGATGTCCACATCAAAGGGAGAATCATAGACACTGTAGCCCAGGTCATT
+GTTTTTCAGACATACACAAATAAAAGTCACGTGCCCATTGAGGCAAAATATATCTTTCCT
+TTGGATGACAAGGCCGCTGTGTGTGGCTTCGAAGCCTTCATCAATGGGAAGCACATAGTT
+GGAGAGATTAAAGAGAAGGAAGAAGCCCAGCAAGAGTACCTAGAAGCCGTGACCCAGGGC
+CATGGCGCTTACCTGATGAGTCAGGATGCTCCGGACGTTTTTACTGTAAGTGTTGGAAAC
+TTACCCCCTAAGGCTAAGGTTCTTATAAAAATTACCTACATCACAGAACTCAGCATCCTG
+GGCACTGTTGGTGTCTTTTTCATGCCCGCCACCGTAGCACCCTGGCAACAGGACAAGGCT
+TTGAATGAAAACCTTCAGGATACAGTAGAGAAGATTTGTATAAAAGAAATAGGAACAAAG
+CAAAGCTTCTCTTTGACTATGTCTATTGAGATGCCGTACGTGATTGAATTCATTTTCAGT
+GATACTCATGAACTGAAACAAAAGCGCACAGACTGCAAAGCTGTCATTAGCACCATGGAA
+GGCAGCTCCTTAGACAGCAGTGGATTTTCTCTCCACATCGGTTTGTCTGCTGCCTATCTC
+CCAAGAATGTGGGTTGAAAAACATCCAGAAAAAGAAAGCGAGGCTTGCATGCTTGTCTTT
+CAACCCGATCTCGATGTCGACCTCCCTGACCTAGCCAATGAGAGCGAAGTGATTATTTGT
+CTTGACTGCTCCAGTTCCATGGAGGGTGTGACATTCTTGCAAGCCAAGGAAATCGCCTTG
+CATGCGCTGTCCTTGGTGGGTGAGAAGCAGAAAGTAAATATTATCCAGTTCGGCACAGGT
+TACAAGGAGCTATTTTCGTATCCTAAGCATATCACAAGCAATACCGCGGCAGCAGAGTTC
+ATCATGTCTGCCACACCTACCATGGGGAACACAGACTTCTGGAAAACACTCCGATATCTT
+AGCTTATTGTACCCTGCTCGAGGGTCACGGAACATCCTCCTGGTGTCTGATGGGCACCTC
+CAGGATGAGAGCCTGACATTACAGCTCGTGAAGAGGAGCCGCCCGCACACCAGGTTATTC
+GCCTGCGGTATCGGTTCTACAGCAAATCGTCACGTCTTAAGGATTTTGTCCCAGTGTGGT
+GCCGGAGTATTTGAATATTTTAATGCAAAATCCAAGCATAGTTGGAGAAAACAGATAGAA
+GACCAAATGACCAGGCTATGTTCTCCGAGTTGCCACTCTGTCTCCGTCAAATGGCAGCAA
+CTCAATCCAGATGCGCCCGAGGCCCTGCAGGCCCCAGCCCAGGTGCCATCCTTGTTTCGC
+AATGATCGACTCCTTGTCTATGGATTCATTCCTCACTGCACACAGGCAACTCTGTGTGCA
+CTAATTCAAGAGAAAGAATTTTGTACAATGGTGTCGACTACTGAGCTTCAGAAGACAACT
+GGAACTATGATCCACAAGCTGGCAGCCCGAGCTCTAATCAGAGATTATGAAGATGGCATT
+CTTCACGAAAATGAAACCAGTCATGAGATGAAAAAACAAACCTTGAAATCTCTGATTATT
+AAACTCAGTAAAGAAAACTCTCTCATAACACAATTTACAAGCTTTGTGGCAGTTGAGAAA
+AGGGATGAGAATGAGTCACCTTTTCCTGATATTCCAAAAGTTTCTGAACTTATTGCCAAA
+GAAGATGTAGACTTCCTGCCCTACATGAGCTGGCAGGGGGAACCCCAAGAAGCCGTCAGG
+AACCAGTCTCTTTTAGCATCCTCTGAGTGGCCAGAATTACGTTTATCCAAACGAAAACAT
+AGGAAAATTCCATTTTCCAAAAGAAAAATGGAATTATCTCAGCCAGAAGTTTCTGAAGAT
+TTTGAAGAGGATGCCTTAGGTGTACTACCAGCTTTCACATCAAATTTGGAACGTGGACGT
+GTGGAAAAGCTATTGGATTTAAGTTGGACAGAGTCATGTAAACCAACAGCAACTGAACCA
+CTATTTAAGAAAGTCAGTCCATGGGAAACATCTACTTCTAGCTTTTTTCCTATTTTGGCT
+CCGGCCGTTGGTTCCTATCTTACCCCGACTACCCGCGCTCACAGTCCTGCTTCCTTGTCT
+TTTGCCTCATATCGTCAGGTAGCTAGTTTCGGTTCAGCTGCTCCTCCCAGACAGTTTGAT
+GCATCTCAATTCAGCCAAGGCCCTGTGCCTGGCACTTGTGCTGACTGGATCCCACAGTCG
+GCGTCTTGTCCCACAGGACCTCCCCAGAACCCACCTTCTGCACCCTATTGTGGCATTGTT
+TTTTCAGGGAGCTCATTAAGCTCTGCACAGTCTGCTCCACTGCAACATCCTGGAGGCTTT
+ACTACCAGGCCTTCTGCTGGCACCTTCCCTGAGCTGGATTCTCCCCAGCTTCATTTCTCT
+CTTCCTACAGACCCTGATCCCATCAGAGGTTTTGGGTCTTATCATCCCTCTGCTTACTCT
+CCTTTTCATTTTCAACCTTCCGCAGCCTCTTTGACTGCCAACCTTAGGCTGCCAATGGCC
+TCTGCTTTACCTGAGGCTCTTTGCAGTCAGTCCCGGACTACCCCAGTAGATCTCTGTCTT
+CTAGAAGAATCAGTAGGCAGTCTCGAAGGAAGTCGATGTCCTGTCTTTGCTTTTCAAAGT
+TCTGACACAGAAAGTGATGAGCTATCAGAAGTACTTCAAGACAGCTGCTTTTTACAAATA
+AAATGTGATACAAAAGATGACAGTATCCCGTGCTTTCTGGAAGTAAAAGAAGAGGATGAA
+ATAGTGTGCACACAACACTGGCAGGATGCTGTGCCTTGGACAGAACTCCTCAGTCTACAG
+ACAGAGGATGGCTTCTGGAAACTTACACCAGAACTGGGACTTATATTAAATCTTAATACA
+AATGGTTTGCACAGCTTTCTTAAACAAAAAGGCATTCAATCTCTAGGTGTAAAAGGAAGA
+GAATGTCTCCTGGACCTAATTGCCACAATGCTGGTACTACAGTTTATTCGCACCAGGTTG
+GAAAAAGAGGGAATAGTGTTCAAATCACTGATGAAAATGGATGACCCTTCTATTTCCAGG
+AATATTCCCTGGGCTTTTGAGGCAATAAAGCAAGCAAGTGAATGGGTAAGAAGAACTGAA
+GGACAGTACCCATCTATCTGCCCACGGCTTGAACTGGGGAACGACTGGGACTCTGCCACC
+AAGCAGTTGCTGGGACTCCAGCCCATAAGCACTGTGTCCCCTCTTCATAGAGTCCTCCAT
+TACAGTCAAGGCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1724</residue_number>
+    <molecular_weight>192592.915</molecular_weight>
+    <theoretical_pi>5.653</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>BRCT</name>
+        <pfam_id>PF00533</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PARP</name>
+        <pfam_id>PF00644</pfam_id>
+      </pfam>
+      <pfam>
+        <name>VIT</name>
+        <pfam_id>PF08487</pfam_id>
+      </pfam>
+      <pfam>
+        <name>VWA</name>
+        <pfam_id>PF00092</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Poly [ADP-ribose] polymerase 4
+MVMGIFANCIFCLKVKYLPQQQKKKLQTDIKENGGKFSFSLNPQCTHIILDNADVLSQYQ
+LNSIQKNHVHIANPDFIWKSIREKRLLDVKNYDPYKPLDITPPPDQKASSSEVKTEGLCP
+DSATEEEDTVELTEFGMQNVEIPHLPQDFEVAKYNTLEKVGMEGGQEAVVVELQCSRDSR
+DCPFLISSHFLLDDGMETRRQFAIKKTSEDASEYFENYIEELKKQGFLLREHFTPEATQL
+ASEQLQALLLEEVMNSSTLSQEVSDLVEMIWAEALGHLEHMLLKPVNRISLNDVSKAEGI
+LLLVKAALKNGETAEQLQKMMTEFYRLIPHKGTMPKEVNLGLLAKKADLCQLIRDMVNVC
+ETNLSKPNPPSLAKYRALRCKIEHVEQNTEEFLRVRKEVLQNHHSKSPVDVLQIFRVGRV
+NETTEFLSKLGNVRPLLHGSPVQNIVGILCRGLLLPKVVEDRGVQRTDVGNLGSGIYFSD
+SLSTSIKYSHPGETDGTRLLLICDVALGKCMDLHEKDFSLTEAPPGYDSVHGVSQTASVT
+TDFEDDEFVVYKTNQVKMKYIIKFSMPGDQIKDFHPSDHTELEEYRPEFSNFSKVEDYQL
+PDAKTSSSTKAGLQDASGNLVPLEDVHIKGRIIDTVAQVIVFQTYTNKSHVPIEAKYIFP
+LDDKAAVCGFEAFINGKHIVGEIKEKEEAQQEYLEAVTQGHGAYLMSQDAPDVFTVSVGN
+LPPKAKVLIKITYITELSILGTVGVFFMPATVAPWQQDKALNENLQDTVEKICIKEIGTK
+QSFSLTMSIEMPYVIEFIFSDTHELKQKRTDCKAVISTMEGSSLDSSGFSLHIGLSAAYL
+PRMWVEKHPEKESEACMLVFQPDLDVDLPDLASESEVIICLDCSSSMEGVTFLQAKQIAL
+HALSLVGEKQKVNIIQFGTGYKELFSYPKHITSNTMAAEFIMSATPTMGNTDFWKTLRYL
+SLLYPARGSRNILLVSDGHLQDESLTLQLVKRSRPHTRLFACGIGSTANRHVLRILSQCG
+AGVFEYFNAKSKHSWRKQIEDQMTRLCSPSCHSVSVKWQQLNPDVPEALQAPAQVPSLFL
+NDRLLVYGFIPHCTQATLCALIQEKEFRTMVSTTELQKTTGTMIHKLAARALIRDYEDGI
+LHENETSHEMKKQTLKSLIIKLSKENSLITQFTSFVAVEKRDENESPFPDIPKVSELIAK
+EDVDFLPYMSWQGEPQEAVRNQSLLASSEWPELRLSKRKHRKIPFSKRKMELSQPEVSED
+FEEDGLGVLPAFTSNLERGGVEKLLDLSWTESCKPTATEPLFKKVSPWETSTSSFFPILA
+PAVGSYLPPTARAHSPASLSFASYRQVASFGSAAPPRQFDASQFSQGPVPGTCADWIPQS
+ASCPTGPPQNPPSSPYCGIVFSGSSLSSAQSAPLQHPGGFTTRPSAGTFPELDSPQLHFS
+LPTDPDPIRGFGSYHPSASSPFHFQPSAASLTANLRLPMASALPEALCSQSRTTPVDLCL
+LEESVGSLEGSRCPVFAFQSSDTESDELSEVLQDSCFLQIKCDTKDDSILCFLEVKEEDE
+IVCIQHWQDAVPWTELLSLQTEDGFWKLTPELGLILNLNTNGLHSFLKQKGIQSLGVKGR
+ECLLDLIATMLVLQFIRTRLEKEGIVFKSLMKMDDASISRNIPWAFEAIKQASEWVRRTE
+GQYPSICPRLELGNDWDSATKQLLGLQPISTVSPLHRVLHYSQG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3694920</genbank_protein_id>
+  <uniprot_id>Q9UKK3</uniprot_id>
+  <uniprot_name>PARP4_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF057160</genbank_gene_id>
+  <genecard_id>PARP4</genecard_id>
+  <geneatlas_id>PARP4</geneatlas_id>
+  <hgnc_id>HGNC:271</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kickhoefer VA, Siva AC, Kedersha NL, Inman EM, Ruland C, Streuli M, Rome LH: The 193-kD vault protein, VPARP, is a novel poly(ADP-ribose) polymerase.  J Cell Biol. 1999 Sep 6;146(5):917-28.</reference_text>
+      <pubmed_id>10477748</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Still IH, Vince P, Cowell JK: Identification of a novel gene (ADPRTL1) encoding a potential Poly(ADP-ribosyl)transferase protein. Genomics. 1999 Dec 15;62(3):533-6.</reference_text>
+      <pubmed_id>10644454</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Seki N, Ishikawa K, Tanaka A, Nomura N: Prediction of the coding sequences of unidentified human genes. V. The coding sequences of 40 new genes (KIAA0161-KIAA0200) deduced by analysis of cDNA clones from human cell line KG-1. DNA Res. 1996 Feb 29;3(1):17-24.</reference_text>
+      <pubmed_id>8724849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham A, Matthews LH, Burton J, Ashurst JL, Howe KL, Ashcroft KJ, Beare DM, Burford DC, Hunt SE, Griffiths-Jones S, Jones MC, Keenan SJ, Oliver K, Scott CE, Ainscough R, Almeida JP, Ambrose KD, Andrews DT, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Bannerjee R, Barlow KF, Bates K, Beasley H, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burrill W, Carder C, Carter NP, Chapman JC, Clamp ME, Clark SY, Clarke G, Clee CM, Clegg SC, Cobley V, Collins JE, Corby N, Coville GJ, Deloukas P, Dhami P, Dunham I, Dunn M, Earthrowl ME, Ellington AG, Faulkner L, Frankish AG, Frankland J, French L, Garner P, Garnett J, Gilbert JG, Gilson CJ, Ghori J, Grafham DV, Gribble SM, Griffiths C, Hall RE, Hammond S, Harley JL, Hart EA, Heath PD, Howden PJ, Huckle EJ, Hunt PJ, Hunt AR, Johnson C, Johnson D, Kay M, Kimberley AM, King A, Laird GK, Langford CJ, Lawlor S, Leongamornlert DA, Lloyd DM, Lloyd C, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, McLaren SJ, McMurray A, Milne S, Moore MJ, Nickerson T, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter KM, Rice CM, Searle S, Sehra HK, Shownkeen R, Skuce CD, Smith M, Steward CA, Sycamore N, Tester J, Thomas DW, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Wilming L, Wray PW, Wright MW, Young L, Coulson A, Durbin R, Hubbard T, Sulston JE, Beck S, Bentley DR, Rogers J, Ross MT: The DNA sequence and analysis of human chromosome 13.  Nature. 2004 Apr 1;428(6982):522-8.</reference_text>
+      <pubmed_id>15057823</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jean L, Risler JL, Nagase T, Coulouarn C, Nomura N, Salier JP: The nuclear protein PH5P of the inter-alpha-inhibitor superfamily: a missing link between poly(ADP-ribose)polymerase and the inter-alpha-inhibitor family and a novel actor of DNA repair? FEBS Lett. 1999 Mar 5;446(1):6-8.</reference_text>
+      <pubmed_id>10100603</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kickhoefer VA, Stephen AG, Harrington L, Robinson MO, Rome LH: Vaults and telomerase share a common subunit, TEP1.  J Biol Chem. 1999 Nov 12;274(46):32712-7.</reference_text>
+      <pubmed_id>10551828</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

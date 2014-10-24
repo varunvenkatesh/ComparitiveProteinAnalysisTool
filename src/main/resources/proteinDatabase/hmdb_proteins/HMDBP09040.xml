@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:18:42 -0700</creation_date>
+  <update_date>2013-01-15 20:18:42 -0700</update_date>
+  <accession>HMDBP09040</accession>
+  <secondary_accessions>
+    <accession>14782</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>TAR RNA-binding protein 1</synonym>
+    <synonym>TAR RNA-binding protein of 185 kDa</synonym>
+    <synonym>TRP-185</synonym>
+  </synonyms>
+  <gene_name>TARBP1</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Probable S-adenosyl-L-methionine-dependent methyltransferase which methylates RNA molecules such as tRNAs. In case of infection by HIV-1, it binds to the loop region of TAR RNA, a region also bound by RNA polymerase II. Binding of TARBP1 and RNA polymerase II to HIV-1 TAR RNA is mutually exclusive, suggesting that TARBP1 may function alone or in conjunction with HIV-1 Tat to disengage RNA polymerase II from HIV-1 TAR RNA. May act by methylating HIV-1 TAR RNA</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna processing</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1q42.3</locus>
+    <gene_sequence>&gt;4866 bp
+ATGGAGTGGGTGCTCGCGGAAGCGCTGCTCTCGCAGAGCCGGGACCCCCGGGCCCTGCTT
+GGGGCGCTGTGCCAAGGGGAGGCATCCGCGGAGCGCGTGGAGACGCTGCGCTTCCTTCTG
+CAGCGGCTCGAGGACGAGGAGGCGCGCGGCAGCGGGGGCGCAGGCGCGCTCCCGGAGGCG
+GCGCGCGAGGTGGCTGCAGGGTACCTCGTGCCACTGCTGCGGAGCCTGCGCGGACGCCCC
+GCGGGCGGCCCGGACCCCAGTCTGCAGCCTCGCCACCGCCGGCGCGTGCTGAGGGCGGCG
+GGCGCGGCCCTGCGCTCGTGCGTCCGCCTGGCCGGGCGTCCGCAGCTGGCGGCCGCGCTG
+GCTGAGGAGGCGCTGCGCGATCTGCTCGCCGGGTGGCGCGCGCCTGGCGCCGAGGCTGCC
+GTGGAAGTGCTAGCAGCCGTCGGGCCATGTTTGCGGCCCCGCGAGGACGGGCCGCTACTG
+GAGCGCGTGGCGGGGACCGCCGTCGCCCTGGCGCTGGGCGGGGGCGGGGACGGGGATGAG
+GCCGGGCCTGCCGAGGACGCGGCGGCGCTGGTGGCCGGGCGACTGCTGCCAGTGCTGGTC
+CAATGTGGCGGGGCGGCGCTGCGGGCCGTGTGGGGCGGGCTGGCCGCGCCTGGGGCGTCC
+CTGGGGTCCGGCCGCGTAGAGGAGAAGCTGCTGGTCCTGAGCGCCCTGGCCGAGAAGCTG
+TTGCCCGAGCCCGGCGGCGACCGCGCCCGCGGCGCGCGCGAGGCGGGCCCGGACGCCCGG
+CGCTGCTGGCGCTTCTGGAGGACGGTGCAGGCGGGGCTGGGCCAGGCGGACGCCCTGACG
+CGCAAGCGAGCGCGCTACCTGCTGCAGAGGGCGGTGGAGGTGTCGGCGGAGCTGGGGGCC
+GACTGCACCTGCGGGCCCCAGGAAGGAAACGGCCCAAGTCTGTTTTGGTGGTCTGAGAGG
+AAAAAAGATGAGCTTCTAAAGTTTTGGGAAAATTATATTTTAATTATGGAGACTTTAGAA
+GGAAATCAGATACATGTTATAAAGCCAGTTTTACCAAAGCTAAACAATCTGTTTGAATAT
+GCGGTGTCAGAGGAAAATGGATGTTGGCTCTTTCACCCATCCTGGCATATGTGTATTTAT
+AAAAGAATGTTTGAAAGTGAAAACAAAATCCTGTCCAAAGAAGGTGTTATCCATTTTTTG
+GAGCTGTATGAAACAAAGATTCTTCCATTTTCACCAGAATTTTCTGAGTTTATTATTGGA
+CCATTAATGGATGCGCTTTCAGAGAGCTCTCTGTATAGCAGGTCCCCAGGCCAGCCAATA
+GGAAGCTGTTCTCCATTGGGACTGAAATTACAGAAGTTTTTAGTCACTTATATTTCTCTT
+CTTCCAGAAGAAATAAAGAGTAGCTTCCTATTGAAGTTTATTCGGAAGATGACAAGTAGG
+CATTGGTGTGCTGTTCCCATTTTGTTTCTATCTAAGGCTTTGGCAAATGTCCCAAGACAT
+AAGGCCCTGGGTATAGATGGGCTTCTTGCTCTCAGGGATGTTATTCATTGCACTATGATC
+ACACATCAGATTCTCCTGAGAGGGGCAGCCCAATGCTACCTTCTTCAAACAGCTATGAAT
+TTGCTAGATGTGGAGAAAGTGTCACTTTCTGATGTCTCAACTTTTCTCATGTCTCTGAGA
+CAAGAGGAATCCTTAGGACGAGGAACTTCATTGTGGACAGAGCTGTGTGACTGGCTACGT
+GTTAATGAAAGCTATTTTAAGCCATCCCCTACGTGTAGCTCCATTGGACTTCACAAGACA
+TCTTTAAATGCTTATGTAAAGAGCATTGTTCAAGAGTATGTTAAGTCATCTGCTTGGGAA
+ACAGGAGAAAACTGCTTTATGCCTGATTGGTTTGAAGCCAAGCTTGTTTCTCTGATGGTC
+TTGCTGGCTGTGGATGTGGAAGGAATGAAGACTCAGTATAGCGGAAAGCAGAGAACAGAG
+AATGTATTGCGGATATTCTTAGACCCTCTTCTGGATGTGCTTATGAAGTTTAGTACCAAT
+GCCTACATGCCCTTGCTGAAGACTGACAGATGCCTCCAGCTGCTGTTGAAGCTGTTGAAC
+ACATGCAGGTTGAAAGGTTCCAGTGCCCAAGATGATGAGGTGTCTACTGTTCTTCAGAAC
+TTTTTCATGTCTACTACAGAGAGCATTTCTGAATTTATTCTCAGAAGACTTACTATGAAT
+GAGCTAAATAGTGTTTCAGATCTGGATCGTTGCCATTTATACCTGATGGTGTTAACTGAG
+CTTATAAATCTGCATTTGAAGGTTGGGTGGAAAAGGGGTAACCCTATCTGGAGAGTTATT
+TCTCTTTTGAAAAATGCATCCATTCAGCATCTTCAAGAGATGGACAGTGGACAGGAGCCA
+ACAGTTGGAAGTCAGATTCAGAGAGTAGTGAGCATGGCTGCCTTGGCCATGGTGTGTGAG
+GCCATAGACCAGAAGCCTGAGCTGCAGCTGGACTCTCTCCATGCTGGGCCCCTGGAAAGC
+TTCCTTTCCTCTCTTCAGCTCAATCAGACGCTGCAGAAGCCCCACGCAGAGGAGCAGAGC
+AGTTATGCTCACCCCTTGGAGTGCAGCAGTGTTTTGGAAGAATCGTCATCTTCCCAAGGA
+TGGGGAAAAATAGTTGCACAATATATTCATGATCAATGGGTGTGCCTCTCTTTCCTGTTG
+AAAAAATATCACACCCTTATACCAACCACAGGGAGTGAAATTCTGGAACCGTTTCTACCT
+GCCGTTCAGATGCCAATAAGGACTTTGCAGTCTGCACTAGAAGCCCTCACAGTTCTTTCT
+TCTGATCAAGTTTTACCAGTGTTCCATTGCTTGAAAGTGTTGGTTCCCAAGCTTCTGACT
+TCCTCTGAATCACTCTGCATAGAGTCTTTTGACATGGCGTGGAAAATTATATCTTCTTTA
+AGCAACACTCAGCTGATATTCTGGGCTAATTTAAAAGCTTTTGTTCAGTTTGTTTTTGAT
+AACAAAGTTCTTACCATTGCTGCCAAAATCAAGGGCCAGGCATATTTCAAAATAAAAGAG
+ATTATGTACAAGATAATTGAAATGTCTGCTATAAAGACTGGAGTCTTCAATACACTGATA
+AGTTACTGCTGTCAGTCTTGGATAGTGTCTGCTTCAAATGTGTCCCAAGGATCTTTATCA
+AGTGCTAAAAATTATAGCGAACTTATCCTTGAGGCTTGTATATTTGGAACTGTGTTTAGG
+CGTGATCAAAGACTTGTTCAGGATGTACAGACCTTCATAGAAAACCTTGGACATGACTGT
+GCGGCAAATATTGTTATGGAAAATACTAAGAGAGAAGACCATTATGTGAGAATTTGTGCT
+GTCAAATTCCTGTGTTTATTAGATGGCTCCAATATGTCCCACAAGTTGTTTATTGAGGAT
+CTTGCAATCAAGCTATTAGATAAAGATGAATTAGTGTCCAAGTCCAAAAAACGCTACTAT
+GTGAATTCTCTACAGCACAGAGTGAAAAACCGAGTGTGGCAGACTCTGCTGGTACTTTTC
+CCTAGACTTGACCAGAATTTCTTGAATGGAATTATTGACAGGATTTTCCAGGCTGGTTTC
+ACCAACAATCAAGCATCCATAAAATATTTTATAGAATGGATTATTATATTGATTCTTCAT
+AAATTCCCTCAATTTCTTCCAAAGTTCTGGGATTGTTTTTCTTATGGTGAAGAAAATCTT
+AAAACAAGCATTTGTACGTTTTTAGCAGTTTTATCACATTTAGACATTATTACTCAAAAT
+ATTCCAGAAAAGAAACTAATTCTGAAGCAAGCCCTTATAGTTGTGCTGCAGTGGTGTTTC
+AATCACAATTTTAGTGTTCGACTGTATGCTTTAGTTGCTCTTAAGAAACTCTGGACTGTG
+TGTAAAGTGTTAAGTGTTGAAGAATTTGATGCCCTGACTCCTGTGATTGAATCCAGCCTC
+CATCAAGTGGAAAGCATGCACGGAGCAGGGAATGCCAAGAAGAATTGGCAACGCATTCAG
+GAGCATTTCTTTTTTGCAACATTTCACCCACTCAAGGATTATTGTCTAGAGACCATATTT
+TACATCCTTCCACGCCTTTCAGGCCTTATTGAAGATGAATGGATCACCATTGATAAATTT
+ACCAGATTCACTGATGTTCCTTTAGCTGCGGGATTTCAGTGGTACCTTTCTCAAACTCAA
+CTTAGTAAACTAAAACCAGGTGACTGGTCTCAGCAAGACATAGGTACTAATTTGGTCGAA
+GCAGATAACCAAGCGGAGTGGACCGACGTTCAGAAGAAGATTATCCCGTGGAACAGTCGT
+GTTTCCGACTTAGACCTGGAGCTCCTGTTTCAGGATCGTGCTGCCAGACTTGGAAAGTCA
+ATTAGTAGACTCATCGTTGTGGCCTCGCTCATCGACAAACCGACCAATTTAGGAGGACTG
+TGCAGGACCTGTGAGGTATTTGGGGCTTCAGTGCTCGTTGTTGGCAGCCTTCAGTGTATC
+AGCGACAAACAGTTTCAGCACCTCAGTGTCTCTGCAGAACAGTGGCTTCCTCTAGTGGAG
+GTAAAACCACCTCAGCTAATTGATTATCTGCAGCAGAAGAAAACAGAAGGTTATACCATC
+ATTGGAGTGGAACAAACTGCCAAAAGTTTAGACCTAACCCAATATTGCTTTCCTGAGAAA
+TCTCTGCTCTTGTTGGGAAATGAACGTGAGGGAATTCCAGCAAATCTGATCCAACAGTTG
+GACGTTTGTGTGGAAATTCCTCAACAGGGCATTATCCGCTCCCTGAATGTCCATGTGAGT
+GGAGCCCTGCTGATCTGGGAGTACACCAGGCAGCAGCTGCTCTCGCACGGAGATACCAAG
+CCATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1621</residue_number>
+    <molecular_weight>181672.8</molecular_weight>
+    <theoretical_pi>7.05</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SpoU_methylase</name>
+        <pfam_id>PF00588</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Probable methyltransferase TARBP1
+MEWVLAEALLSQSRDPRALLGALCQGEASAERVETLRFLLQRLEDEEARGSGGAGALPEA
+AREVAAGYLVPLLRSLRGRPAGGPDPSLQPRHRRRVLRAAGAALRSCVRLAGRPQLAAAL
+AEEALRDLLAGWRAPGAEAAVEVLAAVGPCLRPREDGPLLERVAGTAVALALGGGGDGDE
+AGPAEDAAALVAGRLLPVLVQCGGAALRAVWGGLAAPGASLGSGRVEEKLLVLSALAEKL
+LPEPGGDRARGAREAGPDARRCWRFWRTVQAGLGQADALTRKRARYLLQRAVEVSAELGA
+DCTCGPQEGNGPSLFWWSERKKDELLKFWENYILIMETLEGNQIHVIKPVLPKLNNLFEY
+AVSEENGCWLFHPSWHMCIYKRMFESENKILSKEGVIHFLELYETKILPFSPEFSEFIIG
+PLMDALSESSLYSRSPGQPIGSCSPLGLKLQKFLVTYISLLPEEIKSSFLLKFIRKMTSR
+HWCAVPILFLSKALANVPRHKALGIDGLLALRDVIHCTMITHQILLRGAAQCYLLQTAMN
+LLDVEKVSLSDVSTFLMSLRQEESLGRGTSLWTELCDWLRVNESYFKPSPTCSSIGLHKT
+SLNAYVKSIVQEYVKSSAWETGENCFMPDWFEAKLVSLMVLLAVDVEGMKTQYSGKQRTE
+NVLRIFLDPLLDVLMKFSTNAYMPLLKTDRCLQLLLKLLNTCRLKGSSAQDDEVSTVLQN
+FFMSTTESISEFILRRLTMNELNSVSDLDRCHLYLMVLTELINLHLKVGWKRGNPIWRVI
+SLLKNASIQHLQEMDSGQEPTVGSQIQRVVSMAALAMVCEAIDQKPELQLDSLHAGPLES
+FLSSLQLNQTLQKPHAEEQSSYAHPLECSSVLEESSSSQGWGKIVAQYIHDQWVCLSFLL
+KKYHTLIPTTGSEILEPFLPAVQMPIRTLQSALEALTVLSSDQVLPVFHCLKVLVPKLLT
+SSESLCIESFDMAWKIISSLSNTQLIFWANLKAFVQFVFDNKVLTIAAKIKGQAYFKIKE
+IMYKIIEMSAIKTGVFNTLISYCCQSWIVSASNVSQGSLSSAKNYSELILEACIFGTVFR
+RDQRLVQDVQTFIENLGHDCAANIVMENTKREDHYVRICAVKFLCLLDGSNMSHKLFIED
+LAIKLLDKDELVSKSKKRYYVNSLQHRVKNRVWQTLLVLFPRLDQNFLNGIIDRIFQAGF
+TNNQASIKYFIEWIIILILHKFPQFLPKFWDCFSYGEENLKTSICTFLAVLSHLDIITQN
+IPEKKLILKQALIVVLQWCFNHNFSVRLYALVALKKLWTVCKVLSVEEFDALTPVIESSL
+HQVESMHGAGNAKKNWQRIQEHFFFATFHPLKDYCLETIFYILPRLSGLIEDEWITIDKF
+TRFTDVPLAAGFQWYLSQTQLSKLKPGDWSQQDIGTNLVEADNQAEWTDVQKKIIPWNSR
+VSDLDLELLFQDRAARLGKSISRLIVVASLIDKPTNLGGLCRTCEVFGASVLVVGSLQCI
+SDKQFQHLSVSAEQWLPLVEVKPPQLIDYLQQKKTEGYTIIGVEQTAKSLDLTQYCFPEK
+SLLLLGNEREGIPANLIQQLDVCVEIPQQGIIRSLNVHVSGALLIWEYTRQQLLSHGDTK
+P</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>56204383</genbank_protein_id>
+  <uniprot_id>Q13395</uniprot_id>
+  <uniprot_name>TARB1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL136124</genbank_gene_id>
+  <genecard_id>TARBP1</genecard_id>
+  <geneatlas_id>TARBP1</geneatlas_id>
+  <hgnc_id>HGNC:11568</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wu-Baer F, Lane WS, Gaynor RB: The cellular factor TRP-185 regulates RNA polymerase II binding to HIV-1 TAR RNA. EMBO J. 1995 Dec 1;14(23):5995-6009.</reference_text>
+      <pubmed_id>8846792</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu-Baer F, Sigman D, Gaynor RB: Specific binding of RNA polymerase II to the human immunodeficiency virus trans-activating region RNA is regulated by cellular cofactors and Tat. Proc Natl Acad Sci U S A. 1995 Aug 1;92(16):7153-7.</reference_text>
+      <pubmed_id>7638159</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu-Baer F, Lane WS, Gaynor RB: Identification of a group of cellular cofactors that stimulate the binding of RNA polymerase II and TRP-185 to human immunodeficiency virus 1 TAR RNA. J Biol Chem. 1996 Feb 23;271(8):4201-8.</reference_text>
+      <pubmed_id>8626763</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

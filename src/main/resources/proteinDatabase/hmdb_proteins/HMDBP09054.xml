@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:18:53 -0700</creation_date>
+  <update_date>2013-01-15 20:18:53 -0700</update_date>
+  <accession>HMDBP09054</accession>
+  <secondary_accessions>
+    <accession>14796</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ASIC3</synonym>
+    <synonym>Acid-sensing ion channel 3</synonym>
+    <synonym>Neuronal amiloride-sensitive cation channel 3</synonym>
+    <synonym>Testis sodium channel 1</synonym>
+    <synonym>hASIC3</synonym>
+    <synonym>hTNaC1</synonym>
+  </synonyms>
+  <gene_name>ACCN3</gene_name>
+  <general_function>Involved in ligand-gated sodium channel activity</general_function>
+  <specific_function>Cation channel with high affinity for sodium, which is gated by extracellular protons and inhibited by the diuretic amiloride. Generates a biphasic current with a fast inactivating and a slow sustained phase. In sensory neurons is proposed to mediate the pain induced by acidosis that occurs in ischemic, damaged or inflamed tissue. May be involved in hyperalgesia. May play a role in mechanoreception. Heteromeric channel assembly seems to modulate channel properties</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01895</accession>
+      <name>Salicylic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sodium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amiloride-sensitive sodium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sodium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:7</chromosome_location>
+    <locus>7q35</locus>
+    <gene_sequence>&gt;1596 bp
+ATGAAGCCCACCTCAGGCCCAGAGGAGGCCCGGCGGCCAGCCTCGGACATCCGCGTGTTC
+GCCAGCAACTGCTCGATGCACGGGCTGGGCCACGTCTTCGGGCCAGGCAGCCTGAGCCTG
+CGCCGGGGGATGTGGGCAGCGGCCGTGGTCCTGTCAGTGGCCACCTTCCTCTACCAGGTG
+GCTGAGAGGGTGCGCTACTACAGGGAGTTCCACCACCAGACTGCCCTGGATGAGCGAGAA
+AGCCACCGGCTCATCTTCCCGGCTGTCACCCTGTGCAACATCAACCCACTGCGCCGCTCG
+CGCCTAACGCCCAACGACCTGCACTGGGCTGGGTCTGCGCTGCTGGGCCTGGATCCCGCA
+GAGCACGCCGCCTTCCTGCGCGCCCTGGGCCGGCCCCCTGCACCGCCCGGCTTCATGCCC
+AGTCCCACCTTTGACATGGCGCAACTCTATGCCCGTGCTGGGCACTCCCTGGATGACATG
+CTGCTGGACTGTCGCTTCCGTGGCCAACCTTGTGGGCCTGAGAACTTCACCACGATCTTC
+ACCCGGATGGGAAAGTGCTACACATTTAACTCTGGCGCTGATGGGGCAGAGCTGCTCACC
+ACTACTAGGGGTGGCATGGGCAATGGGCTGGACATCATGCTGGACGTGCAGCAGGAGGAA
+TATCTACCTGTGTGGAGGGACAATGAGGAGACCCCGTTTGAGGTGGGGATCCGAGTGCAG
+ATCCACAGCCAGGAGGAGCCGCCCATCATCGATCAGCTGGGCTTGGGGGTGTCCCCGGGC
+TACCAGACCTTTGTTTCTTGCCAGCAGCAGCAGCTGAGCTTCCTGCCACCGCCCTGGGGC
+GATTGCAGTTCAGCATCTCTGAACCCCAACTATGAGCCAGAGCCCTCTGATCCCCTAGGC
+TCCCCCAGCCCCAGCCCCAGCCCTCCCTATACCCTTATGGGGTGTCGCCTGGCCTGCGAA
+ACCCGCTACGTGGCTCGGAAGTGCGGCTGCCGAATGGTGTACATGCCAGGCGACGTGCCA
+GTGTGCAGCCCCCAGCAGTACAAGAACTGTGCCCACCCGGCCATAGATGCCATGCTTCGC
+AAGGACTCGTGCGCCTGCCCCAACCCGTGCGCCAGCACGCGCTACGCCAAGGAGCTCTCC
+ATGGTGCGGATCCCGAGCCGCGCCGCCGCGCGCTTCCTGGCCCGGAAGCTCAACCGCAGC
+GAGGCCTACATCGCGGAGAACGTGCTGGCCCTGGACATCTTCTTTGAGGCCCTCAACTAT
+GAGACCGTGGAGCAGAAGAAGGCCTATGAGATGTCAGAGCTGCTTGGTGACATTGGGGGC
+CAGATGGGGCTGTTCATCGGGGCCAGCCTGCTCACCATCCTCGAGATCCTAGACTACCTC
+TGTGAGGTGTTCCGAGACAAGGTCCTGGGATATTTCTGGAACCGACAGCACTCCCAAAGG
+CACTCCAGCACCAATCTGCTTCAGGAAGGGCTGGGCAGCCATCGAACCCAAGTTCCCCAC
+CTCAGCCTGGGCCCCAGACCTCCCACCCCTCCCTGTGCCGTCACCAAGACTCTCTCCGCC
+TCCCACCGCACCTGCTACCTTGTCACACAGCTCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>531</residue_number>
+    <molecular_weight>58904.7</molecular_weight>
+    <theoretical_pi>7.14</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ASC</name>
+        <pfam_id>PF00858</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>44-61</region>
+      <region>442-460</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Amiloride-sensitive cation channel 3
+MKPTSGPEEARRPASDIRVFASNCSMHGLGHVFGPGSLSLRRGMWAAAVVLSVATFLYQV
+AERVRYYREFHHQTALDERESHRLIFPAVTLCNINPLRRSRLTPNDLHWAGSALLGLDPA
+EHAAFLRALGRPPAPPGFMPSPTFDMAQLYARAGHSLDDMLLDCRFRGQPCGPENFTTIF
+TRMGKCYTFNSGADGAELLTTTRGGMGNGLDIMLDVQQEEYLPVWRDNEETPFEVGIRVQ
+IHSQEEPPIIDQLGLGVSPGYQTFVSCQQQQLSFLPPPWGDCSSASLNPNYEPEPSDPLG
+SPSPSPSPPYTLMGCRLACETRYVARKCGCRMVYMPGDVPVCSPQQYKNCAHPAIDAMLR
+KDSCACPNPCASTRYAKELSMVRIPSRAAARFLARKLNRSEAYIAENVLALDIFFEALNY
+ETVEQKKAYEMSELLGDIGGQMGLFIGASLLTILEILDYLCEVFRDKVLGYFWNRQHSQR
+HSSTNLLQEGLGSHRTQVPHLSLGPRPPTPPCAVTKTLSASHRTCYLVTQL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4757710</genbank_protein_id>
+  <uniprot_id>Q9UHC3</uniprot_id>
+  <uniprot_name>ACCN3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_004769.2</genbank_gene_id>
+  <genecard_id>ACCN3</genecard_id>
+  <geneatlas_id>ACCN3</geneatlas_id>
+  <hgnc_id>HGNC:101</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ishibashi K, Marumo F: Molecular cloning of a DEG/ENaC sodium channel cDNA from human testis.  Biochem Biophys Res Commun. 1998 Apr 17;245(2):589-93.</reference_text>
+      <pubmed_id>9571199</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>de Weille JR, Bassilana F, Lazdunski M, Waldmann R: Identification, functional expression and chromosomal localisation of a sustained human proton-gated cation channel. FEBS Lett. 1998 Aug 21;433(3):257-60.</reference_text>
+      <pubmed_id>9744806</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Babinski K, Le KT, Seguela P: Molecular cloning and regional distribution of a human proton receptor subunit with biphasic functional properties. J Neurochem. 1999 Jan;72(1):51-7.</reference_text>
+      <pubmed_id>9886053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Babinski K, Catarsi S, Biagini G, Seguela P: Mammalian ASIC2a and ASIC3 subunits co-assemble into heteromeric proton-gated channels sensitive to Gd3+. J Biol Chem. 2000 Sep 15;275(37):28519-25.</reference_text>
+      <pubmed_id>10842183</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Catarsi S, Babinski K, Seguela P: Selective modulation of heteromeric ASIC proton-gated channels by neuropeptide FF. Neuropharmacology. 2001 Oct;41(5):592-600.</reference_text>
+      <pubmed_id>11587714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leonard AS, Yermolaieva O, Hruska-Hageman A, Askwith CC, Price MP, Wemmie JA, Welsh MJ: cAMP-dependent protein kinase phosphorylation of the acid-sensing ion channel-1 regulates its binding to the protein interacting with C-kinase-1. Proc Natl Acad Sci U S A. 2003 Feb 18;100(4):2029-34. Epub 2003 Feb 10.</reference_text>
+      <pubmed_id>12578970</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hruska-Hageman AM, Benson CJ, Leonard AS, Price MP, Welsh MJ: PSD-95 and Lin-7b interact with acid-sensing ion channel-3 and have opposite effects on H+- gated current. J Biol Chem. 2004 Nov 5;279(45):46962-8. Epub 2004 Aug 17.</reference_text>
+      <pubmed_id>15317815</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang LY, Deng N, Wang LS, Dai J, Wang ZL, Jiang XS, Li SJ, Li L, Sheng QH, Wu DQ, Li L, Zeng R: Quantitative phosphoproteome profiling of Wnt3a-mediated signaling network: indicating the involvement of ribonucleoside-diphosphate reductase M2 subunit phosphorylation at residue serine 20 in canonical Wnt signal transduction. Mol Cell Proteomics. 2007 Nov;6(11):1952-67. Epub 2007 Aug 12.</reference_text>
+      <pubmed_id>17693683</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

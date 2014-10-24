@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:52:52 -0700</creation_date>
+  <update_date>2013-05-27 11:34:56 -0600</update_date>
+  <accession>HMDBP06856</accession>
+  <secondary_accessions>
+    <accession>12475</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Na(+)/myo-inositol cotransporter 2</synonym>
+    <synonym>Sodium-dependent glucose cotransporter</synonym>
+    <synonym>Sodium/glucose cotransporter KST1</synonym>
+    <synonym>Solute carrier family 5 member 11</synonym>
+    <synonym>Sodium/myo-inositol transporter 2</synonym>
+    <synonym>SMIT2</synonym>
+  </synonyms>
+  <gene_name>SLC5A11</gene_name>
+  <general_function>Involved in transporter activity</general_function>
+  <specific_function>Involved in the sodium-dependent cotransport of myo-inositol (MI) with a Na(+):MI stoichiometry of 2:1. Exclusively responsible for apical MI transport and absorption in intestine. Also can transport D-chiro-inositol (DCI) but not L-fructose. Exhibits stereospecific cotransport of both D-glucose and D-xylose. May induce apoptosis through the TNF-alpha, PDCD1 pathway. May play a role in the regulation of MI concentration in serum, involving reabsorption in at least the proximal tubule of the kidney.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00098</accession>
+      <name>D-Xylose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>symporter activity</description>
+      <go_id>GO:0015293</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transporter activity</description>
+      <go_id>GO:0005215</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>apoptotic process</description>
+      <go_id>GO:0006915</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate transport</description>
+      <go_id>GO:0008643</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sodium ion transport</description>
+      <go_id>GO:0006814</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transmembrane transport</description>
+      <go_id>GO:0055085</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16p12.1</locus>
+    <gene_sequence>&gt;2028 bp
+ATGGAGAGCGGCACCAGCAGCCCTCAGCCTCCACAGTTAGATCCCCTGGATGCGTTTCCC
+CAGAAGGGCTTGGAGCCTGGGGACATCGCGGTGCTAGTTCTGTACTTCCTCTTTGTCCTG
+ACTGTTGGACTATGGTCCACAGTGAAGACCAAAAGAGACACAGTGAAAGGCTACTTCCTG
+GCTGGAGGGGACATGGTGTGGTGGCCAGTGGGTGCATCCTTGTTTGCCAGCAATGTTGGA
+AGTGGACATTTCATTGGCCTGGCAGGGTCAGGTGCTGCTACGGGCATTTCTGTATCAGCT
+TATGAACTTAATGGCTTGTTTTCTGTGCTGATGTTGGCCTGGATCTTCCTACCCATCTAC
+ATTGCTGGTCAGGTCACCACGATGCCAGAATACCTACGGAAGCGCTTCGGTGGCATCAGA
+ATCCCCATCATCCTGGCTGTACTCTACCTATTTATCTACATCTTCACCAAGATCTCGGTA
+GACATGTATGCAGGTGCCATCTTCATCCAGCAGTCTTTGCACCTGGATCTGTACCTGGCC
+ATAGCTGGGCTACTGGCCATCACTGCTGTATACACAGTTGCTGGTGGCCTGGCTGCTGTG
+ATCTACACGGATGCCCTGCAGACGCTGATCATGCTTATAGGAGCGCTCACCTTGATGGGC
+TACAGTTTCGCCGCGGTTGGTGGGATGGAAGGACTGAAGGAGAAGTACTTCTTGGCCCTG
+GCTAGCAACCGGAGTGAGAACAGCAGCTGCGGGCTGCCCCGGGAAGATGCCTTCCATATT
+TTCCGAGATCCGCTGACATCTGATCTCCCGTGGCCGGGGGTCCTATTTGGAATGTCCATC
+CCATCCCTCTGGTACTGGTGCACGGATCAGGTGATTGTCCAGCGGACTCTGGCTGCCAAG
+AACCTGTCCCATGCCAAAGGAGGTGCTCTGATGGCTGCATACCTGAAGGTGCTGCCCCTC
+TTCATAATGGTGTTCCCTGGGATGGTCAGCCGCATCCTCTTCCCAGATCAAGTGGCCTGT
+GCAGATCCAGAGATCTGCCAGAAGATCTGCAGCAACCCCTCAGGCTGTTCGGACATTGCG
+TATCCCAAACTCGTGCTGGAACTCCTGCCCACAGGGCTCCGTGGGCTGATGATGGCTGTG
+ATGGTGGCGGCTCTCATGTCCTCCCTCACCTCCATCTTTAACAGTGCCAGCACCATCTTC
+ACCATGGACCTCTGGAATCACCTCCGGCCTCGGGCATCTGAGAAGGAGCTCATGATTGTG
+GGCAGGGTGTTTGTGCTGCTGCTGGTCCTGGTCTCCATCCTCTGGATCCCTGTGGTCCAG
+GCCAGCCAGGGCGGCCAGCTCTTCATCTATATCCAGTCCATCAGCTCCTACCTGCAGCCG
+CCTGTGGCGGTGGTCTTCATCATGGGATGTTTCTGGAAGAGGACCAATGAAAAGGGTGCC
+TTCTGGGGCCTGATCTCGGGCCTGCTCCTGGGTTTGGTTAGGCTGGTCCTGGACTTTATT
+TACGTGCAGCCTCGATGCGACCAGCCAGATGAGCGCCCGGTCCTGGTGAAGAGCATTCAC
+TACCTCTACTTCTCCATGATCCTGTCCACGGTCACCCTCATCACTGTCTCCACCGTGAGC
+TGGTTCACAGAGCCACCCTCCAAGGAGATGGTCAGCCACCTGACCTGGTTTACTCGTCAC
+GACCCCGTGGTCCAGAAGGAACAAGCACCACCAGCAGCTCCCTTGTCTCTTACCCTCTCT
+CAGAACGGGATGCCAGAGGCCAGCAGCAGCAGCAGCGTCCAGTTCGAGATGGTTCAAGAA
+AACACGTCTAAAACCCACAGCTGTGACATGACCCCAAAGCAGTCCAAAGTGGTGAAGGCC
+ATCCTGTGGCTCTGTGGAATACAGGAGAAGGGCAAGGAAGAGCTCCCGGCCAGAGCAGAA
+GCCATCATAGTTTCCCTGGAAGAAAACCCCTTGGTGAAGACCCTCCTGGACGTCAACCTC
+ATTTTCTGCGTGAGCTGCGCCATCTTTATCTGGGGCTATTTTGCTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>675</residue_number>
+    <molecular_weight>69906.495</molecular_weight>
+    <theoretical_pi>6.145</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SSF</name>
+        <pfam_id>PF00474</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Sodium/myo-inositol cotransporter 2
+MESGTSSPQPPQLDPLDAFPQKGLEPGDIAVLVLYFLFVLAVGLWSTVKTKRDTVKGYFL
+AGGDMVWWPVGASLFASNVGSGHFIGLAGSGAATGISVSAYELNGLFSVLMLAWIFLPIY
+IAGQVTTMPEYLRKRFGGIRIPIILAVLYLFIYIFTKISVDMYAGAIFIQQSLHLDLYLA
+IVGLLAITAVYTVAGGLAAVIYTDALQTLIMLIGALTLMGYSFAAVGGMEGLKEKYFLAL
+ASNRSENSSCGLPREDAFHIFRDPLTSDLPWPGVLFGMSIPSLWYWCTDQVIVQRTLAAK
+NLSHAKGGALMAAYLKVLPLFIMVFPGMVSRILFPDQVACADPEICQKICSNPSGCSDIA
+YPKLVLELLPTGLRGLMMAVMVAALMSSLTSIFNSASTIFTMDLWNHLRPRASEKELMIV
+GRVFVLLLVLVSILWIPVVQASQGGQLFIYIQSISSYLQPPVAVVFIMGCFWKRTNEKGA
+FWGLISGLLLGLVRLVLDFIYVQPRCDQPDERPVLVKSIHYLYFSMILSTVTLITVSTVS
+WFTEPPSKEMVSHLTWFTRHDPVVQKEQAPPAAPLSLTLSQNGMPEASSSSSVQFEMVQE
+NTSKTHSCDMTPKQSKVVKAILWLCGIQEKGKEELPARAEAIIVSLEENPLVKTLLDVNL
+IFCVSCAIFIWGYFA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>15419543</genbank_protein_id>
+  <uniprot_id>Q8WWX8</uniprot_id>
+  <uniprot_name>SC5AB_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF292385</genbank_gene_id>
+  <genecard_id>SLC5A11</genecard_id>
+  <geneatlas_id>SLC5A11</geneatlas_id>
+  <hgnc_id>HGNC:23091</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Roll P, Massacrier A, Pereira S, Robaglia-Schlupp A, Cau P, Szepetowski P: New human sodium/glucose cotransporter gene (KST1): identification, characterization, and mutation analysis in ICCA (infantile convulsions and choreoathetosis) and BFIC (benign familial infantile convulsions) families. Gene. 2002 Feb 20;285(1-2):141-8.</reference_text>
+      <pubmed_id>12039040</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Groenen PM, Klootwijk R, Schijvenaars MM, Straatman H, Mariman EC, Franke B, Steegers-Theunissen RP: Spina bifida and genetic factors related to myo-inositol, glucose, and zinc. Mol Genet Metab. 2004 Jun;82(2):154-61.</reference_text>
+      <pubmed_id>15172003</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsai LJ, Hsiao SH, Tsai LM, Lin CY, Tsai JJ, Liou DM, Lan JL: The sodium-dependent glucose cotransporter SLC5A11 as an autoimmune modifier gene in SLE. Tissue Antigens. 2008 Feb;71(2):114-26. Epub 2007 Dec 6.</reference_text>
+      <pubmed_id>18069935</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

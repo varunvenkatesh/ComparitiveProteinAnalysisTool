@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:08:15 -0700</creation_date>
+  <update_date>2013-05-27 11:21:18 -0600</update_date>
+  <accession>HMDBP02807</accession>
+  <secondary_accessions>
+    <accession>8313</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Endo-glucoronidase</synonym>
+    <synonym>Heparanase 50 kDa subunit</synonym>
+    <synonym>Heparanase 8 kDa subunit</synonym>
+    <synonym>Heparanase-1</synonym>
+    <synonym>Hpa1</synonym>
+  </synonyms>
+  <gene_name>HPSE</gene_name>
+  <general_function>Involved in hydrolase activity, acting on glycosyl bonds</general_function>
+  <specific_function>Endoglycosidase that cleaves heparan sulfate proteoglycans (HSPGs) into heparan sulfate side chains and core proteoglycans. Participates in extracellular matrix (ECM) degradation and remodeling. Selectively cleaves the linkage between a glucuronic acid unit and an N-sulfo glucosamine unit carrying either a 3-O-sulfo or a 6-O-sulfo group. Can also cleave the linkage between a glucuronic acid unit and an N-sulfo glucosamine unit carrying a 2-O-sulfo group, but not linkages between a glucuronic acid unit and a 2-O-sulfated iduronic acid moiety. It is essentially inactive at neutral pH but becomes active under acidic conditions such as during tumor invasion and in inflammatory processes. Facilitates cell migration associated with metastasis, wound healing and inflammation. Enhances shedding of syndecans, and increases endothelial invasion and angiogenesis in myelomas. Acts as procoagulant by increasing the generation of activation factor X in the presence of tissue factor and activation factor VII. Increases cell adhesion to the extacellular matrix (ECM), independent of its enzymatic activity. Induces AKT1/PKB phosphorylation via lipid rafts increasing cell mobility and invasion. Heparin increases this AKT1/PKB activation. Regulates osteogenesis. Enhances angiogenesis through up-regulation of SRC-mediated activation of VEGF. Implicated in hair follicle inner root sheath differentiation and hair homeostasis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycosaminoglycan degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00531</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Proteoglycans in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05205</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01394</accession>
+      <name>Heparin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular region</description>
+      <go_id>GO:0005576</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal lumen</description>
+      <go_id>GO:0043202</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal membrane</description>
+      <go_id>GO:0005765</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane raft</description>
+      <go_id>GO:0045121</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>beta-glucuronidase activity</description>
+      <go_id>GO:0004566</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cation binding</description>
+      <go_id>GO:0043169</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heparanase activity</description>
+      <go_id>GO:0030305</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein dimerization activity</description>
+      <go_id>GO:0046983</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>syndecan binding</description>
+      <go_id>GO:0045545</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell-matrix adhesion</description>
+      <go_id>GO:0007160</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosaminoglycan catabolic process</description>
+      <go_id>GO:0006027</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heparan sulfate proteoglycan catabolic process</description>
+      <go_id>GO:0030200</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of blood coagulation</description>
+      <go_id>GO:0030194</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of hair follicle development</description>
+      <go_id>GO:0051798</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of osteoblast proliferation</description>
+      <go_id>GO:0033690</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of protein kinase B signaling cascade</description>
+      <go_id>GO:0051897</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation vascular endothelial growth factor production</description>
+      <go_id>GO:0010575</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of hair follicle development</description>
+      <go_id>GO:0051797</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>vascular wound healing</description>
+      <go_id>GO:0061042</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>4</chromosome_location>
+    <locus>4q21.3</locus>
+    <gene_sequence>&gt;1632 bp
+ATGCTGCTGCGCTCGAAGCCTGCGCTGCCGCCGCCGCTGATGCTGCTGCTCCTGGGGCCG
+CTGGGTCCCCTCTCCCCTGGCGCCCTGCCCCGACCTGCGCAAGCACAGGACGTCGTGGAC
+CTGGACTTCTTCACCCAGGAGCCGCTGCACCTGGTGAGCCCCTCGTTCCTGTCCGTCACC
+ATTGACGCCAACCTGGCCACGGACCCGCGGTTCCTCATCCTCCTGGGTTCTCCAAAGCTT
+CGTACCTTGGCCAGAGGCTTGTCTCCTGCGTACCTGAGGTTTGGTGGCACCAAGACAGAC
+TTCCTAATTTTCGATCCCAAGAAGGAATCAACCTTTGAAGAGAGAAGTTACTGGCAATCT
+CAAGTCAACCAGGATATTTGCAAATATGGATCCATCCCTCCTGATGTGGAGGAGAAGTTA
+CGGTTGGAATGGCCCTACCAGGAGCAATTGCTACTCCGAGAACACTACCAGAAAAAGTTC
+AAGAACAGCACCTACTCAAGAAGCTCTGTAGATGTGCTATACACTTTTGCAAACTGCTCA
+GGACTGGACTTGATCTTTGGCCTAAATGCGTTATTAAGAACAGCAGATTTGCAGTGGAAC
+AGTTCTAATGCTCAGTTGCTCCTGGACTACTGCTCTTCCAAGGGGTATAACATTTCTTGG
+GAACTAGGCAATGAACCTAACAGTTTCCTTAAGAAGGCTGATATTTTCATCAATGGGTCG
+CAGTTAGGAGAAGATTTTATTCAATTGCATAAACTTCTAAGAAAGTCCACCTTCAAAAAT
+GCAAAACTCTATGGTCCTGATGTTGGTCAGCCTCGAAGAAAGACGGCTAAGATGCTGAAG
+AGCTTCCTGAAGGCTGGTGGAGAAGTGATTGATTCAGTTACATGGCATCACTACTATTTG
+AATGGACGGACTGCTACCAAGGAAGATTTTCTAAACCCTGATGTATTGGACATTTTTATT
+TCATCTGTGCAAAAAGTTTTCCAGGTGGTTGAGAGCACCAGGCCTGGCAAGAAGGTCTGG
+TTAGGAGAAACAAGCTCTGCATATGGAGGCGGAGCGCCCTTGCTATCCGACACCTTTGCA
+GCTGGCTTTATGTGGCTGGATAAATTGGGCCTGTCAGCCCGAATGGGAATAGAAGTGGTG
+ATGAGGCAAGTATTCTTTGGAGCAGGAAACTACCATTTAGTGGATGAAAACTTCGATCCT
+TTACCTGATTATTGGCTATCTCTTCTGTTCAAGAAATTGGTGGGCACCAAGGTGTTAATG
+GCAAGCGTGCAAGGTTCAAAGAGAAGGAAGCTTCGAGTATACCTTCATTGCACAAACACT
+GACAATCCAAGGTATAAAGAAGGAGATTTAACTCTGTATGCCATAAACCTCCATAATGTC
+ACCAAGTACTTGCGGTTACCCTATCCTTTTTCTAACAAGCAAGTGGATAAATACCTTCTA
+AGACCTTTGGGACCTCATGGATTACTTTCCAAATCTGTCCAACTCAATGGTCTAACTCTA
+AAGATGGTGGATGATCAAACCTTGCCACCTTTAATGGAAAAACCTCTCCGGCCAGGAAGT
+TCACTGGGCTTGCCAGCTTTCTCATATAGTTTTTTTGTGATAAGAAATGCCAAAGTTGCT
+GCTTGCATCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>543</residue_number>
+    <molecular_weight>61148.17</molecular_weight>
+    <theoretical_pi>9.278</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glyco_hydro_79n</name>
+        <pfam_id>PF03662</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Heparanase
+MLLRSKPALPPPLMLLLLGPLGPLSPGALPRPAQAQDVVDLDFFTQEPLHLVSPSFLSVT
+IDANLATDPRFLILLGSPKLRTLARGLSPAYLRFGGTKTDFLIFDPKKESTFEERSYWQS
+QVNQDICKYGSIPPDVEEKLRLEWPYQEQLLLREHYQKKFKNSTYSRSSVDVLYTFANCS
+GLDLIFGLNALLRTADLQWNSSNAQLLLDYCSSKGYNISWELGNEPNSFLKKADIFINGS
+QLGEDFIQLHKLLRKSTFKNAKLYGPDVGQPRRKTAKMLKSFLKAGGEVIDSVTWHHYYL
+NGRTATKEDFLNPDVLDIFISSVQKVFQVVESTRPGKKVWLGETSSAYGGGAPLLSDTFA
+AGFMWLDKLGLSARMGIEVVMRQVFFGAGNYHLVDENFDPLPDYWLSLLFKKLVGTKVLM
+ASVQGSKRRKLRVYLHCTNTDNPRYKEGDLTLYAINLHNVTKYLRLPYPFSNKQVDKYLL
+RPLGPHGLLSKSVQLNGLTLKMVDDQTLPPLMEKPLRPGSSLGLPAFSYSFFVIRNAKVA
+ACI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>148746204</genbank_protein_id>
+  <uniprot_id>Q9Y251</uniprot_id>
+  <uniprot_name>HPSE_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001098540.1</genbank_gene_id>
+  <genecard_id>HPSE</genecard_id>
+  <geneatlas_id>HPSE</geneatlas_id>
+  <hgnc_id>HGNC:5164</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kussie PH, Hulmes JD, Ludwig DL, Patel S, Navarro EC, Seddon AP, Giorgio NA, Bohlen P: Cloning and functional expression of a human heparanase gene.  Biochem Biophys Res Commun. 1999 Jul 22;261(1):183-7.</reference_text>
+      <pubmed_id>10405343</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Toyoshima M, Nakajima M: Human heparanase. Purification, characterization, cloning, and expression.  J Biol Chem. 1999 Aug 20;274(34):24153-60.</reference_text>
+      <pubmed_id>10446189</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vlodavsky I, Friedmann Y, Elkin M, Aingorn H, Atzmon R, Ishai-Michaeli R, Bitan M, Pappo O, Peretz T, Michal I, Spector L, Pecker I: Mammalian heparanase: gene cloning, expression and function in tumor progression and metastasis. Nat Med. 1999 Jul;5(7):793-802.</reference_text>
+      <pubmed_id>10395325</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hulett MD, Freeman C, Hamdorf BJ, Baker RT, Harris MJ, Parish CR: Cloning of mammalian heparanase, an important enzyme in tumor invasion and metastasis. Nat Med. 1999 Jul;5(7):803-9.</reference_text>
+      <pubmed_id>10395326</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dempsey LA, Plummer TB, Coombes SL, Platt JL: Heparanase expression in invasive trophoblasts and acute vascular damage.  Glycobiology. 2000 May;10(5):467-75.</reference_text>
+      <pubmed_id>10764835</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zcharia E, Metzger S, Chajek-Shaul T, Friedmann Y, Pappo O, Aviv A, Elkin M, Pecker I, Peretz T, Vlodavsky I: Molecular properties and involvement of heparanase in cancer progression and mammary gland morphogenesis. J Mammary Gland Biol Neoplasia. 2001 Jul;6(3):311-22.</reference_text>
+      <pubmed_id>11547900</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McKenzie E, Young K, Hircock M, Bennett J, Bhaman M, Felix R, Turner P, Stamps A, McMillan D, Saville G, Ng S, Mason S, Snell D, Schofield D, Gong H, Townsend R, Gallagher J, Page M, Parekh R, Stubberfield C: Biochemical characterization of the active heterodimer form of human heparanase (Hpa1) protein expressed in insect cells. Biochem J. 2003 Jul 15;373(Pt 2):423-35.</reference_text>
+      <pubmed_id>12713442</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hulett MD, Hornby JR, Ohms SJ, Zuegg J, Freeman C, Gready JE, Parish CR: Identification of active-site residues of the pro-metastatic endoglycosidase heparanase. Biochemistry. 2000 Dec 26;39(51):15659-67.</reference_text>
+      <pubmed_id>11123890</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simizu S, Ishida K, Wierzba MK, Osada H: Secretion of heparanase protein is regulated by glycosylation in human tumor cell lines. J Biol Chem. 2004 Jan 23;279(4):2697-703. Epub 2003 Oct 22.</reference_text>
+      <pubmed_id>14573609</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gingis-Velitski S, Zetser A, Kaplan V, Ben-Zaken O, Cohen E, Levy-Adam F, Bashenko Y, Flugelman MY, Vlodavsky I, Ilan N: Heparanase uptake is mediated by cell membrane heparan sulfate proteoglycans. J Biol Chem. 2004 Oct 15;279(42):44084-92. Epub 2004 Jul 29.</reference_text>
+      <pubmed_id>15292202</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cohen E, Atzmon R, Vlodavsky I, Ilan N: Heparanase processing by lysosomal/endosomal protein preparation.  FEBS Lett. 2005 Apr 25;579(11):2334-8.</reference_text>
+      <pubmed_id>15848168</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Abboud-Jarrous G, Rangini-Guetta Z, Aingorn H, Atzmon R, Elgavish S, Peretz T, Vlodavsky I: Site-directed mutagenesis, proteolytic cleavage, and activation of human proheparanase. J Biol Chem. 2005 Apr 8;280(14):13568-75. Epub 2005 Jan 19.</reference_text>
+      <pubmed_id>15659389</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Levy-Adam F, Abboud-Jarrous G, Guerrini M, Beccati D, Vlodavsky I, Ilan N: Identification and characterization of heparin/heparan sulfate binding domains of the endoglycosidase heparanase. J Biol Chem. 2005 May 27;280(21):20457-66. Epub 2005 Mar 10.</reference_text>
+      <pubmed_id>15760902</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lewandrowski U, Moebius J, Walter U, Sickmann A: Elucidation of N-glycosylation sites on human platelet proteins: a glycoproteomic approach. Mol Cell Proteomics. 2006 Feb;5(2):226-33. Epub 2005 Oct 31.</reference_text>
+      <pubmed_id>16263699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen XP, Liu YB, Rui J, Peng SY, Peng CH, Zhou ZY, Shi LH, Shen HW, Xu B: Heparanase mRNA expression and point mutation in hepatocellular carcinoma.  World J Gastroenterol. 2004 Oct 1;10(19):2795-9.</reference_text>
+      <pubmed_id>15334672</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

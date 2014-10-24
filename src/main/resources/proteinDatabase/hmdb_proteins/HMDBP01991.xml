@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:21 -0700</creation_date>
+  <update_date>2013-01-15 19:01:21 -0700</update_date>
+  <accession>HMDBP01991</accession>
+  <secondary_accessions>
+    <accession>7429</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ABPP</synonym>
+    <synonym>AICD-50</synonym>
+    <synonym>AICD-57</synonym>
+    <synonym>AICD-59</synonym>
+    <synonym>AID(50)</synonym>
+    <synonym>AID(57)</synonym>
+    <synonym>AID(59)</synonym>
+    <synonym>APP</synonym>
+    <synonym>APPI</synonym>
+    <synonym>Alzheimer disease amyloid protein</synonym>
+    <synonym>Amyloid intracellular domain 50</synonym>
+    <synonym>Amyloid intracellular domain 57</synonym>
+    <synonym>Amyloid intracellular domain 59</synonym>
+    <synonym>Beta-APP40</synonym>
+    <synonym>Beta-APP42</synonym>
+    <synonym>Beta-amyloid protein 40</synonym>
+    <synonym>Beta-amyloid protein 42</synonym>
+    <synonym>C31</synonym>
+    <synonym>C80</synonym>
+    <synonym>C83</synonym>
+    <synonym>C99</synonym>
+    <synonym>CVAP</synonym>
+    <synonym>Cerebral vascular amyloid peptide</synonym>
+    <synonym>Gamma-CTF(50)</synonym>
+    <synonym>Gamma-CTF(57)</synonym>
+    <synonym>Gamma-CTF(59)</synonym>
+    <synonym>Gamma-secretase C-terminal fragment 50</synonym>
+    <synonym>Gamma-secretase C-terminal fragment 57</synonym>
+    <synonym>Gamma-secretase C-terminal fragment 59</synonym>
+    <synonym>N-APP</synonym>
+    <synonym>P3(40)</synonym>
+    <synonym>P3(42)</synonym>
+    <synonym>PN-II</synonym>
+    <synonym>PreA4</synonym>
+    <synonym>Protease nexin-II</synonym>
+    <synonym>S-APP-alpha</synonym>
+    <synonym>S-APP-beta</synonym>
+    <synonym>Soluble APP-alpha</synonym>
+    <synonym>Soluble APP-beta</synonym>
+  </synonyms>
+  <gene_name>APP</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>N-APP binds TNFRSF21 triggering caspase activation and degeneration of both neuronal cell bodies (via caspase-3) and axons (via caspase-6)</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00657</accession>
+      <name>Copper</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03125</accession>
+      <name>Hydrogen peroxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01922</accession>
+      <name>Clotrimazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01394</accession>
+      <name>Heparin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>enzyme regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>endopeptidase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>serine-type endopeptidase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>clathrin-coated pit</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:2</chromosome_location>
+    <locus>21q21.2|21q21.3</locus>
+    <gene_sequence>&gt;2313 bp
+ATGCTGCCCGGTTTGGCACTGCTCCTGCTGGCCGCCTGGACGGCTCGGGCGCTGGAGGTA
+CCCACTGATGGTAATGCTGGCCTGCTGGCTGAACCCCAGATTGCCATGTTCTGTGGCAGA
+CTGAACATGCACATGAATGTCCAGAATGGGAAGTGGGATTCAGATCCATCAGGGACCAAA
+ACCTGCATTGATACCAAGGAAGGCATCCTGCAGTATTGCCAAGAAGTCTACCCTGAACTG
+CAGATCACCAATGTGGTAGAAGCCAACCAACCAGTGACCATCCAGAACTGGTGCAAGCGG
+GGCCGCAAGCAGTGCAAGACCCATCCCCACTTTGTGATTCCCTACCGCTGCTTAGTTGGT
+GAGTTTGTAAGTGATGCCCTTCTCGTTCCTGACAAGTGCAAATTCTTACACCAGGAGAGG
+ATGGATGTTTGCGAAACTCATCTTCACTGGCACACCGTCGCCAAAGAGACATGCAGTGAG
+AAGAGTACCAACTTGCATGACTACGGCATGTTGCTGCCCTGCGGAATTGACAAGTTCCGA
+GGGGTAGAGTTTGTGTGTTGCCCACTGGCTGAAGAAAGTGACAATGTGGATTCTGCTGAT
+GCGGAGGAGGATGACTCGGATGTCTGGTGGGGCGGAGCAGACACAGACTATGCAGATGGG
+AGTGAAGACAAAGTAGTAGAAGTAGCAGAGGAGGAAGAAGTGGCTGAGGTGGAAGAAGAA
+GAAGCCGATGATGACGAGGACGATGAGGATGGTGATGAGGTAGAGGAAGAGGCTGAGGAA
+CCCTACGAAGAAGCCACAGAGAGAACCACCAGCATTGCCACCACCACCACCACCACCACA
+GAGTCTGTGGAAGAGGTGGTTCGAGAGGTGTGCTCTGAACAAGCCGAGACGGGGCCGTGC
+CGAGCAATGATCTCCCGCTGGTACTTTGATGTGACTGAAGGGAAGTGTGCCCCATTCTTT
+TACGGCGGATGTGGCGGCAACCGGAACAACTTTGACACAGAAGAGTACTGCATGGCCGTG
+TGTGGCAGCGCCATGTCCCAAAGTTTACTCAAGACTACCCAGGAACCTCTTGCCCGAGAT
+CCTGTTAAACTTCCTACAACAGCAGCCAGTACCCCTGATGCCGTTGACAAGTATCTCGAG
+ACACCTGGGGATGAGAATGAACATGCCCATTTCCAGAAAGCCAAAGAGAGGCTTGAGGCC
+AAGCACCGAGAGAGAATGTCCCAGGTCATGAGAGAATGGGAAGAGGCAGAACGTCAAGCA
+AAGAACTTGCCTAAAGCTGATAAGAAGGCAGTTATCCAGCATTTCCAGGAGAAAGTGGAA
+TCTTTGGAACAGGAAGCAGCCAACGAGAGACAGCAGCTGGTGGAGACACACATGGCCAGA
+GTGGAAGCCATGCTCAATGACCGCCGCCGCCTGGCCCTGGAGAACTACATCACCGCTCTG
+CAGGCTGTTCCTCCTCGGCCTCGTCACGTGTTCAATATGCTAAAGAAGTATGTCCGCGCA
+GAACAGAAGGACAGACAGCACACCCTAAAGCATTTCGAGCATGTGCGCATGGTGGATCCC
+AAGAAAGCCGCTCAGATCCGGTCCCAGGTTATGACACACCTCCGTGTGATTTATGAGCGC
+ATGAATCAGTCTCTCTCCCTGCTCTACAACGTGCCTGCAGTGGCCGAGGAGATTCAGGAT
+GAAGTTGATGAGCTGCTTCAGAAAGAGCAAAACTATTCAGATGACGTCTTGGCCAACATG
+ATTAGTGAACCAAGGATCAGTTACGGAAACGATGCTCTCATGCCATCTTTGACCGAAACG
+AAAACCACCGTGGAGCTCCTTCCCGTGAATGGAGAGTTCAGCCTGGACGATCTCCAGCCG
+TGGCATTCTTTTGGGGCTGACTCTGTGCCAGCCAACACAGAAAACGAAGTTGAGCCTGTT
+GATGCCCGCCCTGCTGCCGACCGAGGACTGACCACTCGACCAGGTTCTGGGTTGACAAAT
+ATCAAGACGGAGGAGATCTCTGAAGTGAAGATGGATGCAGAATTCCGACATGACTCAGGA
+TATGAAGTTCATCATCAAAAATTGGTGTTCTTTGCAGAAGATGTGGGTTCAAACAAAGGT
+GCAATCATTGGACTCATGGTGGGCGGTGTTGTCATAGCGACAGTGATCGTCATCACCTTG
+GTGATGCTGAAGAAGAAACAGTACACATCCATTCATCATGGTGTGGTGGAGGTTGACGCC
+GCTGTCACCCCAGAGGAGCGCCACCTGTCCAAGATGCAGCAGAACGGCTACGAAAATCCA
+ACCTACAAGTTCTTTGAGCAGATGCAGAACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>770</residue_number>
+    <molecular_weight>86942.7</molecular_weight>
+    <theoretical_pi>4.45</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>A4_EXTRA</name>
+        <pfam_id>PF02177</pfam_id>
+      </pfam>
+      <pfam>
+        <name>APP_amyloid</name>
+        <pfam_id>PF10515</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Beta-APP</name>
+        <pfam_id>PF03494</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Kunitz_BPTI</name>
+        <pfam_id>PF00014</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>700-723</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-17</region>
+    </signal_regions>
+    <protein_sequence>&gt;Amyloid beta A4 protein
+MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTK
+TCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVG
+EFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFR
+GVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEE
+EADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPC
+RAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARD
+PVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQA
+KNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITAL
+QAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYER
+MNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTET
+KTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTN
+IKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITL
+VMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4502167</genbank_protein_id>
+  <uniprot_id>P05067</uniprot_id>
+  <uniprot_name>A4_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1RW6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_000484.3</genbank_gene_id>
+  <genecard_id>APP</genecard_id>
+  <geneatlas_id>APP</geneatlas_id>
+  <hgnc_id>HGNC:620</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kang J, Lemaire HG, Unterbeck A, Salbaum JM, Masters CL, Grzeschik KH, Multhaup G, Beyreuther K, Muller-Hill B: The precursor of Alzheimer's disease amyloid A4 protein resembles a cell-surface receptor. Nature. 1987 Feb 19-25;325(6106):733-6.</reference_text>
+      <pubmed_id>2881207</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ponte P, Gonzalez-DeWhitt P, Schilling J, Miller J, Hsu D, Greenberg B, Davis K, Wallace W, Lieberburg I, Fuller F: A new A4 amyloid mRNA contains a domain homologous to serine proteinase inhibitors. Nature. 1988 Feb 11;331(6156):525-7.</reference_text>
+      <pubmed_id>2893289</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lemaire HG, Salbaum JM, Multhaup G, Kang J, Bayney RM, Unterbeck A, Beyreuther K, Muller-Hill B: The PreA4(695) precursor protein of Alzheimer's disease A4 amyloid is encoded by 16 exons. Nucleic Acids Res. 1989 Jan 25;17(2):517-22.</reference_text>
+      <pubmed_id>2783775</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshikai S, Sasaki H, Doh-ura K, Furuya H, Sakaki Y: Genomic organization of the human amyloid beta-protein precursor gene.  Gene. 1990 Mar 15;87(2):257-63.</reference_text>
+      <pubmed_id>2110105</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshikai S, Sasaki H, Doh-ura K, Furuya H, Sakaki Y: Genomic organization of the human-amyloid beta-protein precursor gene.  Gene. 1991 Jun 30;102(2):291-2.</reference_text>
+      <pubmed_id>1908403</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Konig G, Monning U, Czech C, Prior R, Banati R, Schreiter-Gasser U, Bauer J, Masters CL, Beyreuther K: Identification and differential expression of a novel alternative splice isoform of the beta A4 amyloid precursor protein (APP) mRNA in leukocytes and brain microglial cells. J Biol Chem. 1992 May 25;267(15):10804-9.</reference_text>
+      <pubmed_id>1587857</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hattori M, Tsukahara F, Furuhata Y, Tanahashi H, Hirose M, Saito M, Tsukuni S, Sakaki Y: A novel method for making nested deletions and its application for sequencing of a 300 kb region of human APP locus. Nucleic Acids Res. 1997 May 1;25(9):1802-8.</reference_text>
+      <pubmed_id>9108164</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang K, Wang C, Shen C, Sheng S, Ravid R, Jing N: Identification of a novel alternative splicing isoform of human amyloid precursor protein gene, APP639. Eur J Neurosci. 2003 Jul;18(1):102-8.</reference_text>
+      <pubmed_id>12859342</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mita S, Sadlock J, Herbert J, Schon EA: A cDNA specifying the human amyloid beta precursor protein (ABPP) encodes a 95-kDa polypeptide. Nucleic Acids Res. 1988 Oct 11;16(19):9351.</reference_text>
+      <pubmed_id>3140222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>La Fauci G, Lahiri DK, Salton SR, Robakis NK: Characterization of the 5'-end region and the first two exons of the beta-protein precursor gene. Biochem Biophys Res Commun. 1989 Feb 28;159(1):297-304.</reference_text>
+      <pubmed_id>2538123</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Van Nostrand WE, Cunningham DD: Purification of protease nexin II from human fibroblasts.  J Biol Chem. 1987 Jun 25;262(18):8508-14.</reference_text>
+      <pubmed_id>3597385</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tanzi RE, McClatchey AI, Lamperti ED, Villa-Komaroff L, Gusella JF, Neve RL: Protease inhibitor domain encoded by an amyloid protein precursor mRNA associated with Alzheimer's disease. Nature. 1988 Feb 11;331(6156):528-30.</reference_text>
+      <pubmed_id>2893290</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kitaguchi N, Takahashi Y, Tokushima Y, Shiojiri S, Ito H: Novel precursor of Alzheimer's disease amyloid protein shows protease inhibitory activity. Nature. 1988 Feb 11;331(6156):530-2.</reference_text>
+      <pubmed_id>2893291</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zain SB, Salim M, Chou WG, Sajdel-Sulkowska EM, Majocha RE, Marotta CA: Molecular cloning of amyloid cDNA derived from mRNA of the Alzheimer disease brain: coding and noncoding regions of the fetal precursor mRNA are expressed in the cortex. Proc Natl Acad Sci U S A. 1988 Feb;85(3):929-33.</reference_text>
+      <pubmed_id>2893379</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beher D, Hesse L, Masters CL, Multhaup G: Regulation of amyloid protein precursor (APP) binding to collagen and mapping of the binding sites on APP and collagen type I. J Biol Chem. 1996 Jan 19;271(3):1613-20.</reference_text>
+      <pubmed_id>8576160</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Denman RB, Rosenzcwaig R, Miller DL: A system for studying the effect(s) of familial Alzheimer disease mutations on the processing of the beta-amyloid peptide precursor. Biochem Biophys Res Commun. 1993 Apr 15;192(1):96-103.</reference_text>
+      <pubmed_id>8476439</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Johnstone EM, Chaney MO, Moore RE, Ward KE, Norris FH, Little SP: Alzheimer's disease amyloid peptide is encoded by two exons and shows similarity to soybean trypsin inhibitor. Biochem Biophys Res Commun. 1989 Sep 29;163(3):1248-55.</reference_text>
+      <pubmed_id>2675837</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wakutani Y, Watanabe K, Adachi Y, Wada-Isoe K, Urakami K, Ninomiya H, Saido TC, Hashimoto T, Iwatsubo T, Nakashima K: Novel amyloid precursor protein gene missense mutation (D678N) in probable familial Alzheimer's disease. J Neurol Neurosurg Psychiatry. 2004 Jul;75(7):1039-42.</reference_text>
+      <pubmed_id>15201367</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Roher AE, Lowenson JD, Clarke S, Woods AS, Cotter RJ, Gowing E, Ball MJ: beta-Amyloid-(1-42) is a major component of cerebrovascular amyloid deposits: implications for the pathology of Alzheimer disease. Proc Natl Acad Sci U S A. 1993 Nov 15;90(22):10836-40.</reference_text>
+      <pubmed_id>8248178</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seubert P, Vigo-Pelfrey C, Esch F, Lee M, Dovey H, Davis D, Sinha S, Schlossmacher M, Whaley J, Swindlehurst C, et al.: Isolation and quantification of soluble Alzheimer's beta-peptide from biological fluids. Nature. 1992 Sep 24;359(6393):325-7.</reference_text>
+      <pubmed_id>1406936</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wisniewski T, Lalowski M, Levy E, Marques MR, Frangione B: The amino acid sequence of neuritic plaque amyloid from a familial Alzheimer's disease patient. Ann Neurol. 1994 Feb;35(2):245-6.</reference_text>
+      <pubmed_id>8109908</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vigo-Pelfrey C, Lee D, Keim P, Lieberburg I, Schenk DB: Characterization of beta-amyloid peptide from human cerebrospinal fluid.  J Neurochem. 1993 Nov;61(5):1965-8.</reference_text>
+      <pubmed_id>8229004</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pardridge WM, Vinters HV, Yang J, Eisenberg J, Choi TB, Tourtellotte WW, Huebner V, Shively JE: Amyloid angiopathy of Alzheimer's disease: amino acid composition and partial sequence of a 4,200-dalton peptide isolated from cortical microvessels. J Neurochem. 1987 Nov;49(5):1394-401.</reference_text>
+      <pubmed_id>3312495</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goldgaber D, Lerman MI, McBride OW, Saffiotti U, Gajdusek DC: Characterization and chromosomal localization of a cDNA encoding brain amyloid of Alzheimer's disease. Science. 1987 Feb 20;235(4791):877-80.</reference_text>
+      <pubmed_id>3810169</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tanzi RE, Gusella JF, Watkins PC, Bruns GA, St George-Hyslop P, Van Keuren ML, Patterson D, Pagan S, Kurnit DM, Neve RL: Amyloid beta protein gene: cDNA, mRNA distribution, and genetic linkage near the Alzheimer locus. Science. 1987 Feb 20;235(4791):880-4.</reference_text>
+      <pubmed_id>2949367</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun X, He G, Song W: BACE2, as a novel APP theta-secretase, is not responsible for the pathogenesis of Alzheimer's disease in Down syndrome. FASEB J. 2006 Jul;20(9):1369-76.</reference_text>
+      <pubmed_id>16816112</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>de Sauvage F, Octave JN: A novel mRNA of the A4 amyloid precursor gene coding for a possibly secreted protein. Science. 1989 Aug 11;245(4918):651-3.</reference_text>
+      <pubmed_id>2569763</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Robakis NK, Ramakrishna N, Wolfe G, Wisniewski HM: Molecular cloning and characterization of a cDNA encoding the cerebrovascular and the neuritic plaque amyloid peptides. Proc Natl Acad Sci U S A. 1987 Jun;84(12):4190-4.</reference_text>
+      <pubmed_id>3035574</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pangalos MN, Efthimiopoulos S, Shioi J, Robakis NK: The chondroitin sulfate attachment site of appican is formed by splicing out exon 15 of the amyloid precursor gene. J Biol Chem. 1995 May 5;270(18):10388-91.</reference_text>
+      <pubmed_id>7737970</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Walter MF, Mason PE, Mason RP: Alzheimer's disease amyloid beta peptide 25-35 inhibits lipid peroxidation as a result of its membrane interactions. Biochem Biophys Res Commun. 1997 Apr 28;233(3):760-4.</reference_text>
+      <pubmed_id>9168929</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kontush A: Alzheimer's amyloid-beta as a preventive antioxidant for brain lipoproteins. Cell Mol Neurobiol. 2001 Aug;21(4):299-315.</reference_text>
+      <pubmed_id>11775062</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oltersdorf T, Fritz LC, Schenk DB, Lieberburg I, Johnson-Wood KL, Beattie EC, Ward PJ, Blacher RW, Dovey HF, Sinha S: The secreted form of the Alzheimer's amyloid precursor protein with the Kunitz domain is protease nexin-II. Nature. 1989 Sep 14;341(6238):144-7.</reference_text>
+      <pubmed_id>2506449</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kido H, Fukutomi A, Schilling J, Wang Y, Cordell B, Katunuma N: Protease-specificity of Kunitz inhibitor domain of Alzheimer's disease amyloid protein precursor. Biochem Biophys Res Commun. 1990 Mar 16;167(2):716-21.</reference_text>
+      <pubmed_id>1969731</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bush AI, Multhaup G, Moir RD, Williamson TG, Small DH, Rumble B, Pollwein P, Beyreuther K, Masters CL: A novel zinc(II) binding site modulates the function of the beta A4 amyloid protein precursor of Alzheimer's disease. J Biol Chem. 1993 Aug 5;268(22):16109-12.</reference_text>
+      <pubmed_id>8344894</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nishimoto I, Okamoto T, Matsuura Y, Takahashi S, Okamoto T, Murayama Y, Ogata E: Alzheimer amyloid protein precursor complexes with brain GTP-binding protein G(o) Nature. 1993 Mar 4;362(6415):75-9.</reference_text>
+      <pubmed_id>8446172</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hesse L, Beher D, Masters CL, Multhaup G: The beta A4 amyloid precursor protein binding to copper.  FEBS Lett. 1994 Jul 25;349(1):109-16.</reference_text>
+      <pubmed_id>7913895</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Small DH, Nurcombe V, Reed G, Clarris H, Moir R, Beyreuther K, Masters CL: A heparin-binding domain in the amyloid protein precursor of Alzheimer's disease is involved in the regulation of neurite outgrowth. J Neurosci. 1994 Apr;14(4):2117-27.</reference_text>
+      <pubmed_id>8158260</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maruyama K, Tomita T, Shinozaki K, Kume H, Asada H, Saido TC, Ishiura S, Iwatsubo T, Obata K: Familial Alzheimer's disease-linked mutations at Val717 of amyloid precursor protein are specific for the increased secretion of A beta 42(43). Biochem Biophys Res Commun. 1996 Oct 23;227(3):730-5.</reference_text>
+      <pubmed_id>8886002</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chow N, Korenberg JR, Chen XN, Neve RL: APP-BP1, a novel protein that binds to the carboxyl-terminal region of the amyloid precursor protein. J Biol Chem. 1996 May 10;271(19):11339-46.</reference_text>
+      <pubmed_id>8626687</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Borg JP, Ooi J, Levy E, Margolis B: The phosphotyrosine interaction domains of X11 and FE65 bind to distinct sites on the YENPTY motif of amyloid precursor protein. Mol Cell Biol. 1996 Nov;16(11):6229-41.</reference_text>
+      <pubmed_id>8887653</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guenette SY, Chen J, Jondro PD, Tanzi RE: Association of a novel human FE65-like protein with the cytoplasmic domain of the beta-amyloid precursor protein. Proc Natl Acad Sci U S A. 1996 Oct 1;93(20):10832-7.</reference_text>
+      <pubmed_id>8855266</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mok SS, Sberna G, Heffernan D, Cappai R, Galatis D, Clarris HJ, Sawyer WH, Beyreuther K, Masters CL, Small DH: Expression and analysis of heparin-binding regions of the amyloid precursor protein of Alzheimer's disease. FEBS Lett. 1997 Oct 6;415(3):303-7.</reference_text>
+      <pubmed_id>9357988</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yan SD, Fu J, Soto C, Chen X, Zhu H, Al-Mohanna F, Collison K, Zhu A, Stern E, Saido T, Tohyama M, Ogawa S, Roher A, Stern D: An intracellular protein that binds amyloid-beta peptide and mediates neurotoxicity in Alzheimer's disease. Nature. 1997 Oct 16;389(6652):689-95.</reference_text>
+      <pubmed_id>9338779</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zheng P, Eastman J, Vande Pol S, Pimplikar SW: PAT1, a microtubule-interacting protein, recognizes the basolateral sorting signal of amyloid precursor protein. Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14745-50.</reference_text>
+      <pubmed_id>9843960</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu ST, Howlett G, Barrow CJ: Histidine-13 is a crucial residue in the zinc ion-induced aggregation of the A beta peptide of Alzheimer's disease. Biochemistry. 1999 Jul 20;38(29):9373-8.</reference_text>
+      <pubmed_id>10413512</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Varadarajan S, Yatin S, Kanski J, Jahanshahi F, Butterfield DA: Methionine residue 35 is important in amyloid beta-peptide-associated free radical oxidative stress. Brain Res Bull. 1999 Sep 15;50(2):133-41.</reference_text>
+      <pubmed_id>10535332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tomita S, Ozaki T, Taru H, Oguchi S, Takeda S, Yagi Y, Sakiyama S, Kirino Y, Suzuki T: Interaction of a neuron-specific protein containing PDZ domains with Alzheimer's amyloid precursor protein. J Biol Chem. 1999 Jan 22;274(4):2243-54.</reference_text>
+      <pubmed_id>9890987</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perez RG, Soriano S, Hayes JD, Ostaszewski B, Xia W, Selkoe DJ, Chen X, Stokin GB, Koo EH: Mutagenesis identifies new signals for beta-amyloid precursor protein endocytosis, turnover, and the generation of secreted fragments, including Abeta42. J Biol Chem. 1999 Jul 2;274(27):18851-6.</reference_text>
+      <pubmed_id>10383380</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ruiz FH, Gonzalez M, Bodini M, Opazo C, Inestrosa NC: Cysteine 144 is a key residue in the copper reduction by the beta-amyloid precursor protein. J Neurochem. 1999 Sep;73(3):1288-92.</reference_text>
+      <pubmed_id>10461923</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tokuda T, Calero M, Matsubara E, Vidal R, Kumar A, Permanne B, Zlokovic B, Smith JD, Ladu MJ, Rostagno A, Frangione B, Ghiso J: Lipidation of apolipoprotein E influences its isoform-specific interaction with Alzheimer's amyloid beta peptides. Biochem J. 2000 Jun 1;348 Pt 2:359-65.</reference_text>
+      <pubmed_id>10816430</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang HY, Lee DH, D'Andrea MR, Peterson PA, Shank RP, Reitz AB: beta-Amyloid(1-42) binds to alpha7 nicotinic acetylcholine receptor with high affinity. Implications for Alzheimer's disease pathology. J Biol Chem. 2000 Feb 25;275(8):5626-32.</reference_text>
+      <pubmed_id>10681545</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Passer B, Pellegrini L, Russo C, Siegel RM, Lenardo MJ, Schettini G, Bachmann M, Tabaton M, D'Adamio L: Generation of an apoptotic intracellular peptide by gamma-secretase cleavage of Alzheimer's amyloid beta protein precursor. J Alzheimers Dis. 2000 Nov;2(3-4):289-301.</reference_text>
+      <pubmed_id>12214090</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yazawa H, Yu ZX, Takeda, Le Y, Gong W, Ferrans VJ, Oppenheim JJ, Li CC, Wang JM: Beta amyloid peptide (Abeta42) is internalized via the G-protein-coupled receptor FPRL1 and forms fibrillar aggregates in macrophages. FASEB J. 2001 Nov;15(13):2454-62.</reference_text>
+      <pubmed_id>11689470</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kajkowski EM, Lo CF, Ning X, Walker S, Sofia HJ, Wang W, Edris W, Chanda P, Wagner E, Vile S, Ryan K, McHendry-Rinde B, Smith SC, Wood A, Rhodes KJ, Kennedy JD, Bard J, Jacobsen JS, Ozenberger BA: beta -Amyloid peptide-induced apoptosis regulated by a novel protein containing a g protein activation module. J Biol Chem. 2001 Jun 1;276(22):18748-56. Epub 2001 Feb 20.</reference_text>
+      <pubmed_id>11278849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Curtain CC, Ali F, Volitakis I, Cherny RA, Norton RS, Beyreuther K, Barrow CJ, Masters CL, Bush AI, Barnham KJ: Alzheimer's disease amyloid-beta binds copper and zinc to generate an allosterically ordered membrane-penetrating structure containing superoxide dismutase-like subunits. J Biol Chem. 2001 Jun 8;276(23):20466-73. Epub 2001 Mar 27.</reference_text>
+      <pubmed_id>11274207</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scheuermann S, Hambsch B, Hesse L, Stumm J, Schmidt C, Beher D, Bayer TA, Beyreuther K, Multhaup G: Homodimerization of amyloid precursor protein and its implication in the amyloidogenic pathway of Alzheimer's disease. J Biol Chem. 2001 Sep 7;276(36):33923-9. Epub 2001 Jul 3.</reference_text>
+      <pubmed_id>11438549</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kimberly WT, Zheng JB, Guenette SY, Selkoe DJ: The intracellular domain of the beta-amyloid precursor protein is stabilized by Fe65 and translocates to the nucleus in a notch-like manner. J Biol Chem. 2001 Oct 26;276(43):40288-92. Epub 2001 Sep 5.</reference_text>
+      <pubmed_id>11544248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohsawa I, Takamura C, Kohsaka S: Fibulin-1 binds the amino-terminal head of beta-amyloid precursor protein and modulates its physiological function. J Neurochem. 2001 Mar;76(5):1411-20.</reference_text>
+      <pubmed_id>11238726</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rank KB, Pauley AM, Bhattacharya K, Wang Z, Evans DB, Fleck TJ, Johnston JA, Sharma SK: Direct interaction of soluble human recombinant tau protein with Abeta 1-42 results in tau aggregation and hyperphosphorylation by tau protein kinase II. FEBS Lett. 2002 Mar 13;514(2-3):263-8.</reference_text>
+      <pubmed_id>11943163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scheinfeld MH, Roncarati R, Vito P, Lopez PA, Abdallah M, D'Adamio L: Jun NH2-terminal kinase (JNK) interacting protein 1 (JIP1) binds the cytoplasmic domain of the Alzheimer's beta-amyloid precursor protein (APP). J Biol Chem. 2002 Feb 1;277(5):3767-75. Epub 2001 Nov 27.</reference_text>
+      <pubmed_id>11724784</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>White AR, Multhaup G, Galatis D, McKinstry WJ, Parker MW, Pipkorn R, Beyreuther K, Masters CL, Cappai R: Contrasting, species-dependent modulation of copper-mediated neurotoxicity by the Alzheimer's disease amyloid precursor protein. J Neurosci. 2002 Jan 15;22(2):365-76.</reference_text>
+      <pubmed_id>11784781</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bush AI, Tanzi RE: The galvanization of beta-amyloid in Alzheimer's disease.  Proc Natl Acad Sci U S A. 2002 May 28;99(11):7317-9.</reference_text>
+      <pubmed_id>12032279</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ghersi E, Noviello C, D'Adamio L: Amyloid-beta protein precursor (AbetaPP) intracellular domain-associated protein-1 proteins bind to AbetaPP and modulate its processing in an isoform-specific manner. J Biol Chem. 2004 Nov 19;279(47):49105-12. Epub 2004 Sep 3.</reference_text>
+      <pubmed_id>15347684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Suzuki T, Oishi M, Marshak DR, Czernik AJ, Nairn AC, Greengard P: Cell cycle-dependent regulation of the phosphorylation and metabolism of the Alzheimer amyloid precursor protein. EMBO J. 1994 Mar 1;13(5):1114-22.</reference_text>
+      <pubmed_id>8131745</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Walter J, Capell A, Hung AY, Langen H, Schnolzer M, Thinakaran G, Sisodia SS, Selkoe DJ, Haass C: Ectodomain phosphorylation of beta-amyloid precursor protein at two distinct cellular locations. J Biol Chem. 1997 Jan 17;272(3):1896-903.</reference_text>
+      <pubmed_id>8999878</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Multhaup G, Ruppert T, Schlicksupp A, Hesse L, Bill E, Pipkorn R, Masters CL, Beyreuther K: Copper-binding amyloid precursor protein undergoes a site-specific fragmentation in the reduction of hydrogen peroxide. Biochemistry. 1998 May 19;37(20):7224-30.</reference_text>
+      <pubmed_id>9585534</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gervais FG, Xu D, Robertson GS, Vaillancourt JP, Zhu Y, Huang J, LeBlanc A, Smith D, Rigby M, Shearman MS, Clarke EE, Zheng H, Van Der Ploeg LH, Ruffolo SC, Thornberry NA, Xanthoudakis S, Zamboni RJ, Roy S, Nicholson DW: Involvement of caspases in proteolytic cleavage of Alzheimer's amyloid-beta precursor protein and amyloidogenic A beta peptide formation. Cell. 1999 Apr 30;97(3):395-406.</reference_text>
+      <pubmed_id>10319819</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ando K, Oishi M, Takeda S, Iijima K, Isohara T, Nairn AC, Kirino Y, Greengard P, Suzuki T: Role of phosphorylation of Alzheimer's amyloid precursor protein during neuronal differentiation. J Neurosci. 1999 Jun 1;19(11):4421-7.</reference_text>
+      <pubmed_id>10341243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Walter J, Schindzielorz A, Hartung B, Haass C: Phosphorylation of the beta-amyloid precursor protein at the cell surface by ectocasein kinases 1 and 2. J Biol Chem. 2000 Aug 4;275(31):23523-9.</reference_text>
+      <pubmed_id>10806211</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lu DC, Rabizadeh S, Chandra S, Shayya RF, Ellerby LM, Ye X, Salvesen GS, Koo EH, Bredesen DE: A second cytotoxic proteolytic peptide derived from amyloid beta-protein precursor. Nat Med. 2000 Apr;6(4):397-404.</reference_text>
+      <pubmed_id>10742146</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ando K, Iijima KI, Elliott JI, Kirino Y, Suzuki T: Phosphorylation-dependent regulation of the interaction of amyloid precursor protein with Fe65 affects the production of beta-amyloid. J Biol Chem. 2001 Oct 26;276(43):40353-61. Epub 2001 Aug 21.</reference_text>
+      <pubmed_id>11517218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Standen CL, Brownlees J, Grierson AJ, Kesavapany S, Lau KF, McLoughlin DM, Miller CC: Phosphorylation of thr(668) in the cytoplasmic domain of the Alzheimer's disease amyloid precursor protein by stress-activated protein kinase 1b (Jun N-terminal kinase-3). J Neurochem. 2001 Jan;76(1):316-20.</reference_text>
+      <pubmed_id>11146006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Weidemann A, Eggert S, Reinhard FB, Vogel M, Paliga K, Baier G, Masters CL, Beyreuther K, Evin G: A novel epsilon-cleavage within the transmembrane domain of the Alzheimer amyloid precursor protein demonstrates homology with Notch processing. Biochemistry. 2002 Feb 26;41(8):2825-35.</reference_text>
+      <pubmed_id>11851430</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tarr PE, Roncarati R, Pelicci G, Pelicci PG, D'Adamio L: Tyrosine phosphorylation of the beta-amyloid precursor protein cytoplasmic tail promotes interaction with Shc. J Biol Chem. 2002 May 10;277(19):16798-804. Epub 2002 Mar 4.</reference_text>
+      <pubmed_id>11877420</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dyrks T, Weidemann A, Multhaup G, Salbaum JM, Lemaire HG, Kang J, Muller-Hill B, Masters CL, Beyreuther K: Identification, transmembrane orientation and biogenesis of the amyloid A4 precursor of Alzheimer's disease. EMBO J. 1988 Apr;7(4):949-57.</reference_text>
+      <pubmed_id>2900137</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Annaert W, De Strooper B: A cell biological perspective on Alzheimer's disease.  Annu Rev Cell Dev Biol. 2002;18:25-51. Epub 2002 Apr 2.</reference_text>
+      <pubmed_id>12142279</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakaya T, Kawai T, Suzuki T: Regulation of FE65 nuclear translocation and function by amyloid beta-protein precursor in osmotically stressed cells. J Biol Chem. 2008 Jul 4;283(27):19119-31. Epub 2008 May 9.</reference_text>
+      <pubmed_id>18468999</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuda S, Matsuda Y, D'Adamio L: BRI3 inhibits amyloid precursor protein processing in a mechanistically distinct manner from its homologue dementia gene BRI2. J Biol Chem. 2009 Jun 5;284(23):15815-25. Epub 2009 Apr 14.</reference_text>
+      <pubmed_id>19366692</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heibeck TH, Ding SJ, Opresko LK, Zhao R, Schepmoes AA, Yang F, Tolmachev AV, Monroe ME, Camp DG 2nd, Smith RD, Wiley HS, Qian WJ: An extensive survey of tyrosine phosphorylation revealing new sites in human mammary epithelial cells. J Proteome Res. 2009 Aug;8(8):3852-61.</reference_text>
+      <pubmed_id>19534553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nikolaev A, McLaughlin T, O'Leary DD, Tessier-Lavigne M: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases. Nature. 2009 Feb 19;457(7232):981-9.</reference_text>
+      <pubmed_id>19225519</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takuma K, Fang F, Zhang W, Yan S, Fukuzaki E, Du H, Sosunov A, McKhann G, Funatsu Y, Nakamichi N, Nagai T, Mizoguchi H, Ibi D, Hori O, Ogawa S, Stern DM, Yamada K, Yan SS: RAGE-mediated signaling contributes to intraneuronal transport of amyloid-beta and neuronal dysfunction. Proc Natl Acad Sci U S A. 2009 Nov 24;106(47):20021-6. Epub 2009 Nov 9.</reference_text>
+      <pubmed_id>19901339</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hynes TR, Randal M, Kennedy LA, Eigenbrot C, Kossiakoff AA: X-ray crystal structure of the protease inhibitor domain of Alzheimer's amyloid beta-protein precursor. Biochemistry. 1990 Oct 30;29(43):10018-22.</reference_text>
+      <pubmed_id>2125487</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heald SL, Tilton RF Jr, Hammond LJ, Lee A, Bayney RM, Kamarck ME, Ramabhadran TV, Dreyer RN, Davis G, Unterbeck A, et al.: Sequential NMR resonance assignment and structure determination of the Kunitz-type inhibitor domain of the Alzheimer's beta-amyloid precursor protein. Biochemistry. 1991 Oct 29;30(43):10467-78.</reference_text>
+      <pubmed_id>1718421</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Talafous J, Marcinowski KJ, Klopman G, Zagorski MG: Solution structure of residues 1-28 of the amyloid beta-peptide.  Biochemistry. 1994 Jun 28;33(25):7788-96.</reference_text>
+      <pubmed_id>7516706</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sticht H, Bayer P, Willbold D, Dames S, Hilbich C, Beyreuther K, Frank RW, Rosch P: Structure of amyloid A4-(1-40)-peptide of Alzheimer's disease.  Eur J Biochem. 1995 Oct 1;233(1):293-8.</reference_text>
+      <pubmed_id>7588758</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kohno T, Kobayashi K, Maeda T, Sato K, Takashima A: Three-dimensional structures of the amyloid beta peptide (25-35) in membrane-mimicking environment. Biochemistry. 1996 Dec 17;35(50):16094-104.</reference_text>
+      <pubmed_id>8973180</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scheidig AJ, Hynes TR, Pelletier LA, Wells JA, Kossiakoff AA: Crystal structures of bovine chymotrypsin and trypsin complexed to the inhibitor domain of Alzheimer's amyloid beta-protein precursor (APPI) and basic pancreatic trypsin inhibitor (BPTI): engineering of inhibitors with altered specificities. Protein Sci. 1997 Sep;6(9):1806-24.</reference_text>
+      <pubmed_id>9300481</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Coles M, Bicknell W, Watson AA, Fairlie DP, Craik DJ: Solution structure of amyloid beta-peptide(1-40) in a water-micelle environment. Is the membrane-spanning domain where we think it is? Biochemistry. 1998 Aug 4;37(31):11064-77.</reference_text>
+      <pubmed_id>9693002</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rossjohn J, Cappai R, Feil SC, Henry A, McKinstry WJ, Galatis D, Hesse L, Multhaup G, Beyreuther K, Masters CL, Parker MW: Crystal structure of the N-terminal, growth factor-like domain of Alzheimer amyloid precursor protein. Nat Struct Biol. 1999 Apr;6(4):327-31.</reference_text>
+      <pubmed_id>10201399</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Miravalle L, Tokuda T, Chiarle R, Giaccone G, Bugiani O, Tagliavini F, Frangione B, Ghiso J: Substitutions at codon 22 of Alzheimer's abeta peptide induce diverse conformational changes and apoptotic effects in human cerebral endothelial cells. J Biol Chem. 2000 Sep 1;275(35):27110-6.</reference_text>
+      <pubmed_id>10821838</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang S, Iwata K, Lachenmann MJ, Peng JW, Li S, Stimson ER, Lu Y, Felix AM, Maggio JE, Lee JP: The Alzheimer's peptide a beta adopts a collapsed coil structure in water.  J Struct Biol. 2000 Jun;130(2-3):130-41.</reference_text>
+      <pubmed_id>10940221</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Poulsen SA, Watson AA, Fairlie DP, Craik DJ: Solution structures in aqueous SDS micelles of two amyloid beta peptides of A beta(1-28) mutated at the alpha-secretase cleavage site (K16E, K16F). J Struct Biol. 2000 Jun;130(2-3):142-52.</reference_text>
+      <pubmed_id>10940222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Ha Y: The X-ray structure of an antiparallel dimer of the human amyloid precursor protein E2 domain. Mol Cell. 2004 Aug 13;15(3):343-53.</reference_text>
+      <pubmed_id>15304215</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shen Y, Joachimiak A, Rosner MR, Tang WJ: Structures of human insulin-degrading enzyme reveal a new substrate recognition mechanism. Nature. 2006 Oct 19;443(7113):870-4. Epub 2006 Oct 11.</reference_text>
+      <pubmed_id>17051221</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kong GK, Adams JJ, Cappai R, Parker MW: Structure of Alzheimer's disease amyloid precursor protein copper-binding domain at atomic resolution. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2007 Oct 1;63(Pt       10):819-24. Epub 2007 Sep 19.</reference_text>
+      <pubmed_id>17909280</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kong GK, Adams JJ, Harris HH, Boas JF, Curtain CC, Galatis D, Masters CL, Barnham KJ, McKinstry WJ, Cappai R, Parker MW: Structural studies of the Alzheimer's amyloid precursor protein copper-binding domain reveal how it binds copper ions. J Mol Biol. 2007 Mar 16;367(1):148-61. Epub 2006 Dec 21.</reference_text>
+      <pubmed_id>17239395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gardberg AS, Dice LT, Ou S, Rich RL, Helmbrecht E, Ko J, Wetzel R, Myszka DG, Patterson PH, Dealwis C: Molecular basis for passive immunotherapy of Alzheimer's disease.  Proc Natl Acad Sci U S A. 2007 Oct 2;104(40):15659-64. Epub 2007 Sep 25.</reference_text>
+      <pubmed_id>17895381</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Basi GS, Feinberg H, Oshidari F, Anderson J, Barbour R, Baker J, Comery TA, Diep L, Gill D, Johnson-Wood K, Goel A, Grantcharova K, Lee M, Li J, Partridge A, Griswold-Prenner I, Piot N, Walker D, Widom A, Pangalos MN, Seubert P, Jacobsen JS, Schenk D, Weis WI: Structural correlates of antibodies associated with acute reversal of amyloid beta-related behavioral deficits in a mouse model of Alzheimer disease. J Biol Chem. 2010 Jan 29;285(5):3417-27. Epub 2009 Nov 18.</reference_text>
+      <pubmed_id>19923222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dahms SO, Hoefgen S, Roeser D, Schlott B, Guhrs KH, Than ME: Structure and biochemical analysis of the heparin-induced E1 dimer of the amyloid precursor protein. Proc Natl Acad Sci U S A. 2010 Mar 23;107(12):5381-6. Epub 2010 Mar 8.</reference_text>
+      <pubmed_id>20212142</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hardy J: Framing beta-amyloid.  Nat Genet. 1992 Jul;1(4):233-4.</reference_text>
+      <pubmed_id>1363811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Levy E, Carman MD, Fernandez-Madrid IJ, Power MD, Lieberburg I, van Duinen SG, Bots GT, Luyendijk W, Frangione B: Mutation of the Alzheimer's disease amyloid gene in hereditary cerebral hemorrhage, Dutch type. Science. 1990 Jun 1;248(4959):1124-6.</reference_text>
+      <pubmed_id>2111584</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goate A, Chartier-Harlin MC, Mullan M, Brown J, Crawford F, Fidani L, Giuffra L, Haynes A, Irving N, James L, et al.: Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease. Nature. 1991 Feb 21;349(6311):704-6.</reference_text>
+      <pubmed_id>1671712</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshioka K, Miki T, Katsuya T, Ogihara T, Sakaki Y: The 717Val----Ile substitution in amyloid precursor protein is associated with familial Alzheimer's disease regardless of ethnic groups. Biochem Biophys Res Commun. 1991 Aug 15;178(3):1141-6.</reference_text>
+      <pubmed_id>1908231</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Naruse S, Igarashi S, Kobayashi H, Aoki K, Inuzuka T, Kaneko K, Shimizu T, Iihara K, Kojima T, Miyatake T, et al.: Mis-sense mutation Val----Ile in exon 17 of amyloid precursor protein gene in Japanese familial Alzheimer's disease. Lancet. 1991 Apr 20;337(8747):978-9.</reference_text>
+      <pubmed_id>1678058</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chartier-Harlin MC, Crawford F, Houlden H, Warren A, Hughes D, Fidani L, Goate A, Rossor M, Roques P, Hardy J, et al.: Early-onset Alzheimer's disease caused by mutations at codon 717 of the beta-amyloid precursor protein gene. Nature. 1991 Oct 31;353(6347):844-6.</reference_text>
+      <pubmed_id>1944558</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murrell J, Farlow M, Ghetti B, Benson MD: A mutation in the amyloid precursor protein associated with hereditary Alzheimer's disease. Science. 1991 Oct 4;254(5028):97-9.</reference_text>
+      <pubmed_id>1925564</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kamino K, Orr HT, Payami H, Wijsman EM, Alonso ME, Pulst SM, Anderson L, O'dahl S, Nemens E, White JA, et al.: Linkage and mutational analysis of familial Alzheimer disease kindreds for the APP gene region. Am J Hum Genet. 1992 Nov;51(5):998-1014.</reference_text>
+      <pubmed_id>1415269</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hendriks L, van Duijn CM, Cras P, Cruts M, Van Hul W, van Harskamp F, Warren A, McInnis MG, Antonarakis SE, Martin JJ, et al.: Presenile dementia and cerebral haemorrhage linked to a mutation at codon 692 of the beta-amyloid precursor protein gene. Nat Genet. 1992 Jun;1(3):218-21.</reference_text>
+      <pubmed_id>1303239</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mullan M, Crawford F, Axelman K, Houlden H, Lilius L, Winblad B, Lannfelt L: A pathogenic mutation for probable Alzheimer's disease in the APP gene at the N-terminus of beta-amyloid. Nat Genet. 1992 Aug;1(5):345-7.</reference_text>
+      <pubmed_id>1302033</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jones CT, Morris S, Yates CM, Moffoot A, Sharpe C, Brock DJ, St Clair D: Mutation in codon 713 of the beta amyloid precursor protein gene presenting with schizophrenia. Nat Genet. 1992 Jul;1(4):306-9.</reference_text>
+      <pubmed_id>1307241</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Carter DA, Desmarais E, Bellis M, Campion D, Clerget-Darpoux F, Brice A, Agid Y, Jaillard-Serradt A, Mallet J: More missense in amyloid gene.  Nat Genet. 1992 Dec;2(4):255-6.</reference_text>
+      <pubmed_id>1303275</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liepnieks JJ, Ghetti B, Farlow M, Roses AD, Benson MD: Characterization of amyloid fibril beta-peptide in familial Alzheimer's disease with APP717 mutations. Biochem Biophys Res Commun. 1993 Dec 15;197(2):386-92.</reference_text>
+      <pubmed_id>8267572</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Peacock ML, Murman DL, Sima AA, Warren JT Jr, Roses AD, Fink JK: Novel amyloid precursor protein gene mutation (codon 665Asp) in a patient with late-onset Alzheimer's disease. Ann Neurol. 1994 Apr;35(4):432-8.</reference_text>
+      <pubmed_id>8154870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Farlow M, Murrell J, Ghetti B, Unverzagt F, Zeldenrust S, Benson M: Clinical characteristics in a kindred with early-onset Alzheimer's disease and their linkage to a G--&amp;gt;T change at position 2149 of the amyloid precursor protein gene. Neurology. 1994 Jan;44(1):105-11.</reference_text>
+      <pubmed_id>8290042</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brooks WS, Martins RN, De Voecht J, Nicholson GA, Schofield PR, Kwok JB, Fisher C, Yeung LU, Van Broeckhoven C: A mutation in codon 717 of the amyloid precursor protein gene in an Australian family with Alzheimer's disease. Neurosci Lett. 1995 Oct 27;199(3):183-6.</reference_text>
+      <pubmed_id>8577393</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eckman CB, Mehta ND, Crook R, Perez-tur J, Prihar G, Pfeiffer E, Graff-Radford N, Hinder P, Yager D, Zenk B, Refolo LM, Prada CM, Younkin SG, Hutton M, Hardy J: A new pathogenic mutation in the APP gene (I716V) increases the relative proportion of A beta 42(43). Hum Mol Genet. 1997 Nov;6(12):2087-9.</reference_text>
+      <pubmed_id>9328472</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cras P, van Harskamp F, Hendriks L, Ceuterick C, van Duijn CM, Stefanko SZ, Hofman A, Kros JM, Van Broeckhoven C, Martin JJ: Presenile Alzheimer dementia characterized by amyloid angiopathy and large amyloid core type senile plaques in the APP 692Ala--&amp;gt;Gly mutation. Acta Neuropathol (Berl). 1998 Sep;96(3):253-60.</reference_text>
+      <pubmed_id>9754958</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ancolio K, Dumanchin C, Barelli H, Warter JM, Brice A, Campion D, Frebourg T, Checler F: Unusual phenotypic alteration of beta amyloid precursor protein (betaAPP) maturation by a new Val-715 --&amp;gt; Met betaAPP-770 mutation responsible for probable early-onset Alzheimer's disease. Proc Natl Acad Sci U S A. 1999 Mar 30;96(7):4119-24.</reference_text>
+      <pubmed_id>10097173</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Finckh U, Muller-Thomsen T, Mann U, Eggers C, Marksteiner J, Meins W, Binetti G, Alberici A, Hock C, Nitsch RM, Gal A: High prevalence of pathogenic mutations in patients with early-onset dementia detected by sequence analyses of four different genes. Am J Hum Genet. 2000 Jan;66(1):110-7.</reference_text>
+      <pubmed_id>10631141</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kwok JB, Li QX, Hallupp M, Whyte S, Ames D, Beyreuther K, Masters CL, Schofield PR: Novel Leu723Pro amyloid precursor protein mutation increases amyloid beta42(43) peptide levels and induces apoptosis. Ann Neurol. 2000 Feb;47(2):249-53.</reference_text>
+      <pubmed_id>10665499</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murrell JR, Hake AM, Quaid KA, Farlow MR, Ghetti B: Early-onset Alzheimer disease caused by a new mutation (V717L) in the amyloid precursor protein gene. Arch Neurol. 2000 Jun;57(6):885-7.</reference_text>
+      <pubmed_id>10867787</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kumar-Singh S, De Jonghe C, Cruts M, Kleinert R, Wang R, Mercken M, De Strooper B, Vanderstichele H, Lofgren A, Vanderhoeven I, Backhovens H, Vanmechelen E, Kroisel PM, Van Broeckhoven C: Nonfibrillar diffuse amyloid deposition due to a gamma(42)-secretase site mutation points to an essential role for N-truncated A beta(42) in Alzheimer's disease. Hum Mol Genet. 2000 Nov 1;9(18):2589-98.</reference_text>
+      <pubmed_id>11063718</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grabowski TJ, Cho HS, Vonsattel JP, Rebeck GW, Greenberg SM: Novel amyloid precursor protein mutation in an Iowa family with dementia and severe cerebral amyloid angiopathy. Ann Neurol. 2001 Jun;49(6):697-705.</reference_text>
+      <pubmed_id>11409420</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Walsh DM, Hartley DM, Condron MM, Selkoe DJ, Teplow DB: In vitro studies of amyloid beta-protein fibril assembly and toxicity provide clues to the aetiology of Flemish variant (Ala692--&amp;gt;Gly) Alzheimer's disease. Biochem J. 2001 May 1;355(Pt 3):869-77.</reference_text>
+      <pubmed_id>11311152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nilsberth C, Westlind-Danielsson A, Eckman CB, Condron MM, Axelman K, Forsell C, Stenh C, Luthman J, Teplow DB, Younkin SG, Naslund J, Lannfelt L: The 'Arctic' APP mutation (E693G) causes Alzheimer's disease by enhanced Abeta protofibril formation. Nat Neurosci. 2001 Sep;4(9):887-93.</reference_text>
+      <pubmed_id>11528419</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pasalar P, Najmabadi H, Noorian AR, Moghimi B, Jannati A, Soltanzadeh A, Krefft T, Crook R, Hardy J: An Iranian family with Alzheimer's disease caused by a novel APP mutation (Thr714Ala). Neurology. 2002 May 28;58(10):1574-5.</reference_text>
+      <pubmed_id>12034808</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenberg SM, Shin Y, Grabowski TJ, Cooper GE, Rebeck GW, Iglesias S, Chapon F, Tournier-Lasserve E, Baron JC: Hemorrhagic stroke associated with the Iowa amyloid precursor protein mutation. Neurology. 2003 Mar 25;60(6):1020-2.</reference_text>
+      <pubmed_id>12654973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rossi G, Giaccone G, Maletta R, Morbin M, Capobianco R, Mangieri M, Giovagnoli AR, Bizzi A, Tomaino C, Perri M, Di Natale M, Tagliavini F, Bugiani O, Bruni AC: A family with Alzheimer disease and strokes associated with A713T mutation of the APP gene. Neurology. 2004 Sep 14;63(5):910-2.</reference_text>
+      <pubmed_id>15365148</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Obici L, Demarchi A, de Rosa G, Bellotti V, Marciano S, Donadei S, Arbustini E, Palladini G, Diegoli M, Genovese E, Ferrari G, Coverlizza S, Merlini G: A novel AbetaPP mutation exclusively associated with cerebral amyloid angiopathy. Ann Neurol. 2005 Oct;58(4):639-44.</reference_text>
+      <pubmed_id>16178030</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Edwards-Lee T, Ringman JM, Chung J, Werner J, Morgan A, St George Hyslop P, Thompson P, Dutton R, Mlikotic A, Rogaeva E, Hardy J: An African American family with early-onset Alzheimer disease and an APP (T714I) mutation. Neurology. 2005 Jan 25;64(2):377-9.</reference_text>
+      <pubmed_id>15668448</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

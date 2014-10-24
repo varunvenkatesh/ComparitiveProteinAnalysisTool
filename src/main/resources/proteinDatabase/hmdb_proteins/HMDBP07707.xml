@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:01:48 -0700</creation_date>
+  <update_date>2013-01-15 20:01:48 -0700</update_date>
+  <accession>HMDBP07707</accession>
+  <secondary_accessions>
+    <accession>13416</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>G-protein coupled receptor 51</synonym>
+    <synonym>GABA-B receptor 2</synonym>
+    <synonym>GABA-B-R2</synonym>
+    <synonym>GABA-BR2</synonym>
+    <synonym>GABABR2</synonym>
+    <synonym>Gb2</synonym>
+    <synonym>HG20</synonym>
+  </synonyms>
+  <gene_name>GABBR2</gene_name>
+  <general_function>Involved in G-protein coupled receptor activity</general_function>
+  <specific_function>Receptor for GABA. The activity of this receptor is mediated by G-proteins that inhibit adenylyl cyclase activity, stimulates phospholipase A2, activates potassium channels, inactivates voltage-dependent calcium-channels and modulates inositol phospholipids hydrolysis. Plays a critical role in the fine-tuning of inhibitory synaptic transmission. Pre-synaptic GABA-B-R inhibit neurotransmitter release by down-regulating high- voltage activated calcium channels, whereas postsynaptic GABA-B-R decrease neuronal excitability by activating a prominent inwardly rectifying potassium (Kir) conductance that underlies the late inhibitory postsynaptic potentials. Not only implicated in synaptic inhibition but also in hippocampal long-term potentiation, slow wave sleep, muscle relaxation and antinociception</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00112</accession>
+      <name>Gamma-Aminobutyric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14327</accession>
+      <name>Baclofen</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>glutamate receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>gaba-b receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>g-protein coupled receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell surface receptor linked signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>g-protein coupled receptor protein signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+    <subcellular_location>Cell junction</subcellular_location>
+    <subcellular_location>synapse</subcellular_location>
+    <subcellular_location>postsynaptic cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:9</chromosome_location>
+    <locus>9q22.1-q22.3</locus>
+    <gene_sequence>&gt;2826 bp
+ATGGCTTCCCCGCGGAGCTCCGGGCAGCCCGGGCCGCCGCCGCCGCCGCCACCGCCGCCC
+GCGCGCCTGCTACTGCTACTGCTGCTGCCGCTGCTGCTGCCTCTGGCGCCCGGGGCCTGG
+GGCTGGGCGCGGGGCGCCCCCCGGCCGCCGCCCAGCAGCCCGCCGCTCTCCATCATGGGC
+CTCATGCCGCTCACCAAGGAGGTGGCCAAGGGCAGCATCGGGCGCGGTGTGCTCCCCGCC
+GTGGAACTGGCCATCGAGCAGATCCGCAACGAGTCACTCCTGCGCCCCTACTTCCTCGAC
+CTGCGGCTCTATGACACGGAGTGCGACAACGCAAAAGGGTTGAAAGCCTTCTACGATGCA
+ATAAAATACGGGCCTAACCACTTGATGGTGTTTGGAGGCGTCTGTCCATCCGTCACATCC
+ATCATTGCAGAGTCCCTCCAAGGCTGGAATCTGGTGCAGCTTTCTTTTGCTGCAACCACG
+CCTGTTCTAGCCGATAAGAAAAAATACCCTTATTTCTTTCGGACCGTCCCATCAGACAAT
+GCGGTGAATCCAGCCATTCTGAAGTTGCTCAAGCACTACCAGTGGAAGCGCGTGGGCACG
+CTGACGCAAGACGTTCAGAGGTTCTCTGAGGTGCGGAATGACCTGACTGGAGTTCTGTAT
+GGCGAGGACATTGAGATTTCAGACACCGAGAGCTTCTCCAACGATCCCTGTACCAGTGTC
+AAAAAGCTGAAGGGGAATGATGTGCGGATCATCCTTGGCCAGTTTGACCAGAATATGGCA
+GCAAAAGTGTTCTGTTGTGCATACGAGGAGAACATGTATGGTAGTAAATATCAGTGGATC
+ATTCCGGGCTGGTACGAGCCTTCTTGGTGGGAGCAGGTGCACACGGAAGCCAACTCATCC
+CGCTGCCTCCGGAAGAATCTGCTTGCTGCCATGGAGGGCTACATTGGCGTGGATTTCGAG
+CCCCTGAGCTCCAAGCAGATCAAGACCATCTCAGGAAAGACTCCACAGCAGTATGAGAGA
+GAGTACAACAACAAGCGGTCAGGCGTGGGGCCCAGCAAGTTCCACGGGTACGCCTACGAT
+GGCATCTGGGTCATCGCCAAGACACTGCAGAGGGCCATGGAGACACTGCATGCCAGCAGC
+CGGCACCAGCGGATCCAGGACTTCAACTACACGGACCACACGCTGGGCAGGATCATCCTC
+AATGCCATGAACGAGACCAACTTCTTCGGGGTCACGGGTCAAGTTGTATTCCGGAATGGG
+GAGAGAATGGGGACCATTAAATTTACTCAATTTCAAGACAGCAGGGAGGTGAAGGTGGGA
+GAGTACAACGCTGTGGCCGACACACTGGAGATCATCAATGACACCATCAGGTTCCAAGGA
+TCCGAACCACCAAAAGACAAGACCATCATCCTGGAGCAGCTGCGGAAGATCTCCCTACCT
+CTCTACAGCATCCTCTCTGCCCTCACCATCCTCGGGATGATCATGGCCAGTGCTTTTCTC
+TTCTTCAACATCAAGAACCGGAATCAGAAGCTCATAAAGATGTCGAGTCCATACATGAAC
+AACCTTATCATCCTTGGAGGGATGCTCTCCTATGCTTCCATATTTCTCTTTGGCCTTGAT
+GGATCCTTTGTCTCTGAAAAGACCTTTGAAACACTTTGCACCGTCAGGACCTGGATTCTC
+ACCGTGGGCTACACGACCGCTTTTGGGGCCATGTTTGCAAAGACCTGGAGAGTCCACGCC
+ATCTTCAAAAATGTGAAAATGAAGAAGAAGATCATCAAGGACCAGAAACTGCTTGTGATC
+GTGGGGGGCATGCTGCTGATCGACCTGTGTATCCTGATCTGCTGGCAGGCTGTGGACCCC
+CTGCGAAGGACAGTGGAGAAGTACAGCATGGAGCCGGACCCAGCAGGACGGGATATCTCC
+ATCCGCCCTCTCCTGGAGCACTGTGAGAACACCCATATGACCATCTGGCTTGGCATCGTC
+TATGCCTACAAGGGACTTCTCATGTTGTTCGGTTGTTTCTTAGCTTGGGAGACCCGCAAC
+GTCAGCATCCCCGCACTCAACGACAGCAAGTACATCGGGATGAGTGTCTACAACGTGGGG
+ATCATGTGCATCATCGGGGCCGCTGTCTCCTTCCTGACCCGGGACCAGCCCAATGTGCAG
+TTCTGCATCGTGGCTCTGGTCATCATCTTCTGCAGCACCATCACCCTCTGCCTGGTATTC
+GTGCCGAAGCTCATCACCCTGAGAACAAACCCAGATGCAGCAACGCAGAACAGGCGATTC
+CAGTTCACTCAGAATCAGAAGAAAGAAGATTCTAAAACGTCCACCTCGGTCACCAGTGTG
+AACCAAGCCAGCACATCCCGCCTGGAGGGCCTACAGTCAGAAAACCATCGCCTGCGAATG
+AAGATCACAGAGCTGGATAAAGACTTGGAAGAGGTCACCATGCAGCTGCAGGACACACCA
+GAAAAGACCACCTACATTAAACAGAACCACTACCAAGAGCTCAATGACATCCTCAACCTG
+GGAAACTTCACTGAGAGCACAGATGGAGGAAAGGCCATTTTAAAAAATCACCTCGATCAA
+AATCCCCAGCTACAGTGGAACACAACAGAGCCCTCTCGAACATGCAAAGATCCTATAGAA
+GATATAAACTCTCCAGAACACATCCAGCGTCGGCTGTCCCTCCAGCTCCCCATCCTCCAC
+CACGCCTACCTCCCATCCATCGGAGGCGTGGACGCCAGCTGTGTCAGCCCCTGCGTCAGC
+CCCACCGCCAGCCCCCGCCACAGACATGTGCCACCCTCCTTCCGAGTCATGGTCTCGGGC
+CTGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>941</residue_number>
+    <molecular_weight>105820.5</molecular_weight>
+    <theoretical_pi>8.83</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>7tm_3</name>
+        <pfam_id>PF00003</pfam_id>
+      </pfam>
+      <pfam>
+        <name>ANF_receptor</name>
+        <pfam_id>PF01094</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>484-504</region>
+      <region>523-543</region>
+      <region>552-572</region>
+      <region>598-618</region>
+      <region>655-675</region>
+      <region>692-712</region>
+      <region>721-741</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-41</region>
+    </signal_regions>
+    <protein_sequence>&gt;Gamma-aminobutyric acid type B receptor subunit 2
+MASPRSSGQPGPPPPPPPPPARLLLLLLLPLLLPLAPGAWGWARGAPRPPPSSPPLSIMG
+LMPLTKEVAKGSIGRGVLPAVELAIEQIRNESLLRPYFLDLRLYDTECDNAKGLKAFYDA
+IKYGPNHLMVFGGVCPSVTSIIAESLQGWNLVQLSFAATTPVLADKKKYPYFFRTVPSDN
+AVNPAILKLLKHYQWKRVGTLTQDVQRFSEVRNDLTGVLYGEDIEISDTESFSNDPCTSV
+KKLKGNDVRIILGQFDQNMAAKVFCCAYEENMYGSKYQWIIPGWYEPSWWEQVHTEANSS
+RCLRKNLLAAMEGYIGVDFEPLSSKQIKTISGKTPQQYEREYNNKRSGVGPSKFHGYAYD
+GIWVIAKTLQRAMETLHASSRHQRIQDFNYTDHTLGRIILNAMNETNFFGVTGQVVFRNG
+ERMGTIKFTQFQDSREVKVGEYNAVADTLEIINDTIRFQGSEPPKDKTIILEQLRKISLP
+LYSILSALTILGMIMASAFLFFNIKNRNQKLIKMSSPYMNNLIILGGMLSYASIFLFGLD
+GSFVSEKTFETLCTVRTWILTVGYTTAFGAMFAKTWRVHAIFKNVKMKKKIIKDQKLLVI
+VGGMLLIDLCILICWQAVDPLRRTVEKYSMEPDPAGRDISIRPLLEHCENTHMTIWLGIV
+YAYKGLLMLFGCFLAWETRNVSIPALNDSKYIGMSVYNVGIMCIIGAAVSFLTRDQPNVQ
+FCIVALVIIFCSTITLCLVFVPKLITLRTNPDAATQNRRFQFTQNQKKEDSKTSTSVTSV
+NQASTSRLEGLQSENHRLRMKITELDKDLEEVTMQLQDTPEKTTYIKQNHYQELNDILNL
+GNFTESTDGGKAILKNHLDQNPQLQWNTTEPSRTCKDPIEDINSPEHIQRRLSLQLPILH
+HAYLPSIGGVDASCVSPCVSPTASPRHRHVPPSFRVMVSGL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3776098</genbank_protein_id>
+  <uniprot_id>O75899</uniprot_id>
+  <uniprot_name>GABR2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AJ012188</genbank_gene_id>
+  <genecard_id>GABBR2</genecard_id>
+  <geneatlas_id>GABBR2</geneatlas_id>
+  <hgnc_id>HGNC:4507</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>White JH, Wise A, Main MJ, Green A, Fraser NJ, Disney GH, Barnes AA, Emson P, Foord SM, Marshall FH: Heterodimerization is required for the formation of a functional GABA(B) receptor. Nature. 1998 Dec 17;396(6712):679-82.</reference_text>
+      <pubmed_id>9872316</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ng GY, McDonald T, Bonnert T, Rigby M, Heavens R, Whiting P, Chateauneuf A, Coulombe N, Kargman S, Caskey T, Evans J, O'neill GP, Liu Q: Cloning of a novel G-protein-coupled receptor GPR 51 resembling GABAB receptors expressed predominantly in nervous tissues and mapped proximal to the hereditary sensory neuropathy type 1 locus on chromosome 9. Genomics. 1999 Mar 15;56(3):288-95.</reference_text>
+      <pubmed_id>10087195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martin SC, Russek SJ, Farb DH: Molecular identification of the human GABABR2: cell surface expression and coupling to adenylyl cyclase in the absence of GABABR1. Mol Cell Neurosci. 1999 Mar;13(3):180-91.</reference_text>
+      <pubmed_id>10328880</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clark JA, Mezey E, Lam AS, Bonner TI: Distribution of the GABA(B) receptor subunit gb2 in rat CNS.  Brain Res. 2000 Mar 31;860(1-2):41-52.</reference_text>
+      <pubmed_id>10727622</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ng GY, Clark J, Coulombe N, Ethier N, Hebert TE, Sullivan R, Kargman S, Chateauneuf A, Tsukamoto N, McDonald T, Whiting P, Mezey E, Johnson MP, Liu Q, Kolakowski LF Jr, Evans JF, Bonner TI, O'Neill GP: Identification of a GABAB receptor subunit, gb2, required for functional GABAB receptor activity. J Biol Chem. 1999 Mar 19;274(12):7607-10.</reference_text>
+      <pubmed_id>10075644</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sullivan R, Chateauneuf A, Coulombe N, Kolakowski LF Jr, Johnson MP, Hebert TE, Ethier N, Belley M, Metters K, Abramovitz M, O'Neill GP, Ng GY: Coexpression of full-length gamma-aminobutyric acid(B) (GABA(B)) receptors with truncated receptors and metabotropic glutamate receptor 4 supports the GABA(B) heterodimer as the functional receptor. J Pharmacol Exp Ther. 2000 May;293(2):460-7.</reference_text>
+      <pubmed_id>10773016</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>DeGiorgis JA, Jaffe H, Moreira JE, Carlotti CG Jr, Leite JP, Pant HC, Dosemeci A: Phosphoproteomic analysis of synaptosomes from human cerebral cortex.  J Proteome Res. 2005 Mar-Apr;4(2):306-15.</reference_text>
+      <pubmed_id>15822905</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Belley M, Sullivan R, Reeves A, Evans J, O'Neill G, Ng GY: Synthesis of the nanomolar photoaffinity GABA(B) receptor ligand CGP 71872 reveals diversity in the tissue distribution of GABA(B) receptor forms. Bioorg Med Chem. 1999 Dec;7(12):2697-704.</reference_text>
+        <pubmed_id>10658574</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Braun M, Wendt A, Buschard K, Salehi A, Sewing S, Gromada J, Rorsman P: GABAB receptor activation inhibits exocytosis in rat pancreatic beta-cells by G-protein-dependent activation of calcineurin. J Physiol. 2004 Sep 1;559(Pt 2):397-409. Epub 2004 Jul 2.</reference_text>
+        <pubmed_id>15235087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bowery NG: GABAB receptor pharmacology.  Annu Rev Pharmacol Toxicol. 1993;33:109-47.</reference_text>
+        <pubmed_id>8388192</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Filippov AK, Couve A, Pangalos MN, Walsh FS, Brown DA, Moss SJ: Heteromeric assembly of GABA(B)R1 and GABA(B)R2 receptor subunits inhibits Ca(2+) current in sympathetic neurons. J Neurosci. 2000 Apr 15;20(8):2867-74.</reference_text>
+        <pubmed_id>10751439</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lehmann A: GABAB receptors as drug targets to treat gastroesophageal reflux disease.  Pharmacol Ther. 2009 Jun;122(3):239-45. Epub 2009 Mar 19.</reference_text>
+        <pubmed_id>19303900</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martin SC, Russek SJ, Farb DH: Molecular identification of the human GABABR2: cell surface expression and coupling to adenylyl cyclase in the absence of GABABR1. Mol Cell Neurosci. 1999 Mar;13(3):180-91.</reference_text>
+        <pubmed_id>10328880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Baclofen</name>
+        <accession>HMDB14327</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pittman QJ: The action is at the terminal.  J Physiol. 1999 Nov 1;520 Pt 3:629.</reference_text>
+        <pubmed_id>10545129</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

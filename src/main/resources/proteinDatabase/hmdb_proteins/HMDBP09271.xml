@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:21:18 -0700</creation_date>
+  <update_date>2013-01-15 20:21:18 -0700</update_date>
+  <accession>HMDBP09271</accession>
+  <secondary_accessions>
+    <accession>15099</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>72 kDa Tat-interacting protein</synonym>
+    <synonym>Tripartite motif-containing protein 32</synonym>
+    <synonym>Zinc finger protein HT2A</synonym>
+  </synonyms>
+  <gene_name>TRIM32</gene_name>
+  <general_function>Involved in zinc ion binding</general_function>
+  <specific_function>Has an E3 ubiquitin ligase activity. Ubiquitinates DTNBP1 (dysbindin) and promotes its degradation. May play a significant role in mediating the biological activity of the HIV-1 Tat protein in vivo. Binds specifically to the activation domain of HIV-1 Tat and can also interact with the HIV-2 and EIAV Tat proteins in vivo</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:9</chromosome_location>
+    <locus>9q33.1</locus>
+    <gene_sequence>&gt;1962 bp
+ATGGCTGCAGCAGCAGCTTCTCACCTGAACCTGGATGCCCTCCGGGAAGTGCTAGAATGC
+CCCATCTGCATGGAGTCCTTCACAGAAGAGCAGCTGCGTCCCAAGCTTCTGCACTGTGGC
+CATACCATCTGCCGCCAGTGCCTGGAGAAGCTATTGGCCAGTAGCATCAATGGTGTCCGC
+TGTCCCTTTTGCAGCAAGATTACCCGCATAACCAGCTTGACCCAGCTGACAGACAATCTG
+ACAGTGCTAAAGATCATTGATACAGCTGGGCTCAGCGAGGCTGTGGGGCTGCTCATGTGT
+CGGTCCTGTGGGCGGCGTCTGCCCCGGCAATTCTGCCGGAGCTGTGGTTTGGTGTTATGT
+GAGCCCTGCCGGGAGGCAGACCATCAGCCTCCTGGCCACTGTACACTCCCTGTCAAAGAA
+GCAGCTGAGGAGCGGCGTCGGGACTTTGGAGAGAAGTTAACTCGTCTGCGGGAACTTATG
+GGGGAGCTGCAGCGGCGGAAGGCAGCCTTGGAAGGTGTCTCCAAGGACCTTCAGGCAAGG
+TATAAAGCAGTTCTCCAGGAGTATGGGCATGAGGAGCGCAGGGTCCAGGATGAGCTGGCT
+CGCTCTCGGAAGTTCTTCACAGGCTCTTTGGCTGAAGTTGAGAAGTCCAATAGTCAAGTG
+GTAGAGGAGCAGAGTTACCTGCTTAACATTGCAGAGGTGCAGGCTGTGTCTCGCTGTGAC
+TACTTCCTGGCCAAGATCAAGCAGGCAGATGTAGCACTACTGGAGGAGACAGCTGATGAG
+GAGGAGCCAGAGCTCACTGCCAGCTTGCCTCGGGAGCTCACCCTGCAAGATGTGGAGCTC
+CTTAAGGTAGGTCATGTTGGCCCCCTCCAAATTGGACAAGCTGTTAAGAAGCCCCGGACA
+GTTAACGTGGAAGATTCCTGGGCCATGGAGGCCACAGCGTCTGCTGCCTCTACCTCTGTT
+ACTTTTAGAGAGATGGACATGAGCCCGGAGGAAGTGGTTGCCAGCCCTAGGGCCTCACCT
+GCTAAACAGCGGGGTCCTGAGGCAGCCTCCAATATCCAGCAGTGCCTCTTTCTCAAGAAG
+ATGGGGGCCAAAGGCAGCACTCCAGGAATGTTCAATCTTCCAGTCAGTCTCTACGTGACC
+AGTCAAGGTGAAGTACTAGTCGCTGACCGTGGTAACTATCGTATACAAGTCTTTACCCGC
+AAAGGCTTTTTGAAGGAAATCCGCCGCAGCCCCAGTGGCATTGATAGCTTTGTGCTAAGC
+TTCCTTGGGGCAGATCTACCCAACCTCACTCCTCTCTCAGTGGCAATGAACTGCCAGGGG
+CTGATTGGTGTGACTGACAGCTATGATAACTCCCTCAAGGTATATACCTTGGATGGCCAC
+TGCGTGGCCTGTCACAGGAGCCAGCTGAGCAAACCATGGGGTATCACAGCCTTGCCATCT
+GGCCAGTTTGTAGTAACCGATGTGGAAGGTGGAAAGCTTTGGTGTTTCACAGTTGATCGA
+GGATCAGGGGTGGTCAAATACAGCTGCCTATGTAGTGCTGTGCGGCCCAAATTTGTCACC
+TGTGATGCTGAGGGCACCGTCTACTTCACCCAGGGCTTAGGCCTCAATCTGGAGAATCGG
+CAGAATGAGCACCACCTGGAGGGTGGCTTTTCCATTGGCTCTGTAGGCCCTGATGGGCAG
+CTGGGTCGCCAGATTAGCCACTTCTTCTCGGAGAATGAGGATTTCCGCTGCATTGCTGGC
+ATGTGTGTGGATGCTCGTGGTGATCTCATCGTGGCTGACAGTAGTCGCAAGGAAATTCTC
+CATTTTCCTAAGGGTGGGGGCTATAGTGTCCTTATTCGAGAGGGACTTACCTGTCCGGTG
+GGCATAGCCCTAACTCCTAAGGGGCAGCTGCTGGTCTTGGACTGTTGGGATCATTGCATC
+AAGATCTACAGCTACCATCTGAGAAGATATTCCACCCCATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>653</residue_number>
+    <molecular_weight>71987.9</molecular_weight>
+    <theoretical_pi>6.98</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>NHL</name>
+        <pfam_id>PF01436</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-C3HC4</name>
+        <pfam_id>PF00097</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;E3 ubiquitin-protein ligase TRIM32
+MAAAAASHLNLDALREVLECPICMESFTEEQLRPKLLHCGHTICRQCLEKLLASSINGVR
+CPFCSKITRITSLTQLTDNLTVLKIIDTAGLSEAVGLLMCRSCGRRLPRQFCRSCGLVLC
+EPCREADHQPPGHCTLPVKEAAEERRRDFGEKLTRLRELMGELQRRKAALEGVSKDLQAR
+YKAVLQEYGHEERRVQDELARSRKFFTGSLAEVEKSNSQVVEEQSYLLNIAEVQAVSRCD
+YFLAKIKQADVALLEETADEEEPELTASLPRELTLQDVELLKVGHVGPLQIGQAVKKPRT
+VNVEDSWAMEATASAASTSVTFREMDMSPEEVVASPRASPAKQRGPEAASNIQQCLFLKK
+MGAKGSTPGMFNLPVSLYVTSQGEVLVADRGNYRIQVFTRKGFLKEIRRSPSGIDSFVLS
+FLGADLPNLTPLSVAMNCQGLIGVTDSYDNSLKVYTLDGHCVACHRSQLSKPWGITALPS
+GQFVVTDVEGGKLWCFTVDRGSGVVKYSCLCSAVRPKFVTCDAEGTVYFTQGLGLNLENR
+QNEHHLEGGFSIGSVGPDGQLGRQISHFFSENEDFRCIAGMCVDARGDLIVADSSRKEIL
+HFPKGGGYSVLIREGLTCPVGIALTPKGQLLVLDCWDHCIKIYSYHLRRYSTP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>8217434</genbank_protein_id>
+  <uniprot_id>Q13049</uniprot_id>
+  <uniprot_name>TRI32_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL133284</genbank_gene_id>
+  <genecard_id>TRIM32</genecard_id>
+  <geneatlas_id>TRIM32</geneatlas_id>
+  <hgnc_id>HGNC:16380</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Fridell RA, Harding LS, Bogerd HP, Cullen BR: Identification of a novel human zinc finger protein that specifically interacts with the activation domain of lentiviral Tat proteins. Virology. 1995 Jun 1;209(2):347-57.</reference_text>
+      <pubmed_id>7778269</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Locke M, Tinsley CL, Benson MA, Blake DJ: TRIM32 is an E3 ubiquitin ligase for dysbindin.  Hum Mol Genet. 2009 Jul 1;18(13):2344-58. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349376</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Frosk P, Weiler T, Nylen E, Sudha T, Greenberg CR, Morgan K, Fujiwara TM, Wrogemann K: Limb-girdle muscular dystrophy type 2H associated with mutation in TRIM32, a putative E3-ubiquitin-ligase gene. Am J Hum Genet. 2002 Mar;70(3):663-72. Epub 2002 Jan 29.</reference_text>
+      <pubmed_id>11822024</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chiang AP, Beck JS, Yen HJ, Tayeh MK, Scheetz TE, Swiderski RE, Nishimura DY, Braun TA, Kim KY, Huang J, Elbedour K, Carmi R, Slusarski DC, Casavant TL, Stone EM, Sheffield VC: Homozygosity mapping with SNP arrays identifies TRIM32, an E3 ubiquitin ligase, as a Bardet-Biedl syndrome gene (BBS11). Proc Natl Acad Sci U S A. 2006 Apr 18;103(16):6287-92. Epub 2006 Apr 10.</reference_text>
+      <pubmed_id>16606853</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saccone V, Palmieri M, Passamano L, Piluso G, Meroni G, Politano L, Nigro V: Mutations that impair interaction properties of TRIM32 associated with limb-girdle muscular dystrophy 2H. Hum Mutat. 2008 Feb;29(2):240-7.</reference_text>
+      <pubmed_id>17994549</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

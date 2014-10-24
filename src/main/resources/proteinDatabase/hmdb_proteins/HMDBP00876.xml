@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:09 -0700</creation_date>
+  <update_date>2013-05-27 11:15:01 -0600</update_date>
+  <accession>HMDBP00876</accession>
+  <secondary_accessions>
+    <accession>6158</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Alpha-L-fucosidase 2</synonym>
+    <synonym>Alpha-L-fucoside fucohydrolase 2</synonym>
+  </synonyms>
+  <gene_name>FUCA2</gene_name>
+  <general_function>Involved in alpha-L-fucosidase activity</general_function>
+  <specific_function>Alpha-L-fucosidase is responsible for hydrolyzing the alpha-1,6-linked fucose joined to the reducing-end N-acetylglucosamine of the carbohydrate moieties of glycoproteins.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Other glycan degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00511</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00174</accession>
+      <name>L-Fucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00108</accession>
+      <name>Ethanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00820</accession>
+      <name>Propyl alcohol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04327</accession>
+      <name>1-Butanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06006</accession>
+      <name>Isobutanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13036</accession>
+      <name>1-Pentanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12971</accession>
+      <name>1-Hexanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00863</accession>
+      <name>Isopropyl alcohol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, hydrolyzing o-glycosyl compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fucosidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>alpha-l-fucosidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular region</description>
+      <go_id>GO:0005576</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alpha-L-fucosidase activity</description>
+      <go_id>GO:0004560</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cation binding</description>
+      <go_id>GO:0043169</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fucose metabolic process</description>
+      <go_id>GO:0006004</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6q24</locus>
+    <gene_sequence>&gt;1404 bp
+ATGCGGCCCCAGGAGCTCCCCAGGCTCGCGTTCCCGTTGCTGCTGTTGCTGTTGCTGCTG
+CTGCCGCCGCCGCCGTGCCCTGCCCACAGCGCCACGCGCTTCGACCCCACCTGGGAGTCC
+CTGGACGCCCGCCAGCTGCCCGCGTGGTTTGACCAGGCCAAGTTCGGCATCTTCATCCAC
+TGGGGAGTGTTTTCCGTGCCCAGCTTCGGTAGCGAGTGGTTCTGGTGGTATTGGCAAAAG
+GAAAAGATACCGAAGTATGTGGAATTTATGAAAGATAATTACCCTCCTAGTTTCAAATAT
+GAAGATTTTGGACCACTATTTACAGCAAAATTTTTTAATGCCAACCAGTGGGCAGATATT
+TTTCAGGCCTCTGGTGCCAAATACATTGTCTTAACTTCCAAACATCATGAAGGCTTTACC
+TTGTGGGGGTCAGAATATTCGTGGAACTGGAATGCCATAGATGAGGGGCCCAAGAGGGAC
+ATTGTCAAGGAACTTGAGGTAGCCATTAGGAACAGAACTGACCTGCGTTTTGGACTGTAC
+TATTCCCTTTTTGAATGGTTTCATCCGCTCTTCCTTGAGGATGAATCCAGTTCATTCCAT
+AAGCGGCAATTTCCAGTTTCTAAGACATTGCCAGAGCTCTATGAGTTAGTGAACAACTAT
+CAGCCTGAGGTTCTGTGGTCGGATGGTGACGGAGGAGCACCGGATCAATACTGGAACAGC
+ACAGGCTTCTTGGCCTGGTTATATAATGAAAGCCCAGTTCGGGGCACAGTAGTCACCAAT
+GATCGTTGGGGAGCTGGTAGCATCTGTAAGCATGGTGGCTTCTATACCTGCAGTGATCGT
+TATAACCCAGGACATCTTTTGCCACATAAATGGGAAAACTGCATGACAATAGACAAACTG
+TCCTGGGGCTATAGGAGGGAAGCTGGAATCTCTGACTATCTTACAATTGAAGAATTGGTG
+AAGCAACTTGTAGAGACAGTTTCATGTGGAGGAAATCTTTTGATGAATATTGGGCCCACA
+CTAGATGGCACCATTTCTGTAGTTTTTGAGGAGCGACTGAGGCAAGTGGGGTCCTGGCTA
+AAAGTCAATGGAGAAGCTATTTATGAAACCTATACCTGGCGATCCCAGAACGACACTGTC
+ACCCCAGATGTGTGGTACACATCCAAGCCTAAAGAAAAATTAGTCTATGCCATTTTTCCT
+AAATGGCCCACATCAGGACAGCTGTTCCTTGGCCATCCCAAAGCTATTCTGGGGGCAACA
+GAGGTGAAACTACTGGGCCATGGACAGCCACTTAACTGGATTTCTTTGGAGCAAAATGGC
+ATTATGGTAGAACTGCCACAGCTAACCATTCATCAGATGCCGTGTAAATGGGGCTGGGCT
+CTAGCCCTAACTAATGTGATCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>467</residue_number>
+    <molecular_weight>54066.31</molecular_weight>
+    <theoretical_pi>6.247</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Alpha_L_fucos</name>
+        <pfam_id>PF01120</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Plasma alpha-L-fucosidase
+MRPQELPRLAFPLLLLLLLLLPPPPCPAHSATRFDPTWESLDARQLPAWFDQAKFGIFIH
+WGVFSVPSFGSEWFWWYWQKEKIPKYVEFMKDNYPPSFKYEDFGPLFTAKFFNANQWADI
+FQASGAKYIVLTSKHHEGFTLWGSEYSWNWNAIDEGPKRDIVKELEVAIRNRTDLRFGLY
+YSLFEWFHPLFLEDESSSFHKRQFPVSKTLPELYELVNNYQPEVLWSDGDGGAPDQYWNS
+TGFLAWLYNESPVRGTVVTNDRWGAGSICKHGGFYTCSDRYNPGHLLPHKWENCMTIDKL
+SWGYRREAGISDYLTIEELVKQLVETVSCGGNLLMNIGPTLDGTISVVFEERLRQMGSWL
+KVNGEAIYETHTWRSQNDTVTPDVWYTSKPKEKLVYAIFLKWPTSGQLFLGHPKAILGAT
+EVKLLGHGQPLNWISLEQNGIMVELPQLTIHQMPCKWGWALALTNVI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>22761559</genbank_protein_id>
+  <uniprot_id>Q9BTY2</uniprot_id>
+  <uniprot_name>FUCO2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK075458</genbank_gene_id>
+  <genecard_id>FUCA2</genecard_id>
+  <geneatlas_id>FUCA2</geneatlas_id>
+  <hgnc_id>HGNC:4008</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J, Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D, Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS, Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M, Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J, Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard A, Wood WI, Godowski P, Gray A: The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment. Genome Res. 2003 Oct;13(10):2265-70. Epub 2003 Sep 15.</reference_text>
+      <pubmed_id>12975309</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Otsuki T, Ota T, Nishikawa T, Hayashi K, Suzuki Y, Yamamoto J, Wakamatsu A, Kimura K, Sakamoto K, Hatano N, Kawai Y, Ishii S, Saito K, Kojima S, Sugiyama T, Ono T, Okano K, Yoshikawa Y, Aotsuka S, Sasaki N, Hattori A, Okumura K, Nagai K, Sugano S, Isogai T: Signal sequence and keyword trap in silico for selection of full-length human cDNAs encoding secretion or membrane proteins from oligo-capped cDNA libraries. DNA Res. 2005;12(2):117-26.</reference_text>
+      <pubmed_id>16303743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

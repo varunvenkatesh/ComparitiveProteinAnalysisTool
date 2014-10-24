@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:19:30 -0700</creation_date>
+  <update_date>2013-01-15 20:19:30 -0700</update_date>
+  <accession>HMDBP09098</accession>
+  <secondary_accessions>
+    <accession>14842</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Cationic amino acid transporter, y+ system</synonym>
+    <synonym>Solute carrier family 7 member 6</synonym>
+    <synonym>Y+LAT2</synonym>
+    <synonym>y(+)L-type amino acid transporter 2</synonym>
+    <synonym>y+LAT-2</synonym>
+  </synonyms>
+  <gene_name>SLC7A6</gene_name>
+  <general_function>Involved in transport</general_function>
+  <specific_function>Involved in the sodium-independent uptake of dibasic amino acids and sodium-dependent uptake of some neutral amino acids. Requires co-expression with SLC3A2/4F2hc to mediate the uptake of arginine, leucine and glutamine. Also acts as an arginine/glutamine exchanger, following an antiport mechanism for amino acid transport, influencing arginine release in exchange for extracellular amino acids. Plays a role in nitric oxide synthesis in human umbilical vein endothelial cells (HUVECs) via transport of L-arginine. Involved in the transport of L-arginine in monocytes. Reduces uptake of ornithine in retinal pigment epithelial (RPE) cells</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00214</accession>
+      <name>Ornithine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00517</accession>
+      <name>L-Arginine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>active transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amine transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amino acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>amine transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>amino acid transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Basolateral cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16q22.1</locus>
+    <gene_sequence>&gt;1548 bp
+ATGGAAGCCAGGGAGCCTGGGAGGCCCACACCCACCTACCATCTTGTCCCTAACACCAGC
+CAGTCCCAGGTGGAAGAAGATGTCAGCTCGCCACCTCAAAGGTCCTCCGAAACTATGCAG
+CTGAAGAAGGAGATCTCCCTGCTGAATGGGGTCAGCCTGGTGGTGGGCAACATGATCGGC
+TCAGGGATCTTTGTCTCACCCAAGGGTGTGCTGGTACACACTGCCTCCTATGGGATGTCA
+CTGATTGTGTGGGCCATTGGTGGGCTCTTCTCTGTTGTGGGTGCCCTTTGTTATGCAGAG
+CTGGGGACCACCATCACCAAGTCGGGAGCCAGCTACGCTTATATTCTAGAGGCCTTTGGG
+GGCTTCATTGCCTTCATCCGCCTGTGGGTCTCACTGCTAGTTGTTGAGCCCACCGGTCAG
+GCCATCATCGCCATCACCTTTGCCAACTACATCATCCAGCCGTCCTTCCCCAGCTGTGAT
+CCCCCATACCTGGCCTGCCGTCTCCTGGCTGCTGCTTGCATATGTCTGCTGACATTTGTG
+AACTGTGCCTATGTCAAGTGGGGCACACGTGTGCAGGACACGTTCACTTACGCCAAGGTC
+GTAGCGCTCATTGCCATCATTGTCATGGGCCTTGTTAAACTGTGCCAGGGACACTCTGAG
+CACTTTCAGGACGCCTTTGAGGGTTCCTCCTGGGACATGGGAAACCTCTCTCTTGCCCTC
+TACTCTGCCCTCTTCTCTTACTCAGGTTGGGACACCCTTAATTTTGTAACAGAAGAAATC
+AAAAACCCAGAAAGAAATTTGCCCTTGGCCATTGGGATTTCTATGCCAATTGTGACGCTC
+ATCTACATCCTGACCAATGTGGCCTATTACACAGTGCTGAACATTTCAGATGTCCTTAGC
+AGTGATGCTGTGGCTGTGACATTTGCTGACCAGACGTTTGGCATGTTCAGCTGGACCATC
+CCCATTGCTGTTGCCCTGTCCTGCTTTGGGGGCCTCAATGCATCCATCTTTGCTTCATCA
+AGGTTGTTCTTCGTGGGCTCCCGGGAGGGCCACCTACCGGACCTTCTGTCCATGATCCAC
+ATTGAGCGTTTTACACCTATCCCTGCTTTACTGTTCAATTGCACCATGGCACTCATCTAC
+CTCATCGTGGAGGATGTTTTCCAGCTTATCAACTACTTCAGCTTCAGCTACTGGTTCTTC
+GTGGGCCTGTCTGTTGTTGGACAGCTCTACCTCCGCTGGAAGGAGCCCAAGCGGCCCCGG
+CCTCTCAAGCTGAGCGTGTTTTTCCCCATCGTGTTCTGCATATGCTCCGTGTTTCTGGTG
+ATAGTGCCCCTCTTCACTGACACCATTAATTCCCTCATTGGCATCGGGATTGCCCTTTCT
+GGAGTCCCTTTCTACTTCATGGGTGTTTACCTGCCAGAGTCCCGGAGGCCATTGTTTATT
+CGGAATGTCCTGGCTGCTATCACCAGAGGCACCCAGCAGCTTTGCTTTTGTGTCCTGACT
+GAGCTTGATGTAGCCGAAGAAAAAAAGGATGAGAGGAAAACTGACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>515</residue_number>
+    <molecular_weight>56826.9</molecular_weight>
+    <theoretical_pi>5.69</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AA_permease</name>
+        <pfam_id>PF00324</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>45-65</region>
+      <region>79-99</region>
+      <region>115-135</region>
+      <region>168-188</region>
+      <region>195-215</region>
+      <region>236-256</region>
+      <region>267-287</region>
+      <region>312-332</region>
+      <region>364-384</region>
+      <region>386-406</region>
+      <region>426-446</region>
+      <region>452-472</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Y+L amino acid transporter 2
+MEAREPGRPTPTYHLVPNTSQSQVEEDVSSPPQRSSETMQLKKEISLLNGVSLVVGNMIG
+SGIFVSPKGVLVHTASYGMSLIVWAIGGLFSVVGALCYAELGTTITKSGASYAYILEAFG
+GFIAFIRLWVSLLVVEPTGQAIIAITFANYIIQPSFPSCDPPYLACRLLAAACICLLTFV
+NCAYVKWGTRVQDTFTYAKVVALIAIIVMGLVKLCQGHSEHFQDAFEGSSWDMGNLSLAL
+YSALFSYSGWDTLNFVTEEIKNPERNLPLAIGISMPIVTLIYILTNVAYYTVLNISDVLS
+SDAVAVTFADQTFGMFSWTIPIAVALSCFGGLNASIFASSRLFFVGSREGHLPDLLSMIH
+IERFTPIPALLFNCTMALIYLIVEDVFQLINYFSFSYWFFVGLSVVGQLYLRWKEPKRPR
+PLKLSVFFPIVFCICSVFLVIVPLFTDTINSLIGIGIALSGVPFYFMGVYLPESRRPLFI
+RNVLAAITRGTQQLCFCVLTELDVAEEKKDERKTD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>20381372</genbank_protein_id>
+  <uniprot_id>Q92536</uniprot_id>
+  <uniprot_name>YLAT2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC028216</genbank_gene_id>
+  <genecard_id>SLC7A6</genecard_id>
+  <geneatlas_id>SLC7A6</geneatlas_id>
+  <hgnc_id>HGNC:11064</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Torrents D, Estevez R, Pineda M, Fernandez E, Lloberas J, Shi YB, Zorzano A, Palacin M: Identification and characterization of a membrane protein (y+L amino acid transporter-1) that associates with 4F2hc to encode the amino acid transport activity y+L. A candidate gene for lysinuric protein intolerance. J Biol Chem. 1998 Dec 4;273(49):32437-45.</reference_text>
+      <pubmed_id>9829974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Seki N, Ishikawa K, Ohira M, Kawarabayasi Y, Ohara O, Tanaka A, Kotani H, Miyajima N, Nomura N: Prediction of the coding sequences of unidentified human genes. VI. The coding sequences of 80 new genes (KIAA0201-KIAA0280) deduced by analysis of cDNA clones from cell line KG-1 and brain. DNA Res. 1996 Oct 31;3(5):321-9, 341-54.</reference_text>
+      <pubmed_id>9039502</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dall'Asta V, Bussolati O, Sala R, Rotoli BM, Sebastio G, Sperandeo MP, Andria G, Gazzola GC: Arginine transport through system y(+)L in cultured human fibroblasts: normal phenotype of cells from LPI subjects. Am J Physiol Cell Physiol. 2000 Dec;279(6):C1829-37.</reference_text>
+      <pubmed_id>11078698</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broer A, Wagner CA, Lang F, Broer S: The heterodimeric amino acid transporter 4F2hc/y+LAT2 mediates arginine efflux in exchange with glutamine. Biochem J. 2000 Aug 1;349 Pt 3:787-95.</reference_text>
+      <pubmed_id>10903140</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broer A, Friedrich B, Wagner CA, Fillon S, Ganapathy V, Lang F, Broer S: Association of 4F2hc with light chains LAT1, LAT2 or y+LAT2 requires different domains. Biochem J. 2001 May 1;355(Pt 3):725-31.</reference_text>
+      <pubmed_id>11311135</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sala R, Rotoli BM, Colla E, Visigalli R, Parolari A, Bussolati O, Gazzola GC, Dall'Asta V: Two-way arginine transport in human endothelial cells: TNF-alpha stimulation is restricted to system y(+). Am J Physiol Cell Physiol. 2002 Jan;282(1):C134-43.</reference_text>
+      <pubmed_id>11742806</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arancibia-Garavilla Y, Toledo F, Casanello P, Sobrevia L: Nitric oxide synthesis requires activity of the cationic and neutral amino acid transport system y+L in human umbilical vein endothelium. Exp Physiol. 2003 Nov;88(6):699-710.</reference_text>
+      <pubmed_id>14603368</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rotoli BM, Bussolati O, Sala R, Barilli A, Talarico E, Gazzola GC, Dall'Asta V: INFgamma stimulates arginine transport through system y+L in human monocytes. FEBS Lett. 2004 Jul 30;571(1-3):177-81.</reference_text>
+      <pubmed_id>15280038</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sperandeo MP, Paladino S, Maiuri L, Maroupulos GD, Zurzolo C, Taglialatela M, Andria G, Sebastio G: A y(+)LAT-1 mutant protein interferes with y(+)LAT-2 activity: implications for the molecular pathogenesis of lysinuric protein intolerance. Eur J Hum Genet. 2005 May;13(5):628-34.</reference_text>
+      <pubmed_id>15756301</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chubb S, Kingsland AL, Broer A, Broer S: Mutation of the 4F2 heavy-chain carboxy terminus causes y+ LAT2 light-chain dysfunction. Mol Membr Biol. 2006 May-Jun;23(3):255-67.</reference_text>
+      <pubmed_id>16785209</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rotmann A, Simon A, Martine U, Habermeier A, Closs EI: Activation of classical protein kinase C decreases transport via systems y+ and y+L. Am J Physiol Cell Physiol. 2007 Jun;292(6):C2259-68. Epub 2007 Feb 28.</reference_text>
+      <pubmed_id>17329401</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaneko S, Ando A, Okuda-Ashitaka E, Maeda M, Furuta K, Suzuki M, Matsumura M, Ito S: Ornithine transport via cationic amino acid transporter-1 is involved in ornithine cytotoxicity in retinal pigment epithelial cells. Invest Ophthalmol Vis Sci. 2007 Jan;48(1):464-71.</reference_text>
+      <pubmed_id>17197568</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

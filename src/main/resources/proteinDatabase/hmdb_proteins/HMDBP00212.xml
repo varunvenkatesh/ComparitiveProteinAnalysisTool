@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:22 -0700</creation_date>
+  <update_date>2013-05-27 11:21:30 -0600</update_date>
+  <accession>HMDBP00212</accession>
+  <secondary_accessions>
+    <accession>5444</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>HK III</synonym>
+    <synonym>Hexokinase type III</synonym>
+  </synonyms>
+  <gene_name>HK3</gene_name>
+  <general_function>Involved in ATP binding</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>hexose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycolysis / Gluconeogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Fructose and mannose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00051</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Galactose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00052</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Starch and sucrose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00500</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Amino sugar and nucleotide sugar metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00520</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Butirosin and neomycin biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00524</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Insulin signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04910</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Type II diabetes mellitus</name>
+      <smpdb_id/>
+      <kegg_map_id>map04930</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Carbohydrate digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04973</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00122</accession>
+      <name>D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00169</accession>
+      <name>D-Mannose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00189</accession>
+      <name>Inosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00247</accession>
+      <name>Sorbitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00516</accession>
+      <name>Beta-D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01078</accession>
+      <name>Mannose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01254</accession>
+      <name>Glucosamine 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01401</accession>
+      <name>Glucose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01508</accession>
+      <name>dADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01514</accession>
+      <name>Glucosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01532</accession>
+      <name>Deoxyadenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03335</accession>
+      <name>IDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03345</accession>
+      <name>Alpha-D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03498</accession>
+      <name>Beta-D-Glucose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03971</accession>
+      <name>Beta-D-Fructose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05831</accession>
+      <name>Sorbitol-6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00143</accession>
+      <name>D-Galactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00660</accession>
+      <name>D-Fructose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hexokinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycolysis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane</description>
+      <go_id>GO:0016020</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>protein complex</description>
+      <go_id>GO:0043234</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>fructokinase activity</description>
+      <go_id>GO:0008865</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glucokinase activity</description>
+      <go_id>GO:0004340</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hormone binding</description>
+      <go_id>GO:0042562</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mannokinase activity</description>
+      <go_id>GO:0019158</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular glucose homeostasis</description>
+      <go_id>GO:0001678</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose transport</description>
+      <go_id>GO:0015758</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolysis</description>
+      <go_id>GO:0006096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transmembrane transport</description>
+      <go_id>GO:0055085</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q35.2</locus>
+    <gene_sequence>&gt;2772 bp
+ATGGACTCCATTGGGTCTTCAGGGTTGCGGCAGGGGGAAGAAACCCTGAGTTGCTCTGAG
+GAGGGCTTGCCCGGGCCCTCAGACAGCTCAGAGCTGGTGCAGGAGTGCCTGCAGCAGTTC
+AAGGTGACAAGGGCACAGCTACAGCAGATCCAAGCCAGCCTCTTGGGTTCCATGGAGCAG
+GCGCTGAGGGGACAGGCCAGCCCTGCCCCTGCGGTCCGGATGCTGCCTACATACGTGGGG
+TCCACCCCACATGGCACTGAGCAAGGAGACTTCGTGGTGCTGGAGCTGGGGGCCACAGGG
+GCCTCACTGCGTGTTTTGTGGGTGACTCTAACTGGCATTGAGGGGCATAGGGTGGAGCCC
+AGAAGCCAGGAGTTTGTGATCCCCCAAGAGGTGATGCTGGGTGCTGGCCAGCAGCTCTTT
+GACTTTGCTGCCCACTGCCTGTCTGAGTTCCTGGATGCGCAGCCTGTGAACAAACAGGGT
+CTGCAGCTTGGCTTCAGCTTCTCTTTCCCTTGTCACCAGACGGGCTTGGACAGGAGCACC
+CTCATTTCCTGGACCAAAGGTTTTAGGTGCAGTGGTGTGGAAGGCCAGGATGTGGTCCAG
+CTGCTGAGAGATGCCATTCGGAGGCAGGGGGCCTACAACATCGACGTGGTTGCTGTGGTG
+AACGACACAGTGGGCACCATGATGGGCTGTGAGCCGGGGGTCAGGCCGTGTGAGGTTGGG
+CTAGTTGTAGACACGGGCACCAACGCGTGTTACATGGAGGAGGCACGGCATGTGGCAGTG
+CTGGACGAAGACCGGGGCCGCGTCTGCGTCAGCGTCGAGTGGGGCTCCTTCAGCGATGAT
+GGGGCGCTGGGACCAGTGCTGACCACCTTCGACCATACCCTGGACCATGAGTCCCTGAAT
+CCTGGTGCTCAGAGGTTTGAGAAGATGATCGGAGGCCTGTACCTGGGTGAGCTGGTGCGG
+CTGGTGCTGGCTCACTTGGCCCGGTGTGGGGTCCTCTTTGGTGGCTGCACCTCCCCTGCC
+CTGCTGAGCCAAGGCAGCATCCTCCTGGAACACGTGGCTGAGATGGAGGACCCCTCTACT
+GGGGCAGCCCGTGTCCATGCTATCCTGCAGGACTTGGGCCTGAGCCCTGGGGCTTCGGAT
+GTTGAGCTTGTGCAGCACGTCTGTGCGGCCGTGTGCACGCGGGCTGCCCAGCTCTGTGCT
+GCCGCCCTGGCCGCTGTTCTCTCCTGCCTCCAGCACAGCCGGGAGCAACAAACACTCCAG
+GTTGCTGTGGCCACCGGAGGCCGAGTGTGTGAGCGGCACCCCAGGTTCTGCAGCGTCCTG
+CAGGGGACAGTGATGCTCCTGGCCCCGGAATGCGATGTCTCCTTAATCCCCTCTGTGGAT
+GGTGGTGGCCGGGGAGTGGCGATGGTGACTGCTGTGGCTGCCCGTCTGGCTGCCCACCGG
+CGCCTGCTGGAGGAGACCCTGGCCCCATTCCGGTTGAACCATGATCAACTGGCTGCGGTT
+CAGGCACAGATGCGGAAGGCCATGGCCAAGGGGCTCCGAGGGGAGGCCTCCTCCCTTCGC
+ATGCTGCCCACTTTCGTCCGGGCCACCCCTGATGGCAGCGAGCGAGGGGATTTCCTGGCC
+CTGGACCTCGGGGGCACGAACTTCCGTGTCCTCCTGGTACGTGTGACCACAGGCGTGCAG
+ATCACCAGCGAGATCTACTCCATTCCCGAGACTGTGGCCCAGGGTTCTGGGCAGCAGCTC
+TTTGACCACATCGTGGACTGCATCGTGGACTTCCAGCAGAAGCAGGGCCTGAGCGGGCAG
+AGCCTCCCACTGGGTTTTACCTTCTCCTTCCCATGTAGGCAGCTTGGCCTAGACCAGGGC
+ATCCTCCTGAACTGGACCAAGGGTTTCAAGGCATCAGACTGCGAGGGCCAAGATGTCGTG
+AGTCTGTTGCGGGAAGCCATCACTCGCAGACAGGCAGTGGAGCTGAATGTGGTTGCCATT
+GTCAATGACACGGTGGGGACCATGATGTCCTGTGGCTATGAGGACCCCCGTTGCGAGATA
+GGCCTCATTGTCGGAACCGGCACCAATGCCTGCTACATGGAGGAGCTCCGGAATGTGGCG
+GGCGTGCCTGGGGACTCAGGCCGCATGTGCATCAACATGGAGTGGGGCGCCTTTGGGGAC
+GATGGCTCTCTGGCCATGCTCAGCACCCGCTTTGATGCAAGTGTGGACCAGGCGTCCATC
+AACCCCGGCAAGCAGAGGTTTGAAAAGATGATCAGCGGCATGTACCTGGGGGAGATCGTC
+CGCCACATCCTTTTACATTTAACCAGCCTTGGCGTTCTCTTCCGGGGCCAGCAGATCCAG
+CGCCTTCAGACCAGGGACATCTTCAAGACCAAGTTCCTCTCTGAGATCGAAAGTGACAGC
+CTGGCCCTGCGGCAGGTCCGAGCCATCCTAGAGGATCTGGGGCTACCCCTGACCTCAGAT
+GACGCCCTGATGGTGCTAGAGGTGTGCCAGGCTGTGTCCCAGAGGGCTGCCCAGCTCTGT
+GGGGCGGGTGTAGCTGCCGTGGTGGAGAAGATCCGGGAGAACCGGGGCCTGGAAGAGCTG
+GCAGTGTCTGTGGGGGTGGATGGAACGCTCTACAAGCTGCACCCGCGCTTCTCCAGCCTG
+GTGGCGGCCACAGTGCGGGAGCTGGCCCCTCGCTGTGTGGTCACGTTCCTGCAGTCAGAG
+GATGGGTCCGGCAAAGGTGCGGCCCTGGTCACCGCTGTTGCCTGCCGCCTTGCGCAGTTG
+ACTCGTGTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>923</residue_number>
+    <molecular_weight>99024.56</molecular_weight>
+    <theoretical_pi>5.398</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Hexokinase_1</name>
+        <pfam_id>PF00349</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Hexokinase_2</name>
+        <pfam_id>PF03727</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Hexokinase-3
+MDSIGSSGLRQGEETLSCSEEGLPGPSDSSELVQECLQQFKVTRAQLQQIQASLLGSMEQ
+ALRGQASPAPAVRMLPTYVGSTPHGTEQGDFVVLELGATGASLRVLWVTLTGIEGHRVEP
+RSQEFVIPQEVMLGAGQQLFDFAAHCLSEFLDAQPVNKQGLQLGFSFSFPCHQTGLDRST
+LISWTKGFRCSGVEGQDVVQLLRDAIRRQGAYNIDVVAVVNDTVGTMMGCEPGVRPCEVG
+LVVDTGTNACYMEEARHVAVLDEDRGRVCVSVEWGSFSDDGALGPVLTTFDHTLDHESLN
+PGAQRFEKMIGGLYLGELVRLVLAHLARCGVLFGGCTSPALLSQGSILLEHVAEMEDPST
+GAARVHAILQDLGLSPGASDVELVQHVCAAVCTRAAQLCAAALAAVLSCLQHSREQQTLQ
+VAVATGGRVCERHPRFCSVLQGTVMLLAPECDVSLIPSVDGGGRGVAMVTAVAARLAAHR
+RLLEETLAPFRLNHDQLAAVQAQMRKAMAKGLRGEASSLRMLPTFVRATPDGSERGDFLA
+LDLGGTNFRVLLVRVTTGVQITSEIYSIPETVAQGSGQQLFDHIVDCIVDFQQKQGLSGQ
+SLPLGFTFSFPCRQLGLDQGILLNWTKGFKASDCEGQDVVSLLREAITRRQAVELNVVAI
+VNDTVGTMMSCGYEDPRCEIGLIVGTGTNACYMEELRNVAGVPGDSGRMCINMEWGAFGD
+DGSLAMLSTRFDASVDQASINPGKQRFEKMISGMYLGEIVRHILLHLTSLGVLFRGQQIQ
+RLQTRDIFKTKFLSEIESDSLALRQVRAILEDLGLPLTSDDALMVLEVCQAVSQRAAQLC
+GAGVAAVVEKIRENRGLEELAVSVGVDGTLYKLHPRFSSLVAATVRELAPRCVVTFLQSE
+DGSGKGAALVTAVACRLAQLTRV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>20380888</genbank_protein_id>
+  <uniprot_id>P52790</uniprot_id>
+  <uniprot_name>HXK3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3HM8</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>BC028129</genbank_gene_id>
+  <genecard_id>HK3</genecard_id>
+  <geneatlas_id>HK3</geneatlas_id>
+  <hgnc_id>HGNC:4925</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Furuta H, Nishi S, Le Beau MM, Fernald AA, Yano H, Bell GI: Sequence of human hexokinase III cDNA and assignment of the human hexokinase III gene (HK3) to chromosome band 5q35.2 by fluorescence in situ hybridization. Genomics. 1996 Aug 15;36(1):206-9.</reference_text>
+      <pubmed_id>8812439</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Palma F, Agostini D, Mason P, Dacha M, Piccoli G, Biagiarelli B, Fiorani M, Stocchi V: Purification and characterization of the carboxyl-domain of human hexokinase type III expressed as fusion protein. Mol Cell Biochem. 1996 Feb 9;155(1):23-9.</reference_text>
+      <pubmed_id>8717435</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:17:12 -0700</creation_date>
+  <update_date>2013-05-27 11:32:26 -0600</update_date>
+  <accession>HMDBP08926</accession>
+  <secondary_accessions>
+    <accession>14655</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>PTP-1D</synonym>
+    <synonym>PTP-2C</synonym>
+    <synonym>Protein-tyrosine phosphatase 1D</synonym>
+    <synonym>Protein-tyrosine phosphatase 2C</synonym>
+    <synonym>SH-PTP2</synonym>
+    <synonym>SH-PTP3</synonym>
+    <synonym>SHP-2</synonym>
+    <synonym>Shp2</synonym>
+  </synonyms>
+  <gene_name>PTPN11</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Acts downstream of various receptor and cytoplasmic protein tyrosine kinases to participate in the signal transduction from the cell surface to the nucleus. Dephosphorylates ROCK2 at Tyr-722 resulting in stimulatation of its RhoA binding activity.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Jak-STAT signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04630</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Natural killer cell mediated cytotoxicity</name>
+      <smpdb_id/>
+      <kegg_map_id>map04650</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Leukocyte transendothelial migration</name>
+      <smpdb_id/>
+      <kegg_map_id>map04670</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Neurotrophin signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04722</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Adipocytokine signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04920</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Epithelial cell signaling in Helicobacter pylori infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05120</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Herpes simplex infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05168</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Proteoglycans in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05205</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Renal cell carcinoma</name>
+      <smpdb_id/>
+      <kegg_map_id>map05211</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Chronic myeloid leukemia</name>
+      <smpdb_id/>
+      <kegg_map_id>map05220</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>protein complex</description>
+      <go_id>GO:0043234</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>non-membrane spanning protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004726</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>SH3/SH2 adaptor activity</description>
+      <go_id>GO:0005070</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>activation of MAPK activity</description>
+      <go_id>GO:0000187</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>axon guidance</description>
+      <go_id>GO:0007411</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>blood coagulation</description>
+      <go_id>GO:0007596</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA damage checkpoint</description>
+      <go_id>GO:0000077</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ephrin receptor signaling pathway</description>
+      <go_id>GO:0048013</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>epidermal growth factor receptor signaling pathway</description>
+      <go_id>GO:0007173</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fibroblast growth factor receptor signaling pathway</description>
+      <go_id>GO:0008543</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose homeostasis</description>
+      <go_id>GO:0042593</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hormone metabolic process</description>
+      <go_id>GO:0042445</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hormone-mediated signaling pathway</description>
+      <go_id>GO:0009755</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>insulin receptor signaling pathway</description>
+      <go_id>GO:0008286</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>interferon-gamma-mediated signaling pathway</description>
+      <go_id>GO:0060333</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>leukocyte migration</description>
+      <go_id>GO:0050900</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organismal reproductive process</description>
+      <go_id>GO:0048609</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cortisol secretion</description>
+      <go_id>GO:0051463</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of growth hormone secretion</description>
+      <go_id>GO:0060125</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of insulin secretion</description>
+      <go_id>GO:0046676</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nerve growth factor receptor signaling pathway</description>
+      <go_id>GO:0048011</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>organ growth</description>
+      <go_id>GO:0035265</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of glucose import in response to insulin stimulus</description>
+      <go_id>GO:2001275</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of hormone secretion</description>
+      <go_id>GO:0046887</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cell adhesion mediated by integrin</description>
+      <go_id>GO:0033628</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of interferon-gamma-mediated signaling pathway</description>
+      <go_id>GO:0060334</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of multicellular organism growth</description>
+      <go_id>GO:0040014</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of protein export from nucleus</description>
+      <go_id>GO:0046825</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of type I interferon-mediated signaling pathway</description>
+      <go_id>GO:0060338</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>T cell costimulation</description>
+      <go_id>GO:0031295</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>triglyceride metabolic process</description>
+      <go_id>GO:0006641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>type I interferon-mediated signaling pathway</description>
+      <go_id>GO:0060337</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q24</locus>
+    <gene_sequence>&gt;1782 bp
+ATGACATCGCGGAGATGGTTTCACCCAAATATCACTGGTGTGGAGGCAGAAAACCTACTG
+TTGACAAGAGGAGTTGATGGCAGTTTTTTGGCAAGGCCTAGTAAAAGTAACCCTGGAGAC
+TTCACACTTTCCGTTAGAAGAAATGGAGCTGTCACCCACATCAAGATTCAGAACACTGGT
+GATTACTATGACCTGTATGGAGGGGAGAAATTTGCCACTTTGGCTGAGTTGGTCCAGTAT
+TACATGGAACATCACGGGCAATTAAAAGAGAAGAATGGAGATGTCATTGAGCTTAAATAT
+CCTCTGAACTGTGCAGATCCTACCTCTGAAAGGTGGTTTCATGGACATCTCTCTGGGAAA
+GAAGCAGAGAAATTATTAACTGAAAAAGGAAAACATGGTAGTTTTCTTGTACGAGAGAGC
+CAGAGCCACCCTGGAGATTTTGTTCTTTCTGTGCGCACTGGTGATGACAAAGGGGAGAGC
+AATGACGGCAAGTCTAAAGTGACCCATGTTATGATTCGCTGTCAGGAACTGAAATACGAC
+GTTGGTGGAGGAGAACGGTTTGATTCTTTGACAGATCTTGTGGAACATTATAAGAAGAAT
+CCTATGGTGGAAACATTGGGTACAGTACTACAACTCAAGCAGCCCCTTAACACGACTCGT
+ATAAATGCTGCTGAAATAGAAAGCAGAGTTCGAGAACTAAGCAAATTAGCTGAGACCACA
+GATAAAGTCAAACAAGGCTTTTGGGAAGAATTTGAGACACTACAACAACAGGAGTGCAAA
+CTTCTCTACAGCCGAAAAGAGGGTCAAAGGCAAGAAAACAAAAACAAAAATAGATATAAA
+AACATCCTGCCCTTTGATCATACCAGGGTTGTCCTACACGATGGTGATCCCAATGAGCCT
+GTTTCAGATTACATCAATGCAAATATCATCATGCCTGAATTTGAAACCAAGTGCAACAAT
+TCAAAGCCCAAAAAGAGTTACATTGCCACACAAGGCTGCCTGCAAAACACGGTGAATGAC
+TTTTGGCGGATGGTGTTCCAAGAAAACTCCCGAGTGATTGTCATGACAACGAAAGAAGTG
+GAGAGAGGAAAGAGTAAATGTGTCAAATACTGGCCTGATGAGTATGCTCTAAAAGAATAT
+GGCGTCATGCGTGTTAGGAACGTCAAAGAAAGCGCCGCTCATGACTATACGCTAAGAGAA
+CTTAAACTTTCAAAGGTTGGACAAGGGAATACGGAGAGAACGGTCTGGCAATACCACTTT
+CGGACCTGGCCGGACCACGGCGTGCCCAGCGACCCTGGGGGCGTGCTGGACTTCCTGGAG
+GAGGTGCACCATAAGCAGGAGAGCATCATGGATGCAGGGCCGGTCGTGGTGCACTGCAGT
+GCTGGAATTGGCCGGACAGGGACGTTCATTGTGATTGATATTCTTATTGACATCATCAGA
+GAGAAAGGTGTTGACTGCGATATTGACGTTCCCAAAACCATCCAGATGGTGCGGTCTCAG
+AGGTCAGGGATGGTCCAGACAGAAGCACAGTACCGATTTATCTATATGGCGGTCCAGCAT
+TATATTGAAACACTACAGCGCAGGATTGAAGAAGAGCAGAAAAGCAAGAGGAAAGGGCAC
+GAATATACAAATATTAAGTATTCTCTAGCGGACCAGACGAGTGGAGATCAGAGCCCTCTC
+CCGCCTTGTACTCCAACGCCACCCTGTGCAGAAATGAGAGAAGACAGTGCTAGAGTCTAT
+GAAAACGTGGGCCTGATGCAACAGCAGAAAAGTTTCAGATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>597</residue_number>
+    <molecular_weight>68010.48</molecular_weight>
+    <theoretical_pi>7.293</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SH2</name>
+        <pfam_id>PF00017</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Y_phosphatase</name>
+        <pfam_id>PF00102</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tyrosine-protein phosphatase non-receptor type 11
+MTSRRWFHPNITGVEAENLLLTRGVDGSFLARPSKSNPGDFTLSVRRNGAVTHIKIQNTG
+DYYDLYGGEKFATLAELVQYYMEHHGQLKEKNGDVIELKYPLNCADPTSERWFHGHLSGK
+EAEKLLTEKGKHGSFLVRESQSHPGDFVLSVRTGDDKGESNDGKSKVTHVMIRCQELKYD
+VGGGERFDSLTDLVEHYKKNPMVETLGTVLQLKQPLNTTRINAAEIESRVRELSKLAETT
+DKVKQGFWEEFETLQQQECKLLYSRKEGQRQENKNKNRYKNILPFDHTRVVLHDGDPNEP
+VSDYINANIIMPEFETKCNNSKPKKSYIATQGCLQNTVNDFWRMVFQENSRVIVMTTKEV
+ERGKSKCVKYWPDEYALKEYGVMRVRNVKESAAHDYTLRELKLSKVGQALLQGNTERTVW
+QYHFRTWPDHGVPSDPGGVLDFLEEVHHKQESIMDAGPVVVHCSAGIGRTGTFIVIDILI
+DIIREKGVDCDIDVPKTIQMVRSQRSGMVQTEAQYRFIYMAVQHYIETLQRRIEEEQKSK
+RKGHEYTNIKYSLADQTSGDQSPLPPCTPTPPCAEMREDSARVYENVGLMQQQKSFR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>33356177</genbank_protein_id>
+  <uniprot_id>Q06124</uniprot_id>
+  <uniprot_name>PTN11_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2SHP</pdb_id>
+    <pdb_id>3B7O</pdb_id>
+    <pdb_id>3MOW</pdb_id>
+    <pdb_id>3O5X</pdb_id>
+    <pdb_id>3TKZ</pdb_id>
+    <pdb_id>3TL0</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id>PTPN11</genecard_id>
+  <geneatlas_id>PTPN11</geneatlas_id>
+  <hgnc_id>HGNC:9644</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Adachi M, Sekiya M, Miyachi T, Matsuno K, Hinoda Y, Imai K, Yachi A: Molecular cloning of a novel protein-tyrosine phosphatase SH-PTP3 with sequence similarity to the src-homology region 2. FEBS Lett. 1992 Dec 21;314(3):335-9.</reference_text>
+      <pubmed_id>1281790</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Freeman RM Jr, Plutzky J, Neel BG: Identification of a human src homology 2-containing protein-tyrosine-phosphatase: a putative homolog of Drosophila corkscrew. Proc Natl Acad Sci U S A. 1992 Dec 1;89(23):11239-43.</reference_text>
+      <pubmed_id>1280823</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bastien L, Ramachandran C, Liu S, Adam M: Cloning, expression and mutational analysis of SH-PTP2, human protein-tyrosine phosphatase. Biochem Biophys Res Commun. 1993 Oct 15;196(1):124-33.</reference_text>
+      <pubmed_id>8216283</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ahmad S, Banville D, Zhao Z, Fischer EH, Shen SH: A widely expressed human protein-tyrosine phosphatase containing src homology 2 domains. Proc Natl Acad Sci U S A. 1993 Mar 15;90(6):2197-201.</reference_text>
+      <pubmed_id>7681589</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vogel W, Lammers R, Huang J, Ullrich A: Activation of a phosphotyrosine phosphatase by tyrosine phosphorylation.  Science. 1993 Mar 12;259(5101):1611-4.</reference_text>
+      <pubmed_id>7681217</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bennett AM, Tang TL, Sugimoto S, Walsh CT, Neel BG: Protein-tyrosine-phosphatase SHPTP2 couples platelet-derived growth factor receptor beta to Ras. Proc Natl Acad Sci U S A. 1994 Jul 19;91(15):7335-9.</reference_text>
+      <pubmed_id>8041791</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohnishi H, Kubota M, Ohtake A, Sato K, Sano S: Activation of protein-tyrosine phosphatase SH-PTP2 by a tyrosine-based activation motif of a novel brain molecule. J Biol Chem. 1996 Oct 11;271(41):25569-74.</reference_text>
+      <pubmed_id>8810330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kharitonenkov A, Chen Z, Sures I, Wang H, Schilling J, Ullrich A: A family of proteins that inhibit signalling through tyrosine kinase receptors. Nature. 1997 Mar 13;386(6621):181-6.</reference_text>
+      <pubmed_id>9062191</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nishida K, Yoshida Y, Itoh M, Fukada T, Ohtani T, Shirogane T, Atsumi T, Takahashi-Tezuka M, Ishihara K, Hibi M, Hirano T: Gab-family adapter proteins act downstream of cytokine and growth factor receptors and T- and B-cell antigen receptors. Blood. 1999 Mar 15;93(6):1809-16.</reference_text>
+      <pubmed_id>10068651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marie-Cardine A, Kirchgessner H, Bruyns E, Shevchenko A, Mann M, Autschbach F, Ratnofsky S, Meuer S, Schraven B: SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation. J Exp Med. 1999 Apr 19;189(8):1181-94.</reference_text>
+      <pubmed_id>10209036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhao R, Zhao ZJ: Dissecting the interaction of SHP-2 with PZR, an immunoglobulin family protein containing immunoreceptor tyrosine-based inhibitory motifs. J Biol Chem. 2000 Feb 25;275(8):5453-9.</reference_text>
+      <pubmed_id>10681522</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu  MJ, Zhao R, Zhao ZJ: Molecular cloning and characterization of SPAP1, an inhibitory receptor.  Biochem Biophys Res Commun. 2001 Jan 26;280(3):768-75.</reference_text>
+      <pubmed_id>11162587</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sayos J, Martin M, Chen A, Simarro M, Howie D, Morra M, Engel P, Terhorst C: Cell surface receptors Ly-9 and CD84 recruit the X-linked lymphoproliferative disease gene product SAP. Blood. 2001 Jun 15;97(12):3867-74.</reference_text>
+      <pubmed_id>11389028</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lewis J, Eiben LJ, Nelson DL, Cohen JI, Nichols KE, Ochs HD, Notarangelo LD, Duckett CS: Distinct interactions of the X-linked lymphoproliferative syndrome gene product SAP with cytoplasmic domains of members of the CD2 receptor family. Clin Immunol. 2001 Jul;100(1):15-23.</reference_text>
+      <pubmed_id>11414741</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pfrepper KI, Marie-Cardine A, Simeoni L, Kuramitsu Y, Leo A, Spicka J, Hilgert I, Scherer J, Schraven B: Structural and functional dissection of the cytoplasmic domain of the transmembrane adaptor protein SIT (SHP2-interacting transmembrane adaptor protein). Eur J Immunol. 2001 Jun;31(6):1825-36.</reference_text>
+      <pubmed_id>11433379</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ehrhardt GR, Davis RS, Hsu JT, Leu CM, Ehrhardt A, Cooper MD: The inhibitory potential of Fc receptor homolog 4 on memory B cells.  Proc Natl Acad Sci U S A. 2003 Nov 11;100(23):13489-94. Epub 2003 Nov 3.</reference_text>
+      <pubmed_id>14597715</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Y, Wolf-Yadlin A, Ross PL, Pappin DJ, Rush J, Lauffenburger DA, White FM: Time-resolved mass spectrometry of tyrosine phosphorylation sites in the epidermal growth factor receptor signaling network reveals dynamic modules. Mol Cell Proteomics. 2005 Sep;4(9):1240-50. Epub 2005 Jun 11.</reference_text>
+      <pubmed_id>15951569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao WA, Wollscheid B, O'Brien R, Eng JK, Li XJ, Bodenmiller B, Watts JD, Hood L, Aebersold R: Quantitative phosphoproteome analysis using a dendrimer conjugation chemistry and tandem mass spectrometry. Nat Methods. 2005 Aug;2(8):591-8.</reference_text>
+      <pubmed_id>16094384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Traina F, Favaro PM, Medina Sde S, Duarte Ada S, Winnischofer SM, Costa FF, Saad ST: ANKHD1, ankyrin repeat and KH domain containing 1, is overexpressed in acute leukemias and is associated with SHP2 in K562 cells. Biochim Biophys Acta. 2006 Sep;1762(9):828-34. Epub 2006 Jul 31.</reference_text>
+      <pubmed_id>16956752</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wilson TJ, Presti RM, Tassi I, Overton ET, Cella M, Colonna M: FcRL6, a new ITIM-bearing receptor on cytolytic cells, is broadly expressed by lymphocytes following HIV-1 infection. Blood. 2007 May 1;109(9):3786-93. Epub 2007 Jan 9.</reference_text>
+      <pubmed_id>17213291</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wolf-Yadlin A, Hautaniemi S, Lauffenburger DA, White FM: Multiple reaction monitoring for robust quantitative proteomic analysis of cellular signaling networks. Proc Natl Acad Sci U S A. 2007 Apr 3;104(14):5860-5. Epub 2007 Mar 26.</reference_text>
+      <pubmed_id>17389395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jakob S, Schroeder P, Lukosz M, Buchner N, Spyridopoulos I, Altschmied J, Haendeler J: Nuclear protein tyrosine phosphatase Shp-2 is one important negative regulator of nuclear export of telomerase reverse transcriptase. J Biol Chem. 2008 Nov 28;283(48):33155-61. Epub 2008 Oct 1.</reference_text>
+      <pubmed_id>18829466</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu MC, Su LL, Zou L, Liu Y, Wu N, Kong L, Zhuang ZH, Sun L, Liu HP, Hu JH, Li D, Strominger JL, Zang JW, Pei G, Ge BX: An essential function for beta-arrestin 2 in the inhibitory signaling of natural killer cells. Nat Immunol. 2008 Aug;9(8):898-907. Epub 2008 Jul 11.</reference_text>
+      <pubmed_id>18604210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dasgupta B, Dufour E, Mamdouh Z, Muller WA: A novel and critical role for tyrosine 663 in platelet endothelial cell adhesion molecule-1 trafficking and transendothelial migration. J Immunol. 2009 Apr 15;182(8):5041-51.</reference_text>
+      <pubmed_id>19342684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heibeck TH, Ding SJ, Opresko LK, Zhao R, Schepmoes AA, Yang F, Tolmachev AV, Monroe ME, Camp DG 2nd, Smith RD, Wiley HS, Qian WJ: An extensive survey of tyrosine phosphorylation revealing new sites in human mammary epithelial cells. J Proteome Res. 2009 Aug;8(8):3852-61.</reference_text>
+      <pubmed_id>19534553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hof P, Pluskey S, Dhe-Paganon S, Eck MJ, Shoelson SE: Crystal structure of the tyrosine phosphatase SHP-2.  Cell. 1998 Feb 20;92(4):441-50.</reference_text>
+      <pubmed_id>9491886</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barr AJ, Ugochukwu E, Lee WH, King ON, Filippakopoulos P, Alfano I, Savitsky P, Burgess-Brown NA, Muller S, Knapp S: Large-scale structural analysis of the classical human protein tyrosine phosphatome. Cell. 2009 Jan 23;136(2):352-63.</reference_text>
+      <pubmed_id>19167335</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang X, He Y, Liu S, Yu Z, Jiang ZX, Yang Z, Dong Y, Nabinger SC, Wu L, Gunawan AM, Wang L, Chan RJ, Zhang ZY: Salicylic acid based small molecule inhibitor for the oncogenic Src homology-2 domain containing protein tyrosine phosphatase-2 (SHP2). J Med Chem. 2010 Mar 25;53(6):2482-93.</reference_text>
+      <pubmed_id>20170098</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tartaglia M, Mehler EL, Goldberg R, Zampino G, Brunner HG, Kremer H, van der Burgt I, Crosby AH, Ion A, Jeffery S, Kalidas K, Patton MA, Kucherlapati RS, Gelb BD: Mutations in PTPN11, encoding the protein tyrosine phosphatase SHP-2, cause Noonan syndrome. Nat Genet. 2001 Dec;29(4):465-8.</reference_text>
+      <pubmed_id>11704759</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tartaglia M, Kalidas K, Shaw A, Song X, Musat DL, van der Burgt I, Brunner HG, Bertola DR, Crosby A, Ion A, Kucherlapati RS, Jeffery S, Patton MA, Gelb BD: PTPN11 mutations in Noonan syndrome: molecular spectrum, genotype-phenotype correlation, and phenotypic heterogeneity. Am J Hum Genet. 2002 Jun;70(6):1555-63. Epub 2002 May 1.</reference_text>
+      <pubmed_id>11992261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Digilio MC, Conti E, Sarkozy A, Mingarelli R, Dottorini T, Marino B, Pizzuti A, Dallapiccola B: Grouping of multiple-lentigines/LEOPARD and Noonan syndromes on the PTPN11 gene. Am J Hum Genet. 2002 Aug;71(2):389-94. Epub 2002 Jun 7.</reference_text>
+      <pubmed_id>12058348</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maheshwari M, Belmont J, Fernbach S, Ho T, Molinari L, Yakub I, Yu F, Combes A, Towbin J, Craigen WJ, Gibbs R: PTPN11 mutations in Noonan syndrome type I: detection of recurrent mutations in exons 3 and 13. Hum Mutat. 2002 Oct;20(4):298-304.</reference_text>
+      <pubmed_id>12325025</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kosaki K, Suzuki T, Muroya K, Hasegawa T, Sato S, Matsuo N, Kosaki R, Nagai T, Hasegawa Y, Ogata T: PTPN11 (protein-tyrosine phosphatase, nonreceptor-type 11) mutations in seven Japanese patients with Noonan syndrome. J Clin Endocrinol Metab. 2002 Aug;87(8):3529-33.</reference_text>
+      <pubmed_id>12161469</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schollen E, Matthijs G, Gewillig M, Fryns JP, Legius E: PTPN11 mutation in a large family with Noonan syndrome and dizygous twinning. Eur J Hum Genet. 2003 Jan;11(1):85-8.</reference_text>
+      <pubmed_id>12529711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Musante L, Kehl HG, Majewski F, Meinecke P, Schweiger S, Gillessen-Kaesbach G, Wieczorek D, Hinkel GK, Tinschert S, Hoeltzenbein M, Ropers HH, Kalscheuer VM: Spectrum of mutations in PTPN11 and genotype-phenotype correlation in 96 patients with Noonan syndrome and five patients with cardio-facio-cutaneous syndrome. Eur J Hum Genet. 2003 Feb;11(2):201-6.</reference_text>
+      <pubmed_id>12634870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kondoh T, Ishii E, Aoki Y, Shimizu T, Zaitsu M, Matsubara Y, Moriuchi H: Noonan syndrome with leukaemoid reaction and overproduction of catecholamines: a case report. Eur J Pediatr. 2003 Jul;162(7-8):548-9. Epub 2003 May 9.</reference_text>
+      <pubmed_id>12739139</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Conti E, Dottorini T, Sarkozy A, Tiller GE, Esposito G, Pizzuti A, Dallapiccola B: A novel PTPN11 mutation in LEOPARD syndrome.  Hum Mutat. 2003 Jun;21(6):654.</reference_text>
+      <pubmed_id>14961557</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarkozy A, Conti E, Seripa D, Digilio MC, Grifone N, Tandoi C, Fazio VM, Di Ciommo V, Marino B, Pizzuti A, Dallapiccola B: Correlation between PTPN11 gene mutations and congenital heart defects in Noonan and LEOPARD syndromes. J Med Genet. 2003 Sep;40(9):704-8.</reference_text>
+      <pubmed_id>12960218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tartaglia M, Niemeyer CM, Fragale A, Song X, Buechner J, Jung A, Hahlen K, Hasle H, Licht JD, Gelb BD: Somatic mutations in PTPN11 in juvenile myelomonocytic leukemia, myelodysplastic syndromes and acute myeloid leukemia. Nat Genet. 2003 Jun;34(2):148-50.</reference_text>
+      <pubmed_id>12717436</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bertola DR, Pereira AC, de Oliveira PS, Kim CA, Krieger JE: Clinical variability in a Noonan syndrome family with a new PTPN11 gene mutation. Am J Med Genet A. 2004 Nov 1;130A(4):378-83.</reference_text>
+      <pubmed_id>15384080</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshida R, Nagai T, Hasegawa T, Kinoshita E, Tanaka T, Ogata T: Two novel and one recurrent PTPN11 mutations in LEOPARD syndrome.  Am J Med Genet A. 2004 Nov 1;130A(4):432-4.</reference_text>
+      <pubmed_id>15389709</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Keren B, Hadchouel A, Saba S, Sznajer Y, Bonneau D, Leheup B, Boute O, Gaillard D, Lacombe D, Layet V, Marlin S, Mortier G, Toutain A, Beylot C, Baumann C, Verloes A, Cave H: PTPN11 mutations in patients with LEOPARD syndrome: a French multicentric experience. J Med Genet. 2004 Nov;41(11):e117.</reference_text>
+      <pubmed_id>15520399</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarkozy A, Conti E, Digilio MC, Marino B, Morini E, Pacileo G, Wilson M, Calabro R, Pizzuti A, Dallapiccola B: Clinical and molecular analysis of 30 patients with multiple lentigines LEOPARD syndrome. J Med Genet. 2004 May;41(5):e68.</reference_text>
+      <pubmed_id>15121796</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bertola DR, Pereira AC, Passetti F, de Oliveira PS, Messiaen L, Gelb BD, Kim CA, Krieger JE: Neurofibromatosis-Noonan syndrome: molecular evidence of the concurrence of both disorders in a patient. Am J Med Genet A. 2005 Jul 30;136(3):242-5.</reference_text>
+      <pubmed_id>15948193</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kalidas K, Shaw AC, Crosby AH, Newbury-Ecob R, Greenhalgh L, Temple IK, Law C, Patel A, Patton MA, Jeffery S: Genetic heterogeneity in LEOPARD syndrome: two families with no mutations in PTPN11. J Hum Genet. 2005;50(1):21-5. Epub 2004 Dec 10.</reference_text>
+      <pubmed_id>15690106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ucar C, Calyskan U, Martini S, Heinritz W: Acute myelomonocytic leukemia in a boy with LEOPARD syndrome (PTPN11 gene mutation positive). J Pediatr Hematol Oncol. 2006 Mar;28(3):123-5.</reference_text>
+      <pubmed_id>16679933</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:37 -0700</creation_date>
+  <update_date>2013-05-27 11:31:33 -0600</update_date>
+  <accession>HMDBP00965</accession>
+  <secondary_accessions>
+    <accession>6253</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DINB protein</synonym>
+    <synonym>DINP</synonym>
+  </synonyms>
+  <gene_name>POLK</gene_name>
+  <general_function>Involved in damaged DNA binding</general_function>
+  <specific_function>DNA polymerase specifically involved in DNA repair. Plays an important role in translesion synthesis, where the normal high-fidelity DNA polymerases cannot proceed and DNA synthesis stalls. Depending on the context, it inserts the correct base, but causes frequent base transitions, transversions and frameshifts. Lacks 3'-5' proofreading exonuclease activity. Forms a Schiff base with 5'-deoxyribose phosphate at abasic sites, but does not have lyase activity.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Fanconi anemia pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03460</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00998</accession>
+      <name>dCTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01342</accession>
+      <name>Thymidine 5'-triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01440</accession>
+      <name>dGTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01532</accession>
+      <name>Deoxyadenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna-directed dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>damaged dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>damaged DNA binding</description>
+      <go_id>GO:0003684</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed DNA polymerase activity</description>
+      <go_id>GO:0003887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication</description>
+      <go_id>GO:0006260</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA gap filling</description>
+      <go_id>GO:0006297</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q13</locus>
+    <gene_sequence>&gt;2613 bp
+ATGGATAGCACAAAGGAGAAGTGTGACAGTTACAAAGATGATCTTCTGCTTAGGATGGGA
+CTTAATGATAATAAAGCAGGAATGGAAGGATTAGATAAAGAGAAAATTAACAAAATTATA
+ATGGAAGCCACGAAGGGGTCCAGATTTTATGGAAATGAGCTCAAGAAAGAAAAGCAAGTC
+AACCAACGAATTGAAAATATGATGCAACAAAAAGCTCAAATCACCAGCCAACAGCTAAGA
+AAAGCACAATTACAGGTTGACAGATTTGCAATGGAATTAGAACAAAGCCGAAATTTGAGC
+AATACCATAGTGCACATTGACATGGATGCTTTCTATGCAGCTGTAGAAATGAGGGACAAT
+CCAGAATTGAAGGATAAACCCATTGCTGTAGGATCAATGAGTATGCTGTCTACTTCAAAT
+TACCATGCAAGGAGATTTGGTGTTCGTGCAGCCATGCCAGGATTTATTGCTAAGAGGCTG
+TGCCCACAACTTATAATAGTGCCCCCCAACTTTGACAAATACCGAGCTGTGAGTAAAGAG
+GTTAAGGAAATACTTGCTGATTATGATCCCAATTTTATGGCCATGAGTCTTGATGAAGCC
+TACTTGAATATAACAAAGCACTTAGAAGAAAGACAAAATTGGCCTGAGGATAAAAGAAGG
+TATTTCATCAAAATGGGAAGCTCTGTAGAAAATGATAATCCAGGAAAGGAAGTTAATAAA
+CTGAGTGAGCATGAACGATCCATCTCTCCACTACTTTTTGAAGAGAGTCCTTCTGATGTG
+CAGCCCCCAGGAGATCCTTTCCAAGTGAACTTTGAAGAACAAAACAATCCTCAAATACTC
+CAAAACTCAGTTGTTTTTGGAACATCAGCCCAGGAAGTGGTAAAGGAAATTCGTTTCAGA
+ATTGAGCAGAAAACAACACTGACAGCTAGTGCAGGCATTGCCCCAAATACAATGTTAGCA
+AAAGTATGCAGTGATAAGAATAAACCAAATGGACAATACCAAATTCTTCCCAATAGACAA
+GCTGTGATGGACTTCATCAAGGATTTACCCATTAGAAAGGTTTCTGGAATAGGAAAAGTT
+ACAGAGAAAATGTTAAAGGCCCTTGGAATTATTACATGTACAGAACTTTACCAACAGAGG
+GCATTGCTTTCTCTCCTTTTCTCTGAAACATCTTGGCATTATTTCCTTCATATCTCCTTG
+GGTCTAGGTTCAACACACCTGACGAGGGATGGAGAGAGGAAAAGTATGAGCGTTGAGAGG
+ACATTCAGTGAGATAAATAAAGCGGAAGAGCAATACAGCCTATGTCAAGAACTTTGCAGT
+GAGCTTGCTCAGGATCTACAGAAAGAAAGACTTAAGGGTAGAACTGTTACCATTAAGTTG
+AAGAATGTGAATTTTGAAGTAAAAACTCGTGCATCTACAGTTTCATCTGTTGTTTCTACT
+GCAGAAGAAATATTTGCCATTGCTAAGGAATTGCTAAAAACAGAAATTGATGCTGATTTT
+CCACATCCCTTGAGATTAAGGCTTATGGGTGTTCGGATATCTAGTTTTCCCAATGAAGAG
+GACAGGAAACACCAACAAAGGAGCATTATTGGCTTTTTACAGGCTGGAAACCAAGCCCTG
+TCAGCCACTGAGTGTACATTAGAGAAAACTGACAAAGATAAGTTTGTAAAACCTCTAGAA
+ATGTCTCATAAGAAGAGTTTCTTTGATAAAAAACGATCAGAAAGGAAATGGAGTCACCAA
+GATACATTTAAATGTGAAGCCGTGAATAAACAAAGTTTCCAGACATCACAACCATTCCAA
+GTTTTAAAGAAGAAGATGAATGAGAATTTGGAAATATCAGAGAATTCAGATGACTGTCAG
+ATACTTACCTGTCCTGTTTGCTTTAGGGCTCAAGGGTGCATCAGTCTGGAAGCCTTGAAT
+AAACATGTAGATGAATGTCTTGATGGACCTTCAATCAGTGAAAACTTTAAAATGTTCTCG
+TGTTCACATGTTTCTGCTACCAAAGTTAACAAGAAAGAAAATGTTCCTGCTTCTTCACTT
+TGTGAGAAGCAAGATTATGAAGCCCATCCAAAAATTAAAGAAATATCTTCAGTAGATTGT
+ATAGCTTTAGTAGATACTATAGATAACTCATCTAAAGCAGAAAGCATAGATGCTTTAAGT
+AATAAGCATAGCAAGGAAGAATGTTCTAGTCTCCCAAGCAAGTCTTTTAATATTGAACAC
+TGTCATCAGAATTCTTCTTCTACTGTTTCATTGGAAAACGAAGATGTTGGATCATTTAGA
+CAAGAATACCGCCAGCCTTACTTATGTGAAGTGAAAACAGGCCAAGCTCTAGTTTGTCCT
+GTTTGTAACGTAGAACAAAAGACTTCAGATCTAACCCTGTTCAATGTGCATGTGGATGTT
+TGCTTAAATAAAAGTTTTATCCAAGAATTAAGAAAGGATAAATTTAACCCAGTTAATCAA
+CCCAAAGAAAGCTCCAGAAGTACTGGTAGCTCAAGTGGAGTACAGAAGGCTGTAACAAGA
+ACAAAAAGGCCAGGATTGATGACAAAGTACTCAACATCAAAGAAAATAAAACCAAACAAT
+CCCAAACATACCCTTGATATATTTTTTAAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>870</residue_number>
+    <molecular_weight>98807.815</molecular_weight>
+    <theoretical_pi>8.128</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>IMS</name>
+        <pfam_id>PF00817</pfam_id>
+      </pfam>
+      <pfam>
+        <name>IMS_HHH</name>
+        <pfam_id>PF11798</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA polymerase kappa
+MDSTKEKCDSYKDDLLLRMGLNDNKAGMEGLDKEKINKIIMEATKGSRFYGNELKKEKQV
+NQRIENMMQQKAQITSQQLRKAQLQVDRFAMELEQSRNLSNTIVHIDMDAFYAAVEMRDN
+PELKDKPIAVGSMSMLSTSNYHARRFGVRAAMPGFIAKRLCPQLIIVPPNFDKYRAVSKE
+VKEILADYDPNFMAMSLDEAYLNITKHLEERQNWPEDKRRYFIKMGSSVENDNPGKEVNK
+LSEHERSISPLLFEESPSDVQPPGDPFQVNFEEQNNPQILQNSVVFGTSAQEVVKEIRFR
+IEQKTTLTASAGIAPNTMLAKVCSDKNKPNGQYQILPNRQAVMDFIKDLPIRKVSGIGKV
+TEKMLKALGIITCTELYQQRALLSLLFSETSWHYFLHISLGLGSTHLTRDGERKSMSVER
+TFSEINKAEEQYSLCQELCSELAQDLQKERLKGRTVTIKLKNVNFEVKTRASTVSSVVST
+AEEIFAIAKELLKTEIDADFPHPLRLRLMGVRISSFPNEEDRKHQQRSIIGFLQAGNQAL
+SATECTLEKTDKDKFVKPLEMSHKKSFFDKKRSERKWSHQDTFKCEAVNKQSFQTSQPFQ
+VLKKKMNENLEISENSDDCQILTCPVCFRAQGCISLEALNKHVDECLDGPSISENFKMFS
+CSHVSATKVNKKENVPASSLCEKQDYEAHPKIKEISSVDCIALVDTIDNSSKAESIDALS
+NKHSKEECSSLPSKSFNIEHCHQNSSSTVSLENEDVGSFRQEYRQPYLCEVKTGQALVCP
+VCNVEQKTSDLTLFNVHVDVCLNKSFIQELRKDKFNPVNQPKESSRSTGSSSGVQKAVTR
+TKRPGLMTKYSTSKKIKPNNPKHTLDIFFK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9UBT6</uniprot_id>
+  <uniprot_name>POLK_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1T94</pdb_id>
+    <pdb_id>2OH2</pdb_id>
+    <pdb_id>2W7O</pdb_id>
+    <pdb_id>2W7P</pdb_id>
+    <pdb_id>3IN5</pdb_id>
+    <pdb_id>3PZP</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB027564</genbank_gene_id>
+  <genecard_id>POLK</genecard_id>
+  <geneatlas_id>POLK</geneatlas_id>
+  <hgnc_id>HGNC:9183</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ogi T, Kato T Jr, Kato T, Ohmori H: Mutation enhancement by DINB1, a mammalian homologue of the Escherichia coli mutagenesis protein dinB. Genes Cells. 1999 Nov;4(11):607-18.</reference_text>
+      <pubmed_id>10620008</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerlach VL, Aravind L, Gotway G, Schultz RA, Koonin EV, Friedberg EC: Human and mouse homologs of Escherichia coli DinB (DNA polymerase IV), members of the UmuC/DinB superfamily. Proc Natl Acad Sci U S A. 1999 Oct 12;96(21):11922-7.</reference_text>
+      <pubmed_id>10518552</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerlach VL, Feaver WJ, Fischhaber PL, Friedberg EC: Purification and characterization of pol kappa, a DNA polymerase encoded by the human DINB1 gene. J Biol Chem. 2001 Jan 5;276(1):92-8.</reference_text>
+      <pubmed_id>11024016</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fischhaber PL, Gerlach VL, Feaver WJ, Hatahet Z, Wallace SS, Friedberg EC: Human DNA polymerase kappa bypasses and extends beyond thymine glycols during translesion synthesis in vitro, preferentially incorporating correct nucleotides. J Biol Chem. 2002 Oct 4;277(40):37604-11. Epub 2002 Jul 26.</reference_text>
+      <pubmed_id>12145297</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bergoglio V, Bavoux C, Verbiest V, Hoffmann JS, Cazaux C: Localisation of human DNA polymerase kappa to replication foci.  J Cell Sci. 2002 Dec 1;115(Pt 23):4413-8.</reference_text>
+      <pubmed_id>12414988</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haracska L, Unk I, Johnson RE, Phillips BB, Hurwitz J, Prakash L, Prakash S: Stimulation of DNA synthesis activity of human DNA polymerase kappa by PCNA. Mol Cell Biol. 2002 Feb;22(3):784-91.</reference_text>
+      <pubmed_id>11784855</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haracska L, Prakash L, Prakash S: Role of human DNA polymerase kappa as an extender in translesion synthesis. Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):16000-5. Epub 2002 Nov 20.</reference_text>
+      <pubmed_id>12444249</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wolfle WT, Washington MT, Prakash L, Prakash S: Human DNA polymerase kappa uses template-primer misalignment as a novel means for extending mispaired termini and for generating single-base deletions. Genes Dev. 2003 Sep 1;17(17):2191-9.</reference_text>
+      <pubmed_id>12952891</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haracska L, Prakash L, Prakash S: A mechanism for the exclusion of low-fidelity human Y-family DNA polymerases from base excision repair. Genes Dev. 2003 Nov 15;17(22):2777-85.</reference_text>
+      <pubmed_id>14630940</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yasui M, Suzuki N, Miller H, Matsuda T, Matsui S, Shibutani S: Translesion synthesis past 2'-deoxyxanthosine, a nitric oxide-derived DNA adduct, by mammalian DNA polymerases. J Mol Biol. 2004 Nov 26;344(3):665-74.</reference_text>
+      <pubmed_id>15533436</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uljon SN, Johnson RE, Edwards TA, Prakash S, Prakash L, Aggarwal AK: Crystal structure of the catalytic core of human DNA polymerase kappa.  Structure. 2004 Aug;12(8):1395-404.</reference_text>
+      <pubmed_id>15296733</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

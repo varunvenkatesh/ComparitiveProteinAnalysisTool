@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:10 -0700</creation_date>
+  <update_date>2013-05-27 11:26:05 -0600</update_date>
+  <accession>HMDBP00429</accession>
+  <secondary_accessions>
+    <accession>5666</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>MT-A70</synonym>
+    <synonym>Methyltransferase-like protein 3</synonym>
+  </synonyms>
+  <gene_name>METTL3</gene_name>
+  <general_function>Involved in methyltransferase activity</general_function>
+  <specific_function>N6-methyltransferase that methylates adenosine residues of some mRNAs. N6-methyladenosine (m6A), which is present at internal sites of some mRNAs, may play a role in the efficiency of mRNA splicing, transport or translation.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04044</accession>
+      <name>N6-Methyladenosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear speck</description>
+      <go_id>GO:0016607</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity</description>
+      <go_id>GO:0016422</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gene expression</description>
+      <go_id>GO:0010467</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus speckle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>14</chromosome_location>
+    <locus>14q11.1</locus>
+    <gene_sequence>&gt;1743 bp
+ATGTCGGACACGTGGAGCTCTATCCAGGCCCACAAGAAGCAGCTGGACTCTCTGCGGGAG
+AGGCTGCAGCGGAGGCGGAAGCAGGACTCGGGGCACTTGGATCTACGGAATCCAGAGGCA
+GCATTGTCTCCAACCTTCCGTAGTGACAGCCCAGTGCCTACTGCACCCACCTCTGGTGGC
+CCTAAGCCCAGCACAGCTTCAGCAGTTCCTGAATTAGCTACAGATCCTGAGTTAGAGAAG
+AAGTTGCTACACCACCTCTCTGATCTGGCCTTAACATTGCCCACTGATGCTGTGTCCATC
+TGTCTTGCCATCTCCACGCCAGATGCTCCTGCCACTCAAGATGGGGTAGAAAGCCTCCTG
+CAGAAGTTTGCAGCTCAGGAGTTGATTGAGGTAAAGCGAGGTCTCCTACAAGATGATGCA
+CATCCTACTCTTGTAACCTATGCTGACCATTCCAAGCTCTCTGCCATGATGGGTGCTGTG
+GCAGAAAAGAAGGGCCCTGGGGAGGTAGCAGGGACTGTCACAGGGCAGAAGCGGCGTGCA
+GAACAGGACTCGACTACAGTAGCTGCCTTTGCCAGTTCGTTAGTCTCTGGTCTGAACTCT
+TCAGCATCGGAACCAGCAAAGGAGCCAGCCAAGAAATCAAGGAAACATGCTGCCTCAGAT
+GTTGATCTGGAGATAGAGAGCCTTCTGAACCAACAGTCCACTAAGGAACAACAGAGCAAG
+AAGGTCAGTCAGGAGATCCTAGAGCTATTAAATACTACAACAGCCAAGGAACAATCCATT
+GTTGAAAAATTTCGCTCTCGAGGTCGGGCCCAAGTGCAAGAATTCTGTGACTATGGAACC
+AAGGAGGAGTGCATGAAAGCCAGTGATGCTGATCGACCCTGTCGCAAGCTGCACTTCAGA
+CGAATTATCAATAAACACACTGATGAGTCTTTAGGTGACTGCTCTTTCCTTAATACATGT
+TTCCACATGGATACCTGCAAGTATGTTCACTATGAAATTGATGCTTGCATGGATTCTGAG
+GCCCCTGGCAGCAAAGACCACACGCCAAGCCAGGAGCTTGCTCTTACACAGAGTGTCGGA
+GGTGATTCCAGTGCAGACCGACTCTTCCCACCTCAGTGGATCTGTTGTGATATCCGCTAC
+CTGGACGTCAGTATCTTGGGCAAGTTTGCAGTTGTGATGGCTGACCCACCCTGGGATATT
+CACATGGAACTGCCCTATGGGACCCTGACAGATGATGAGATGCGCAGGCTCAACATACCC
+GTACTACAGGATGATGGCTTTCTCTTCCTCTGGGTCACAGGCAGGGCCATGGAGTTGGGG
+AGAGAATGTCTAAATCTCTGGGGGTATGAACGGGTAGATGAAATTATTTGGGTGAAGACA
+AATCAACTGCAACGCATCATTCGGACAGGCCGTACAGGTCACTGGTTGAACCATGGGAAG
+GAACACTGCTTGGTTGGTGTCAAAGGAAATCCCCAAGGCTTCAACCAGGGTCTGGATTGT
+GATGTGATCGTAGCTGAGGTTCGTTCCACCAGTCATAAACCAGATGAAATCTATGGCATG
+ATTGAAAGACTATCTCCTGGCACTCGCAAGATTGAGTTATTTGGACGACCACACAATGTG
+CAACCCAACTGGATCACCCTTGGAAACCAACTGGATGGGATCCACCTACTAGACCCAGAT
+GTGGTTGCACGGTTCAAGCAAAGGTACCCAGATGGTATCATCTCTAAACCTAAGAATTTA
+TAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>580</residue_number>
+    <molecular_weight>64473.345</molecular_weight>
+    <theoretical_pi>6.42</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MT-A70</name>
+        <pfam_id>PF05063</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;N6-adenosine-methyltransferase 70 kDa subunit
+MSDTWSSIQAHKKQLDSLRERLQRRRKQDSGHLDLRNPEAALSPTFRSDSPVPTAPTSGG
+PKPSTASAVPELATDPELEKKLLHHLSDLALTLPTDAVSICLAISTPDAPATQDGVESLL
+QKFAAQELIEVKRGLLQDDAHPTLVTYADHSKLSAMMGAVAEKKGPGEVAGTVTGQKRRA
+EQDSTTVAAFASSLVSGLNSSASEPAKEPAKKSRKHAASDVDLEIESLLNQQSTKEQQSK
+KVSQEILELLNTTTAKEQSIVEKFRSRGRAQVQEFCDYGTKEECMKASDADRPCRKLHFR
+RIINKHTDESLGDCSFLNTCFHMDTCKYVHYEIDACMDSEAPGSKDHTPSQELALTQSVG
+GDSSADRLFPPQWICCDIRYLDVSILGKFAVVMADPPWDIHMELPYGTLTDDEMRRLNIP
+VLQDDGFLFLWVTGRAMELGRECLNLWGYERVDEIIWVKTNQLQRIIRTGRTGHWLNHGK
+EHCLVGVKGNPQGFNQGLDCDVIVAEVRSTSHKPDEIYGMIERLSPGTRKIELFGRPHNV
+QPNWITLGNQLDGIHLLDPDVVARFKQRYPDGIISKPKNL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>21361827</genbank_protein_id>
+  <uniprot_id>Q86U44</uniprot_id>
+  <uniprot_name>MTA70_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_019852.3</genbank_gene_id>
+  <genecard_id>METTL3</genecard_id>
+  <geneatlas_id>METTL3</geneatlas_id>
+  <hgnc_id>HGNC:17563</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Bokar JA, Shambaugh ME, Polayes D, Matera AG, Rottman FM: Purification and cDNA cloning of the AdoMet-binding subunit of the human mRNA (N6-adenosine)-methyltransferase. RNA. 1997 Nov;3(11):1233-47.</reference_text>
+      <pubmed_id>9409616</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heilig R, Eckenberg R, Petit JL, Fonknechten N, Da Silva C, Cattolico L, Levy M, Barbe V, de Berardinis V, Ureta-Vidal A, Pelletier E, Vico V, Anthouard V, Rowen L, Madan A, Qin S, Sun H, Du H, Pepin K, Artiguenave F, Robert C, Cruaud C, Bruls T, Jaillon O, Friedlander L, Samson G, Brottier P, Cure S, Segurens B, Aniere F, Samain S, Crespeau H, Abbasi N, Aiach N, Boscus D, Dickhoff R, Dors M, Dubois I, Friedman C, Gouyvenoux M, James R, Madan A, Mairey-Estrada B, Mangenot S, Martins N, Menard M, Oztas S, Ratcliffe A, Shaffer T, Trask B, Vacherie B, Bellemere C, Belser C, Besnard-Gonnet M, Bartol-Mavel D, Boutard M, Briez-Silla S, Combette S, Dufosse-Laurent V, Ferron C, Lechaplais C, Louesse C, Muselet D, Magdelenat G, Pateau E, Petit E, Sirvain-Trukniewicz P, Trybou A, Vega-Czarny N, Bataille E, Bluet E, Bordelais I, Dubois M, Dumont C, Guerin T, Haffray S, Hammadi R, Muanga J, Pellouin V, Robert D, Wunderle E, Gauguet G, Roy A, Sainte-Marthe L, Verdier J, Verdier-Discala C, Hillier L, Fulton L, McPherson J, Matsuda F, Wilson R, Scarpelli C, Gyapay G, Wincker P, Saurin W, Quetier F, Waterston R, Hood L, Weissenbach J: The DNA sequence and analysis of human chromosome 14.  Nature. 2003 Feb 6;421(6923):601-7. Epub 2003 Jan 1.</reference_text>
+      <pubmed_id>12508121</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:22:20 -0700</creation_date>
+  <update_date>2013-05-27 11:35:25 -0600</update_date>
+  <accession>HMDBP09352</accession>
+  <secondary_accessions>
+    <accession>15202</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>NeuAc-alpha-2,3-Gal-beta-1,3-GalNAc-alpha-2,6-sialyltransferase</synonym>
+    <synonym>ST6GalNAc IV</synonym>
+    <synonym>Sialyltransferase 3C</synonym>
+    <synonym>Sialyltransferase 7D</synonym>
+    <synonym>ST6GalNAcIV</synonym>
+    <synonym>SIAT3-C</synonym>
+    <synonym>SIAT7-D</synonym>
+  </synonyms>
+  <gene_name>ST6GALNAC4</gene_name>
+  <general_function/>
+  <specific_function>Involved in the biosynthesis of ganglioside GD1A from GM1B. Transfers CMP-NeuAc with an alpha-2,6-linkage to GalNAc residue on NeuAc-alpha-2,3-Gal-beta-1,3-GalNAc of glycoproteins and glycolipids. Prefers glycoproteins to glycolipids (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycosphingolipid biosynthesis - ganglio series</name>
+      <smpdb_id/>
+      <kegg_map_id>map00604</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00095</accession>
+      <name>Cytidine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01176</accession>
+      <name>Cytidine monophosphate N-acetylneuraminic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sialyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>physiological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biopolymer metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biopolymer modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid glycosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to organelle membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to golgi membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to golgi membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to Golgi membrane</description>
+      <go_id>GO:0030173</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>(alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity</description>
+      <go_id>GO:0047290</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sialyltransferase activity</description>
+      <go_id>GO:0008373</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolipid metabolic process</description>
+      <go_id>GO:0006664</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>O-glycan processing</description>
+      <go_id>GO:0016266</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-translational protein modification</description>
+      <go_id>GO:0043687</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q34</locus>
+    <gene_sequence>&gt;909 bp
+ATGAAGGCTCCGGGTCGGCTCGTGCTCATCATCCTGTGCTCCGTGGTCTTCTCTGCCGTC
+TACATCCTCCTGTGCTGCTGGGCCGGCCTGCCCCTCTGCCTGGCCACCTGCCTGGACCAC
+CACTTCCCCACAGGCTCCAGGCCCACTGTGCCGGGACCCCTGCACTTCAGTGGATATAGC
+AGTGTGCCAGATGGGAAGCCGCTGGTCCGCGAGCCCTGCCGCAGCTGTGCCGTGGTGTCC
+AGCTCCGGCCAAATGCTGGGCTCAGGCCTGGGTGCTGAGATCGACAGTGCCGAGTGCGTG
+TTCCGCATGAACCAGGCGCCCACCGTGGGCTTTGAGGCGGATGTGGGCCAGCGCAGCACC
+CTGCGTGTCGTCTCACACACAAGCGTGCCGCTGCTGCTGCGCAACTATTCACACTACTTC
+CAGAAGGCCCGAGACACGCTCTACATGGTGTGGGGCCAGGGCAGGCACATGGACCGGGTG
+CTCGGCGGCCGCACCTACCGCACGCTGCTGCAGCTCACCAGGATGTACCCCGGCCTGCAG
+GTGTACACCTTCACGGAGCGCATGATGGCCTACTGCGACCAGATCTTCCAGGACGAGACG
+GGCAAGAACCGGAGGCAGTCGGGCTCCTTCCTCAGCACCGGCTGGTTCACCATGATCCTC
+GCGCTGGAGCTGTGTGAGGAGATCGTGGTCTATGGGATGGTCAGCGACAGCTACTGCAGG
+GAGAAGAGCCACCCCTCAGTGCCTTACCACTACTTTGAGAAGGGCCGGCTAGATGAGTGT
+CAGATGTACCTGGCACACGAGCAGGCGCCCCGAAGCGCCCACCGCTTCATCACTGAGAAG
+GCGGTCTTCTCCCGCTGGGCCAAGAAGAGGCCCATCGTGTTCGCCCATCCGTCCTGGAGG
+ACTGAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>302</residue_number>
+    <molecular_weight>34200.255</molecular_weight>
+    <theoretical_pi>8.569</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glyco_transf_29</name>
+        <pfam_id>PF00777</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;ST6 neuraminyl-2,3-beta-galactosyl-1,3-N-acetylgalactosaminide alpha- 2,6-sialyltransferase 4 (ST6 (Alpha-N-acetyl-neuraminyl-2,3-beta- galactosyl-1, 3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4, isoform CRA_a)
+MKAPGRLVLIILCSVVFSAVYILLCCWAGLPLCLATCLDHHFPTGSRPTVPGPLHFSGYS
+SVPDGKPLVREPCRSCAVVSSSGQMLGSGLGAEIDSAECVFRMNQAPTVGFEADVGQRST
+LRVVSHTSVPLLLRNYSHYFQKARDTLYMVWGQGRHMDRVLGGRTYRTLLQLTRMYPGLQ
+VYTFTERMMAYCDQIFQDETGKNRRQSGSFLSTGWFTMILALELCEEIVVYGMVSDSYCR
+EKSHPSVPYHYFEKGRLDECQMYLAHEQAPRSAHRFITEKAVFSRWAKKRPIVFAHPSWR
+TE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>55958253</genbank_protein_id>
+  <uniprot_id>Q9H4F1</uniprot_id>
+  <uniprot_name>Q5T9D0_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL157935</genbank_gene_id>
+  <genecard_id>Q5T9D0</genecard_id>
+  <geneatlas_id>ST6GALNAC4</geneatlas_id>
+  <hgnc_id>HGNC:17846</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

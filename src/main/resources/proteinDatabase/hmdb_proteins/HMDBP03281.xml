@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:11:38 -0700</creation_date>
+  <update_date>2013-05-27 11:05:03 -0600</update_date>
+  <accession>HMDBP03281</accession>
+  <secondary_accessions>
+    <accession>8858</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Beta-1,3-GalTase 6</synonym>
+    <synonym>Beta3Gal-T6</synonym>
+    <synonym>Beta3GalT6</synonym>
+    <synonym>GAG GalTII</synonym>
+    <synonym>Galactosyltransferase II</synonym>
+    <synonym>Galactosylxylosylprotein 3-beta-galactosyltransferase</synonym>
+    <synonym>UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6</synonym>
+  </synonyms>
+  <gene_name>B3GALT6</gene_name>
+  <general_function>Involved in galactosyltransferase activity</general_function>
+  <specific_function>Beta-1,3-galactosyltransferase that transfers galactose from UDP-galactose to substrates with a terminal beta-linked galactose residue. Has a preference for galactose-beta-1,4-xylose that is found in the linker region of glycosaminoglycans, such as heparan sulfate and chondroitin sulfate. Has no activity towards substrates with terminal glucosamine or galactosamine residues.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>chondroitin sulfate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>heparan sulfate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate</name>
+      <smpdb_id/>
+      <kegg_map_id>map00532</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycosaminoglycan biosynthesis - heparan sulfate / heparin</name>
+      <smpdb_id/>
+      <kegg_map_id>map00534</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00629</accession>
+      <name>Chondroitin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00693</accession>
+      <name>Heparan sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06583</accession>
+      <name>Poly-N-acetyllactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00302</accession>
+      <name>Uridine diphosphategalactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>galactosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid glycosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi cisterna membrane</description>
+      <go_id>GO:0032580</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi medial cisterna</description>
+      <go_id>GO:0005797</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>galactosylxylosylprotein 3-beta-galactosyltransferase activity</description>
+      <go_id>GO:0047220</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity</description>
+      <go_id>GO:0008499</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>UDP-galactosyltransferase activity</description>
+      <go_id>GO:0035250</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chondroitin sulfate biosynthetic process</description>
+      <go_id>GO:0030206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chondroitin sulfate metabolic process</description>
+      <go_id>GO:0030204</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosaminoglycan biosynthetic process</description>
+      <go_id>GO:0006024</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heparan sulfate proteoglycan biosynthetic process</description>
+      <go_id>GO:0015012</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein glycosylation</description>
+      <go_id>GO:0006486</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Golgi stack membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p36.33</locus>
+    <gene_sequence>&gt;990 bp
+ATGAAGCTGCTGCGGCGGGCGTGGCGGCGGCGGGCGGCGCTAGGCCTGGGCACGCTGGCG
+CTGTGCGGGGCGGCGCTGCTCTACCTGGCGCGCTGCGCGGCCGAGCCCGGGGACCCCAGG
+GCGATGTCGGGCCGCAGCCCGCCTCCCCCCGCGCCCGCGCGCGCCGCCGCCTTCCTGGCA
+GTGCTGGTGGCCAGCGCGCCCCGCGCCGCCGAGCGCCGCAGCGTGATCCGCAGCACGTGG
+CTTGCGCGGCGCGGGGCCCCGGGCGACGTGTGGGCGCGCTTTGCCGTGGGCACGGCCGGC
+CTGGGCGCCGAGGAGCGGCGCGCCCTGGAGCGGGAGCAGGCGCGGCACGGGGACCTGCTG
+CTGCTGCCCGCGCTGCGCGACGCCTACGAAAACCTCACGGCCAAGGTGCTGGCCATGCTG
+GCCTGGCTGGACGAGCACGTGGCCTTCGAGTTCGTGCTCAAGGCGGACGACGACTCCTTC
+GCGCGGCTGGACGCGCTGCTGGCCGAGCTGCGCGCCCGCGAGCCCGCGCGCCGCCGCCGC
+CTCTACTGGGGCTTCTTCTCGGGCCGCGGCCGCGTCAAGCCGGGGGGGCGCTGGCGCGAG
+GCCGCCTGGCAACTCTGCGACTACTACCTGCCCTACGCGCTGGGCGGCGGCTACGTGCTC
+TCGGCCGACCTGGTGCACTACCTGCGCCTCAGCCGCGACTACCTGCGCGCCTGGCACAGC
+GAGGACGTGTCTCTGGGCGCCTGGCTGGCGCCGGTGGACGTCCAGCGGGAGCACGACCCG
+CGCTTCGACACCGAATACCGGTCCCGCGGCTGCAGCAACCAGTACCTGGTGACGCACAAG
+CAGAGCCTGGAGGACATGCTGGAGAAGCACGCGACGCTGGCGCGCGAGGGCCGCCTGTGC
+AAGCGCGAGGTGCAGCTGCGCCTGTCCTACGTGTACGACTGGTCCGCGCCGCCCTCGCAG
+TGCTGCCAGAGAAGGGAGGGCATCCCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>329</residue_number>
+    <molecular_weight>37137.08</molecular_weight>
+    <theoretical_pi>9.66</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Galactosyl_T</name>
+        <pfam_id>PF01762</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Beta-1,3-galactosyltransferase 6
+MKLLRRAWRRRAALGLGTLALCGAALLYLARCAAEPGDPRAMSGRSPPPPAPARAAAFLA
+VLVASAPRAAERRSVIRSTWLARRGAPGDVWARFAVGTAGLGAEERRALEREQARHGDLL
+LLPALRDAYENLTAKVLAMLAWLDEHVAFEFVLKADDDSFARLDALLAELRAREPARRRR
+LYWGFFSGRGRVKPGGRWREAAWQLCDYYLPYALGGGYVLSADLVHYLRLSRDYLRAWHS
+EDVSLGAWLAPVDVQREHDPRFDTEYRSRGCSNQYLVTHKQSLEDMLEKHATLAREGRLC
+KREVQLRLSYVYDWSAPPSQCCQRREGIP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>56206316</genbank_protein_id>
+  <uniprot_id>Q96L58</uniprot_id>
+  <uniprot_name>B3GT6_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL162741</genbank_gene_id>
+  <genecard_id>B3GALT6</genecard_id>
+  <geneatlas_id>B3GALT6</geneatlas_id>
+  <hgnc_id>HGNC:17978</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Bai X, Zhou D, Brown JR, Crawford BE, Hennet T, Esko JD: Biosynthesis of the linkage region of glycosaminoglycans: cloning and activity of galactosyltransferase II, the sixth member of the beta 1,3-galactosyltransferase family (beta 3GalT6). J Biol Chem. 2001 Dec 21;276(51):48189-95. Epub 2001 Sep 10.</reference_text>
+      <pubmed_id>11551958</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhou D, Dinter A, Gutierrez Gallego R, Kamerling JP, Vliegenthart JF, Berger EG, Hennet T: A beta-1,3-N-acetylglucosaminyltransferase with poly-N-acetyllactosamine synthase activity is structurally related to beta-1,3-galactosyltransferases. Proc Natl Acad Sci U S A. 1999 Jan 19;96(2):406-11.</reference_text>
+      <pubmed_id>9892646</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

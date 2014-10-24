@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:09:38 -0600</creation_date>
+  <update_date>2013-05-27 11:09:38 -0600</update_date>
+  <accession>HMDBP11654</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DCS-1</synonym>
+    <synonym>Decapping scavenger enzyme</synonym>
+    <synonym>Hint-related 7meGMP-directed hydrolase</synonym>
+    <synonym>Histidine triad nucleotide-binding protein 5</synonym>
+    <synonym>Histidine triad protein member 5</synonym>
+    <synonym>Scavenger mRNA-decapping enzyme DcpS</synonym>
+    <synonym>HINT-5</synonym>
+  </synonyms>
+  <gene_name>DCPS</gene_name>
+  <general_function/>
+  <specific_function>Decapping scavenger enzyme that catalyzes the cleavage of a residual cap structure following the degradation of mRNAs by the 3'-&gt;5' exosome-mediated mRNA decay pathway. Hydrolyzes cap analog structures like 7-methylguanosine nucleoside triphosphate (m7GpppG) with up to 10 nucleotide substrates (small capped oligoribonucleotides) and specifically releases 5'-phosphorylated RNA fragments and 7-methylguanosine monophosphate (m7GMP). Cleaves cap analog structures like tri-methyl guanosine nucleoside triphosphate (m3(2,2,7)GpppG) with very poor efficiency. Does not hydrolyze unmethylated cap analog (GpppG) and shows no decapping activity on intact m7GpppG-capped mRNA molecules longer than 25 nucleotides. Does not hydrolyze 7-methylguanosine diphosphate (m7GDP) to m7GMP (PubMed:22985415). May also play a role in the 5'-&gt;3 mRNA decay pathway; m7GDP, the downstream product released by the 5'-&gt;3' mRNA mediated decapping activity, may be also converted by DCPS to m7GMP (PubMed:14523240). Binds to m7GpppG and strongly to m7GDP. Plays a role in first intron splicing of pre-mRNAs. Inhibits activation-induced cell death.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RNA degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map03018</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59612</accession>
+      <name>7-Methylguanosine 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59613</accession>
+      <name>7-Methylguanosine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>m7G(5')pppN diphosphatase activity</description>
+      <go_id>GO:0050072</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay</description>
+      <go_id>GO:0043928</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA 7-methylguanosine cap binding</description>
+      <go_id>GO:0000340</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to menadione</description>
+      <go_id>GO:0036245</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>deadenylation-dependent decapping of nuclear-transcribed mRNA</description>
+      <go_id>GO:0000290</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mRNA cis splicing, via spliceosome</description>
+      <go_id>GO:0045292</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of programmed cell death</description>
+      <go_id>GO:0043069</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q24.2</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>38608.45</molecular_weight>
+    <theoretical_pi>6.377</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DcpS</name>
+        <pfam_id>PF05652</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|7661734|ref|NP_054745.1| m7GpppX diphosphatase [Homo sapiens]
+MADAAPQLGKRKRELDVEEAHAASTEEKEAGVGNGTCAPVRLPFSGFRLQKVLRESARDK
+IIFLHGKVNE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q96C86</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>1ST0</pdb_id>
+    <pdb_id>1ST4</pdb_id>
+    <pdb_id>1XML</pdb_id>
+    <pdb_id>1XMM</pdb_id>
+    <pdb_id>3BL7</pdb_id>
+    <pdb_id>3BL9</pdb_id>
+    <pdb_id>3BLA</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:29812</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

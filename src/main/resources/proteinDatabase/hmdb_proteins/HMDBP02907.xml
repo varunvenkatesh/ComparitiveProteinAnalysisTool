@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:03 -0700</creation_date>
+  <update_date>2013-05-27 11:40:59 -0600</update_date>
+  <accession>HMDBP02907</accession>
+  <secondary_accessions>
+    <accession>8415</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>Solute carrier family 14 member 1</synonym>
+    <synonym>Urea transporter, erythrocyte</synonym>
+  </synonyms>
+  <gene_name>SLC14A1</gene_name>
+  <general_function>Involved in urea transmembrane transporter activity</general_function>
+  <specific_function>Specialized low-affinity urea transporter. Mediates urea transport in erythrocytes.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00294</accession>
+      <name>Urea</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amide transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>urea transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>amide transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>urea transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ammonium transmembrane transporter activity</description>
+      <go_id>GO:0008519</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>urea transmembrane transporter activity</description>
+      <go_id>GO:0015204</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>water transmembrane transporter activity</description>
+      <go_id>GO:0005372</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ammonium transmembrane transport</description>
+      <go_id>GO:0072488</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>18</chromosome_location>
+    <locus>18q11-q12</locus>
+    <gene_sequence>&gt;1170 bp
+ATGGAGGACAGCCCCACTATGGTTAGAGTGGACAGCCCCACTATGGTTAGGGGTGAAAAC
+CAGGTTTCGCCATGTCAAGGGAGAAGGTGCTTCCCCAAAGCTCTTGGCTATGTCACCGGT
+GACATGAAAAAACTTGCCAACCAGCTTAAAGACAAACCCGTGGTGCTCCAGTTCATTGAC
+TGGATTCTCCGGGGCATATCCCAAGTGGTGTTCGTCAACAACCCCGTCAGTGGAATCCTG
+ATTCTGGTAGGACTTCTTGTTCAGAACCCCTGGTGGGCTCTCACTGGCTGGCTGGGAACA
+GTGGTCTCCACTCTGATGGCCCTCTTGCTCAGCCAGGACAGGTCATTAATAGCATCTGGG
+CTCTATGGCTACAATGCCACCCTGGTGGGAGTACTCATGGCTGTCTTTTCGGACAAGGGA
+GACTATTTCTGGTGGCTGTTACTCCCTGTATGTGCTATGTCCATGACTTGCCCAATTTTC
+TCAAGTGCATTGAATTCCATGCTCAGCAAATGGGACCTCCCCGTCTTCACCCTCCCTTTC
+AACATGGCGTTGTCAATGTACCTTTCAGCCACAGGACATTACAATCCGTTCTTTCCAGCC
+AAACTGGTCATACCTATAACTACAGCTCCAAATATCTCCTGGTCTGACCTCAGTGCCCTG
+GAGTTGTTGAAATCTATACCAGTGGGAGTTGGTCAGATCTATGGCTGTGATAATCCATGG
+ACAGGGGGCATTTTCCTGGGAGCCATCCTACTCTCCTCCCCACTCATGTGCCTGCATGCT
+GCCATAGGATCATTGCTGGGCATAGCAGCGGGACTCAGTCTTTCAGCCCCATTTGAGGAC
+ATCTACTTTGGACTCTGGGGTTTCAACAGCTCTCTGGCCTGCATTGCAATGGGAGGAATG
+TTCATGGCGCTCACCTGGCAAACCCACCTCCTGGCTCTTGGCTGTGCCCTGTTCACGGCC
+TATCTTGGAGTCGGCATGGCAAACTTTATGGCTGAGGTTGGATTGCCAGCTTGTACCTGG
+CCCTTCTGTTTGGCCACGCTATTGTTCCTCATCATGACCACAAAAAATTCCAACATCTAC
+AAGATGCCCCTCAGTAAAGTTACTTATCCTGAAGAAAACCGCATCTTCTACCTGCAAGCC
+AAGAAAAGAATGGTGGAAAGCCCTTTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>389</residue_number>
+    <molecular_weight>48341.29</molecular_weight>
+    <theoretical_pi>6.531</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UT</name>
+        <pfam_id>PF03253</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Urea transporter 1
+MEDSPTMVRVDSPTMVRGENQVSPCQGRRCFPKALGYVTGDMKELANQLKDKPVVLQFID
+WILRGISQVVFVNNPVSGILILVGLLVQNPWWALTGWLGTVVSTLMALLLSQDRSLIASG
+LYGYNATLVGVLMAVFSDKGDYFWWLLLPVCAMSMTCPIFSSALNSMLSKWDLPVFTLPF
+NMALSMYLSATGHYNPFFPAKLVIPITTAPNISWSDLSALELLKSIPVGVGQIYGCDNPW
+TGGIFLGAILLSSPLMCLHAAIGSLLGIAAGLSLSAPFEDIYFGLWGFNSSLACIAMGGM
+FMALTWQTHLLALGCALFTAYLGVGMANFMAEVGLPACTWPFCLATLLFLIMTTKNSNIY
+KMPLSKVTYPEENRIFYLQAKKRMVESPL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>193784782</genbank_protein_id>
+  <uniprot_id>Q13336</uniprot_id>
+  <uniprot_name>UT1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK123681</genbank_gene_id>
+  <genecard_id>SLC14A1</genecard_id>
+  <geneatlas_id>SLC14A1</geneatlas_id>
+  <hgnc_id>HGNC:10918</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Olives B, Neau P, Bailly P, Hediger MA, Rousselet G, Cartron JP, Ripoche P: Cloning and functional expression of a urea transporter from human bone marrow cells. J Biol Chem. 1994 Dec 16;269(50):31649-52.</reference_text>
+      <pubmed_id>7989337</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Davey S, Beach D: RACH2, a novel human gene that complements a fission yeast cell cycle checkpoint mutation. Mol Biol Cell. 1995 Oct;6(10):1411-21.</reference_text>
+      <pubmed_id>8573795</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olives B, Merriman M, Bailly P, Bain S, Barnett A, Todd J, Cartron JP, Merriman T: The molecular basis of the Kidd blood group polymorphism and its lack of association with type 1 diabetes susceptibility. Hum Mol Genet. 1997 Jul;6(7):1017-20.</reference_text>
+      <pubmed_id>9215669</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sidoux-Walter F, Lucien N, Olives B, Gobin R, Rousselet G, Kamsteeg EJ, Ripoche P, Deen PM, Cartron JP, Bailly P: At physiological expression levels the Kidd blood group/urea transporter protein is not a water channel. J Biol Chem. 1999 Oct 15;274(42):30228-35.</reference_text>
+      <pubmed_id>10514515</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sidoux-Walter F, Lucien N, Nissinen R, Sistonen P, Henry S, Moulds J, Cartron JP, Bailly P: Molecular heterogeneity of the Jk(null) phenotype: expression analysis of the Jk(S291P) mutation found in Finns. Blood. 2000 Aug 15;96(4):1566-73.</reference_text>
+      <pubmed_id>10942407</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Irshaid NM, Henry SM, Olsson ML: Genomic characterization of the kidd blood group gene:different molecular basis of the Jk(a-b-) phenotype in Polynesians and Finns. Transfusion. 2000 Jan;40(1):69-74.</reference_text>
+      <pubmed_id>10644814</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Urea</name>
+        <accession>HMDB00294</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ripoche P, Rousselet G: [Urea transporters].  Nephrologie. 1996;17(7):383-8.</reference_text>
+        <pubmed_id>9019665</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Urea</name>
+        <accession>HMDB00294</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Olives B, Mattei MG, Huet M, Neau P, Martial S, Cartron JP, Bailly P: Kidd blood group and urea transport function of human erythrocytes are carried by the same protein. J Biol Chem. 1995 Jun 30;270(26):15607-10.</reference_text>
+        <pubmed_id>7797558</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:10 -0700</creation_date>
+  <update_date>2013-05-27 11:21:12 -0600</update_date>
+  <accession>HMDBP00427</accession>
+  <secondary_accessions>
+    <accession>5664</accession>
+    <accession>HMDBP05711</accession>
+    <accession>HMDBP07394</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HMT</synonym>
+    <synonym>SubName: Histamine N-methyltransferase, isoform CRA_b</synonym>
+  </synonyms>
+  <gene_name>HNMT</gene_name>
+  <general_function>Involved in histamine N-methyltransferase activity</general_function>
+  <specific_function>Inactivates histamine by N-methylation. Plays an important role in degrading histamine and in regulating the airway response to histamine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Histidine Metabolism</name>
+      <smpdb_id>SMP00044</smpdb_id>
+      <kegg_map_id>map00340</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Histidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00340</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00870</accession>
+      <name>Histamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14751</accession>
+      <name>Amodiaquine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14805</accession>
+      <name>Histamine Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15016</accession>
+      <name>Chlorhexidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15235</accession>
+      <name>Quinacrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00898</accession>
+      <name>1-Methylhistamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histamine N-methyltransferase activity</description>
+      <go_id>GO:0046539</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>brain development</description>
+      <go_id>GO:0007420</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hyperosmotic response</description>
+      <go_id>GO:0006972</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>respiratory gaseous exchange</description>
+      <go_id>GO:0007585</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amine stimulus</description>
+      <go_id>GO:0014075</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cocaine</description>
+      <go_id>GO:0042220</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to glucocorticoid stimulus</description>
+      <go_id>GO:0051384</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to interleukin-1</description>
+      <go_id>GO:0070555</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to tumor cell</description>
+      <go_id>GO:0002347</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q22.1</locus>
+    <gene_sequence>&gt;879 bp
+ATGGCATCTTCCATGAGGAGCTTGTTTTCTGACCACGGGAAATATGTTGAATCTTTCCGG
+AGGTTTCTCAACCATTCCACGGAACACCAGTGCATGCAGGAATTCATGGACAAGAAGCTG
+CCAGGCATAATAGGAAGGATTGGAGACACAAAATCAGAAATTAAGATTCTAAGCATAGGC
+GGAGGTGCAGGTGAAATTGATCTTCAAATTCTCTCCAAAGTTCAGGCTCAATACCCAGGA
+GTTTGTATCAACAATGAAGTTGTTGAGCCAAGTGCTGAACAAATTGCCAAATACAAAGAG
+CTTGTAGCCAAGACATCGAACCTCGAGAACGTAAAGTTTGCTTGGCATAAGGAGACATCA
+TCTGAATACCAAAGTAGAATGTTGGAGAAAAAGGAGCTTCAAAAGTGGGACTTTATTCAT
+ATGATTCAAATGCTGTATTATGTAAAAGACATCCCAGCTACCCTGAAATTCTTCCATAGT
+CTCTTAGGTACCAATGCTAAGATGCTCATTATTGTTGTGTCAGGAAGCAGTGGCTGGGAC
+AAGCTGTGGAAAAAGTACGGATCACGCTTTCCCCAGGATGACCTCTGCCAGTATATCACA
+TCAGATGACCTCACTCAGATGCTGGACAACCTAGGGCTTAAGTATGAGTGCTATGACCTT
+TTGTCCACCATGGATATATCTGACTGCTTTATTGATGGTAATGAAAATGGAGACCTGCTT
+TGGGATTTTTTGACTGAAACCTGCAACTTTAATGCCACAGCACCACCTGATCTCAGAGCA
+GAGCTTGGGAAAGATCTACAAGAGCCTGAATTTAGTGCTAAGAAAGAGGGGAAGGTTCTT
+TTTAATAATACTCTGAGTTTCATAGTGATTGAGGCATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>292</residue_number>
+    <molecular_weight>6045.9</molecular_weight>
+    <theoretical_pi>8.349</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Methyltransf_12</name>
+        <pfam_id>PF08242</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Histamine N-methyltransferase
+MASSMRSLFSDHGKYVESFRRFLNHSTEHQCMQEFMDKKLPGIIGRIGDTKSEIKILSIG
+GGAGEIDLQILSKVQAQYPGVCINNEVVEPSAEQIAKYKELVAKTSNLENVKFAWHKETS
+SEYQSRMLEKKELQKWDFIHMIQMLYYVKDIPATLKFFHSLLGTNAKMLIIVVSGSSGWD
+KLWKKYGSRFPQDDLCQYITSDDLTQMLDNLGLKYECYDLLSTMDISDCFIDGNENGDLL
+WDFLTETCNFNATAPPDLRAELGKDLQEPEFSAKKEGKVLFNNTLSFIVIEA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62988825</genbank_protein_id>
+  <uniprot_id>P50135</uniprot_id>
+  <uniprot_name>HNMT_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1ICZ</pdb_id>
+    <pdb_id>1JQD</pdb_id>
+    <pdb_id>1JQE</pdb_id>
+    <pdb_id>2AOT</pdb_id>
+    <pdb_id>2AOU</pdb_id>
+    <pdb_id>2AOV</pdb_id>
+    <pdb_id>2AOW</pdb_id>
+    <pdb_id>2AOX</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AC093674</genbank_gene_id>
+  <genecard_id>HNMT</genecard_id>
+  <geneatlas_id>HNMT</geneatlas_id>
+  <hgnc_id>HGNC:5028</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yamauchi K, Sekizawa K, Suzuki H, Nakazawa H, Ohkawara Y, Katayose D, Ohtsu H, Tamura G, Shibahara S, Takemura M, et al.: Structure and function of human histamine N-methyltransferase: critical enzyme in histamine metabolism in airway. Am J Physiol. 1994 Sep;267(3 Pt 1):L342-9.</reference_text>
+      <pubmed_id>7943261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Girard B, Otterness DM, Wood TC, Honchel R, Wieben ED, Weinshilboum RM: Human histamine N-methyltransferase pharmacogenetics: cloning and expression of kidney cDNA. Mol Pharmacol. 1994 Mar;45(3):461-8.</reference_text>
+      <pubmed_id>8145732</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aksoy S, Raftogianis R, Weinshilboum R: Human histamine N-methyltransferase gene: structural characterization and chromosomal location. Biochem Biophys Res Commun. 1996 Feb 15;219(2):548-54.</reference_text>
+      <pubmed_id>8605025</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Horton JR, Sawada K, Nishibori M, Zhang X, Cheng X: Two polymorphic forms of human histamine methyltransferase: structural, thermal, and kinetic comparisons. Structure. 2001 Sep;9(9):837-49.</reference_text>
+      <pubmed_id>11566133</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Preuss CV, Wood TC, Szumlanski CL, Raftogianis RB, Otterness DM, Girard B, Scott MC, Weinshilboum RM: Human histamine N-methyltransferase pharmacogenetics: common genetic polymorphisms that alter activity. Mol Pharmacol. 1998 Apr;53(4):708-17.</reference_text>
+      <pubmed_id>9547362</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yan L, Galinsky RE, Bernstein JA, Liggett SB, Weinshilboum RM: Histamine N-methyltransferase pharmacogenetics: association of a common functional polymorphism with asthma. Pharmacogenetics. 2000 Apr;10(3):261-6.</reference_text>
+      <pubmed_id>10803682</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Venter JC, Adams MD, Myers EW, Li PW, Mural RJ, Sutton GG, Smith HO, Yandell M, Evans CA, Holt RA, Gocayne JD, Amanatides P, Ballew RM, Huson DH, Wortman JR, Zhang Q, Kodira CD, Zheng XH, Chen L, Skupski M, Subramanian G, Thomas PD, Zhang J, Gabor Miklos GL, Nelson C, Broder S, Clark AG, Nadeau J, McKusick VA, Zinder N, Levine AJ, Roberts RJ, Simon M, Slayman C, Hunkapiller M, Bolanos R, Delcher A, Dew I, Fasulo D, Flanigan M, Florea L, Halpern A, Hannenhalli S, Kravitz S, Levy S, Mobarry C, Reinert K, Remington K, Abu-Threideh J, Beasley E, Biddick K, Bonazzi V, Brandon R, Cargill M, Chandramouliswaran I, Charlab R, Chaturvedi K, Deng Z, Di Francesco V, Dunn P, Eilbeck K, Evangelista C, Gabrielian AE, Gan W, Ge W, Gong F, Gu Z, Guan P, Heiman TJ, Higgins ME, Ji RR, Ke Z, Ketchum KA, Lai Z, Lei Y, Li Z, Li J, Liang Y, Lin X, Lu F, Merkulov GV, Milshina N, Moore HM, Naik AK, Narayan VA, Neelam B, Nusskern D, Rusch DB, Salzberg S, Shao W, Shue B, Sun J, Wang Z, Wang A, Wang X, Wang J, Wei M, Wides R, Xiao C, Yan C, Yao A, Ye J, Zhan M, Zhang W, Zhang H, Zhao Q, Zheng L, Zhong F, Zhong W, Zhu S, Zhao S, Gilbert D, Baumhueter S, Spier G, Carter C, Cravchik A, Woodage T, Ali F, An H, Awe A, Baldwin D, Baden H, Barnstead M, Barrow I, Beeson K, Busam D, Carver A, Center A, Cheng ML, Curry L, Danaher S, Davenport L, Desilets R, Dietz S, Dodson K, Doup L, Ferriera S, Garg N, Gluecksmann A, Hart B, Haynes J, Haynes C, Heiner C, Hladun S, Hostin D, Houck J, Howland T, Ibegwam C, Johnson J, Kalush F, Kline L, Koduru S, Love A, Mann F, May D, McCawley S, McIntosh T, McMullen I, Moy M, Moy L, Murphy B, Nelson K, Pfannkoch C, Pratts E, Puri V, Qureshi H, Reardon M, Rodriguez R, Rogers YH, Romblad D, Ruhfel B, Scott R, Sitter C, Smallwood M, Stewart E, Strong R, Suh E, Thomas R, Tint NN, Tse S, Vech C, Wang G, Wetter J, Williams S, Williams M, Windsor S, Winn-Deen E, Wolfe K, Zaveri J, Zaveri K, Abril JF, Guigo R, Campbell MJ, Sjolander KV, Karlak B, Kejariwal A, Mi H, Lazareva B, Hatton T, Narechania A, Diemer K, Muruganujan A, Guo N, Sato S, Bafna V, Istrail S, Lippert R, Schwartz R, Walenz B, Yooseph S, Allen D, Basu A, Baxendale J, Blick L, Caminha M, Carnes-Stine J, Caulk P, Chiang YH, Coyne M, Dahlke C, Mays A, Dombroski M, Donnelly M, Ely D, Esparham S, Fosler C, Gire H, Glanowski S, Glasser K, Glodek A, Gorokhov M, Graham K, Gropman B, Harris M, Heil J, Henderson S, Hoover J, Jennings D, Jordan C, Jordan J, Kasha J, Kagan L, Kraft C, Levitsky A, Lewis M, Liu X, Lopez J, Ma D, Majoros W, McDaniel J, Murphy S, Newman M, Nguyen T, Nguyen N, Nodell M, Pan S, Peck J, Peterson M, Rowe W, Sanders R, Scott J, Simpson M, Smith T, Sprague A, Stockwell T, Turner R, Venter E, Wang M, Wen M, Wu D, Wu M, Xia A, Zandieh A, Zhu X: The sequence of the human genome.  Science. 2001 Feb 16;291(5507):1304-51.</reference_text>
+      <pubmed_id>11181995</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amodiaquine</name>
+        <accession>HMDB14751</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yokoyama A, Mori S, Takahashi HK, Kanke T, Wake H, Nishibori M: Effect of amodiaquine, a histamine N-methyltransferase inhibitor, on, Propionibacterium acnes and lipopolysaccharide-induced hepatitis in mice. Eur J Pharmacol. 2007 Mar 8;558(1-3):179-84. Epub 2006 Nov 22.</reference_text>
+        <pubmed_id>17222819</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amodiaquine</name>
+        <accession>HMDB14751</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nowak JZ, Zandarowska E: Effect of amodiaquine on histamine level and histamine-methyltransferase activity in the rat brain. Arch Immunol Ther Exp (Warsz). 1980;28(6):927-30.</reference_text>
+        <pubmed_id>6789797</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amodiaquine</name>
+        <accession>HMDB14751</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Barth H, Lorenz W, Troidl H: Effect of amodiaquine on gastric histamine methyltransferase and on histamine-stimulated gastric secretion. Br J Pharmacol. 1975 Nov;55(3):321-7.</reference_text>
+        <pubmed_id>1203620</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amodiaquine</name>
+        <accession>HMDB14751</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Garcia-Martin E, Ayuso P, Martinez C, Blanca M, Agundez JA: Histamine pharmacogenomics.  Pharmacogenomics. 2009 May;10(5):867-83.</reference_text>
+        <pubmed_id>19450133</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Okinaga S, Ohrui T, Nakazawa H, Yamauchi K, Sakurai E, Watanabe T, Sekizawa K, Sasaki H: The role of HMT (histamine N-methyltransferase) in airways: a review.  Methods Find Exp Clin Pharmacol. 1995 Nov;17 Suppl C:16-20.</reference_text>
+        <pubmed_id>8750789</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorhexidine</name>
+        <accession>HMDB15016</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Harle DG, Baldo BA: Structural features of potent inhibitors of rat kidney histamine N-methyltransferase. Biochem Pharmacol. 1988 Feb 1;37(3):385-8.</reference_text>
+        <pubmed_id>3337739</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinacrine</name>
+        <accession>HMDB15235</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grassmann S, Apelt J, Sippl W, Ligneau X, Pertz HH, Zhao YH, Arrang JM, Ganellin CR, Schwartz JC, Schunack W, Stark H: Imidazole derivatives as a novel class of hybrid compounds with inhibitory histamine N-methyltransferase potencies and histamine hH3 receptor affinities. Bioorg Med Chem. 2003 May 15;11(10):2163-74.</reference_text>
+        <pubmed_id>12713826</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinacrine</name>
+        <accession>HMDB15235</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hui JY, Taylor SL: Inhibition of in vivo histamine metabolism in rats by foodborne and pharmacologic inhibitors of diamine oxidase, histamine N-methyltransferase, and monoamine oxidase. Toxicol Appl Pharmacol. 1985 Nov;81(2):241-9.</reference_text>
+        <pubmed_id>3933141</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

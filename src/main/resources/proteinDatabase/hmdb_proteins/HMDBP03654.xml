@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:15:05 -0700</creation_date>
+  <update_date>2013-05-27 11:38:03 -0600</update_date>
+  <accession>HMDBP03654</accession>
+  <secondary_accessions>
+    <accession>9242</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Epsilon-trimethyllysine 2-oxoglutarate dioxygenase</synonym>
+    <synonym>Epsilon-trimethyllysine hydroxylase</synonym>
+    <synonym>TML dioxygenase</synonym>
+    <synonym>TML hydroxylase</synonym>
+    <synonym>TML-alpha-ketoglutarate dioxygenase</synonym>
+    <synonym>TMLD</synonym>
+  </synonyms>
+  <gene_name>TMLHE</gene_name>
+  <general_function>Involved in oxidation reduction</general_function>
+  <specific_function>Converts trimethyllysine (TML) into hydroxytrimethyllysine (HTML).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Carnitine Synthesis</name>
+      <smpdb_id>SMP00465</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>carnitine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01422</accession>
+      <name>3-Hydroxy-N6,N6,N6-trimethyl-L-lysine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01325</accession>
+      <name>N6,N6,N6-Trimethyl-L-lysine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00005</accession>
+      <name>2-Ketobutyric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00044</accession>
+      <name>Ascorbic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01256</accession>
+      <name>Spermine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01257</accession>
+      <name>Spermidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11634</accession>
+      <name>Norspermidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01186</accession>
+      <name>N1-Acetylspermine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01414</accession>
+      <name>Putrescine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>trimethyllysine dioxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>vitamin binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>l-ascorbic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular biogenic amine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>betaine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carnitine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carnitine biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-ascorbic acid binding</description>
+      <go_id>GO:0031418</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen</description>
+      <go_id>GO:0016702</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>trimethyllysine dioxygenase activity</description>
+      <go_id>GO:0050353</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carnitine biosynthetic process</description>
+      <go_id>GO:0045329</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of oxidoreductase activity</description>
+      <go_id>GO:0051354</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq28</locus>
+    <gene_sequence>&gt;1266 bp
+ATGTGGTACCACAGATTGTCCCACCTACACAGCAGGCTTCAGGACTTGCTGAAGGGAGGA
+GTCATATATCCGGCCCTTCCACAGCCCAACTTCAAAAGCTTACTTCCTTTAGCTGTCCAT
+TGGCACCATACAGCCTCCAAGTCTCTGACTTGTGCTTGGCAGCAACATGAAGATCATTTT
+GAGCTGAAATATGCTAATACCGTGATGCGCTTTGATTACGTCTGGCTTCGAGACCACTGC
+CGCTCAGCATCGTGCTACAACTCTAAGACTCACCAGCGCAGCCTGGATACTGCCAGTGTG
+GATTTATGTATCAAGCCAAAGACCATTCGTCTGGATGAGACCACACTCTTTTTCACTTGG
+CCAGATGGTCATGTGACTAAATATGATTTGAATTGGCTGGTGAAAAACAGCTATGAAGGG
+CAGAAACAAAAAGTCATCCAGCCTAGAATACTATGGAATGCTGAAATCTACCAGCAAGCC
+CAAGTTCCATCGGTAGATTGCCAGAGCTTCTTAGAAACCAACGAGGGACTGAAGAAGTTT
+CTGCAAAACTTTCTGCTCTATGGAATTGCATTCGTAGAAAATGTCCCTCCCACTCAAGAG
+CACACAGAGAAGTTGGCAGAAAGGATCAGCTTAATCAGAGAAACCATTTATGGGAGGATG
+TGGTATTTCACTTCAGACTTCTCCAGAGGTGACACTGCGTACACCAAGCTAGCTCTGGAT
+CGGCACACTGACACTACCTATTTTCAAGAGCCCTGTGGCATTCAAGTGTTTCATTGTCTT
+AAACATGAAGGAACTGGTGGCAGGACACTGCTAGTAGATGGATTCTATGCAGCAGAACAG
+GTACTTCAAAAGGCACCTGAGGAATTTGAACTCCTCAGTAAAGTGCCATTGAAGCATGAA
+TATATTGAAGATGTTGGAGAATGTCACAACCACATGATTGGGATTGGGCCAGTCTTAAAT
+ATCTACCCATGGAATAAAGAGCTGTATTTGATCAGGTACAACAACTATGACCGGGCTGTC
+ATCAATACCGTTCCTTATGATGTCGTCCATCGCTGGTATACAGCACACCGGACTCTAACG
+ATAGAGTTGAGGAGACCTGAGAATGAGTTTTGGGTCAAACTAAAGCCTGGCAGGGTCCTA
+TTTATAGACAACTGGCGTGTCCTACATGGCAGGGAATGCTTCACTGGCTACCGCCAACTG
+TGTGGCTGCTATTTAACAAGAGATGATGTATTAAACACTGCTCGCCTCTTGGGGCTTCAG
+GCTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>421</residue_number>
+    <molecular_weight>44048.895</molecular_weight>
+    <theoretical_pi>7.448</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DUF971</name>
+        <pfam_id>PF06155</pfam_id>
+      </pfam>
+      <pfam>
+        <name>TauD</name>
+        <pfam_id>PF02668</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Trimethyllysine dioxygenase, mitochondrial
+MWYHRLSHLHSRLQDLLKGGVIYPALPQPNFKSLLPLAVHWHHTASKSLTCAWQQHEDHF
+ELKYANTVMRFDYVWLRDHCRSASCYNSKTHQRSLDTASVDLCIKPKTIRLDETTLFFTW
+PDGHVTKYDLNWLVKNSYEGQKQKVIQPRILWNAEIYQQAQVPSVDCQSFLETNEGLKKF
+LQNFLLYGIAFVENVPPTQEHTEKLAERISLIRETIYGRMWYFTSDFSRGDTAYTKLALD
+RHTDTTYFQEPCGIQVFHCLKHEGTGGRTLLVDGFYAAEQVLQKAPEEFELLSKVPLKHE
+YIEDVGECHNHMIGIGPVLNIYPWNKELYLIRYNNYDRAVINTVPYDVVHRWYTAHRTLT
+IELRRPENEFWVKLKPGRVLFIDNWRVLHGRECFTGYRQLCGCYLTRDDVLNTARLLGLQ
+A</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9NVH6</uniprot_id>
+  <uniprot_name>TMLH_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF373407</genbank_gene_id>
+  <genecard_id>TMLHE</genecard_id>
+  <geneatlas_id>TMLHE</geneatlas_id>
+  <hgnc_id>HGNC:18308</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Vaz FM, Ofman R, Westinga K, Back JW, Wanders RJ: Molecular and Biochemical Characterization of Rat epsilon -N-Trimethyllysine Hydroxylase, the First Enzyme of Carnitine Biosynthesis. J Biol Chem. 2001 Sep 7;276(36):33512-7. Epub 2001 Jun 28.</reference_text>
+      <pubmed_id>11431483</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Monfregola J, Cevenini A, Terracciano A, van Vlies N, Arbucci S, Wanders RJ, D'Urso M, Vaz FM, Ursini MV: Functional analysis of TMLH variants and definition of domains required for catalytic activity and mitochondrial targeting. J Cell Physiol. 2005 Sep;204(3):839-47.</reference_text>
+      <pubmed_id>15754339</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

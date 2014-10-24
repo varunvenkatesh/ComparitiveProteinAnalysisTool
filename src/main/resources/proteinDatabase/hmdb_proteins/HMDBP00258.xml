@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:32 -0700</creation_date>
+  <update_date>2013-05-27 11:29:36 -0600</update_date>
+  <accession>HMDBP00258</accession>
+  <secondary_accessions>
+    <accession>5490</accession>
+    <accession>HMDBP03320</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>PCCase subunit beta</synonym>
+    <synonym>Propanoyl-CoA:carbon dioxide ligase subunit beta</synonym>
+  </synonyms>
+  <gene_name>PCCB</gene_name>
+  <general_function>Involved in ligase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Propanoate Metabolism</name>
+      <smpdb_id>SMP00016</smpdb_id>
+      <kegg_map_id>map00640</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Threonine and 2-Oxobutanoate Degradation</name>
+      <smpdb_id>SMP00452</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Valine, Leucine and Isoleucine Degradation</name>
+      <smpdb_id>SMP00032</smpdb_id>
+      <kegg_map_id>map00280</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>propanoyl-CoA degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Valine, leucine and isoleucine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00280</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glyoxylate and dicarboxylate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00630</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Propanoate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00640</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00030</accession>
+      <name>Biotin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01269</accession>
+      <name>Methylmalonyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01275</accession>
+      <name>Propionyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02310</accession>
+      <name>S-Methylmalonyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00883</accession>
+      <name>L-Valine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03538</accession>
+      <name>Carbonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>propionyl-CoA carboxylase activity</description>
+      <go_id>GO:0004658</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid beta-oxidation</description>
+      <go_id>GO:0006635</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>short-chain fatty acid catabolic process</description>
+      <go_id>GO:0019626</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3q21-q22</locus>
+    <gene_sequence>&gt;1620 bp
+ATGGCGGCGGCATTACGGGTGGCGGCGGTCGGGGCAAGGCTCAGCGTTCTGGCGAGCGGT
+CTCCGCGCCGCGGTCCGCAGCCTTTGCAGCCAGGCCACCTCTGTTAACGAACGCATCGAA
+AACAAGCGCCGGACCGCGCTGCTGGGAGGGGGCCAACGCCGTATTGACGCGCAGCACAAG
+CGAGGAAAGCTAACAGCCAGGGAGAGGATCAGTCTCTTGCTGGACCCTGGCAGCTTTGTT
+GAGAGCGACATGTTTGTGGAACACAGATGTGCAGATTTTGGAATGGCTGCTGACAAGAAT
+AAGTTTCCTGGAGACAGCGTGGTCACTGGACGAGGCCGAATCAATGGAAGATTGGTTTAT
+GTCTTCAGTCAGGATTTTACAGTTTTTGGAGGCAGTCTGTCAGGAGCACATGCCCAAAAG
+ATCTGCAAAATCATGGACCAGGCCATAACGGTGGGGGCTCCAGTGATTGGGCTGAATGAC
+TCTGGGGGAGCACGGATCCAAGAAGGAGTGGAGTCTTTGGCTGGCTATGCAGACATCTTT
+CTGAGGAATGTTACGGCATCCGGAGTCATCCCTCAGATTTCTCTGATCATGGGCCCATGT
+GCTGGTGGGGCCGTCTACTCCCCAGCCCTAACAGACTTCACGTTCATGGTAAAGGACACC
+TCCTACCTGTTCATCACTGGCCCTGATGTTGTGAAGTCTGTCACCAATGAGGATGTTACC
+CAGGAGGAGCTCGGTGGTGCCAAGACCCACACCACCATGTCAGGTGTGGCCCACAGAGCT
+TTTGAAAATGATGTTGATGCCTTGTGTAATCTCCGGGATTTCTTCAACTACCTGCCCCTG
+AGCAGTCAGGACCCGGCTTCCGTCCGTGAGTGCCACGATCCCAGTGACCGTCTGGTTCCT
+GAGCTTGACACAATTGTCCCTTTGGAATCAACCAAAGCCTACAACATGGTGGACATCATA
+CACTCTGTTGTTGATGAGCGTGAATTTTTTGAGATCATGCCCAATTATGCCAAGAACATC
+ATTGTTGGTTTTGCAAGAATGAATGGGAGGACTGTTGGAATTGTTGGCAACCAACCTAAG
+GTGGCCTCAGGATGCTTGGATATTAATTCATCTGTGAAAGGGGCTCGTTTTGTCAGATTC
+TGTGATGCATTCAATATTCCACTCATCACTTTTGTTGATGTCCCTGGCTTTCTACCTGGC
+ACAGCACAGGAATACGGGGGCATCATCCGGCATGGTGCCAAGCTTCTCTACGCATTTGCT
+GAGGCAACTGTACCCAAAGTCACAGTCATCACCAGGAAGGCCTATGGAGGTGCCTATGAT
+GTCATGAGCTCTAAGCACCTTTGTGGTGATACCAACTATGCCTGGCCCACCGCAGAGATT
+GCAGTCATGGGAGCAAAGGGCGCTGTGGAGATCATCTTCAAAGGGCATGAGAATGTGGAA
+GCTGCTCAGGCAGAGTACATCGAGAAGTTTGCCAACCCTTTCCCTGCAGCAGTGCGAGGG
+TTTGTGGATGACATCATCCAACCTTCTTCCACACGTGCCCGAATCTGCTGTGACCTGGAT
+GTCTTGGCCAGCAAGAAGGTACAACGTCCTTGGAGAAAACATGCAAATATTCCATTGTAA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>539</residue_number>
+    <molecular_weight>58215.13</molecular_weight>
+    <theoretical_pi>7.635</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Carboxyl_trans</name>
+        <pfam_id>PF01039</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Propionyl-CoA carboxylase beta chain, mitochondrial
+MAAALRVAAVGARLSVLASGLRAAVRSLCSQATSVNERIENKRRTALLGGGQRRIDAQHK
+RGKLTARERISLLLDPGSFVESDMFVEHRCADFGMAADKNKFPGDSVVTGRGRINGRLVY
+VFSQDFTVFGGSLSGAHAQKICKIMDQAITVGAPVIGLNDSGGARIQEGVESLAGYADIF
+LRNVTASGVIPQISLIMGPCAGGAVYSPALTDFTFMVKDTSYLFITGPDVVKSVTNEDVT
+QEELGGAKTHTTMSGVAHRAFENDVDALCNLRDFFNYLPLSSQDPAPVRECHDPSDRLVP
+ELDTIVPLESTKAYNMVDIIHSVVDEREFFEIMPNYAKNIIVGFARMNGRTVGIVGNQPK
+VASGCLDINSSVKGARFVRFCDAFNIPLITFVDVPGFLPGTAQEYGGIIRHGAKLLYAFA
+EATVPKVTVITRKAYGGAYDVMSSKHLCGDTNYAWPTAEIAVMGAKGAVEIIFKGHENVE
+AAQAEYIEKFANPFPAAVRGFVDDIIQPSSTRARICCDLDVLASKKVQRPWRKHANIPL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>312812</genbank_protein_id>
+  <uniprot_id>P05166</uniprot_id>
+  <uniprot_name>PCCB_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>X73424</genbank_gene_id>
+  <genecard_id>PCCB</genecard_id>
+  <geneatlas_id>PCCB</geneatlas_id>
+  <hgnc_id>HGNC:8654</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Lamhonwah AM, Leclerc D, Loyer M, Clarizio R, Gravel RA: Correction of the metabolic defect in propionic acidemia fibroblasts by microinjection of a full-length cDNA or RNA transcript encoding the propionyl-CoA carboxylase beta subunit. Genomics. 1994 Feb;19(3):500-5.</reference_text>
+      <pubmed_id>8188292</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohura T, Ogasawara M, Ikeda H, Narisawa K, Tada K: The molecular defect in propionic acidemia: exon skipping caused by an 8-bp deletion from an intron in the PCCB allele. Hum Genet. 1993 Oct;92(4):397-402.</reference_text>
+      <pubmed_id>8225321</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rodriguez-Pombo P, Hoenicka J, Muro S, Perez B, Perez-Cerda C, Richard E, Desviat LR, Ugarte M: Human propionyl-CoA carboxylase beta subunit gene: exon-intron definition and mutation spectrum in Spanish and Latin American propionic acidemia patients. Am J Hum Genet. 1998 Aug;63(2):360-9.</reference_text>
+      <pubmed_id>9683601</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lamhonwah AM, Barankiewicz TJ, Willard HF, Mahuran DJ, Quan F, Gravel RA: Isolation of cDNA clones coding for the alpha and beta chains of human propionyl-CoA carboxylase: chromosomal assignments and DNA polymorphisms associated with PCCA and PCCB genes. Proc Natl Acad Sci U S A. 1986 Jul;83(13):4864-8.</reference_text>
+      <pubmed_id>3460076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tahara T, Kraus JP, Rosenberg LE: An unusual insertion/deletion in the gene encoding the beta-subunit of propionyl-CoA carboxylase is a frequent mutation in Caucasian propionic acidemia. Proc Natl Acad Sci U S A. 1990 Feb;87(4):1372-6.</reference_text>
+      <pubmed_id>2154743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tahara T, Kraus JP, Ohura T, Rosenberg LE, Fenton WA: Three independent mutations in the same exon of the PCCB gene: differences between Caucasian and Japanese propionic acidaemia. J Inherit Metab Dis. 1993;16(2):353-60.</reference_text>
+      <pubmed_id>8411997</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muro S, Rodriguez-Pombo P, Perez B, Perez-Cerda C, Desviat LR, Sperl W, Skladal D, Sass JO, Ugarte M: Identification of novel mutations in the PCCB gene in European propionic acidemia patients. Mutation in brief no. 253. Online. Hum Mutat. 1999;14(1):89-90.</reference_text>
+      <pubmed_id>10447268</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ugarte M, Perez-Cerda C, Rodriguez-Pombo P, Desviat LR, Perez B, Richard E, Muro S, Campeau E, Ohura T, Gravel RA: Overview of mutations in the PCCA and PCCB genes causing propionic acidemia. Hum Mutat. 1999;14(4):275-82.</reference_text>
+      <pubmed_id>10502773</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muro S, Perez B, Desviat LR, Rodriguez-Pombo P, Perez-Cerda C, Clavero S, Ugarte M: Effect of PCCB gene mutations on the heteromeric and homomeric assembly of propionyl-CoA carboxylase. Mol Genet Metab. 2001 Dec;74(4):476-83.</reference_text>
+      <pubmed_id>11749052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yorifuji T, Kawai M, Muroi J, Mamada M, Kurokawa K, Shigematsu Y, Hirano S, Sakura N, Yoshida I, Kuhara T, Endo F, Mitsubuchi H, Nakahata T: Unexpectedly high prevalence of the mild form of propionic acidemia in Japan: presence of a common mutation and possible clinical implications. Hum Genet. 2002 Aug;111(2):161-5. Epub 2002 Jul 4.</reference_text>
+      <pubmed_id>12189489</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perez B, Desviat LR, Rodriguez-Pombo P, Clavero S, Navarrete R, Perez-Cerda C, Ugarte M: Propionic acidemia: identification of twenty-four novel mutations in Europe and North America. Mol Genet Metab. 2003 Jan;78(1):59-67.</reference_text>
+      <pubmed_id>12559849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang X, Sakamoto O, Matsubara Y, Kure S, Suzuki Y, Aoki Y, Yamaguchi S, Takahashi Y, Nishikubo T, Kawaguchi C, Yoshioka A, Kimura T, Hayasaka K, Kohno Y, Iinuma K, Ohura T: Mutation spectrum of the PCCA and PCCB genes in Japanese patients with propionic acidemia. Mol Genet Metab. 2004 Apr;81(4):335-42.</reference_text>
+      <pubmed_id>15059621</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Biotin</name>
+        <accession>HMDB00030</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Biotin</name>
+        <accession>HMDB00030</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Biotin</name>
+        <accession>HMDB00030</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vlasova TI, Stratton SL, Wells AM, Mock NI, Mock DM: Biotin deficiency reduces expression of SLC19A3, a potential biotin transporter, in leukocytes from human blood. J Nutr. 2005 Jan;135(1):42-7.</reference_text>
+        <pubmed_id>15623830</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Biotin</name>
+        <accession>HMDB00030</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cherbonnel-Lasserre CL, Linares-Cruz G, Rigaut JP, Sabatier L, Dutrillaux B: Strong decrease in biotin content may correlate with metabolic alterations in colorectal adenocarcinoma. Int J Cancer. 1997 Sep 4;72(5):768-75.</reference_text>
+        <pubmed_id>9311592</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Biotin</name>
+        <accession>HMDB00030</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ishii M, Chuakrut S, Arai H, Igarashi Y: Occurrence, biochemistry and possible biotechnological application of the 3-hydroxypropionate cycle. Appl Microbiol Biotechnol. 2004 Jun;64(5):605-10. Epub 2004 Feb 28.</reference_text>
+        <pubmed_id>14997352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Valine</name>
+        <accession>HMDB00883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Valine</name>
+        <accession>HMDB00883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Valine</name>
+        <accession>HMDB00883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kim SN, Ryu KH, Lee EH, Kim JS, Hahn SH: Molecular analysis of PCCB gene in Korean patients with propionic acidemia.  Mol Genet Metab. 2002 Nov;77(3):209-16.</reference_text>
+        <pubmed_id>12409268</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:11:44 -0700</creation_date>
+  <update_date>2013-01-15 19:11:44 -0700</update_date>
+  <accession>HMDBP03299</accession>
+  <secondary_accessions>
+    <accession>8877</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>COX VIII-3</synonym>
+    <synonym>Cytochrome c oxidase polypeptide 8 isoform 3</synonym>
+    <synonym>Cytochrome c oxidase polypeptide VIII isoform 3</synonym>
+    <synonym>Cytochrome c oxidase subunit 8-3</synonym>
+  </synonyms>
+  <gene_name>COX8C</gene_name>
+  <general_function>Involved in cytochrome-c oxidase activity</general_function>
+  <specific_function>This protein is one of the nuclear-coded polypeptide chains of cytochrome c oxidase, the terminal oxidase in mitochondrial electron transport</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>heme-copper terminal oxidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cytochrome-c oxidase activity</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion inner membrane</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>14q32.12</locus>
+    <gene_sequence>&gt;219 bp
+ATGCCTCTCCTGCGTGGGCGCTGTCCTGCCCGTCGCCACTACCGCCGCTTGGCCCTGCTC
+GGCCTGCAGCCCGCTCCCCGCTTCGCCCACTCGGGGCCCCCGCGCCAGCGGCCCCTGTCT
+GCCGCGGAAATGGCTGTTGGACTTGTGGTGTTTTTTACGACCTTCTTAACACCAGCTGCA
+TATGTGCTAGGCAACCTGAAGCAGTTCAGAAGGAATTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>72</residue_number>
+    <molecular_weight>8128.6</molecular_weight>
+    <theoretical_pi>12.58</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>COX8</name>
+        <pfam_id>PF02285</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>41-64</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Cytochrome c oxidase subunit 8C, mitochondrial
+MPLLRGRCPARRHYRRLALLGLQPAPRFAHSGPPRQRPLSAAEMAVGLVVFFTTFLTPAA
+YVLGNLKQFRRN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>33438742</genbank_protein_id>
+  <uniprot_id>Q7Z4L0</uniprot_id>
+  <uniprot_name>COX8C_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AY161004</genbank_gene_id>
+  <genecard_id>COX8C</genecard_id>
+  <geneatlas_id>COX8C</geneatlas_id>
+  <hgnc_id>HGNC:24382</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Huttemann M, Schmidt TR, Grossman LI: A third isoform of cytochrome c oxidase subunit VIII is present in mammals. Gene. 2003 Jul 17;312:95-102.</reference_text>
+      <pubmed_id>12909344</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:41 -0700</creation_date>
+  <update_date>2013-05-27 11:38:42 -0600</update_date>
+  <accession>HMDBP00572</accession>
+  <secondary_accessions>
+    <accession>5844</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>SFT</synonym>
+    <synonym>Stimulator of Fe transport</synonym>
+    <synonym>UBC4/5 homolog</synonym>
+    <synonym>UbcH5</synonym>
+    <synonym>Ubiquitin carrier protein D1</synonym>
+    <synonym>Ubiquitin-conjugating enzyme E2(17)KB 1</synonym>
+    <synonym>Ubiquitin-conjugating enzyme E2-17 kDa 1</synonym>
+    <synonym>Ubiquitin-protein ligase D1</synonym>
+  </synonyms>
+  <gene_name>UBE2D1</gene_name>
+  <general_function>Involved in acid-amino acid ligase activity</general_function>
+  <specific_function>Accepts ubiquitin from the E1 complex and catalyzes its covalent attachment to other proteins. In vitro catalyzes 'Lys-48'-linked polyubiquitination. Mediates the selective degradation of short-lived and abnormal proteins. Functions in the E6/E6-AP-induced ubiquitination of p53/TP53. Mediates ubiquitination of PEX5 and auto-ubiquitination of STUB1, TRAF6 and TRIM63/MURF1. Ubiquitinates STUB1-associated HSP90AB1 in vitro. Lacks inherent specificity for any particular lysine residue of ubiquitin. Essential for viral activation of IRF3. Mediates polyubiquitination of CYP3A4.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein ubiquitination</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Ubiquitin mediated proteolysis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04120</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Protein processing in endoplasmic reticulum</name>
+      <smpdb_id/>
+      <kegg_map_id>map04141</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acid-amino acid ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>small conjugating protein ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ubiquitin-protein ligase activity</description>
+      <go_id>GO:0004842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process</description>
+      <go_id>GO:0031145</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>BMP signaling pathway</description>
+      <go_id>GO:0030509</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitotic cell cycle spindle assembly checkpoint</description>
+      <go_id>GO:0007094</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle</description>
+      <go_id>GO:0051436</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle</description>
+      <go_id>GO:0051437</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein K48-linked ubiquitination</description>
+      <go_id>GO:0070936</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription from RNA polymerase II promoter in response to hypoxia</description>
+      <go_id>GO:0061418</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase II promoter</description>
+      <go_id>GO:0006367</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transforming growth factor beta receptor signaling pathway</description>
+      <go_id>GO:0007179</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q21.1</locus>
+    <gene_sequence>&gt;444 bp
+ATGGCGCTGAAGAGGATTCAGAAAGAATTGAGTGATCTACAGCGCGATCCACCTGCTCAC
+TGTTCAGCTGGACCTGTGGGAGATGACTTGTTCCACTGGCAAGCCACTATTATGGGGCCT
+CCTGATAGCGCATATCAAGGTGGAGTCTTCTTTCTCACTGTACATTTTCCGACAGATTAT
+CCTTTTAAACCACCAAAGATTGCTTTCACAACAAAAATTTACCATCCAAACATAAACAGT
+AATGGAAGTATTTGTCTCGATATTCTGAGGTCACAATGGTCACCAGCTCTGACTGTATCA
+AAAGTTTTATTGTCCATATGTTCTCTACTTTGTGATCCTAATCCAGATGACCCCTTAGTA
+CCAGATATTGCACAAATCTATAAATCAGACAAAGAAAAATACAACAGACATGCAAGAGAA
+TGGACTCAGAAATATGCAATGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>147</residue_number>
+    <molecular_weight>16601.86</molecular_weight>
+    <theoretical_pi>7.417</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UQ_con</name>
+        <pfam_id>PF00179</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ubiquitin-conjugating enzyme E2 D1
+MALKRIQKELSDLQRDPPAHCSAGPVGDDLFHWQATIMGPPDSAYQGGVFFLTVHFPTDY
+PFKPPKIAFTTKIYHPNINSNGSICLDILRSQWSPALTVSKVLLSICSLLCDPNPDDPLV
+PDIAQIYKSDKEKYNRHAREWTQKYAM</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4507773</genbank_protein_id>
+  <uniprot_id>P51668</uniprot_id>
+  <uniprot_name>UB2D1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2C4P</pdb_id>
+    <pdb_id>2YHO</pdb_id>
+    <pdb_id>3OJ4</pdb_id>
+    <pdb_id>3PTF</pdb_id>
+    <pdb_id>4AP4</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_003338.3</genbank_gene_id>
+  <genecard_id>UBE2D1</genecard_id>
+  <geneatlas_id>UBE2D1</geneatlas_id>
+  <hgnc_id>HGNC:12474</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Scheffner M, Huibregtse JM, Howley PM: Identification of a human ubiquitin-conjugating enzyme that mediates the E6-AP-dependent ubiquitination of p53. Proc Natl Acad Sci U S A. 1994 Sep 13;91(19):8797-801.</reference_text>
+      <pubmed_id>8090726</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gehrke SG, Riedel HD, Herrmann T, Hadaschik B, Bents K, Veltkamp C, Stremmel W: UbcH5A, a member of human E2 ubiquitin-conjugating enzymes, is closely related to SFT, a stimulator of iron transport, and is up-regulated in hereditary hemochromatosis. Blood. 2003 Apr 15;101(8):3288-93. Epub 2002 Dec 12.</reference_text>
+      <pubmed_id>12480712</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gutierrez JA, Yu J, Rivera S, Wessling-Resnick M: Functional expression cloning and characterization of SFT, a stimulator of Fe transport. J Cell Biol. 1997 Nov 17;139(4):895-905.</reference_text>
+      <pubmed_id>9362508</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuzawa SI, Reed JC: Siah-1, SIP, and Ebi collaborate in a novel pathway for beta-catenin degradation linked to p53 responses. Mol Cell. 2001 May;7(5):915-26.</reference_text>
+      <pubmed_id>11389839</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Subramaniam V, Li H, Wong M, Kitching R, Attisano L, Wrana J, Zubovits J, Burger AM, Seth A: The RING-H2 protein RNF11 is overexpressed in breast cancer and is a target of Smurf2 E3 ligase. Br J Cancer. 2003 Oct 20;89(8):1538-44.</reference_text>
+      <pubmed_id>14562029</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Windheim M, Peggie M, Cohen P: Two different classes of E2 ubiquitin-conjugating enzymes are required for the mono-ubiquitination of proteins and elongation by polyubiquitin chains with a specific topology. Biochem J. 2008 Feb 1;409(3):723-9.</reference_text>
+      <pubmed_id>18042044</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Espinosa A, Oke V, Elfving A, Nyberg F, Covacu R, Wahren-Herlenius M: The autoantigen Ro52 is an E3 ligase resident in the cytoplasm but enters the nucleus upon cellular exposure to nitric oxide. Exp Cell Res. 2008 Dec 10;314(20):3605-13. Epub 2008 Sep 25.</reference_text>
+      <pubmed_id>18845142</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grou CP, Carvalho AF, Pinto MP, Wiese S, Piechura H, Meyer HE, Warscheid B, Sa-Miranda C, Azevedo JE: Members of the E2D (UbcH5) family mediate the ubiquitination of the conserved cysteine of Pex5p, the peroxisomal import receptor. J Biol Chem. 2008 May 23;283(21):14190-7. Epub 2008 Mar 22.</reference_text>
+      <pubmed_id>18359941</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pabarcus MK, Hoe N, Sadeghi S, Patterson C, Wiertz E, Correia MA: CYP3A4 ubiquitination by gp78 (the tumor autocrine motility factor receptor, AMFR) and CHIP E3 ligases. Arch Biochem Biophys. 2009 Mar 1;483(1):66-74. Epub 2008 Dec 10.</reference_text>
+      <pubmed_id>19103148</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zeng W, Xu M, Liu S, Sun L, Chen ZJ: Key role of Ubc5 and lysine-63 polyubiquitination in viral activation of IRF3. Mol Cell. 2009 Oct 23;36(2):315-25.</reference_text>
+      <pubmed_id>19854139</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>David Y, Ziv T, Admon A, Navon A: The E2 ubiquitin-conjugating enzymes direct polyubiquitination to preferred lysines. J Biol Chem. 2010 Mar 19;285(12):8595-604. Epub 2010 Jan 8.</reference_text>
+      <pubmed_id>20061386</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

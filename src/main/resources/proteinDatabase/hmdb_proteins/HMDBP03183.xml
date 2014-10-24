@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:11:02 -0700</creation_date>
+  <update_date>2013-05-27 11:22:29 -0600</update_date>
+  <accession>HMDBP03183</accession>
+  <secondary_accessions>
+    <accession>8742</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>IP3 3-kinase C</synonym>
+    <synonym>IP3K C</synonym>
+    <synonym>Inositol 1,4,5-trisphosphate 3-kinase C</synonym>
+    <synonym>InsP 3-kinase C</synonym>
+  </synonyms>
+  <gene_name>ITPKC</gene_name>
+  <general_function>Involved in inositol trisphosphate 3-kinase activity</general_function>
+  <specific_function>Can phosphorylate inositol 2,4,5-triphosphate to inositol 2,4,5,6-tetraphosphate (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Inositol phosphate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00562</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Calcium signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phosphatidylinositol signaling system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04070</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01498</accession>
+      <name>Inositol 1,4,5-trisphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01059</accession>
+      <name>Inositol 1,3,4,5-tetraphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inositol or phosphatidylinositol kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inositol trisphosphate kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inositol trisphosphate 3-kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>inositol-1,4,5-trisphosphate 3-kinase activity</description>
+      <go_id>GO:0008440</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19q13.1</locus>
+    <gene_sequence>&gt;2052 bp
+ATGAGGCGCTGCCCGTGCCGTGGGAGCCTGAACGAGGCGGAGGCCGGGGCGCTGCCCGCG
+GCGGCCCGCATGGGACTGGAGGCGCCGCGAGGAGGGCGGCGGCGGCAGCCGGGACAGCAG
+CGACCTGGGCCCGGCGCAGGGGCCCCGGCGGGGCGGCCGGAGGGGGGCGGGCCCTGGGCC
+CGGACAGAGGGGTCCAGCCTCCACAGCGAGCCTGAGAGGGCCGGCCTCGGGCCTGCGCCG
+GGGACAGAGAGTCCGCAGGCAGAATTCTGGACAGACGGACAGACTGAGCCCGCGGCAGCT
+GGCCTTGGAGTAGAGACCGAGAGGCCCAAGCAAAAGACGGAGCCAGACAGGTCCAGCCTC
+CGGACGCATCTAGAATGGAGCTGGTCAGAGCTGGAGACGACTTGTCTTTGGACGGAGACC
+GGGACAGATGGCCTTTGGACTGATCCGCACAGGTCCGACCTCCAGTTTCAGCCCGAGGAG
+GCCAGCCCCTGGACACAGCCAGGGGTTCATGGGCCCTGGACAGAGCTGGAAACGCATGGG
+TCACAGACTCAGCCAGAGAGGGTCAAGTCCTGGGCTGATAACCTCTGGACCCACCAGAAC
+AGTTCCAGCCTCCAGACTCACCCAGAAGGAGCCTGTCCCTCAAAAGAGCCAAGTGCTGAT
+GGCTCCTGGAAAGAATTGTATACTGATGGCTCCAGGACACAACAGGATATTGAAGGTCCC
+TGGACAGAGCCATATACTGATGGCTCCCAGAAAAAACAGGATACTGAAGCAGCCAGGAAA
+CAGCCTGGCACTGGTGGTTTCCAAATACAACAGGATACTGATGGCTCCTGGACACAACCT
+AGCACTGACGGTTCCCAGACAGCACCTGGGACAGACTGCCTCTTGGGAGAGCCTGAGGAT
+GGCCCATTAGAGGAACCAGAGCCTGGAGAATTGCTGACTCACCTGTACTCTCACCTGAAG
+TGTAGCCCCCTGTGCCCTGTGCCCCGCCTCATCATTACCCCTGAGACCCCTGAGCCTGAG
+GCCCAGCCAGTGGGACCCCCCTCCCGGGTTGAGGGGGGCAGCGGCGGCTTCTCCTCTGCC
+TCTTCTTTCGACGAGTCTGAGGATGACGTGGTGGCCGGGGGCGGAGGTGCCAGCGATCCC
+GAGGACAGGTCTGGGAGCAAACCCTGGAAGAAGCTGAAGACAGTTCTGAAGTATTCACCC
+TTTGTGGTCTCCTTCCGAAAACACTACCCTTGGGTCCAGCTTTCTGGACATGCTGGGAAC
+TTCCAGGCAGGAGAGGATGGTCGGATTCTGAAACGTTTCTGTCAGTGTGAGCAGCGCAGC
+CTGGAGCAGCTGATGAAAGACCCGCTGCGACCTTTCGTGCCTGCCTACTATGGCATGGTG
+CTGCAGGATGGCCAGACCTTCAACCAGATGGAAGACCTCCTGGCTGACTTTGAGGGCCCC
+TCCATTATGGACTGCAAGATGGGCAGCAGGACCTATCTGGAAGAGGAGCTAGTGAAGGCA
+CGGGAACGTCCCCGTCCCCGGAAGGACATGTATGAGAAGATGGTGGCTGTGGACCCTGGG
+GCCCCTACCCCTGAGGAGCATGCCCAGGGTGCAGTCACCAAGCCCCGCTACATGCAGTGG
+AGGGAAACCATGAGCTCCACCTCTACCCTGGGCTTCCGGATCGAGGGCATCAAGAAGGCA
+GATGGGACCTGTAACACCAACTTCAAGAAGACGCAGGCACTGGAGCAGGTGACAAAAGTG
+CTGGAGGACTTCGTGGATGGAGACCACGTCATCCTGCAAAAGTACGTGGCATGCCTAGAA
+GAACTTCGTGAAGCTCTGGAGATCTCCCCCTTCTTCAAGACCCACGAGGTGGTAGGCAGC
+TCCCTCCTCTTCGTGCACGACCACACCGGCCTGGCCAAGGTCTGGATGATAGACTTCGGC
+AAGACGGTGGCCTTGCCCGACCACCAGACGCTCAGCCACAGGCTGCCCTGGGCTGAGGGC
+AACCGTGAGGACGGCTACCTCTGGGGCCTGGACAACATGATCTGCCTCCTGCAGGGGCTG
+GCACAGAGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>683</residue_number>
+    <molecular_weight>75207.0</molecular_weight>
+    <theoretical_pi>5.139</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>IPK</name>
+        <pfam_id>PF03770</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Inositol-trisphosphate 3-kinase C
+MRRCPCRGSLNEAEAGALPAAARMGLEAPRGGRRRQPGQQRPGPGAGAPAGRPEGGGPWA
+RTEGSSLHSEPERAGLGPAPGTESPQAEFWTDGQTEPAAAGLGVETERPKQKTEPDRSSL
+RTHLEWSWSELETTCLWTETGTDGLWTDPHRSDLQFQPEEASPWTQPGVHGPWTELETHG
+SQTQPERVKSWADNLWTHQNSSSLQTHPEGACPSKEPSADGSWKELYTDGSRTQQDIEGP
+WTEPYTDGSQKKQDTEAARKQPGTGGFQIQQDTDGSWTQPSTDGSQTAPGTDCLLGEPED
+GPLEEPEPGELLTHLYSHLKCSPLCPVPRLIITPETPEPEAQPVGPPSRVEGGSGGFSSA
+SSFDESEDDVVAGGGGASDPEDRSGSKPWKKLKTVLKYSPFVVSFRKHYPWVQLSGHAGN
+FQAGEDGRILKRFCQCEQRSLEQLMKDPLRPFVPAYYGMVLQDGQTFNQMEDLLADFEGP
+SIMDCKMGSRTYLEEELVKARERPRPRKDMYEKMVAVDPGAPTPEEHAQGAVTKPRYMQW
+RETMSSTSTLGFRIEGIKKADGTCNTNFKKTQALEQVTKVLEDFVDGDHVILQKYVACLE
+ELREALEISPFFKTHEVVGSSLLFVHDHTGLAKVWMIDFGKTVALPDHQTLSHRLPWAEG
+NREDGYLWGLDNMICLLQGLAQS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>14330286</genbank_protein_id>
+  <uniprot_id>Q96DU7</uniprot_id>
+  <uniprot_name>IP3KC_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2A98</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AJ290975</genbank_gene_id>
+  <genecard_id>ITPKC</genecard_id>
+  <geneatlas_id>ITPKC</geneatlas_id>
+  <hgnc_id>HGNC:14897</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Dewaste V, Pouillon V, Moreau C, Shears S, Takazawa K, Erneux C: Cloning and expression of a cDNA encoding human inositol 1,4,5-trisphosphate 3-kinase C. Biochem J. 2000 Dec 1;352 Pt 2:343-51.</reference_text>
+      <pubmed_id>11085927</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dewaste V, Moreau C, De Smedt F, Bex F, De Smedt H, Wuytack F, Missiaen L, Erneux C: The three isoenzymes of human inositol-1,4,5-trisphosphate 3-kinase show specific intracellular localization but comparable Ca2+ responses on transfection in COS-7 cells. Biochem J. 2003 Aug 15;374(Pt 1):41-9.</reference_text>
+      <pubmed_id>12747803</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kornak U, Reynders E, Dimopoulou A, van Reeuwijk J, Fischer B, Rajab A, Budde B, Nurnberg P, Foulquier F, Lefeber D, Urban Z, Gruenewald S, Annaert W, Brunner HG, van Bokhoven H, Wevers R, Morava E, Matthijs G, Van Maldergem L, Mundlos S: Impaired glycosylation and cutis laxa caused by mutations in the vesicular H+-ATPase subunit ATP6V0A2. Nat Genet. 2008 Jan;40(1):32-4. Epub 2007 Dec 23.</reference_text>
+      <pubmed_id>18157129</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

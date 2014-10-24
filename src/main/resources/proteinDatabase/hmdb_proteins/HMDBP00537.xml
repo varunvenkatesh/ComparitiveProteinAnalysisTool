@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:33 -0700</creation_date>
+  <update_date>2013-01-15 18:50:33 -0700</update_date>
+  <accession>HMDBP00537</accession>
+  <secondary_accessions>
+    <accession>5788</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Acyloxyacyl hydrolase large subunit</synonym>
+    <synonym>Acyloxyacyl hydrolase small subunit</synonym>
+  </synonyms>
+  <gene_name>AOAH</gene_name>
+  <general_function>Involved in hydrolase activity</general_function>
+  <specific_function>Removes the secondary (acyloxyacyl-linked) fatty acyl chains from the lipid A region of bacterial lipopolysaccharides</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:7</chromosome_location>
+    <locus>7p14-p12</locus>
+    <gene_sequence>&gt;1728 bp
+ATGCAGTCCCCCTGGAAAATCCTTACGGTGGCGCCTCTATTCTTGCTCCTGTCTCTTCAG
+TCCTCAGCCTCTCCAGCCAACGATGACCAGTCCAGGCCCAGCCTCTCGAATGGGCACACC
+TGTGTAGGGTGTGTGCTGGTGGTGTCTGTAATAGAACAGCTTGCTCAAGTTCACAACTCG
+ACGGTCCAGGCCTCGATGGAGAGACTGTGCAGCTACCTGCCTGAAAAACTGTTCTTGAAA
+ACCACCTGCTATTTAGTCATTGACAAGTTTGGATCAGACATCATAAAACTGCTTAGCGCA
+GATATGAATGCTGATGTGGTATGTCACACTCTGGAGTTTTGTAAACAGAACACTGGCCAA
+CCATTGTGTCATCTCTACCCTCTTCCCAAGGAGACATGGAAATTTACACTACAGAAGGCA
+AGACAAATTGTCAAGAAGTCCCCGATTCTGAAATATTCTAGAAGTGGTTCTGACATTTGT
+TCACTCCCGGTTTTGGCCAAGATCTGCCAGAAAATTAAATTAGCTATGGAACAGTCTGTG
+CCATTCAAAGATGTGGATTCAGACAAATACAGCGTTTTCCCAACACTGCGGGGCTATCAC
+TGGCGGGGGAGAGACTGTAATGACAGCGACGAGTCAGTGTACCCAGGTAGAAGGCCGAAC
+AACTGTGATGTCCATCAGGATTCAAACTGTAATGGCATTTGGGGTGTCGATCCAAAAGAT
+GGAGTTCCATATGAGAAGAAATTCTGTGAAGGTTCACAGCCCAGGGGAATCATTTTGCTG
+GGAGACTCAGCTGGGGCTCATTTTCACATCTCTCCTGAATGGATCACAGCGTCGCAGATG
+TCTTTGAACTCTTTCATCAATCTACCAACAGCCCTTACCAACGAGCTTGACTGGCCCCAA
+CTCTCTGGTGCTACAGGATTTCTGGACTCCACTGTTGGAATTAAAGAAAAATCTATTTAC
+CTTCGCTTATGGAAAAGAAACCACTGTAATCACAGGGACTACCAGAATATTTCAAGAAAT
+GGTGCATCTTCCCGAAACCTGAAGAAATTTATAGAAAGCTTGTCTAGAAACAAGGTGTTG
+GACTATCCCGCCATCGTTATATATGCCATGATTGGAAATGATGTCTGCAGTGGGAAGAGT
+GACCCAGTCCCAGCCATGACCACTCCTGAGAAACTCTACTCCAACGTCATGCAGACTCTG
+AAGCATCTAAATTCCCACCTGCCCAATGGCAGCCATGTTATTTTGTATGGCTTACCAGAT
+GGAACCTTTCTCTGGGATAATTTGCACAACAGATATCATCCTCTCGGCCAGCTAAATAAA
+GACATGACCTATGCGCAGTTGTACTCCTTCCTGAACTGCCTCCAGGTCAGCCCCTGCCAC
+GGCTGGATGTCTTCCAACAAGACGTTGCGGACTCTCACTTCAGAGAGAGCAGAGCAACTC
+TCCAACACACTGAAAAAAATTGCAGCCAGTGAGAAATTTACAAACTTCAATCTTTTCTAC
+ATGGATTTTGCCTTCCATGAAATCATACAGGAGTGGCAGAAGAGAGGCGGACAGCCCTGG
+CAGCTCATCGAGCCCGTGGATGGATTCCACCCCAACGAGGTGGCTTTGCTGTTGTTGGCG
+GATCATTTCTGGAAAAAGGTGCAGCTCCAGTGGCCCCAAATCCTGGGAAAGGAGAATCCG
+TTCAACCCCCAGATTAAACAGGTGTTTGGAGACCAAGGCGGGCACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>575</residue_number>
+    <molecular_weight>65104.0</molecular_weight>
+    <theoretical_pi>8.24</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Lipase_GDSL</name>
+        <pfam_id>PF00657</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SapB_2</name>
+        <pfam_id>PF03489</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-23</region>
+    </signal_regions>
+    <protein_sequence>&gt;Acyloxyacyl hydrolase
+MQSPWKILTVAPLFLLLSLQSSASPANDDQSRPSLSNGHTCVGCVLVVSVIEQLAQVHNS
+TVQASMERLCSYLPEKLFLKTTCYLVIDKFGSDIIKLLSADMNADVVCHTLEFCKQNTGQ
+PLCHLYPLPKETWKFTLQKARQIVKKSPILKYSRSGSDICSLPVLAKICQKIKLAMEQSV
+PFKDVDSDKYSVFPTLRGYHWRGRDCNDSDESVYPGRRPNNWDVHQDSNCNGIWGVDPKD
+GVPYEKKFCEGSQPRGIILLGDSAGAHFHISPEWITASQMSLNSFINLPTALTNELDWPQ
+LSGATGFLDSTVGIKEKSIYLRLWKRNHCNHRDYQNISRNGASSRNLKKFIESLSRNKVL
+DYPAIVIYAMIGNDVCSGKSDPVPAMTTPEKLYSNVMQTLKHLNSHLPNGSHVILYGLPD
+GTFLWDNLHNRYHPLGQLNKDMTYAQLYSFLNCLQVSPCHGWMSSNKTLRTLTSERAEQL
+SNTLKKIAASEKFTNFNLFYMDFAFHEIIQEWQKRGGQPWQLIEPVDGFHPNEVALLLLA
+DHFWKKVQLQWPQILGKENPFNPQIKQVFGDQGGH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62898684</genbank_protein_id>
+  <uniprot_id>P28039</uniprot_id>
+  <uniprot_name>AOAH_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK223476</genbank_gene_id>
+  <genecard_id>AOAH</genecard_id>
+  <geneatlas_id>AOAH</geneatlas_id>
+  <hgnc_id>HGNC:548</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hagen FS, Grant FJ, Kuijper JL, Slaughter CA, Moomaw CR, Orth K, O'Hara PJ, Munford RS: Expression and characterization of recombinant human acyloxyacyl hydrolase, a leukocyte enzyme that deacylates bacterial lipopolysaccharides. Biochemistry. 1991 Aug 27;30(34):8415-23.</reference_text>
+      <pubmed_id>1883828</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SW, Cheung J, MacDonald JR, Osborne LR, Nakabayashi K, Herbrick JA, Carson AR, Parker-Katiraee L, Skaug J, Khaja R, Zhang J, Hudek AK, Li M, Haddad M, Duggan GE, Fernandez BA, Kanematsu E, Gentles S, Christopoulos CC, Choufani S, Kwasnicka D, Zheng XH, Lai Z, Nusskern D, Zhang Q, Gu Z, Lu F, Zeesman S, Nowaczyk MJ, Teshima I, Chitayat D, Shuman C, Weksberg R, Zackai EH, Grebe TA, Cox SR, Kirkpatrick SJ, Rahman N, Friedman JM, Heng HH, Pelicci PG, Lo-Coco F, Belloni E, Shaffer LG, Pober B, Morton CC, Gusella JF, Bruns GA, Korf BR, Quade BJ, Ligon AH, Ferguson H, Higgins AW, Leach NT, Herrick SR, Lemyre E, Farra CG, Kim HG, Summers AM, Gripp KW, Roberts W, Szatmari P, Winsor EJ, Grzeschik KH, Teebi A, Minassian BA, Kere J, Armengol L, Pujana MA, Estivill X, Wilson MD, Koop BF, Tosi S, Moore GE, Boright AP, Zlotorynski E, Kerem B, Kroisel PM, Petek E, Oscier DG, Mould SJ, Dohner H, Dohner K, Rommens JM, Vincent JB, Venter JC, Li PW, Mural RJ, Adams MD, Tsui LC: Human chromosome 7: DNA sequence and biology.  Science. 2003 May 2;300(5620):767-72. Epub 2003 Apr 10.</reference_text>
+      <pubmed_id>12690205</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

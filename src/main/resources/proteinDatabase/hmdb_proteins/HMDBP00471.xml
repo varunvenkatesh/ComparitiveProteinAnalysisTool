@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:20 -0700</creation_date>
+  <update_date>2013-05-27 11:38:08 -0600</update_date>
+  <accession>HMDBP00471</accession>
+  <secondary_accessions>
+    <accession>5711</accession>
+    <accession>HMDBP05536</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Neuronal tryptophan hydroxylase</synonym>
+    <synonym>Tryptophan 5-monooxygenase 2</synonym>
+  </synonyms>
+  <gene_name>TPH2</gene_name>
+  <general_function>Involved in amino acid binding</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>serotonin biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tryptophan metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00380</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Serotonergic synapse</name>
+      <smpdb_id/>
+      <kegg_map_id>map04726</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00472</accession>
+      <name>5-Hydroxy-L-tryptophan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00929</accession>
+      <name>L-Tryptophan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00027</accession>
+      <name>Tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02281</accession>
+      <name>4a-Hydroxytetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00787</accession>
+      <name>Sapropterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59658</accession>
+      <name>L-erythro-tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15571</accession>
+      <name>Oxitriptan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02215</accession>
+      <name>4a-Carbinolamine tetrahydrobiopterin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>tryptophan 5-monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carboxylic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amino acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular biogenic amine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>indolalkylamine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>serotonin metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>serotonin biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>aromatic amino acid family metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>neuron projection</description>
+      <go_id>GO:0043005</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>amino acid binding</description>
+      <go_id>GO:0016597</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tryptophan 5-monooxygenase activity</description>
+      <go_id>GO:0004510</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>aromatic amino acid family metabolic process</description>
+      <go_id>GO:0009072</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to lithium ion</description>
+      <go_id>GO:0071285</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>circadian rhythm</description>
+      <go_id>GO:0007623</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>indolalkylamine biosynthetic process</description>
+      <go_id>GO:0046219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to activity</description>
+      <go_id>GO:0014823</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to calcium ion</description>
+      <go_id>GO:0051592</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to estrogen stimulus</description>
+      <go_id>GO:0043627</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to glucocorticoid stimulus</description>
+      <go_id>GO:0051384</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient levels</description>
+      <go_id>GO:0031667</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to stress</description>
+      <go_id>GO:0006950</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>serotonin biosynthetic process</description>
+      <go_id>GO:0042427</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q21.1</locus>
+    <gene_sequence>&gt;1473 bp
+ATGCAGCCAGCAATGATGATGTTTTCCAGTAAATACTGGGCACGGAGAGGGTTTTCCCTG
+GATTCAGCAGTGCCCGAAGAGCATCAGCTACTTGGCAGCTCAACACTAAATAAACCTAAC
+TCTGGCAAAAATGACGACAAAGGCAACAAGGGAAGCAGCAAACGTGAAGCTGCTACCGAA
+AGTGGCAAGACAGCAGTTGTTTTCTCCTTGAAGAATGAAGTTGGTGGATTGGTAAAAGCA
+CTGAGGCTCTTTCAGGAAAAACGTGTCAACATGGTTCATATTGAATCCAGGAAATCTCGG
+CGAAGAAGTTCTGAGGTTGAAATCTTTGTGGACTGTGAGTGTGGGAAAACAGAATTCAAT
+GAGCTCATTCAGTTGCTGAAATTTCAAACCACTATTGTGACGCTGAATCCTCCAGAGAAC
+ATTTGGACAGAGGAAGAAGAGCTAGAGGATGTGCCCTGGTTCCCTCGGAAGATCTCTGAG
+TTAGACAAATGCTCTCACAGAGTTCTCATGTATGGTTCTGAGCTTGATGCTGACCACCCA
+GGATTTAAGGACAATGTCTATCGACAGAGAAGAAAGTATTTTGTGGATGTGGCCATGGGT
+TATAAATATGGTCAGCCCATTCCCAGGGTGGAGTATACTGAAGAAGAAACTAAAACTTGG
+GGTGTTGTATTCCGGGAGCTCTCCAAACTCTATCCCACTCATGCTTGCCGAGAGTATTTG
+AAAAACTTCCCTCTGCTGACTAAATACTGTGGCTACAGAGAGGACAATGTGCCTCAACTC
+GAAGATGTCTCCATGTTTCTGAAAGAAAGGTCTGGCTTCACGGTGAGGCCGGTGGCTGGA
+TACCTGAGCCCACGAGACTTTCTGGCAGGACTGGCCTACAGAGTGTTCCACTGTACCCAG
+TACATCCGGCATGGCTCAGATCCCCTCTACACCCCAGAACCAGACACATGCCATGAACTC
+TTGGGACATGTTCCACTACTTGCGGATCCTAAGTTTGCTCAGTTTTCACAAGAAATAGGT
+CTGGCGTCTCTGGGAGCATCAGATGAAGATGTTCAGAAACTAGCCACGTGCTATTTCTTC
+ACAATCGAGTTTGGCCTTTGCAAGCAAGAAGGGCAACTGCGGGCATATGGAGCAGGACTC
+CTTTCCTCCATTGGAGAATTAAAGCACGCCCTTTCTGACAAGGCATGTGTGAAAGCCTTT
+GACCCAAAGACAACTTGCTTACAGGAATGCCTTATCACCACCTTCCAGGAAGCCTACTTT
+GTTTCAGAAAGTTTTGAAGAAGCCAAAGAAAAGATGAGGGACTTTGCAAAGTCAATTACC
+CGTCCCTTCTCAGTATACTTCAATCCCTACACACAGAGTATTGAAATTCTGAAAGACACC
+AGAAGTATTGAAAATGTGGTGCAGGACCTTCGCAGCGACTTGAATACAGTGTGTGATGCT
+TTAAACAAAATGAACCAATATCTGGGGATTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>490</residue_number>
+    <molecular_weight>56056.295</molecular_weight>
+    <theoretical_pi>6.415</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ACT</name>
+        <pfam_id>PF01842</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Biopterin_H</name>
+        <pfam_id>PF00351</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tryptophan 5-hydroxylase 2
+MQPAMMMFSSKYWARRGFSLDSAVPEEHQLLGSSTLNKPNSGKNDDKGNKGSSKREAATE
+SGKTAVVFSLKNEVGGLVKALRLFQEKRVNMVHIESRKSRRRSSEVEIFVDCECGKTEFN
+ELIQLLKFQTTIVTLNPPENIWTEEEELEDVPWFPRKISELDKCSHRVLMYGSELDADHP
+GFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYL
+KNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQ
+YIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFF
+TIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYF
+VSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDA
+LNKMNQYLGI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q8IWU9</uniprot_id>
+  <uniprot_name>TPH2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AY098914</genbank_gene_id>
+  <genecard_id>TPH2</genecard_id>
+  <geneatlas_id>TPH2</geneatlas_id>
+  <hgnc_id>HGNC:20692</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Walther DJ, Peter JU, Bashammakh S, Hortnagl H, Voits M, Fink H, Bader M: Synthesis of serotonin by a second tryptophan hydroxylase isoform.  Science. 2003 Jan 3;299(5603):76.</reference_text>
+      <pubmed_id>12511643</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cichon S, Winge I, Mattheisen M, Georgi A, Karpushova A, Freudenberg J, Freudenberg-Hua Y, Babadjanova G, Van Den Bogaert A, Abramova LI, Kapiletti S, Knappskog PM, McKinney J, Maier W, Jamra RA, Schulze TG, Schumacher J, Propping P, Rietschel M, Haavik J, Nothen MM: Brain-specific tryptophan hydroxylase 2 (TPH2): a functional Pro206Ser substitution and variation in the 5'-region are associated with bipolar affective disorder. Hum Mol Genet. 2008 Jan 1;17(1):87-97. Epub 2007 Sep 27.</reference_text>
+      <pubmed_id>17905754</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang X, Gainetdinov RR, Beaulieu JM, Sotnikova TD, Burch LH, Williams RB, Schwartz DA, Krishnan KR, Caron MG: Loss-of-function mutation in tryptophan hydroxylase-2 identified in unipolar major depression. Neuron. 2005 Jan 6;45(1):11-6.</reference_text>
+      <pubmed_id>15629698</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McKinney J, Johansson S, Halmoy A, Dramsdahl M, Winge I, Knappskog PM, Haavik J: A loss-of-function mutation in tryptophan hydroxylase 2 segregating with attention-deficit/hyperactivity disorder. Mol Psychiatry. 2008 Apr;13(4):365-7.</reference_text>
+      <pubmed_id>18347598</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McKinney JA, Turel B, Winge I, Knappskog PM, Haavik J: Functional properties of missense variants of human tryptophan hydroxylase 2. Hum Mutat. 2009 May;30(5):787-94.</reference_text>
+      <pubmed_id>19319927</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tryptophan</name>
+        <accession>HMDB00929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lopez VA, Detera-Wadleigh S, Cardona I, Kassem L, McMahon FJ: Nested Association Between Genetic Variation in Tryptophan Hydroxylase II, Bipolar Affective Disorder, and Suicide Attempts. Biol Psychiatry. 2006 Jun 23;.</reference_text>
+        <pubmed_id>16806105</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tryptophan</name>
+        <accession>HMDB00929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kraus MR, Al-Taie O, Schafer A, Pfersdorff M, Lesch KP, Scheurlen M: Serotonin-1A receptor gene HTR1A variation predicts interferon-induced depression in chronic hepatitis C. Gastroenterology. 2007 Apr;132(4):1279-86. Epub 2007 Feb 25.</reference_text>
+        <pubmed_id>17408646</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tryptophan</name>
+        <accession>HMDB00929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nakamura K, Hasegawa H: Developmental role of tryptophan hydroxylase in the nervous system.  Mol Neurobiol. 2007 Feb;35(1):45-54.</reference_text>
+        <pubmed_id>17519505</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tryptophan</name>
+        <accession>HMDB00929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Invernizzi RW: Role of TPH-2 in brain function: news from behavioral and pharmacologic studies.  J Neurosci Res. 2007 Nov 1;85(14):3030-5.</reference_text>
+        <pubmed_id>17492791</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Tryptophan</name>
+        <accession>HMDB00929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Calcagno E, Canetta A, Guzzetti S, Cervo L, Invernizzi RW: Strain differences in basal and post-citalopram extracellular 5-HT in the mouse medial prefrontal cortex and dorsal hippocampus: relation with tryptophan hydroxylase-2 activity. J Neurochem. 2007 Nov;103(3):1111-20. Epub 2007 Jul 31.</reference_text>
+        <pubmed_id>17666043</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

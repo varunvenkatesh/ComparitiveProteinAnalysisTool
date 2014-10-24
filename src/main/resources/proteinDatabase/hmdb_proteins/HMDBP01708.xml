@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:47 -0700</creation_date>
+  <update_date>2013-05-27 11:20:20 -0600</update_date>
+  <accession>HMDBP01708</accession>
+  <secondary_accessions>
+    <accession>7046</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HA synthase 3</synonym>
+    <synonym>Hyaluronate synthase 3</synonym>
+    <synonym>Hyaluronic acid synthase 3</synonym>
+  </synonyms>
+  <gene_name>HAS3</gene_name>
+  <general_function>Involved in transferase activity, transferring hexosyl groups</general_function>
+  <specific_function>Plays a role in hyaluronan/hyaluronic acid (HA) synthesis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>hyaluronan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10366</accession>
+      <name>Hyaluronan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00290</accession>
+      <name>Uridine diphosphate-N-acetylglucosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00935</accession>
+      <name>Uridine diphosphate glucuronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02061</accession>
+      <name>Hyaluronic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>hyaluranon cable</description>
+      <go_id>GO:0036117</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hyaluronan synthase activity</description>
+      <go_id>GO:0050501</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hyaluronan biosynthetic process</description>
+      <go_id>GO:0030213</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of hyaluranon cable assembly</description>
+      <go_id>GO:1900106</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045893</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16q22.1</locus>
+    <gene_sequence>&gt;1662 bp
+ATGCCGGTGCAGCTGACGACAGCCCTGCGTGTGGTGGGCACCAGCCTGTTTGCCCTGGCA
+GTGCTGGGTGGCATCCTGGCAGCCTATGTGACGGGCTACCAGTTCATCCACACGGAAAAG
+CACTACCTGTCCTTCGGCCTGTACGGCGCCATCCTGGGCCTGCACCTGCTCATTCAGAGC
+CTTTTTGCCTTCCTGGAGCACCGGCGCATGCGACGTGCCGGCCAGGCCCTGAAGCTGCCC
+TCCCCGCGGCGGGGCTCGGTGGCACTGTGCATTGCCGCATACCAGGAGGACCCTGACTAC
+TTGCGCAAGTGCCTGCGCTCGGCCCAGCGCATCTCCTTCCCTGACCTCAAGGTGGTCATG
+GTGGTGGATGGCAACCGCCAGGAGGACGCCTACATGCTGGACATCTTCCACGAGGTGCTG
+GGCGGCACCGAGCAGGCCGGCTTCTTTGTGTGGCGCAGCAACTTCCATGAGGCAGGCGAG
+GGTGAGACGGAGGCCAGCCTGCAGGAGGGCATGGACCGTGTGCGGGATGTGGTGCGGGCC
+AGCACCTTCTCGTGCATCATGCAGAAGTGGGGAGGCAAGCGCGAGGTCATGTACACGGCC
+TTCAAGGCCCTCGGCGATTCGGTGGACTACATCCAGGTGTGCGACTCTGACACTGTGCTG
+GATCCAGCCTGCACCATCGAGATGCTTCGAGTCCTGGAGGAGGATCCCCAAGTAGGGGGA
+GTCGGGGGAGATGTCCAGATCCTCAACAAGTACGACTCATGGATTTCCTTCCTGAGCAGC
+GTGCGGTACTGGATGGCCTTCAACGTGGAGCGGGCCTGCCAGTCCTACTTTGGCTGTGTG
+CAGTGTATTAGTGGGCCCTTGGGCATGTACCGCAACAGCCTCCTCCAGCAGTTCCTGGAG
+GACTGGTACCATCAGAAGTTCCTAGGCAGCAAGTGCAGCTTCGGGGATGACCGGCACCTC
+ACCAACCGAGTCCTGAGCCTTGGCTACCGAACTAAGTATACCGCGCGCTCCAAGTGCCTC
+ACAGAGACCCCCACTAAGTACCTCCGGTGGCTCAACCAGCAAACCCGCTGGAGCAAGTCT
+TACTTCCGGGAGTGGCTCTACAACTCTCTGTGGTTCCATAAGCACCACCTCTGGATGACC
+TACGAGTCAGTGGTCACGGGTTTCTTCCCCTTCTTCCTCATTGCCACGGTTATACAGCTT
+TTCTACCGGGGCCGCATCTGGAACATTCTCCTCTTCCTGCTGACGGTGCAGCTGGTGGGC
+ATTATCAAGGCCACCTACGCCTGCTTCCTTCGGGGCAATGCAGAGATGATCTTCATGTCC
+CTCTACTCCCTCCTCTATATGTCCAGCCTTCTGCCGGCCAAGATCTTTGCCATTGCTACC
+ATCAACAAATCTGGCTGGGGCACCTCTGGCCGAAAAACCATTGTGGTGAACTTCATTGGC
+CTCATTCCTGTGTCCATCTGGGTGGCAGTTCTCCTGGAGGGGCTGGCCTACACAGCTTAT
+TGCCAGGACCTGTTCAGTGAGACAGAGCTAGCCTTCCTTGTCTCTGGGGCTATACTGTAT
+GGCTGCTACTGGGTGGCCCTCCTCATGCTATATCTGGCCATCATCGCCCGGCGATGTGGG
+AAGAAGCCGGAGCAGTACAGCTTGGCTTTTGCTGAGGTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>553</residue_number>
+    <molecular_weight>62997.73</molecular_weight>
+    <theoretical_pi>8.482</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Chitin_synth_2</name>
+        <pfam_id>PF03142</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Hyaluronan synthase 3
+MPVQLTTALRVVGTSLFALAVLGGILAAYVTGYQFIHTEKHYLSFGLYGAILGLHLLIQS
+LFAFLEHRRMRRAGQALKLPSPRRGSVALCIAAYQEDPDYLRKCLRSAQRISFPDLKVVM
+VVDGNRQEDAYMLDIFHEVLGGTEQAGFFVWRSNFHEAGEGETEASLQEGMDRVRDVVRA
+STFSCIMQKWGGKREVMYTAFKALGDSVDYIQVCDSDTVLDPACTIEMLRVLEEDPQVGG
+VGGDVQILNKYDSWISFLSSVRYWMAFNVERACQSYFGCVQCISGPLGMYRNSLLQQFLE
+DWYHQKFLGSKCSFGDDRHLTNRVLSLGYRTKYTARSKCLTETPTKYLRWLNQQTRWSKS
+YFREWLYNSLWFHKHHLWMTYESVVTGFFPFFLIATVIQLFYRGRIWNILLFLLTVQLVG
+IIKATYACFLRGNAEMIFMSLYSLLYMSSLLPAKIFAIATINKSGWGTSGRKTIVVNFIG
+LIPVSIWVAVLLGGLAYTAYCQDLFSETELAFLVSGAILYGCYWVALLMLYLAIIARRCG
+KKPEQYSLAFAEV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>7110558</genbank_protein_id>
+  <uniprot_id>O00219</uniprot_id>
+  <uniprot_name>HAS3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF232772</genbank_gene_id>
+  <genecard_id>HAS3</genecard_id>
+  <geneatlas_id>HAS3</geneatlas_id>
+  <hgnc_id>HGNC:4820</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Spicer AP, Olson JS, McDonald JA: Molecular cloning and characterization of a cDNA encoding the third putative mammalian hyaluronan synthase. J Biol Chem. 1997 Apr 4;272(14):8957-61.</reference_text>
+      <pubmed_id>9083017</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

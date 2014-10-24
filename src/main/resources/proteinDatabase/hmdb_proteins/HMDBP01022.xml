@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:53 -0700</creation_date>
+  <update_date>2013-05-27 11:04:37 -0600</update_date>
+  <accession>HMDBP01022</accession>
+  <secondary_accessions>
+    <accession>6310</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ASP beta-hydroxylase</synonym>
+    <synonym>Aspartate beta-hydroxylase</synonym>
+    <synonym>Peptide-aspartate beta-dioxygenase</synonym>
+  </synonyms>
+  <gene_name>ASPH</gene_name>
+  <general_function>Involved in peptide-aspartate beta-dioxygenase activity</general_function>
+  <specific_function>Isoform 1: specifically hydroxylates an Asp or Asn residue in certain epidermal growth factor-like (EGF) domains of a number of proteins.
+Isoform 8: membrane-bound Ca(2+)-sensing protein, which is a structural component of the ER-plasma membrane junctions. Isoform 8 regulates the activity of Ca(+2) released-activated Ca(+2) (CRAC) channels in T-cells.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00191</accession>
+      <name>L-Aspartic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptide-aspartate beta-dioxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>peptidyl-amino acid modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to organelle membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to endoplasmic reticulum membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to endoplasmic reticulum membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cortical endoplasmic reticulum</description>
+      <go_id>GO:0032541</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to endoplasmic reticulum membrane</description>
+      <go_id>GO:0030176</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>junctional sarcoplasmic reticulum membrane</description>
+      <go_id>GO:0014701</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>calcium ion binding</description>
+      <go_id>GO:0005509</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen</description>
+      <go_id>GO:0016702</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptide-aspartate beta-dioxygenase activity</description>
+      <go_id>GO:0004597</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>structural constituent of muscle</description>
+      <go_id>GO:0008307</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>activation of store-operated calcium channel activity</description>
+      <go_id>GO:0032237</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>calcium ion transmembrane transport</description>
+      <go_id>GO:0070588</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to calcium ion</description>
+      <go_id>GO:0071277</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>face morphogenesis</description>
+      <go_id>GO:0060325</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>limb morphogenesis</description>
+      <go_id>GO:0035108</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>muscle contraction</description>
+      <go_id>GO:0006936</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell proliferation</description>
+      <go_id>GO:0008285</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of ryanodine-sensitive calcium-release channel activity</description>
+      <go_id>GO:0060315</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>palate development</description>
+      <go_id>GO:0060021</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pattern specification process</description>
+      <go_id>GO:0007389</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-aspartic acid hydroxylation</description>
+      <go_id>GO:0042264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of calcium ion transport into cytosol</description>
+      <go_id>GO:0010524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of intracellular protein transport</description>
+      <go_id>GO:0090316</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of ryanodine-sensitive calcium-release channel activity</description>
+      <go_id>GO:0060316</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045893</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity</description>
+      <go_id>GO:0031585</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum</description>
+      <go_id>GO:0010880</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ATP</description>
+      <go_id>GO:0033198</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform 1:Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q12.1</locus>
+    <gene_sequence>&gt;2277 bp
+ATGGCCCAGCGTAAGAATGCCAAGAGCAGCGGCAACAGCAGCAGCAGCGGCTCCGGCAGC
+GGTAGCACGAGTGCGGGCAGCAGCAGCCCCGGGGCCCGGAGAGAGACAAAGCATGGAGGA
+CACAAGAATGGGAGGAAAGGCGGACTCTCAGGAACTTCATTCTTCACGTGGTTTATGGTG
+ATTGCATTGCTGGGCGTCTGGACATCTGTAGCTGTCGTTTGGTTTGATCTTGTTGACTAT
+GAGGAAGTTCTAGGAAAACTAGGAATCTATGATGCTGATGGTGATGGAGATTTTGATGTG
+GATGATGCCAAAGTTTTATTAGGACTTAAAGAGAGATCTACTTCAGAGCCAGCAGTCCCG
+CCAGAAGAGGCTGAGCCACACACTGAGCCCGAGGAGCAGGTTCCTGTGGAGGCAGAACCC
+CAGAATATCGAAGATGAAGCAAAAGAACAAATTCAGTCCCTTCTCCATGAAATGGTACAC
+GCAGAACATGTTGAGGGAGAAGACTTGCAACAAGAAGATGGACCCACAGGAGAACCACAA
+CAAGAGGATGATGAGTTTCTTATGGCGACTGATGTAGATGATAGATTTGAGACCCTGGAA
+CCTGAAGTATCTCATGAAGAAACCGAGCATAGTTACCACGTGGAAGAGACAGTTTCACAA
+GACTGTAATCAGGATATGGAAGAGATGATGTCTGAGCAGGAAAATCCAGATTCCAGTGAA
+CCAGTAGTAGAAGATGAAAGATTGCACCATGATACAGATGATGTAACATACCAAGTCTAT
+GAGGAACAAGCAGTATATGAACCTCTAGAAAATGAAGGGATAGAAATCACAGAAGTAACT
+GCTCCCCCTGAGGATAATCCTGTAGAAGATTCACAGGTAATTGTAGAAGAAGTAAGCATT
+TTTCCTGTGGAAGAACAGCAGGAAGTACCACCAGAAACAAATAGAAAAACAGATGATCCA
+GAACAAAAAGCAAAAGTTAAGAAAAAGAAGCCTAAACTTTTAAATAAATTTGATAAGACT
+ATTAAAGCTGAACTTGATGCTGCAGAAAAACTCCGTAAAAGGGGAAAAATTGAGGAAGCA
+GTGAATGCATTTAAAGAACTAGTACGCAAATACCCTCAGAGTCCACGAGCAAGATATGGG
+AAGGCGCAGTGTGAGGATGATTTGGCTGAGAAGAGGAGAAGTAATGAGGTGCTACGTGGA
+GCCATCGAGACCTACCAAGAGGTGGCCAGCCTACCTGATGTCCCTGCAGACCTGCTGAAG
+CTGAGTTTGAAGCGTCGCTCAGACAGGCAACAATTTCTAGGTCATATGAGAGGTTCCCTG
+CTTACCCTGCAGAGATTAGTTCAACTATTTCCCAATGATACTTCCTTAAAAAATGACCTT
+GGCGTGGGATACCTCTTGATAGGAGATAATGACAATGCAAAGAAAGTTTATGAAGAGGTG
+CTGAGTGTGACACCTAATGATGGCTTTGCTAAAGTCCATTATGGCTTCATCCTGAAGGCA
+CAGAACAAAATTGCTGAGAGCATCCCATATTTAAAGGAAGGAATAGAATCCGGAGATCCT
+GGCACTGATGATGGGAGATTTTATTTCCACCTGGGGGATGCCATGCAGAGGGTTGGGAAC
+AAAGAGGCATATAAGTGGTATGAGCTTGGGCACAAGAGAGGACACTTTGCATCTGTCTGG
+CAACGCTCACTCTACAATGTGAATGGACTGAAAGCACAGCCTTGGTGGACCCCAAAAGAA
+ACGGGCTACACAGAGTTAGTAAAGTCTTTAGAAAGAAACTGGAAGTTAATCCGAGATGAA
+GGCCTTGCAGTGATGGATAAAGCCAAAGGTCTCTTCCTGCCTGAGGATGAAAACCTGAGG
+GAAAAAGGGGACTGGAGCCAGTTCACGCTGTGGCAGCAAGGAAGAAGAAATGAAAATGCC
+TGCAAAGGAGCTCCTAAAACCTGTACCTTACTAGAAAAGTTCCCCGAGACAACAGGATGC
+AGAAGAGGACAGATCAAATATTCCATCATGCACCCCGGGACTCACGTGTGGCCGCACACA
+GGGCCCACAAACTGCAGGCTCCGAATGCACCTGGGCTTGGTGATTCCCAAGGAAGGCTGC
+AAGATTCGATGTGCCAACGAGACCAAGACCTGGGAGGAAGGCAAGGTGCTCATCTTTGAT
+GACTCCTTTGAGCACGAGGTATGGCAGGATGCCTCATCTTTCCGGCTGATATTCATCGTG
+GATGTGTGGCATCCGGAACTGACACCACAGCAGAGACGCAGCCTTCCAGCAATTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>758</residue_number>
+    <molecular_weight>83267.47</molecular_weight>
+    <theoretical_pi>4.914</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Asp-B-Hydro_N</name>
+        <pfam_id>PF05279</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Asp_Arg_Hydrox</name>
+        <pfam_id>PF05118</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Aspartyl/asparaginyl beta-hydroxylase
+MAQRKNAKSSGNSSSSGSGSGSTSAGSSSPGARRETKHGGHKNGRKGGLSGTSFFTWFMV
+IALLGVWTSVAVVWFDLVDYEEVLGKLGIYDADGDGDFDVDDAKVLLGLKERSTSEPAVP
+PEEAEPHTEPEEQVPVEAEPQNIEDEAKEQIQSLLHEMVHAEHVEGEDLQQEDGPTGEPQ
+QEDDEFLMATDVDDRFETLEPEVSHEETEHSYHVEETVSQDCNQDMEEMMSEQENPDSSE
+PVVEDERLHHDTDDVTYQVYEEQAVYEPLENEGIEITEVTAPPEDNPVEDSQVIVEEVSI
+FPVEEQQEVPPETNRKTDDPEQKAKVKKKKPKLLNKFDKTIKAELDAAEKLRKRGKIEEA
+VNAFKELVRKYPQSPRARYGKAQCEDDLAEKRRSNEVLRGAIETYQEVASLPDVPADLLK
+LSLKRRSDRQQFLGHMRGSLLTLQRLVQLFPNDTSLKNDLGVGYLLIGDNDNAKKVYEEV
+LSVTPNDGFAKVHYGFILKAQNKIAESIPYLKEGIESGDPGTDDGRFYFHLGDAMQRVGN
+KEAYKWYELGHKRGHFASVWQRSLYNVNGLKAQPWWTPKETGYTELVKSLERNWKLIRDE
+GLAVMDKAKGLFLPEDENLREKGDWSQFTLWQQGRRNENACKGAPKTCTLLEKFPETTGC
+RRGQIKYSIMHPGTHVWPHTGPTNCRLRMHLGLVIPKEGCKIRCANETKTWEEGKVLIFD
+DSFEHEVWQDASSFRLIFIVDVWHPELTPQQRRSLPAI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>14589866</genbank_protein_id>
+  <uniprot_id>Q12797</uniprot_id>
+  <uniprot_name>ASPH_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3RCQ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_004318.3</genbank_gene_id>
+  <genecard_id>ASPH</genecard_id>
+  <geneatlas_id>ASPH</geneatlas_id>
+  <hgnc_id>HGNC:757</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Korioth F, Gieffers C, Frey J: Cloning and characterization of the human gene encoding aspartyl beta-hydroxylase. Gene. 1994 Dec 15;150(2):395-9.</reference_text>
+      <pubmed_id>7821814</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lavaissiere L, Jia S, Nishiyama M, de la Monte S, Stern AM, Wands JR, Friedman PA: Overexpression of human aspartyl(asparaginyl)beta-hydroxylase in hepatocellular carcinoma and cholangiocarcinoma. J Clin Invest. 1996 Sep 15;98(6):1313-23.</reference_text>
+      <pubmed_id>8823296</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lim KY, Hong CS, Kim DH: cDNA cloning and characterization of human cardiac junctin.  Gene. 2000 Sep 5;255(1):35-42.</reference_text>
+      <pubmed_id>10974562</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dinchuk JE, Henderson NL, Burn TC, Huber R, Ho SP, Link J, O'Neil KT, Focht RJ, Scully MS, Hollis JM, Hollis GF, Friedman PA: Aspartyl beta -hydroxylase (Asph) and an evolutionarily conserved isoform of Asph missing the catalytic domain share exons with junctin. J Biol Chem. 2000 Dec 15;275(50):39543-54.</reference_text>
+      <pubmed_id>10956665</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wetzel GT, Ding S, Chen F: Molecular cloning of junctin from human and developing rabbit heart.  Mol Genet Metab. 2000 Mar;69(3):252-8.</reference_text>
+      <pubmed_id>10767180</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nusbaum C, Mikkelsen TS, Zody MC, Asakawa S, Taudien S, Garber M, Kodira CD, Schueler MG, Shimizu A, Whittaker CA, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Yang X, Allen NR, Anderson S, Asakawa T, Blechschmidt K, Bloom T, Borowsky ML, Butler J, Cook A, Corum B, DeArellano K, DeCaprio D, Dooley KT, Dorris L 3rd, Engels R, Glockner G, Hafez N, Hagopian DS, Hall JL, Ishikawa SK, Jaffe DB, Kamat A, Kudoh J, Lehmann R, Lokitsang T, Macdonald P, Major JE, Matthews CD, Mauceli E, Menzel U, Mihalev AH, Minoshima S, Murayama Y, Naylor JW, Nicol R, Nguyen C, O'Leary SB, O'Neill K, Parker SC, Polley A, Raymond CK, Reichwald K, Rodriguez J, Sasaki T, Schilhabel M, Siddiqui R, Smith CL, Sneddon TP, Talamas JA, Tenzin P, Topham K, Venkataraman V, Wen G, Yamazaki S, Young SK, Zeng Q, Zimmer AR, Rosenthal A, Birren BW, Platzer M, Shimizu N, Lander ES: DNA sequence and analysis of human chromosome 8.  Nature. 2006 Jan 19;439(7074):331-5.</reference_text>
+      <pubmed_id>16421571</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Aspartic acid</name>
+        <accession>HMDB00191</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Aspartic acid</name>
+        <accession>HMDB00191</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Aspartic acid</name>
+        <accession>HMDB00191</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Whiteman P, Marks C, Freese E: The sodium effect of Bacillus subtilis growth on aspartate.  J Gen Microbiol. 1980 Aug;119(2):493-504.</reference_text>
+        <pubmed_id>6785382</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Aspartic acid</name>
+        <accession>HMDB00191</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Iijima T, Diesterhaft MD, Freese E: Sodium effect of growth on aspartate and genetic analysis of a Bacillus subtilis mutant with high aspartase activity. J Bacteriol. 1977 Mar;129(3):1440-7.</reference_text>
+        <pubmed_id>403177</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

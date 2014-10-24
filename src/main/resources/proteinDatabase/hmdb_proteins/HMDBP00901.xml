@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:16 -0700</creation_date>
+  <update_date>2013-05-27 11:38:05 -0600</update_date>
+  <accession>HMDBP00901</accession>
+  <secondary_accessions>
+    <accession>6189</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Poly [ADP-ribose] polymerase 5B</synonym>
+    <synonym>TANK2</synonym>
+    <synonym>TNKS-2</synonym>
+    <synonym>TRF1-interacting ankyrin-related ADP-ribose polymerase 2</synonym>
+    <synonym>Tankyrase II</synonym>
+    <synonym>Tankyrase-like protein</synonym>
+    <synonym>Tankyrase-related protein</synonym>
+    <synonym>ADP-ribosyltransferase diphtheria toxin-like 6</synonym>
+    <synonym>ARTD6</synonym>
+  </synonyms>
+  <gene_name>TNKS2</gene_name>
+  <general_function>Involved in NAD+ ADP-ribosyltransferase activity</general_function>
+  <specific_function>Poly-ADP-ribosyltransferase involved in various processes such as Wnt signaling pathway, telomere length and vesicle trafficking. Acts as an activator of the Wnt signaling pathway by mediating poly-ADP-ribosylation of AXIN1 and AXIN2, 2 key components of the beta-catenin destruction complex: poly-ADP-ribosylated target proteins are recognized by RNF146, which mediates their ubiquitination and subsequent degradation. Also mediates poly-ADP-ribosylation of BLZF1 and CASC3, followed by recruitment of RNF146 and subsequent ubiquitination. Mediates poly-ADP-ribosylation of TERF1, thereby contributing to the regulation of telomere length. May also regulate vesicle trafficking and modulate the subcellular distribution of SLC2A4/GLUT4-vesicles.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01406</accession>
+      <name>Niacinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring pentosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad+ adp-ribosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear chromosome, telomeric region</description>
+      <go_id>GO:0000784</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear envelope</description>
+      <go_id>GO:0005635</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>pericentriolar material</description>
+      <go_id>GO:0000242</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD+ ADP-ribosyltransferase activity</description>
+      <go_id>GO:0003950</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organism growth</description>
+      <go_id>GO:0035264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of canonical Wnt receptor signaling pathway</description>
+      <go_id>GO:0090263</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of telomere maintenance via telomerase</description>
+      <go_id>GO:0032212</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein auto-ADP-ribosylation</description>
+      <go_id>GO:0070213</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein localization to chromosome, telomeric region</description>
+      <go_id>GO:0070198</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein polyubiquitination</description>
+      <go_id>GO:0000209</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of multicellular organism growth</description>
+      <go_id>GO:0040014</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Wnt receptor signaling pathway</description>
+      <go_id>GO:0016055</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Chromosome</subcellular_location>
+    <subcellular_location>telomere (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q23.3</locus>
+    <gene_sequence>&gt;3501 bp
+ATGTCGGGTCGCCGCTGCGCCGGCGGGGGAGCGGCCTGCGCGAGCGCCGCGGCCGAGGCC
+GTGGAGCCGGCCGCCCGAGAGCTGTTCGAGGCGTGCCGCAACGGGGACGTGGAACGAGTC
+AAGAGGCTGGTGACGCCTGAGAAGGTGAACAGCCGCGACACGGCGGGCAGGAAATCCACC
+CCGCTGCACTTCGCCGCAGGTTTTGGGCGGAAAGACGTAGTTGAATATTTGCTTCAGAAT
+GGTGCAAATGTCCAAGCACGTGATGATGGGGGCCTTATTCCTCTTCATAATGCATGCTCT
+TTTGGTCATGCTGAAGTAGTCAATCTCCTTTTGCGACATGGTGCAGACCCCAATGCTCGA
+GATAATTGGAATTATACTCCTCTCCATGAAGCTGCAATTAAAGGAAAGATTGATGTTTGC
+ATTGTGCTGTTACAGCATGGAGCTGAGCCAACCATCCGAAATACAGATGGAAGGACAGCA
+TTGGATTTAGCAGATCCATCTGCCAAAGCAGTGCTTACTGGTGAATATAAGAAAGATGAA
+CTCTTAGAAAGTGCCAGGAGTGGCAATGAAGAAAAAATGATGGCTCTACTCACACCATTA
+AATGTCAACTGCCACGCAAGTGATGGCAGAAAGTCAACTCCATTACATTTGGCAGCAGGA
+TATAACAGAGTAAAGATTGTACAGCTGTTACTGCAACATGGAGCTGATGTCCATGCTAAA
+GATAAAGGTGATCTGGTACCATTACACAATGCCTGTTCTTATGGTCATTATGAAGTAACT
+GAACTTTTGGTCAAGCATGGTGCCTGTGTAAATGCAATGGACTTGTGGCAATTCACTCCT
+CTTCATGAGGCAGCTTCTAAGAACAGGGTTGAAGTATGTTCTCTTCTCTTAAGTTATGGT
+GCAGACCCAACACTGCTCAATTGTCACAATAAAAGTGCTATAGACTTGGCTCCCACACCA
+CAGTTAAAAGAAAGATTAGCATATGAATTTAAAGGCCACTCGTTGCTGCAAGCTGCACGA
+GAAGCTGATGTTACTCGAATCAAAAAACATCTCTCTCTGGAAATGGTGAATTTCAAGCAT
+CCTCAAACACATGAAACAGCATTGCATTGTGCTGCTGCATCTCCATATCCCAAAAGAAAG
+CAAATATGTGAACTGTTGCTAAGAAAAGGAGCAAACATCAATGAAAAGACTAAAGAATTC
+TTGACTCCTCTGCACGTGGCATCTGAGAAAGCTCATAATGATGTTGTTGAAGTAGTGGTG
+AAACATGAAGCAAAGGTTAATGCTCTGGATAATCTTGGTCAGACTTCTCTACACAGAGCT
+GCATATTGTGGTCATCTACAAACCTGCCGCCTACTCCTGAGCTATGGGTGTGATCCTAAC
+ATTATATCCCTTCAGGGCTTTACTGCTTTACAGATGGGAAATGAAAATGTACAGCAACTC
+CTCCAAGAGGGTATCTCATTAGGTAATTCAGAGGCAGACAGACAATTGCTGGAAGCTGCA
+AAGGCTGGAGATGTCGAAACTGTAAAAAAACTGTGTACTGTTCAGAGTGTCAACTGCAGA
+GACATTGAAGGGCGTCAGTCTACACCACTTCATTTTGCAGCTGGGTATAACAGAGTGTCC
+GTGGTGGAATATCTGCTACAGCATGGAGCTGATGTGCATGCTAAAGATAAAGGAGGCCTT
+GTACCTTTGCACAATGCATGTTCTTATGGACATTATGAAGTTGCAGAACTTCTTGTTAAA
+CATGGAGCAGTAGTTAATGTAGCTGATTTATGGAAATTTACACCTTTACATGAAGCAGCA
+GCAAAAGGAAAATATGAAATTTGCAAACTTCTGCTCCAGCATGGTGCAGACCCTACAAAA
+AAAAACAGGGATGGAAATACTCCTTTGGATCTTGTTAAAGATGGAGATACAGATATTCAA
+GATCTGCTTAGGGGAGATGCAGCTTTGCTAGATGCTGCCAAGAAGGGTTGTTTAGCCAGA
+GTGAAGAAGTTGTCTTCTCCTGATAATGTAAATTGCCGCGATACCCAAGGCAGACATTCA
+ACACCTTTACATTTAGCAGCTGGTTATAATAATTTAGAAGTTGCAGAGTATTTGTTACAA
+CACGGAGCTGATGTGAATGCCCAAGACAAAGGAGGACTTATTCCTTTACATAATGCAGCA
+TCTTACGGGCATGTAGATGTAGCAGCTCTACTAATAAAGTATAATGCATGTGTCAATGCC
+ACGGACAAATGGGCTTTCACACCTTTGCACGAAGCAGCCCAAAAGGGACGAACACAGCTT
+TGTGCTTTGTTGCTAGCCCATGGAGCTGACCCGACTCTTAAAAATCAGGAAGGACAAACA
+CCTTTAGATTTAGTTTCAGCAGATGATGTCAGCGCTCTTCTGACAGCAGCCATGCCCCCA
+TCTGCTCTGCCCTCTTGTTACAAGCCTCAAGTGCTCAATGGTGTGAGAAGCCCAGGAGCC
+ACTGCAGATGCTCTCTCTTCAGGTCCATCTAGCCCATCAAGCCTTTCTGCAGCCAGCAGT
+CTTGACAACTTATCTGGGAGTTTTTCAGAACTGTCTTCAGTAGTTAGTTCAAGTGGAACA
+GAGGGTGCTTCCAGTTTGGAGAAAAAGGAGGTTCCAGGAGTAGATTTTAGCATAACTCAA
+TTCGTAAGGAATCTTGGACTTGAGCACCTAATGGATATATTTGAGAGAGAACAGATCACT
+TTGGATGTATTAGTTGAGATGGGGCACAAGGAGCTGAAGGAGATTGGAATCAATGCTTAT
+GGACATAGGCACAAACTAATTAAAGGAGTCGAGAGACTTATCTCCGGACAACAAGGTCTT
+AACCCATATTTAACTTTGAACACCTCTGGTAGTGGAACAATTCTTATAGATCTGTCTCCT
+GATGATAAAGAGTTTCAGTCTGTGGAGGAAGAGATGCAAAGTACAGTTCGAGAGCACAGA
+GATGGAGGTCATGCAGGTGGAATCTTCAACAGATACAATATTCTCAAGATTCAGAAGGTT
+TGTAACAAGAAACTATGGGAAAGATACACTCACCGGAGAAAAGAAGTTTCTGAAGAAAAC
+CACAACCATGCCAATGAACGAATGCTATTTCATGGGTCTCCTTTTGTGAATGCAATTATC
+CACAAAGGCTTTGATGAAAGGCATGCGTACATAGGTGGTATGTTTGGAGCTGGCATTTAT
+TTTGCTGAAAACTCTTCCAAAAGCAATCAATATGTATATGGAATTGGAGGAGGTACTGGG
+TGTCCAGTTCACAAAGACAGATCTTGTTACATTTGCCACAGGCAGCTGCTCTTTTGCCGG
+GTAACCTTGGGAAAGTCTTTCCTGCAGTTCAGTGCAATGAAAATGGCACATTCTCCTCCA
+GGTCATCACTCAGTCACTGGTAGGCCCAGTGTAAATGGCCTAGCATTAGCTGAATATGTT
+ATTTACAGAGGAGAACAGGCTTATCCTGAGTATTTAATTACTTACCAGATTATGAGGCCT
+GAAGGTATGGTCGATGGATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1166</residue_number>
+    <molecular_weight>126916.895</molecular_weight>
+    <theoretical_pi>7.2</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ank</name>
+        <pfam_id>PF00023</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PARP</name>
+        <pfam_id>PF00644</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SAM_2</name>
+        <pfam_id>PF07647</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tankyrase-2
+MSGRRCAGGGAACASAAAEAVEPAARELFEACRNGDVERVKRLVTPEKVNSRDTAGRKST
+PLHFAAGFGRKDVVEYLLQNGANVQARDDGGLIPLHNACSFGHAEVVNLLLRHGADPNAR
+DNWNYTPLHEAAIKGKIDVCIVLLQHGAEPTIRNTDGRTALDLADPSAKAVLTGEYKKDE
+LLESARSGNEEKMMALLTPLNVNCHASDGRKSTPLHLAAGYNRVKIVQLLLQHGADVHAK
+DKGDLVPLHNACSYGHYEVTELLVKHGACVNAMDLWQFTPLHEAASKNRVEVCSLLLSYG
+ADPTLLNCHNKSAIDLAPTPQLKERLAYEFKGHSLLQAAREADVTRIKKHLSLEMVNFKH
+PQTHETALHCAAASPYPKRKQICELLLRKGANINEKTKEFLTPLHVASEKAHNDVVEVVV
+KHEAKVNALDNLGQTSLHRAAYCGHLQTCRLLLSYGCDPNIISLQGFTALQMGNENVQQL
+LQEGISLGNSEADRQLLEAAKAGDVETVKKLCTVQSVNCRDIEGRQSTPLHFAAGYNRVS
+VVEYLLQHGADVHAKDKGGLVPLHNACSYGHYEVAELLVKHGAVVNVADLWKFTPLHEAA
+AKGKYEICKLLLQHGADPTKKNRDGNTPLDLVKDGDTDIQDLLRGDAALLDAAKKGCLAR
+VKKLSSPDNVNCRDTQGRHSTPLHLAAGYNNLEVAEYLLQHGADVNAQDKGGLIPLHNAA
+SYGHVDVAALLIKYNACVNATDKWAFTPLHEAAQKGRTQLCALLLAHGADPTLKNQEGQT
+PLDLVSADDVSALLTAAMPPSALPSCYKPQVLNGVRSPGATADALSSGPSSPSSLSAASS
+LDNLSGSFSELSSVVSSSGTEGASSLEKKEVPGVDFSITQFVRNLGLEHLMDIFEREQIT
+LDVLVEMGHKELKEIGINAYGHRHKLIKGVERLISGQQGLNPYLTLNTSGSGTILIDLSP
+DDKEFQSVEEEMQSTVREHRDGGHAGGIFNRYNILKIQKVCNKKLWERYTHRRKEVSEEN
+HNHANERMLFHGSPFVNAIIHKGFDERHAYIGGMFGAGIYFAENSSKSNQYVYGIGGGTG
+CPVHKDRSCYICHRQLLFCRVTLGKSFLQFSAMKMAHSPPGHHSVTGRPSVNGLALAEYV
+IYRGEQAYPEYLITYQIMRPEGMVDG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>12005976</genbank_protein_id>
+  <uniprot_id>Q9H2K2</uniprot_id>
+  <uniprot_name>TNKS2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2Y0I</pdb_id>
+    <pdb_id>3KR7</pdb_id>
+    <pdb_id>3KR8</pdb_id>
+    <pdb_id>3MHJ</pdb_id>
+    <pdb_id>3MHK</pdb_id>
+    <pdb_id>3P0N</pdb_id>
+    <pdb_id>3P0P</pdb_id>
+    <pdb_id>3P0Q</pdb_id>
+    <pdb_id>3TWQ</pdb_id>
+    <pdb_id>3TWR</pdb_id>
+    <pdb_id>3TWS</pdb_id>
+    <pdb_id>3TWT</pdb_id>
+    <pdb_id>3TWU</pdb_id>
+    <pdb_id>3TWV</pdb_id>
+    <pdb_id>3TWW</pdb_id>
+    <pdb_id>3TWX</pdb_id>
+    <pdb_id>3U9H</pdb_id>
+    <pdb_id>3U9Y</pdb_id>
+    <pdb_id>3UA9</pdb_id>
+    <pdb_id>4AVU</pdb_id>
+    <pdb_id>4AVW</pdb_id>
+    <pdb_id>4HKI</pdb_id>
+    <pdb_id>4HKK</pdb_id>
+    <pdb_id>4HKN</pdb_id>
+    <pdb_id>4HL5</pdb_id>
+    <pdb_id>4HLF</pdb_id>
+    <pdb_id>4HLG</pdb_id>
+    <pdb_id>4HLH</pdb_id>
+    <pdb_id>4HLK</pdb_id>
+    <pdb_id>4HLM</pdb_id>
+    <pdb_id>4HMH</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF264912</genbank_gene_id>
+  <genecard_id>TNKS2</genecard_id>
+  <geneatlas_id>TNKS2</geneatlas_id>
+  <hgnc_id>HGNC:15677</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Monz D, Munnia A, Comtesse N, Fischer U, Steudel WI, Feiden W, Glass B, Meese EU: Novel tankyrase-related gene detected with meningioma-specific sera.  Clin Cancer Res. 2001 Jan;7(1):113-9.</reference_text>
+      <pubmed_id>11205898</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuimov AN, Kuprash DV, Petrov VN, Vdovichenko KK, Scanlan MJ, Jongeneel CV, Lagarkova MA, Nedospasov SA: Cloning and characterization of TNKL, a member of tankyrase gene family.  Genes Immun. 2001 Feb;2(1):52-5.</reference_text>
+      <pubmed_id>11294570</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lyons RJ, Deane R, Lynch DK, Ye ZS, Sanderson GM, Eyre HJ, Sutherland GR, Daly RJ: Identification of a novel human tankyrase through its interaction with the adaptor protein Grb14. J Biol Chem. 2001 May 18;276(20):17172-80. Epub 2001 Feb 22.</reference_text>
+      <pubmed_id>11278563</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaminker PG, Kim SH, Taylor RD, Zebarjadian Y, Funk WD, Morin GB, Yaswen P, Campisi J: TANK2, a new TRF1-associated poly(ADP-ribose) polymerase, causes rapid induction of cell death upon overexpression. J Biol Chem. 2001 Sep 21;276(38):35891-9. Epub 2001 Jul 13.</reference_text>
+      <pubmed_id>11454873</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sbodio JI, Lodish HF, Chi NW: Tankyrase-2 oligomerizes with tankyrase-1 and binds to both TRF1 (telomere-repeat-binding factor 1) and IRAP (insulin-responsive aminopeptidase). Biochem J. 2002 Feb 1;361(Pt 3):451-9.</reference_text>
+      <pubmed_id>11802774</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cook BD, Dynek JN, Chang W, Shostak G, Smith S: Role for the related poly(ADP-Ribose) polymerases tankyrase 1 and 2 at human telomeres. Mol Cell Biol. 2002 Jan;22(1):332-42.</reference_text>
+      <pubmed_id>11739745</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

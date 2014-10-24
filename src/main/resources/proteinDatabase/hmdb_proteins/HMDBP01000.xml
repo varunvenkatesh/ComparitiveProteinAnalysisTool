@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:47 -0700</creation_date>
+  <update_date>2013-05-27 11:16:19 -0600</update_date>
+  <accession>HMDBP01000</accession>
+  <secondary_accessions>
+    <accession>6288</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>GalNAc-T13</synonym>
+    <synonym>Polypeptide GalNAc transferase 13</synonym>
+    <synonym>Protein-UDP acetylgalactosaminyltransferase 13</synonym>
+    <synonym>UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 13</synonym>
+    <synonym>pp-GaNTase 13</synonym>
+  </synonyms>
+  <gene_name>GALNT13</gene_name>
+  <general_function>Involved in polypeptide N-acetylgalactosaminyltransfera</general_function>
+  <specific_function>Catalyzes the initial reaction in O-linked oligosaccharide biosynthesis, the transfer of an N-acetyl-D-galactosamine residue to a serine or threonine residue on the protein receptor. Has a much stronger activity than GALNT1 to transfer GalNAc to mucin peptides, such as Muc5Ac and Muc7. Able to glycosylate SDC3. May be responsible for the synthesis of Tn antigen in neuronal cells.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Mucin type O-Glycan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00512</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00304</accession>
+      <name>Uridine diphosphate-N-acetylgalactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60522</accession>
+      <name>UDP-N-acetyl-alpha-D-galactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>polypeptide N-acetylgalactosaminyltransferase activity</description>
+      <go_id>GO:0004653</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>O-glycan processing</description>
+      <go_id>GO:0016266</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-translational protein modification</description>
+      <go_id>GO:0043687</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q24.1</locus>
+    <gene_sequence>&gt;1671 bp
+ATGAGGAGATTTGTCTACTGCAAGGTGGTTCTAGCCACTTCGCTGATGTGGGTTCTTGTT
+GATGTCTTCTTACTGCTGTACTTCAGTGAATGTAACAAATGTGATGACAAGAAGGAGAGA
+TCTCTGCTGCCTGCATTGAGGGCTGTTATTTCAAGAAACCAAGAAGGGCCAGGAGAAATG
+GGAAAAGCTGTGTTGATTCCTAAAGATGACCAGGAGAAAATGAAAGAGCTGTTTAAAATC
+AATCAGTTTAACCTTATGGCCAGTGATTTGATTGCCCTTAATAGAAGTCTGCCAGATGTA
+AGATTAGAAGGATGTAAGACAAAAGTCTACCCTGATGAACTTCCAAACACAAGTGTAGTC
+ATTGTGTTTCATAATGAAGCTTGGAGCACTCTCCTTAGAACTGTTTACAGTGTGATAAAT
+CGTTCCCCACACTATCTACTCTCAGAGGTCATCTTGGTAGATGATGCCAGTGAAAGAGAT
+TTTCTCAAGTTGACATTAGAGAATTACGTGAAAAATTTAGAAGTGCCAGTAAAAATTATT
+AGGATGGAAGAACGCTCTGGGTTAATACGTGCCCGTCTTCGAGGAGCAGCTGCTTCAAAA
+GGGCAGGTCATAACTTTTCTTGATGCACACTGTGAATGCACGTTAGGATGGCTGGAGCCT
+TTGCTGGCAAGAATAAAGGAAGACAGGAAAACGGTTGTCTGCCCTATCATTGATGTGATT
+AGTGATGATACTTTTGAATATATGGCTGGGTCAGACATGACTTATGGGGGTTTTAACTGG
+AAACTGAATTTCCGCTGGTATCCTGTTCCCCAAAGAGAAATGGACAGGAGGAAAGGAGAC
+AGAACATTACCTGTCAGGACCCCTACTATGGCTGGTGGCCTATTTTCTATTGACAGAAAC
+TACTTTGAAGAGATAGGAACTTACGATGCAGGAATGGATATCTGGGGTGGAGAGAATCTT
+GAAATGTCTTTTAGGATTTGGCAATGTGGAGGCTCCTTGGAGATTGTTACTTGCTCCCAT
+GTTGGTCATGTTTTTCGGAAGGCAACTCCATACACTTTTCCTGGTGGCACTGGTCATGTC
+ATCAACAAGAACAACAGGAGACTGGCAGAAGTTTGGATGGATGAATTTAAAGATTTCTTC
+TACATCATATCCCCAGGTGTTGTCAAAGTGGATTATGGAGATGTGTCAGTCAGAAAAACA
+CTAAGAGAAAATCTGAAGTGTAAGCCCTTTTCTTGGTACCTAGAAAACATCTATCCGGAC
+TCCCAGATCCCAAGACGTTATTACTCACTTGGTGAGATAAGAAATGTTGAAACCAATCAG
+TGTTTAGACAACATGGGCCGCAAGGAAAATGAAAAAGTGGGTATATTCAACTGTCATGGT
+ATGGGAGGAAATCAGGTATTTTCTTACACTGCTGACAAAGAAATCCGAACCGATGACTTG
+TGCTTGGATGTTTCTAGACTCAATGGACCTGTAATCATGTTAAAATGCCACCATATGAGA
+GGAAATCAGTTATGGGAATATGATGCTGAGAGACTCACGTTGCGACATGTTAACAGTAAC
+CAATGTCTCGATGAACCTTCTGAAGAAGACAAAATGGTGCCTACAATGCAGGACTGTAGT
+GGAAGCAGATCCCAACAGTGGCTGCTAAGGAACATGACCTTGGGCACATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>556</residue_number>
+    <molecular_weight>64050.095</molecular_weight>
+    <theoretical_pi>6.835</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glycos_transf_2</name>
+        <pfam_id>PF00535</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Ricin_B_lectin</name>
+        <pfam_id>PF00652</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Polypeptide N-acetylgalactosaminyltransferase 13
+MRRFVYCKVVLATSLMWVLVDVFLLLYFSECNKCDDKKERSLLPALRAVISRNQEGPGEM
+GKAVLIPKDDQEKMKELFKINQFNLMASDLIALNRSLPDVRLEGCKTKVYPDELPNTSVV
+IVFHNEAWSTLLRTVYSVINRSPHYLLSEVILVDDASERDFLKLTLENYVKNLEVPVKII
+RMEERSGLIRARLRGAAASKGQVITFLDAHCECTLGWLEPLLARIKEDRKTVVCPIIDVI
+SDDTFEYMAGSDMTYGGFNWKLNFRWYPVPQREMDRRKGDRTLPVRTPTMAGGLFSIDRN
+YFEEIGTYDAGMDIWGGENLEMSFRIWQCGGSLEIVTCSHVGHVFRKATPYTFPGGTGHV
+INKNNRRLAEVWMDEFKDFFYIISPGVVKVDYGDVSVRKTLRENLKCKPFSWYLENIYPD
+SQIPRRYYSLGEIRNVETNQCLDNMGRKENEKVGIFNCHGMGGNQVFSYTADKEIRTDDL
+CLDVSRLNGPVIMLKCHHMRGNQLWEYDAERLTLRHVNSNQCLDEPSEEDKMVPTMQDCS
+GSRSQQWLLRNMTLGT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>145309313</genbank_protein_id>
+  <uniprot_id>Q8IUC8</uniprot_id>
+  <uniprot_name>GLT13_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_052917.2</genbank_gene_id>
+  <genecard_id>GALNT13</genecard_id>
+  <geneatlas_id>GALNT13</geneatlas_id>
+  <hgnc_id>HGNC:23242</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Zhang Y, Iwasaki H, Wang H, Kudo T, Kalka TB, Hennet T, Kubota T, Cheng L, Inaba N, Gotoh M, Togayachi A, Guo J, Hisatomi H, Nakajima K, Nishihara S, Nakamura M, Marth JD, Narimatsu H: Cloning and characterization of a new human UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase, designated pp-GalNAc-T13, that is specifically expressed in neurons and synthesizes GalNAc alpha-serine/threonine antigen. J Biol Chem. 2003 Jan 3;278(1):573-84. Epub 2002 Oct 28.</reference_text>
+      <pubmed_id>12407114</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Kikuno R, Ohara O: Prediction of the coding sequences of unidentified human genes. XXI. The complete sequences of 60 new cDNA clones from brain which code for large proteins. DNA Res. 2001 Aug 31;8(4):179-87.</reference_text>
+      <pubmed_id>11572484</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

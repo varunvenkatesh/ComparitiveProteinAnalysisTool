@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:52 -0700</creation_date>
+  <update_date>2013-05-27 11:22:08 -0600</update_date>
+  <accession>HMDBP01594</accession>
+  <secondary_accessions>
+    <accession>6891</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Alpha-L-iduronate sulfate sulfatase</synonym>
+    <synonym>Iduronate 2-sulfatase 14 kDa chain</synonym>
+    <synonym>Iduronate 2-sulfatase 42 kDa chain</synonym>
+    <synonym>Idursulfase</synonym>
+  </synonyms>
+  <gene_name>IDS</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Required for the lysosomal degradation of heparan sulfate and dermatan sulfate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycosaminoglycan degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00531</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00632</accession>
+      <name>Dermatan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01448</accession>
+      <name>Sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00693</accession>
+      <name>Heparan sulfate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sulfuric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal lumen</description>
+      <go_id>GO:0043202</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iduronate-2-sulfatase activity</description>
+      <go_id>GO:0004423</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chondroitin sulfate catabolic process</description>
+      <go_id>GO:0030207</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;1653 bp
+ATGCCGCCACCCCGGACCGGCCGAGGCCTTCTCTGGCTGGGTCTGGTTCTGAGCTCCGTC
+TGCGTCGCCCTCGGATCCGAAACGCAGGCCAACTCGACCACAGATGCTCTGAACGTTCTT
+CTCATCATCGTGGATGACCTGCGCCCCTCCCTGGGCTGTTATGGGGATAAGCTGGTGAGG
+TCCCCAAATATTGACCAACTGGCATCCCACAGCCTCCTCTTCCAGAATGCCTTTGCGCAG
+CAAGCAGTGTGCGCCCCGAGCCGCGTTTCTTTCCTCACTGGCAGGAGACCTGACACCACC
+CGCCTGTACGACTTCAACTCCTACTGGAGGGTGCACGCTGGAAACTTCTCCACCATCCCC
+CAGTACTTCAAGGAGAATGGCTATGTGACCATGTCGGTGGGAAAAGTCTTTCACCCTGGG
+ATATCTTCTAACCATACCGATGATTCTCCGTATAGCTGGTCTTTTCCACCTTATCATCCT
+TCCTCTGAGAAGTATGAAAACACTAAGACATGTCGAGGGCCAGATGGAGAACTCCATGCC
+AACCTGCTTTGCCCTGTGGATGTGCTGGATGTTCCCGAGGGCACCTTGCCTGACAAACAG
+AGCACTGAGCAAGCCATACAGTTGTTGGAAAAGATGAAAACGTCAGCCAGTCCTTTCTTC
+CTGGCCGTTGGGTATCATAAGCCACACATCCCCTTCAGATACCCCAAGGAATTTCAGAAG
+TTGTATCCCTTGGAGAACATCACCCTGGCCCCCGATCCCGAGGTCCCTGATGGCCTACCC
+CCTGTGGCCTACAACCCCTGGATGGACATCAGGCAACGGGAAGACGTCCAAGCCTTAAAC
+ATCAGTGTGCCGTATGGTCCAATTCCTGTGGACTTTCAGCGGAAAATCCGCCAGAGCTAC
+TTTGCCTCTGTGTCATATTTGGATACACAGGTCGGCCGCCTCTTGAGTGCTTTGGACGAT
+CTTCAGCTGGCCAACAGCACCATCATTGCATTTACCTCGGATCATGGGTGGGCTCTAGGT
+GAACATGGAGAATGGGCCAAATACAGCAATTTTGATGTTGCTACCCATGTTCCCCTGATA
+TTCTATGTTCCTGGAAGGACGGCTTCACTTCCGGAGGCAGGCGAGAAGCTTTTCCCTTAC
+CTCGACCCTTTTGATTCCGCCTCACAGTTGATGGAGCCAGGCAGGCAATCCATGGACCTT
+GTGGAACTTGTGTCTCTTTTTCCCACGCTGGCTGGACTTGCAGGACTGCAGGTTCCACCT
+CGCTGCCCCGTTCCTTCATTTCACGTTGAGCTGTGCAGAGAAGGCAAGAACCTTCTGAAG
+CATTTTCGATTCCGTGACTTGGAAGAGGATCCGTACCTCCCTGGTAATCCCCGTGAACTG
+ATTGCCTATAGCCAGTATCCCCGGCCTTCAGACATCCCTCAGTGGAATTCTGACAAGCCG
+AGTTTAAAAGATATAAAGATCATGGGCTATTCCATACGCACCATAGACTATAGGTATACT
+GTGTGGGTTGGCTTCAATCCTGATGAATTTCTAGCTAACTTTTCTGACATCCATGCAGGG
+GAACTGTATTTTGTGGATTCTGACCCATTGCAGGATCACAATATGTATAATGATTCCCAA
+GGTGGAGATCTTTTCCAGTTGTTGATGCCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>550</residue_number>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+      <pfam>
+        <name>Sulfatase</name>
+        <pfam_id>PF00884</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Iduronate 2-sulfatase
+MPPPRTGRGLLWLGLVLSSVCVALGSETQANSTTDALNVLLIIVDDLRPSLGCYGDKLVR
+SPNIDQLASHSLLFQNAFAQQAVCAPSRVSFLTGRRPDTTRLYDFNSYWRVHAGNFSTIP
+QYFKENGYVTMSVGKVFHPGISSNHTDDSPYSWSFPPYHPSSEKYENTKTCRGPDGELHA
+NLLCPVDVLDVPEGTLPDKQSTEQAIQLLEKMKTSASPFFLAVGYHKPHIPFRYPKEFQK
+LYPLENITLAPDPEVPDGLPPVAYNPWMDIRQREDVQALNISVPYGPIPVDFQRKIRQSY
+FASVSYLDTQVGRLLSALDDLQLANSTIIAFTSDHGWALGEHGEWAKYSNFDVATHVPLI
+FYVPGRTASLPEAGEKLFPYLDPFDSASQLMEPGRQSMDLVELVSLFPTLAGLAGLQVPP
+RCPVPSFHVELCREGKNLLKHFRFRDLEEDPYLPGNPRELIAYSQYPRPSDIPQWNSDKP
+SLKDIKIMGYSIRTIDYRYTVWVGFNPDEFLANFSDIHAGELYFVDSDPLQDHNMYNDSQ
+GGDLFQLLMP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>184562</genbank_protein_id>
+  <uniprot_id>P22304</uniprot_id>
+  <uniprot_name>IDS_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M58342</genbank_gene_id>
+  <genecard_id>IDS</genecard_id>
+  <geneatlas_id>IDS</geneatlas_id>
+  <hgnc_id>HGNC:5389</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wilson PJ, Morris CP, Anson DS, Occhiodoro T, Bielicki J, Clements PR, Hopwood JJ: Hunter syndrome: isolation of an iduronate-2-sulfatase cDNA clone and analysis of patient DNA. Proc Natl Acad Sci U S A. 1990 Nov;87(21):8531-5.</reference_text>
+      <pubmed_id>2122463</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wilson PJ, Meaney CA, Hopwood JJ, Morris CP: Sequence of the human iduronate 2-sulfatase (IDS) gene.  Genomics. 1993 Sep;17(3):773-5.</reference_text>
+      <pubmed_id>8244397</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Timms KM, Lu F, Shen Y, Pierson CA, Muzny DM, Gu Y, Nelson DL, Gibbs RA: 130 kb of DNA sequence reveals two new genes and a regional duplication distal to the human iduronate-2-sulfate sulfatase locus. Genome Res. 1995 Aug;5(1):71-8.</reference_text>
+      <pubmed_id>8717057</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Malmgren H, Carlberg BM, Pettersson U, Bondeson ML: Identification of an alternative transcript from the human iduronate-2-sulfatase (IDS) gene. Genomics. 1995 Sep 1;29(1):291-3.</reference_text>
+      <pubmed_id>8530090</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Flomen RH, Green EP, Green PM, Bentley DR, Giannelli F: Determination of the organisation of coding sequences within the iduronate sulphate sulphatase (IDS) gene. Hum Mol Genet. 1993 Jan;2(1):5-10.</reference_text>
+      <pubmed_id>8490623</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hopwood JJ, Bunge S, Morris CP, Wilson PJ, Steglich C, Beck M, Schwinger E, Gal A: Molecular basis of mucopolysaccharidosis type II: mutations in the iduronate-2-sulphatase gene. Hum Mutat. 1993;2(6):435-42.</reference_text>
+      <pubmed_id>8111411</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bunge S, Steglich C, Beck M, Rosenkranz W, Schwinger E, Hopwood JJ, Gal A: Mutation analysis of the iduronate-2-sulfatase gene in patients with mucopolysaccharidosis type II (Hunter syndrome). Hum Mol Genet. 1992 Aug;1(5):335-9.</reference_text>
+      <pubmed_id>1303211</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Crotty PL, Braun SE, Anderson RA, Whitley CB: Mutation R468W of the iduronate-2-sulfatase gene in mild Hunter syndrome (mucopolysaccharidosis type II) confirmed by in vitro mutagenesis and expression. Hum Mol Genet. 1992 Dec;1(9):755-7.</reference_text>
+      <pubmed_id>1284597</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bunge S, Steglich C, Zuther C, Beck M, Morris CP, Schwinger E, Schinzel A, Hopwood JJ, Gal A: Iduronate-2-sulfatase gene mutations in 16 patients with mucopolysaccharidosis type II (Hunter syndrome). Hum Mol Genet. 1993 Nov;2(11):1871-5.</reference_text>
+      <pubmed_id>8281149</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schroder W, Wulff K, Wehnert M, Seidlitz G, Herrmann FH: Mutations of the iduronate-2-sulfatase (IDS) gene in patients with Hunter syndrome (mucopolysaccharidosis II). Hum Mutat. 1994;4(2):128-31.</reference_text>
+      <pubmed_id>7981716</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ben Simon-Schiff E, Bach G, Hopwood JJ, Abeliovich D: Mutation analysis of Jewish Hunter patients in Israel.  Hum Mutat. 1994;4(4):263-70.</reference_text>
+      <pubmed_id>7866405</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jonsson JJ, Aronovich EL, Braun SE, Whitley CB: Molecular diagnosis of mucopolysaccharidosis type II (Hunter syndrome) by automated sequencing and computer-assisted interpretation: toward mutation mapping of the iduronate-2-sulfatase gene. Am J Hum Genet. 1995 Mar;56(3):597-607.</reference_text>
+      <pubmed_id>7887413</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Popowska E, Rathmann M, Tylki-Szymanska A, Bunge S, Steglich C, Schwinger E, Gal A: Mutations of the iduronate-2-sulfatase gene in 12 Polish patients with mucopolysaccharidosis type II (Hunter syndrome). Hum Mutat. 1995;5(1):97-100.</reference_text>
+      <pubmed_id>7728156</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sukegawa K, Tomatsu S, Fukao T, Iwata H, Song XQ, Yamada Y, Fukuda S, Isogai K, Orii T: Mucopolysaccharidosis type II (Hunter disease): identification and characterization of eight point mutations in the iduronate-2-sulfatase gene in Japanese patients. Hum Mutat. 1995;6(2):136-43.</reference_text>
+      <pubmed_id>7581397</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li P, Huffman P, Thompson JN: Mutations of the iduronate-2-sulfatase gene on a T146T background in three patients with Hunter syndrome. Hum Mutat. 1995;5(3):272-4.</reference_text>
+      <pubmed_id>7599640</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rathmann M, Bunge S, Beck M, Kresse H, Tylki-Szymanska A, Gal A: Mucopolysaccharidosis type II (Hunter syndrome): mutation &amp;quot;hot spots&amp;quot; in the iduronate-2-sulfatase gene. Am J Hum Genet. 1996 Dec;59(6):1202-9.</reference_text>
+      <pubmed_id>8940265</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen TC, Eiken HG, Knappskog PM, Kase BF, Mansson JE, Boman H, Apold J: Mutations in the iduronate-2-sulfatase gene in five Norwegians with Hunter syndrome. Hum Genet. 1996 Feb;97(2):198-203.</reference_text>
+      <pubmed_id>8566953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goldenfum SL, Young E, Michelakakis H, Tsagarakis S, Winchester B: Mutation analysis in 20 patients with Hunter disease.  Hum Mutat. 1996;7(1):76-8.</reference_text>
+      <pubmed_id>8664909</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li P, Thompson JN: Detection of four novel mutations in the iduronate-2-sulphatase gene by single-strand conformation polymorphism analysis of genomic amplicons. J Inherit Metab Dis. 1996;19(1):93-4.</reference_text>
+      <pubmed_id>8830188</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Villani GR, Balzano N, Grosso M, Salvatore F, Izzo P, Di Natale P: Mucopolysaccharidosis type II: identification of six novel mutations in Italian patients. Hum Mutat. 1997;10(1):71-5.</reference_text>
+      <pubmed_id>9222763</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sukegawa K, Song XQ, Masuno M, Fukao T, Shimozawa N, Fukuda S, Isogai K, Nishio H, Matsuo M, Tomatsu S, Kondo N, Orii T: Hunter disease in a girl caused by R468Q mutation in the iduronate-2-sulfatase gene and skewed inactivation of the X chromosome carrying the normal allele. Hum Mutat. 1997;10(5):361-7.</reference_text>
+      <pubmed_id>9375851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lissens W, Seneca S, Liebaers I: Molecular analysis in 23 Hunter disease families.  J Inherit Metab Dis. 1997 Jul;20(3):453-6.</reference_text>
+      <pubmed_id>9266380</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vafiadaki E, Cooper A, Heptinstall LE, Hatton CE, Thornley M, Wraith JE: Mutation analysis in 57 unrelated patients with MPS II (Hunter's disease).  Arch Dis Child. 1998 Sep;79(3):237-41.</reference_text>
+      <pubmed_id>9875019</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Froissart R, Maire I, Millat G, Cudry S, Birot AM, Bonnet V, Bouton O, Bozon D: Identification of iduronate sulfatase gene alterations in 70 unrelated Hunter patients. Clin Genet. 1998 May;53(5):362-8.</reference_text>
+      <pubmed_id>9660053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karsten S, Voskoboeva E, Tishkanina S, Pettersson U, Krasnopolskaja X, Bondeson ML: Mutational spectrum of the iduronate-2-sulfatase (IDS) gene in 36 unrelated Russian MPS II patients. Hum Genet. 1998 Dec;103(6):732-5.</reference_text>
+      <pubmed_id>9921913</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Balzano N, Villani GR, Grosso M, Izzo P, Di Natale P: Detection of four novel mutations in the iduronate-2-sulfatase gene. Mutations in brief no. 123. Online. Hum Mutat. 1998;11(4):333.</reference_text>
+      <pubmed_id>10215411</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gort L, Coll MJ, Chabas A: Mutations in the iduronate-2-sulfatase gene in 12 Spanish patients with Hunter disease. Hum Mutat. 1998;Suppl 1:S66-8.</reference_text>
+      <pubmed_id>9452044</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karsten SL, Voskoboeva E, Carlberg BM, Kleijer WJ, Tsnnesen T, Pettersson U, Bondeson ML: Identification of 9 novel IDS gene mutations in 19 unrelated Hunter syndrome (mucopolysaccharidosis Type II) patients. Mutations in brief no. 202. Online. Hum Mutat. 1998;12(6):433.</reference_text>
+      <pubmed_id>10671065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Isogai K, Sukegawa K, Tomatsu S, Fukao T, Song XQ, Yamada Y, Fukuda S, Orii T, Kondo N: Mutation analysis in the iduronate-2-sulphatase gene in 43 Japanese patients with mucopolysaccharidosis type II (Hunter disease). J Inherit Metab Dis. 1998 Feb;21(1):60-70.</reference_text>
+      <pubmed_id>9501270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gort L, Chabas A, Coll MJ: Hunter disease in the Spanish population: molecular analysis in 31 families. J Inherit Metab Dis. 1998 Aug;21(6):655-61.</reference_text>
+      <pubmed_id>9762601</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vallance HD, Bernard L, Rashed M, Chiu D, Le G, Toone J, Applegarth DA, Coulter-Mackie M: Identification of 6 new mutations in the iduronate sulfatase gene. Mutation in brief no. 233. Online. Hum Mutat. 1999;13(4):338.</reference_text>
+      <pubmed_id>10220152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hartog C, Fryer A, Upadhyaya M: Mutation analysis of iduronate-2-sulphatase gene in 24 patients with Hunter syndrome: characterisation of 6 novel mutations. Mutation in brief no. 249. Online. Hum Mutat. 1999;14(1):87.</reference_text>
+      <pubmed_id>10447264</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li P, Bellows AB, Thompson JN: Molecular basis of iduronate-2-sulphatase gene mutations in patients with mucopolysaccharidosis type II (Hunter syndrome). J Med Genet. 1999 Jan;36(1):21-7.</reference_text>
+      <pubmed_id>9950361</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Villani GR, Daniele A, Balzano N, Di Natale P: Expression of five iduronate-2-sulfatase site-directed mutations.  Biochim Biophys Acta. 2000 Jun 15;1501(2-3):71-80.</reference_text>
+      <pubmed_id>10838181</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cudry S, Tigaud I, Froissart R, Bonnet V, Maire I, Bozon D: MPS II in females: molecular basis of two different cases.  J Med Genet. 2000 Oct;37(10):E29.</reference_text>
+      <pubmed_id>11015461</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bonuccelli G, Di Natale P, Corsolini F, Villani G, Regis S, Filocamo M: The effect of four mutations on the expression of iduronate-2-sulfatase in mucopolysaccharidosis type II. Biochim Biophys Acta. 2001 Nov 29;1537(3):233-8.</reference_text>
+      <pubmed_id>11731225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moreira da Silva I, Froissart R, Marques dos Santos H, Caseiro C, Maire I, Bozon D: Molecular basis of mucopolysaccharidosis type II in Portugal: identification of four novel mutations. Clin Genet. 2001 Oct;60(4):316-8.</reference_text>
+      <pubmed_id>11683780</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ricci V, Filocamo M, Regis S, Corsolini F, Stroppiano M, Di Duca M, Gatti R: Expression studies of two novel in CIS-mutations identified in an intermediate case of Hunter syndrome. Am J Med Genet A. 2003 Jul 1;120A(1):84-7.</reference_text>
+      <pubmed_id>12794697</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim CH, Hwang HZ, Song SM, Paik KH, Kwon EK, Moon KB, Yoon JH, Han CK, Jin DK: Mutational spectrum of the iduronate 2 sulfatase gene in 25 unrelated Korean Hunter syndrome patients: identification of 13 novel mutations. Hum Mutat. 2003 Apr;21(4):449-50.</reference_text>
+      <pubmed_id>12655569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lualdi S, Pittis MG, Regis S, Parini R, Allegri AE, Furlan F, Bembi B, Filocamo M: Multiple cryptic splice sites can be activated by IDS point mutations generating misspliced transcripts. J Mol Med. 2006 Aug;84(8):692-700. Epub 2006 May 13.</reference_text>
+      <pubmed_id>16699754</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

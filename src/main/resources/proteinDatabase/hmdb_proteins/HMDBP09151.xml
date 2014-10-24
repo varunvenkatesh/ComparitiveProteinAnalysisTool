@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:19:58 -0700</creation_date>
+  <update_date>2013-05-27 11:05:05 -0600</update_date>
+  <accession>HMDBP09151</accession>
+  <secondary_accessions>
+    <accession>14906</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Beta-1,4-N-acetylgalactosaminyltransferase III</synonym>
+    <synonym>Beta4GalNAc-T3</synonym>
+    <synonym>Beta4GalNAcT3</synonym>
+    <synonym>NGalNAc-T2</synonym>
+    <synonym>B4GalNAcT3</synonym>
+    <synonym>N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase 2</synonym>
+  </synonyms>
+  <gene_name>B4GALNT3</gene_name>
+  <general_function>Involved in transferase activity, transferring hexosyl groups</general_function>
+  <specific_function>Transfers N-acetylgalactosamine (GalNAc) from UDP-GalNAc to N-acetylglucosamine-beta-benzyl with a beta-1,4-linkage to form N,N'-diacetyllactosediamine, GalNAc-beta-1,4-GlcNAc structures in N-linked glycans and probably O-linked glycans. Mediates the N,N'-diacetyllactosediamine formation on gastric mucosa.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00629</accession>
+      <name>Chondroitin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00304</accession>
+      <name>Uridine diphosphate-N-acetylgalactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00212</accession>
+      <name>N-Acetylgalactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60522</accession>
+      <name>UDP-N-acetyl-alpha-D-galactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>golgi membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>golgi cisterna membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi cisterna membrane</description>
+      <go_id>GO:0032580</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>acetylgalactosaminyltransferase activity</description>
+      <go_id>GO:0008376</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase activity</description>
+      <go_id>GO:0033842</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Golgi stack membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p13.33</locus>
+    <gene_sequence>&gt;2997 bp
+ATGGGGAGCCCCCGGGCCGCGCGGCCCCCGCTGCTCCTGCGCCCGGTGAAGCTGCTGCGG
+AGGCGCTTCCGGCTGCTGCTGGCGCTCGCCGTGGTGTCTGTGGGGCTCTGGACTCTGTAT
+CTGGAACTGGTGGCGTCGGCCCAGGTCGGCGGGAACCCCCTGAACCGGAGGTACGGCAGC
+TGGAGAGAACTAGCCAAGGCTCTGGCCAGCAGGAACATTCCAGCTGTGGATCCACACCTC
+CAGTTCTACCATCCCCAGAGGCTGAGCCTCGAGGACCACGACATTGACCAAGGGGTGAGC
+AGTAACAGCAGCTACTTGAAGTGGAACAAGCCTGTCCCCTGGCTCTCAGAGTTCCGGGGC
+CGTGCCAACCTGCATGTGTTTGAAGACTGGTGTGGCAGCTCTATCCAGCAGCTCAGGAGG
+AACCTGCATTTCCCACTGTACCCCCATATTCGCACAACCCTGAGGAAGCTTGCTGTGTCC
+CCCAAATGGACCAACTATGGCCTCCGCATCTTTGGCTACCTGCACCCCTTTACTGATGGG
+AAAATCCAGTTTGCCATTGCTGCAGATGACAACGCGGAGTTCTGGCTGAGCCTCGATGAC
+CAGGTCTCAGGCCTCCAGCTGCTGGCCAGTGTGGGCAAGACTGGAAAGGAGTGGACCGCC
+CCGGGAGAGTTTGGGAAATTTCGGAGCCAAATTTCCAAGCCGGTGAGCCTGTCAGCCTCC
+CACAGGTACTACTTCGAGGTGCTGCACAAGCAGAATGAGGAGGGCACCGACCACGTGGAA
+GTTGCATGGCGACGGAACGACCCTGGAGCCAAGTTCACCATCATTGACTCCCTCTCCCTG
+TCCCTCTTCACAAATGAGACGTTCCTACAGATGGATGAGGTGGGCCACATCCCACAGACA
+GCAGCCAGCCACGTGGACTCCTCCAACGCTCTTCCCAGGGATGAGCAGCCGCCCGCTGAC
+ATGCTTCGGCCTGACCCCCGGGACACCCTCTATCGAGTGCCTCTGATCCCCAAGTCGCAT
+CTCCGCCACGTCCTGCCTGACTGTCCCTACAAACCCAGCTATCTGGTGGATGGGCTTCCT
+CTGCAGCGCTACCAGGGACTCCGGTTTGTTCATCTGTCTTTTGTTTACCCCAATGACTAT
+ACCCGCCTGAGCCACATGGAGACCCACAATAAATGTTTCTACCAGGAAAACGCCTACTAC
+CAAGACCGGTTCAGCTTTCAGGAGTACATCAGGATTGACCAGCCTGAGAAGCAGGGGCTG
+GAGCAGCCAGGTTTTGAGGAAAACCTTCTAGAAGAGTCCCAGTATGGGGAAGTGGCAGAG
+GAGACCCCTGCCTCCAACAACCAGAATGCCAGGATGCTTGAGGGAAGACAGACACCTGCC
+TCCACCCTGGAGCAAGATGCCACTGACTACCGCCTCCGAAGCCTGCGGAAACTCCTGGCT
+CAGCCCCGGGAGGGCCTGCTGGCCCCCTTCTCCAAGCGGAACTCCACAGCGTCCTTCCCA
+GGGAGGACCAGCCACATTCCAGTGCAGCAGCCAGAGAAGAGGAAGCAAAAACCCAGCCCT
+GAGCCCAGCCAAGATTCACCTCATTCCGACAAGTGGCCTCCTGGGCACCCTGTGAAGAAC
+CTGCCTCAGATGAGGGGGCCCAGGCCCAGGCCCGCTGGTGACAGCCCCAGGAAGACTCAG
+TGGCTGAACCAGGTGGAGTCGTACATCGCAGAGCAGAGACGGGGTGACAGGATGCGGCCT
+CAGGCCCCCGGAAGGGGCTGGCATGGGGAGGAGGAAGTGGTGGCGGCCGCAGGCCAGGAA
+GGACAAGTGGAGGGAGAGGAAGAGGGGGAAGAAGAGGAGGAGGAAGAGGATATGAGTGAG
+GTGTTCGAGTACGTACCTGTGTTTGACCCGGTAGTAAACTGGGACCAGACCTTCAGTGCC
+CGGAATCTCGACTTCCAAGCCCTGAGGACTGACTGGATCGATCTGAGCTGTAACACATCT
+GGCAACCTGCTGCTTCCAGAGCAGGAAGCTCTGGAGGTCACGCGAGTCTTCTTGAAGAAG
+CTCAACCAGAGGAGCCGGGGGAGGTACCAGCTACAGCGCATTGTGAACGTGGAAAAGCGT
+CAGGACCAGCTACGTGGGGGTCGCTACCTCCTGGAGCTTGAACTGTTGGAACAAGGCCAG
+CGCGTGGTGCGGCTCTCGGAGTATGTGTCTGCACGAGGCTGGCAGGGCATCGATCCAGCT
+GGTGGGGAGGAGGTCGAGGCCCGGAACCTGCAAGGCCTGGTCTGGGACCCACACAACCGT
+AGGAGACAGGTCCTGAATACCCGGGCCCAAGAGCCCAAGCTGTGCTGGCCTCAGGGTTTC
+TCCTGGAGTCACCGAGCCGTGGTCCACTTCGTCGTGCCTGTGAAGAACCAGGCACGCTGG
+GTACAGCAATTCATCAAAGACATGGAAAACCTGTTCCAGGTCACCGGTGACCCACACTTC
+AACATCGTCATCACTGACTATAGCAGTGAGGACATGGATGTTGAGATGGCACTGAAGAGG
+TCCAAGCTGCGGAGCTACCAGTACGTGAAGCTAAGTGGAAACTTTGAACGCTCAGCTGGA
+CTTCAGGCTGGCATAGACCTCGTGAAGGACCCGCACAGCATCATCTTCCTCTGTGACCTC
+CACATCCACTTCCCAGCTGGAGTCATCGATGCCATTCGGAAGCACTGTGTGGAGGGAAAG
+ATGGCCTTTGCCCCCATGGTGATGAGGCTGCATTGTGGGGCCACCCCCCAGTGGCCTGAG
+GGCTACTGGGAGGTGAATGGGTTCGGGCTGCTTGGCATCTACAAGTCTGACCTGGACAGG
+ATTGGGGGCATGAACACCAAGGAGTTCCGAGACCGCTGGGGCGGGGAAGACTGGGAGCTG
+CTGGACAGGATACTCCAAGCGGGCCTGGACGTGGAGCGTCTCTCCCTCAGGAATTTCTTC
+CATCATTTCCATTCCAAGCGAGGCATGTGGAGCCGTCGCCAGATGAAGACGCTGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>998</residue_number>
+    <molecular_weight>114974.105</molecular_weight>
+    <theoretical_pi>7.489</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CHGN</name>
+        <pfam_id>PF05679</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PA14</name>
+        <pfam_id>PF07691</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase 2
+MGSPRAARPPLLLRPVKLLRRRFRLLLALAVVSVGLWTLYLELVASAQVGGNPLNRRYGS
+WRELAKALASRNIPAVDPHLQFYHPQRLSLEDHDIDQGVSSNSSYLKWNKPVPWLSEFRG
+RANLHVFEDWCGSSIQQLRRNLHFPLYPHIRTTLRKLAVSPKWTNYGLRIFGYLHPFTDG
+KIQFAIAADDNAEFWLSLDDQVSGLQLLASVGKTGKEWTAPGEFGKFRSQISKPVSLSAS
+HRYYFEVLHKQNEEGTDHVEVAWRRNDPGAKFTIIDSLSLSLFTNETFLQMDEVGHIPQT
+AASHVDSSNALPRDEQPPADMLRPDPRDTLYRVPLIPKSHLRHVLPDCPYKPSYLVDGLP
+LQRYQGLRFVHLSFVYPNDYTRLSHMETHNKCFYQENAYYQDRFSFQEYIKIDQPEKQGL
+EQPGFEENLLEESQYGEVAEETPASNNQNARMLEGRQTPASTLEQDATDYRLRSLRKLLA
+QPREGLLAPFSKRNSTASFPGRTSHIPVQQPEKRKQKPSPEPSQDSPHSDKWPPGHPVKN
+LPQMRGPRPRPAGDSPRKTQWLNQVESYIAEQRRGDRMRPQAPGRGWHGEEEVVAAAGQE
+GQVEGEEEGEEEEEEEDMSEVFEYVPVFDPVVNWDQTFSARNLDFQALRTDWIDLSCNTS
+GNLLLPEQEALEVTRVFLKKLNQRSRGRYQLQRIVNVEKRQDQLRGGRYLLELELLEQGQ
+RVVRLSEYVSARGWQGIDPAGGEEVEARNLQGLVWDPHNRRRQVLNTRAQEPKLCWPQGF
+SWSHRAVVHFVVPVKNQARWVQQFIKDMENLFQVTGDPHFNIVITDYSSEDMDVEMALKR
+SKLRSYQYVKLSGNFERSAGLQAGIDLVKDPHSIIFLCDLHIHFPAGVIDAIRKHCVEGK
+MAFAPMVMRLHCGATPQWPEGYWEVNGFGLLGIYKSDLDRIGGMNTKEFRDRWGGEDWEL
+LDRILQAGLDVERLSLRNFFHHFHSKRGMWSRRQMKTL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>38564141</genbank_protein_id>
+  <uniprot_id>Q6L9W6</uniprot_id>
+  <uniprot_name>B4GN3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB089940</genbank_gene_id>
+  <genecard_id>B4GALNT3</genecard_id>
+  <geneatlas_id>B4GALNT3</geneatlas_id>
+  <hgnc_id>HGNC:24137</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sato T, Gotoh M, Kiyohara K, Kameyama A, Kubota T, Kikuchi N, Ishizuka Y, Iwasaki H, Togayachi A, Kudo T, Ohkura T, Nakanishi H, Narimatsu H: Molecular cloning and characterization of a novel human beta 1,4-N-acetylgalactosaminyltransferase, beta 4GalNAc-T3, responsible for the synthesis of N,N'-diacetyllactosediamine, galNAc beta 1-4GlcNAc. J Biol Chem. 2003 Nov 28;278(48):47534-44. Epub 2003 Sep 9.</reference_text>
+      <pubmed_id>12966086</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikehara Y, Sato T, Niwa T, Nakamura S, Gotoh M, Ikehara SK, Kiyohara K, Aoki C, Iwai T, Nakanishi H, Hirabayashi J, Tatematsu M, Narimatsu H: Apical Golgi localization of N,N'-diacetyllactosediamine synthase, beta4GalNAc-T3, is responsible for LacdiNAc expression on gastric mucosa. Glycobiology. 2006 Sep;16(9):777-85. Epub 2006 May 25.</reference_text>
+      <pubmed_id>16728562</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

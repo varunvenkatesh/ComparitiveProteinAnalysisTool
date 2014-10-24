@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:46 -0700</creation_date>
+  <update_date>2013-05-27 11:25:25 -0600</update_date>
+  <accession>HMDBP01705</accession>
+  <secondary_accessions>
+    <accession>7043</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Alpha-mannoside beta-1,6-N-acetylglucosaminyltransferase</synonym>
+    <synonym>GNT-V</synonym>
+    <synonym>GlcNAc-T V</synonym>
+    <synonym>Mannoside acetylglucosaminyltransferase 5</synonym>
+    <synonym>N-acetylglucosaminyl-transferase V</synonym>
+  </synonyms>
+  <gene_name>MGAT5</gene_name>
+  <general_function>Involved in alpha-1,6-mannosyl-glycoprotein 6-beta-N-ac</general_function>
+  <specific_function>Catalyzes the addition of N-acetylglucosamine in beta 1-6 linkage to the alpha-linked mannose of biantennary N-linked oligosaccharides. It is one of the most important enzymes involved in the regulation of the biosynthesis of glycoprotein oligosaccharides.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>N-Glycan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00510</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00290</accession>
+      <name>Uridine diphosphate-N-acetylglucosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity</description>
+      <go_id>GO:0030144</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-translational protein modification</description>
+      <go_id>GO:0043687</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein N-linked glycosylation via asparagine</description>
+      <go_id>GO:0018279</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q21.3</locus>
+    <gene_sequence>&gt;2226 bp
+ATGGCTCTCTTCACTCCGTGGAAGTTGTCCTCTCAGAAGCTGGGCTTTTTCCTGGTGACT
+TTTGGCTTCATTTGGGGTATGATGCTTCTGCACTTTACCATCCAGCAGCGAACTCAGCCT
+GAAAGCAGCTCCATGCTGCGCGAGCAGATCCTGGACCTCAGCAAAAGGTACATCAAGGCA
+CTGGCAGAAGAAAACAGGAATGTGGTGGATGGGCCATACGCTGGAGTCATGACAGCTTAT
+GATCTGAAGAAAACCCTTGCTGTGTTATTAGATAACATTTTGCAGCGCATTGGCAAGTTG
+GAGTCGAAGGTGGACAATCTTGTTGTCAATGGCACCGGAACAAACTCAACCAACTCCACT
+ACAGCTGTTCCCAGCTTGGTTGCACTTGAGAAAATTAATGTGGCAGATATCATTAACGGA
+GCTCAAGAAAAATGTGTATTGCCTCCTATGGACGGCTACCCTCACTGTGAGGGAAAGATC
+AAGTGGATGAAAGACATGTGGCGTTCAGATCCCTGCTACGCAGACTATGGAGTGGATGGA
+TCCACCTGCTCTTTTTTTATTTACCTCAGTGAGGTTGAAAATTGGTGTCCTCATTTACCT
+TGGAGAGCAAAAAATCCCTACGAAGAAGCTGATCATAATTCATTGGCGGAAATTCGTACA
+GATTTTAATATTCTCTACAGTATGATGAAAAAGCATGAAGAATTCCGGTGGATGAGACTA
+CGGATCCGGCGAATGGCTGACGCATGGATCCAAGCAATCAAGTCCCTGGCAGAAAAGCAG
+AACCTTGAAAAGAGAAAGCGGAAGAAAGTCCTCGTTCACCTGGGACTCCTGACCAAGGAA
+TCTGGATTTAAGATTGCAGAGACAGCTTTCAGTGGTGGCCCTCTTGGTGAATTAGTTCAA
+TGGAGTGATTTAATTACATCTCTGTACTTACTGGGCCATGACATTAGGATTTCAGCTTCA
+CTGGCTGAGCTCAAGGAAATCATGAAGAAGGTTGTAGGAAACCGATCTGGCTGCCCAACT
+GTAGGAGACAGAATTGTTGAGCTCATTTACATTGATATTGTAGGACTTGCTCAATTCAAG
+AAAACTCTTGGACCATCCTGGGTTCATTACCAGTGCATGCTCCGAGTGCTGGATTCCTTT
+GGAACAGAACCTGAGTTCAATCACGCAAATTATGCCCAATCGAAAGGCCACAAGACCCCT
+TGGGGAAAATGGAATCTGAACCCTCAGCAGTTTTATACCATGTTCCCTCATACCCCAGAC
+AACAGCTTTCTGGGGTTTGTGGTTGAGCAGCACCTGAACTCCAGTGATATCCACCACATT
+AATGAAATCAAAAGGCAGAACCAGTCCCTTGTGTATGGCAAAGTGGATAGCTTCTGGAAG
+AATAAGAAGATCTACTTGGACATTATTCACACATACATGGAAGTGCATGCAACTGTTTAT
+GGCTCCAGCACAAAGAATATTCCCAGTTACGTGAAAAACCATGGTATCCTCAGTGGACGG
+GACCTGCAGTTCCTTCTTCGAGAAACCAAGTTGTTTGTTGGACTTGGGTTCCCTTACGAG
+GGCCCAGCTCCCCTGGAAGCTATCGCAAATGGATGTGCTTTTCTGAATCCCAAGTTCAAC
+CCACCCAAAAGCAGCAAAAACACAGACTTCTTCATTGGCAAGCCAACACTGAGAGAGCTC
+ACATCCCAGCATCCTTACGCTGAAGTTTTCATCGGGCGGCCACATGTGTGGACTGTTGAC
+CTCAACAATCAGGAGGAAGTAGAGGATGCAGTGAAAGCCATCTTAAACCAGAAGATTGAG
+CCATACATGCCATATGAATTTACGTGCGAGGGGATGCTACAGAGAATCAATGCTTTCATT
+GAAAAACAGGACTTCTGCCATGGGCAAGTGATGTGGCCACCCCTCAGCGCCCTACAGGTC
+AAGCTTGCTGAGCCCGGGCAGTCCTGCAAGCAGGTGTGCCAGGAGAGCCAGCTCATCTGC
+GAGCCTTCTTTCTTCCAGCACCTCAACAAGGACAAGGACATGCTGAAGTACAAGGTGACC
+TGCCAAAGCTCAGAGCTGGCCAAGGACATCCTGGTGCCCTCCTTTGACCCTAAGAATAAG
+CACTGTGTGTTTCAAGGTGACCTCCTGCTCTTCAGCTGTGCAGGCGCCCACCCCAGGCAC
+CAGAGGGTCTGCCCCTGCCGGGACTTCATCAAGGGCCAGGTGGCTCTCTGCAAAGACTGC
+CTATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>741</residue_number>
+    <molecular_weight>84542.02</molecular_weight>
+    <theoretical_pi>8.124</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase A
+MALFTPWKLSSQKLGFFLVTFGFIWGMMLLHFTIQQRTQPESSSMLREQILDLSKRYIKA
+LAEENRNVVDGPYAGVMTAYDLKKTLAVLLDNILQRIGKLESKVDNLVVNGTGTNSTNST
+TAVPSLVALEKINVADIINGAQEKCVLPPMDGYPHCEGKIKWMKDMWRSDPCYADYGVDG
+STCSFFIYLSEVENWCPHLPWRAKNPYEEADHNSLAEIRTDFNILYSMMKKHEEFRWMRL
+RIRRMADAWIQAIKSLAEKQNLEKRKRKKVLVHLGLLTKESGFKIAETAFSGGPLGELVQ
+WSDLITSLYLLGHDIRISASLAELKEIMKKVVGNRSGCPTVGDRIVELIYIDIVGLAQFK
+KTLGPSWVHYQCMLRVLDSFGTEPEFNHANYAQSKGHKTPWGKWNLNPQQFYTMFPHTPD
+NSFLGFVVEQHLNSSDIHHINEIKRQNQSLVYGKVDSFWKNKKIYLDIIHTYMEVHATVY
+GSSTKNIPSYVKNHGILSGRDLQFLLRETKLFVGLGFPYEGPAPLEAIANGCAFLNPKFN
+PPKSSKNTDFFIGKPTLRELTSQHPYAEVFIGRPHVWTVDLNNQEEVEDAVKAILNQKIE
+PYMPYEFTCEGMLQRINAFIEKQDFCHGQVMWPPLSALQVKLAEPGQSCKQVCQESQLIC
+EPSFFQHLNKDKDMLKYKVTCQSSELAKDILVPSFDPKNKHCVFQGDLLLFSCAGAHPRH
+QRVCPCRDFIKGQVALCKDCL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4545222</genbank_protein_id>
+  <uniprot_id>Q09328</uniprot_id>
+  <uniprot_name>MGT5A_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF113921</genbank_gene_id>
+  <genecard_id>MGAT5</genecard_id>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:7049</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Saito H, Nishikawa A, Gu J, Ihara Y, Soejima H, Wada Y, Sekiya C, Niikawa N, Taniguchi N: cDNA cloning and chromosomal mapping of human N-acetylglucosaminyltransferase V+. Biochem Biophys Res Commun. 1994 Jan 14;198(1):318-27.</reference_text>
+      <pubmed_id>8292036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park C, Jin UH, Lee YC, Cho TJ, Kim CH: Characterization of UDP-N-acetylglucosamine:alpha-6-d-mannoside beta-1,6-N-acetylglucosaminyltransferase V from a human hepatoma cell line Hep3B. Arch Biochem Biophys. 1999 Jul 15;367(2):281-8.</reference_text>
+      <pubmed_id>10395745</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

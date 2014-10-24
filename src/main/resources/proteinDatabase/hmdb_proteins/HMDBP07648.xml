@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:01:12 -0700</creation_date>
+  <update_date>2013-01-15 20:01:12 -0700</update_date>
+  <accession>HMDBP07648</accession>
+  <secondary_accessions>
+    <accession>13357</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Glycoprotein 340</synonym>
+    <synonym>Gp-340</synonym>
+    <synonym>Hensin</synonym>
+    <synonym>SAG</synonym>
+    <synonym>Salivary agglutinin</synonym>
+    <synonym>Surfactant pulmonary-associated D-binding protein</synonym>
+  </synonyms>
+  <gene_name>DMBT1</gene_name>
+  <general_function>Involved in scavenger receptor activity</general_function>
+  <specific_function>May be considered as a candidate tumor suppressor gene for brain, lung, esophageal, gastric, and colorectal cancers. May play roles in mucosal defense system, cellular immune defense and epithelial differentiation. May play a role as an opsonin receptor for SFTPD and SPAR in macrophage tissues throughout the body, including epithelial cells lining the gastrointestinal tract. May play a role in liver regeneration. May be an important factor in fate decision and differentiation of transit-amplifying ductular (oval) cells within the hepatic lineage. Required for terminal differentiation of columnar epithelial cells during early embryogenesis. May function as a binding protein in saliva for the regulation of taste sensation. Binds to HIV-1 envelope protein and has been shown to both inhibit and facilitate viral transmission. Displays a broad calcium-dependent binding spectrum against both Gram-positive and Gram-negative bacteria, suggesting a role in defense against bacterial pathogens. Binds to a range of poly- sulfated and poly-phosphorylated ligands which may explain its broad bacterial-binding specificity. Inhibits cytoinvasion of S.enterica. Associates with the actin cytoskeleton and is involved in its remodeling during regulated exocytosis. Interacts with pancreatic zymogens in a pH-dependent manner and may act as a Golgi cargo receptor in the regulated secretory pathway of the pancreatic acinar cell</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>scavenger receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>10q26.13</locus>
+    <gene_sequence>&gt;7242 bp
+ATGGGGATCTCCACAGTCATCCTTGAAATGTGTCTTTTATGGGGACAAGTTCTATCTACA
+GGTGGGTGGATCCCAAGGACTACAGACTACGCTTCACTGATTCCCTCGGAGGTGCCCTTG
+GATCCAACTGTAGCAGAAGGTTCTCCATTTCCCTCGGAGTCGACCCTGGAGTCAACTGTA
+GCAGAAGGTTCTCCGATTTCCTTGGAGTCAACCCTGGAGTCAACCGTAGCAGAAGGTTCT
+CTGATTCCCTCAGAGTCAACCCTGGAGTCAACTGTAGCAGAAGGATCTGATTCTGGTTTG
+GCCCTGAGGCTGGTGAATGGAGATGGCAGGTGTCAGGGCCGAGTGGAGATCCTATACCGA
+GGCTCCTGGGGCACCGTGTGTGATGACAGCTGGGACACCAATGATGCCAACGTGGTCTGT
+AGGCAGCTGGGTTGTGGCTGGGCCATGTCAGCTCCAGGAAATGCCTGGTTTGGCCAGGGC
+TCAGGACCCATTGCCCTGGATGATGTGCGCTGCTCAGGACACGAATCCTACCTGTGGAGC
+TGCCCCCACAATGGCTGGCTCTCCCATAACTGTGGCCATGGTGAAGATGCTGGTGTTATC
+TGCTCAGCTGCCCAGCCTCAGTCAACACTCAGGCCAGAAAGTTGGCCTGTCAGGATATCA
+CCACCTGTACCCACAGAAGGATCTGAATCCAGTTTGGCCCTGAGGCTGGTGAATGGAGGC
+GACAGGTGTCGAGGCCGAGTGGAGGTCCTATACCGAGGCTCCTGGGGCACCGTGTGTGAT
+GACTACTGGGACACCAATGATGCCAATGTGGTCTGCAGGCAGCTGGGCTGTGGCTGGGCC
+ATGTCAGCCCCAGGAAATGCCCAGTTTGGCCAGGGCTCAGGACCCATTGTCCTGGATGAT
+GTGCGCTGCTCAGGACATGAGTCCTACCTGTGGAGCTGCCCCCACAATGGCTGGCTCACC
+CACAACTGTGGCCATAGTGAAGACGCTGGTGTCATCTGCTCAGCTCCCCAGTCCCGGCCG
+ACACCCAGCCCAGATACTTGGCCGACCTCACATGCATCAACAGCAGGACCTGAATCCAGT
+TTGGCCCTGAGGCTGGTGAATGGAGGTGACAGGTGTCAGGGCCGAGTGGAGGTCCTATAC
+CGAGGCTCCTGGGGCACCGTGTGTGATGATAGCTGGGACACCAGTGACGCCAATGTGGTC
+TGCCGGCAGCTGGGCTGTGGCTGGGCCACGTCAGCCCCAGGAAATGCCCGGTTTGGCCAG
+GGTTCAGGACCCATTGTCCTGGATGACGTGCGCTGCTCAGGCTATGAGTCCTACCTGTGG
+AGCTGCCCCCACAATGGCTGGCTCTCCCATAACTGTCAGCACAGTGAAGACGCTGGTGTC
+ATCTGCTCAGCTGCCCACTCCTGGTCGACGCCCAGTCCAGACACGTTGCCGACCATCACC
+TTACCTGCATCGACAGTAGGATCTGAATCCAGTTTGGCCCTGAGGCTGGTGAATGGAGGT
+GACAGGTGTCAGGGCCGAGTGGAGGTCCTATACCGAGGCTCCTGGGGCACCGTGTGTGAT
+GACAGCTGGGACACCAATGATGCCAATGTGGTCTGCAGGCAGCTGGGCTGTGGCTGGGCC
+ATGTTGGCCCCAGGAAATGCCCGGTTTGGTCAGGGCTCAGGACCCATTGTCCTGGATGAC
+GTGCGCTGCTCAGGGAATGAGTCCTACTTGTGGAGCTGCCCCCACAATGGCTGGCTCTCC
+CATAACTGTGGCCATAGTGAAGACGCTGGTGTCATCTGCTCAGGACCTGAATCCAGTTTG
+GCCCTGAGGCTGGTGAATGGAGGTGACAGGTGTCAGGGCCGAGTGGAGGTCCTATACCGA
+GGCTCTTGGGGCACCGTGTGTGATGACAGCTGGGACACCAATGATGCCAATGTGGTCTGC
+AGGCAGCTGGGCTGTGGCTGGGCCACGTCAGCCCCAGGAAATGCCCGGTTTGGTCAGGGC
+TCAGGACCCATTGTCCTGGATGATGTGCGCTGCTCAGGACATGAGTCCTACCTGTGGAGC
+TGCCCCAACAATGGCTGGCTCTCCCACAACTGTGGCCATCATGAAGATGCTGGTGTCATC
+TGCTCAGCTGCCCAGTCCCGGTCGACGCCCAGGCCAGACACGTTGTCGACCATCACGTTA
+CCTCCATCGACAGTAGGATCTGAATCCAGTTTGACCCTGAGGCTGGTGAATGGAAGTGAC
+AGGTGTCAGGGCCGAGTAGAGGTCCTATACCGAGGCTCCTGGGGCACCGTGTGTGATGAC
+AGCTGGGATACCAATGATGCCAATGTGGTCTGCAGGCAGCTGGGCTGTGGCTGGGCCACG
+TCGGCCCCAGGAAATGCCCGGTTTGGCCAGGGCTCAGGACCCATTGTTCTGGATGATGTG
+CGCTGCTCAGGACACGAGTCCTACCTGTGGAGCTGCCCCCACAATGGCTGGCTCTCCCAC
+AACTGTGGCCATCATGAAGATGCTGGTGTCATCTGCTCAGTTTCCCAGTCCCGGCCGACA
+CCCAGTCCAGATACTTGGCCGACCTCACATGCATCAACAGCAGGACCTGAATCCAGTTTG
+GCCCTGAGGCTGGTGAATGGAGGTGACAGGTGTCAGGGCCGAGTGGAGGTCCTATACCGA
+GGCTCCTGGGGCACCGTGTGTGATGATAGCTGGGACACCAGTGACGCCAATGTGGTCTGC
+CGGCAGCTGGGCTGTGGCTGGGCCACGTCAGCCCCAGGAAATGCCCGGTTTGGCCAGGGT
+TCAGGACCCATTGTCCTGGATGACGTGCGCTGCTCAGGCTATGAGTCCTACCTGTGGAGC
+TGCCCCCACAATGGCTGGCTCTCCCATAACTGTCAGCACAGTGAAGACGCTGGTGTCATC
+TGCTCAGCTGCCCACTCCTGGTCGACGCCCAGTCCAGACACATTGCCGACCATCACCTTG
+CCTGCATCGACAGTAGGATCTGAATCCAGTTTGGCCCTGAGGCTGGTGAATGGAGGTGAC
+AGGTGTCAGGGCCGAGTGGAGGTCCTATACCAAGGCTCCTGGGGCACCGTGTGCGATGAC
+AGCTGGGACACCAATGATGCCAATGTCGTCTGCAGGCAACTGGGCTGTGGCTGGGCCATG
+TCAGCCCCAGGAAATGCCCGGTTTGGTCAGGGCTCAGGACCCATTGTCCTGGATGATGTG
+CGCTGCTCAGGACACGAGTCTTACCTGTGGAGCTGCCCCCACAATGGCTGGCTCTCCCAC
+AACTGTGGCCATAGTGAAGACGCTGGTGTCATCTGCTCAGCTTCCCAGTCCCGGCCAACA
+CCTAGTCCAGACACTTGGCCAACCTCACATGCATCAACAGCAGGATCTGAATCCAGTTTG
+GCCCTGAGGCTGGTGAATGGAGGTGACAGGTGTCAGGGCCGAGTGGAGGTCCTATACCGA
+GGCTCCTGGGGCACCGTGTGTGATGACTACTGGGACACCAATGATGCCAATGTGGTTTGC
+AGGCAGCTGGGCTGTGGCTGGGCCATGTCAGCCCCAGGAAATGCCCGGTTTGGCCAGGGT
+TCAGGACCCATTGTCCTGGATGATGTGCGCTGCTCAGGACATGAGTCCTATCTGTGGAGC
+TGCCCCCACAATGGCTGGCTCTCCCACAACTGTGGCCATCATGAAGACGCTGGTGTCATC
+TGCTCAGCTTCCCAGTCCCAGCCGACACCCAGCCCAGACACTTGGCCAACCTCACATGCA
+TCAACAGCAGGATCTGAATCCAGTTTGGCCCTGAGGCTGGTGAATGGAGGTGACAGGTGT
+CAGGGCCGAGTGGAGGTCCTATACCGAGGCTCCTGGGGCACCGTGTGTGATGACTACTGG
+GACACCAATGATGCCAATGTGGTTTGCAGGCAGCTGGGCTGTGGCTGGGCCACGTCAGCC
+CCAGGAAATGCCCGGTTTGGCCAGGGTTCAGGACCCATTGTCCTGGATGATGTGCGCTGC
+TCAGGACATGAGTCCTATCTGTGGAGCTGCCCCCACAATGGCTGGCTCTCCCACAACTGT
+GGCCATCATGAAGACGCTGGTGTCATCTGCTCAGCTTCCCAGTCCCAGCCGACACCCAGC
+CCAGACACTTGGCCAACCTCACATGCATCAACAGCAGGATCTGAATCCAGTTTGGCCCTG
+AGGCTGGTGAATGGAGGTGACAGGTGTCAGGGCCGAGTGGAGGTCCTATACCGAGGCTCC
+TGGGGCACCGTGTGTGATGACTACTGGGACACCAATGATGCCAATGTGGTTTGCAGGCAG
+CTGGGCTGTGGCTGGGCCACGTCAGCCCCAGGAAATGCCCGGTTTGGCCAGGGTTCAGGA
+CCCATTGTCCTGGATGATGTGCGCTGCTCAGGACATGAGTCCTATCTGTGGAGCTGCCCC
+CACAATGGCTGGCTCTCCCACAACTGTGGCCATCATGAAGACGCTGGTGTCATCTGCTCA
+GCTTCCCAGTCCCAGCCGACACCCAGCCCAGACACTTGGCCAACCTCTCGTGCATCAACA
+GCAGGATCTGAATCCACTTTGGCCCTGAGACTGGTGAATGGAGGTGACAGGTGTCGAGGC
+CGAGTGGAGGTCCTATACCAAGGCTCCTGGGGCACCGTGTGTGATGACTACTGGGACACC
+AATGATGCCAACGTGGTCTGCAGGCAGCTGGGCTGTGGCTGGGCCATGTCAGCCCCAGGA
+AATGCCCAGTTTGGCCAGGGCTCAGGACCCATTGTCCTGGATGATGTGCGCTGCTCAGGA
+CACGAGTCTTACCTGTGGAGCTGCCCCCACAATGGCTGGCTCTCCCACAACTGTGGCCAT
+CATGAAGATGCTGGTGTCATCTGCTCAGCTGCTCAGTCCCAGTCAACGCCCAGGCCAGAT
+ACTTGGCTGACCACCAACTTACCGGCATTGACAGTAGGATCTGAATCCAGTTTGGCTCTG
+AGGCTGGTGAATGGAGGTGACAGGTGTCGAGGCCGAGTGGAGGTCCTGTATCGAGGCTCC
+TGGGGAACCGTGTGTGATGACAGCTGGGACACCAATGATGCCAATGTGGTCTGCAGGCAG
+CTGGGCTGTGGCTGGGCCATGTCGGCCCCAGGAAATGCCCGGTTTGGCCAGGGCTCAGGA
+CCCATTGTCCTGGATGATGTGCGCTGCTCAGGGAATGAGTCCTACCTGTGGAGCTGCCCC
+CACAAAGGCTGGCTCACCCACAACTGTGGCCATCACGAAGACGCTGGTGTCATCTGCTCA
+GCCACCCAAATAAATTCTACTACGACAGATTGGTGGCATCCAACAACTACAACCACTGCA
+AGACCCTCTTCAAATTGTGGTGGCTTCTTATTCTATGCCAGTGGGACATTCTCCAGCCCA
+TCCTACCCTGCATACTACCCCAACAATGCTAAGTGTGTTTGGGAAATAGAAGTGAATTCT
+GGTTATCGCATAAACCTGGGCTTCAGTAATCTGAAATTGGAGGCACACCATAACTGCAGT
+TTTGATTATGTTGAAATCTTTGATGGATCATTGAATAGCAGTCTCCTGCTGGGGAAAATC
+TGTAATGATACCAGGCAAATATTTACATCTTCTTACAACCGAATGACCATTCACTTTCGA
+AGTGACATCAGTTTCCAAAACACTGGCTTTTTGGCTTGGTATAACTCCTTCCCAAGCGAT
+GCCACCTTGAGGTTGGTCAATTTAAATTCATCCTATGGTCTATGTGCCGGGCGTGTAGAA
+ATTTACCATGGTGGCACCTGGGGGACAGTTTGTGATGACTCCTGGACCATTCAGGAAGCT
+GAGGTGGTCTGCAGACAGCTAGGGTGTGGACGTGCAGTTTCAGCCCTTGGAAATGCATAT
+TTTGGCTCTGGCTCTGGCCCCATCACCCTGGACGATGTAGAGTGCTCAGGGACGGAATCC
+ACTCTCTGGCAGTGCCGGAACCGAGGCTGGTTCTCCCACAACTGTAATCATCGTGAAGAT
+GCTGGTGTCATCTGCTCAGGAAACCATCTATCGACACCTGCTCCTTTTCTCAACATCACC
+CGTCCAAACACAGATTATTCCTGCGGAGGCTTCCTATCCCAACCATCAGGGGACTTTTCC
+AGCCCATTCTATCCCGGGAACTATCCAAACAATGCCAAGTGTGTGTGGGACATTGAGGTG
+CAAAACAACTACCGTGTGACTGTGATCTTCAGAGATGTCCAGCTTGAAGGTGGCTGCAAC
+TATGATTATATTGAAGTTTTCGATGGCCCCTACCGCAGTTCCCCTCTCATTGCTCGAGTT
+TGTGATGGGGCCAGAGGCTCCTTCACTTCTTCCTCCAACTTCATGTCCATTCGCTTCATC
+AGTGACCACAGCATCACAAGGAGAGGGTTCCGGGCTGAGTACTACTCCAGTCCCTCCAAT
+GACAGCACCAACCTGCTCTGTCTGCCAAATCACATGCAAGCCAGTGTGAGCAGGAGCTAT
+CTCCAATCCTTGGGCTTTTCTGCCAGTGACCTTGTCATTTCCACCTGGAATGGATACTAC
+GAGTGTCGGCCCCAGATAACGCCGAACCTGGTGATATTCACAATTCCCTACTCAGGCTGC
+GGCACCTTCAAGCAGGCAGACAATGACACCATCGACTATTCCAACTTCCTCACAGCAGCT
+GTCTCAGGTGGCATCATCAAGAGGAGGACAGACCTCCGTATTCACGTCAGCTGCAGAATG
+CTTCAGAACACCTGGGTCGACACCATGTACATTGCTAATGACACCATCCACGTTGCTAAT
+AACACCATCCAGGTCGAGGAAGTCCAGTATGGCAATTTTGACGTGAACATTTCCTTTTAT
+ACTTCCTCATCTTTCTTGTATCCTGTGACCAGCCGCCCTTACTACGTGGACCTGAACCAG
+GACTTGTACGTTCAGGCTGAAATCCTCCATTCTGATGCTGTACTGACCTTGTTTGTGGAC
+ACCTGCGTGGCATCACCATACTCCAATGACTTCACGTCTTTGACTTATGATCTAATCCGG
+AGTGGATGCGTGAGGGATGACACCTACGGACCCTACTCCTCGCCATCTCTTCGCATTGCC
+CGCTTCCGGTTCAGGGCCTTCCACTTCCTGAACCGCTTCCCCTCCGTGTACCTGCGTTGT
+AAAATGGTGGTGTGCAGAGCGTATGACCCCTCTTCCCGCTGCTACCGAGGCTGTGTGTTG
+AGGTCGAAGAGGGATGTGGGCTCCTACCAGGAAAAGGTGGACGTCGTCCTGGGTCCCATC
+CAGCTGCAGACCCCCCCACGCCGAGAAGAGGAGCCTCGGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2413</residue_number>
+    <molecular_weight>260733.2</molecular_weight>
+    <theoretical_pi>5.11</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CUB;</name>
+        <pfam_id>PF00431</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SRCR;</name>
+        <pfam_id>PF00530</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Zona_pellucida</name>
+        <pfam_id>PF00100</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-19</region>
+    </signal_regions>
+    <protein_sequence>&gt;Deleted in malignant brain tumors 1 protein
+MGISTVILEMCLLWGQVLSTGGWIPRTTDYASLIPSEVPLDPTVAEGSPFPSESTLESTV
+AEGSPISLESTLESTVAEGSLIPSESTLESTVAEGSDSGLALRLVNGDGRCQGRVEILYR
+GSWGTVCDDSWDTNDANVVCRQLGCGWAMSAPGNAWFGQGSGPIALDDVRCSGHESYLWS
+CPHNGWLSHNCGHGEDAGVICSAAQPQSTLRPESWPVRISPPVPTEGSESSLALRLVNGG
+DRCRGRVEVLYRGSWGTVCDDYWDTNDANVVCRQLGCGWAMSAPGNAQFGQGSGPIVLDD
+VRCSGHESYLWSCPHNGWLTHNCGHSEDAGVICSAPQSRPTPSPDTWPTSHASTAGPESS
+LALRLVNGGDRCQGRVEVLYRGSWGTVCDDSWDTSDANVVCRQLGCGWATSAPGNARFGQ
+GSGPIVLDDVRCSGYESYLWSCPHNGWLSHNCQHSEDAGVICSAAHSWSTPSPDTLPTIT
+LPASTVGSESSLALRLVNGGDRCQGRVEVLYRGSWGTVCDDSWDTNDANVVCRQLGCGWA
+MLAPGNARFGQGSGPIVLDDVRCSGNESYLWSCPHNGWLSHNCGHSEDAGVICSGPESSL
+ALRLVNGGDRCQGRVEVLYRGSWGTVCDDSWDTNDANVVCRQLGCGWATSAPGNARFGQG
+SGPIVLDDVRCSGHESYLWSCPNNGWLSHNCGHHEDAGVICSAAQSRSTPRPDTLSTITL
+PPSTVGSESSLTLRLVNGSDRCQGRVEVLYRGSWGTVCDDSWDTNDANVVCRQLGCGWAT
+SAPGNARFGQGSGPIVLDDVRCSGHESYLWSCPHNGWLSHNCGHHEDAGVICSVSQSRPT
+PSPDTWPTSHASTAGPESSLALRLVNGGDRCQGRVEVLYRGSWGTVCDDSWDTSDANVVC
+RQLGCGWATSAPGNARFGQGSGPIVLDDVRCSGYESYLWSCPHNGWLSHNCQHSEDAGVI
+CSAAHSWSTPSPDTLPTITLPASTVGSESSLALRLVNGGDRCQGRVEVLYQGSWGTVCDD
+SWDTNDANVVCRQLGCGWAMSAPGNARFGQGSGPIVLDDVRCSGHESYLWSCPHNGWLSH
+NCGHSEDAGVICSASQSRPTPSPDTWPTSHASTAGSESSLALRLVNGGDRCQGRVEVLYR
+GSWGTVCDDYWDTNDANVVCRQLGCGWAMSAPGNARFGQGSGPIVLDDVRCSGHESYLWS
+CPHNGWLSHNCGHHEDAGVICSASQSQPTPSPDTWPTSHASTAGSESSLALRLVNGGDRC
+QGRVEVLYRGSWGTVCDDYWDTNDANVVCRQLGCGWATSAPGNARFGQGSGPIVLDDVRC
+SGHESYLWSCPHNGWLSHNCGHHEDAGVICSASQSQPTPSPDTWPTSHASTAGSESSLAL
+RLVNGGDRCQGRVEVLYRGSWGTVCDDYWDTNDANVVCRQLGCGWATSAPGNARFGQGSG
+PIVLDDVRCSGHESYLWSCPHNGWLSHNCGHHEDAGVICSASQSQPTPSPDTWPTSRAST
+AGSESTLALRLVNGGDRCRGRVEVLYQGSWGTVCDDYWDTNDANVVCRQLGCGWAMSAPG
+NAQFGQGSGPIVLDDVRCSGHESYLWSCPHNGWLSHNCGHHEDAGVICSAAQSQSTPRPD
+TWLTTNLPALTVGSESSLALRLVNGGDRCRGRVEVLYRGSWGTVCDDSWDTNDANVVCRQ
+LGCGWAMSAPGNARFGQGSGPIVLDDVRCSGNESYLWSCPHKGWLTHNCGHHEDAGVICS
+ATQINSTTTDWWHPTTTTTARPSSNCGGFLFYASGTFSSPSYPAYYPNNAKCVWEIEVNS
+GYRINLGFSNLKLEAHHNCSFDYVEIFDGSLNSSLLLGKICNDTRQIFTSSYNRMTIHFR
+SDISFQNTGFLAWYNSFPSDATLRLVNLNSSYGLCAGRVEIYHGGTWGTVCDDSWTIQEA
+EVVCRQLGCGRAVSALGNAYFGSGSGPITLDDVECSGTESTLWQCRNRGWFSHNCNHRED
+AGVICSGNHLSTPAPFLNITRPNTDYSCGGFLSQPSGDFSSPFYPGNYPNNAKCVWDIEV
+QNNYRVTVIFRDVQLEGGCNYDYIEVFDGPYRSSPLIARVCDGARGSFTSSSNFMSIRFI
+SDHSITRRGFRAEYYSSPSNDSTNLLCLPNHMQASVSRSYLQSLGFSASDLVISTWNGYY
+ECRPQITPNLVIFTIPYSGCGTFKQADNDTIDYSNFLTAAVSGGIIKRRTDLRIHVSCRM
+LQNTWVDTMYIANDTIHVANNTIQVEEVQYGNFDVNISFYTSSSFLYPVTSRPYYVDLNQ
+DLYVQAEILHSDAVLTLFVDTCVASPYSNDFTSLTYDLIRSGCVRDDTYGPYSSPSLRIA
+RFRFRAFHFLNRFPSVYLRCKMVVCRAYDPSSRCYRGCVLRSKRDVGSYQEKVDVVLGPI
+QLQTPPRREEEPR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>148539842</genbank_protein_id>
+  <uniprot_id>Q9UGM3</uniprot_id>
+  <uniprot_name>DMBT1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_007329.2</genbank_gene_id>
+  <genecard_id>DMBT1</genecard_id>
+  <geneatlas_id>DMBT1</geneatlas_id>
+  <hgnc_id>HGNC:2926</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mollenhauer J, Wiemann S, Scheurlen W, Korn B, Hayashi Y, Wilgenbus KK, von Deimling A, Poustka A: DMBT1, a new member of the SRCR superfamily, on chromosome 10q25.3-26.1 is deleted in malignant brain tumours. Nat Genet. 1997 Sep;17(1):32-9.</reference_text>
+      <pubmed_id>9288095</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Holmskov U, Mollenhauer J, Madsen J, Vitved L, Gronlund J, Tornoe I, Kliem A, Reid KB, Poustka A, Skjodt K: Cloning of gp-340, a putative opsonin receptor for lung surfactant protein D. Proc Natl Acad Sci U S A. 1999 Sep 14;96(19):10794-9.</reference_text>
+      <pubmed_id>10485905</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mollenhauer J, Holmskov U, Wiemann S, Krebs I, Herbertz S, Madsen J, Kioschis P, Coy JF, Poustka A: The genomic structure of the DMBT1 gene: evidence for a region with susceptibility to genomic instability. Oncogene. 1999 Nov 4;18(46):6233-40.</reference_text>
+      <pubmed_id>10597221</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeshita H, Sato M, Shiwaku HO, Semba S, Sakurada A, Hoshi M, Hayashi Y, Tagawa Y, Ayabe H, Horii A: Expression of the DMBT1 gene is frequently suppressed in human lung cancer. Jpn J Cancer Res. 1999 Sep;90(9):903-8.</reference_text>
+      <pubmed_id>10551316</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mollenhauer J, Herbertz S, Helmke B, Kollender G, Krebs I, Madsen J, Holmskov U, Sorger K, Schmitt L, Wiemann S, Otto HF, Grone HJ, Poustka A: Deleted in Malignant Brain Tumors 1 is a versatile mucin-like molecule likely to play a differential role in digestive tract cancer. Cancer Res. 2001 Dec 15;61(24):8880-6.</reference_text>
+      <pubmed_id>11751412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Holmskov U, Lawson P, Teisner B, Tornoe I, Willis AC, Morgan C, Koch C, Reid KB: Isolation and characterization of a new member of the scavenger receptor superfamily, glycoprotein-340 (gp-340), as a lung surfactant protein-D binding molecule. J Biol Chem. 1997 May 23;272(21):13743-9.</reference_text>
+      <pubmed_id>9153228</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tino MJ, Wright JR: Glycoprotein-340 binds surfactant protein-A (SP-A) and stimulates alveolar macrophage migration in an SP-A-independent manner. Am J Respir Cell Mol Biol. 1999 Apr;20(4):759-68.</reference_text>
+      <pubmed_id>10101009</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mori M, Shiraishi T, Tanaka S, Yamagata M, Mafune K, Tanaka Y, Ueo H, Barnard GF, Sugimachi K: Lack of DMBT1 expression in oesophageal, gastric and colon cancers.  Br J Cancer. 1999 Jan;79(2):211-3.</reference_text>
+      <pubmed_id>9888459</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mollenhauer J, Herbertz S, Holmskov U, Tolnay M, Krebs I, Merlo A, Schroder HD, Maier D, Breitling F, Wiemann S, Grone HJ, Poustka A: DMBT1 encodes a protein involved in the immune defense and in epithelial differentiation and is highly unstable in cancer. Cancer Res. 2000 Mar 15;60(6):1704-10.</reference_text>
+      <pubmed_id>10749143</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Prakobphol A, Xu F, Hoang VM, Larsson T, Bergstrom J, Johansson I, Frangsmyr L, Holmskov U, Leffler H, Nilsson C, Boren T, Wright JR, Stromberg N, Fisher SJ: Salivary agglutinin, which binds Streptococcus mutans and Helicobacter pylori, is the lung scavenger receptor cysteine-rich protein gp-340. J Biol Chem. 2000 Dec 22;275(51):39860-6.</reference_text>
+      <pubmed_id>11007786</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bikker FJ, Ligtenberg AJ, End C, Renner M, Blaich S, Lyer S, Wittig R, van't Hof W, Veerman EC, Nazmi K, de Blieck-Hogervorst JM, Kioschis P, Nieuw Amerongen AV, Poustka A, Mollenhauer J: Bacteria binding by DMBT1/SAG/gp-340 is confined to the VEVLXXXXW motif in its scavenger receptor cysteine-rich domains. J Biol Chem. 2004 Nov 12;279(46):47699-703. Epub 2004 Sep 7.</reference_text>
+      <pubmed_id>15355985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu Z, Lee S, Abrams W, Weissman D, Malamud D: The N-terminal SRCR-SID domain of gp-340 interacts with HIV type 1 gp120 sequences and inhibits viral infection. AIDS Res Hum Retroviruses. 2006 Jun;22(6):508-15.</reference_text>
+      <pubmed_id>16796526</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ramachandran P, Boontheung P, Xie Y, Sondej M, Wong DT, Loo JA: Identification of N-linked glycoproteins in human saliva by glycoprotein capture and mass spectrometry. J Proteome Res. 2006 Jun;5(6):1493-503.</reference_text>
+      <pubmed_id>16740002</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Renner M, Bergmann G, Krebs I, End C, Lyer S, Hilberg F, Helmke B, Gassler N, Autschbach F, Bikker F, Strobel-Freidekind O, Gronert-Sum S, Benner A, Blaich S, Wittig R, Hudler M, Ligtenberg AJ, Madsen J, Holmskov U, Annese V, Latiano A, Schirmacher P, Amerongen AV, D'Amato M, Kioschis P, Hafner M, Poustka A, Mollenhauer J: DMBT1 confers mucosal protection in vivo and a deletion variant is associated with Crohn's disease. Gastroenterology. 2007 Nov;133(5):1499-509. Epub 2007 Aug 3.</reference_text>
+      <pubmed_id>17983803</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rosenstiel P, Sina C, End C, Renner M, Lyer S, Till A, Hellmig S, Nikolaus S, Folsch UR, Helmke B, Autschbach F, Schirmacher P, Kioschis P, Hafner M, Poustka A, Mollenhauer J, Schreiber S: Regulation of DMBT1 via NOD2 and TLR4 in intestinal epithelial cells modulates bacterial recognition and invasion. J Immunol. 2007 Jun 15;178(12):8203-11.</reference_text>
+      <pubmed_id>17548659</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stoddard E, Cannon G, Ni H, Kariko K, Capodici J, Malamud D, Weissman D: gp340 expressed on human genital epithelia binds HIV-1 envelope protein and facilitates viral transmission. J Immunol. 2007 Sep 1;179(5):3126-32.</reference_text>
+      <pubmed_id>17709527</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leito JT, Ligtenberg AJ, Nazmi K, de Blieck-Hogervorst JM, Veerman EC, Nieuw Amerongen AV: A common binding motif for various bacteria of the bacteria-binding peptide SRCRP2 of DMBT1/gp-340/salivary agglutinin. Biol Chem. 2008 Sep;389(9):1193-200.</reference_text>
+      <pubmed_id>18713006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>End C, Bikker F, Renner M, Bergmann G, Lyer S, Blaich S, Hudler M, Helmke B, Gassler N, Autschbach F, Ligtenberg AJ, Benner A, Holmskov U, Schirmacher P, Nieuw Amerongen AV, Rosenstiel P, Sina C, Franke A, Hafner M, Kioschis P, Schreiber S, Poustka A, Mollenhauer J: DMBT1 functions as pattern-recognition molecule for poly-sulfated and poly-phosphorylated ligands. Eur J Immunol. 2009 Mar;39(3):833-42.</reference_text>
+      <pubmed_id>19189310</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mollenhauer J, Muller H, Kollender G, Lyer S, Diedrichs L, Helmke B, Holmskov U, Ligtenberg T, Herbertz S, Krebs I, Madsen J, Bikker F, Schmitt L, Wiemann S, Scheurlen W, Otto HF, von Deimling A, Poustka A: The SRCR/SID region of DMBT1 defines a complex multi-allele system representing the major basis for its variability in cancer. Genes Chromosomes Cancer. 2002 Nov;35(3):242-55.</reference_text>
+      <pubmed_id>12353266</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mueller W, Mollenhauer J, Stockhammer F, Poustka A, von Deimling A: Rare mutations of the DMBT1 gene in human astrocytic gliomas.  Oncogene. 2002 Aug 29;21(38):5956-9.</reference_text>
+      <pubmed_id>12185598</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

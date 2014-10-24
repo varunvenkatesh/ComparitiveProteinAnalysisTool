@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:17:04 -0700</creation_date>
+  <update_date>2013-05-27 11:12:06 -0600</update_date>
+  <accession>HMDBP08916</accession>
+  <secondary_accessions>
+    <accession>14645</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MAP kinase phosphatase 4</synonym>
+    <synonym>MKP-4</synonym>
+    <synonym>Mitogen-activated protein kinase phosphatase 4</synonym>
+  </synonyms>
+  <gene_name>DUSP9</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Inactivates MAP kinases. Has a specificity for the ERK family.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>MAPK signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04010</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>map kinase tyrosine/serine/threonine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine/serine/threonine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum</description>
+      <go_id>GO:0005783</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>MAP kinase tyrosine/serine/threonine phosphatase activity</description>
+      <go_id>GO:0017017</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>JNK cascade</description>
+      <go_id>GO:0007254</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-tyrosine dephosphorylation</description>
+      <go_id>GO:0035335</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq28</locus>
+    <gene_sequence>&gt;1155 bp
+ATGGAGGGTCTGGGCCGCTCGTGCCTGTGGCTGCGTCGGGAGCTGTCGCCCCCGCGGCCG
+CGGCTCCTGCTCCTGGACTGCCGCAGCCGCGAGCTGTACGAGTCGGCGCGCATCGGTGGG
+GCGCTGAGCGTGGCCCTGCCGGCGCTCCTGCTGCGCCGCCTGCGGAGGGGCAGCCTGTCG
+GTGCGCGCGCTCCTGCCTGGGCCGCCGCTGCAGCCGCCCCCGCCTGCCCCCGTGCTCCTG
+TACGACCAGGGCGGGGGCCGGCGCCGGCGCGGGGAGGCCGAGGCCGAGGCCGAGGAGTGG
+GAGGCCGAGTCGGTGCTGGGCACCCTGCTGCAGAAGCTGCGAGAGGAAGGCTACCTGGCC
+TACTACCTCCAGGGAGGCTTCAGCAGATTCCAGGCCGAGTGCCCTCACCTGTGTGAGACC
+AGCCTTGCTGGCCGTGCCGGCTCCAGCATGGCGCCGGTGCCCGGTCCAGTGCCCGTGGTG
+GGGTTGGGCAGCCTGTGCCTGGGCTCCGACTGCTCTGATGCGGAATCCGAGGCTGACCGC
+GACTCCATGAGCTGTGGCCTGGATTCGGAGGGTGCCACACCCCCACCAGTGGGGCTGCGG
+GCATCCTTCCCTGTCCAGATCCTGCCCAACCTCTATCTGGGCAGTGCCCGGGATTCCGCC
+AATTTGGAGAGCCTGGCCAAACTGGGCATCCGCTACATCCTCAATGTCACCCCCAACCTC
+CCAAACTTCTTCGAGAAGAATGGTGACTTTCACTACAAGCAGATCCCCATCTCCGACCAC
+TGGAGCCAGAACCTGTCGCGGTTCTTTCCGGAGGCCATTGAGTTCATTGATGAGGCCTTG
+TCCCAGAACTGCGGGGTGCTCGTCCACTGCTTGGCGGGGGTCAGCCGTTCTGTCACCGTC
+ACTGTGGCCTACCTCATGCAGAAGCTCCACCTCTCTCTCAACGATGCCTATGACCTGGTC
+AAGAGGAAGAAGTCTAACATCTCCCCCAACTTCAACTTCATGGGGCAGTTGCTGGACTTT
+GAGCGCAGCTTGCGGCTGGAGGAGCGCCACTCGCAGGAGCAGGGCAGTGGGGGGCAGGCA
+TCTGCGGCCTCCAACCCGCCCTCCTTCTTCACCACCCCCACCAGTGATGGCGCCTTCGAG
+CTGGCCCCCACCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>384</residue_number>
+    <molecular_weight>41867.055</molecular_weight>
+    <theoretical_pi>6.117</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DSPc</name>
+        <pfam_id>PF00782</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Rhodanese</name>
+        <pfam_id>PF00581</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Dual specificity protein phosphatase 9
+MEGLGRSCLWLRRELSPPRPRLLLLDCRSRELYESARIGGALSVALPALLLRRLRRGSLS
+VRALLPGPPLQPPPPAPVLLYDQGGGRRRRGEAEAEAEEWEAESVLGTLLQKLREEGYLA
+YYLQGGFSRFQAECPHLCETSLAGRAGSSMAPVPGPVPVVGLGSLCLGSDCSDAESEADR
+DSMSCGLDSEGATPPPVGLRASFPVQILPNLYLGSARDSANLESLAKLGIRYILNVTPNL
+PNFFEKNGDFHYKQIPISDHWSQNLSRFFPEAIEFIDEALSQNCGVLVHCLAGVSRSVTV
+TVAYLMQKLHLSLNDAYDLVKRKKSNISPNFNFMGQLLDFERSLRLEERHSQEQGSGGQA
+SAASNPPSFFTTPTSDGAFELAPT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4503421</genbank_protein_id>
+  <uniprot_id>Q99956</uniprot_id>
+  <uniprot_name>DUS9_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2HXP</pdb_id>
+    <pdb_id>3LJ8</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_001395.2</genbank_gene_id>
+  <genecard_id>DUSP9</genecard_id>
+  <geneatlas_id>DUSP9</geneatlas_id>
+  <hgnc_id>HGNC:3076</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Muda M, Boschert U, Smith A, Antonsson B, Gillieron C, Chabert C, Camps M, Martinou I, Ashworth A, Arkinstall S: Molecular cloning and functional characterization of a novel mitogen-activated protein kinase phosphatase, MKP-4. J Biol Chem. 1997 Feb 21;272(8):5141-51.</reference_text>
+      <pubmed_id>9030581</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

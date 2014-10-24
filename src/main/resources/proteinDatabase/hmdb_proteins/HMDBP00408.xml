@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:04 -0700</creation_date>
+  <update_date>2013-05-27 11:04:30 -0600</update_date>
+  <accession>HMDBP00408</accession>
+  <secondary_accessions>
+    <accession>5645</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Methylarsonite methyltransferase</synonym>
+    <synonym>S-adenosyl-L-methionine:arsenic(III) methyltransferase</synonym>
+  </synonyms>
+  <gene_name>AS3MT</gene_name>
+  <general_function>Involved in methyltransferase activity</general_function>
+  <specific_function>Catalyzes the transfer of a methyl group from AdoMet to trivalent arsenicals producing methylated and dimethylated arsenicals. It methylates arsenite to form methylarsonate, Me-AsO(3)H(2), which is reduced by methylarsonate reductase to methylarsonite, Me-As(OH)2. Methylarsonite is also a substrate and it is converted into the much less toxic compound dimethylarsinate (cacodylate), Me(2)As(O)-OH (By similarity).
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11620</accession>
+      <name>Arsenite</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02290</accession>
+      <name>Arsenic</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11625</accession>
+      <name>Dimethylarsinate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00696</accession>
+      <name>L-Methionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12258</accession>
+      <name>Methylarsonate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12259</accession>
+      <name>Methylarsonite</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arsenite methyltransferase activity</description>
+      <go_id>GO:0030791</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>methylarsonite methyltransferase activity</description>
+      <go_id>GO:0030792</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>arsonoacetate metabolic process</description>
+      <go_id>GO:0018872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to arsenic-containing substance</description>
+      <go_id>GO:0046685</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>toxin metabolic process</description>
+      <go_id>GO:0009404</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q24.32</locus>
+    <gene_sequence>&gt;1128 bp
+ATGGCTGCACTTCGTGACGCTGAGATACAGAAGGACGTGCAGACCTACTACGGGCAGGTG
+CTGAAGAGATCGGCAGACCTCCAGACCAACGGCTGTGTCACCACAGCCAGGCCGGTCCCC
+AAGCACATCCGGGAAGCCTTGCAAAATGTACACGAAGAAGTAGCCCTAAGATATTATGGC
+TGTGGTCTGGTGATCCCTGAGCATCTAGAAAACTGCTGGATTTTGGATCTGGGTAGTGGA
+AGTGGCAGAGATTGCTATGTACTTAGCCAGCTGGTTGGTGAAAAAGGACACGTGACTGGA
+ATAGACATGACCAAAGGCCAGGTGGAAGTGGCTGAAAAGTATCTTGACTATCACATGGAA
+AAATATGGCTTCCAGGCATCTAATGTGACTTTTATTCATGGCTACATTGAGAAGTTGGGA
+GAGGCTGGAATCAAGAATGAGAGCCATGATATTGTTGTATCAAACTGTGTTATTAACCTT
+GTGCCTGATAAACAACAAGTGCTTCAGGAGGCATATCGGGTGCTGAAGCATGGTGGGGAG
+TTATATTTCAGTGACGTCTATACGAGCCTTGAACTGCCAGAAGAAATCAGGACACACAAA
+GTTTTATGGGGTGAGTGTCTGGGTGGTGCTTTATACTGGAAGGAACTTGCTGTCCTTGCT
+CAAAAAATTGGGTTCTGCCCTCCACGTTTGGTCACTGCCAATCTCATTACAATTCAAAAC
+AAGGAACTGGAAAGAGTTATCGGTGACTGTCGTTTTGTTTCTGCAACATTTCGCCTCTTC
+AAACACTCTAAGACAGGACCAACCAAGAGATGCCAAGTTATTTACAATGGAGGAATTACA
+GGACATGAAAAAGAACTAATGTTTGATGCCAATTTTACATTTAAGGAAGGTGAAATTGTT
+GAAGTGGATGAAGAAACAGCAGCTATCTTGAAGAATTCAAGATTTGCTCAAGATTTTCTG
+ATCAGACCAATTGGAGAGAAGTTGCCAACATCTGGAGGCTGTTCTGCTTTGGAGTTAAAG
+GATATAATCACAGATCCATTTAAGCTTGCAGAAGAGTCTGACAGTATGAAGTCCAGATGT
+GTCCCTGATGCTGCTGGAGGCTGCTGTGGCACAAAGAAAAGCTGCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>375</residue_number>
+    <molecular_weight>41747.49</molecular_weight>
+    <theoretical_pi>6.204</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Methyltransf_11</name>
+        <pfam_id>PF08241</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Arsenite methyltransferase
+MAALRDAEIQKDVQTYYGQVLKRSADLQTNGCVTTARPVPKHIREALQNVHEEVALRYYG
+CGLVIPEHLENCWILDLGSGSGRDCYVLSQLVGEKGHVTGIDMTKGQVEVAEKYLDYHME
+KYGFQASNVTFIHGYIEKLGEAGIKNESHDIVVSNCVINLVPDKQQVLQEAYRVLKHGGE
+LYFSDVYTSLELPEEIRTHKVLWGECLGGALYWKELAVLAQKIGFCPPRLVTANLITIQN
+KELERVIGDCRFVSATFRLFKHSKTGPTKRCQVIYNGGITGHEKELMFDANFTFKEGEIV
+EVDEETAAILKNSRFAQDFLIRPIGEKLPTSGGCSALELKDIITDPFKLAEESDSMKSRC
+VPDAAGGCCGTKKSC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>109389364</genbank_protein_id>
+  <uniprot_id>Q9HBK9</uniprot_id>
+  <uniprot_name>AS3MT_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_020682.3</genbank_gene_id>
+  <genecard_id>AS3MT</genecard_id>
+  <geneatlas_id>AS3MT</geneatlas_id>
+  <hgnc_id>HGNC:17452</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wood TC, Salavagionne OE, Mukherjee B, Wang L, Klumpp AF, Thomae BA, Eckloff BW, Schaid DJ, Wieben ED, Weinshilboum RM: Human arsenic methyltransferase (AS3MT) pharmacogenetics: gene resequencing and functional genomics studies. J Biol Chem. 2006 Mar 17;281(11):7364-73. Epub 2006 Jan 6.</reference_text>
+      <pubmed_id>16407288</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

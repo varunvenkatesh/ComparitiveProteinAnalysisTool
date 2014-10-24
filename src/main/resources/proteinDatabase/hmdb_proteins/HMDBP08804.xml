@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:15:34 -0700</creation_date>
+  <update_date>2013-01-15 20:15:34 -0700</update_date>
+  <accession>HMDBP08804</accession>
+  <secondary_accessions>
+    <accession>14528</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>E3 ubiquitin-protein ligase RAG1</synonym>
+    <synonym>Endonuclease RAG1</synonym>
+    <synonym>RAG-1</synonym>
+    <synonym>RING finger protein 74</synonym>
+  </synonyms>
+  <gene_name>RAG1</gene_name>
+  <general_function>Involved in zinc ion binding</general_function>
+  <specific_function>Catalytic component of the RAG complex, a multiprotein complex that mediates the DNA cleavage phase during V(D)J recombination. V(D)J recombination assembles a diverse repertoire of immunoglobulin and T-cell receptor genes in developing B and T lymphocytes through rearrangement of different V (variable), in some cases D (diversity), and J (joining) gene segments. In the RAG complex, RAG1 mediates the DNA-binding to the conserved recombination signal sequences (RSS) and catalyzes the DNA cleavage activities by introducing a double-strand break between the RSS and the adjacent coding segment. RAG2 is not a catalytic component but is required for all known catalytic activities. DNA cleavage occurs in 2 steps:a first nick is introduced in the top strand immediately upstream of the heptamer, generating a 3'- hydroxyl group that can attack the phosphodiester bond on the opposite strand in a direct transesterification reaction, thereby creating 4 DNA ends:2 hairpin coding ends and 2 blunt, 5'- phosphorylated ends. The chromatin structure plays an essential role in the V(D)J recombination reactions and the presence of histone H3 trimethylated at 'Lys-4' (H3K4me3) stimulates both the nicking and haipinning steps. The RAG complex also plays a role in pre-B cell allelic exclusion, a process leading to expression of a single immunoglobulin heavy chain allele to enforce clonality and monospecific recognition by the B-cell antigen receptor (BCR) expressed on individual B lymphocytes. The introduction of DNA breaks by the RAG complex on one immunoglobulin allele induces ATM-dependent repositioning of the other allele to pericentromeric heterochromatin, preventing accessibility to the RAG complex and recombination of the second allele. In addition to its endonuclease activity, RAG1 also acts as a E3 ubiquitin-protein ligase that mediates monoubiquitination of histone H3. Histone H3 monoubiquitination is required for the joining step of V(D)J recombination. Mediates polyubiquitination of KPNA1</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11p13</locus>
+    <gene_sequence>&gt;3132 bp
+ATGGCAGCCTCTTTCCCACCCACCTTGGGACTCAGTTCTGCCCCAGATGAAATTCAGCAC
+CCACATATTAAATTTTCAGAATGGAAATTTAAGCTGTTCCGGGTGAGATCCTTTGAAAAG
+ACACCTGAAGAAGCTCAAAAGGAAAAGAAGGATTCCTTTGAGGGGAAACCCTCTCTGGAG
+CAATCTCCAGCAGTCCTGGACAAGGCTGATGGTCAGAAGCCAGTCCCAACTCAGCCATTG
+TTAAAAGCCCACCCTAAGTTTTCAAAGAAATTTCACGACAACGAGAAAGCAAGAGGCAAA
+GCGATCCATCAAGCCAACCTTCGACATCTCTGCCGCATCTGTGGGAATTCTTTTAGAGCT
+GATGAGCACAACAGGAGATATCCAGTCCATGGTCCTGTGGATGGTAAAACCCTAGGCCTT
+TTACGAAAGAAGGAAAAGAGAGCTACTTCCTGGCCGGACCTCATTGCCAAGGTTTTCCGG
+ATCGATGTGAAGGCAGATGTTGACTCGATCCACCCCACTGAGTTCTGCCATAACTGCTGG
+AGCATCATGCACAGGAAGTTTAGCAGTGCCCCATGTGAGGTTTACTTCCCGAGGAACGTG
+ACCATGGAGTGGCACCCCCACACACCATCCTGTGACATCTGCAACACTGCCCGTCGGGGA
+CTCAAGAGGAAGAGTCTTCAGCCAAACTTGCAGCTCAGCAAAAAACTCAAAACTGTGCTT
+GACCAAGCAAGACAAGCCCGTCAGCGCAAGAGAAGAGCTCAGGCAAGGATCAGCAGCAAG
+GATGTCATGAAGAAGATCGCCAACTGCAGTAAGATACATCTTAGTACCAAGCTCCTTGCA
+GTGGACTTCCCAGAGCACTTTGTGAAATCCATCTCCTGCCAGATCTGTGAACACATTCTG
+GCTGACCCTGTGGAGACCAACTGTAAGCATGTCTTTTGCCGGGTCTGCATTCTCAGATGC
+CTCAAAGTCATGGGCAGCTATTGTCCCTCTTGCCGATATCCATGCTTCCCTACTGACCTG
+GAGAGTCCAGTGAAGTCCTTTCTGAGCGTCTTGAATTCCCTGATGGTGAAATGTCCAGCA
+AAAGAGTGCAATGAGGAGGTCAGTTTGGAAAAATATAATCACCACATCTCAAGTCACAAG
+GAATCAAAAGAGATTTTTGTGCACATTAATAAAGGGGGCCGGCCCCGCCAACATCTTCTG
+TCGCTGACTCGGAGAGCTCAGAAGCACCGGCTGAGGGAGCTCAAGCTGCAAGTCAAAGCC
+TTTGCTGACAAAGAAGAAGGTGGAGATGTGAAGTCCGTGTGCATGACCTTGTTCCTGCTG
+GCTCTGAGGGCGAGGAATGAGCACAGGCAAGCTGATGAGCTGGAGGCCATCATGCAGGGA
+AAGGGCTCTGGCCTGCAGCCAGCTGTTTGCTTGGCCATCCGTGTCAACACCTTCCTCAGC
+TGCAGTCAGTACCACAAGATGTACAGGACTGTGAAAGCCATCACAGGGAGACAGATTTTT
+CAGCCTTTGCATGCCCTTCGGAATGCTGAGAAGGTACTTCTGCCAGGCTACCACCACTTT
+GAGTGGCAGCCACCTCTGAAGAATGTGTCTTCCAGCACTGATGTTGGCATTATTGATGGG
+CTGTCTGGACTATCATCCTCTGTGGATGATTACCCAGTGGACACCATTGCAAAGAGGTTC
+CGCTATGATTCAGCTTTGGTGTCTGCTTTGATGGACATGGAAGAAGACATCTTGGAAGGC
+ATGAGATCCCAAGACCTTGATGATTACCTGAATGGCCCCTTCACTGTGGTGGTGAAGGAG
+TCTTGTGATGGAATGGGAGACGTGAGTGAGAAGCATGGGAGTGGGCCTGTAGTTCCAGAA
+AAGGCAGTCCGTTTTTCATTCACAATCATGAAAATTACTATTGCCCACAGCTCTCAGAAT
+GTGAAAGTATTTGAAGAAGCCAAACCTAACTCTGAACTGTGTTGCAAGCCATTGTGCCTT
+ATGCTGGCAGATGAGTCTGACCACGAGACGCTGACTGCCATCCTGAGTCCTCTCATTGCT
+GAGAGGGAGGCCATGAAGAGCAGTGAATTAATGCTTGAGCTGGGAGGCATTCTCCGGACT
+TTCAAGTTCATCTTCAGGGGCACCGGCTATGATGAAAAACTTGTGCGGGAAGTGGAAGGC
+CTCGAGGCTTCTGGCTCAGTCTACATTTGTACTCTTTGTGATGCCACCCGTCTGGAAGCC
+TCTCAAAATCTTGTCTTCCACTCTATAACCAGAAGCCATGCTGAGAACCTGGAACGTTAT
+GAGGTCTGGCGTTCCAACCCTTACCATGAGTCTGTGGAAGAACTGCGGGATCGGGTGAAA
+GGGGTCTCAGCTAAACCTTTCATTGAGACAGTCCCTTCCATAGATGCACTCCACTGTGAC
+ATTGGCAATGCAGCTGAGTTCTACAAGATCTTCCAGCTAGAGATAGGGGAAGTGTATAAG
+AATCCCAATGCTTCCAAAGAGGAAAGGAAAAGGTGGCAGGCCACACTGGACAAGCATCTC
+CGGAAGAAGATGAACCTCAAACCAATCATGAGGATGAATGGCAACTTTGCCAGGAAGCTC
+ATGACCAAAGAGACTGTGGATGCAGTTTGTGAGTTAATTCCTTCCGAGGAGAGGCACGAG
+GCTCTGAGGGAGCTGATGGATCTTTACCTGAAGATGAAACCAGTATGGCGATCATCATGC
+CCTGCTAAAGAGTGCCCAGAATCCCTCTGCCAGTACAGTTTCAATTCACAGCGTTTTGCT
+GAGCTCCTTTCTACGAAGTTCAAGTATAGGTATGAGGGAAAAATCACCAATTATTTTCAC
+AAAACCCTGGCCCATGTTCCTGAAATTATTGAGAGGGATGGCTCCATTGGGGCATGGGCA
+AGTGAGGGAAATGAGTCTGGTAACAAACTGTTTAGGCGCTTCCGGAAAATGAATGCCAGG
+CAGTCCAAATGCTATGAGATGGAAGATGTCCTGAAACACCACTGGTTGTACACCTCCAAA
+TACCTCCAGAAGTTTATGAATGCTCATAATGCATTAAAAACCTCTGGGTTTACCATGAAC
+CCTCAGGCAAGCTTAGGGGACCCATTAGGCATAGAGGACTCTCTGGAAAGCCAAGATTCA
+ATGGAATTTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1043</residue_number>
+    <molecular_weight>119115.0</molecular_weight>
+    <theoretical_pi>8.88</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>zf-RAG1</name>
+        <pfam_id>PF10426</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;V(D)J recombination-activating protein 1
+MAASFPPTLGLSSAPDEIQHPHIKFSEWKFKLFRVRSFEKTPEEAQKEKKDSFEGKPSLE
+QSPAVLDKADGQKPVPTQPLLKAHPKFSKKFHDNEKARGKAIHQANLRHLCRICGNSFRA
+DEHNRRYPVHGPVDGKTLGLLRKKEKRATSWPDLIAKVFRIDVKADVDSIHPTEFCHNCW
+SIMHRKFSSAPCEVYFPRNVTMEWHPHTPSCDICNTARRGLKRKSLQPNLQLSKKLKTVL
+DQARQARQRKRRAQARISSKDVMKKIANCSKIHLSTKLLAVDFPEHFVKSISCQICEHIL
+ADPVETNCKHVFCRVCILRCLKVMGSYCPSCRYPCFPTDLESPVKSFLSVLNSLMVKCPA
+KECNEEVSLEKYNHHISSHKESKEIFVHINKGGRPRQHLLSLTRRAQKHRLRELKLQVKA
+FADKEEGGDVKSVCMTLFLLALRARNEHRQADELEAIMQGKGSGLQPAVCLAIRVNTFLS
+CSQYHKMYRTVKAITGRQIFQPLHALRNAEKVLLPGYHHFEWQPPLKNVSSSTDVGIIDG
+LSGLSSSVDDYPVDTIAKRFRYDSALVSALMDMEEDILEGMRSQDLDDYLNGPFTVVVKE
+SCDGMGDVSEKHGSGPVVPEKAVRFSFTIMKITIAHSSQNVKVFEEAKPNSELCCKPLCL
+MLADESDHETLTAILSPLIAEREAMKSSELMLELGGILRTFKFIFRGTGYDEKLVREVEG
+LEASGSVYICTLCDATRLEASQNLVFHSITRSHAENLERYEVWRSNPYHESVEELRDRVK
+GVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEVYKNPNASKEERKRWQATLDKHL
+RKKMNLKPIMRMNGNFARKLMTKETVDAVCELIPSEERHEALRELMDLYLKMKPVWRSSC
+PAKECPESLCQYSFNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIERDGSIGAWA
+SEGNESGNKLFRRFRKMNARQSKCYEMEDVLKHHWLYTSKYLQKFMNAHNALKTSGFTMN
+PQASLGDPLGIEDSLESQDSMEF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>190843</genbank_protein_id>
+  <uniprot_id>P15918</uniprot_id>
+  <uniprot_name>RAG1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1RMD</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M29474</genbank_gene_id>
+  <genecard_id>RAG1</genecard_id>
+  <geneatlas_id>RAG1</geneatlas_id>
+  <hgnc_id>HGNC:9831</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Schatz DG, Oettinger MA, Baltimore D: The V(D)J recombination activating gene, RAG-1.  Cell. 1989 Dec 22;59(6):1035-48.</reference_text>
+      <pubmed_id>2598259</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cortes P, Ye ZS, Baltimore D: RAG-1 interacts with the repeated amino acid motif of the human homologue of the yeast protein SRP1. Proc Natl Acad Sci U S A. 1994 Aug 2;91(16):7633-7.</reference_text>
+      <pubmed_id>8052633</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nomdedeu JF, Lasa A, Seminago R, Rubiol E, Baiget M, Soler J: Two new variants of RAG-1 protein predicted by SSCP.  Hum Mutat. 1996;8(2):191-2.</reference_text>
+      <pubmed_id>8844221</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schwarz K, Gauss GH, Ludwig L, Pannicke U, Li Z, Lindner D, Friedrich W, Seger RA, Hansen-Hagge TE, Desiderio S, Lieber MR, Bartram CR: RAG mutations in human B cell-negative SCID.  Science. 1996 Oct 4;274(5284):97-9.</reference_text>
+      <pubmed_id>8810255</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Villa A, Santagata S, Bozzi F, Giliani S, Frattini A, Imberti L, Gatta LB, Ochs HD, Schwarz K, Notarangelo LD, Vezzoni P, Spanopoulou E: Partial V(D)J recombination activity leads to Omenn syndrome.  Cell. 1998 May 29;93(5):885-96.</reference_text>
+      <pubmed_id>9630231</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wada T, Takei K, Kudo M, Shimura S, Kasahara Y, Koizumi S, Kawa-Ha K, Ishida Y, Imashuku S, Seki H, Yachie A: Characterization of immune function and analysis of RAG gene mutations in Omenn syndrome and related disorders. Clin Exp Immunol. 2000 Jan;119(1):148-55.</reference_text>
+      <pubmed_id>10606976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Villa A, Sobacchi C, Notarangelo LD, Bozzi F, Abinun M, Abrahamsen TG, Arkwright PD, Baniyash M, Brooks EG, Conley ME, Cortes P, Duse M, Fasth A, Filipovich AM, Infante AJ, Jones A, Mazzolari E, Muller SM, Pasic S, Rechavi G, Sacco MG, Santagata S, Schroeder ML, Seger R, Strina D, Ugazio A, Valiaho J, Vihinen M, Vogler LB, Ochs H, Vezzoni P, Friedrich W, Schwarz K: V(D)J recombination defects in lymphocytes due to RAG mutations: severe immunodeficiency with a spectrum of clinical presentations. Blood. 2001 Jan 1;97(1):81-8.</reference_text>
+      <pubmed_id>11133745</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>de Villartay JP, Lim A, Al-Mousa H, Dupont S, Dechanet-Merville J, Coumau-Gatbois E, Gougeon ML, Lemainque A, Eidenschenk C, Jouanguy E, Abel L, Casanova JL, Fischer A, Le Deist F: A novel immunodeficiency associated with hypomorphic RAG1 mutations and CMV infection. J Clin Invest. 2005 Nov;115(11):3291-9.</reference_text>
+      <pubmed_id>16276422</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schuetz C, Huck K, Gudowius S, Megahed M, Feyen O, Hubner B, Schneider DT, Manfras B, Pannicke U, Willemze R, Knuchel R, Gobel U, Schulz A, Borkhardt A, Friedrich W, Schwarz K, Niehues T: An immunodeficiency disease with RAG mutations and granulomas.  N Engl J Med. 2008 May 8;358(19):2030-8.</reference_text>
+      <pubmed_id>18463379</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:13:54 -0700</creation_date>
+  <update_date>2013-01-15 20:13:54 -0700</update_date>
+  <accession>HMDBP08680</accession>
+  <secondary_accessions>
+    <accession>14400</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>NRAMP 1</synonym>
+  </synonyms>
+  <gene_name>SLC11A1</gene_name>
+  <general_function>Involved in transporter activity</general_function>
+  <specific_function>Divalent transition metal (iron and manganese) transporter involved in iron metabolism and host resistance to certain pathogens. Macrophage-specific membrane transport function. Controls natural resistance to infection with intracellular parasites. Pathogen resistance involves sequestration of Fe(2+) and Mn(2+), cofactors of both prokaryotic and eukaryotic catalases and superoxide dismutases, not only to protect the macrophage against its own generation of reactive oxygen species, but to deny the cations to the pathogen for synthesis of its protective enzymes</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:2</chromosome_location>
+    <locus>2q35</locus>
+    <gene_sequence>&gt;1653 bp
+ATGACAGGTGACAAGGGTCCCCAAAGGCTAAGCGGGTCCAGCTATGGTTCCATCTCCAGC
+CCGACCAGCCCGACCAGCCCAGGGCCACAGCAAGCACCTCCCAGAGAGACCTACCTGAGT
+GAGAAGATCCCCATCCCAGACACAAAACCGGGCACCTTCAGCCTGCGGAAGCTATGGGCC
+TTCACGGGGCCTGGCTTCCTCATGAGCATTGCTTTCCTGGACCCAGGAAACATCGAGTCA
+GATCTTCAGGCTGGCGCCGTGGCGGGATTCAAACTTCTCTGGGTGCTGCTCTGGGCCACC
+GTGTTGGGCTTGCTCTGCCAGCGACTGGCTGCACGTCTGGGCGTGGTGACAGGCAAGGAC
+TTGGGCGAGGTCTGCCATCTCTACTACCCTAAGGTGCCCCGCACCGTCCTCTGGCTGACC
+ATCGAGCTAGCCATTGTGGGCTCCGACATGCAGGAAGTCATCGGCACGGCCATTGCATTC
+AATCTGCTCTCAGCTGGACGAATCCCACTCTGGGGTGGCGTCCTCATCACCATCGTGGAC
+ACCTTCTTCTTCCTCTTCCTCGATAACTACGGGCTGCGGAAGCTGGAAGCTTTTTTTGGA
+CTCCTTATAACCATTATGGCCTTGACCTTTGGCTATGAGTATGTGGTGGCGCGTCCTGAG
+CAGGGAGCGCTTCTTCGGGGCCTGTTCCTGCCCTCGTGCCCGGGCTGCGGCCACCCCGAG
+CTGCTGCAGGCGGTGGGCATTGTTGGCGCCATCATCATGCCCCACAACATCTACCTGCAC
+TCGGCCCTGGTCAAGTCTCGAGAGATAGACCGGGCCCGCCGAGCGGACATCAGAGAAGCC
+AACATGTACTTCCTGATTGAGGCCACCATCGCCCTGTCCGTCTCCTTTATCATCAACCTC
+TTTGTCATGGCTGTCTTTGGGCAGGCCTTCTACCAGAAAACCAACCAGGCTGCGTTCAAC
+ATCTGTGCCAACAGCAGCCTCCACGACTACGCCAAGATCTTCCCCATGAACAACGCCACC
+GTGGCCGTGGACATTTACCAGGGGGGCGTGATCCTGGGCTGCCTGTTCGGCCCCGCGGCC
+CTCTACATCTGGGCCATAGGTCTCCTGGCGGCTGGGCAGAGCTCCACCATGACGGGCACC
+TACGCGGGACAGTTCGTGATGGAGGGCTTCCTGAGGCTGCGGTGGTCACGCTTCGCCCGT
+GTCCTCCTCACCCGCTCCTGCGCCATCCTGCCCACCGTGCTCGTGGCTGTCTTCCGGGAC
+CTGAGGGACTTGTCGGGCCTCAATGATCTGCTCAACGTGCTGCAGAGCCTGCTGCTCCCG
+TTCGCCGTGCTGCCCATCCTCACGTTCACCAGCATGCCCACCCTCATGCAGGAGTTTGCC
+AATGGCCTGCTGAACAAGGTCGTCACCTCTTCCATCATGGTGCTAGTCTGCGCCATCAAC
+CTCTACTTCGTGGTCAGCTATCTGCCCAGCCTGCCCCACCCTGCCTACTTCGGCCTTGCA
+GCCTTGCTGGCCGCAGCCTACCTGGGCCTCAGCACCTACCTGGTCTGGACCTGTTGCCTT
+GCCCACGGAGCCACCTTTCTGGCCCACAGCTCCCACCACCACTTCCTGTATGGGCTCCTT
+GAAGAGGACCAGAAAGGGGAGACCTCTGGCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>550</residue_number>
+    <molecular_weight>59871.6</molecular_weight>
+    <theoretical_pi>7.72</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Nramp</name>
+        <pfam_id>PF01566</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>59-76</region>
+      <region>86-105</region>
+      <region>143-163</region>
+      <region>168-187</region>
+      <region>197-217</region>
+      <region>241-259</region>
+      <region>288-307</region>
+      <region>350-369</region>
+      <region>401-418</region>
+      <region>430-450</region>
+      <region>467-488</region>
+      <region>497-516</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Natural resistance-associated macrophage protein 1
+MTGDKGPQRLSGSSYGSISSPTSPTSPGPQQAPPRETYLSEKIPIPDTKPGTFSLRKLWA
+FTGPGFLMSIAFLDPGNIESDLQAGAVAGFKLLWVLLWATVLGLLCQRLAARLGVVTGKD
+LGEVCHLYYPKVPRTVLWLTIELAIVGSDMQEVIGTAIAFNLLSAGRIPLWGGVLITIVD
+TFFFLFLDNYGLRKLEAFFGLLITIMALTFGYEYVVARPEQGALLRGLFLPSCPGCGHPE
+LLQAVGIVGAIIMPHNIYLHSALVKSREIDRARRADIREANMYFLIEATIALSVSFIINL
+FVMAVFGQAFYQKTNQAAFNICANSSLHDYAKIFPMNNATVAVDIYQGGVILGCLFGPAA
+LYIWAIGLLAAGQSSTMTGTYAGQFVMEGFLRLRWSRFARVLLTRSCAILPTVLVAVFRD
+LRDLSGLNDLLNVLQSLLLPFAVLPILTFTSMPTLMQEFANGLLNKVVTSSIMVLVCAIN
+LYFVVSYLPSLPHPAYFGLAALLAAAYLGLSTYLVWTCCLAHGATFLAHSSHHHFLYGLL
+EEDQKGETSG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>10257411</genbank_protein_id>
+  <uniprot_id>P49279</uniprot_id>
+  <uniprot_name>NRAM1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF229163</genbank_gene_id>
+  <genecard_id>SLC11A1</genecard_id>
+  <geneatlas_id>SLC11A1</geneatlas_id>
+  <hgnc_id>HGNC:10907</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Cellier M, Govoni G, Vidal S, Kwan T, Groulx N, Liu J, Sanchez F, Skamene E, Schurr E, Gros P: Human natural resistance-associated macrophage protein: cDNA cloning, chromosomal mapping, genomic organization, and tissue-specific expression. J Exp Med. 1994 Nov 1;180(5):1741-52.</reference_text>
+      <pubmed_id>7964458</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kishi F, Nobumoto M: Identification of natural resistance-associated macrophage protein in peripheral blood lymphocytes. Immunol Lett. 1995 Jul-Aug;47(1-2):93-6.</reference_text>
+      <pubmed_id>8537108</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marquet S, Lepage P, Hudson TJ, Musser JM, Schurr E: Complete nucleotide sequence and genomic structure of the human NRAMP1 gene region on chromosome region 2q35. Mamm Genome. 2000 Sep;11(9):755-62.</reference_text>
+      <pubmed_id>10967134</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kishi F: Isolation and characterization of human Nramp cDNA.  Biochem Biophys Res Commun. 1994 Nov 15;204(3):1074-80.</reference_text>
+      <pubmed_id>7980580</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blackwell JM, Barton CH, White JK, Searle S, Baker AM, Williams H, Shaw MA: Genomic organization and sequence of the human NRAMP gene: identification and mapping of a promoter region polymorphism. Mol Med. 1995 Jan;1(2):194-205.</reference_text>
+      <pubmed_id>8529098</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu J, Fujiwara TM, Buu NT, Sanchez FO, Cellier M, Paradis AJ, Frappier D, Skamene E, Gros P, Morgan K, et al.: Identification of polymorphisms and sequence variants in the human homologue of the mouse natural resistance-associated macrophage protein gene. Am J Hum Genet. 1995 Apr;56(4):845-53.</reference_text>
+      <pubmed_id>7717395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Malik S, Abel L, Tooker H, Poon A, Simkin L, Girard M, Adams GJ, Starke JR, Smith KC, Graviss EA, Musser JM, Schurr E: Alleles of the NRAMP1 gene are risk factors for pediatric tuberculosis disease. Proc Natl Acad Sci U S A. 2005 Aug 23;102(34):12183-8. Epub 2005 Aug 15.</reference_text>
+      <pubmed_id>16103355</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stienstra Y, van der Werf TS, Oosterom E, Nolte IM, van der Graaf WT, Etuaful S, Raghunathan PL, Whitney EA, Ampadu EO, Asamoa K, Klutse EY, te Meerman GJ, Tappero JW, Ashford DA, van der Steege G: Susceptibility to Buruli ulcer is associated with the SLC11A1 (NRAMP1) D543N polymorphism. Genes Immun. 2006 Apr;7(3):185-9.</reference_text>
+      <pubmed_id>16395392</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

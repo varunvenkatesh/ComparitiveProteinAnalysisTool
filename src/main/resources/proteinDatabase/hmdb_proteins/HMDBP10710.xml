@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:37:04 -0700</creation_date>
+  <update_date>2013-01-15 20:37:04 -0700</update_date>
+  <accession>HMDBP10710</accession>
+  <secondary_accessions>
+    <accession>16971</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>AZ2</synonym>
+    <synonym>ODC-Az 2</synonym>
+  </synonyms>
+  <gene_name>OAZ2</gene_name>
+  <general_function>Involved in enzyme inhibitor activity</general_function>
+  <specific_function>Binds to, and destabilizes, ornithine decarboxylase. Does not accelerate ornithine decarboxylase degeneration</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00214</accession>
+      <name>Ornithine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ornithine decarboxylase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme inhibitor activity</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>15q22.31</locus>
+    <gene_sequence>&gt;570 bp
+ATGATAAACACCCAGGACAGTAGTATTTTGCCTTTGAGTAACTGTCCCCAGCTCCAGTGC
+TGCAGGCACATTGTTCCAGGGCCTCTGTGGTGCTCCGATGCCCCTCACCCACTGTCGAAG
+ATCCCCGGTGGGCGAGGGGGCGGCAGGGATCCTTCTCTCTCAGCTCTAATATATAAGGAC
+GAGAAGCTCACTGTGACCCAGGACCTCCCTGTGAATGATGGAAAACCTCACATCGTCCAC
+TTCCAGTATGAGGTCACCGAGGTGAAGGTCTCTTCTTGGGATGCAGTCCTGTCCAGCCAG
+AGCCTGTTTGTAGAAATCCCAGATGGATTATTAGCTGATGGGAGCAAAGAAGGATTGTTA
+GCACTGCTAGAGTTTGCTGAAGAGAAGATGAAAGTGAACTATGTCTTCATCTGCTTCAGG
+AAGGGCCGAGAAGACAGAGCTCCACTCCTGAAGACCTTCAGCTTCTTGGGCTTTGAGATT
+GTACGTCCAGGCCATCCCTGTGTCCCCTCTCGGCCAGATGTGATGTTCATGGTTTATCCC
+CTGGACCAGAACTTGTCCGATGAGGACTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>189</residue_number>
+    <molecular_weight>21010.9</molecular_weight>
+    <theoretical_pi>5.03</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ODC_AZ</name>
+        <pfam_id>PF02100</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Ornithine decarboxylase antizyme 2
+MINTQDSSILPLSNCPQLQCCRHIVPGPLWCSDAPHPLSKIPGGRGGGRDPSLSALIYKD
+EKLTVTQDLPVNDGKPHIVHFQYEVTEVKVSSWDAVLSSQSLFVEIPDGLLADGSKEGLL
+ALLEFAEEKMKVNYVFICFRKGREDRAPLLKTFSFLGFEIVRPGHPCVPSRPDVMFMVYP
+LDQNLSDED</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3766170</genbank_protein_id>
+  <uniprot_id>O95190</uniprot_id>
+  <uniprot_name>OAZ2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF057297</genbank_gene_id>
+  <genecard_id>OAZ2</genecard_id>
+  <geneatlas_id>OAZ2</geneatlas_id>
+  <hgnc_id>HGNC:8096</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ivanov IP, Gesteland RF, Atkins JF: A second mammalian antizyme: conservation of programmed ribosomal frameshifting. Genomics. 1998 Sep 1;52(2):119-29.</reference_text>
+      <pubmed_id>9782076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhou J, Atkins JF, Gesteland RF: Structure of human ornithine decarboxylase antizyme 2 gene.  Gene. 1999 May 31;232(2):165-71.</reference_text>
+      <pubmed_id>10352227</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

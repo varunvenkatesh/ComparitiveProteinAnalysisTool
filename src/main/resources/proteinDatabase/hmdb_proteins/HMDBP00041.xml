@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:46 -0700</creation_date>
+  <update_date>2013-01-15 18:48:46 -0700</update_date>
+  <accession>HMDBP00041</accession>
+  <secondary_accessions>
+    <accession>5270</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex</synonym>
+    <synonym>E3-binding protein</synonym>
+    <synonym>E3BP</synonym>
+    <synonym>Lipoyl-containing pyruvate dehydrogenase complex component X</synonym>
+    <synonym>proX</synonym>
+  </synonyms>
+  <gene_name>PDHX</gene_name>
+  <general_function>Involved in acyltransferase activity</general_function>
+  <specific_function>Required for anchoring dihydrolipoamide dehydrogenase (E3) to the dihydrolipoamide transacetylase (E2) core of the pyruvate dehydrogenase complexes of eukaryotes. This specific binding is essential for a functional PDH complex</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01451</accession>
+      <name>(R)-lipoic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11p13</locus>
+    <gene_sequence>&gt;1506 bp
+ATGGCGGCCTCCTGGAGGCTGGGCTGTGATCCGCGGCTGCTGCGTTATCTTGTGGGCTTC
+CCTGGCTGCCGAAGCGTAGGGCTGGTGAAGGGGGCTCTTGGGTGGTCCGTAAGCCGCGGA
+GCTAATTGGAGATGGTTTCACAGCACGCAGTGGCTTCGGGGTGATCCCATTAAGATACTA
+ATGCCATCACTGTCTCCTACAATGGAAGAAGGAAACATTGTGAAATGGCTGAAAAAGGAA
+GGTGAAGCGGTGAGTGCTGGAGATGCATTATGTGAAATTGAGACTGACAAAGCTGTGGTT
+ACCTTAGATGCAAGTGATGATGGAATCTTGGCCAAAATCGTGGTTGAAGAAGGAAGTAAA
+AATATACGGCTAGGTTCACTAATTGGTTTGATAGTAGAAGAAGGAGAAGATTGGAAACAT
+GTTGAAATTCCCAAAGACGTAGGTCCTCCACCACCAGTTTCAAAACCTTCAGAGCCTCGC
+CCCTCACCAGAACCACAGATTTCCATCCCTGTCAAGAAGGAACACATACCCGGGACACTA
+CGGTTCCGTTTAAGTCCAGCTGCCCGCAATATTCTGGAAAAACACTCACTGGATGCTAGC
+CAGGGCACAGCCACTGGCCCTCGGGGGATATTCACTAAAGAGGATGCTCTCAAACTTGTC
+CAGTTGAAACAAACGGGCAAGATTACCGAGTCCAGACCAACTCCAGCCCCCACAGCCACT
+CCCACAGCACCTTCGCCCCTACAGGCCACATCTGGACCATCTTATCCCCGGCCTGTGATC
+CCACCAGTATCAACTCCCGGACAACCCAATGCAGTGGGCACATTCACTGAAATCCCCGCC
+AGCAATATTCGAAGAGTTATTGCCAAGAGATTAACTGAATCTAAAAGTACTGTACCTCAT
+GCATATGCTACTGCTGACTGTGACCTTGGAGCTGTTTTAAAAGTTAGGCAAGATCTGGTC
+AAAGATGACATTAAAGTATCAGTAAATGATTTTATCATCAAGGCAGCAGCTGTTACCCTT
+AAACAAATGCCAGATGTTAATGTAAGCTGGGATGGAGAGGGCCCAAAGCAACTGCCATTT
+ATTGACATTTCAGTGGCTGTGGCAACAGATAAAGGCTTACTTACTCCAATCATAAAAGAT
+GCTGCTGCTAAAGGTATCCAGGAAATTGCTGACTCTGTAAAGGCTCTATCAAAGAAAGCA
+AGAGATGGAAAATTGTTGCCTGAAGAATACCAAGGAGGATCTTTTAGTATTTCCAACTTG
+GGGATGTTTGGCATCGACGAATTTACTGCAGTGATTAACCCTCCTCAGGCCTGCATTTTG
+GCGGTTGGGAGGTTCCGACCTGTGCTGAAGCTCACTGAGGATGAAGAGGGAAATGCCAAA
+CTGCAGCAGCGCCAGCTCATAACAGTCACAATGTCAAGTGACAGTCGAGTGGTTGATGAC
+GAACTGGCAACCAGGTTTCTTAAAAGTTTTAAAGCAAACCTAGAGAATCCTATCCGACTT
+GCCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>501</residue_number>
+    <molecular_weight>54121.8</molecular_weight>
+    <theoretical_pi>9.09</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>2-oxoacid_dh</name>
+        <pfam_id>PF00198</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Biotin_lipoyl</name>
+        <pfam_id>PF00364</pfam_id>
+      </pfam>
+      <pfam>
+        <name>E3_binding</name>
+        <pfam_id>PF02817</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Pyruvate dehydrogenase protein X component, mitochondrial
+MAASWRLGCDPRLLRYLVGFPGRRSVGLVKGALGWSVSRGANWRWFHSTQWLRGDPIKIL
+MPSLSPTMEEGNIVKWLKKEGEAVSAGDALCEIETDKAVVTLDASDDGILAKIVVEEGSK
+NIRLGSLIGLIVEEGEDWKHVEIPKDVGPPPPVSKPSEPRPSPEPQISIPVKKEHIPGTL
+RFRLSPAARNILEKHSLDASQGTATGPRGIFTKEDALKLVQLKQTGKITESRPTPAPTAT
+PTAPSPLQATAGPSYPRPVIPPVSTPGQPNAVGTFTEIPASNIRRVIAKRLTESKSTVPH
+AYATADCDLGAVLKVRQDLVKDDIKVSVNDFIIKAAAVTLKQMPDVNVSWDGEGPKQLPF
+IDISVAVATDKGLLTPIIKDAAAKGIQEIADSVKALSKKARDGKLLPEEYQGGSFSISNL
+GMFGIDEFTAVINPPQACILAVGRFRPVLKLTEDEEGNAKLQQRQLITVTMSSDSRVVDD
+ELATRFLKSFKANLENPIRLA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2316040</genbank_protein_id>
+  <uniprot_id>O00330</uniprot_id>
+  <uniprot_name>ODPX_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF001437</genbank_gene_id>
+  <genecard_id>PDHX</genecard_id>
+  <geneatlas_id>PDHX</geneatlas_id>
+  <hgnc_id>HGNC:21350</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Harris RA, Bowker-Kinley MM, Wu P, Jeng J, Popov KM: Dihydrolipoamide dehydrogenase-binding protein of the human pyruvate dehydrogenase complex. DNA-derived amino acid sequence, expression, and reconstitution of the pyruvate dehydrogenase complex. J Biol Chem. 1997 Aug 8;272(32):19746-51.</reference_text>
+      <pubmed_id>9242632</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aral B, Benelli C, Ait-Ghezala G, Amessou M, Fouque F, Maunoury C, Creau N, Kamoun P, Marsac C: Mutations in PDX1, the human lipoyl-containing component X of the pyruvate dehydrogenase-complex gene on chromosome 11p1, in congenital lactic acidosis. Am J Hum Genet. 1997 Dec;61(6):1318-26.</reference_text>
+      <pubmed_id>9399911</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ling M, McEachern G, Seyda A, MacKay N, Scherer SW, Bratinova S, Beatty B, Giovannucci-Uzielli ML, Robinson BH: Detection of a homozygous four base pair deletion in the protein X gene in a case of pyruvate dehydrogenase complex deficiency. Hum Mol Genet. 1998 Mar;7(3):501-5.</reference_text>
+      <pubmed_id>9467010</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu W, Andersson B, Worley KC, Muzny DM, Ding Y, Liu W, Ricafrente JY, Wentland MA, Lennon G, Gibbs RA: Large-scale concatenation cDNA sequencing.  Genome Res. 1997 Apr;7(4):353-8.</reference_text>
+      <pubmed_id>9110174</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ciszak EM, Makal A, Hong YS, Vettaikkorumakankauv AK, Korotchkina LG, Patel MS: How dihydrolipoamide dehydrogenase-binding protein binds dihydrolipoamide dehydrogenase in the human pyruvate dehydrogenase complex. J Biol Chem. 2006 Jan 6;281(1):648-55. Epub 2005 Nov 1.</reference_text>
+      <pubmed_id>16263718</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brautigam CA, Wynn RM, Chuang JL, Machius M, Tomchick DR, Chuang DT: Structural insight into interactions between dihydrolipoamide dehydrogenase (E3) and E3 binding protein of human pyruvate dehydrogenase complex. Structure. 2006 Mar;14(3):611-21. Epub 2006 Jan 26.</reference_text>
+      <pubmed_id>16442803</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

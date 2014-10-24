@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:16 -0700</creation_date>
+  <update_date>2013-05-27 11:26:44 -0600</update_date>
+  <accession>HMDBP00183</accession>
+  <secondary_accessions>
+    <accession>5415</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CPR</synonym>
+    <synonym>P450R</synonym>
+  </synonyms>
+  <gene_name>POR</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>This enzyme is required for electron transfer from NADP to cytochrome P450 in microsomes. It can also provide electron transfer to heme oxygenase and cytochrome B5.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01520</accession>
+      <name>Flavin Mononucleotide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01892</accession>
+      <name>Menadione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01451</accession>
+      <name>(R)-lipoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12947</accession>
+      <name>Ferrocytochrome</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14312</accession>
+      <name>(S)-lipoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14450</accession>
+      <name>Mitomycin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14803</accession>
+      <name>Nilutamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14832</accession>
+      <name>Daunorubicin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14836</accession>
+      <name>Nitrofurantoin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15003</accession>
+      <name>Benzphetamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15509</accession>
+      <name>Ethylmorphine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fmn binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum</description>
+      <go_id>GO:0005783</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cytochrome-b5 reductase activity</description>
+      <go_id>GO:0004128</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavin adenine dinucleotide binding</description>
+      <go_id>GO:0050660</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>FMN binding</description>
+      <go_id>GO:0010181</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hydrolase activity</description>
+      <go_id>GO:0016787</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron-cytochrome-c reductase activity</description>
+      <go_id>GO:0047726</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADP binding</description>
+      <go_id>GO:0050661</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADPH-hemoprotein reductase activity</description>
+      <go_id>GO:0003958</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carnitine metabolic process</description>
+      <go_id>GO:0009437</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular organofluorine metabolic process</description>
+      <go_id>GO:0090346</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to follicle-stimulating hormone stimulus</description>
+      <go_id>GO:0071372</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to peptide hormone stimulus</description>
+      <go_id>GO:0071375</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>demethylation</description>
+      <go_id>GO:0070988</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid oxidation</description>
+      <go_id>GO:0019395</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>flavonoid metabolic process</description>
+      <go_id>GO:0009812</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>internal peptidyl-lysine acetylation</description>
+      <go_id>GO:0018393</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+      <go_id>GO:0043154</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of lipase activity</description>
+      <go_id>GO:0060192</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nitrate catabolic process</description>
+      <go_id>GO:0043602</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nitric oxide catabolic process</description>
+      <go_id>GO:0046210</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cholesterol biosynthetic process</description>
+      <go_id>GO:0045542</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of chondrocyte differentiation</description>
+      <go_id>GO:0032332</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of monooxygenase activity</description>
+      <go_id>GO:0032770</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of smoothened signaling pathway</description>
+      <go_id>GO:0045880</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of steroid hormone biosynthetic process</description>
+      <go_id>GO:0090031</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of growth plate cartilage chondrocyte proliferation</description>
+      <go_id>GO:0003420</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient</description>
+      <go_id>GO:0007584</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>7</chromosome_location>
+    <locus>7q11.2</locus>
+    <gene_sequence>&gt;2034 bp
+ATGGGAGACTCCCACGTGGACACCAGCTCCACCGTGTCCGAGGCGGTGGCCGAAGAAGTA
+TCTCTTTTCAGCATGACGGACATGATTCTGTTTTCGCTCATCGTGGGTCTCCTAACCTAC
+TGGTTCCTCTTCAGAAAGAAAAAAGAAGAAGTCCCCGAGTTCACCAAAATTCAGACATTG
+ACCTCCTCTGTCAGAGAGAGCAGCTTTGTGGAAAAGATGAAGAAAACGGGGAGGAACATC
+ATCGTGTTCTACGGCTCCCAGACGGGGACTGCAGAGGAGTTTGCCAACCGCCTGTCCAAG
+GACGCCCACCGCTACGGGATGCGAGGCATGTCAGCGGACCCTGAGGAGTATGACCTGGCC
+GACCTGAGCAGCCTGCCAGAGATCGACAACGCCCTGGTGGTTTTCTGCATGGCCACCTAC
+GGTGAGGGAGACCCCACCGACAATGCCCAGGACTTCTACGACTGGCTGCAGGAGACAGAC
+GTGGATCTCTCTGGGGTCAAGTTCGCGGTGTTTGGTCTTGGGAACAAGACCTACGAGCAC
+TTCAATGCCATGGGCAAGTACGTGGACAAGCGGCTGGAGCAGCTCGGCGCCCAGCGCATC
+TTTGAGCTGGGGTTGGGCGACGACGATGGGAACTTGGAGGAGGACTTCATCACCTGGCGA
+GAGCAGTTCTGGCCGGCCGTGTGTGAACACTTTGGGGTGGAAGCCACTGGCGAGGAGTCC
+AGCATTCGCCAGTACGAGCTTGTGGTCCACACCGACATAGATGCGGCCAAGGTGTACATG
+GGGGAGATGGGCCGGCTGAAGAGCTACGAGAACCAGAAGCCCCCCTTTGATGCCAAGAAT
+CCGTTCCTGGCTGCAGTCACCACCAACCGGAAGCTGAACCAGGGAACCGAGCGCCACCTC
+ATGCACCTGGAATTGGACATCTCGGACTCCAAAATCAGGTATGAATCTGGGGACCACGTG
+GCTGTGTACCCAGCCAACGACTCTGCTCTCGTCAACCAGCTGGGCAAAATCCTGGGTGCC
+GACCTGGACGTCGTCATGTCCCTGAACAACCTGGATGAGGAGTCCAACAAGAAGCACCCA
+TTCCCGTGCCCTACGTCCTACCGCACGGCCCTCACCTACTACCTGGACATCACCAACCCG
+CCGCGTACCAACGTGCTGTACGAGCTGGCGCAGTACGCCTCGGAGCCCTCGGAGCAGGAG
+CTGCTGCGCAAGCTGGCCTCCTCCTCCGGCGAGGGCAAGGAGCTGTACCTGAGCTGGGTG
+GTGGAGGCCCGGAGGCACATCCTGGCCATCCTGCAGGACTGCCCGTCCCTGCGGCCCCCC
+ATCGACCACCTGTGTGAGCTGCTGCCGCGCCTGCAGGCCCGCTACTACTCCATCGCCTCA
+TCCTCCAAGGTCCACCCCAACTCTGTGCACATCTGTGCGGTGGTTGTGGAGTACGAGACC
+AAGGCCGGCCGCATCAACAAGGGCGTGGCCACCAACTGGCTGCGGGCCAAGGAGCCTGCC
+GGGGAGAACGGCGGCCGTGCGCTGGTGCCCATGTTCGTGCGCAAGTCCCAGTTACGCCTG
+CCCTTCAAGGCCACCACGCCTGTCATCATGGTGGGCCCCGGCACCGGGGTGGCACCCTTC
+ATAGGCTTCATCCAGGAGCGGGCCTGGCTGCGACAGCAGGGCAAGGAGGTGGGGGAGACG
+CTGCTGTACTACGGCTGCCGCCGCTCAGATGAGGACTACCTGTACCGGGAGGAGCTGGCG
+CAGTTCCACAGGGACGGTGCGCTCACCCAGCTCAACGTGGCCTTCTCCCGGGAGCAGTCC
+CACAAGGTCTACGTCCAGCACCTGCTAAAGCAAGACCGAGAGCACCTGTGGAAGTTGATC
+GAAGGCGGTGCCCACATCTACGTCTGTGGGGATGCACGGAACATGGCCAGGGATGTGCAG
+AACACCTTCTACGACATCGTGGCTGAGCTCGGGGCCATGGAGCACGCGCAGGCGGTGGAC
+TACATCAAGAAACTGATGACCAAGGGCCGCTACTCCCTGGACGTGTGGAGCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>677</residue_number>
+    <molecular_weight>77047.575</molecular_weight>
+    <theoretical_pi>5.578</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAD_binding_1</name>
+        <pfam_id>PF00667</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Flavodoxin_1</name>
+        <pfam_id>PF00258</pfam_id>
+      </pfam>
+      <pfam>
+        <name>NAD_binding_1</name>
+        <pfam_id>PF00175</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;NADPH--cytochrome P450 reductase
+MGDSHVDTSSTVSEAVAEEVSLFSMTDMILFSLIVGLLTYWFLFRKKKEEVPEFTKIQTL
+TSSVRESSFVEKMKKTGRNIIVFYGSQTGTAEEFANRLSKDAHRYGMRGMSADPEEYDLA
+DLSSLPEIDNALVVFCMATYGEGDPTDNAQDFYDWLQETDVDLSGVKFAVFGLGNKTYEH
+FNAMGKYVDKRLEQLGAQRIFELGLGDDDGNLEEDFITWREQFWPAVCEHFGVEATGEES
+SIRQYELVVHTDIDAAKVYMGEMGRLKSYENQKPPFDAKNPFLAAVTTNRKLNQGTERHL
+MHLELDISDSKIRYESGDHVAVYPANDSALVNQLGKILGADLDVVMSLNNLDEESNKKHP
+FPCPTSYRTALTYYLDITNPPRTNVLYELAQYASEPSEQELLRKMASSSGEGKELYLSWV
+VEARRHILAILQDCPSLRPPIDHLCELLPRLQARYYSIASSSKVHPNSVHICAVVVEYET
+KAGRINKGVATNWLRAKEPAGENGGRALVPMFVRKSQFRLPFKATTPVIMVGPGTGVAPF
+IGFIQERAWLRQQGKEVGETLLYYGCRRSDEDYLYREELAQFHRDGALTQLNVAFSREQS
+HKVYVQHLLKQDREHLWKLIEGGAHIYVCGDARNMARDVQNTFYDIVAELGAMEHAQAVD
+YIKKLMTKGRYSLDVWS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>11414998</genbank_protein_id>
+  <uniprot_id>P16435</uniprot_id>
+  <uniprot_name>NCPR_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1B1C</pdb_id>
+    <pdb_id>3FJO</pdb_id>
+    <pdb_id>3QE2</pdb_id>
+    <pdb_id>3QFC</pdb_id>
+    <pdb_id>3QFR</pdb_id>
+    <pdb_id>3QFS</pdb_id>
+    <pdb_id>3QFT</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB051763</genbank_gene_id>
+  <genecard_id>POR</genecard_id>
+  <geneatlas_id>POR</geneatlas_id>
+  <hgnc_id>HGNC:9208</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Shephard EA, Palmer CN, Segall HJ, Phillips IR: Quantification of cytochrome P450 reductase gene expression in human tissues. Arch Biochem Biophys. 1992 Apr;294(1):168-72.</reference_text>
+      <pubmed_id>1550342</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Fulton RS, Fulton LA, Graves TA, Pepin KH, Wagner-McPherson C, Layman D, Maas J, Jaeger S, Walker R, Wylie K, Sekhon M, Becker MC, O'Laughlin MD, Schaller ME, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Cordes M, Du H, Sun H, Edwards J, Bradshaw-Cordum H, Ali J, Andrews S, Isak A, Vanbrunt A, Nguyen C, Du F, Lamar B, Courtney L, Kalicki J, Ozersky P, Bielicki L, Scott K, Holmes A, Harkins R, Harris A, Strong CM, Hou S, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Leonard S, Rohlfing T, Rock SM, Tin-Wollam AM, Abbott A, Minx P, Maupin R, Strowmatt C, Latreille P, Miller N, Johnson D, Murray J, Woessner JP, Wendl MC, Yang SP, Schultz BR, Wallis JW, Spieth J, Bieri TA, Nelson JO, Berkowicz N, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Bedell JA, Mardis ER, Clifton SW, Chissoe SL, Marra MA, Raymond C, Haugen E, Gillett W, Zhou Y, James R, Phelps K, Iadanoto S, Bubb K, Simms E, Levy R, Clendenning J, Kaul R, Kent WJ, Furey TS, Baertsch RA, Brent MR, Keibler E, Flicek P, Bork P, Suyama M, Bailey JA, Portnoy ME, Torrents D, Chinwalla AT, Gish WR, Eddy SR, McPherson JD, Olson MV, Eichler EE, Green ED, Waterston RH, Wilson RK: The DNA sequence of human chromosome 7.  Nature. 2003 Jul 10;424(6945):157-64.</reference_text>
+      <pubmed_id>12853948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haniu M, McManus ME, Birkett DJ, Lee TD, Shively JE: Structural and functional analysis of NADPH-cytochrome P-450 reductase from human liver: complete sequence of human enzyme and NADPH-binding sites. Biochemistry. 1989 Oct 17;28(21):8639-45.</reference_text>
+      <pubmed_id>2513880</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhao Q, Modi S, Smith G, Paine M, McDonagh PD, Wolf CR, Tew D, Lian LY, Roberts GC, Driessen HP: Crystal structure of the FMN-binding domain of human cytochrome P450 reductase at 1.93 A resolution. Protein Sci. 1999 Feb;8(2):298-306.</reference_text>
+      <pubmed_id>10048323</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Adachi M, Tachibana K, Asakura Y, Yamamoto T, Hanaki K, Oka A: Compound heterozygous mutations of cytochrome P450 oxidoreductase gene (POR) in two patients with Antley-Bixler syndrome. Am J Med Genet A. 2004 Aug 1;128A(4):333-9.</reference_text>
+      <pubmed_id>15264278</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fukami M, Horikawa R, Nagai T, Tanaka T, Naiki Y, Sato N, Okuyama T, Nakai H, Soneda S, Tachibana K, Matsuo N, Sato S, Homma K, Nishimura G, Hasegawa T, Ogata T: Cytochrome P450 oxidoreductase gene mutations and Antley-Bixler syndrome with abnormal genitalia and/or impaired steroidogenesis: molecular and clinical studies in 10 patients. J Clin Endocrinol Metab. 2005 Jan;90(1):414-26. Epub 2004 Oct 13.</reference_text>
+      <pubmed_id>15483095</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arlt W, Walker EA, Draper N, Ivison HE, Ride JP, Hammer F, Chalder SM, Borucka-Mankiewicz M, Hauffa BP, Malunowicz EM, Stewart PM, Shackleton CH: Congenital adrenal hyperplasia caused by mutant P450 oxidoreductase and human androgen synthesis: analytical study. Lancet. 2004 Jun 26;363(9427):2128-35.</reference_text>
+      <pubmed_id>15220035</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fluck CE, Tajima T, Pandey AV, Arlt W, Okuhara K, Verge CF, Jabs EW, Mendonca BB, Fujieda K, Miller WL: Mutant P450 oxidoreductase causes disordered steroidogenesis with and without Antley-Bixler syndrome. Nat Genet. 2004 Mar;36(3):228-30. Epub 2004 Feb 1.</reference_text>
+      <pubmed_id>14758361</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flavin Mononucleotide</name>
+        <accession>HMDB01520</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>(S)-lipoic acid</name>
+        <accession>HMDB14312</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dudka J: Decrease in NADPH-cytochrome P450 reductase activity of the human heart, Liver and lungs in the presence of alpha-lipoic acid. Ann Nutr Metab. 2006;50(2):121-5. Epub 2006 Jan 2.</reference_text>
+        <pubmed_id>16391466</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>(S)-lipoic acid</name>
+        <accession>HMDB14312</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wen B, Coe KJ, Rademacher P, Fitch WL, Monshouwer M, Nelson SD: Comparison of in vitro bioactivation of flutamide and its cyano analogue: evidence for reductive activation by human NADPH:cytochrome P450 reductase. Chem Res Toxicol. 2008 Dec;21(12):2393-406.</reference_text>
+        <pubmed_id>19548358</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>(S)-lipoic acid</name>
+        <accession>HMDB14312</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gan L, von Moltke LL, Trepanier LA, Harmatz JS, Greenblatt DJ, Court MH: Role of NADPH-cytochrome P450 reductase and cytochrome-b5/NADH-b5 reductase in variability of CYP3A activity in human liver microsomes. Drug Metab Dispos. 2009 Jan;37(1):90-6. Epub 2008 Oct 6.</reference_text>
+        <pubmed_id>18838505</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mitomycin</name>
+        <accession>HMDB14450</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bligh HF, Bartoszek A, Robson CN, Hickson ID, Kasper CB, Beggs JD, Wolf CR: Activation of mitomycin C by NADPH:cytochrome P-450 reductase.  Cancer Res. 1990 Dec 15;50(24):7789-92.</reference_text>
+        <pubmed_id>2123741</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mitomycin</name>
+        <accession>HMDB14450</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vromans RM, van de Straat R, Groeneveld M, Vermeulen NP: One-electron reduction of mitomycin c by rat liver: role of cytochrome P-450 and NADPH-cytochrome P-450 reductase. Xenobiotica. 1990 Sep;20(9):967-78.</reference_text>
+        <pubmed_id>2122607</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nilutamide</name>
+        <accession>HMDB14803</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berger V, Berson A, Wolf C, Chachaty C, Fau D, Fromenty B, Pessayre D: Generation of free radicals during the reductive metabolism of nilutamide by lung microsomes: possible role in the development of lung lesions in patients treated with this anti-androgen. Biochem Pharmacol. 1992 Feb 4;43(3):654-7.</reference_text>
+        <pubmed_id>1311586</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Daunorubicin</name>
+        <accession>HMDB14832</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bachur NR, Gordon SL, Gee MV, Kon H: NADPH cytochrome P-450 reductase activation of quinone anticancer agents to free radicals. Proc Natl Acad Sci U S A. 1979 Feb;76(2):954-7.</reference_text>
+        <pubmed_id>34156</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Daunorubicin</name>
+        <accession>HMDB14832</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Di Re J, Lee C, Riddick DS: Lack of mechanism-based inactivation of rat hepatic microsomal cytochromes P450 by doxorubicin. Can J Physiol Pharmacol. 1999 Aug;77(8):589-97.</reference_text>
+        <pubmed_id>10543722</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitrofurantoin</name>
+        <accession>HMDB14836</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang Y, Gray JP, Mishin V, Heck DE, Laskin DL, Laskin JD: Role of cytochrome P450 reductase in nitrofurantoin-induced redox cycling and cytotoxicity. Free Radic Biol Med. 2008 Mar 15;44(6):1169-79. Epub 2007 Dec 23.</reference_text>
+        <pubmed_id>18206659</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzphetamine</name>
+        <accession>HMDB15003</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kanaeva IP, Nikityuk OV, Davydov DR, Dedinskii IR, Koen YM, Kuznetsova GP, Skotselyas ED, Bachmanova GI, Archakov AI: Comparative study of monomeric reconstituted and membrane microsomal monooxygenase systems of the rabbit liver. II. Kinetic parameters of reductase and monooxygenase reactions. Arch Biochem Biophys. 1992 Nov 1;298(2):403-12.</reference_text>
+        <pubmed_id>1416971</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzphetamine</name>
+        <accession>HMDB15003</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Matsumoto T, Emi Y, Kawabata S, Omura T: Purification and characterization of three male-specific and one female-specific forms of cytochrome P-450 from rat liver microsomes. J Biochem. 1986 Nov;100(5):1359-71.</reference_text>
+        <pubmed_id>2434473</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzphetamine</name>
+        <accession>HMDB15003</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kojima H, Takahashi K, Sakane F, Koyama J: Purification and characterization of NADPH-cytochrome c reductase from porcine polymorphonuclear leukocytes. J Biochem. 1987 Nov;102(5):1083-8.</reference_text>
+        <pubmed_id>3125159</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzphetamine</name>
+        <accession>HMDB15003</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dutton DR, McMillen SK, Parkinson A: Purification of rat liver microsomal cytochrome P-450b without the use of nonionic detergent. J Biochem Toxicol. 1988 Summer;3:131-45.</reference_text>
+        <pubmed_id>3148724</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzphetamine</name>
+        <accession>HMDB15003</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Halpert JR, Miller NE, Gorsky LD: On the mechanism of the inactivation of the major phenobarbital-inducible isozyme of rat liver cytochrome P-450 by chloramphenicol. J Biol Chem. 1985 Jul 15;260(14):8397-403.</reference_text>
+        <pubmed_id>3924914</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

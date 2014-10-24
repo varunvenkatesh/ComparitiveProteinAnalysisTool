@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:31 -0700</creation_date>
+  <update_date>2013-05-27 11:36:40 -0600</update_date>
+  <accession>HMDBP00522</accession>
+  <secondary_accessions>
+    <accession>5770</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>PheRS</synonym>
+    <synonym>Phenylalanine--tRNA ligase beta chain</synonym>
+    <synonym>Phenylalanyl-tRNA synthetase beta subunit</synonym>
+  </synonyms>
+  <gene_name>FARSB</gene_name>
+  <general_function>Involved in RNA binding</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Phenylalanine and Tyrosine Metabolism</name>
+      <smpdb_id>SMP00008</smpdb_id>
+      <kegg_map_id>map00360</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Aminoacyl-tRNA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00970</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00159</accession>
+      <name>L-Phenylalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>magnesium ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-oxygen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming aminoacyl-trna and related compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>aminoacyl-trna ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phenylalanine-trna ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ncrna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna aminoacylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna aminoacylation for protein translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phenylalanyl-trna aminoacylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>magnesium ion binding</description>
+      <go_id>GO:0000287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phenylalanine-tRNA ligase activity</description>
+      <go_id>GO:0004826</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phenylalanyl-tRNA aminoacylation</description>
+      <go_id>GO:0006432</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA aminoacylation for protein translation</description>
+      <go_id>GO:0006418</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q36.1</locus>
+    <gene_sequence>&gt;1770 bp
+ATGCCGACTGTCAGCGTGAAGCGTGATCTGCTCTTCCAAGCCCTGGGCCGCACCTACACT
+GACGAAGAATTTGATGAACTATGTTTTGAATTTGGTCTGGAGCTTGATGAAATTACATCT
+GAGAAGGAAATAATAAGTAAAGAACAAGGTAATGTAAAGGCAGCAGGAGCCTCTGATGTT
+GTTCTTTACAAAATTGACGTCCCTGCCAATAGATATGATCTCCTGTGTCTGGAAGGATTG
+GTTCGAGGACTTCAGGTCTTCAAAGAAAGGATAAAGGCTCCAGTGTATAAACGGGTAATG
+CCTGATGGAAAAATCCAGAAATTGATTATCACAGAAGAGACAGCTAAGATACGTCCTTTT
+GCGGTAGCAGCAGTTCTCCGTAATATAAAGTTTACTAAAGATCGATATGACAGCTTCATT
+GAACTTCAGGAGAAATTACATCAGAATATTTGCAGGAAAAGAGCACTGGTTGCCATTGGT
+ACCCATGATTTGGACACTTTGTCGGGCCCATTTACTTATACTGCAAAGCGTCCTTCAGAT
+ATCAAATTCAAGCCTCTAAATAAGACCAAGGAGTATACAGCCTGTGAACTGATGAACATA
+TACAAGACTGACAATCACCTGAAACATTATTTACATATCATTGAAAACAAACCCCTGTAT
+CCAGTTATCTATGATAGCAATGGTGTCGTCCTTTCAATGCCTCCCATCATCAATGGGGAT
+CATTCCAGAATAACAGTAAATACTAGAAATATTTTTATTGAATGCACGGGAACTGACTTT
+ACTAAGGCAAAAATAGTTCTTGATATTATTGTCACCATGTTCAGTGAATATTGTGAGAAT
+CAATTTACGGTCGAAGCTGCTGAAGTGGTTTTTCCTAATGGAAAATCACATACCTTTCCA
+GAATTAGCTTACCGAAAGGAGATGGTGAGAGCTGACCTAATTAACAAAAAAGTTGGAATC
+AGAGAAACTCCAGAAAATCTTGCCAAACTTCTGACCAGGATGTATTTAAAATCAGAAGTC
+ATAGGTGATGGGAATCAGATTGAGATTGAAATCCCTCCAACCAGAGCTGACATTATCCAT
+GCATGTGATATTGTAGAAGATGCAGCTATTGCTTATGGATATAACAACATTCAGATGACT
+CTCCCGAAAACTTACACCATAGCTAATCAATTTCCTCTTAATAAGCTCACTGAACTTCTC
+CGACATGACATGGCAGCCGCTGGCTTCACTGAAGCACTTACCTTTGCCCTGTGCTCCCAA
+GAAGATATTGCTGATAAACTAGGTGTGGATATCTCTGCAACAAAGGCAGTCCACATAAGT
+AATCCTAAAACAGCTGAATTTCAGGTGGCACGCACTACCCTTCTTCCTGGCCTCCTGAAG
+ACCATAGCAGCAAATCGTAAGATGCCCCTTCCACTGAAACTGTTTGAAATCTCTGACATT
+GTAATAAAAGATTCTAATACAGATGTAGGTGCAAAAAACTACAGACATCTCTGTGCTGTT
+TATTACAACAAGAATCCTGGGTTTGAGATCATTCATGGGCTGCTGGACAGAATTATGCAG
+TTGCTCGATGTGCCTCCTGGTGAAGACAAGGGGGGATATGTGATCAAAGCATCAGAAGGG
+CCTGCTTTCTTCCCCGGGCGATGTGCAGAGATCTTTGCCAGGGGTCAAAGCGTCGGGAAG
+CTTGGGGTCCTTCATCCTGACGTTATCACCAAATTTGAGCTGACCATGCCCTGCTCCTCC
+CTAGAAATCAATGTTGGACCCTTTTTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>589</residue_number>
+    <molecular_weight>66114.93</molecular_weight>
+    <theoretical_pi>6.841</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>B3_4</name>
+        <pfam_id>PF03483</pfam_id>
+      </pfam>
+      <pfam>
+        <name>B5</name>
+        <pfam_id>PF03484</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Phenylalanyl-tRNA synthetase beta chain
+MPTVSVKRDLLFQALGRTYTDEEFDELCFEFGLELDEITSEKEIISKEQGNVKAAGASDV
+VLYKIDVPANRYDLLCLEGLVRGLQVFKERIKAPVYKRVMPDGKIQKLIITEETAKIRPF
+AVAAVLRNIKFTKDRYDSFIELQEKLHQNICRKRALVAIGTHDLDTLSGPFTYTAKRPSD
+IKFKPLNKTKEYTACELMNIYKTDNHLKHYLHIIENKPLYPVIYDSNGVVLSMPPIINGD
+HSRITVNTRNIFIECTGTDFTKAKIVLDIIVTMFSEYCENQFTVEAAEVVFPNGKSHTFP
+ELAYRKEMVRADLINKKVGIRETPENLAKLLTRMYLKSEVIGDGNQIEIEIPPTRADIIH
+ACDIVEDAAIAYGYNNIQMTLPKTYTIANQFPLNKLTELLRHDMAAAGFTEALTFALCSQ
+EDIADKLGVDISATKAVHISNPKTAEFQVARTTLLPGLLKTIAANRKMPLPLKLFEISDI
+VIKDSNTDVGAKNYRHLCAVYYNKNPGFEIIHGLLDRIMQLLDVPPGEDKGGYVIKASEG
+PAFFPGRCAEIFARGQSVGKLGVLHPDVITKFELTMPCSSLEINVGPFL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>124028525</genbank_protein_id>
+  <uniprot_id>Q9NSD9</uniprot_id>
+  <uniprot_name>SYFB_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3L4G</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_005687.3</genbank_gene_id>
+  <genecard_id>FARSB</genecard_id>
+  <geneatlas_id>FARSB</geneatlas_id>
+  <hgnc_id>HGNC:17800</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Rodova M, Ankilova V, Safro MG: Human phenylalanyl-tRNA synthetase: cloning, characterization of the deduced amino acid sequences in terms of the structural domains and coordinately regulated expression of the alpha and beta subunits in chronic myeloid leukemia cells. Biochem Biophys Res Commun. 1999 Feb 24;255(3):765-73.</reference_text>
+      <pubmed_id>10049785</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang QH, Ye M, Wu XY, Ren SX, Zhao M, Zhao CJ, Fu G, Shen Y, Fan HY, Lu G, Zhong M, Xu XR, Han ZG, Zhang JW, Tao J, Huang QH, Zhou J, Hu GX, Gu J, Chen SJ, Chen Z: Cloning and functional analysis of cDNAs with open reading frames for 300 previously undefined genes expressed in CD34+ hematopoietic stem/progenitor cells. Genome Res. 2000 Oct;10(10):1546-60.</reference_text>
+      <pubmed_id>11042152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Du D, Fang L, Yang G, Zhang C, Zeng R, Ullrich A, Lottspeich F, Chen Z: Tyrosine phosphorylated Par3 regulates epithelial tight junction assembly promoted by EGFR signaling. EMBO J. 2006 Nov 1;25(21):5058-70. Epub 2006 Oct 19.</reference_text>
+      <pubmed_id>17053785</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kotik-Kogan O, Moor N, Tworowski D, Safro M: Structural basis for discrimination of L-phenylalanine from L-tyrosine by phenylalanyl-tRNA synthetase. Structure. 2005 Dec;13(12):1799-807.</reference_text>
+        <pubmed_id>16338408</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

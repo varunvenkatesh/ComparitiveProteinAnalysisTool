@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:21 -0700</creation_date>
+  <update_date>2013-01-15 20:20:21 -0700</update_date>
+  <accession>HMDBP09192</accession>
+  <secondary_accessions>
+    <accession>14950</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Thymine-DNA glycosylase</synonym>
+  </synonyms>
+  <gene_name>TDG</gene_name>
+  <general_function>Involved in hydrolase activity, hydrolyzing N-glycosyl compounds</general_function>
+  <specific_function>In the DNA of higher eukaryotes, hydrolytic deamination of 5-methylcytosine to thymine leads to the formation of G/T mismatches. This enzyme corrects G/T mispairs to G/C pairs. It is capable of hydrolyzing the carbon-nitrogen bond between the sugar- phosphate backbone of the DNA and a mispaired thymine. In addition to the G/T, it can remove thymine also from C/T and T/T mispairs in the order G/T &gt;&gt; C/T &gt; T/T. It has no detectable activity on apyrimidinic sites and does not catalyze the removal of thymine from A/T pairs or from single-stranded DNA. It can also remove uracil and 5-bromouracil from mispairs with guanine</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02030</accession>
+      <name>Fructosamine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>structure-specific dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>double-stranded dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>mismatched dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, hydrolyzing n-glycosyl compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>mismatch repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>12q24.1</locus>
+    <gene_sequence>&gt;1233 bp
+ATGGAAGCGGAGAACGCGGGCAGCTATTCCCTTCAGCAAGCTCAAGCTTTTTATACGTTT
+CCATTTCAACAACTGATGGCTGAAGCTCCTAATATGGCAGTTGTGAATGAACAGCAAATG
+CCAGAAGAAGTTCCAGCCCCAGCTCCTGCTCAGGAACCAGTGCAAGAGGCTCCAAAAGGA
+AGAAAAAGAAAACCCAGAACAACAGAACCAAAACAACCAGTGGAACCCAAAAAACCTGTT
+GAGTCAAAAAAATCTGGCAAGTCTGCAAAATCAAAAGAAAAACAAGAAAAAATTACAGAC
+ACATTTAAAGTAAAAAGAAAAGTAGACCGTTTTAATGGTGTTTCAGAAGCTGAACTTCTG
+ACCAAGACTCTCCCCGATATTTTGACCTTCAATCTGGACATTGTCATTATTGGCATAAAC
+CCGGGACTAATGGCTGCTTACAAAGGGCATCATTACCCTGGACCTGGAAACCATTTTTGG
+AAGTGTTTGTTTATGTCAGGGCTCAGTGAGGTCCAGCTGAACCATATGGATGATCACACT
+CTACCAGGGAAGTATGGTATTGGATTTACCAACATGGTGGAAAGGACCACGCCCGGCAGC
+AAAGATCTCTCCAGTAAAGAATTTCGTGAAGGAGGACGTATTCTAGTACAGAAATTACAG
+AAATATCAGCCACGAATAGCAGTGTTTAATGGAAAATGTATTTATGAAATTTTTAGTAAA
+GAAGTTTTTGGAGTAAAGGTTAAGAACTTGGAATTTGGGCTTCAGCCCCATAAGATTCCA
+GACACAGAAACTCTCTGCTATGTTATGCCATCATCCAGTGCAAGATGTGCTCAGTTTCCT
+CGAGCCCAAGACAAAGTTCATTACTACATAAAACTGAAGGACTTAAGAGATCAGTTGAAA
+GGCATTGAACGAAATATGGACGTTCAAGAGGTGCAATATACATTTGACCTACAGCTTGCC
+CAAGAGGATGCAAAGAAGATGGCTGTTAAGGAAGAAAAATATGATCCAGGTTATGAGGCA
+GCATATGGTGGTGCTTACGGAGAAAATCCATGCAGCAGTGAACCTTGTGGCTTCTCTTCA
+AATGGGCTAATTGAGAGCGTGGAGTTAAGAGGAGAATCAGCTTTCAGTGGCATTCCTAAT
+GGGCAGTGGATGACCCAGTCATTTACAGACCAAATTCCTTCCTTTAGTAATCACTGTGGA
+ACACAAGAACAGGAAGAAGAAAGCCATGCTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>410</residue_number>
+    <molecular_weight>46053.0</molecular_weight>
+    <theoretical_pi>6.79</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UDG</name>
+        <pfam_id>PF03167</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;G/T mismatch-specific thymine DNA glycosylase
+MEAENAGSYSLQQAQAFYTFPFQQLMAEAPNMAVVNEQQMPEEVPAPAPAQEPVQEAPKG
+RKRKPRTTEPKQPVEPKKPVESKKSGKSAKSKEKQEKITDTFKVKRKVDRFNGVSEAELL
+TKTLPDILTFNLDIVIIGINPGLMAAYKGHHYPGPGNHFWKCLFMSGLSEVQLNHMDDHT
+LPGKYGIGFTNMVERTTPGSKDLSSKEFREGGRILVQKLQKYQPRIAVFNGKCIYEIFSK
+EVFGVKVKNLEFGLQPHKIPDTETLCYVMPSSSARCAQFPRAQDKVHYYIKLKDLRDQLK
+GIERNMDVQEVQYTFDLQLAQEDAKKMAVKEEKYDPGYEAAYGGAYGENPCSSEPCGFSS
+NGLIESVELRGESAFSGIPNGQWMTQSFTDQIPSFSNHCGTQEQEEESHA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>23267188</genbank_protein_id>
+  <uniprot_id>Q13569</uniprot_id>
+  <uniprot_name>TDG_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF545435</genbank_gene_id>
+  <genecard_id>TDG</genecard_id>
+  <geneatlas_id>TDG</geneatlas_id>
+  <hgnc_id>HGNC:11700</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Neddermann P, Gallinari P, Lettieri T, Schmid D, Truong O, Hsuan JJ, Wiebauer K, Jiricny J: Cloning and expression of human G/T mismatch-specific thymine-DNA glycosylase. J Biol Chem. 1996 May 31;271(22):12767-74.</reference_text>
+      <pubmed_id>8662714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Neddermann P, Jiricny J: Efficient removal of uracil from G.U mispairs by the mismatch-specific thymine DNA glycosylase from HeLa cells. Proc Natl Acad Sci U S A. 1994 Mar 1;91(5):1642-6.</reference_text>
+      <pubmed_id>8127859</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Neddermann P, Jiricny J: The purification of a mismatch-specific thymine-DNA glycosylase from HeLa cells. J Biol Chem. 1993 Oct 5;268(28):21218-24.</reference_text>
+      <pubmed_id>8407958</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hardeland U, Steinacher R, Jiricny J, Schar P: Modification of the human thymine-DNA glycosylase by ubiquitin-like proteins facilitates enzymatic turnover. EMBO J. 2002 Mar 15;21(6):1456-64.</reference_text>
+      <pubmed_id>11889051</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baba D, Maita N, Jee JG, Uchimura Y, Saitoh H, Sugasawa K, Hanaoka F, Tochio H, Hiroaki H, Shirakawa M: Crystal structure of thymine DNA glycosylase conjugated to SUMO-1.  Nature. 2005 Jun 16;435(7044):979-82.</reference_text>
+      <pubmed_id>15959518</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baba D, Maita N, Jee JG, Uchimura Y, Saitoh H, Sugasawa K, Hanaoka F, Tochio H, Hiroaki H, Shirakawa M: Crystal structure of SUMO-3-modified thymine-DNA glycosylase.  J Mol Biol. 2006 May 26;359(1):137-47. Epub 2006 Mar 31.</reference_text>
+      <pubmed_id>16626738</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

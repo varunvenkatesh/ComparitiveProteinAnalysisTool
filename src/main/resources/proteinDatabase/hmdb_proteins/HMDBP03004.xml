@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:48 -0700</creation_date>
+  <update_date>2013-01-15 19:09:48 -0700</update_date>
+  <accession>HMDBP03004</accession>
+  <secondary_accessions>
+    <accession>8526</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Microsomal NAD+-dependent retinol dehydrogenase 4</synonym>
+    <synonym>RoDH-4</synonym>
+    <synonym>Sterol/retinol dehydrogenase</synonym>
+  </synonyms>
+  <gene_name>RDH16</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Oxidoreductase with a preference for NAD. Oxidizes all- trans-retinol and 13-cis-retinol to the corresponding aldehydes. Has higher activity towards CRBP-bound retinol than with free retinol. Oxidizes 3-alpha-hydroxysteroids. Oxidizes androstanediol and androsterone to dihydrotestosterone and androstanedione. Can also catalyze the reverse reaction</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00031</accession>
+      <name>Androsterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00495</accession>
+      <name>Androstanediol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04305</accession>
+      <name>Farnesol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Microsome membrane</subcellular_location>
+    <subcellular_location>Single-pass type IV membrane protein</subcellular_location>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass type IV membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>12q13.3</locus>
+    <gene_sequence>&gt;954 bp
+ATGTGGCTCTACCTGGCGGTTTTCGTGGGCCTGTACTACCTTCTGCACTGGTACCGGGAG
+AGGCAGGTGCTGAGCCACCTGAGAGATAAGTATGTGTTCATCACGGGCTGTGACTCTGGC
+TTCGGGAAACTGCTGGCCAGACAGCTGGATGCACGAGGCTTGCGGGTGCTGGCTGCATGT
+CTGACGGAGAAAGGAGCCGAGCAGCTGAGGGGCCAGACTTCAGACAGGCTGGAGACGGTG
+ACCCTGGATGTTACCAAGACAGAGAGCGTTGCTGCAGCCGCCCAGTGGGTGAAGGAGTGC
+GTGAGAGACAAAGGACTCTGGGGCCTGGTGAATAATGCTGGCATCTCCTTGCCCACGGCT
+CCCAATGAGTTGCTCACCAAGCAGGACTTCGTGACCATACTGGACGTGAACTTGTTGGGG
+GTGATTGATGTGACTCTGAGCCTGCTGCCCTTAGTGAGGAAGGCCAGGGGCCGTGTGGTC
+AACGTCTCCAGTGTCATGGGCCGGGTGTCACTTTTTGGTGGAGGCTACTGCATCTCCAAG
+TATGGCGTGGAAGCCTTCTCTGACTCCCTCAGGAGGGAACTCTCCTACTTTGGGGTGAAG
+GTGGCTATGATTGAACCTGGCTATTTCAAGACTGCTGTGACCAGTAAGGAGAGATTCTTA
+AAGAGCTTCCTGGAGATTTGGGACCGGTCCAGTCCAGAGGTCAAGGAGGCCTATGGCGAG
+AAGTTTGTTGCAGACTATAAGAAATCAGCTGAACAAATGGAGCAGAAGTGCACACAGGAT
+CTGTCGTTGGTGACCAACTGCATGGAGCATGCGCTGATTGCCTGCCACCCCCGTACTCGC
+TACTCAGCTGGCTGGGATGCCAAGCTTCTCTACCTCCCCATGAGCTACATGCCCACCTTC
+CTGGTGGATGCCATTATGTACTGGGTCTCTCCAAGCCCGGCCAAGGCTCTATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>317</residue_number>
+    <molecular_weight>35673.1</molecular_weight>
+    <theoretical_pi>8.77</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>adh_short</name>
+        <pfam_id>PF00106</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>289-309</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Retinol dehydrogenase 16
+MWLYLAVFVGLYYLLHWYRERQVLSHLRDKYVFITGCDSGFGKLLARQLDARGLRVLAAC
+LTEKGAEQLRGQTSDRLETVTLDVTKTESVAAAAQWVKECVRDKGLWGLVNNAGISLPTA
+PNELLTKQDFVTILDVNLLGVIDVTLSLLPLVRRARGRVVNVSSVMGRVSLFGGGYCISK
+YGVEAFSDSLRRELSYFGVKVAMIEPGYFKTAVTSKERFLKSFLEIWDRSSPEVKEAYGE
+KFVADYKKSAEQMEQKCTQDLSLVTNCMEHALIACHPRTRYSAGWDAKLLYLPMSYMPTF
+LVDAIMYWVSPSPAKAL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3372592</genbank_protein_id>
+  <uniprot_id>O75452</uniprot_id>
+  <uniprot_name>RDH16_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF057034</genbank_gene_id>
+  <genecard_id>RDH16</genecard_id>
+  <geneatlas_id>RDH16</geneatlas_id>
+  <hgnc_id>HGNC:29674</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Gough WH, VanOoteghem S, Sint T, Kedishvili NY: cDNA cloning and characterization of a new human microsomal NAD+-dependent dehydrogenase that oxidizes all-trans-retinol and 3alpha-hydroxysteroids. J Biol Chem. 1998 Jul 31;273(31):19778-85.</reference_text>
+      <pubmed_id>9677409</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jurukovski V, Markova NG, Karaman-Jurukovska N, Randolph RK, Su J, Napoli JL, Simon M: Cloning and characterization of retinol dehydrogenase transcripts expressed in human epidermal keratinocytes. Mol Genet Metab. 1999 May;67(1):62-73.</reference_text>
+      <pubmed_id>10329026</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cain JM, Zaino R, Shearer D, Bennett RA, Olt G, Weisz J: Expression of a retinol dehydrogenase (hRoDH-4), a member of the retinol/steroid dehydrogenase family implicated in retinoic acid biosynthesis, in normal and neoplastic endometria. Am J Obstet Gynecol. 2002 Apr;186(4):675-83.</reference_text>
+      <pubmed_id>11967490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lapshina EA, Belyaeva OV, Chumakova OV, Kedishvili NY: Differential recognition of the free versus bound retinol by human microsomal retinol/sterol dehydrogenases: characterization of the holo-CRBP dehydrogenase activity of RoDH-4. Biochemistry. 2003 Jan 28;42(3):776-84.</reference_text>
+      <pubmed_id>12534290</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Androsterone</name>
+        <accession>HMDB00031</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Karlsson T, Vahlquist A, Kedishvili N, Torma H: 13-cis-retinoic acid competitively inhibits 3 alpha-hydroxysteroid oxidation by retinol dehydrogenase RoDH-4: a mechanism for its anti-androgenic effects in sebaceous glands? Biochem Biophys Res Commun. 2003 Mar 28;303(1):273-8.</reference_text>
+        <pubmed_id>12646198</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

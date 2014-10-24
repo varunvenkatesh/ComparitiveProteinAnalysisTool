@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:38:52 -0600</creation_date>
+  <update_date>2013-05-27 11:38:52 -0600</update_date>
+  <accession>HMDBP11991</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Ubiquitin-conjugating enzyme E2-32 kDa complementing</synonym>
+    <synonym>Ubiquitin-conjugating enzyme E2-CDC34</synonym>
+    <synonym>Ubiquitin-protein ligase R1</synonym>
+  </synonyms>
+  <gene_name>CDC34</gene_name>
+  <general_function/>
+  <specific_function>Accepts ubiquitin from the E1 complex and catalyzes its covalent attachment to other proteins. In vitro catalyzes 'Lys-48'-linked polyubiquitination. Cooperates with the E2 UBCH5C and the SCF(FBXW11) E3 ligase complex for the polyubiquitination of NFKBIA leading to its subsequent proteasomal degradation. Performs ubiquitin chain elongation building ubiquitin chains from the UBE2D3-primed NFKBIA-linked ubiquitin. UBE2D3 acts as an initiator E2, priming the phosphorylated NFKBIA target at positions 'Lys-21' and/or 'Lys-22' with a monoubiquitin. Cooperates with the SCF(SKP2) E3 ligase complex to regulate cell proliferation through ubiquitination and degradation of MYBL2 and KIP1. Involved in ubiquitin conjugation and degradation of CREM isoform ICERIIgamma and ATF15 resulting in abrogation of ICERIIgamma- and ATF5-mediated repression of cAMP-induced transcription during both meiotic and mitotic cell cycles. Involved in the regulation of the cell cycle G2/M phase through its targeting of the WEE1 kinase for ubiquitination and degradation. Also involved in the degradation of beta-catenin. Is target of human herpes virus 1 protein ICP0, leading to ICP0-dependent dynamic interaction with proteasomes.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein ubiquitination</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Ubiquitin mediated proteolysis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04120</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Herpes simplex infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05168</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>G1/S transition of mitotic cell cycle</description>
+      <go_id>GO:0000082</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication initiation</description>
+      <go_id>GO:0006270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cAMP-mediated signaling</description>
+      <go_id>GO:0043951</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proteasomal ubiquitin-dependent protein catabolic process</description>
+      <go_id>GO:0043161</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ubiquitin-protein ligase activity</description>
+      <go_id>GO:0004842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein K48-linked ubiquitination</description>
+      <go_id>GO:0070936</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19p13.3</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>26736.515</molecular_weight>
+    <theoretical_pi>4.537</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|16357477|ref|NP_004350.1| ubiquitin-conjugating enzyme E2 R1 [Homo sapiens]
+MARPLVPSSQKALLLELKGLQEEPVEGFRVTLVDEGDLYNWEVAIFGPPNTYYEGGYFKA
+RLKFPIDYPY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P49427</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2OB4</pdb_id>
+    <pdb_id>3RZ3</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:1734</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

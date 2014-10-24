@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:40:21 -0700</creation_date>
+  <update_date>2013-05-27 11:13:58 -0600</update_date>
+  <accession>HMDBP11011</accession>
+  <secondary_accessions>
+    <accession>17336</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Liver carboxylesterase 31 homolog</synonym>
+  </synonyms>
+  <gene_name>CES3</gene_name>
+  <general_function>Lipid transport and metabolism</general_function>
+  <specific_function>Involved in the detoxification of xenobiotics and in the activation of ester and amide prodrugs. Shows low catalytic efficiency for hydrolysis of CPT-11 (7-ethyl-10-[4-(1-piperidino)-1-piperidino]-carbonyloxycamptothecin), a prodrug for camptothecin used in cancer therapeutics.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00910</accession>
+      <name>Tridecanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00806</accession>
+      <name>Myristic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00220</accession>
+      <name>Palmitic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06497</accession>
+      <name>Heptadecanoyl CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00827</accession>
+      <name>Stearic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01043</accession>
+      <name>Arachidonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02212</accession>
+      <name>Arachidic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02259</accession>
+      <name>Heptadecanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00826</accession>
+      <name>Pentadecanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carboxylesterase activity</description>
+      <go_id>GO:0004091</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>retinyl-palmitate esterase activity</description>
+      <go_id>GO:0050253</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum lumen</description>
+      <go_id>GO:0005788</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>methyl indole-3-acetate esterase activity</description>
+      <go_id>GO:0080030</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>methyl jasmonate esterase activity</description>
+      <go_id>GO:0080032</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>methyl salicylate esterase activity</description>
+      <go_id>GO:0080031</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum lumen</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16q22.1</locus>
+    <gene_sequence>&gt;1716 bp
+ATGGAGAGAGCAGTGAGAGTGGAGTCCGGGGTCCTGGTCGGGGTGGTCTGTCTGCTCCTG
+GCATGCCCTGCCACAGCCACTGGGCCCGAAGTTGCTCAGCCTGAAGTAGACACCACCCTG
+GGTCGTGTGCGAGGCCGGCAGGTGGGCGTGAAGGGCACAGACCGCCTTGTGAATGTCTTT
+CTGGGCATTCCATTTGCCCAGCCGCCACTGGGCCCTGACCGGTTCTCAGCCCCACACCCA
+GCACAGCCCTGGGAGGGTGTGCGGGATGCCAGCACTGCGCCCCCAATGTGCCTACAAGAC
+GTGGAGAGCATGAACAGCAGCAGATTTGTCCTCAACGGAAAACAGCAGATCTTCTCCGTT
+TCAGAGGACTGCCTGGTCCTCAACGTCTATAGCCCAGCTGAGGTCCCCGCAGGGTCCGGT
+AGGCCGGTCATGGTATGGGTCCATGGAGGCGCTCTGATAACTGGCGCTGCCACCTCCTAC
+GATGGATCAGCTCTGGCTGCCTATGGGGATGTGGTCGTGGTTACAGTCCAGTACCGCCTT
+GGGGTCCTTGGCTTCTTCAGCACTGGAGATGAGCATGCACCTGGCAACCAGGGCTTCCTA
+GATGTGGTAGCTGCTTTGCGCTGGGTGCAAGAAAACATCGCCCCCTTCGGGGGTGACCTC
+AACTGTGTCACTGTCTTTGGTGGATCTGCCGGTGGGAGCATCATCTCTGGCCTGGTCCTG
+TCCCCAGTGGCTGCAGGGCTGTTCCACAGAGCCATCACACAGAGTGGGGTCATCACCACC
+CCAGGGATCATCGACTCTCACCCTTGGCCCCTAGCTCAGAAAATCGCAAACACCTTGGCC
+TGCAGCTCCAGCTCCCCGGCTGAGATGGTGCAGTGCCTTCAGCAGAAAGAAGGAGAAGAG
+CTGGTCCTTAGCAAGAAGCTGAAAAATACTATCTATCCTCTCACCGTTGATGGCACTGTC
+TTCCCCAAAAGCCCCAAGGAACTCCTGAAGGAGAAGCCCTTCCACTCTGTGCCCTTCCTC
+ATGGGTGTCAACAACCATGAGTTCAGCTGGCTCATCCCCAGGGGCTGGGGTCTCCTGGAT
+ACAATGGAGCAGATGAGCCGGGAGGACATGCTGGCCATCTCAACACCCGTCTTGACCAGT
+CTGGATGTGCCCCCTGAGATGATGCCCACCGTCATAGATGAATACCTAGGAAGCAACTCG
+GACGCACAAGCCAAATGCCAGGCGTTCCAGGAATTCATGGGTGACGTATTCATCAATGTT
+CCCACCGTCAGTTTTTCAAGATACCTTCGAGATTCTGGAAGCCCTGTCTTTTTCTATGAG
+TTCCAGCATCGACCCAGTTCTTTTGCGAAGATCAAACCTGCCTGGGTGAAGGCTGATCAT
+GGGGCCGAGGGTGCTTTTGTGTTCGGAGGTCCCTTCCTCATGGACGAGAGCTCCCGCCTG
+GCCTTTCCAGAGGCCACAGAGGAGGAGAAGCAGCTAAGCCTCACCATGATGGCCCAGTGG
+ACCCACTTTGCCCGGACAGGGGACCCCAATAGCAAGGCTCTGCCTCCTTGGCCCCAATTC
+AACCAGGCGGAACAATATCTGGAGATCAACCCAGTGCCACGGGCCGGACAGAAGTTCAGG
+GAGGCCTGGATGCAGTTCTGGTCAGAGACGCTCCCCAGCAAGATACAACAGTGGCACCAG
+AAGCAGAAGAACAGGAAGGCCCAGGAGGACCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>571</residue_number>
+    <molecular_weight>24106.105</molecular_weight>
+    <theoretical_pi>5.269</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>COesterase</name>
+        <pfam_id>PF00135</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Carboxylesterase 3
+MERAVRVESGVLVGVVCLLLACPATATGPEVAQPEVDTTLGRVRGRQVGVKGTDRLVNVF
+LGIPFAQPPLGPDRFSAPHPAQPWEGVRDASTAPPMCLQDVESMNSSRFVLNGKQQIFSV
+SEDCLVLNVYSPAEVPAGSGRPVMVWVHGGALITGAATSYDGSALAAYGDVVVVTVQYRL
+GVLGFFSTGDEHAPGNQGFLDVVAALRWVQENIAPFGGDLNCVTVFGGSAGGSIISGLVL
+SPVAAGLFHRAITQSGVITTPGIIDSHPWPLAQKIANTLACSSSSPAEMVQCLQQKEGEE
+LVLSKKLKNTIYPLTVDGTVFPKSPKELLKEKPFHSVPFLMGVNNHEFSWLIPRGWGLLD
+TMEQMSREDMLAISTPVLTSLDVPPEMMPTVIDEYLGSNSDAQAKCQAFQEFMGDVFINV
+PTVSFSRYLRDSGSPVFFYEFQHRPSSFAKIKPAWVKADHGAEGAFVFGGPFLMDESSRL
+AFPEATEEEKQLSLTMMAQWTHFARTGDPNSKALPPWPQFNQAEQYLEINPVPRAGQKFR
+EAWMQFWSETLPSKIQQWHQKQKNRKAQEDL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>37182340</genbank_protein_id>
+  <uniprot_id>Q6UWW8</uniprot_id>
+  <uniprot_name>EST3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AY358609</genbank_gene_id>
+  <genecard_id>CES3</genecard_id>
+  <geneatlas_id>CES3</geneatlas_id>
+  <hgnc_id>HGNC:1865</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sanghani SP, Quinney SK, Fredenburg TB, Davis WI, Murry DJ, Bosron WF: Hydrolysis of irinotecan and its oxidative metabolites, 7-ethyl-10-[4-N-(5-aminopentanoic acid)-1-piperidino] carbonyloxycamptothecin and 7-ethyl-10-[4-(1-piperidino)-1-amino]-carbonyloxycamptothecin, by human carboxylesterases CES1A1, CES2, and a newly expressed carboxylesterase isoenzyme, CES3. Drug Metab Dispos. 2004 May;32(5):505-11.</reference_text>
+      <pubmed_id>15100172</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J, Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D, Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS, Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M, Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J, Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard A, Wood WI, Godowski P, Gray A: The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment. Genome Res. 2003 Oct;13(10):2265-70. Epub 2003 Sep 15.</reference_text>
+      <pubmed_id>12975309</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sanghani SP, Quinney SK, Fredenburg TB, Sun Z, Davis WI, Murry DJ, Cummings OW, Seitz DE, Bosron WF: Carboxylesterases expressed in human colon tumor tissue and their role in CPT-11 hydrolysis. Clin Cancer Res. 2003 Oct 15;9(13):4983-91.</reference_text>
+      <pubmed_id>14581373</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Quinney SK, Sanghani SP, Davis WI, Hurley TD, Sun Z, Murry DJ, Bosron WF: Hydrolysis of capecitabine to 5'-deoxy-5-fluorocytidine by human carboxylesterases and inhibition by loperamide. J Pharmacol Exp Ther. 2005 Jun;313(3):1011-6. Epub 2005 Feb 1.</reference_text>
+      <pubmed_id>15687373</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

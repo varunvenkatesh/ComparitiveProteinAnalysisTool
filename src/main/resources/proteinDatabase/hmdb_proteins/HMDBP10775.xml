@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:37:50 -0700</creation_date>
+  <update_date>2013-01-15 20:37:50 -0700</update_date>
+  <accession>HMDBP10775</accession>
+  <secondary_accessions>
+    <accession>17044</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CXXC-type zinc finger protein 3</synonym>
+    <synonym>Methyl-CpG-binding protein MBD1</synonym>
+    <synonym>Protein containing methyl-CpG-binding domain 1</synonym>
+  </synonyms>
+  <gene_name>MBD1</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Transcriptional repressor that binds CpG islands in promoters where the DNA is methylated at position 5 of cytosine within CpG dinucleotides. Binding is abolished by the presence of 7-mG that is produced by DNA damage by methylmethanesulfonate (MMS). Acts as transcriptional repressor and plays a role in gene silencing by recruiting AFT7IP, which in turn recruits factors such as the histone methyltransferase SETDB1. Probably forms a complex with SETDB1 and ATF7IP that represses transcription and couples DNA methylation and histone 'Lys-9' trimethylation. Isoform 1 and isoform 2 can also repress transcription from unmethylated promoters</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00630</accession>
+      <name>Cytosine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus speckle</subcellular_location>
+    <subcellular_location>Chromosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>18q21</locus>
+    <gene_sequence>&gt;1818 bp
+ATGGCTGAGGACTGGCTGGACTGCCCGGCCCTGGGCCCTGGCTGGAAGCGCCGCGAAGTC
+TTTCGCAAGTCAGGGGCCACCTGTGGACGCTCAGACACCTATTACCAGAGCCCCACAGGA
+GACAGGATCCGAAGCAAAGTTGAGCTGACTCGATACCTGGGCCCTGCGTGTGATCTCACC
+CTCTTCGACTTCAAACAAGGCATCTTGTGCTATCCAGCCCCCAAGGCCCATCCCGTGGCG
+GTTGCCAGCAAGAAGCGAAAGAAGCCTTCAAGGCCAGCCAAGACTCGGAAACGTCAGGTT
+GGACCCCAGAGTGGTGAGGTCAGGAAGGAGGCCCCGAGGGATGAGACCAAGGCTGACACT
+GACACAGCCCCAGCTTCATTCCCTGCTCCTGGGTGCTGTGAGAACTGTGGAATCAGCTTC
+TCAGGGGATGGCACCCAAAGGCAGCGGCTCAAAACGTTGTGCAAAGACTGTCGAGCACAG
+AGAATTGCCTTCAACCGGGAACAGAGAATGTTTAAGCGTGTGGGCTGTGGGGAGTGTGCA
+GCCTGCCAGGTAACAGAAGACTGTGGGGCCTGCTCCACCTGCCTCCTGCAGCTGCCCCAT
+GATGTGGCATCGGGGCTGTTCTGCAAGTGTGAACGGAGACGCTGCCTCCGGATTGTGGAA
+AGGAGCCGAGGGTGTGGAGTATGCCGGGGCTGTCAGACCCAAGAGGATTGTGGCCATTGC
+CCCATCTGCCTTCGCCCTCCCCGCCCTGGTCTCAGGCGCCAGTGGAAATGTGTCCAGCGA
+CGTTGCCTACGGGGTAAACATGCCCGCCGCAAGGGAGGCTGTGACTCCAAGATGGCTGCC
+AGGCGGCGCCCCGGAGCCCAGCCACTGCCTCCACCACCCCCATCACAGTCCCCAGAGCCC
+ACAGAGCCGCACCCCAGAGCCCTGGCCCCCTCGCCACCTGCCGAGTTCATCTATTACTGT
+GTAGACGAGGACGAGCTACAGCCCTACACGAACCGCCGGCAGAACCGCAAGTGCGGGGCC
+TGTGCAGCCTGCCTACGGCGGATGGACTGTGGCCGCTGCGACTTCTGCTGCGACAAGCCC
+AAATTCGGGGGCAGCAACCAGAAGCGCCAGAAGTGTCGTTGGCGCCAATGCCTGCAGTTT
+GCCATGAAGCGGCTGCTGCCCAGTGTCTGGTCAGAGTCTGAGGATGGGGCAGGATCGCCC
+CCACCTTACCGTCGTCGAAAGAGGCCCAGCTCTGCCCGACGGCACCATCTTGGCCCTACC
+TTGAAGCCCACCTTGGCTACACGCACAGCCCAACCAGACCATACCCAGGCTCCAACGAAG
+CAGGAAGCAGGTGGTGGCTTTGTGCTGCCCCCGCCTGGCACTGACCTTGTGTTTTTACGG
+GAAGGCGCAAGCAGTCCTGTGCAGGTGCCGGGCCCTGTTGCAGCTTCCACAGAAGCCCTG
+TTGCAGGAGGCCCAGTGCTCTGGCCTGAGTTGGGTTGTGGCCTTACCCCAGGTGAAGCAA
+GAGAAGGCGGATACCCAGGACGAGTGGACACCAGGCACAGCTGTCCTGACTTCTCCCGTA
+TTGGTGCCTGGCTGCCCTAGCAAGGCAGTAGACCCAGGCCTGCCTTCTGTGAAGCAAGAG
+CCACCTGACCCAGAGGAGGACAAGGAGGAGAACAAGGATGATTCTGCCTCCAAATTGGCC
+CCAGAGGAAGAGGCAGGAGGGGCTGGCACACCCGTGATCACGGAGATTTTCAGCCTGGGT
+GGAACCCGCTTCCGAGATACAGCAGTCTGGTTGCCAAGGTCCAAAGACCTTAAAAAACCT
+GGAGCTAGAAAGCAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>605</residue_number>
+    <molecular_weight>66606.5</molecular_weight>
+    <theoretical_pi>9.25</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MBD</name>
+        <pfam_id>PF01429</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-CXXC</name>
+        <pfam_id>PF02008</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Methyl-CpG-binding domain protein 1
+MAEDWLDCPALGPGWKRREVFRKSGATCGRSDTYYQSPTGDRIRSKVELTRYLGPACDLT
+LFDFKQGILCYPAPKAHPVAVASKKRKKPSRPAKTRKRQVGPQSGEVRKEAPRDETKADT
+DTAPASFPAPGCCENCGISFSGDGTQRQRLKTLCKDCRAQRIAFNREQRMFKRVGCGECA
+ACQVTEDCGACSTCLLQLPHDVASGLFCKCERRRCLRIVERSRGCGVCRGCQTQEDCGHC
+PICLRPPRPGLRRQWKCVQRRCLRGKHARRKGGCDSKMAARRRPGAQPLPPPPPSQSPEP
+TEPHPRALAPSPPAEFIYYCVDEDELQPYTNRRQNRKCGACAACLRRMDCGRCDFCCDKP
+KFGGSNQKRQKCRWRQCLQFAMKRLLPSVWSESEDGAGSPPPYRRRKRPSSARRHHLGPT
+LKPTLATRTAQPDHTQAPTKQEAGGGFVLPPPGTDLVFLREGASSPVQVPGPVAASTEAL
+LQEAQCSGLSWVVALPQVKQEKADTQDEWTPGTAVLTSPVLVPGCPSKAVDPGLPSVKQE
+PPDPEEDKEENKDDSASKLAPEEEAGGAGTPVITEIFSLGGTRFRDTAVWLPRSKDLKKP
+GARKQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>21464117</genbank_protein_id>
+  <uniprot_id>Q9UIS9</uniprot_id>
+  <uniprot_name>MBD1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1IG4</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_015846.3</genbank_gene_id>
+  <genecard_id>MBD1</genecard_id>
+  <geneatlas_id>MBD1</geneatlas_id>
+  <hgnc_id>HGNC:6916</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Cross SH, Meehan RR, Nan X, Bird A: A component of the transcriptional repressor MeCP1 shares a motif with DNA methyltransferase and HRX proteins. Nat Genet. 1997 Jul;16(3):256-9.</reference_text>
+      <pubmed_id>9207790</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hendrich B, Abbott C, McQueen H, Chambers D, Cross S, Bird A: Genomic structure and chromosomal mapping of the murine and human Mbd1, Mbd2, Mbd3, and Mbd4 genes. Mamm Genome. 1999 Sep;10(9):906-12.</reference_text>
+      <pubmed_id>10441743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujita N, Takebayashi S, Okumura K, Kudo S, Chiba T, Saya H, Nakao M: Methylation-mediated transcriptional silencing in euchromatin by methyl-CpG binding protein MBD1 isoforms. Mol Cell Biol. 1999 Sep;19(9):6415-26.</reference_text>
+      <pubmed_id>10454587</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Andersen JB, Strandbygard DJ, Hartmann R, Justesen J: Interaction between the 2'-5' oligoadenylate synthetase-like protein p59 OASL and the transcriptional repressor methyl CpG-binding protein 1. Eur J Biochem. 2004 Feb;271(3):628-36.</reference_text>
+      <pubmed_id>14728690</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hendrich B, Bird A: Identification and characterization of a family of mammalian methyl-CpG binding proteins. Mol Cell Biol. 1998 Nov;18(11):6538-47.</reference_text>
+      <pubmed_id>9774669</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ng HH, Jeppesen P, Bird A: Active repression of methylated genes by the chromosomal protein MBD1.  Mol Cell Biol. 2000 Feb;20(4):1394-406.</reference_text>
+      <pubmed_id>10648624</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujita N, Watanabe S, Ichimura T, Tsuruzoe S, Shinkai Y, Tachibana M, Chiba T, Nakao M: Methyl-CpG binding domain 1 (MBD1) interacts with the Suv39h1-HP1 heterochromatic complex for DNA methylation-based transcriptional repression. J Biol Chem. 2003 Jun 27;278(26):24132-8. Epub 2003 Apr 23.</reference_text>
+      <pubmed_id>12711603</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujita N, Watanabe S, Ichimura T, Ohkuma Y, Chiba T, Saya H, Nakao M: MCAF mediates MBD1-dependent transcriptional repression.  Mol Cell Biol. 2003 Apr;23(8):2834-43.</reference_text>
+      <pubmed_id>12665582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Reese BE, Bachman KE, Baylin SB, Rountree MR: The methyl-CpG binding protein MBD1 interacts with the p150 subunit of chromatin assembly factor 1. Mol Cell Biol. 2003 May;23(9):3226-36.</reference_text>
+      <pubmed_id>12697822</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ghoshal K, Majumder S, Datta J, Motiwala T, Bai S, Sharma SM, Frankel W, Jacob ST: Role of human ribosomal RNA (rRNA) promoter methylation and of methyl-CpG-binding protein MBD2 in the suppression of rRNA gene expression. J Biol Chem. 2004 Feb 20;279(8):6783-93. Epub 2003 Nov 10.</reference_text>
+      <pubmed_id>14610093</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarraf SA, Stancheva I: Methyl-CpG binding protein MBD1 couples histone H3 methylation at lysine 9 by SETDB1 to DNA replication and chromatin assembly. Mol Cell. 2004 Aug 27;15(4):595-605.</reference_text>
+      <pubmed_id>15327775</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ichimura T, Watanabe S, Sakamoto Y, Aoto T, Fujita N, Nakao M: Transcriptional repression and heterochromatin formation by MBD1 and MCAF/AM family proteins. J Biol Chem. 2005 Apr 8;280(14):13928-35. Epub 2005 Feb 2.</reference_text>
+      <pubmed_id>15691849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao WA, Wollscheid B, O'Brien R, Eng JK, Li XJ, Bodenmiller B, Watts JD, Hood L, Aebersold R: Quantitative phosphoproteome analysis using a dendrimer conjugation chemistry and tandem mass spectrometry. Nat Methods. 2005 Aug;2(8):591-8.</reference_text>
+      <pubmed_id>16094384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lyst MJ, Nan X, Stancheva I: Regulation of MBD1-mediated transcriptional repression by SUMO and PIAS proteins. EMBO J. 2006 Nov 15;25(22):5317-28. Epub 2006 Oct 26.</reference_text>
+      <pubmed_id>17066076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uchimura Y, Ichimura T, Uwada J, Tachibana T, Sugahara S, Nakao M, Saitoh H: Involvement of SUMO modification in MBD1- and MCAF1-mediated heterochromatin formation. J Biol Chem. 2006 Aug 11;281(32):23180-90. Epub 2006 Jun 5.</reference_text>
+      <pubmed_id>16757475</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bierne H, Tham TN, Batsche E, Dumay A, Leguillou M, Kerneis-Golsteyn S, Regnault B, Seeler JS, Muchardt C, Feunteun J, Cossart P: Human BAHD1 promotes heterochromatic gene silencing.  Proc Natl Acad Sci U S A. 2009 Aug 18;106(33):13826-31. Epub 2009 Aug 3.</reference_text>
+      <pubmed_id>19666599</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohki I, Shimotake N, Fujita N, Nakao M, Shirakawa M: Solution structure of the methyl-CpG-binding domain of the methylation-dependent transcriptional repressor MBD1. EMBO J. 1999 Dec 1;18(23):6653-61.</reference_text>
+      <pubmed_id>10581239</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Watanabe S, Ichimura T, Fujita N, Tsuruzoe S, Ohki I, Shirakawa M, Kawasuji M, Nakao M: Methylated DNA-binding domain 1 and methylpurine-DNA glycosylase link transcriptional repression and DNA repair in chromatin. Proc Natl Acad Sci U S A. 2003 Oct 28;100(22):12859-64. Epub 2003 Oct 10.</reference_text>
+      <pubmed_id>14555760</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

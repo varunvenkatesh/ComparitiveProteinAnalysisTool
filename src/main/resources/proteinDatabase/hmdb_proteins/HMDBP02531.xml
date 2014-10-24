@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:06:01 -0700</creation_date>
+  <update_date>2013-01-15 19:06:01 -0700</update_date>
+  <accession>HMDBP02531</accession>
+  <secondary_accessions>
+    <accession>8029</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>D(2C) dopamine receptor</synonym>
+    <synonym>Dopamine D4 receptor</synonym>
+  </synonyms>
+  <gene_name>DRD4</gene_name>
+  <general_function>Involved in G-protein coupled receptor protein signaling pathway</general_function>
+  <specific_function>This is one of the five types (D1 to D5) of receptors for dopamine. The activity of this receptor is mediated by G proteins which inhibit adenylyl cyclase</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB05012</accession>
+      <name>Olanzapine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00073</accession>
+      <name>Dopamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14391</accession>
+      <name>Ziprasidone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14393</accession>
+      <name>Cabergoline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14413</accession>
+      <name>Ropinirole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14516</accession>
+      <name>Thiethylperazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14553</accession>
+      <name>Remoxipride</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14557</accession>
+      <name>Pramipexole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13938</accession>
+      <name>Promazine 5-sulfoxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14727</accession>
+      <name>Lisuride</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14852</accession>
+      <name>Apomorphine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14915</accession>
+      <name>Propiomazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15317</accession>
+      <name>Pergolide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15331</accession>
+      <name>Bromocriptine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00181</accession>
+      <name>L-Dopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05042</accession>
+      <name>Aripiprazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15396</accession>
+      <name>Paliperidone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15474</accession>
+      <name>Methotrimeprazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15615</accession>
+      <name>Rotigotine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>g-protein coupled receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>g-protein coupled amine receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dopamine receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell surface receptor linked signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>g-protein coupled receptor protein signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11p15.5</locus>
+    <gene_sequence>&gt;1404 bp
+ATGGGGAACCGCAGCACCGCGGACGCGGACGGGCTGCTGGCTGGGCGCGGGCCGGCCGCG
+GGGGCATCTGCGGGGGCATCTGCGGGGCTGGCTGGGCAGGGCGCGGCGGCGCTGGTGGGG
+GGCGTGCTGCTCATCGGCGCGGTGCTCGCGGGGAACTCGCTCGTGTGCGTGAGCGTGGCC
+ACCGAGCGCGCCCTGCAGACGCCCACCAACTCCTTCATCGTGAGCCTGGCGGCCGCCGAC
+CTCCTCCTCGCTCTCCTGGTGCTGCCGCTCTTCGTCTACTCCGAGGTCCAGGGTGGCGCG
+TGGCTGCTGAGCCCCCGCCTGTGCGACGCCCTCATGGCCATGGACGTCATGCTGTGCACC
+GCCTCCATCTTCAACCTGTGCGCCATCAGCGTGGACAGGTTCGTGGCCGTGGCCGTGCCG
+CTGCGCTACAACCGGCAGGGTGGGAGCCGCCGGCAGCTGCTGCTCATCGGCGCCACGTGG
+CTGCTGTCCGCGGCGGTGGCGGCGCCCGTACTGTGCGGCCTCAACGACGTGCGCGGCCGC
+GACCCCGCCGTGTGCCGCCTGGAGGACCGCGACTACGTGGTCTACTCGTCCGTGTGCTCC
+TTCTTCCTACCCTGCCCGCTCATGCTGCTGCTCTACTGGGCCACGTTCCGCGGCCTGCAG
+CGCTGGGAGGTGGCACGTCGCGCCAAGCTGCACGGCCGCGCGCCCCGCCGACCCAGCGGC
+CCTGGCCCGCCTTCCCCCACGCCACCCGCGCCCCGCCTCCCCCAGGACCCCTGCGGCCCC
+GACTGTGCGCCCCCCGCGCCCGGCCTTCCCCGGGGTCCCTGCGGCCCCGACTGTGCGCCC
+GCCGCGCCCGGCCTCCCCCCGGACCCCTGCGGCCCCGACTGTGCGCCCCCCGCGCCCGGC
+CTCCCCCAGGACCCCTGCGGCCCCGACTGTGCGCCCCCCGCGCCCGGCCTTCCCCGGGGT
+CCCTGCGGCCCCGACTGTGCGCCCCCCGCGCCCGGCCTCCCCCAGGACCCCTGCGGCCCC
+GACTGTGCGCCCCCCGCGCCCGGCCTCCCCCCGGACCCCTGCGGCTCCAACTGTGCTCCC
+CCCGACGCCGTCAGAGCCGCCGCGCTCCCACCCCAGACTCCACCGCAGACCCGCAGGAGG
+CGGCGTGCCAAGATCACCGGCCGGGAGCGCAAGGCCATGAGGGTCCTGCCGGTGGTGGTC
+GGGGCCTTCCTGCTGTGCTGGACGCCCTTCTTCGTGGTGCACATCACGCAGGCGCTGTGT
+CCTGCCTGCTCCGTGCCCCCGCGGCTGGTCAGCGCCGTCACCTGGCTGGGCTACGTCAAC
+AGCGCCCTCAACCCCGTCATCTACACTGTCTTCAACGCCGAGTTCCGCAACGTCTTCCGC
+AAGGCCCTGCGTGCCTGCTGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>467</residue_number>
+    <molecular_weight>48359.9</molecular_weight>
+    <theoretical_pi>8.37</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>7tm_1</name>
+        <pfam_id>PF00001</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>38-60</region>
+      <region>71-93</region>
+      <region>110-131</region>
+      <region>152-175</region>
+      <region>192-213</region>
+      <region>395-417</region>
+      <region>427-449</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;D(4) dopamine receptor
+MGNRSTADADGLLAGRGPAAGASAGASAGLAGQGAAALVGGVLLIGAVLAGNSLVCVSVA
+TERALQTPTNSFIVSLAAADLLLALLVLPLFVYSEVQGGAWLLSPRLCDALMAMDVMLCT
+ASIFNLCAISVDRFVAVAVPLRYNRQGGSRRQLLLIGATWLLSAAVAAPVLCGLNDVRGR
+DPAVCRLEDRDYVVYSSVCSFFLPCPLMLLLYWATFRGLQRWEVARRAKLHGRAPRRPSG
+PGPPSPTPPAPRLPQDPCGPDCAPPAPGLPRGPCGPDCAPAAPGLPPDPCGPDCAPPAPG
+LPQDPCGPDCAPPAPGLPRGPCGPDCAPPAPGLPQDPCGPDCAPPAPGLPPDPCGSNCAP
+PDAVRAAALPPQTPPQTRRRRRAKITGRERKAMRVLPVVVGAFLLCWTPFFVVHITQALC
+PACSVPPRLVSAVTWLGYVNSALNPVIYTVFNAEFRNVFRKALRACC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>291946</genbank_protein_id>
+  <uniprot_id>P21917</uniprot_id>
+  <uniprot_name>DRD4_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>L12398</genbank_gene_id>
+  <genecard_id>DRD4</genecard_id>
+  <geneatlas_id>DRD4</geneatlas_id>
+  <hgnc_id>HGNC:3025</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Van Tol HH, Wu CM, Guan HC, Ohara K, Bunzow JR, Civelli O, Kennedy J, Seeman P, Niznik HB, Jovanovic V: Multiple dopamine D4 receptor variants in the human population.  Nature. 1992 Jul 9;358(6382):149-52.</reference_text>
+      <pubmed_id>1319557</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Van Tol HH, Bunzow JR, Guan HC, Sunahara RK, Seeman P, Niznik HB, Civelli O: Cloning of the gene for a human dopamine D4 receptor with high affinity for the antipsychotic clozapine. Nature. 1991 Apr 18;350(6319):610-4.</reference_text>
+      <pubmed_id>1840645</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lichter JB, Barr CL, Kennedy JL, Van Tol HH, Kidd KK, Livak KJ: A hypervariable segment in the human dopamine receptor D4 (DRD4) gene.  Hum Mol Genet. 1993 Jun;2(6):767-73.</reference_text>
+      <pubmed_id>8353495</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Asghari V, Schoots O, van Kats S, Ohara K, Jovanovic V, Guan HC, Bunzow JR, Petronis A, Van Tol HH: Dopamine D4 receptor repeat: analysis of different native and mutant forms of the human and rat genes. Mol Pharmacol. 1994 Aug;46(2):364-73.</reference_text>
+      <pubmed_id>8078498</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Whistler JL, Enquist J, Marley A, Fong J, Gladher F, Tsuruda P, Murray SR, Von Zastrow M: Modulation of postendocytic sorting of G protein-coupled receptors.  Science. 2002 Jul 26;297(5581):615-20.</reference_text>
+      <pubmed_id>12142540</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Livingstone CD, Strange PG, Naylor LH: Molecular modelling of D2-like dopamine receptors.  Biochem J. 1992 Oct 1;287 ( Pt 1):277-82.</reference_text>
+      <pubmed_id>1358063</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seeman P, Ulpian C, Chouinard G, Van Tol HH, Dwosh H, Lieberman JA, Siminovitch K, Liu IS, Waye J, Voruganti P, et al.: Dopamine D4 receptor variant, D4GLYCINE194, in Africans, but not in Caucasians: no association with schizophrenia. Am J Med Genet. 1994 Dec 15;54(4):384-90.</reference_text>
+      <pubmed_id>7726213</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ostadali MR, Ahangari G, Eslami MB, Razavi A, Zarrindast MR, Ahmadkhaniha HR, Boulhari J: The Detection of Dopamine Gene Receptors (DRD1-DRD5) Expression on Human Peripheral Blood Lymphocytes by Real Time PCR. Iran J Allergy Asthma Immunol. 2004 Dec;3(4):169-74.</reference_text>
+        <pubmed_id>17301410</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ziprasidone</name>
+        <accession>HMDB14391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ziprasidone</name>
+        <accession>HMDB14391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cabergoline</name>
+        <accession>HMDB14393</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cabergoline</name>
+        <accession>HMDB14393</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Newman-Tancredi A, Cussac D, Audinot V, Nicolas JP, De Ceuninck F, Boutin JA, Millan MJ: Differential actions of antiparkinson agents at multiple classes of monoaminergic receptor. II. Agonist and antagonist properties at subtypes of dopamine D(2)-like receptor and alpha(1)/alpha(2)-adrenoceptor. J Pharmacol Exp Ther. 2002 Nov;303(2):805-14.</reference_text>
+        <pubmed_id>12388667</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ropinirole</name>
+        <accession>HMDB14413</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ropinirole</name>
+        <accession>HMDB14413</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiethylperazine</name>
+        <accession>HMDB14516</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiethylperazine</name>
+        <accession>HMDB14516</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Remoxipride</name>
+        <accession>HMDB14553</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Seeman P, Corbett R, Van Tol HH: Atypical neuroleptics have low affinity for dopamine D2 receptors or are selective for D4 receptors. Neuropsychopharmacology. 1997 Feb;16(2):93-110; discussion 111-35.</reference_text>
+        <pubmed_id>9015795</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pramipexole</name>
+        <accession>HMDB14557</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pramipexole</name>
+        <accession>HMDB14557</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Promazine 5-sulfoxide</name>
+        <accession>HMDB13938</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Promazine 5-sulfoxide</name>
+        <accession>HMDB13938</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lisuride</name>
+        <accession>HMDB14727</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Boeckler F, Russig H, Zhang W, Lober S, Schetz J, Hubner H, Ferger B, Gmeiner P, Feldon J: FAUC 213, a highly selective dopamine D4 receptor full antagonist, exhibits atypical antipsychotic properties in behavioural and neurochemical models of schizophrenia. Psychopharmacology (Berl). 2004 Aug;175(1):7-17. Epub 2004 Mar 6.</reference_text>
+        <pubmed_id>15007532</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mansbach RS, Brooks EW, Sanner MA, Zorn SH: Selective dopamine D4 receptor antagonists reverse apomorphine-induced blockade of prepulse inhibition. Psychopharmacology (Berl). 1998 Jan;135(2):194-200.</reference_text>
+        <pubmed_id>9497025</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Melis MR, Succu S, Sanna F, Melis T, Mascia MS, Enguehard-Gueiffier C, Hubner H, Gmeiner P, Gueiffier A, Argiolas A: PIP3EA and PD-168077, two selective dopamine D4 receptor agonists, induce penile erection in male rats: site and mechanism of action in the brain. Eur J Neurosci. 2006 Oct;24(7):2021-30.</reference_text>
+        <pubmed_id>17067298</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sanner MA, Chappie TA, Dunaiskis AR, Fliri AF, Desai KA, Zorn SH, Jackson ER, Johnson CG, Morrone JM, Seymour PA, Majchrzak MJ, Faraci WS, Collins JL, Duignan DB, Prete Di CC, Lee JS, Trozzi A: Synthesis, SAR and pharmacology of CP-293,019: a potent, selective dopamine D4 receptor antagonist. Bioorg Med Chem Lett. 1998 Apr 7;8(7):725-30.</reference_text>
+        <pubmed_id>9871530</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Apomorphine</name>
+        <accession>HMDB14852</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Succu S, Sanna F, Melis T, Boi A, Argiolas A, Melis MR: Stimulation of dopamine receptors in the paraventricular nucleus of the hypothalamus of male rats induces penile erection and increases extra-cellular dopamine in the nucleus accumbens: Involvement of central oxytocin. Neuropharmacology. 2007 Mar;52(3):1034-43. Epub 2006 Dec 11.</reference_text>
+        <pubmed_id>17164075</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propiomazine</name>
+        <accession>HMDB14915</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propiomazine</name>
+        <accession>HMDB14915</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pergolide</name>
+        <accession>HMDB15317</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bromocriptine</name>
+        <accession>HMDB15331</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Dopa</name>
+        <accession>HMDB00181</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Onofrj M, Bonanni L, Thomas A: An expert opinion on safinamide in Parkinson's disease.  Expert Opin Investig Drugs. 2008 Jul;17(7):1115-25.</reference_text>
+        <pubmed_id>18549347</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Dopa</name>
+        <accession>HMDB00181</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Deleu D, Northway MG, Hanssens Y: Clinical pharmacokinetic and pharmacodynamic properties of drugs used in the treatment of Parkinson's disease. Clin Pharmacokinet. 2002;41(4):261-309.</reference_text>
+        <pubmed_id>11978145</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Dopa</name>
+        <accession>HMDB00181</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Koller WC, Rueda MG: Mechanism of action of dopaminergic agents in Parkinson's disease.  Neurology. 1998 Jun;50(6 Suppl 6):S11-4; discussion S44-8.</reference_text>
+        <pubmed_id>9633680</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aripiprazole</name>
+        <accession>HMDB05042</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nasrallah HA: Atypical antipsychotic-induced metabolic side effects: insights from receptor-binding profiles. Mol Psychiatry. 2008 Jan;13(1):27-35. Epub 2007 Sep 11.</reference_text>
+        <pubmed_id>17848919</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Paliperidone</name>
+        <accession>HMDB15396</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leysen JE, Janssen PM, Megens AA, Schotte A: Risperidone: a novel antipsychotic with balanced serotonin-dopamine antagonism, receptor occupancy profile, and pharmacologic activity. J Clin Psychiatry. 1994 May;55 Suppl:5-12.</reference_text>
+        <pubmed_id>7520908</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Paliperidone</name>
+        <accession>HMDB15396</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Megens AA, Awouters FH, Schotte A, Meert TF, Dugovic C, Niemegeers CJ, Leysen JE: Survey on the pharmacodynamics of the new antipsychotic risperidone.  Psychopharmacology (Berl). 1994 Feb;114(1):9-23.</reference_text>
+        <pubmed_id>7531353</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methotrimeprazine</name>
+        <accession>HMDB15474</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Green B, Pettit T, Faith L, Seaton K: Focus on levomepromazine.  Curr Med Res Opin. 2004 Dec;20(12):1877-81.</reference_text>
+        <pubmed_id>15701205</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rotigotine</name>
+        <accession>HMDB15615</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

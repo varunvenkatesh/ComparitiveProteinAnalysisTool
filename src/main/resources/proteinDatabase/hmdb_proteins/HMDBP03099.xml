@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:10:28 -0700</creation_date>
+  <update_date>2013-04-11 14:44:54 -0600</update_date>
+  <accession>HMDBP03099</accession>
+  <secondary_accessions>
+    <accession>8636</accession>
+    <accession>HMDBP06849</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Na-Cl symporter</synonym>
+    <synonym>Thiazide-sensitive sodium-chloride cotransporter</synonym>
+  </synonyms>
+  <gene_name>SLC12A3</gene_name>
+  <general_function>Involved in transport</general_function>
+  <specific_function>Electrically silent transporter system. Mediates sodium and chloride reabsorption</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01928</accession>
+      <name>Hydrochlorothiazide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14580</accession>
+      <name>Bendroflumethiazide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14665</accession>
+      <name>Metolazone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14702</accession>
+      <name>Benzthiazide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15018</accession>
+      <name>Chlorothiazide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15251</accession>
+      <name>Diazoxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15419</accession>
+      <name>Polythiazide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15420</accession>
+      <name>Quinethazone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>anion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>anion:cation symporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation:chloride symporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>inorganic anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chloride transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sodium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16q13</locus>
+    <gene_sequence>&gt;3066 bp
+ATGGCAGAACTGCCCACAACAGAGACGCCTGGGGACGCCACTTTGTGCAGCGGGCGCTTC
+ACCATCAGCACACTGCTGAGCAGTGATGAGCCCTCTCCACCAGCTGCCTATGACAGCAGC
+CACCCCAGCCACCTGACCCACAGCAGCACCTTCTGCATGCGCACCTTTGGCTACAACACG
+ATCGATGTGGTGCCCACATATGAGCACTATGCCAACAGCACCCAGCCTGGTGAGCCCCGG
+AAGGTCCGGCCCACACTGGCTGACCTGCACTCCTTCCTCAAGCAGGAAGGCAGACACCTG
+CATGCCCTGGCCTTTGACAGCCGGCCCAGCCACGAGATGACTGATGGGCTGGTGGAGGGC
+GAGGCAGGCACCAGCAGCGAGAAGAACCCCGAGGAGCCAGTGCGCTTCGGCTGGGTCAAG
+GGGGTGATGATTCGTTGCATGCTCAACATTTGGGGCGTGATCCTCTACCTGCGGCTGCCC
+TGGATTACGGCCCAGGCAGGCATCGTCCTGACCTGGATCATCATCCTGCTGTCGGTCACG
+GTGACCTCCATCACAGGCCTCTCCATCTCAGCCATCTCCACCAATGGCAAGGTCAAGTCA
+GGTGGCACCTACTTCCTCATCTCCCGGAGTCTGGGCCCAGAGCTTGGGGGCTCCATCGGC
+CTCATTTTCGCTTTCGCCAATGCCGTGGGTGTGGCCATGCACACGGTGGGCTTTGCAGAG
+ACCGTGCGGGACCTGCTCCAGGAGTATGGGGCACCCATCGTGGACCCCATTAACGACATC
+CGCATCATTGGCGTGGTCTCGGTCACTGTGCTGCTGGCCATCTCCCTGGCTGGCATGGAG
+TGGGAGTCCAAGGCCCAGGTGCTGTTCTTCCTTGTCATCATGGTCTCCTTTGCCAACTAT
+TTAGTGGGGACGCTGATCCCCCCATCTGAGGACAAGGCCTCCAAAGGCTTCTTCAGCTAC
+CGGGCGGACATTTTTGTCCAGAACTTGGTGCCTGACTGGCGGGGTCCAGATGGCACCTTC
+TTCGGAATGTTCTCCATCTTCTTCCCCTCGGCCACAGGCATCCTGGCAGGGGCCAACATA
+TCTGGTGACCTCAAGGACCCTGCTATAGCCATCCCCAAGGGGACCCTCATGGCCATTTTC
+TGGACGACCATTTCCTACCTGGCCATCTCAGCCACCATTGGCTCCTGCGTGGTGCGTGAT
+GCCTCTGGGGTCCTGAATGACACAGTGACCCCTGGCTGGGGTGCCTGCGAGGGGCTGGCC
+TGCAGCTATGGCTGGAACTTCACCGAGTGCACCCAGCAGCACAGCTGCCACTACGGCCTC
+ATCAACTATTACCAGACCATGAGCATGGTGTCAGGCTTCGCGCCCCTGATCACGGCTGGC
+ATCTTCGGGGCCACCCTCTCCTCTGCCCTGGCCTGCCTTGTCTCTGCTGCCAAAGTCTTC
+CAGTGCCTTTGCGAGGACCAGCTGTACCCACTGATCGGCTTCTTCGGCAAAGGCTATGGC
+AAGAACAAGGAGCCCGTGCGTGGCTACCTGCTGGCCTACGCCATCGCTGTGGCCTTCATC
+ATCATCGCTGAGCTCAACACCATAGCCCCCATCATTTCCAACTTCTTCCTCTGCTCCTAT
+GCCCTCATCAACTTCAGCTGCTTCCACGCCTCCATCACCAACTCGCCTGGGTGGAGACCT
+TCATTCCAATACTACAACAAGTGGGCGGCGCTGTTTGGGGCTATCATCTCCGTGGTCATC
+ATGTTCCTCCTCACCTGGTGGGCGGCCCTCATCGCCATTGGCGTGGTGCTCTTCCTCCTG
+CTCTATGTCATCTACAAGAAGCCAGAGGTAAATTGGGGCTCCTCGGTACAGGCTGGCTCC
+TACAACCTGGCCCTCAGCTACTCGGTGGGCCTCAATGAGGTGGAAGACCACATCAAGAAC
+TACCGCCCCCAGTGCCTGGTGCTCACGGGGCCCCCCAACTTCCGCCCGGCCCTGGTGGAC
+TTTGTGGGCACCTTCACCCGGAACCTCAGCCTGATGATCTGTGGCCACGTGCTCATCGGA
+CCCCACAAGCAGAGGATGCCTGAGCTCCAGCTCATCGCCAACGGGCACACCAAGTGGCTG
+AACAAGAGGAAGATCAAGGCCTTCTACTCGGATGTCATTGCCGAGGACCTCCGCAGAGGC
+GTCCAGATCCTCATGCAGGCCGCAGGTCTCGGGAGAATGAAGCCCAACATTCTGGTGGTT
+GGGTTCAAGAAGAACTGGCAGTCGGCTCACCCGGCCACAGTGGAAGACTACATTGGCATC
+CTCCATGATGCCTTTGATTTCAACTATGGCGTGTGTGTCATGAGGATGCGGGAGGGACTC
+AACGTGTCCAAGATGATGCAGGCGCACATTAACCCCGTGTTTGACCCAGCGGAGGACGGG
+AAGGAAGCCAGCGCCAGAGTGGACCCCAAGGCCCTGGTGAAGGAGGAGCAGGCCACCACC
+ATCTTCCAGTCGGAGCAGGGCAAGAAGACCATAGACATCTACTGGCTCTTTGACGATGGA
+GGCCTCACCCTCCTCATTCCCTATCTCCTTGGCCGCAAGAGGAGGTGGAGCAAATGCAAG
+ATCCGTGTGTTCGTAGGCGGCCAGATTAACAGGATGGACCAGGAGAGAAAGGCGATCATT
+TCTCTGCTGAGCAAGTTCCGACTGGGATTCCATGAAGTCCACATCCTCCCTGACATCAAC
+CAGAACCCTCGGGCTGAGCACACCAAGAGGTTTGAGGACATGATTGCACCCTTCCGTCTG
+AATGATGGCTTCAAGGATGAGGCCACTGTCAACGAGATGCGGCGGGACTGCCCCTGGAAG
+ATCTCAGATGAGGAGATTACGAAGAACAGAGTCAAGTCCCTTCGGCAGGTGAGGCTGAAT
+GAGATTGTGCTGGATTACTCCCGAGACGCTGCTCTCATCGTCATCACTTTGCCCATAGGG
+AGGAAGGGGAAGTGCCCCAGCTCGCTGTACATGGCCTGGCTGGAGACCCTGTCCCAGGAC
+CTCAGACCTCCAGTCATCCTGATCCGAGGAAACCAGGAAAACGTGCTCACCTTTTACTGC
+CAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1021</residue_number>
+    <molecular_weight>113124.0</molecular_weight>
+    <theoretical_pi>7.94</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AA_permease</name>
+        <pfam_id>PF00324</pfam_id>
+      </pfam>
+      <pfam>
+        <name>AA_permease_N</name>
+        <pfam_id>PF08403</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>136-156</region>
+      <region>159-179</region>
+      <region>219-239</region>
+      <region>262-282</region>
+      <region>287-307</region>
+      <region>340-360</region>
+      <region>378-398</region>
+      <region>453-473</region>
+      <region>512-532</region>
+      <region>535-555</region>
+      <region>578-598</region>
+      <region>661-681</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Solute carrier family 12 member 3
+MAELPTTETPGDATLCSGRFTISTLLSSDEPSPPAAYDSSHPSHLTHSSTFCMRTFGYNT
+IDVVPTYEHYANSTQPGEPRKVRPTLADLHSFLKQEGRHLHALAFDSRPSHEMTDGLVEG
+EAGTSSEKNPEEPVRFGWVKGVMIRCMLNIWGVILYLRLPWITAQAGIVLTWIIILLSVT
+VTSITGLSISAISTNGKVKSGGTYFLISRSLGPELGGSIGLIFAFANAVGVAMHTVGFAE
+TVRDLLQEYGAPIVDPINDIRIIGVVSVTVLLAISLAGMEWESKAQVLFFLVIMVSFANY
+LVGTLIPPSEDKASKGFFSYRADIFVQNLVPDWRGPDGTFFGMFSIFFPSATGILAGANI
+SGDLKDPAIAIPKGTLMAIFWTTISYLAISATIGSCVVRDASGVLNDTVTPGWGACEGLA
+CSYGWNFTECTQQHSCHYGLINYYQTMSMVSGFAPLITAGIFGATLSSALACLVSAAKVF
+QCLCEDQLYPLIGFFGKGYGKNKEPVRGYLLAYAIAVAFIIIAELNTIAPIISNFFLCSY
+ALINFSCFHASITNSPGWRPSFQYYNKWAALFGAIISVVIMFLLTWWAALIAIGVVLFLL
+LYVIYKKPEVNWGSSVQAGSYNLALSYSVGLNEVEDHIKNYRPQCLVLTGPPNFRPALVD
+FVGTFTRNLSLMICGHVLIGPHKQRMPELQLIANGHTKWLNKRKIKAFYSDVIAEDLRRG
+VQILMQAAGLGRMKPNILVVGFKKNWQSAHPATVEDYIGILHDAFDFNYGVCVMRMREGL
+NVSKMMQAHINPVFDPAEDGKEASARVDPKALVKEEQATTIFQSEQGKKTIDIYWLFDDG
+GLTLLIPYLLGRKRRWSKCKIRVFVGGQINRMDQERKAIISLLSKFRLGFHEVHILPDIN
+QNPRAEHTKRFEDMIAPFRLNDGFKDEATVNEMRRDCPWKISDEEITKNRVKSLRQVRLN
+EIVLDYSRDAALIVITLPIGRKGKCPSSLYMAWLETLSQDLRPPVILIRGNQENVLTFYC
+Q</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>186910319</genbank_protein_id>
+  <uniprot_id>P55017</uniprot_id>
+  <uniprot_name>S12A3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001126108.1</genbank_gene_id>
+  <genecard_id>SLC12A3</genecard_id>
+  <geneatlas_id>SLC12A3</geneatlas_id>
+  <hgnc_id>HGNC:10912</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Simon DB, Nelson-Williams C, Bia MJ, Ellison D, Karet FE, Molina AM, Vaara I, Iwata F, Cushner HM, Koolen M, Gainza FJ, Gitleman HJ, Lifton RP: Gitelman's variant of Bartter's syndrome, inherited hypokalaemic alkalosis, is caused by mutations in the thiazide-sensitive Na-Cl cotransporter. Nat Genet. 1996 Jan;12(1):24-30.</reference_text>
+      <pubmed_id>8528245</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mastroianni N, De Fusco M, Zollo M, Arrigo G, Zuffardi O, Bettinelli A, Ballabio A, Casari G: Molecular cloning, expression pattern, and chromosomal localization of the human Na-Cl thiazide-sensitive cotransporter (SLC12A3). Genomics. 1996 Aug 1;35(3):486-93.</reference_text>
+      <pubmed_id>8812482</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martin J, Han C, Gordon LA, Terry A, Prabhakar S, She X, Xie G, Hellsten U, Chan YM, Altherr M, Couronne O, Aerts A, Bajorek E, Black S, Blumer H, Branscomb E, Brown NC, Bruno WJ, Buckingham JM, Callen DF, Campbell CS, Campbell ML, Campbell EW, Caoile C, Challacombe JF, Chasteen LA, Chertkov O, Chi HC, Christensen M, Clark LM, Cohn JD, Denys M, Detter JC, Dickson M, Dimitrijevic-Bussod M, Escobar J, Fawcett JJ, Flowers D, Fotopulos D, Glavina T, Gomez M, Gonzales E, Goodstein D, Goodwin LA, Grady DL, Grigoriev I, Groza M, Hammon N, Hawkins T, Haydu L, Hildebrand CE, Huang W, Israni S, Jett J, Jewett PB, Kadner K, Kimball H, Kobayashi A, Krawczyk MC, Leyba T, Longmire JL, Lopez F, Lou Y, Lowry S, Ludeman T, Manohar CF, Mark GA, McMurray KL, Meincke LJ, Morgan J, Moyzis RK, Mundt MO, Munk AC, Nandkeshwar RD, Pitluck S, Pollard M, Predki P, Parson-Quintana B, Ramirez L, Rash S, Retterer J, Ricke DO, Robinson DL, Rodriguez A, Salamov A, Saunders EH, Scott D, Shough T, Stallings RL, Stalvey M, Sutherland RD, Tapia R, Tesmer JG, Thayer N, Thompson LS, Tice H, Torney DC, Tran-Gyamfi M, Tsai M, Ulanovsky LE, Ustaszewska A, Vo N, White PS, Williams AL, Wills PL, Wu JR, Wu K, Yang J, Dejong P, Bruce D, Doggett NA, Deaven L, Schmutz J, Grimwood J, Richardson P, Rokhsar DS, Eichler EE, Gilna P, Lucas SM, Myers RM, Rubin EM, Pennacchio LA: The sequence and analysis of duplication-rich human chromosome 16.  Nature. 2004 Dec 23;432(7020):988-94.</reference_text>
+      <pubmed_id>15616553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mastroianni N, Bettinelli A, Bianchetti M, Colussi G, De Fusco M, Sereni F, Ballabio A, Casari G: Novel molecular variants of the Na-Cl cotransporter gene are responsible for Gitelman syndrome. Am J Hum Genet. 1996 Nov;59(5):1019-26.</reference_text>
+      <pubmed_id>8900229</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeuchi K, Kure S, Kato T, Taniyama Y, Takahashi N, Ikeda Y, Abe T, Narisawa K, Muramatsu Y, Abe K: Association of a mutation in thiazide-sensitive Na-Cl cotransporter with familial Gitelman's syndrome. J Clin Endocrinol Metab. 1996 Dec;81(12):4496-9.</reference_text>
+      <pubmed_id>8954067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lemmink HH, Knoers NV, Karolyi L, van Dijk H, Niaudet P, Antignac C, Guay-Woodford LM, Goodyer PR, Carel JC, Hermes A, Seyberth HW, Monnens LA, van den Heuvel LP: Novel mutations in the thiazide-sensitive NaCl cotransporter gene in patients with Gitelman syndrome with predominant localization to the C-terminal domain. Kidney Int. 1998 Sep;54(3):720-30.</reference_text>
+      <pubmed_id>9734597</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Melander O, Orho-Melander M, Bengtsson K, Lindblad U, Rastam L, Groop L, Hulthen UL: Genetic variants of thiazide-sensitive NaCl-cotransporter in Gitelman's syndrome and primary hypertension. Hypertension. 2000 Sep;36(3):389-94.</reference_text>
+      <pubmed_id>10988270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Monkawa T, Kurihara I, Kobayashi K, Hayashi M, Saruta T: Novel mutations in thiazide-sensitive Na-Cl cotransporter gene of patients with Gitelman's syndrome. J Am Soc Nephrol. 2000 Jan;11(1):65-70.</reference_text>
+      <pubmed_id>10616841</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cruz DN, Shaer AJ, Bia MJ, Lifton RP, Simon DB: Gitelman's syndrome revisited: an evaluation of symptoms and health-related quality of life. Kidney Int. 2001 Feb;59(2):710-7.</reference_text>
+      <pubmed_id>11168953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pantanetti P, Arnaldi G, Balercia G, Mantero F, Giacchetti G: Severe hypomagnesaemia-induced hypocalcaemia in a patient with Gitelman's syndrome. Clin Endocrinol (Oxf). 2002 Mar;56(3):413-8.</reference_text>
+      <pubmed_id>11940055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tajima T, Kobayashi Y, Abe S, Takahashi M, Konno M, Nakae J, Okuhara K, Satoh K, Ishikawa T, Imai T, Fujieda K: Two novel mutations of thiazide-sensitive Na-Cl cotrans porter (TSC) gene in two sporadic Japanese patients with Gitelman syndrome. Endocr J. 2002 Feb;49(1):91-6.</reference_text>
+      <pubmed_id>12008755</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Syren ML, Tedeschi S, Cesareo L, Bellantuono R, Colussi G, Procaccio M, Ali A, Domenici R, Malberti F, Sprocati M, Sacco M, Miglietti N, Edefonti A, Sereni F, Casari G, Coviello DA, Bettinelli A: Identification of fifteen novel mutations in the SLC12A3 gene encoding the Na-Cl Co-transporter in Italian patients with Gitelman syndrome. Hum Mutat. 2002 Jul;20(1):78.</reference_text>
+      <pubmed_id>12112667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maki N, Komatsuda A, Wakui H, Ohtani H, Kigawa A, Aiba N, Hamai K, Motegi M, Yamaguchi A, Imai H, Sawada K: Four novel mutations in the thiazide-sensitive Na-Cl co-transporter gene in Japanese patients with Gitelman's syndrome. Nephrol Dial Transplant. 2004 Jul;19(7):1761-6. Epub 2004 Apr 6.</reference_text>
+      <pubmed_id>15069170</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin SH, Shiang JC, Huang CC, Yang SS, Hsu YJ, Cheng CJ: Phenotype and genotype analysis in Chinese patients with Gitelman's syndrome. J Clin Endocrinol Metab. 2005 May;90(5):2500-7. Epub 2005 Feb 1.</reference_text>
+      <pubmed_id>15687331</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Terui K, Shoji M, Yamashiki J, Hirai Y, Ishiguro A, Tsutaya S, Kageyama K, Yasujima M, Suda T: A novel mutation of the thiazide-sensitive sodium chloride cotransporter gene in a Japanese family with Gitelman syndrome. Clin Nephrol. 2006 Jan;65(1):57-60.</reference_text>
+      <pubmed_id>16429844</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fava C, Montagnana M, Rosberg L, Burri P, Jonsson A, Wanby P, Wahrenberg H, Hulthen UL, Aurell M, Guidi GC, Melander O: Novel mutations in the SLC12A3 gene causing Gitelman's syndrome in Swedes.  DNA Seq. 2007 Oct;18(5):395-9.</reference_text>
+      <pubmed_id>17654016</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aoi N, Nakayama T, Tahira Y, Haketa A, Yabuki M, Sekiyama T, Nakane C, Mano H, Kawachi H, Sato N, Soma M, Matsumoto K: Two novel genotypes of the thiazide-sensitive Na-Cl cotransporter (SLC12A3) gene in patients with Gitelman's syndrome. Endocrine. 2007 Apr;31(2):149-53.</reference_text>
+      <pubmed_id>17873326</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Keszei AP, Tisler A, Backx PH, Andrulis IL, Bull SB, Logan AG: Molecular variants of the thiazide-sensitive Na+-Cl- cotransporter in hypertensive families. J Hypertens. 2007 Oct;25(10):2074-81.</reference_text>
+      <pubmed_id>17885550</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bendroflumethiazide</name>
+        <accession>HMDB14580</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bendroflumethiazide</name>
+        <accession>HMDB14580</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Monroy A, Plata C, Hebert SC, Gamba G: Characterization of the thiazide-sensitive Na(+)-Cl(-) cotransporter: a new model for ions and diuretics interaction. Am J Physiol Renal Physiol. 2000 Jul;279(1):F161-9.</reference_text>
+        <pubmed_id>10894798</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bendroflumethiazide</name>
+        <accession>HMDB14580</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vallon V, Rieg T, Ahn SY, Wu W, Eraly SA, Nigam SK: Overlapping in vitro and in vivo specificities of the organic anion transporters OAT1 and OAT3 for loop and thiazide diuretics. Am J Physiol Renal Physiol. 2008 Apr;294(4):F867-73. Epub 2008 Jan 23.</reference_text>
+        <pubmed_id>18216144</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metolazone</name>
+        <accession>HMDB14665</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzthiazide</name>
+        <accession>HMDB14702</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benzthiazide</name>
+        <accession>HMDB14702</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorothiazide</name>
+        <accession>HMDB15018</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Thakker RV: Molecular pathology of renal chloride channels in Dent's disease and Bartter's syndrome. Exp Nephrol. 2000 Nov-Dec;8(6):351-60.</reference_text>
+        <pubmed_id>11014932</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorothiazide</name>
+        <accession>HMDB15018</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schmidt H, Kabesch M, Schwarz HP, Kiess W: Clinical, biochemical and molecular genetic data in five children with Gitelman's syndrome. Horm Metab Res. 2001 Jun;33(6):354-7.</reference_text>
+        <pubmed_id>11456284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorothiazide</name>
+        <accession>HMDB15018</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wilson FH, Kahle KT, Sabath E, Lalioti MD, Rapson AK, Hoover RS, Hebert SC, Gamba G, Lifton RP: Molecular pathogenesis of inherited hypertension with hyperkalemia: the Na-Cl cotransporter is inhibited by wild-type but not mutant WNK4. Proc Natl Acad Sci U S A. 2003 Jan 21;100(2):680-4. Epub 2003 Jan 6.</reference_text>
+        <pubmed_id>12515852</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorothiazide</name>
+        <accession>HMDB15018</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Maki N, Komatsuda A, Wakui H, Ohtani H, Kigawa A, Aiba N, Hamai K, Motegi M, Yamaguchi A, Imai H, Sawada K: Four novel mutations in the thiazide-sensitive Na-Cl co-transporter gene in Japanese patients with Gitelman's syndrome. Nephrol Dial Transplant. 2004 Jul;19(7):1761-6. Epub 2004 Apr 6.</reference_text>
+        <pubmed_id>15069170</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorothiazide</name>
+        <accession>HMDB15018</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Reinalter SC, Jeck N, Peters M, Seyberth HW: Pharmacotyping of hypokalaemic salt-losing tubular disorders.  Acta Physiol Scand. 2004 Aug;181(4):513-21.</reference_text>
+        <pubmed_id>15283765</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Polythiazide</name>
+        <accession>HMDB15419</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Polythiazide</name>
+        <accession>HMDB15419</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Monroy A, Plata C, Hebert SC, Gamba G: Characterization of the thiazide-sensitive Na(+)-Cl(-) cotransporter: a new model for ions and diuretics interaction. Am J Physiol Renal Physiol. 2000 Jul;279(1):F161-9.</reference_text>
+        <pubmed_id>10894798</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Polythiazide</name>
+        <accession>HMDB15419</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Frindt G, McNair T, Dahlmann A, Jacobs-Palmer E, Palmer LG: Epithelial Na channels and short-term renal response to salt deprivation.  Am J Physiol Renal Physiol. 2002 Oct;283(4):F717-26.</reference_text>
+        <pubmed_id>12217863</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Duarte JD, Cooper-DeHoff RM: Mechanisms for blood pressure lowering and metabolic effects of thiazide and thiazide-like diuretics. Expert Rev Cardiovasc Ther. 2010 Jun;8(6):793-802.</reference_text>
+        <pubmed_id>20528637</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gamba G: The thiazide-sensitive Na+-Cl- cotransporter: molecular biology, functional properties, and regulation by WNKs. Am J Physiol Renal Physiol. 2009 Oct;297(4):F838-48. Epub 2009 May 27.</reference_text>
+        <pubmed_id>19474192</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ellison DH: The thiazide-sensitive na-cl cotransporter and human disease: reemergence of an old player. J Am Soc Nephrol. 2003 Feb;14(2):538-40.</reference_text>
+        <pubmed_id>12538756</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ko B, Hoover RS: Molecular physiology of the thiazide-sensitive sodium-chloride cotransporter.  Curr Opin Nephrol Hypertens. 2009 Sep;18(5):421-7.</reference_text>
+        <pubmed_id>19636250</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

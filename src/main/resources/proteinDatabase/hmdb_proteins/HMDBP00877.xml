@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:09 -0700</creation_date>
+  <update_date>2013-05-27 11:13:37 -0600</update_date>
+  <accession>HMDBP00877</accession>
+  <secondary_accessions>
+    <accession>6159</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Lysosomal apyrase-like protein of 70 kDa</synonym>
+    <synonym>NTPDase 4</synonym>
+    <synonym>UDPase</synonym>
+    <synonym>Uridine-diphosphatase</synonym>
+  </synonyms>
+  <gene_name>ENTPD4</gene_name>
+  <general_function>Involved in hydrolase activity</general_function>
+  <specific_function>Hydrolyzes preferentially nucleoside 5'-diphosphates, nucleoside 5'-triphosphates are hydrolyzed only to a minor extent. The order of activity with different substrates is UDP &gt;&gt; GDP = CDP = TDP, AMP, ADP, ATP and UMP are not substrates. Preferred substrates for isoform 2 are CTP, UDP, CDP, GTP and GDP, while isoform 1 utilizes UTP and TTP.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01546</accession>
+      <name>CDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01274</accession>
+      <name>dTDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00288</accession>
+      <name>Uridine 5'-monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03335</accession>
+      <name>IDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00175</accession>
+      <name>Inosinic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>autophagic vacuole membrane</description>
+      <go_id>GO:0000421</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasmic vesicle</description>
+      <go_id>GO:0031410</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to Golgi membrane</description>
+      <go_id>GO:0030173</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>uridine-diphosphatase activity</description>
+      <go_id>GO:0045134</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>UDP catabolic process</description>
+      <go_id>GO:0006256</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+    <subcellular_location>Cytoplasmic vesicle</subcellular_location>
+    <subcellular_location>autophagosome membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8p21.3</locus>
+    <gene_sequence>&gt;1851 bp
+ATGGGGAGGATTGGCATCTCCTGTCTTTTTCCTGCTTCTTGGCATTTTAGCATATCTCCA
+GTAGGGTGTCCTCGAATTCTGAATACCAATTTACGCCAAATTATGGTCATTAGTGTCCTG
+GCTGCTGCTGTTTCACTTTTATATTTTTCTGTTGTCATAATCCGAAATAAGTATGGGCGA
+CTAACCAGAGACAAGAAATTTCAAAGGTACCTGGCACGAGTTACCGACATTGAAGCTACA
+GACACCAATAACCCCAATGTGAACTATGGGATCGTGGTGGACTGTGGTAGCAGTGGGTCT
+CGAGTATTTGTTTACTGCTGGCCAAGGCATAATGGCAATCCACATGATCTGTTGGATATC
+AGGCAAATGAGGGATAAAAACCGAAAGCCAGTGGTCATGAAGATAAAACCGGGCATTTCA
+GAATTTGCTACCTCTCCAGAGAAAGTCAGTGATTACATTTCTCCACTTTTGAACTTTGCT
+GCAGAGCATGTGCCACGGGCAAAACACAAAGAGACACCTCTCTACATTCTCTGCACGGCT
+GGAATGAGAATCCTCCCCGAAAGCCAGCAGAAAGCTATTCTGGAAGACCTTCTGACCGAT
+ATCCCCGTGCACTTTGACTTTCTGTTTTCTGACTCTCATGCAGAAGTAATTTCTGGGAAA
+CAAGAAGGTGTGTATGCTTGGATTGGCATTAATTTTGTCCTTGGACGATTTGAGCATATT
+GAAGATGATGATGAGGCCGTTGTGGAAGTTAACATTCCTGGAAGTGAAAGCAGCGAAGCC
+ATTGTCCGTAAAAGGACAGCGGGCATTCTCGACATGGGCGGCGTGTCGACTCAGATAGCG
+TACGAAGTCCCCAAAACTGTAAGCTTTGCGTCCTCACAGCAGGAAGAAGTAGCTAAAAAC
+TTGTTAGCTGAATTTAACTTGGGATGTGATGTTCACCAAACTGAGCATGTGTATCGAGTC
+TATGTGGCCACGTTTCTTGGGTTTGGTGGCAATGCTGCTCGACAGAGATACGAAGACAGA
+ATATTTGCCAACACCATTCAAAAGAACAGGCTCCTGGGTAAACAGACTGGTCTGACTCCT
+GATATGCCGTACTTGGACCCCTGCCTACCCCTAGACATTAAAGATGAAATCCAGCAAAAT
+GGACAAACCATATACCTACGAGGGACTGGAGACTTTGACCTGTGTCGAGAGACTATCCAG
+CCTTTCATGAATAAAACAAACGAGACCCAGACTTCCCTCAATGGGGTCTACCAGCCCCCA
+ATTCACTTCCAGAACAGTGAATTCTATGGCTTCTCCGAATTCTACTACTGCACCGAGGAT
+GTGTTACGAATGGGGGGAGACTACAATGCTGCTAAATTTACTAAAGCTGCAAAGGATTAT
+TGTGCAACAAAGTGGTCCATTTTGCGGGAACGCTTTGACCGAGGACTGTACGCCTCTCAT
+GCTGACCTCCACAGGCTTAAGTATCAGTGCTTCAAATCGGCCTGGATGTTTGAGGTGTTT
+CATAGGGGCTTTTCGTTTCCTGTCAACTATAAAAGCTTAAAGACTGCCTTGCAAGTTTAC
+GACAAGGAGGTTCAGTGGACCCTTGGAGCCATCCTCTACAGGACCCGCTTTCTACCATTA
+AGAGACATCCAGCAGGAGGCCTTCCGAGCCAGTCACACCCACTGGCGGGGCGTTTCCTTT
+GTCTACAACCACTACCTGTTCTCTGGCTGCTTCCTGGTGGTGCTGCTGGCCATCCTGCTG
+TACCTGCTGCGGCTGCGGCGCATCCACAGGCGCACTCCCCGGAGCAGCTCGGCCGCCGCC
+CTCTGGATGGAGGAGGGCCTTCCCGCCCAGAATGCCCCGGGGACCTTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>616</residue_number>
+    <molecular_weight>69419.915</molecular_weight>
+    <theoretical_pi>8.288</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GDA1_CD39</name>
+        <pfam_id>PF01150</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ectonucleoside triphosphate diphosphohydrolase 4
+MGRIGISCLFPASWHFSISPVGCPRILNTNLRQIMVISVLAAAVSLLYFSVVIIRNKYGR
+LTRDKKFQRYLARVTDIEATDTNNPNVNYGIVVDCGSSGSRVFVYCWPRHNGNPHDLLDI
+RQMRDKNRKPVVMKIKPGISEFATSPEKVSDYISPLLNFAAEHVPRAKHKETPLYILCTA
+GMRILPESQQKAILEDLLTDIPVHFDFLFSDSHAEVISGKQEGVYAWIGINFVLGRFEHI
+EDDDEAVVEVNIPGSESSEAIVRKRTAGILDMGGVSTQIAYEVPKTVSFASSQQEEVAKN
+LLAEFNLGCDVHQTEHVYRVYVATFLGFGGNAARQRYEDRIFANTIQKNRLLGKQTGLTP
+DMPYLDPCLPLDIKDEIQQNGQTIYLRGTGDFDLCRETIQPFMNKTNETQTSLNGVYQPP
+IHFQNSEFYGFSEFYYCTEDVLRMGGDYNAAKFTKAAKDYCATKWSILRERFDRGLYASH
+ADLHRLKYQCFKSAWMFEVFHRGFSFPVNYKSLKTALQVYDKEVQWTLGAILYRTRFLPL
+RDIQQEAFRASHTHWRGVSFVYNHYLFSGCFLVVLLAILLYLLRLRRIHRRTPRSSSAAA
+LWMEEGLPAQNAPGTL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4758662</genbank_protein_id>
+  <uniprot_id>Q9Y227</uniprot_id>
+  <uniprot_name>ENTP4_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_004901.3</genbank_gene_id>
+  <genecard_id>ENTPD4</genecard_id>
+  <geneatlas_id>ENTPD4</geneatlas_id>
+  <hgnc_id>HGNC:14573</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wang TF, Guidotti G: Golgi localization and functional expression of human uridine diphosphatase. J Biol Chem. 1998 May 1;273(18):11392-9.</reference_text>
+      <pubmed_id>9556635</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Biederbick A, Rose S, Elsasser HP: A human intracellular apyrase-like protein, LALP70, localizes to lysosomal/autophagic vacuoles. J Cell Sci. 1999 Aug;112 ( Pt 15):2473-84.</reference_text>
+      <pubmed_id>10393803</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Biederbick A, Kosan C, Kunz J, Elsasser HP: First apyrase splice variants have different enzymatic properties.  J Biol Chem. 2000 Jun 23;275(25):19018-24.</reference_text>
+      <pubmed_id>10858452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Nakajima D, Ohira M, Seki N, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. VII. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro. DNA Res. 1997 Apr 28;4(2):141-50.</reference_text>
+      <pubmed_id>9205841</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

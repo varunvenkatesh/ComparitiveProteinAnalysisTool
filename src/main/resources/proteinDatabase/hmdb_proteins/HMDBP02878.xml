@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:08:48 -0700</creation_date>
+  <update_date>2013-04-11 14:44:53 -0600</update_date>
+  <accession>HMDBP02878</accession>
+  <secondary_accessions>
+    <accession>8385</accession>
+    <accession>HMDBP03514</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>Basolateral Na-K-Cl symporter</synonym>
+    <synonym>Bumetanide-sensitive sodium-(potassium)-chloride cotransporter 1</synonym>
+  </synonyms>
+  <gene_name>SLC12A2</gene_name>
+  <general_function>Involved in transport</general_function>
+  <specific_function>Electrically silent transporter system. Mediates sodium and chloride reabsorption. Plays a vital role in the regulation of ionic balance and cell volume</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15024</accession>
+      <name>Bumetanide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15420</accession>
+      <name>Quinethazone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>anion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>anion:cation symporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation:chloride symporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>inorganic anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chloride transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sodium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:5</chromosome_location>
+    <locus>5q23.3</locus>
+    <gene_sequence>&gt;3639 bp
+ATGGAGCCGCGGCCCACGGCGCCCTCCTCCGGCGCCCCGGGACTGGCCGGGGTCGGGGAG
+ACGCCGTCAGCCGCTGCGCTGGCCGCAGCCAGGGTGGAACTGCCCGGCACGGCTGTGCCC
+TCGGTGCCGGAGGATGCTGCGCCCGCGAGCCGGGACGGCGGCGGGGTCCGCGATGAGGGC
+CCCGCGGCGGCCGGGGACGGGCTGGGCAGACCCTTGGGGCCCACCCCGAGCCAGAGCCGT
+TTCCAGGTGGACCTGGTTTCCGAGAACGCCGGGCGGGCCGCTGCTGCGGCGGCGGCGGCG
+GCGGCGGCAGCGGCGGCGGCTGGTGCTGGGGCGGGGGCCAAGCAGACCCCCGCGGACGGG
+GAAGCCAGCGGCGAGAGCGAGCCAGCTAAAGGCAGCGAGGAAGCCAAGGGCCGCTTCCGC
+GTGAACTTCGTGGACCCAGCTGCCTCCTCGTCGGCTGAAGACAGCCTGTCAGATGCTGCC
+GGGGTCGGAGTCGACGGGCCCAACGTGAGCTTCCAGAACGGCGGGGACACGGTGCTGAGC
+GAGGGCAGCAGCCTGCACTCCGGCGGCGGCGGCGGCAGTGGGCACCACCAGCACTACTAT
+TATGATACCCACACCAACACCTACTACCTGCGCACCTTCGGCCACAACACCATGGACGCT
+GTGCCCAGGATCGATCACTACCGGCACACAGCCGCGCAGCTGGGCGAGAAGCTGCTCCGG
+CCTAGCCTGGCGGAGCTCCACGACGAGCTGGAAAAGGAACCTTTTGAGGATGGCTTTGCA
+AATGGGGAAGAAAGTACTCCAACCAGAGATGCTGTGGTCACGTATACTGCAGAAAGTAAA
+GGAGTCGTGAAGTTTGGCTGGATCAAGGGTGTATTAGTACGTTGTATGTTAAACATTTGG
+GGTGTGATGCTTTTCATTAGATTGTCATGGATTGTGGGTCAAGCTGGAATAGGTCTATCA
+GTCCTTGTAATAATGATGGCCACTGTTGTGACAACTATCACAGGATTGTCTACTTCAGCA
+ATAGCAACTAATGGATTTGTAAGAGGAGGAGGAGCATATTATTTAATATCTAGAAGTCTA
+GGGCCAGAATTTGGTGGTGCAATTGGTCTAATCTTCGCCTTTGCCAACGCTGTTGCAGTT
+GCTATGTATGTGGTTGGATTTGCAGAAACCGTGGTGGAGTTGCTTAAGGAACATTCCATA
+CTTATGATAGATGAAATCAATGATATCCGAATTATTGGAGCCATTACAGTCGTGATTCTT
+TTAGGTATCTCAGTAGCTGGAATGGAGTGGGAAGCAAAAGCTCAGATTGTTCTTTTGGTG
+ATCCTACTTCTTGCTATTGGTGATTTCGTCATAGGAACATTTATCCCACTGGAGAGCAAG
+AAGCCAAAAGGGTTTTTTGGTTATAAATCTGAAATATTTAATGAGAACTTTGGGCCCGAT
+TTTCGAGAGGAAGAGACTTTCTTTTCTGTATTTGCCATCTTTTTTCCTGCTGCAACTGGT
+ATTCTGGCTGGAGCAAATATCTCAGGTGATCTTGCAGATCCTCAGTCAGCCATACCCAAA
+GGAACACTCCTAGCCATTTTAATTACTACATTGGTTTACGTAGGAATTGCAGTATCTGTA
+GGTTCTTGTGTTGTTCGAGATGCCACTGGAAACGTTAATGACACTATCGTAACAGAGCTA
+ACAAACTGTACTTCTGCAGCCTGCAAATTAAACTTTGATTTTTCATCTTGTGAAAGCAGT
+CCTTGTTCCTATGGCCTAATGAACAACTTCCAGGTAATGAGTATGGTGTCAGGATTTACA
+CCACTAATTTCTGCAGGTATATTTTCAGCCACTCTTTCTTCAGCATTAGCATCCCTAGTG
+AGTGCTCCCAAAATATTTCAGGCTCTATGTAAGGACAACATCTACCCAGCTTTCCAGATG
+TTTGCTAAAGGTTATGGGAAAAATAATGAACCTCTTCGTGGCTACATCTTAACATTCTTA
+ATTGCACTTGGATTCATCTTAATTGCTGAACTGAATGTTATTGCACCAATTATCTCAAAC
+TTCTTCCTTGCATCATATGCATTGATCAATTTTTCAGTATTCCATGCATCACTTGCAAAA
+TCTCCAGGATGGCGTCCTGCATTCAAATACTACAACATGTGGATATCACTTCTTGGAGCA
+ATTCTTTGTTGCATAGTAATGTTCGTCATTAACTGGTGGGCTGCATTGCTAACATATGTG
+ATAGTCCTTGGGCTGTATATTTATGTTACCTACAAAAAACCAGATGTGAATTGGGGATCC
+TCTACACAAGCCCTGACTTACCTGAATGCACTGCAGCATTCAATTCGTCTTTCTGGAGTG
+GAAGACCACGTGAAAAACTTTAGGCCACAGTGTCTTGTTATGACAGGTGCTCCAAACTCA
+CGTCCAGCTTTACTTCATCTTGTTCATGATTTCACAAAAAATGTTGGTTTGATGATCTGT
+GGCCATGTACATATGGGTCCTCGAAGACAAGCCATGAAAGAGATGTCCATCGATCAAGCC
+AAATATCAGCGATGGCTTATTAAGAACAAAATGAAGGCATTTTATGCTCCAGTACATGCA
+GATGACTTGAGAGAAGGTGCACAGTATTTGATGCAGGCTGCTGGTCTTGGTCGTATGAAG
+CCAAACACACTTGTCCTTGGATTTAAGAAAGATTGGTTGCAAGCAGATATGAGGGATGTG
+GATATGTATATAAACTTATTTCATGATGCTTTTGACATACAATATGGAGTAGTGGTTATT
+CGCCTAAAAGAAGGTCTGGATATATCTCATCTTCAAGGACAAGAAGAATTATTGTCATCA
+CAAGAGAAATCTCCTGGCACCAAGGATGTGGTAGTAAGTGTGGAATATAGTAAAAAGTCC
+GATTTAGATACTTCCAAACCACTCAGTGAAAAACCAATTACACACAAAGTTGAGGAAGAG
+GATGGCAAGACTGCAACTCAACCACTGTTGAAAAAAGAATCCAAAGGCCCTATTGTGCCT
+TTAAATGTAGCTGACCAAAAGCTTCTTGAAGCTAGTACACAGTTTCAGAAAAAACAAGGA
+AAGAATACTATTGATGTCTGGTGGCTTTTTGATGATGGAGGTTTGACCTTATTGATACCT
+TACCTTCTGACGACCAAGAAAAAATGGAAAGACTGTAAGATCAGAGTATTCATTGGTGGA
+AAGATAAACAGAATAGACCATGACCGGAGAGCGATGGCTACTTTGCTTAGCAAGTTCCGG
+ATAGACTTTTCTGATATCATGGTTCTAGGAGATATCAATACCAAACCAAAGAAAGAAAAT
+ATTATAGCTTTTGAGGAAATCATTGAGCCATACAGACTTCATGAAGATGATAAAGAGCAA
+GATATTGCAGATAAAATGAAAGAAGATGAACCATGGCGAATAACAGATAATGAGCTTGAA
+CTTTATAAGACCAAGACATACCGGCAGATCAGGTTAAATGAGTTATTAAAGGAACATTCA
+AGCACAGCTAATATTATTGTCATGAGTCTCCCAGTTGCACGAAAAGGTGCTGTGTCTAGT
+GCTCTCTACATGGCATGGTTAGAAGCTCTATCTAAGGACCTACCACCAATCCTCCTAGTT
+CGTGGGAATCATCAGAGTGTCCTTACCTTCTATTCATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1212</residue_number>
+    <molecular_weight>131445.8</molecular_weight>
+    <theoretical_pi>6.36</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AA_permease</name>
+        <pfam_id>PF00324</pfam_id>
+      </pfam>
+      <pfam>
+        <name>AA_permease_N</name>
+        <pfam_id>PF08403</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>93-113</region>
+      <region>286-306</region>
+      <region>310-330</region>
+      <region>367-387</region>
+      <region>411-431</region>
+      <region>436-456</region>
+      <region>487-507</region>
+      <region>521-541</region>
+      <region>592-612</region>
+      <region>658-678</region>
+      <region>679-699</region>
+      <region>725-745</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Solute carrier family 12 member 2
+MEPRPTAPSSGAPGLAGVGETPSAAALAAARVELPGTAVPSVPEDAAPASRDGGGVRDEG
+PAAAGDGLGRPLGPTPSQSRFQVDLVSENAGRAAAAAAAAAAAAAAAGAGAGAKQTPADG
+EASGESEPAKGSEEAKGRFRVNFVDPAASSSAEDSLSDAAGVGVDGPNVSFQNGGDTVLS
+EGSSLHSGGGGGSGHHQHYYYDTHTNTYYLRTFGHNTMDAVPRIDHYRHTAAQLGEKLLR
+PSLAELHDELEKEPFEDGFANGEESTPTRDAVVTYTAESKGVVKFGWIKGVLVRCMLNIW
+GVMLFIRLSWIVGQAGIGLSVLVIMMATVVTTITGLSTSAIATNGFVRGGGAYYLISRSL
+GPEFGGAIGLIFAFANAVAVAMYVVGFAETVVELLKEHSILMIDEINDIRIIGAITVVIL
+LGISVAGMEWEAKAQIVLLVILLLAIGDFVIGTFIPLESKKPKGFFGYKSEIFNENFGPD
+FREEETFFSVFAIFFPAATGILAGANISGDLADPQSAIPKGTLLAILITTLVYVGIAVSV
+GSCVVRDATGNVNDTIVTELTNCTSAACKLNFDFSSCESSPCSYGLMNNFQVMSMVSGFT
+PLISAGIFSATLSSALASLVSAPKIFQALCKDNIYPAFQMFAKGYGKNNEPLRGYILTFL
+IALGFILIAELNVIAPIISNFFLASYALINFSVFHASLAKSPGWRPAFKYYNMWISLLGA
+ILCCIVMFVINWWAALLTYVIVLGLYIYVTYKKPDVNWGSSTQALTYLNALQHSIRLSGV
+EDHVKNFRPQCLVMTGAPNSRPALLHLVHDFTKNVGLMICGHVHMGPRRQAMKEMSIDQA
+KYQRWLIKNKMKAFYAPVHADDLREGAQYLMQAAGLGRMKPNTLVLGFKKDWLQADMRDV
+DMYINLFHDAFDIQYGVVVIRLKEGLDISHLQGQEELLSSQEKSPGTKDVVVSVEYSKKS
+DLDTSKPLSEKPITHKVEEEDGKTATQPLLKKESKGPIVPLNVADQKLLEASTQFQKKQG
+KNTIDVWWLFDDGGLTLLIPYLLTTKKKWKDCKIRVFIGGKINRIDHDRRAMATLLSKFR
+IDFSDIMVLGDINTKPKKENIIAFEEIIEPYRLHEDDKEQDIADKMKEDEPWRITDNELE
+LYKTKTYRQIRLNELLKEHSSTANIIVMSLPVARKGAVSSALYMAWLEALSKDLPPILLV
+RGNHQSVLTFYS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P55011</uniprot_id>
+  <uniprot_name>S12A2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U30246</genbank_gene_id>
+  <genecard_id>SLC12A2</genecard_id>
+  <geneatlas_id>SLC12A2</geneatlas_id>
+  <hgnc_id>HGNC:10911</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Payne JA, Xu JC, Haas M, Lytle CY, Ward D, Forbush B 3rd: Primary structure, functional expression, and chromosomal localization of the bumetanide-sensitive Na-K-Cl cotransporter in human colon. J Biol Chem. 1995 Jul 28;270(30):17977-85.</reference_text>
+      <pubmed_id>7629105</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vibat CR, Holland MJ, Kang JJ, Putney LK, O'Donnell ME: Quantitation of Na+-K+-2Cl- cotransport splice variants in human tissues using kinetic polymerase chain reaction. Anal Biochem. 2001 Nov 15;298(2):218-30.</reference_text>
+      <pubmed_id>11700976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bumetanide</name>
+        <accession>HMDB15024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Panet R, Marcus M, Atlan H: Overexpression of the Na(+)/K(+)/Cl(-) cotransporter gene induces cell proliferation and phenotypic transformation in mouse fibroblasts. J Cell Physiol. 2000 Jan;182(1):109-18.</reference_text>
+        <pubmed_id>10567922</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bumetanide</name>
+        <accession>HMDB15024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Evans RL, Park K, Turner RJ, Watson GE, Nguyen HV, Dennett MR, Hand AR, Flagella M, Shull GE, Melvin JE: Severe impairment of salivation in Na+/K+/2Cl- cotransporter (NKCC1)-deficient mice. J Biol Chem. 2000 Sep 1;275(35):26720-6.</reference_text>
+        <pubmed_id>10831596</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bumetanide</name>
+        <accession>HMDB15024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wall SM, Fischer MP, Mehta P, Hassell KA, Park SJ: Contribution of the Na+-K+-2Cl- cotransporter NKCC1 to Cl- secretion in rat OMCD.  Am J Physiol Renal Physiol. 2001 May;280(5):F913-21.</reference_text>
+        <pubmed_id>11292635</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bumetanide</name>
+        <accession>HMDB15024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Akar F, Jiang G, Paul RJ, O'Neill WC: Contractile regulation of the Na(+)-K(+)-2Cl(-) cotransporter in vascular smooth muscle. Am J Physiol Cell Physiol. 2001 Aug;281(2):C579-84.</reference_text>
+        <pubmed_id>11443057</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bumetanide</name>
+        <accession>HMDB15024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jiang G, Klein JD, O'Neill WC: Growth factors stimulate the Na-K-2Cl cotransporter NKCC1 through a novel Cl(-)-dependent mechanism. Am J Physiol Cell Physiol. 2001 Dec;281(6):C1948-53.</reference_text>
+        <pubmed_id>11698253</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Duarte JD, Cooper-DeHoff RM: Mechanisms for blood pressure lowering and metabolic effects of thiazide and thiazide-like diuretics. Expert Rev Cardiovasc Ther. 2010 Jun;8(6):793-802.</reference_text>
+        <pubmed_id>20528637</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gamba G: The thiazide-sensitive Na+-Cl- cotransporter: molecular biology, functional properties, and regulation by WNKs. Am J Physiol Renal Physiol. 2009 Oct;297(4):F838-48. Epub 2009 May 27.</reference_text>
+        <pubmed_id>19474192</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ellison DH: The thiazide-sensitive na-cl cotransporter and human disease: reemergence of an old player. J Am Soc Nephrol. 2003 Feb;14(2):538-40.</reference_text>
+        <pubmed_id>12538756</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinethazone</name>
+        <accession>HMDB15420</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ko B, Hoover RS: Molecular physiology of the thiazide-sensitive sodium-chloride cotransporter.  Curr Opin Nephrol Hypertens. 2009 Sep;18(5):421-7.</reference_text>
+        <pubmed_id>19636250</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

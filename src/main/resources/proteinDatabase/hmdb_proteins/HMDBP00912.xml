@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:19 -0700</creation_date>
+  <update_date>2013-05-27 11:38:04 -0600</update_date>
+  <accession>HMDBP00912</accession>
+  <secondary_accessions>
+    <accession>6200</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Poly [ADP-ribose] polymerase 5A</synonym>
+    <synonym>TANK1</synonym>
+    <synonym>TNKS-1</synonym>
+    <synonym>TRF1-interacting ankyrin-related ADP-ribose polymerase</synonym>
+    <synonym>Tankyrase I</synonym>
+    <synonym>ADP-ribosyltransferase diphtheria toxin-like 5</synonym>
+    <synonym>ARTD5</synonym>
+  </synonyms>
+  <gene_name>TNKS</gene_name>
+  <general_function>Involved in NAD+ ADP-ribosyltransferase activity</general_function>
+  <specific_function>Poly-ADP-ribosyltransferase involved in various processes such as Wnt signaling pathway, telomere length and vesicle trafficking. Acts as an activator of the Wnt signaling pathway by mediating poly-ADP-ribosylation (PARsylation) of AXIN1 and AXIN2, 2 key components of the beta-catenin destruction complex: poly-ADP-ribosylated target proteins are recognized by RNF146, which mediates their ubiquitination and subsequent degradation. Also mediates PARsylation of BLZF1 and CASC3, followed by recruitment of RNF146 and subsequent ubiquitination. Mediates PARsylation of TERF1, thereby contributing to the regulation of telomere length. Involved in centrosome maturation during prometaphase by mediating PARsylation of HEPACAM2/MIKI. May also regulate vesicle trafficking and modulate the subcellular distribution of SLC2A4/GLUT4-vesicles. May be involved in spindle pole assembly through PARsylation of NUMA1.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01406</accession>
+      <name>Niacinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring pentosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad+ adp-ribosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>chromosome, centromeric region</description>
+      <go_id>GO:0000775</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi apparatus</description>
+      <go_id>GO:0005794</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear chromosome, telomeric region</description>
+      <go_id>GO:0000784</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear membrane</description>
+      <go_id>GO:0031965</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear pore</description>
+      <go_id>GO:0005643</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>pericentriolar material</description>
+      <go_id>GO:0000242</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>spindle pole</description>
+      <go_id>GO:0000922</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD+ ADP-ribosyltransferase activity</description>
+      <go_id>GO:0003950</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell division</description>
+      <go_id>GO:0051301</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitosis</description>
+      <go_id>GO:0007067</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitotic spindle organization</description>
+      <go_id>GO:0007052</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mRNA transport</description>
+      <go_id>GO:0051028</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of DNA binding</description>
+      <go_id>GO:0043392</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-serine phosphorylation</description>
+      <go_id>GO:0018105</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-threonine phosphorylation</description>
+      <go_id>GO:0018107</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of canonical Wnt receptor signaling pathway</description>
+      <go_id>GO:0090263</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of telomere maintenance via telomerase</description>
+      <go_id>GO:0032212</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein auto-ADP-ribosylation</description>
+      <go_id>GO:0070213</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein localization to chromosome, telomeric region</description>
+      <go_id>GO:0070198</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein poly-ADP-ribosylation</description>
+      <go_id>GO:0070212</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein polyubiquitination</description>
+      <go_id>GO:0000209</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein transport</description>
+      <go_id>GO:0015031</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spindle assembly</description>
+      <go_id>GO:0051225</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Wnt receptor signaling pathway</description>
+      <go_id>GO:0016055</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Chromosome</subcellular_location>
+    <subcellular_location>centromere</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nuclear pore complex</subcellular_location>
+    <subcellular_location>Chromosome</subcellular_location>
+    <subcellular_location>telomere (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8p23.1</locus>
+    <gene_sequence>&gt;3984 bp
+ATGGCGGCGTCGCGTCGCTCTCAGCATCATCACCACCATCATCAACAACAGCTCCAGCCC
+GCCCCAGGGGCTTCAGCGCCGCCGCCGCCACCTCCTCCCCCACTCAGCCCTGGCCTGGCC
+CCGGGGACCACCCCAGCCTCTCCCACGGCCAGCGGCCTGGCCCCCTTCGCCTCCCCGCGG
+CACGGCCTAGCGCTGCCGGAGGGGGATGGCAGTCGGGATCCGCCCGACAGGCCCCGATCC
+CCGGACCCGGTTGACGGTACCAGCTGTTGCAGTACCACCAGCACAATCTGTACCGTCGCC
+GCCGCTCCCGTGGTCCCAGCGGTTTCTACTTCATCTGCCGCTGGGGTCGCTCCCAACCCA
+GCCGGCAGTGGCAGTAACAATTCACCGTCGTCCTCTTCTTCCCCGACTTCTTCCTCATCT
+TCCTCTCCATCCTCCCCTGGATCGAGCTTGGCGGAGAGCCCCGAGGCGGCCGGAGTTAGC
+AGCACAGCACCACTGGGGCCTGGGGCAGCAGGACCTGGGACAGGGGTCCCAGCAGTGAGC
+GGGGCCCTACGGGAACTGCTGGAGGCCTGTCGCAATGGGGACGTGTCCCGGGTAAAGAGG
+CTGGTGGACGCGGCAAACGTAAATGCAAAGGACATGGCCGGCCGGAAGTCTTCTCCCCTG
+CACTTCGCTGCAGGTTTTGGAAGGAAGGATGTTGTAGAACACTTACTACAGATGGGTGCT
+AATGTCCACGCTCGTGATGATGGAGGTCTCATCCCGCTTCATAATGCCTGTTCTTTTGGC
+CATGCTGAGGTTGTGAGTCTGTTATTGTGCCAAGGAGCTGATCCAAATGCCAGGGATAAC
+TGGAACTATACACCTCTGCATGAAGCTGCTATTAAAGGGAAGATCGATGTGTGCATTGTG
+CTGCTGCAGCACGGAGCTGACCCAAACATTCGGAACACTGATGGGAAATCAGCCCTGGAC
+CTGGCAGATCCTTCAGCAAAAGCTGTCCTTACAGGTGAATACAAGAAAGACGAACTCCTA
+GAAGCTGCTAGGAGTGGTAATGAAGAAAAACTAATGGCTTTACTGACTCCTCTAAATGTG
+AATTGCCATGCAAGTGATGGGCGAAAGTCGACTCCTTTACATCTAGCAGCGGGCTACAAC
+AGAGTTCGAATAGTTCAGCTTCTTCTTCAGCATGGTGCTGATGTTCATGCAAAAGACAAA
+GGTGGACTTGTGCCTCTTCATAATGCATGTTCATATGGACATTATGAAGTCACAGAACTG
+CTACTAAAGCATGGAGCTTGTGTTAATGCCATGGATCTCTGGCAGTTTACTCCACTGCAC
+GAGGCTGCTTCCAAGAACCGTGTAGAAGTCTGCTCTTTGTTACTTAGCCATGGCGCTGAT
+CCTACATTAGTCAACTGCCATGGCAAAAGTGCTGTGGATATGGCTCCAACTCCGGAGCTT
+AGGGAGAGATTGACTTATGAATTTAAAGGTCATTCTTTACTACAAGCAGCCAGAGAAGCA
+GACTTAGCTAAAGTTAAAAAAACACTCGCTCTGGAAATCATTAATTTCAAACAACCGCAG
+TCTCATGAAACAGCACTGCACTGTGCTGTGGCCTCTCTGCATCCCAAACGTAAACAAGTG
+ACAGAATTGTTACTTAGAAAAGGAGCAAATGTTAATGAAAAAAATAAAGATTTCATGACT
+CCCCTGCATGTTGCAGCCGAAAGAGCCCATAATGATGTCATGGAAGTTCTGCATAAGCAT
+GGCGCCAAGATGAATGCACTGGACACCCTTGGTCAGACTGCTTTGCATAGAGCCGCCCTA
+GCAGGCCACCTGCAGACCTGCCGCCTCCTGCTGAGTTACGGCTCTGACCCCTCCATCATC
+TCCTTACAAGGCTTCACAGCAGCACAGATGGGCAATGAAGCAGTGCAGCAGATTCTGAGT
+GAGAGTACACCTATACGTACTTCTGATGTTGATTATCGACTCTTAGAGGCATCTAAAGCT
+GGAGACTTGGAAACTGTGAAGCAACTTTGCAGCTCTCAAAATGTGAATTGTAGAGACTTA
+GAGGGCCGGCATTCCACGCCCTTACACTTCGCAGCAGGCTACAACCGCGTGTCTGTTGTA
+GAGTACCTGCTACACCACGGTGCCGATGTCCATGCCAAAGACAAGGGTGGCTTGGTGCCC
+CTTCATAATGCCTGTTCATATGGACACTATGAGGTGGCTGAGCTTTTAGTAAGGCATGGG
+GCTTCTGTCAATGTGGCGGACTTATGGAAATTTACCCCTCTCCATGAAGCAGCAGCTAAA
+GGAAAGTATGAAATCTGCAAGCTCCTTTTAAAACATGGAGCAGATCCAACTAAAAAGAAC
+AGAGATGGAAATACACCTTTGGATTTGGTAAAGGAAGGAGACACAGATATTCAGGACTTA
+CTGAGAGGGGATGCTGCTTTGTTGGATGCTGCCAAGAAGGGCTGCCTGGCAAGAGTGCAG
+AAGCTCTGTACCCCAGAGAATATCAACTGCAGAGACACCCAGGGCAGAAATTCAACCCCT
+CTGCACCTGGCAGCAGGCTATAATAACCTGGAAGTAGCTGAATATCTTCTAGAGCATGGA
+GCTGATGTTAATGCCCAGGACAAGGGTGGTTTAATTCCTCTTCATAATGCGGCATCTTAT
+GGGCATGTTGACATAGCGGCTTTATTGATAAAATACAACACGTGTGTAAATGCAACAGAT
+AAGTGGGCGTTTACTCCCCTCCATGAAGCAGCCCAGAAAGGAAGGACGCAGCTGTGCGCC
+CTCCTCCTAGCGCATGGTGCAGACCCCACCATGAAGAACCAGGAAGGCCAGACGCCTCTG
+GATCTGGCAACAGCTGACGATATCAGAGCTTTGCTGATAGATGCCATGCCCCCAGAGGCC
+TTACCTACCTGTTTTAAACCTCAGGCTACTGTAGTGAGTGCCTCTCTGATCTCACCAGCA
+TCCACCCCCTCCTGCCTCTCGGCTGCCAGCAGCATAGACAACCTCACTGGCCCTTTAGCA
+GAGTTGGCCGTAGGAGGAGCCTCCAATGCAGGGGATGGCGCCGCGGGAACAGAAAGGAAG
+GAAGGAGAAGTTGCTGGTCTTGACATGAATATCAGCCAATTTCTAAAAAGCCTTGGCCTT
+GAACACCTTCGGGATATCTTTGAAACAGAACAGATTACACTAGATGTGTTGGCTGATATG
+GGTCATGAAGAGTTGAAAGAAATAGGCATCAATGCATATGGGCACCGCCACAAATTAATC
+AAAGGAGTAGAAAGACTCTTAGGTGGACAACAAGGCACCAATCCTTATTTGACTTTTCAC
+TGTGTTAATCAGGGAACGATTTTGCTGGATCTTGCTCCAGAAGATAAAGAATATCAGTCA
+GTGGAAGAAGAGATGCAAAGTACTATTCGAGAACACAGAGATGGTGGTAATGCTGGCGGC
+ATCTTCAACAGATACAATGTCATTCGAATTCAAAAAGTTGTCAACAAGAAGTTGAGGGAG
+CGGTTCTGCCACCGACAGAAGGAAGTGTCTGAGGAGAATCACAACCATCACAATGAGCGC
+ATGTTGTTTCATGGTTCTCCTTTCATTAATGCCATTATTCATAAAGGGTTTGATGAGCGA
+CATGCATACATAGGAGGAATGTTTGGGGCCGGGATTTATTTTGCTGAAAACTCCTCAAAA
+AGCAACCAATATGTTTATGGAATTGGAGGAGGAACAGGCTGCCCTACACACAAGGACAGG
+TCATGCTATATATGTCACAGACAAATGCTCTTCTGTAGAGTGACCCTTGGGAAATCCTTT
+CTGCAGTTTAGCACCATGAAAATGGCCCACGCGCCTCCAGGGCACCACTCAGTCATTGGT
+AGACCGAGCGTCAATGGGCTGGCATATGCTGAATATGTCATCTACAGAGGAGAACAGGCA
+TACCCAGAGTATCTTATCACTTACCAGATCATGAAGCCAGAAGCCCCTTCCCAGACCGCA
+ACAGCCGCAGAGCAGAAGACCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1327</residue_number>
+    <molecular_weight>142038.18</molecular_weight>
+    <theoretical_pi>7.05</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ank</name>
+        <pfam_id>PF00023</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PARP</name>
+        <pfam_id>PF00644</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SAM_2</name>
+        <pfam_id>PF07647</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tankyrase-1
+MAASRRSQHHHHHHQQQLQPAPGASAPPPPPPPPLSPGLAPGTTPASPTASGLAPFASPR
+HGLALPEGDGSRDPPDRPRSPDPVDGTSCCSTTSTICTVAAAPVVPAVSTSSAAGVAPNP
+AGSGSNNSPSSSSSPTSSSSSSPSSPGSSLAESPEAAGVSSTAPLGPGAAGPGTGVPAVS
+GALRELLEACRNGDVSRVKRLVDAANVNAKDMAGRKSSPLHFAAGFGRKDVVEHLLQMGA
+NVHARDDGGLIPLHNACSFGHAEVVSLLLCQGADPNARDNWNYTPLHEAAIKGKIDVCIV
+LLQHGADPNIRNTDGKSALDLADPSAKAVLTGEYKKDELLEAARSGNEEKLMALLTPLNV
+NCHASDGRKSTPLHLAAGYNRVRIVQLLLQHGADVHAKDKGGLVPLHNACSYGHYEVTEL
+LLKHGACVNAMDLWQFTPLHEAASKNRVEVCSLLLSHGADPTLVNCHGKSAVDMAPTPEL
+RERLTYEFKGHSLLQAAREADLAKVKKTLALEIINFKQPQSHETALHCAVASLHPKRKQV
+TELLLRKGANVNEKNKDFMTPLHVAAERAHNDVMEVLHKHGAKMNALDTLGQTALHRAAL
+AGHLQTCRLLLSYGSDPSIISLQGFTAAQMGNEAVQQILSESTPIRTSDVDYRLLEASKA
+GDLETVKQLCSSQNVNCRDLEGRHSTPLHFAAGYNRVSVVEYLLHHGADVHAKDKGGLVP
+LHNACSYGHYEVAELLVRHGASVNVADLWKFTPLHEAAAKGKYEICKLLLKHGADPTKKN
+RDGNTPLDLVKEGDTDIQDLLRGDAALLDAAKKGCLARVQKLCTPENINCRDTQGRNSTP
+LHLAAGYNNLEVAEYLLEHGADVNAQDKGGLIPLHNAASYGHVDIAALLIKYNTCVNATD
+KWAFTPLHEAAQKGRTQLCALLLAHGADPTMKNQEGQTPLDLATADDIRALLIDAMPPEA
+LPTCFKPQATVVSASLISPASTPSCLSAASSIDNLTGPLAELAVGGASNAGDGAAGTERK
+EGEVAGLDMNISQFLKSLGLEHLRDIFETEQITLDVLADMGHEELKEIGINAYGHRHKLI
+KGVERLLGGQQGTNPYLTFHCVNQGTILLDLAPEDKEYQSVEEEMQSTIREHRDGGNAGG
+IFNRYNVIRIQKVVNKKLRERFCHRQKEVSEENHNHHNERMLFHGSPFINAIIHKGFDER
+HAYIGGMFGAGIYFAENSSKSNQYVYGIGGGTGCPTHKDRSCYICHRQMLFCRVTLGKSF
+LQFSTMKMAHAPPGHHSVIGRPSVNGLAYAEYVIYRGEQAYPEYLITYQIMKPEAPSQTA
+TAAEQKT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>87239981</genbank_protein_id>
+  <uniprot_id>O95271</uniprot_id>
+  <uniprot_name>TNKS1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2RF5</pdb_id>
+    <pdb_id>3UDD</pdb_id>
+    <pdb_id>3UH2</pdb_id>
+    <pdb_id>3UH4</pdb_id>
+    <pdb_id>4DVI</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_003747.2</genbank_gene_id>
+  <genecard_id>TNKS</genecard_id>
+  <geneatlas_id>TNKS</geneatlas_id>
+  <hgnc_id>HGNC:11941</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Smith S, Giriat I, Schmitt A, de Lange T: Tankyrase, a poly(ADP-ribose) polymerase at human telomeres.  Science. 1998 Nov 20;282(5393):1484-7.</reference_text>
+      <pubmed_id>9822378</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nusbaum C, Mikkelsen TS, Zody MC, Asakawa S, Taudien S, Garber M, Kodira CD, Schueler MG, Shimizu A, Whittaker CA, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Yang X, Allen NR, Anderson S, Asakawa T, Blechschmidt K, Bloom T, Borowsky ML, Butler J, Cook A, Corum B, DeArellano K, DeCaprio D, Dooley KT, Dorris L 3rd, Engels R, Glockner G, Hafez N, Hagopian DS, Hall JL, Ishikawa SK, Jaffe DB, Kamat A, Kudoh J, Lehmann R, Lokitsang T, Macdonald P, Major JE, Matthews CD, Mauceli E, Menzel U, Mihalev AH, Minoshima S, Murayama Y, Naylor JW, Nicol R, Nguyen C, O'Leary SB, O'Neill K, Parker SC, Polley A, Raymond CK, Reichwald K, Rodriguez J, Sasaki T, Schilhabel M, Siddiqui R, Smith CL, Sneddon TP, Talamas JA, Tenzin P, Topham K, Venkataraman V, Wen G, Yamazaki S, Young SK, Zeng Q, Zimmer AR, Rosenthal A, Birren BW, Platzer M, Shimizu N, Lander ES: DNA sequence and analysis of human chromosome 8.  Nature. 2006 Jan 19;439(7074):331-5.</reference_text>
+      <pubmed_id>16421571</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Smith S, de Lange T: Cell cycle dependent localization of the telomeric PARP, tankyrase, to nuclear pore complexes and centrosomes. J Cell Sci. 1999 Nov;112 ( Pt 21):3649-56.</reference_text>
+      <pubmed_id>10523501</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chi NW, Lodish HF: Tankyrase is a golgi-associated mitogen-activated protein kinase substrate that interacts with IRAP in GLUT4 vesicles. J Biol Chem. 2000 Dec 8;275(49):38437-44.</reference_text>
+      <pubmed_id>10988299</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cook BD, Dynek JN, Chang W, Shostak G, Smith S: Role for the related poly(ADP-Ribose) polymerases tankyrase 1 and 2 at human telomeres. Mol Cell Biol. 2002 Jan;22(1):332-42.</reference_text>
+      <pubmed_id>11739745</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Loayza D, De Lange T: POT1 as a terminal transducer of TRF1 telomere length control.  Nature. 2003 Jun 26;423(6943):1013-8. Epub 2003 May 25.</reference_text>
+      <pubmed_id>12768206</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

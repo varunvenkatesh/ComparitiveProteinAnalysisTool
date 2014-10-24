@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:58:28 -0700</creation_date>
+  <update_date>2013-01-15 19:58:28 -0700</update_date>
+  <accession>HMDBP07376</accession>
+  <secondary_accessions>
+    <accession>13030</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>SubName: cDNA, FLJ93028, Homo sapiens dihydrofolate reductase (DHFR), mRNA</synonym>
+  </synonyms>
+  <gene_name>DYR</gene_name>
+  <general_function>Involved in dihydrofolate reductase activity</general_function>
+  <specific_function/>
+  <pathways>
+    <pathway>
+      <name>Folate Metabolism</name>
+      <smpdb_id>SMP00053</smpdb_id>
+      <kegg_map_id>map00670</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00121</accession>
+      <name>Folic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01056</accession>
+      <name>Dihydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01846</accession>
+      <name>Tetrahydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nadp or nadph binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-nh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-nh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dihydrofolate reductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>serine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycine biosynthetic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location/>
+    <locus/>
+    <gene_sequence>&gt;564 bp
+ATGGTTGGTTCGCTAAACTGCATCGTCGCTGTGTCCCAGAACATGGGCATCGGCAAGAAC
+GGGGACCTGCCCTGGCCACCGCTCAGGAATGAATTCAGATATTTCCAGAGAATGACCACA
+ACCTCTTCAGTAGAAGGTAAACAGAATCTGGTGATTATGGGTAAGAAGACCTGGTTCTCC
+ATTCCTGAGAAGAATCGACCTTTAAAGGGTAGAATTAATTTAGTTCTCAGCAGAGAACTC
+AAGGAACCTCCACAAGGAGCTCATTTTCTTTCCAGAAGTCTAGATGATGCCTTAAAACTT
+ACTGAACAACCAGAATTAGCAAATAAAGTAGACATGGTCTGGATAGTTGGTGGCAGTTCT
+GTTTATAAGGAAGCCATGAATCACCCAGGCCATCTTAAACTATTTGTGACAAGGATCATG
+CAAGACTTTGAAAGTGACACGTTTTTTCCAGAAATTGATTTGGAGAAATATAAACTTCTG
+CCAGAATACCCAGGTGTTCTCTCTGATGTCCAGGAGGAGAAAGGCATTAAGTACAAATTT
+GAAGTATATGAGAAGAATGATTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>187</residue_number>
+    <molecular_weight>21452.6</molecular_weight>
+    <theoretical_pi>7.6</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DHFR_1</name>
+        <pfam_id>PF00186</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Dihydrofolate reductase
+MVGSLNCIVAVSQNMGIGKNGDLPWPPLRNEFRYFQRMTTTSSVEGKQNLVIMGKKTWFS
+IPEKNRPLKGRINLVLSRELKEPPQGAHFLSRSLDDALKLTEQPELANKVDMVWIVGGSS
+VYKEAMNHPGHLKLFVTRIMQDFESDTFFPEIDLEKYKLLPEYPGVLSDVQEEKGIKYKF
+EVYEKND</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>189069188</genbank_protein_id>
+  <uniprot_id>B0YJ76</uniprot_id>
+  <uniprot_name>B0YJ76_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1MVT</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AK312642</genbank_gene_id>
+  <genecard_id>DYR</genecard_id>
+  <geneatlas_id>DYR</geneatlas_id>
+  <hgnc_id>HGNC:2861</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kao TT, Wang KC, Chang WN, Lin CY, Chen BH, Wu HL, Shi GY, Tsai JN, Fu TF: Characterization and comparative studies of zebrafish and human recombinant dihydrofolate reductases--inhibition by folic acid and polyphenols. Drug Metab Dispos. 2008 Mar;36(3):508-16. Epub 2007 Dec 3.</reference_text>
+      <pubmed_id>18056255</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

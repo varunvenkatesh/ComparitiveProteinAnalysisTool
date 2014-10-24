@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:20 -0700</creation_date>
+  <update_date>2013-05-27 11:06:53 -0600</update_date>
+  <accession>HMDBP00472</accession>
+  <secondary_accessions>
+    <accession>5712</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Ferroxidase</synonym>
+  </synonyms>
+  <gene_name>CP</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Ceruloplasmin is a blue, copper-binding (6-7 atoms per molecule) glycoprotein. It has ferroxidase activity oxidizing Fe(2+) to Fe(3+) without releasing radical oxygen species. It is involved in iron transport across the cell membrane. Provides Cu(2+) ions for the ascorbate-mediated deaminase degradation of the heparan sulfate chains of GPC1. May also play a role in fetal lung development or pulmonary antioxidant defense (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Porphyrin and chlorophyll metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00860</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00657</accession>
+      <name>Copper</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12943</accession>
+      <name>Fe3+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>copper ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>copper ion binding</description>
+      <go_id>GO:0005507</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ferroxidase activity</description>
+      <go_id>GO:0004322</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular iron ion homeostasis</description>
+      <go_id>GO:0006879</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>copper ion transport</description>
+      <go_id>GO:0006825</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transmembrane transport</description>
+      <go_id>GO:0055085</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3q23-q25</locus>
+    <gene_sequence>&gt;3198 bp
+ATGAAGATTTTGATACTTGGTATTTTTCTGTTTTTATGTAGTACCCCAGCCTGGGCGAAA
+GAAAAGCATTATTACATTGGAATTATTGAAACGACTTGGGATTATGCCTCTGACCATGGG
+GAAAAGAAACTTATTTCTGTTGACACGGAACATTCCAATATCTATCTTCAAAATGGCCCA
+GATAGAATTGGGAGACTATATAAGAAGGCCCTTTATCTTCAGTACACAGATGAAACCTTT
+AGGACAACTATAGAAAAACCGGTCTGGCTTGGGTTTTTAGGCCCTATTATCAAAGCTGAA
+ACTGGAGATAAAGTTTATGTACACTTAAAAAACCTTGCCTCTAGGCCCTACACCTTTCAT
+TCACATGGAATAACTTACTATAAGGAACATGAGGGGGCCATCTACCCTGATAACACCACA
+GATTTTCAAAGAGCAGATGACAAAGTATATCCAGGAGAGCAGTATACATACATGTTGCTT
+GCCACTGAAGAACAAAGTCCTGGGGAAGGAGATGGCAATTGTGTGACTAGGATTTACCAT
+TCCCACATTGATGCTCCAAAAGATATTGCCTCAGGACTCATCGGACCTTTAATAATCTGT
+AAAAAAGATTCTCTAGATAAAGAAAAAGAAAAACATATTGACCGAGAATTTGTGGTGATG
+TTTTCTGTGGTGGATGAAAATTTCAGCTGGTACCTAGAAGACAACATTAAAACCTACTGC
+TCAGAACCAGAGAAAGTTGACAAAGACAACGAAGACTTCCAGGAGAGTAACAGAATGTAT
+TCTGTGAATGGATACACTTTTGGAAGTCTCCCAGGACTCTCCATGTGTGCTGAAGACAGA
+GTAAAATGGTACCTTTTTGGTATGGGTAATGAAGTTGATGTGCACGCAGCTTTCTTTCAC
+GGGCAAGCACTGACTAACAAGAACTACCGTATTGACACAATCAACCTCTTTCCTGCTACC
+CTGTTTGATGCTTATATGGTGGCCCAGAACCCTGGAGAATGGATGCTCAGCTGTCAGAAT
+CTAAACCATCTGAAAGCCGGTTTGCAAGCCTTTTTCCAGGTCCAGGAGTGTAACAAGTCT
+TCATCAAAGGATAATATCCGTGGGAAGCATGTTAGACACTACTACATTGCCGCTGAGGAA
+ATCATCTGGAACTATGCTCCCTCTGGTATAGACATCTTCACTAAAGAAAACTTAACAGCA
+CCTGGAAGTGACTCAGCGGTGTTTTTTGAACAAGGTACCACAAGAATTGGAGGCTCTTAT
+AAAAAGCTGGTTTATCGTGAGTACACAGATGCCTCCTTCACAAATCGAAAGGAGAGAGGC
+CCTGAAGAAGAGCATCTTGGCATCCTGGGTCCTGTCATTTGGGCAGAGGTGGGAGACACC
+ATCAGAGTAACCTTCCATAACAAAGGAGCATATCCCCTCAGTATTGAGCCGATTGGGGTG
+AGATTCAATAAGAACAACGAGGGCACATACTATTCCCCAAATTACAACCCCCAGAGCAGA
+AGTGTGCCTCCTTCAGCCTCCCATGTGGCACCCACAGAAACATTCACCTATGAATGGACT
+GTCCCCAAAGAAGTAGGACCCACTAATGCAGATCCTGTGTGTCTAGCTAAGATGTATTAT
+TCTGCTGTGGATCCCACTAAAGATATATTCACTGGGCTTATTGGGCCAATGAAAATATGC
+AAGAAAGGAAGTTTACATGCAAATGGGAGACAGAAAGATGTAGACAAGGAATTCTATTTG
+TTTCCTACAGTATTTGATGAGAATGAGAGTTTACTCCTGGAAGATAATATTAGAATGTTT
+ACAACTGCACCTGATCAGGTGGATAAGGAAGATGAAGACTTTCAGGAATCTAATAAAATG
+CACTCCATGAATGGATTCATGTATGGGAATCAGCCGGGTCTCACTATGTGCAAAGGAGAT
+TCGGTCGTGTGGTACTTATTCAGCGCCGGAAATGAGGCCGATGTACATGGAATATACTTT
+TCAGGAAACACATATCTGTGGAGAGGAGAACGGAGAGACACAGCAAACCTCTTCCCTCAA
+ACAAGTCTTACGCTCCACATGTGGCCTGACACAGAGGGGACTTTTAATGTTGAATGCCTT
+ACAACTGATCATTACACAGGCGGCATGAAGCAAAAATATACTGTGAACCAATGCAGGCGG
+CAGTCTGAGGATTCCACCTTCTACCTGGGAGAGAGGACATACTATATCGCAGCAGTGGAG
+GTGGAATGGGATTATTCCCCACAAAGGGAGTGGGAAAAGGAGCTGCATCATTTACAAGAG
+CAGAATGTTTCAAATGCATTTTTAGATAAGGGAGAGTTTTACATAGGCTCAAAGTACAAG
+AAAGTTGTGTATCGGCAGTATACTGATAGCACATTCCGTGTTCCAGTGGAGAGAAAAGCT
+GAAGAAGAACATCTGGGAATTCTAGGTCCACAACTTCATGCAGATGTTGGAGACAAAGTC
+AAAATTATCTTTAAAAACATGGCCACAAGGCCCTACTCAATACATGCCCATGGGGTACAA
+ACAGAGAGTTCTACAGTTACTCCAACATTACCAGGTGAAACTCTCACTTACGTATGGAAA
+ATCCCAGAAAGATCTGGAGCTGGAACAGAGGATTCTGCTTGTATTCCATGGGCTTATTAT
+TCAACTGTGGATCAAGTTAAGGACCTCTACAGTGGATTAATTGGCCCCCTGATTGTTTGT
+CGAAGACCTTACTTGAAAGTATTCAATCCCAGAAGGAAGCTGGAATTTGCCCTTCTGTTT
+CTAGTTTTTGATGAGAATGAATCTTGGTACTTAGATGACAACATCAAAACATACTCTGAT
+CACCCCGAGAAAGTAAACAAAGATGATGAGGAATTCATAGAAAGCAATAAAATGCATGCT
+ATTAATGGAAGAATGTTTGGAAACCTACAAGGCCTCACAATGCACGTGGGAGATGAAGTC
+AACTGGTATCTGATGGGAATGGGCAATGAAATAGACTTACACACTGTACATTTTCACGGC
+CATAGCTTCCAATACAAGCACAGGGGAGTTTATAGTTCTGATGTCTTTGACATTTTCCCT
+GGAACATACCAAACCCTAGAAATGTTTCCAAGAACACCTGGAATTTGGTTACTCCACTGC
+CATGTGACCGACCACATTCATGCTGGAATGGAAACCACTTACACCGTTCTACAAAATGAA
+GACACCAAATCTGGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1065</residue_number>
+    <molecular_weight>122204.45</molecular_weight>
+    <theoretical_pi>5.716</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Cu-oxidase</name>
+        <pfam_id>PF00394</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Cu-oxidase_2</name>
+        <pfam_id>PF07731</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Cu-oxidase_3</name>
+        <pfam_id>PF07732</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ceruloplasmin
+MKILILGIFLFLCSTPAWAKEKHYYIGIIETTWDYASDHGEKKLISVDTEHSNIYLQNGP
+DRIGRLYKKALYLQYTDETFRTTIEKPVWLGFLGPIIKAETGDKVYVHLKNLASRPYTFH
+SHGITYYKEHEGAIYPDNTTDFQRADDKVYPGEQYTYMLLATEEQSPGEGDGNCVTRIYH
+SHIDAPKDIASGLIGPLIICKKDSLDKEKEKHIDREFVVMFSVVDENFSWYLEDNIKTYC
+SEPEKVDKDNEDFQESNRMYSVNGYTFGSLPGLSMCAEDRVKWYLFGMGNEVDVHAAFFH
+GQALTNKNYRIDTINLFPATLFDAYMVAQNPGEWMLSCQNLNHLKAGLQAFFQVQECNKS
+SSKDNIRGKHVRHYYIAAEEIIWNYAPSGIDIFTKENLTAPGSDSAVFFEQGTTRIGGSY
+KKLVYREYTDASFTNRKERGPEEEHLGILGPVIWAEVGDTIRVTFHNKGAYPLSIEPIGV
+RFNKNNEGTYYSPNYNPQSRSVPPSASHVAPTETFTYEWTVPKEVGPTNADPVCLAKMYY
+SAVDPTKDIFTGLIGPMKICKKGSLHANGRQKDVDKEFYLFPTVFDENESLLLEDNIRMF
+TTAPDQVDKEDEDFQESNKMHSMNGFMYGNQPGLTMCKGDSVVWYLFSAGNEADVHGIYF
+SGNTYLWRGERRDTANLFPQTSLTLHMWPDTEGTFNVECLTTDHYTGGMKQKYTVNQCRR
+QSEDSTFYLGERTYYIAAVEVEWDYSPQREWEKELHHLQEQNVSNAFLDKGEFYIGSKYK
+KVVYRQYTDSTFRVPVERKAEEEHLGILGPQLHADVGDKVKIIFKNMATRPYSIHAHGVQ
+TESSTVTPTLPGETLTYVWKIPERSGAGTEDSACIPWAYYSTVDQVKDLYSGLIGPLIVC
+RRPYLKVFNPRRKLEFALLFLVFDENESWYLDDNIKTYSDHPEKVNKDDEEFIESNKMHA
+INGRMFGNLQGLTMHVGDEVNWYLMGMGNEIDLHTVHFHGHSFQYKHRGVYSSDVFDIFP
+GTYQTLEMFPRTPGIWLLHCHVTDHIHAGMETTYTVLQNEDTKSG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>180256</genbank_protein_id>
+  <uniprot_id>P00450</uniprot_id>
+  <uniprot_name>CERU_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1KCW</pdb_id>
+    <pdb_id>2J5W</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M13699</genbank_gene_id>
+  <genecard_id>CP</genecard_id>
+  <geneatlas_id>CP</geneatlas_id>
+  <hgnc_id>HGNC:2295</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Koschinsky ML, Funk WD, van Oost BA, MacGillivray RT: Complete cDNA sequence of human preceruloplasmin.  Proc Natl Acad Sci U S A. 1986 Jul;83(14):5086-90.</reference_text>
+      <pubmed_id>2873574</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daimon M, Yamatani K, Igarashi M, Fukase N, Kawanami T, Kato T, Tominaga M, Sasaki H: Fine structure of the human ceruloplasmin gene.  Biochem Biophys Res Commun. 1995 Mar 28;208(3):1028-35.</reference_text>
+      <pubmed_id>7702601</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mercer JF, Grimes A: Isolation of a human ceruloplasmin cDNA clone that includes the N-terminal leader sequence. FEBS Lett. 1986 Jul 28;203(2):185-90.</reference_text>
+      <pubmed_id>3755405</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang F, Naylor SL, Lum JB, Cutshaw S, McCombs JL, Naberhaus KH, McGill JR, Adrian GS, Moore CM, Barnett DR, et al.: Characterization, mapping, and expression of the human ceruloplasmin gene.  Proc Natl Acad Sci U S A. 1986 May;83(10):3257-61.</reference_text>
+      <pubmed_id>3486416</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi N, Ortel TL, Putnam FW: Single-chain structure of human ceruloplasmin: the complete amino acid sequence of the whole molecule. Proc Natl Acad Sci U S A. 1984 Jan;81(2):390-4.</reference_text>
+      <pubmed_id>6582496</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi N, Bauman RA, Ortel TL, Dwulet FE, Wang CC, Putnam FW: Internal triplication in the structure of human ceruloplasmin.  Proc Natl Acad Sci U S A. 1983 Jan;80(1):115-9.</reference_text>
+      <pubmed_id>6571985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dwulet FE, Putnam FW: Complete amino acid sequence of a 50,000-dalton fragment of human ceruloplasmin. Proc Natl Acad Sci U S A. 1981 Feb;78(2):790-4.</reference_text>
+      <pubmed_id>6940148</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kingston IB, Kingston BL, Putnam FW: Primary structure of a histidine-rich proteolytic fragment of human ceruloplasmin. I. Amino acid sequence of the cyanogen bromide peptides. J Biol Chem. 1980 Apr 10;255(7):2878-85.</reference_text>
+      <pubmed_id>6987229</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kingston IB, Kingston BL, Putnam FW: Primary structure of a histidine-rich proteolytic fragment of human ceruloplasmin. II. Amino acid sequence of the tryptic peptides. J Biol Chem. 1980 Apr 10;255(7):2886-96.</reference_text>
+      <pubmed_id>6987230</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang FM, Friedrichs WE, Cupples RL, Bonifacio MJ, Sanford JA, Horton WA, Bowman BH: Human ceruloplasmin. Tissue-specific expression of transcripts produced by alternative splicing. J Biol Chem. 1990 Jun 25;265(18):10780-5.</reference_text>
+      <pubmed_id>2355023</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hellman NE, Gitlin JD: Ceruloplasmin metabolism and function.  Annu Rev Nutr. 2002;22:439-58. Epub 2002 Apr 4.</reference_text>
+      <pubmed_id>12055353</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kristiansen TZ, Bunkenborg J, Gronborg M, Molina H, Thuluvath PJ, Argani P, Goggins MG, Maitra A, Pandey A: A proteomic analysis of human bile.  Mol Cell Proteomics. 2004 Jul;3(7):715-28. Epub 2004 Apr 14.</reference_text>
+      <pubmed_id>15084671</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bunkenborg J, Pilch BJ, Podtelejnikov AV, Wisniewski JR: Screening for N-glycosylated proteins by liquid chromatography mass spectrometry. Proteomics. 2004 Feb;4(2):454-65.</reference_text>
+      <pubmed_id>14760718</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nilsson J, Ruetschi U, Halim A, Hesse C, Carlsohn E, Brinkmalm G, Larson G: Enrichment of glycopeptides for glycan structure and attachment site identification. Nat Methods. 2009 Nov;6(11):809-11. Epub 2009 Oct 18.</reference_text>
+      <pubmed_id>19838169</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bento I, Peixoto C, Zaitsev VN, Lindley PF: Ceruloplasmin revisited: structural and functional roles of various metal cation-binding sites. Acta Crystallogr D Biol Crystallogr. 2007 Feb;63(Pt 2):240-8. Epub 2007       Jan 16.</reference_text>
+      <pubmed_id>17242517</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hochstrasser H, Bauer P, Walter U, Behnke S, Spiegel J, Csoti I, Zeiler B, Bornemann A, Pahnke J, Becker G, Riess O, Berg D: Ceruloplasmin gene variations and substantia nigra hyperechogenicity in Parkinson disease. Neurology. 2004 Nov 23;63(10):1912-7.</reference_text>
+      <pubmed_id>15557511</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hochstrasser H, Tomiuk J, Walter U, Behnke S, Spiegel J, Kruger R, Becker G, Riess O, Berg D: Functional relevance of ceruloplasmin mutations in Parkinson's disease.  FASEB J. 2005 Nov;19(13):1851-3. Epub 2005 Sep 8.</reference_text>
+      <pubmed_id>16150804</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

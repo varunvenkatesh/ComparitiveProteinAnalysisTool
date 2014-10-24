@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:38:59 -0700</creation_date>
+  <update_date>2013-05-27 11:06:35 -0600</update_date>
+  <accession>HMDBP05584</accession>
+  <secondary_accessions>
+    <accession>11183</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Cytidine aminohydrolase</synonym>
+  </synonyms>
+  <gene_name>CDA</gene_name>
+  <general_function>Involved in zinc ion binding</general_function>
+  <specific_function>This enzyme scavenge exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - other enzymes</name>
+      <smpdb_id/>
+      <kegg_map_id>map00983</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB14584</accession>
+      <name>Gemcitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15063</accession>
+      <name>Azacitidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15122</accession>
+      <name>Cytarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15233</accession>
+      <name>Capecitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00089</accession>
+      <name>Cytidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00296</accession>
+      <name>Uridine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00014</accession>
+      <name>Deoxycytidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00012</accession>
+      <name>Deoxyuridine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60405</accession>
+      <name>5'-Deoxy-5-fluorocytidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60406</accession>
+      <name>5'-Deoxy-5-fluorouridine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cytidine deaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyrimidine nucleoside metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyrimidine ribonucleoside metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cytidine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular region</description>
+      <go_id>GO:0005576</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cytidine deaminase activity</description>
+      <go_id>GO:0004126</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleoside binding</description>
+      <go_id>GO:0001882</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell surface receptor signaling pathway</description>
+      <go_id>GO:0007166</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to external biotic stimulus</description>
+      <go_id>GO:0071217</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cytosine metabolic process</description>
+      <go_id>GO:0019858</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell growth</description>
+      <go_id>GO:0030308</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of nucleotide metabolic process</description>
+      <go_id>GO:0045980</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotetramerization</description>
+      <go_id>GO:0051289</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleoside salvage</description>
+      <go_id>GO:0043097</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cycloheximide</description>
+      <go_id>GO:0046898</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p36.2-p35</locus>
+    <gene_sequence>&gt;441 bp
+ATGGCCCAGAAGCGTCCTGCCTGCACCCTGAAGCCTGAGTGTGTCCAGCAGCTGCTGGTT
+TGCTCCCAGGAGGCCAAGAAGTCAGCCTACTGCCCCTACAGTCACTTTCCTGTGGGGGCT
+GCCCTGCTCACCCAGGAGGGGAGAATCTTCAAAGGGTGCAACATAGAAAATGCCTGCTAC
+CCGCTGGGCATCTGTGCTGAACGGACCGCTATCCAGAAGGCCGTCTCAGAAGGGTACAAG
+GATTTCAGGGCAATTGCTATCGCCAGTGACATGCAAGATGATTTTATCTCTCCATGTGGG
+GCCTGCAGGCAAGTCATGAGAGAGTTTGGCACCAACTGGCCCGTGTACATGACCAAGCCG
+GATGGTACGTATATTGTCATGACGGTCCAGGAGCTGCTGCCCTCCTCCTTTGGGCCTGAG
+GACCTGCAGAAGACTCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>146</residue_number>
+    <molecular_weight>16184.545</molecular_weight>
+    <theoretical_pi>6.921</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>dCMP_cyt_deam_1</name>
+        <pfam_id>PF00383</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Cytidine deaminase
+MAQKRPACTLKPECVQQLLVCSQEAKKSAYCPYSHFPVGAALLTQEGRIFKGCNIENACY
+PLGICAERTAIQKAVSEGYKDFRAIAIASDMQDDFISPCGACRQVMREFGTNWPVYMTKP
+DGTYIVMTVQELLPSSFGPEDLQKTQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>598149</genbank_protein_id>
+  <uniprot_id>P32320</uniprot_id>
+  <uniprot_name>CDD_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1MQ0</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>L27943</genbank_gene_id>
+  <genecard_id>CDA</genecard_id>
+  <geneatlas_id>CDA</geneatlas_id>
+  <hgnc_id>HGNC:1712</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Laliberte J, Momparler RL: Human cytidine deaminase: purification of enzyme, cloning, and expression of its complementary DNA. Cancer Res. 1994 Oct 15;54(20):5401-7.</reference_text>
+      <pubmed_id>7923172</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Demontis S, Terao M, Brivio M, Zanotta S, Bruschi M, Garattini E: Isolation and characterization of the gene coding for human cytidine deaminase. Biochim Biophys Acta. 1998 Dec 22;1443(3):323-33.</reference_text>
+      <pubmed_id>9878810</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gran C, Boyum A, Johansen RF, Lovhaug D, Seeberg EC: Growth inhibition of granulocyte-macrophage colony-forming cells by human cytidine deaminase requires the catalytic function of the protein. Blood. 1998 Jun 1;91(11):4127-35.</reference_text>
+      <pubmed_id>9596658</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuhn K, Bertling WM, Emmrich F: Cloning of a functional cDNA for human cytidine deaminase (CDD) and its use as a marker of monocyte/macrophage differentiation. Biochem Biophys Res Commun. 1993 Jan 15;190(1):1-7.</reference_text>
+      <pubmed_id>8422236</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chung SJ, Fromme JC, Verdine GL: Structure of human cytidine deaminase bound to a potent inhibitor.  J Med Chem. 2005 Feb 10;48(3):658-60.</reference_text>
+      <pubmed_id>15689149</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Giovannetti E, Laan AC, Vasile E, Tibaldi C, Nannizzi S, Ricciardi S, Falcone A, Danesi R, Peters GJ: Correlation between cytidine deaminase genotype and gemcitabine deamination in blood samples. Nucleosides Nucleotides Nucleic Acids. 2008 Jun;27(6):720-5.</reference_text>
+        <pubmed_id>18600531</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gusella M, Pasini F, Bolzonella C, Meneghetti S, Barile C, Bononi A, Toso S, Menon D, Crepaldi G, Modena Y, Stievano L, Padrini R: Equilibrative nucleoside transporter 1 genotype, cytidine deaminase activity and age predict gemcitabine plasma clearance in patients with solid tumours. Br J Clin Pharmacol. 2011 Mar;71(3):437-44. doi:       10.1111/j.1365-2125.2010.03838.x.</reference_text>
+        <pubmed_id>21284703</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wong A, Soo RA, Yong WP, Innocenti F: Clinical pharmacology and pharmacogenetics of gemcitabine.  Drug Metab Rev. 2009;41(2):77-88.</reference_text>
+        <pubmed_id>19514966</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Garcia-Manero G, Stoltz ML, Ward MR, Kantarjian H, Sharma S: A pilot pharmacokinetic study of oral azacitidine.  Leukemia. 2008 Sep;22(9):1680-4. Epub 2008 Jun 12.</reference_text>
+        <pubmed_id>18548103</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ohta T, Hori H, Ogawa M, Miyahara M, Kawasaki H, Taniguchi N, Komada Y: Impact of cytidine deaminase activity on intrinsic resistance to cytarabine in carcinoma cells. Oncol Rep. 2004 Nov;12(5):1115-20.</reference_text>
+        <pubmed_id>15492802</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lamba JK: Genetic factors influencing cytarabine therapy.  Pharmacogenomics. 2009 Oct;10(10):1657-74.</reference_text>
+        <pubmed_id>19842938</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Capecitabine</name>
+        <accession>HMDB15233</accession>
+      </metabolite>
+      <reference>
+        <reference_text>de Bono JS, Twelves CJ: The oral fluorinated pyrimidines.  Invest New Drugs. 2001;19(1):41-59.</reference_text>
+        <pubmed_id>11291832</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Capecitabine</name>
+        <accession>HMDB15233</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tsukamoto Y, Kato Y, Ura M, Horii I, Ishitsuka H, Kusuhara H, Sugiyama Y: A physiologically based pharmacokinetic analysis of capecitabine, a triple prodrug of 5-FU, in humans: the mechanism for tumor-selective accumulation of 5-FU. Pharm Res. 2001 Aug;18(8):1190-202.</reference_text>
+        <pubmed_id>11587492</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Capecitabine</name>
+        <accession>HMDB15233</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ishitsuka H, Shimma N, Horii I: [Discovery and development of novel anticancer drug capecitabine].  Yakugaku Zasshi. 1999 Dec;119(12):881-97.</reference_text>
+        <pubmed_id>10630095</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Capecitabine</name>
+        <accession>HMDB15233</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ishitsuka H: Capecitabine: preclinical pharmacology studies.  Invest New Drugs. 2000 Nov;18(4):343-54.</reference_text>
+        <pubmed_id>11081570</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Capecitabine</name>
+        <accession>HMDB15233</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Endo M, Miwa M, Eda H, Ura M, Tanimura H, Ishikawa T, Miyazaki-Nose T, Hattori K, Shimma N, Yamada-Okabe H, Ishitsuka H: Augmentation of the antitumor activity of capecitabine by a tumor selective dihydropyrimidine dehydrogenase inhibitor, RO0094889. Int J Cancer. 2003 Sep 20;106(5):799-805.</reference_text>
+        <pubmed_id>12866042</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

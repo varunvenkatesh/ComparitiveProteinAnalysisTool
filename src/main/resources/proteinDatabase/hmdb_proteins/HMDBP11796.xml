@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:22:11 -0600</creation_date>
+  <update_date>2013-05-27 11:22:11 -0600</update_date>
+  <accession>HMDBP11796</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Clinically amyopathic dermatomyositis autoantigen 140 kDa</synonym>
+    <synonym>Helicase with 2 CARD domains</synonym>
+    <synonym>Interferon-induced with helicase C domain protein 1</synonym>
+    <synonym>Melanoma differentiation-associated protein 5</synonym>
+    <synonym>Murabutide down-regulated protein</synonym>
+    <synonym>RIG-I-like receptor 2</synonym>
+    <synonym>RNA helicase-DEAD box protein 116</synonym>
+    <synonym>CADM-140 autoantigen</synonym>
+    <synonym>Helicard</synonym>
+    <synonym>MDA-5</synonym>
+    <synonym>RLR-2</synonym>
+  </synonyms>
+  <gene_name>IFIH1</gene_name>
+  <general_function/>
+  <specific_function>Innate immune receptor which acts as a cytoplasmic sensor of viral nucleic acids and plays a major role in sensing viral infection and in the activation of a cascade of antiviral responses including the induction of type I interferons and proinflammatory cytokines. Its ligands include mRNA lacking 2'-O-methylation at their 5' cap and long-dsRNA (&gt;1 kb in length). Upon ligand binding it associates with mitochondria antiviral signaling protein (MAVS/IPS1) which activates the IKK-related kinases: TBK1 and IKBKE which phosphorylate interferon regulatory factors: IRF3 and IRF7 which in turn activate transcription of antiviral immunological genes, including interferons (IFNs); IFN-alpha and IFN-beta. Responsible for detecting the Picornaviridae family members such as encephalomyocarditis virus (EMCV) and mengo encephalomyocarditis virus (ENMG). Can also detect other viruses such as dengue virus (DENV), west Nile virus (WNV), and reovirus. Also involved in antiviral signaling in response to viruses containing a dsDNA genome, such as vaccinia virus. Plays an important role in amplifying innate immune signaling through recognition of RNA metabolites that are produced during virus infection by ribonuclease L (RNase L). May play an important role in enhancing natural killer cell function and may be involved in growth inhibition and apoptosis in several tumor cell lines.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RIG-I-like receptor signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04622</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hepatitis B</name>
+      <smpdb_id/>
+      <kegg_map_id>map05161</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Measles</name>
+      <smpdb_id/>
+      <kegg_map_id>map05162</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Influenza A</name>
+      <smpdb_id/>
+      <kegg_map_id>map05164</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Herpes simplex infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05168</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of apoptotic process</description>
+      <go_id>GO:0042981</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ribonucleoprotein complex binding</description>
+      <go_id>GO:0043021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>helicase activity</description>
+      <go_id>GO:0004386</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>double-stranded RNA binding</description>
+      <go_id>GO:0003725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of interferon-beta production</description>
+      <go_id>GO:0032728</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>single-stranded RNA binding</description>
+      <go_id>GO:0003727</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>detection of virus</description>
+      <go_id>GO:0009597</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of type I interferon production</description>
+      <go_id>GO:0032480</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of interferon-alpha production</description>
+      <go_id>GO:0032727</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of type III interferon production</description>
+      <go_id>GO:0034344</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein sumoylation</description>
+      <go_id>GO:0016925</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cytoplasmic pattern recognition receptor signaling pathway in response to virus</description>
+      <go_id>GO:0039528</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q24</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>116688.14</molecular_weight>
+    <theoretical_pi>5.521</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|27886568|ref|NP_071451.2| interferon-induced helicase C domain-containing protein 1 [Homo sapiens]
+MSNGYSTDENFRYLISCFRARVKMYIQVEPVLDYLTFLPAEVKEQIQRTVATSGNMQAVE
+LLLSTLEKGV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9BYX4</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2RQB</pdb_id>
+    <pdb_id>3B6E</pdb_id>
+    <pdb_id>3GA3</pdb_id>
+    <pdb_id>4GL2</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:18873</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

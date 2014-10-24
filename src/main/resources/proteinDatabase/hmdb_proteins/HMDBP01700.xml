@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:45 -0700</creation_date>
+  <update_date>2013-05-27 11:20:19 -0600</update_date>
+  <accession>HMDBP01700</accession>
+  <secondary_accessions>
+    <accession>7038</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HA synthase 1</synonym>
+    <synonym>HuHAS1</synonym>
+    <synonym>Hyaluronate synthase 1</synonym>
+    <synonym>Hyaluronic acid synthase 1</synonym>
+  </synonyms>
+  <gene_name>HAS1</gene_name>
+  <general_function>Involved in transferase activity, transferring hexosyl groups</general_function>
+  <specific_function>Plays a role in hyaluronan/hyaluronic acid (HA) synthesis. Also able to catalyze the synthesis of chito-oligosaccharide depending on the substrate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>hyaluronan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10366</accession>
+      <name>Hyaluronan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00290</accession>
+      <name>Uridine diphosphate-N-acetylglucosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00935</accession>
+      <name>Uridine diphosphate glucuronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02061</accession>
+      <name>Hyaluronic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hyaluronan synthase activity</description>
+      <go_id>GO:0050501</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell adhesion</description>
+      <go_id>GO:0007155</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to platelet-derived growth factor stimulus</description>
+      <go_id>GO:0036120</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hyaluronan biosynthetic process</description>
+      <go_id>GO:0030213</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of fibroblast migration</description>
+      <go_id>GO:0010764</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19q13.4</locus>
+    <gene_sequence>&gt;1737 bp
+ATGAGACAGCAGGACGCGCCCAAGCCCACTCCTGCAGCCTGCCGCTGCTCCGGCCTGGCC
+CGGAGGGTGCTGACCATCGCCTTCGCCCTGCTCATCCTGGGCCTCATGACCTGGGCCTAC
+GCCGCCGGGGTGCCGCTGGCCTCCGATCGCTACGGCCTCCTGGCCTTCGGCCTCTACGGG
+GCCTTCCTTTCAGCGCACCTGGTGGCGCAGAGCCTCTTCGCGTACCTGGAGCACCGGCGG
+GTGGCGGCGGCGGCGCGGGGGCCGCTGGATGCAGCCACCGCGCGCAGTGTGGCGCTGACC
+ATCTCCGCCTACCAGGAGGACCCCGCGTACCTGCGCCAGTGCCTGGCGTCCGCCCGCGCC
+CTGCTGTACCCGCGCGCGCGGCTGCGCGTCCTCATGGTGGTGGATGGCAACCGCGCCGAG
+GACCTCTACATGGTCGACATGTTCCGCGAGGTCTTCGCTGACGAGGACCCCGCCACGTAC
+GTGTGGGACGGCAACTACCACCAGCCCTGGGAACCCGCGGCGGCGGGCGCGGTGGGCGCC
+GGAGCCTATCGGGAGGTGGAGGCGGAGGATCCTGGGCGGCTGGCAGTGGAGGCGCTGGTG
+AGGACTCGCAGGTGCGTGTGCGTGGCGCAGCGCTGGGGCGGCAAGCGCGAGGTCATGTAC
+ACAGCCTTCAAGGCGCTCGGAGATTCGGTGGACTACGTGCAGGTCTGTGACTCGGACACA
+AGGTTGGACCCCATGGCACTGCTGGAGCTCGTGCGGGTACTGGACGAGGACCCCCGGGTA
+GGGGCTGTTGGTGGGGACGTGCGGATCCTTAACCCTCTGGACTCCTGGGTCAGCTTCCTA
+AGCAGCCTGCGATACTGGGTAGCCTTCAATGTGGAGCGGGCTTGTCAGAGCTACTTCCAC
+TGTGTATCCTGCATCAGCGGTCCTCTAGGCCTATATAGGAATAACCTCTTGCAGCAGTTT
+CTTGAGGCCTGGTACAACCAGAAGTTCCTGGGTACCCACTGTACTTTTGGGGATGACCGG
+CACCTCACCAACCGCATGCTCAGCATGGGTTATGCTACCAAGTACACCTCCAGGTCCCGC
+TGCTACTCAGAGACGCCCTCGTCCTTCCTGCGGTGGCTGAGCCAGCAGACACGCTGGTCC
+AAGTCGTACTTCCGTGAGTGGCTGTACAACGCGCTCTGGTGGCACCGGCACCATGCGTGG
+ATGACCTACGAGGCGGTGGTCTCCGGCCTGTTCCCCTTCTTCGTGGCGGCCACTGTGCTG
+CGTCTGTTCTACGCGGGCCGCCCTTGGGCGCTGCTGTGGGTGCTGCTGTGCGTGCAGGGC
+GTGGCACTGGCCAAGGCGGCCTTCGCGGCCTGGCTGCGGGGCTGCCTGCGCATGGTGCTT
+CTGTCGCTCTACGCGCCCCTCTACATGTGTGGCCTCCTGCCTGCCAAGTTCCTGGCGCTA
+GTCACCATGAACCAGAGTGGCTGGGGCACCTCGGGCCGGCGGAAGCTGGCCGCTAACTAC
+GTCCCTCTGCTGCCCCTGGCGCTCTGGGCGCTGCTGCTGCTTGGGGGCCTGGTCCGCAGC
+GTAGCACACGAGGCCAGGGCCGACTGGAGCGGCCCTTCCCGCGCAGCCGAGGCCTACCAC
+TTGGCCGCGGGGGCCGGCGCCTACGTGGGCTACTGGGTGGCCATGTTGACGCTGTACTGG
+GTGGGCGTGCGGAGGCTTTGCCGGCGGCGGACCGGGGGCTACCGCGTCCAGGTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>578</residue_number>
+    <molecular_weight>64831.425</molecular_weight>
+    <theoretical_pi>9.193</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Chitin_synth_2</name>
+        <pfam_id>PF03142</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Hyaluronan synthase 1
+MRQQDAPKPTPAACRCSGLARRVLTIAFALLILGLMTWAYAAGVPLASDRYGLLAFGLYG
+AFLSAHLVAQSLFAYLEHRRVAAAARGPLDAATARSVALTISAYQEDPAYLRQCLASARA
+LLYPRARLRVLMVVDGNRAEDLYMVDMFREVFADEDPATYVWDGNYHQPWEPAAAGAVGA
+GAYREVEAEDPGRLAVEALVRTRRCVCVAQRWGGKREVMYTAFKALGDSVDYVQVCDSDT
+RLDPMALLELVRVLDEDPRVGAVGGDVRILNPLDSWVSFLSSLRYWVAFNVERACQSYFH
+CVSCISGPLGLYRNNLLQQFLEAWYNQKFLGTHCTFGDDRHLTNRMLSMGYATKYTSRSR
+CYSETPSSFLRWLSQQTRWSKSYFREWLYNALWWHRHHAWMTYEAVVSGLFPFFVAATVL
+RLFYAGRPWALLWVLLCVQGVALAKAAFAAWLRGCLRMVLLSLYAPLYMCGLLPAKFLAL
+VTMNQSGWGTSGRRKLAANYVPLLPLALWALLLLGGLVRSVAHEARADWSGPSRAAEAYH
+LAAGAGAYVGYWVAMLTLYWVGVRRLCRRRTGGYRVQV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>9454519</genbank_protein_id>
+  <uniprot_id>Q92839</uniprot_id>
+  <uniprot_name>HAS1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AC018755</genbank_gene_id>
+  <genecard_id>HAS1</genecard_id>
+  <geneatlas_id>HAS1</geneatlas_id>
+  <hgnc_id>HGNC:4818</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Itano N, Kimata K: Molecular cloning of human hyaluronan synthase.  Biochem Biophys Res Commun. 1996 May 24;222(3):816-20.</reference_text>
+      <pubmed_id>8651928</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shyjan AM, Heldin P, Butcher EC, Yoshino T, Briskin MJ: Functional cloning of the cDNA for a human hyaluronan synthase.  J Biol Chem. 1996 Sep 20;271(38):23395-9.</reference_text>
+      <pubmed_id>8798544</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

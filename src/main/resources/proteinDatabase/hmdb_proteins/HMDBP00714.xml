@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:23 -0700</creation_date>
+  <update_date>2013-05-27 11:35:08 -0600</update_date>
+  <accession>HMDBP00714</accession>
+  <secondary_accessions>
+    <accession>5988</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>3-oxoacid-CoA transferase 2A</synonym>
+    <synonym>SCOT-t</synonym>
+    <synonym>Testis-specific succinyl-CoA:3-oxoacid CoA-transferase</synonym>
+    <synonym>3-oxoacid CoA-transferase 2A</synonym>
+  </synonyms>
+  <gene_name>OXCT2</gene_name>
+  <general_function>Involved in CoA-transferase activity</general_function>
+  <specific_function>Key enzyme for ketone body catabolism. Transfers the CoA moiety from succinate to acetoacetate. Formation of the enzyme-CoA intermediate proceeds via an unstable anhydride species formed between the carboxylate groups of the enzyme and substrate (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>succinyl-CoA degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Synthesis and degradation of ketone bodies</name>
+      <smpdb_id/>
+      <kegg_map_id>map00072</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Valine, leucine and isoleucine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00280</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Butanoate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00650</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00060</accession>
+      <name>Acetoacetic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01022</accession>
+      <name>Succinyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01484</accession>
+      <name>Acetoacetyl-CoA</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring sulfur-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>coa-transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ketone body catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>mitochondrion</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>microtubule-based flagellum</description>
+      <go_id>GO:0009434</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3-oxoacid CoA-transferase activity</description>
+      <go_id>GO:0008260</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ketone body catabolic process</description>
+      <go_id>GO:0046952</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p34</locus>
+    <gene_sequence>&gt;1554 bp
+ATGGCGGCGCTGCGGCTCCTGGCGTCAGTGCTCGGGCGCGGGGTCCCCGCCGGCGGCTCA
+GGGCTCGCGCTGTCCCAGGGCTGCGCCCGCTGCTTTGCCACCAGTCCCCGGCTCCGTGCC
+AAGTTCTACGCGGACCCGGTGGAGATGGTGAAGGACATCTCTGACGGGGCGACCGTCATG
+ATCGGGGGCTTCGGGCTCTGCGGGATCCCCGAGAACCTGATCGCCGCGCTGCTCAGGACC
+CGCGTGAAAGACCTGCAGGTGGTCAGCAGCAACGTGGGCGTGGAGGACTTCGGCCTGGGC
+CTCCTGCTGGCCGCCAGGCAGGTCCGTCGCATCGTCTGTTCCTACGTGGGCGAGAACACC
+CTGTGCGAGAGCCAGTACCTGGCAGGAGAGCTGGAGCTGGAGCTCACGCCCCAGGGCACC
+CTGGCCGAGCGCATCCGCGCGGGGGGCGCCGGGGTGCCCGCCTTCTACACCCCCACGGGC
+TACGGGACCCTGGTCCAGGAAGGGGGCGCCCCCATCCGCTACACCCCGGACGGCCACCTG
+GCGCTCATGAGCCAGCCCCGAGAGGTGAGGGAGTTCAACGGCGACCACTTCCTTTTGGAG
+CGCGCCATCCGGGCAGACTTCGCCCTGGTGAAAGGGTGGAAGGCCGACCGGGCAGGAAAC
+GTGGTCTTCAGGAGAAGCGCCCGCAATTTCAACGTGCCCATGTGCAAAGCTGCAGACGTC
+ACGGCGGTGGAGGTGGAAGAGATCGTGGAGGTGGGGGCTTTCCCCCCAGAAGACATCCAC
+GTTCCTAACATTTATGTAGATCGCGTGATAAAGGGGCAGAAATACGAGAAACGAATTGAG
+CGCTTAACGATCCTGAAAGAGGAAGATGGAGACGCTGGAAAGGAAGAGGACGCCAGGACG
+CGCATCATCAGACGCGCAGCTCTGGAATTTGAGGACGGCATGTACGCCAATCTGGGCATA
+GGCATCCCCCTGCTGGCCAGCAACTTCATCAGTCCCAGCATGACTGTCCATCTTCACAGT
+GAGAACGGGATCCTGGGCCTGGGCCCGTTTCCCACGGAAGATGAGGTGGATGCCGACCTC
+ATCAATGCAGGCAAGCAGACGGTCACGGTGCTTCCCGGGGGCTGCTTCTTCGCCAGCGAC
+GACTCCTTCGCCATGATCCGAGGGGGACACATCCAACTAACCATGCTTGGAGCCATGCAG
+GTTTCCAAATACGGCGACCTGGCGAACTGGATGATCCCTGGCAAGAAGGTGAAAGGCATG
+GGCGGTGCCATGGACTTGGTGTCCAGTCAGAAGACCAGAGTGGTGGTCACCATGCAGCAC
+TGCACAAAGGACAACACCCCCAAGATCATGGAGAAATGCACCATGCCGCTGACCGGGAAG
+CGGTGCGTGGACCGCATCATCACCGAGAAGGCCGTGTTTGACGTGCACAGGAAGAAAGAG
+CTGACGCTGAGGGAGCTCTGGGAGGGCCTGACGGTGGACGACATCAAAAAGAGCACGGGG
+TGTGCCTTTGCTGTGTCCCCGAACCTCAGGCCCATGCAGCAGGTGGCACCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>517</residue_number>
+    <molecular_weight>56139.41</molecular_weight>
+    <theoretical_pi>7.134</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CoA_trans</name>
+        <pfam_id>PF01144</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Succinyl-CoA:3-ketoacid-coenzyme A transferase 2, mitochondrial
+MAALRLLASVLGRGVPAGGSGLALSQGCARCFATSPRLRAKFYADPVEMVKDISDGATVM
+IGGFGLCGIPENLIAALLRTRVKDLQVVSSNVGVEDFGLGLLLAARQVRRIVCSYVGENT
+LCESQYLAGELELELTPQGTLAERIRAGGAGVPAFYTPTGYGTLVQEGGAPIRYTPDGHL
+ALMSQPREVREFNGDHFLLERAIRADFALVKGWKADRAGNVVFRRSARNFNVPMCKAADV
+TAVEVEEIVEVGAFPPEDIHVPNIYVDRVIKGQKYEKRIERLTILKEEDGDAGKEEDART
+RIIRRAALEFEDGMYANLGIGIPLLASNFISPSMTVHLHSENGILGLGPFPTEDEVDADL
+INAGKQTVTVLPGGCFFASDDSFAMIRGGHIQLTMLGAMQVSKYGDLANWMIPGKKVKGM
+GGAMDLVSSQKTRVVVTMQHCTKDNTPKIMEKCTMPLTGKRCVDRIITEKAVFDVHRKKE
+LTLRELWEGLTVDDIKKSTGCAFAVSPNLRPMQQVAP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9BYC2</uniprot_id>
+  <uniprot_name>SCOT2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB050193</genbank_gene_id>
+  <genecard_id>OXCT2</genecard_id>
+  <geneatlas_id>OXCT2</geneatlas_id>
+  <hgnc_id>HGNC:18606</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tanaka H, Kohroki J, Iguchi N, Onishi M, Nishimune Y: Cloning and characterization of a human orthologue of testis-specific succinyl CoA: 3-oxo acid CoA transferase (Scot-t) cDNA. Mol Hum Reprod. 2002 Jan;8(1):16-23.</reference_text>
+      <pubmed_id>11756565</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

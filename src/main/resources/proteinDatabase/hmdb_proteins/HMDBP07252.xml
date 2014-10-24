@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:57:21 -0700</creation_date>
+  <update_date>2013-05-27 11:07:18 -0600</update_date>
+  <accession>HMDBP07252</accession>
+  <secondary_accessions>
+    <accession>12871</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>B-cell RAG-associated gene protein</synonym>
+    <synonym>GalNAc4S-6ST</synonym>
+    <synonym>N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase</synonym>
+    <synonym>hBRAG</synonym>
+  </synonyms>
+  <gene_name>CHST15</gene_name>
+  <general_function>Involved in sulfotransferase activity</general_function>
+  <specific_function>Sulfotransferase that transfers sulfate from 3'-phosphoadenosine 5'-phosphosulfate (PAPS) to the C-6 hydroxyl group of the GalNAc 4-sulfate residue of chondroitin sulfate A and forms chondroitin sulfate E containing GlcA-GalNAc(4,6-SO(4)) repeating units. It also transfers sulfate to a unique non-reducing terminal sequence, GalNAc(4SO4)-GlcA(2SO4)-GalNAc(6SO4), to yield a highly sulfated structure similar to the structure found in thrombomodulin chondroitin sulfate. May also act as a B-cell receptor involved in BCR ligation-mediated early activation that mediate regulatory signals key to B-cell development and/or regulation of B-cell-specific RAG expression; however such results are unclear in vivo.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate</name>
+      <smpdb_id/>
+      <kegg_map_id>map00532</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00652</accession>
+      <name>Chondroitin 4-sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00061</accession>
+      <name>Adenosine 3',5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01134</accession>
+      <name>Phosphoadenosine phosphosulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00629</accession>
+      <name>Chondroitin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00632</accession>
+      <name>Dermatan</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring sulfur-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sulfotransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3'-phosphoadenosine 5'-phosphosulfate binding</description>
+      <go_id>GO:0050656</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase activity</description>
+      <go_id>GO:0050659</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chondroitin sulfate biosynthetic process</description>
+      <go_id>GO:0030206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hexose biosynthetic process</description>
+      <go_id>GO:0019319</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q26</locus>
+    <gene_sequence>&gt;1686 bp
+ATGAGGCACTGCATTAATTGCTGCATACAGCTGTTACCCGACGGCGCACACAAGCAGCAG
+GTCAACTGCCAAGGGGGCCCCCATCACGGTCACCAGGCGTGCCCCACGTGCAAAGGAGAA
+AACAAAATTCTGTTTCGTGTGGACAGTAAGCAGATGAACTTGCTTGCTGTTCTCGAAGTG
+AGGACTGAAGGGAACGAAAACTGGGGTGGGTTTTTGCGCTTCAAAAAGGGGAAGCGATGT
+AGCCTCGTTTTTGGACTGATAATAATGACCTTGGTAATGGCTTCTTACATCCTTTCTGGG
+GCCCACCAAGAGCTTCTGATCTCATCACCTTTCCATTACGGAGGCTTCCCCAGCAACCCC
+AGCTTGATGGACAGCGAAAACCCAAGTGACACAAAGGAGCATCACCACCAATCCTCTGTA
+AATAATATTTCATACATGAAGGACTATCCAAGCATTAAATTAATTATCAACAGCATCACA
+ACTAGGATTGAGTTCACGACCAGACAGCTCCCAGACTTAGAAGACCTTAAGAAGCAGGAG
+TTGCATATGTTTTCAGTCATCCCCAACAAATTCCTTCCAAACAGTAAGAGCCCCTGTTGG
+TACGAGGAGTTCTCGGGGCAGAACACCACCGACCCCTACCTCACCAACTCCTACGTGCTC
+TACTCCAAGCGCTTCCGCTCCACCTTCGACGCCCTGCGCAAGGCCTTCTGGGGCCACCTG
+GCGCACGCGCACGGGAAGCACTTCCGCCTGCGCTGCCTGCCGCACTTCTACATCATAGGG
+CAGCCCAAGTGCGGGACCACAGACCTCTATGACCGCCTGCGGCTGCACCCTGAGGTCAAG
+TTCTCCGCCATCAAGGAGCCACACTGGTGGACCCGGAAGCGCTTTGGAATCGTCCGCCTA
+AGAGATGGGCTGCGAGACCGCTATCCCGTGGAAGATTATCTGGACCTCTTTGACCTGGCC
+GCACACCAGATCCATCAAGGACTGCAGGCCAGCTCTGCAAAGGAGCAGAGCAAGATGAAT
+ACAATCATTATCGGGGAGGCCAGTGCCTCCACGATGTGGGATAATAATGCCTGGACGTTC
+TTCTACGACAACAGCACGGATGGCGAGCCACCGTTTCTGACGCAGGACTTCATCCACGCC
+TTTCAGCCAAATGCCAGACTGATTGTCATGCTCAGGGACCCTGTGGAGAGGTTGTACTCA
+GACTATCTCTACTTTGCAAGTTCGAATAAATCCGCGGACGACTTCCATGAGAAAGTGACA
+GAAGCACTGCAGCTGTTTGAAAATTGCATGCTTGATTATTCACTGCGCGCCTGCGTCTAC
+AACAACACCCTCAACAACGCCATGCCTGTGAGGCTCCAGGTTGGGCTCTATGCTGTGTAC
+CTTCTGGACTGGCTCAGCGTTTTTGACAAGCAACAGTTTCTCATTCTTCGCCTGGAAGAT
+CATGCATCCAACGTCAAGTACACCATGCACAAGGTCTTCCAGTTTCTGAACCTAGGGCCC
+TTAAGTGAGAAGCAGGAGGCTTTGATGACCAAGAGCCCCGCATCCAATGCACGGCGTCCC
+GAGGACCGGAACCTGGGGCCCATGTGGCCCATCACACAGAAGATTCTGCGGGATTTCTAC
+AGGCCCTTCAACGCTAGGCTGGCGCAGGTCCTCGCGGATGAGGCGTTTGCGTGGAAGACG
+ACGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>561</residue_number>
+    <molecular_weight>64925.66</molecular_weight>
+    <theoretical_pi>8.301</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sulfotransfer_1</name>
+        <pfam_id>PF00685</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Carbohydrate sulfotransferase 15
+MRHCINCCIQLLPDGAHKQQVNCQGGPHHGHQACPTCKGENKILFRVDSKQMNLLAVLEV
+RTEGNENWGGFLRFKKGKRCSLVFGLIIMTLVMASYILSGAHQELLISSPFHYGGFPSNP
+SLMDSENPSDTKEHHHQSSVNNISYMKDYPSIKLIINSITTRIEFTTRQLPDLEDLKKQE
+LHMFSVIPNKFLPNSKSPCWYEEFSGQNTTDPYLTNSYVLYSKRFRSTFDALRKAFWGHL
+AHAHGKHFRLRCLPHFYIIGQPKCGTTDLYDRLRLHPEVKFSAIKEPHWWTRKRFGIVRL
+RDGLRDRYPVEDYLDLFDLAAHQIHQGLQASSAKEQSKMNTIIIGEASASTMWDNNAWTF
+FYDNSTDGEPPFLTQDFIHAFQPNARLIVMLRDPVERLYSDYLYFASSNKSADDFHEKVT
+EALQLFENCMLDYSLRACVYNNTLNNAMPVRLQVGLYAVYLLDWLSVFDKQQFLILRLED
+HASNVKYTMHKVFQFLNLGPLSEKQEALMTKSPASNARRPEDRNLGPMWPITQKILRDFY
+RPFNARLAQVLADEAFAWKTT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>45505173</genbank_protein_id>
+  <uniprot_id>Q7LFX5</uniprot_id>
+  <uniprot_name>CHSTF_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_015892.3</genbank_gene_id>
+  <genecard_id>CHST15</genecard_id>
+  <geneatlas_id>CHST15</geneatlas_id>
+  <hgnc_id>HGNC:18137</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Verkoczy LK, Marsden PA, Berinstein NL: hBRAG, a novel B cell lineage cDNA encoding a type II transmembrane glycoprotein potentially involved in the regulation of recombination activating gene 1 (RAG1). Eur J Immunol. 1998 Sep;28(9):2839-53.</reference_text>
+      <pubmed_id>9754571</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yuki M, Yoshinaga K, Yamakawa H, Sakurada K, Sato S, Yajima A, Horii A: Structure, expression and mutational analysis of the hBRAG gene on 10q in the frequently deleted region in human endometrial cancer. Oncol Rep. 2000 Nov-Dec;7(6):1339-42.</reference_text>
+      <pubmed_id>11032940</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohtake S, Ito Y, Fukuta M, Habuchi O: Human N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase cDNA is related to human B cell recombination activating gene-associated gene. J Biol Chem. 2001 Nov 23;276(47):43894-900. Epub 2001 Sep 25.</reference_text>
+      <pubmed_id>11572857</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. IX. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro. DNA Res. 1998 Feb 28;5(1):31-9.</reference_text>
+      <pubmed_id>9628581</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Verkoczy LK, Guinn B, Berinstein NL: Characterization of the human B cell RAG-associated gene, hBRAG, as a B cell receptor signal-enhancing glycoprotein dimer that associates with phosphorylated proteins in resting B cells. J Biol Chem. 2000 Jul 14;275(28):20967-79.</reference_text>
+      <pubmed_id>10749872</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohtake S, Kimata K, Habuchi O: A unique nonreducing terminal modification of chondroitin sulfate by N-acetylgalactosamine 4-sulfate 6-o-sulfotransferase. J Biol Chem. 2003 Oct 3;278(40):38443-52. Epub 2003 Jul 21.</reference_text>
+      <pubmed_id>12874280</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sawada T, Fujii S, Nakano H, Ohtake S, Kimata K, Habuchi O: Synthesis of sulfated phenyl 2-acetamido-2-deoxy-D-galactopyranosides. 4-O-Sulfated phenyl 2-acetamido-2-deoxy-beta-D-galactopyranoside is a competitive acceptor that decreases sulfation of chondroitin sulfate by N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase. Carbohydr Res. 2005 Sep 5;340(12):1983-96.</reference_text>
+      <pubmed_id>16024005</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

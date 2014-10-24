@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:54:38 -0700</creation_date>
+  <update_date>2013-01-15 18:54:38 -0700</update_date>
+  <accession>HMDBP01244</accession>
+  <secondary_accessions>
+    <accession>6540</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Channel kinase 2</synonym>
+    <synonym>Melastatin-related TRP cation channel 6</synonym>
+  </synonyms>
+  <gene_name>TRPM6</gene_name>
+  <general_function>Involved in ion channel activity</general_function>
+  <specific_function>Essential ion channel and serine/threonine-protein kinase. Crucial for magnesium homeostasis. Has an important role in epithelial magnesium transport and in the active magnesium absorption in the gut and kidney. Isoforms of the type M6-kinase lack the ion channel region</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein serine/threonine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:9</chromosome_location>
+    <locus>9q21.13</locus>
+    <gene_sequence>&gt;6069 bp
+ATGAAAGAACAACCTGTCTTGGAGCGCTTGCAGTCCCAGAAATCCTGGATTAAAGGAGTA
+TTTGACAAGAGAGAATGTAGCACAATCATACCCAGCTCAAAAAATCCTCACAGATGTACT
+CCAGTATGCCAAGTCTGCCAGAATTTAATCAGGTGTTACTGTGGCCGACTGATTGGAGAC
+CATGCTGGGATAGATTATTCCTGGACCATCTCAGCTGCCAAGGGTAAAGAAAGTGAACAA
+TGGTCTGTTGAAAAGCACACAACGAAAAGCCCAACAGATACTTTTGGCACGATTAATTTC
+CAAGATGGAGAGCACACCCATCATGCCAAGTATATTAGAACTTCTTATGATACAAAACTG
+GATCATCTGTTACATTTAATGTTGAAAGAGTGGAAAATGGAACTGCCCAAGCTTGTGATC
+TCAGTCCATGGGGGCATCCAGAACTTTACTATGCCCTCTAAATTTAAAGAGATTTTCAGC
+CAAGGTTTGGTTAAAGCTGCAGAGACAACAGGAGCGTGGATAATAACTGAAGGCATCAAT
+ACAGGAGTGTCCAAGCATGTTGGGGATGCCTTGAAATCCCATTCCTCTCATTCCTTGAGA
+AAAATCTGGACAGTTGGAATCCCTCCTTGGGGTGTCATTGAGAACCAGAGAGACCTTATT
+GGAAAAGATGTGGTGTGCCTGTACCAGACTCTGGATAACCCCCTCAGCAAGCTCACAACA
+CTCAACAGCATGCACTCGCACTTCATCCTGTCTGATGATGGGACCGTGGGCAAGTATGGA
+AATGAAATGAAGCTCAGAAGGAACCTGGAGAAGTACCTCTCTCTGCAGAAAATACACTGC
+CGCTCAAGACAAGGCGTGCCGGTCGTGGGGCTGGTGGTGGAAGGCGGTCCCAACGTCATC
+CTGTCAGTGTGGGAGACTGTCAAGGACAAGGACCCAGTGGTGGTGTGTGAGGGCACAGGT
+AGGGCGGCTGACCTCCTGGCCTTCACACACAAACACCTGGCAGATGAAGGGATGCTGCGA
+CCTCAGGTGAAAGAGGAGATCATCTGCATGATTCAGAACACTTTCAACTTTAGTCTTAAA
+CAGTCCAAGCACCTTTTCCAAATTCTAATGGAGTGTATGGTTCACAGGGATTGTATTACC
+ATATTTGATGCTGACTCTGAAGAGCAGCAAGACCTGGACTTAGCAATCCTAACAGCTTTG
+CTGAAGGGCACAAATTTATCAGCGTCAGAGCAATTAAATCTGGCAATGGCTTGGGACAGG
+GTGGACATTGCCAAGAAACATATCCTAATTTATGAACAACACTGGAAGCCTGATGCCCTG
+GAACAAGCAATGTCAGATGCTTTAGTGATGGATCGGGTGGATTTTGTGAAGCTCTTAATA
+GAATATGGAGTGAACCTCCATCGCTTTCTTACCATCCCTCGACTGGAAGAGCTCTACAAT
+ACAAAACAAGGACCTACTAATACACTCTTGCATCATCTCGTCCAAGATGTGAAACAGCAT
+ACCCTTCTTTCAGGCTACCGAATAACCTTGATTGACATTGGATTAGTAGTAGAATACCTC
+ATTGGTAGAGCATATCGCAGCAACTACACTAGAAAACATTTCAGAGCCCTCTACAACAAC
+CTCTACAGAAAATACAAGCACCAGAGACACTCCTCAGGAAATAGAAATGAGTCTGCAGAA
+AGTACGCTGCACTCCCAGTTCATTAGAACTGCACAGCCATACAAATTCAAGGAAAAGTCT
+ATAGTCCTTCATAAATCAAGGAAGAAGTCAAAAGAACAAAATGTATCAGATGACCCTGAG
+TCTACTGGCTTTCTTTACCCTTACAATGACCTGCTGGTTTGGGCTGTGCTGATGAAAAGG
+CAGAAGATGGCTATGTTCTTCTGGCAGCATGGAGAGGAGGCCACGGTTAAAGCCGTGATT
+GCGTGTATCCTCTACCGGGCAATGGCCCATGAAGCTAAGGAGAGTCACATGGTGGATGAT
+GCCTCAGAAGAGTTGAAGAATTACTCAAAACAGTTTGGCCAGCTGGCTCTGGACTTGTTG
+GAGAAGGCATTCAAGCAGAATGAGCGCATGGCCATGACGCTGTTGACGTATGAACTCAGG
+AACTGGAGCAATTCGACCTGCCTTAAACTGGCCGTGTCGGGAGGATTACGACCCTTTGTT
+TCACATACTTGTACCCAGATGCTACTGACAGACATGTGGATGGGGAGGCTGAAAATGAGG
+AAAAACTCTTGGTTAAAGATTATTATAAGCATTATTTTACCACCCACCATTTTGACACTG
+GAATTTAAAAGCAAAGCTGAGATGTCACATGTTCCCCAGTCCCAGGACTTCCAATTTATG
+TGGTATTACAGTGACCAGAACGCCAGCAGTTCCAAAGAAAGTGCTTCTGTGAAAGAGTAT
+GATTTGGAAAGGGGCCATGATGAGAAACTGGATGAAAATCAGCATTTTGGTTTGGAAAGT
+GGGCACCAACACCTTCCGTGGACCAGGAAAGTCTATGAGTTCTACAGTGCTCCAATTGTC
+AAGTTTTGGTTTTATACGATGGCGTATTTGGCATTCCTCATGCTGTTCACTTACACCGTG
+TTGGTGGAGATGCAGCCCCAGCCCAGCGTGCAGGAGTGGCTTGTTAGCATTTACATCTTC
+ACCAATGCTATTGAGGTGGTCAGGGAGATCTGTATTTCAGAACCTGGGAAGTTTACCCAA
+AAGGTGAAGGTATGGATTAGTGAGTACTGGAACTTAACAGAAACTGTGGCCATTGGCCTG
+TTTTCAGCTGGCTTCGTCCTTCGATGGGGTGACCCTCCTTTTCACACAGCGGGAAGACTG
+ATCTACTGCATAGACATCATATTCTGGTTCTCACGGCTCCTGGACTTCTTTGCTGTGAAT
+CAACATGCAGGTCCATATGTGACCATGATTGCAAAAATGACAGCAAACATGTTCTATATT
+GTGATCATCATGGCCATAGTCCTGCTGAGCTTTGGAGTGGCACGCAAGGCCATCCTTTCG
+CCAAAAGAGCCACCATCTTGGAGTCTAGCTCGAGATATTGTATTTGAGCCATACTGGATG
+ATATACGGAGAAGTCTATGCTGGAGAAATAGATGTTTGTTCAAGCCAGCCATCCTGCCCT
+CCTGGTTCTTTTCTTACTCCATTCTTGCAAGCTGTCTACCTCTTCGTGCAATATATCATC
+ATGGTGAACCTGTTGATTGCTTTCTTCAACAACGTTTACTTAGATATGGAATCCATTTCA
+AATAACCTGTGGAAATACAACCGCTATCGCTACATCATGACCTACCACGAGAAGCCCTGG
+CTGCCCCCACCTCTCATCCTGCTGAGCCACGTGGGCCTTCTCCTCCGCCGCCTGTGCTGT
+CATCGAGCTCCTCACGACCAAGAAGAGGGTGACGTTGGATTAAAACTCTACCTCAGTAAG
+GAGGATCTGAAAAAACTTCATGATTTTGAGGAGCAGTGCGTGGAAAAATACTTCCATGAG
+AAGATGGAAGATGTGAATTGTAGTTGTGAGGAACGAATCCGAGTGACATCAGAAAGGGTT
+ACAGAGATGTACTTCCAGCTGAAAGAAATGAATGAAAAGGTGTCTTTTATAAAGGACTCC
+TTACTGTCTTTGGACAGCCAGGTGGGACACCTGCAGGATCTCTCTGCCCTGACTGTGGAT
+ACCCTGAAAGTCCTTTCTGCTGTTGACACTTTGCAAGAGGATGAGGCTCTCCTGGCCAAG
+AGAAAGCATTCTACTTGCAAAAAACTTCCCCACAGCTGGAGCAATGTCATCTGTGCAGAG
+GTTCTAGGCAGCATGGAGATCGCTGGAGAGAAGAAATACCAGTATTATAGCATGCCCTCT
+TCTTTGCTGAGGAGCCTGGCTGGAGGCCGGCATCCCCCAAGAGTGCAGAGGGGGGCACTT
+CTTGAGATTACAAACAGTAAAAGAGAGGCTACAAATGTAAGAAATGACCAGGAAAGGCAA
+GAAACACAAAGTAGTATAGTGGTTTCTGGGGTGTCTCCTAACAGGCAAGCACACTCAAAG
+TATGGCCAGTTTCTTCTGGTCCCCTCTAATCTAAAGCGAGTTCCTTTTTCAGCAGAAACT
+GTCTTGCCTCTGTCCAGACCCTCTGTGCCAGATGTGCTGGCAACTGAACAGGACATCCAG
+ACTGAGGTTCTTGTTCATCTGACTGGGCAGACCCCAGTTGTCTCTGACTGGGCATCAGTG
+GATGAACCCAAGGAAAAGCACGAGCCTATTGCTCACTTACTGGATGGACAAGACAAGGCA
+GAGCAAGTGCTACCCACTTTGAGTTGCACACCTGAACCCATGACAATGAGCTCCCCTCTT
+TCCCAAGCCAAGATCATGCAAACTGGAGGTGGATATGTAAACTGGGCATTTTCAGAAGGT
+GATGAAACTGGTGTGTTTAGCATCAAGAAAAAGTGGCAAACCTGCTTGCCCTCCACTTGT
+GACAGTGATTCCTCTCGGAGTGAACAGCACCAGAAGCAGGCCCAGGACAGCTCCCTATCT
+GATAACTCAACAAGATCGGCCCAGAGTAGTGAATGCTCAGAGGTGGGACCATGGCTTCAG
+CCAAACACATCCTTTTGGATCAATCCTCTCCGCAGATACAGGCCCTTCGCTAGGAGTCAT
+AGTTTTAGATTCCATAAGGAGGAGAAATTGATGAAGATCTGTAAGATTAAAAATCTTTCA
+GGCTCTTCAGAAATAGGGCAGGGAGCATGGGTCAAAGCGAAAATGCTAACCAAAGACAGG
+AGACTGTCAAAGAAAAAGAAGAATACTCAAGGACTCCAGGTGCCAATCATAACAGTCAAT
+GCCTGCTCTCAGAGTGACCAGTTGAATCCAGAGCCAGGAGAAAACAGCATCTCTGAAGAG
+GAGTACAGCAAGAACTGGTTCACAGTGTCCAAATTTAGTCACACAGGTGTAGAACCTTAC
+ATACATCAGAAAATGAAAACTAAAGAAATTGGACAATGTGCTATACAAATCAGTGATTAC
+CTAAAGCAGTCTCAAGAGGATCTCAGCAAAAACTCTTTGTGGAATTCCAGGAGCACCAAC
+CTCAATAGGAACTCCCTGCTGAAAAGTTCAATTGGAGTTGACAAGATCTCAGCCTCCTTA
+AAAAGCCCTCAAGAGCCTCACCATCATTATTCAGCCATTGAAAGGAATAATTTAATGAGG
+CTTTCTCAGACCATACCATTTACACCAGTCCAACTGTTTGCAGGAGAAGAAATAACTGTC
+TACAGGTTGGAGGAGAGTTCCCCTTTAAACCTTGATAAAAGCATGTCCTCTTGGTCTCAG
+CGTGGGAGAGCGGCAATGATCCAGGTATTGTCCCGAGAGGAGATGGATGGGGGCCTCCGT
+AAAGCTATGAGAGTCGTCAGCACTTGGTCTGAGGATGACATTCTCAAGCCGGGACAAGTT
+TTCATTGTCAAGTCCTTTCTTCCTGAGGTTGTGCGGACATGGCATAAAATCTTCCAGGAG
+AGCACTGTGCTTCATCTTTGCCTCAGGGAAATTCAACAACAAAGAGCTGCTCAAAAATTG
+ATCTATACCTTCAACCAAGTGAAACCACAAACCATACCCTACACACCAAGGTTCCTGGAA
+GTTTTCTTAATCTACTGCCATTCAGCCAACCAGTGGTTGACCATTGAGAAGTATATGACA
+GGGGAGTTCCGGAAGTATAACAACAACAATGGTGATGAAATCACCCCCACCAACACCCTG
+GAGGAGCTGATGTTGGCTTTCTCTCACTGGACCTATGAGTACACTCGGGGAGAGCTGCTG
+GTTTTAGATTTGCAAGGTGTTGGAGAAAATTTGACAGATCCATCTGTTATAAAACCTGAA
+GTCAAACAATCAAGAGGAATGGTGTTTGGACCGGCCAATTTGGGGGAAGATGCAATTAGA
+AACTTCATTGCAAAACATCATTGTAACTCCTGCTGCCGGAAGCTCAAACTCCCGGATTTA
+AAAAGAAATGACTATTCCCCTGAAAGGATAAATTCCACCTTTGGACTTGAGATAAAAATA
+GAATCAGCTGAGGAGCCTCCAGCAAGGGAGACGGGTAGAAATTCCCCAGAAGATGATATG
+CAACTATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2022</residue_number>
+    <molecular_weight>231705.9</molecular_weight>
+    <theoretical_pi>7.82</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Alpha_kinase</name>
+        <pfam_id>PF02816</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Ion_trans</name>
+        <pfam_id>PF00520</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>742-762</region>
+      <region>842-862</region>
+      <region>906-926</region>
+      <region>940-960</region>
+      <region>973-993</region>
+      <region>1048-1068</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Transient receptor potential cation channel subfamily M member 6
+MKEQPVLERLQSQKSWIKGVFDKRECSTIIPSSKNPHRCTPVCQVCQNLIRCYCGRLIGD
+HAGIDYSWTISAAKGKESEQWSVEKHTTKSPTDTFGTINFQDGEHTHHAKYIRTSYDTKL
+DHLLHLMLKEWKMELPKLVISVHGGIQNFTMPSKFKEIFSQGLVKAAETTGAWIITEGIN
+TGVSKHVGDALKSHSSHSLRKIWTVGIPPWGVIENQRDLIGKDVVCLYQTLDNPLSKLTT
+LNSMHSHFILSDDGTVGKYGNEMKLRRNLEKYLSLQKIHCRSRQGVPVVGLVVEGGPNVI
+LSVWETVKDKDPVVVCEGTGRAADLLAFTHKHLADEGMLRPQVKEEIICMIQNTFNFSLK
+QSKHLFQILMECMVHRDCITIFDADSEEQQDLDLAILTALLKGTNLSASEQLNLAMAWDR
+VDIAKKHILIYEQHWKPDALEQAMSDALVMDRVDFVKLLIEYGVNLHRFLTIPRLEELYN
+TKQGPTNTLLHHLVQDVKQHTLLSGYRITLIDIGLVVEYLIGRAYRSNYTRKHFRALYNN
+LYRKYKHQRHSSGNRNESAESTLHSQFIRTAQPYKFKEKSIVLHKSRKKSKEQNVSDDPE
+STGFLYPYNDLLVWAVLMKRQKMAMFFWQHGEEATVKAVIACILYRAMAHEAKESHMVDD
+ASEELKNYSKQFGQLALDLLEKAFKQNERMAMTLLTYELRNWSNSTCLKLAVSGGLRPFV
+SHTCTQMLLTDMWMGRLKMRKNSWLKIIISIILPPTILTLEFKSKAEMSHVPQSQDFQFM
+WYYSDQNASSSKESASVKEYDLERGHDEKLDENQHFGLESGHQHLPWTRKVYEFYSAPIV
+KFWFYTMAYLAFLMLFTYTVLVEMQPQPSVQEWLVSIYIFTNAIEVVREICISEPGKFTQ
+KVKVWISEYWNLTETVAIGLFSAGFVLRWGDPPFHTAGRLIYCIDIIFWFSRLLDFFAVN
+QHAGPYVTMIAKMTANMFYIVIIMAIVLLSFGVARKAILSPKEPPSWSLARDIVFEPYWM
+IYGEVYAGEIDVCSSQPSCPPGSFLTPFLQAVYLFVQYIIMVNLLIAFFNNVYLDMESIS
+NNLWKYNRYRYIMTYHEKPWLPPPLILLSHVGLLLRRLCCHRAPHDQEEGDVGLKLYLSK
+EDLKKLHDFEEQCVEKYFHEKMEDVNCSCEERIRVTSERVTEMYFQLKEMNEKVSFIKDS
+LLSLDSQVGHLQDLSALTVDTLKVLSAVDTLQEDEALLAKRKHSTCKKLPHSWSNVICAE
+VLGSMEIAGEKKYQYYSMPSSLLRSLAGGRHPPRVQRGALLEITNSKREATNVRNDQERQ
+ETQSSIVVSGVSPNRQAHSKYGQFLLVPSNLKRVPFSAETVLPLSRPSVPDVLATEQDIQ
+TEVLVHLTGQTPVVSDWASVDEPKEKHEPIAHLLDGQDKAEQVLPTLSCTPEPMTMSSPL
+SQAKIMQTGGGYVNWAFSEGDETGVFSIKKKWQTCLPSTCDSDSSRSEQHQKQAQDSSLS
+DNSTRSAQSSECSEVGPWLQPNTSFWINPLRRYRPFARSHSFRFHKEEKLMKICKIKNLS
+GSSEIGQGAWVKAKMLTKDRRLSKKKKNTQGLQVPIITVNACSQSDQLNPEPGENSISEE
+EYSKNWFTVSKFSHTGVEPYIHQKMKTKEIGQCAIQISDYLKQSQEDLSKNSLWNSRSTN
+LNRNSLLKSSIGVDKISASLKSPQEPHHHYSAIERNNLMRLSQTIPFTPVQLFAGEEITV
+YRLEESSPLNLDKSMSSWSQRGRAAMIQVLSREEMDGGLRKAMRVVSTWSEDDILKPGQV
+FIVKSFLPEVVRTWHKIFQESTVLHLCLREIQQQRAAQKLIYTFNQVKPQTIPYTPRFLE
+VFLIYCHSANQWLTIEKYMTGEFRKYNNNNGDEITPTNTLEELMLAFSHWTYEYTRGELL
+VLDLQGVGENLTDPSVIKPEVKQSRGMVFGPANLGEDAIRNFIAKHHCNSCCRKLKLPDL
+KRNDYSPERINSTFGLEIKIESAEEPPARETGRNSPEDDMQL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9BX84</uniprot_id>
+  <uniprot_name>TRPM6_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF350881</genbank_gene_id>
+  <genecard_id>TRPM6</genecard_id>
+  <geneatlas_id>TRPM6</geneatlas_id>
+  <hgnc_id>HGNC:17995</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Riazanova LV, Pavur KS, Petrov AN, Dorovkov MV, Riazanov AG: [Novel type of signaling molecules: protein kinases covalently linked to ion channels] Mol Biol (Mosk). 2001 Mar-Apr;35(2):321-32.</reference_text>
+      <pubmed_id>11357414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schlingmann KP, Weber S, Peters M, Niemann Nejsum L, Vitzthum H, Klingel K, Kratz M, Haddad E, Ristoff E, Dinour D, Syrrou M, Nielsen S, Sassen M, Waldegger S, Seyberth HW, Konrad M: Hypomagnesemia with secondary hypocalcemia is caused by mutations in TRPM6, a new member of the TRPM gene family. Nat Genet. 2002 Jun;31(2):166-70. Epub 2002 May 28.</reference_text>
+      <pubmed_id>12032568</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chubanov V, Waldegger S, Mederos y Schnitzler M, Vitzthum H, Sassen MC, Seyberth HW, Konrad M, Gudermann T: Disruption of TRPM6/TRPM7 complex formation by a mutation in the TRPM6 gene causes hypomagnesemia with secondary hypocalcemia. Proc Natl Acad Sci U S A. 2004 Mar 2;101(9):2894-9. Epub 2004 Feb 19.</reference_text>
+      <pubmed_id>14976260</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

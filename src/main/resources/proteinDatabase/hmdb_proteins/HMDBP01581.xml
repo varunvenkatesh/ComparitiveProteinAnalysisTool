@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:47 -0700</creation_date>
+  <update_date>2013-05-27 11:30:43 -0600</update_date>
+  <accession>HMDBP01581</accession>
+  <secondary_accessions>
+    <accession>6877</accession>
+    <accession>HMDBP09412</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>1-AGP acyltransferase 1</synonym>
+    <synonym>1-AGPAT 1</synonym>
+    <synonym>1-acylglycerol-3-phosphate O-acyltransferase 1</synonym>
+    <synonym>LPAAT-alpha</synonym>
+    <synonym>Lysophosphatidic acid acyltransferase alpha</synonym>
+    <synonym>Protein G15</synonym>
+  </synonyms>
+  <gene_name>AGPAT1</gene_name>
+  <general_function>Involved in acyltransferase activity</general_function>
+  <specific_function>Converts lysophosphatidic acid (LPA) into phosphatidic acid by incorporating an acyl moiety at the sn-2 position of the glycerol backbone.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>CDP-diacylglycerol biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycerolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00561</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycerophospholipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00564</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Fat digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04975</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB07849</accession>
+      <name>LPA(0:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07850</accession>
+      <name>LPA(0:0/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07851</accession>
+      <name>LPA(0:0/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07852</accession>
+      <name>LPA(0:0/18:2(9Z,12Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07853</accession>
+      <name>LPA(16:0/0:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07854</accession>
+      <name>LPA(18:0/0:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07855</accession>
+      <name>LPA(18:1(9Z)/0:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07856</accession>
+      <name>LPA(18:2(9Z,12Z)/0:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00674</accession>
+      <name>PA(16:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07858</accession>
+      <name>PA(16:0/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07859</accession>
+      <name>PA(16:0/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07860</accession>
+      <name>PA(16:0/18:2(9Z,12Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07861</accession>
+      <name>PA(18:0/18:2(9Z,12Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07862</accession>
+      <name>PA(18:1(11Z)/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07863</accession>
+      <name>PA(18:1(11Z)/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07864</accession>
+      <name>PA(18:1(9Z)/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB07865</accession>
+      <name>PA(18:1(9Z)/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11145</accession>
+      <name>PA(16:0e/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01338</accession>
+      <name>Palmityl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06497</accession>
+      <name>Heptadecanoyl CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01114</accession>
+      <name>Stearoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04258</accession>
+      <name>Eicosanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01275</accession>
+      <name>Propionyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01088</accession>
+      <name>Butyryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13037</accession>
+      <name>Pentanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12969</accession>
+      <name>Heptanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01070</accession>
+      <name>Octanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13028</accession>
+      <name>Nonanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06404</accession>
+      <name>Decanoyl-CoA (n-C10:0CoA)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13114</accession>
+      <name>Undecanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03571</accession>
+      <name>Lauroyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06526</accession>
+      <name>Tetracosanoyl-CoA  </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02009</accession>
+      <name>Crotonoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01290</accession>
+      <name>Glutaconyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03944</accession>
+      <name>trans-2-Hexenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03949</accession>
+      <name>(2E)-Octenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03948</accession>
+      <name>(2E)-Decenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03946</accession>
+      <name>(2E)-Tetradecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04257</accession>
+      <name>3Z-dodecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03712</accession>
+      <name>(2E)-Dodecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01243</accession>
+      <name>Isobutyryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11660</accession>
+      <name>2-Methylhexanoyl-CoA </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01113</accession>
+      <name>Isovaleryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02057</accession>
+      <name>Pristanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11144</accession>
+      <name>LPA(18:0e/0:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11154</accession>
+      <name>LPA(P-16:0e/0:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11156</accession>
+      <name>PA(20:4(5Z,8Z,11Z,14Z)e/2:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11155</accession>
+      <name>PA(P-16:0e/18:2(9Z,12Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01041</accession>
+      <name>2-Methylbutyryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02307</accession>
+      <name>Acrylyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03945</accession>
+      <name>(2E)-Hexadecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06529</accession>
+      <name>trans-Octadec-2-enoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02845</accession>
+      <name>Hexanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>o-acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acylglycerol o-acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>1-acylglycerol-3-phosphate o-acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organophosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phospholipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phospholipid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular lipid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>membrane lipid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>physiological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phospholipid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phospholipid biosynthesis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>1-acylglycerol-3-phosphate O-acyltransferase activity</description>
+      <go_id>GO:0003841</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>CDP-diacylglycerol biosynthetic process</description>
+      <go_id>GO:0016024</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>energy reserve metabolic process</description>
+      <go_id>GO:0006112</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidic acid biosynthetic process</description>
+      <go_id>GO:0006654</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cellular metabolic process</description>
+      <go_id>GO:0031325</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cytokine production</description>
+      <go_id>GO:0001819</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cytokine-mediated signaling pathway</description>
+      <go_id>GO:0001961</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>triglyceride biosynthetic process</description>
+      <go_id>GO:0019432</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6p21.3</locus>
+    <gene_sequence>&gt;852 bp
+ATGGATTTGTGGCCAGGGGCATGGATGCTGCTGCTGCTGCTCTTCCTGCTGCTGCTCTTC
+CTGCTGCCCACCCTGTGGTTCTGCAGCCCCAGTGCCAAGTACTTCTTCAAGATGGCCTTC
+TACAATGGCTGGATCCTCTTCCTGGCTGTGCTCGCCATCCCTGTGTGTGCCGTGCGAGGA
+CGCAACGTCGAGAACATGAAGATCTTGCGTCTAATGCTGCTCCACATCAAATACCTGTAC
+GGGATCCGAGTGGAGGTGCGAGGGGCTCACCACTTCCCTCCCTCGCAGCCCTATGTTGTT
+GTCTCCAACCACCAGAGCTCTCTCGATCTGCTTGGGATGATGGAGGTACTGCCAGGCCGC
+TGTGTGCCCATTGCCAAGCGCGAGCTACTGTGGGCTGGCTCTGCCGGGCTGGCCTGCTGG
+CTGGCAGGAGTCATCTTCATCGACCGGAAGCGCACGGGGGATGCCATCAGTGTCATGTCT
+GAGGTCGCCCAGACCCTGCTCACCCAGGACGTGAGGGTCTGGGTGTTTCCTGAGGGAACG
+AGAAACCACAATGGCTCCATGCTGCCCTTCAAACGTGGCGCCTTCCATCTTGCAGTGCAG
+GCCCAGGTTCCCATTGTCCCCATAGTCATGTCCTCCTACCAAGACTTCTACTGCAAGAAG
+GAGCGTCGCTTCACCTCGGGACAATGTCAGGTGCGGGTGCTGCCCCCAGTGCCCACGGAA
+GGGCTGACACCAGATGACGTCCCAGCTCTGGCTGACAGAGTCCGGCACTCCATGCTCACT
+GTTTTCCGGGAAATCTCCACTGATGGCCGGGGTGGTGGTGACTATCTGAAGAAGCCTGGG
+GGCGGTGGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>283</residue_number>
+    <molecular_weight>31716.27</molecular_weight>
+    <theoretical_pi>9.383</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Acyltransferase</name>
+        <pfam_id>PF01553</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;1-acyl-sn-glycerol-3-phosphate acyltransferase alpha
+MDLWPGAWMLLLLLFLLLLFLLPTLWFCSPSAKYFFKMAFYNGWILFLAVLAIPVCAVRG
+RNVENMKILRLMLLHIKYLYGIRVEVRGAHHFPPSQPYVVVSNHQSSLDLLGMMEVLPGR
+CVPIAKRELLWAGSAGLACWLAGVIFIDRKRTGDAISVMSEVAQTLLTQDVRVWVFPEGT
+RNHNGSMLPFKRGAFHLAVQAQVPIVPIVMSSYQDFYCKKERRFTSGQCQVRVLPPVPTE
+GLTPDDVPALADRVRHSMLTVFREISTDGRGGGDYLKKPGGGG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>55961399</genbank_protein_id>
+  <uniprot_id>Q99943</uniprot_id>
+  <uniprot_name>PLCA_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL662828</genbank_gene_id>
+  <genecard_id>AGPAT1</genecard_id>
+  <geneatlas_id>AGPAT1</geneatlas_id>
+  <hgnc_id>HGNC:324</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>West J, Tompkins CK, Balantac N, Nudelman E, Meengs B, White T, Bursten S, Coleman J, Kumar A, Singer JW, Leung DW: Cloning and expression of two human lysophosphatidic acid acyltransferase cDNAs that enhance cytokine-induced signaling responses in cells. DNA Cell Biol. 1997 Jun;16(6):691-701.</reference_text>
+      <pubmed_id>9212163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stamps AC, Elmore MA, Hill ME, Kelly K, Makda AA, Finnen MJ: A human cDNA sequence with homology to non-mammalian lysophosphatidic acid acyltransferases. Biochem J. 1997 Sep 1;326 ( Pt 2):455-61.</reference_text>
+      <pubmed_id>9291118</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aguado B, Campbell RD: Characterization of a human lysophosphatidic acid acyltransferase that is encoded by a gene located in the class III region of the human major histocompatibility complex. J Biol Chem. 1998 Feb 13;273(7):4096-105.</reference_text>
+      <pubmed_id>9461603</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xie T, Rowen L, Aguado B, Ahearn ME, Madan A, Qin S, Campbell RD, Hood L: Analysis of the gene-dense major histocompatibility complex class III region and its comparison to mouse. Genome Res. 2003 Dec;13(12):2621-36.</reference_text>
+      <pubmed_id>14656967</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

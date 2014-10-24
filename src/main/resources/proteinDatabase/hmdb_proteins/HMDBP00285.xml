@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:38 -0700</creation_date>
+  <update_date>2013-05-27 11:30:00 -0600</update_date>
+  <accession>HMDBP00285</accession>
+  <secondary_accessions>
+    <accession>5517</accession>
+    <accession>HMDBP05076</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>EPO</synonym>
+    <synonym>Eosinophil peroxidase heavy chain</synonym>
+    <synonym>Eosinophil peroxidase light chain</synonym>
+  </synonyms>
+  <gene_name>EPX</gene_name>
+  <general_function>Involved in peroxidase activity</general_function>
+  <specific_function>Mediates tyrosine nitration of secondary granule proteins in mature resting eosinophils. Shows significant inhibitory activity towards Mycobacterium tuberculosis H37Rv by inducing bacterial fragmentation and lysis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Asthma</name>
+      <smpdb_id/>
+      <kegg_map_id>map05310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03125</accession>
+      <name>Hydrogen peroxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00159</accession>
+      <name>L-Phenylalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01426</accession>
+      <name>Formaldehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01875</accession>
+      <name>Methanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03654</accession>
+      <name>4-Coumaryl alcohol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10715</accession>
+      <name>2-Phenylacetamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01389</accession>
+      <name>Melatonin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>antioxidant activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peroxidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stress</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to oxidative stress</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peroxidase activity</description>
+      <go_id>GO:0004601</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hydrogen peroxide catabolic process</description>
+      <go_id>GO:0042744</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic granule</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q23.1</locus>
+    <gene_sequence>&gt;2148 bp
+ATGCATCTGCTCCCAGCCCTGGCAGGGGTCCTGGCCACACTCGTCCTCGCCCAGCCCTGT
+GAGGGCACTGACCCAGCCTCCCCTGGGGCAGTGGAGACCTCGGTCCTGCGAGACTGCATA
+GCAGAGGCCAAGTTGCTGGTGGATGCTGCCTACAATTGGACCCAGAAGAGCATCAAGCAG
+CGGCTTCGCAGCGGTTCAGCCAGCCCCATGGACCTCCTGTCCTACTTCAAACAACCGGTA
+GCAGCCACCAGGACAGTTGTTCGGGCCGCAGATTATATGCATGTGGCTTTGGGGCTGCTT
+GAAGAGAAGTTACAACCCCAGCGGTCCGGACCCTTCAATGTCACTGATGTGCTAACAGAA
+CCACAGCTGCGGCTGCTGTCCCAGGCCAGTGGCTGTGCTCTCCGGGACCAGGCCGAGCGC
+TGCAGCGACAAGTACCGCACCATCACTGGACGGTGCAACAACAAGAGGAGACCCTTGCTA
+GGGGCCTCCAACCAGGCTCTGGCTCGCTGGCTGCCCGCCGAGTATGAGGATGGGCTGTCG
+CTCCCCTTCGGCTGGACCCCCAGCAGGAGGCGCAATGGCTTCCTTCTCCCTCTTGTCCGG
+GCTGTCTCCAACCAGATTGTGCGCTTCCCCAATGAGAGACTGACCTCCGACCGTGGCCGA
+GCCCTCATGTTCATGCAGTGGGGCCAGTTCATTGACCATGACCTGGACTTCTCCCCGGAG
+TCCCCGGCCAGAGTGGCCTTCACTGCAGGCGTTGACTGTGAGAGGACCTGCGCCCAGCTG
+CCCCCCTGCTTTCCCATCAAGATCCCACCCAATGACCCCCGCATCAAGAACCAGCGTGAC
+TGCATCCCTTTCTTCCGCTCGGCACCCTCATGCCCCCAAAACAAGAACAGAGTCCGCAAC
+CAGATCAACGCGCTCACCTCCTTTGTGGACGCCAGCATGGTGTATGGCAGTGAGGTCTCC
+CTCTCGCTGCGGCTCCGCAACCGGACCAACTACCTGGGGCTGCTGGCCATCAACCAGCGC
+TTTCAAGACAACGGCCGGGCCCTGCTGCCCTTCGACAACCTGCACGATGACCCCTGTCTC
+CTCACCAACCGCTCGGCGCGCATCCCCTGCTTCCTGGCAGGTGACACCCGATCAACGGAA
+ACCCCCAAACTGGCAGCCATGCACACCCTCTTTATGCGAGAGCACAACCGGCTGGCCACC
+GAGCTGAGACGCCTGAATCCCCGGTGGAATGGAGACAAACTGTACAATGAGGCTCGGAAG
+ATCATGGGGGCCATGGTCCAGATCATCACCTACCGAGACTTTCTGCCCCTGGTTCTGGGC
+AAGGCCCGGGCCAGGAGAACCCTGGGGCACTACAGGGGGTACTGCTCCAATGTGGACCCA
+CGGGTGGCCAATGTCTTCACCCTGGCCTTCCGCTTTGGCCACACAATGCTCCAGCCCTTC
+ATGTTCCGCTTGGACAGTCAGTACCGGGCCTCCGCACCCAACTCGCATGTCCCACTTAGC
+TCTGCCTTCTTTGCCAGCTGGCGGATCGTGTATGAAGGGGGCATCGACCCCATCCTCCGG
+GGCCTCATGGCCACCCCTGCCAAGCTGAACCGTCAGGATGCCATGTTAGTGGATGAGCTC
+CGGGACCGGCTGTTTCGGCAAGTGAGGAGGATTGGGCTGGACCTGGCAGCTCTCAACATG
+CAACGAAGCCGGGACCACGGCCTTCCAGGGTACAATGCTTGGAGGCGCTTCTGTGGGCTC
+TCCCAGCCCCGGAATTTGGCACAGCTTAGCCGGGTGCTGAAAAACCAGGACTTGGCAAGG
+AAGTTCCTGAATTTGTATGGAACACCTGACAACATTGACATCTGGATTGGGGCCATCGCT
+GAGCCTCTTTTGCCGGGGGCTCGAGTGGGGCCTCTTCTGGCTTGTCTGTTCGAGAACCAG
+TTCAGAAGAGCCCGAGACGGAGACAGGTTCTGGTGGCAGAAACGAGGTGTTTTCACCAAA
+AGACAGCGCAAGGCCCTGAGCAGAATTTCCTTGTCTCGAATTATATGTGACAATACCGGT
+ATCACCACGGTTTCAAGGGACATCTTCAGAGCCAACATCTACCCTCGGGGCTTTGTGAAC
+TGCAGCCGTATCCCCAGGTTGAACCTATCAGCCTGGCGAGGGACATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>715</residue_number>
+    <molecular_weight>81039.5</molecular_weight>
+    <theoretical_pi>10.285</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>An_peroxidase</name>
+        <pfam_id>PF03098</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Eosinophil peroxidase
+MHLLPALAGVLATLVLAQPCEGTDPASPGAVETSVLRDCIAEAKLLVDAAYNWTQKSIKQ
+RLRSGSASPMDLLSYFKQPVAATRTVVRAADYMHVALGLLEEKLQPQRSGPFNVTDVLTE
+PQLRLLSQASGCALRDQAERCSDKYRTITGRCNNKRRPLLGASNQALARWLPAEYEDGLS
+LPFGWTPSRRRNGFLLPLVRAVSNQIVRFPNERLTSDRGRALMFMQWGQFIDHDLDFSPE
+SPARVAFTAGVDCERTCAQLPPCFPIKIPPNDPRIKNQRDCIPFFRSAPSCPQNKNRVRN
+QINALTSFVDASMVYGSEVSLSLRLRNRTNYLGLLAINQRFQDNGRALLPFDNLHDDPCL
+LTNRSARIPCFLAGDTRSTETPKLAAMHTLFMREHNRLATELRRLNPRWNGDKLYNEARK
+IMGAMVQIITYRDFLPLVLGKARARRTLGHYRGYCSNVDPRVANVFTLAFRFGHTMLQPF
+MFRLDSQYRASAPNSHVPLSSAFFASWRIVYEGGIDPILRGLMATPAKLNRQDAMLVDEL
+RDRLFRQVRRIGLDLAALNMQRSRDHGLPGYNAWRRFCGLSQPRNLAQLSRVLKNQDLAR
+KFLNLYGTPDNIDIWIGAIAEPLLPGARVGPLLACLFENQFRRARDGDRFWWQKRGVFTK
+RQRKALSRISLSRIICDNTGITTVSRDIFRANIYPRGFVNCSRIPRLNLSAWRGT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>66268791</genbank_protein_id>
+  <uniprot_id>P11678</uniprot_id>
+  <uniprot_name>PERE_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>DQ054598</genbank_gene_id>
+  <genecard_id>EPX</genecard_id>
+  <geneatlas_id>EPX</geneatlas_id>
+  <hgnc_id>HGNC:3423</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sakamaki K, Tomonaga M, Tsukui K, Nagata S: Molecular cloning and characterization of a chromosomal gene for human eosinophil peroxidase. J Biol Chem. 1989 Oct 5;264(28):16828-36.</reference_text>
+      <pubmed_id>2550461</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ten RM, Pease LR, McKean DJ, Bell MP, Gleich GJ: Molecular cloning of the human eosinophil peroxidase. Evidence for the existence of a peroxidase multigene family. J Exp Med. 1989 May 1;169(5):1757-69.</reference_text>
+      <pubmed_id>2541222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oxvig C, Thomsen AR, Overgaard MT, Sorensen ES, Hojrup P, Bjerrum MJ, Gleich GJ, Sottrup-Jensen L: Biochemical evidence for heme linkage through esters with Asp-93 and Glu-241 in human eosinophil peroxidase. The ester with Asp-93 is only partially formed in vivo. J Biol Chem. 1999 Jun 11;274(24):16953-8.</reference_text>
+      <pubmed_id>10358043</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Borelli V, Vita F, Shankar S, Soranzo MR, Banfi E, Scialino G, Brochetta C, Zabucchi G: Human eosinophil peroxidase induces surface alteration, killing, and lysis of Mycobacterium tuberculosis. Infect Immun. 2003 Feb;71(2):605-13.</reference_text>
+      <pubmed_id>12540536</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ulrich M, Petre A, Youhnovski N, Promm F, Schirle M, Schumm M, Pero RS, Doyle A, Checkel J, Kita H, Thiyagarajan N, Acharya KR, Schmid-Grendelmeier P, Simon HU, Schwarz H, Tsutsui M, Shimokawa H, Bellon G, Lee JJ, Przybylski M, Doring G: Post-translational tyrosine nitration of eosinophil granule toxins mediated by eosinophil peroxidase. J Biol Chem. 2008 Oct 17;283(42):28629-40. Epub 2008 Aug 11.</reference_text>
+      <pubmed_id>18694936</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Romano M, Patriarca P, Melo C, Baralle FE, Dri P: Hereditary eosinophil peroxidase deficiency: immunochemical and spectroscopic studies and evidence for a compound heterozygosity of the defect. Proc Natl Acad Sci U S A. 1994 Dec 20;91(26):12496-500.</reference_text>
+      <pubmed_id>7809065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakamura H, Miyagawa K, Ogino K, Endo T, Imai T, Ozasa K, Motohashi Y, Matsuzaki I, Sasahara S, Hatta K, Eboshida A: High contribution contrast between the genes of eosinophil peroxidase and IL-4 receptor alpha-chain in Japanese cedar pollinosis. J Allergy Clin Immunol. 2003 Dec;112(6):1127-31.</reference_text>
+      <pubmed_id>14657871</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Melatonin</name>
+        <accession>HMDB01389</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lu T, Galijasevic S, Abdulhamid I, Abu-Soud HM: Analysis of the mechanism by which melatonin inhibits human eosinophil peroxidase. Br J Pharmacol. 2008 Jul;154(6):1308-17. Epub 2008 Jun 2.</reference_text>
+        <pubmed_id>18516076</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

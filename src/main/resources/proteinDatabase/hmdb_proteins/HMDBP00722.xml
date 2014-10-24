@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:25 -0700</creation_date>
+  <update_date>2013-05-27 11:23:01 -0600</update_date>
+  <accession>HMDBP00722</accession>
+  <secondary_accessions>
+    <accession>5996</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Creatine kinase M chain</synonym>
+    <synonym>M-CK</synonym>
+  </synonyms>
+  <gene_name>CKM</gene_name>
+  <general_function>Involved in kinase activity</general_function>
+  <specific_function>Reversibly catalyzes the transfer of phosphate between ATP and various phosphogens (e.g. creatine phosphate). Creatine kinase isoenzymes play a central role in energy transduction in tissues with large, fluctuating energy demands, such as skeletal muscle, heart, brain and spermatozoa.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00064</accession>
+      <name>Creatine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01511</accession>
+      <name>Phosphocreatine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>creatine kinase activity</description>
+      <go_id>GO:0004111</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>creatine metabolic process</description>
+      <go_id>GO:0006600</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphocreatine biosynthetic process</description>
+      <go_id>GO:0046314</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19q13.32</locus>
+    <gene_sequence>&gt;1146 bp
+ATGCCATTCGGTAACACCCACAACAAGTTCAAGCTGAATTACAAGCCTGAGGAGGAGTAC
+CCCGACCTCAGCAAACATAACAACCACATGGCCAAGGTACTGACCCTTGAACTCTACAAG
+AAGCTGCGGGACAAGGAGATCCCATCTGGCTTCACTGTAGACGATGTCATCCAGACAGGA
+GTGGACAACCCAGGTCACCCCTTCATCATGACCGTGGGCTGCGTGGCTGGTGATGAGGAG
+TCCTACGAAGTTTTCAAGGAACTCTTTGACCCCATCATCTCGGATCGCCACGGGGGCTAC
+AAACCCACTGACAAGCACAAGACTGACCTCAACCATGAAAACCTCAAGGGTGGAGACGAC
+CTGGACCCCAACTACGTGCTCAGCAGCCCGGTCCGCACTGGCCGCAGCATCAAGGGCTAC
+ACGTTGCCCCCACACTGCTCCCGTGGCGAGCGCCGGGCGGTGGAGAAGCTCTCTGTGGAA
+GCTCTCAACAGCCTGACGGGCGAGTTCAAAGGGAAGTACTACCCTCTGAAGAGCATGACG
+GAGAAGGAGCAGCAGCAGCTCATCGATGACCACTTCCAGTTCGACAAGCCCGTGTCCCCG
+CTGCTGCTGGCCTCAGGCATGGCCCGCCACTGGCCCGACGCCCCTGGCATCTGGCACAAT
+GACAACAAGAGCTTCCTGGTGTGGGTGAACGAGGAGGATCACCTCCGGGTCATCTCCATG
+GAGAAGGGGGGCAACATGAAGGAGGTTTTCCGCCGCTTCTGCGTAGGGCTGCAGAAGATT
+GAGGAGATCTTTAAGAAAGCTGGCCACCCCTTCATGTGGAACCAGCACCTGGGCTACGTG
+CTCACCTGCCCATCCAACCTGGGCACTGGGCTGCGTGGAGGCGTGCATGTGAAGCTGGCG
+CACCTGAGCAAGCACCCCAAGTTCGAGGAGATCCTCACCCGCCTGCGTCTGCAGAAGAGG
+GGTACAGGTGCGGTGGACACAGCTGCCGTGGGCTCAGTATTTGACGTGTCCAACGCTGAT
+CGGCTGGGCTCGTCCGAAGTAGAACAGGTGCAGCTGGTGGTGGATGGTGTGAAGCTCATG
+GTGGAAATGGAGAAGAAGTTGGAGAAAGGCCAGTCCATCGACGACATGATCCCCGCCCAG
+AAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>381</residue_number>
+    <molecular_weight>43100.91</molecular_weight>
+    <theoretical_pi>7.258</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ATP-gua_Ptrans</name>
+        <pfam_id>PF00217</pfam_id>
+      </pfam>
+      <pfam>
+        <name>ATP-gua_PtransN</name>
+        <pfam_id>PF02807</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Creatine kinase M-type
+MPFGNTHNKFKLNYKPEEEYPDLSKHNNHMAKVLTLELYKKLRDKETPSGFTVDDVIQTG
+VDNPGHPFIMTVGCVAGDEESYEVFKELFDPIISDRHGGYKPTDKHKTDLNHENLKGGDD
+LDPNYVLSSRVRTGRSIKGYTLPPHCSRGERRAVEKLSVEALNSLTGEFKGKYYPLKSMT
+EKEQQQLIDDHFLFDKPVSPLLLASGMARDWPDARGIWHNDNKSFLVWVNEEDHLRVISM
+EKGGNMKEVFRRFCVGLQKIEEIFKKAGHPFMWNQHLGYVLTCPSNLGTGLRGGVHVKLA
+HLSKHPKFEEILTRLRLQKRGTGGVDTAAVGSVFDVSNADRLGSSEVEQVQLVVDGVKLM
+VEMEKKLEKGQSIDDMIPAQK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>180576</genbank_protein_id>
+  <uniprot_id>P06732</uniprot_id>
+  <uniprot_name>KCRM_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1I0E</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M14780</genbank_gene_id>
+  <genecard_id>CKM</genecard_id>
+  <geneatlas_id>CKM</geneatlas_id>
+  <hgnc_id>HGNC:1994</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Perryman MB, Kerner SA, Bohlmeyer TJ, Roberts R: Isolation and sequence analysis of a full-length cDNA for human M creatine kinase. Biochem Biophys Res Commun. 1986 Nov 14;140(3):981-9.</reference_text>
+      <pubmed_id>3778496</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Trask RV, Strauss AW, Billadello JJ: Developmental regulation and tissue-specific expression of the human muscle creatine kinase gene. J Biol Chem. 1988 Nov 15;263(32):17142-9.</reference_text>
+      <pubmed_id>2903158</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hamburg RJ, Friedman DL, Olson EN, Ma TS, Cortez MD, Goodman C, Puleo PR, Perryman MB: Muscle creatine kinase isoenzyme expression in adult human brain.  J Biol Chem. 1990 Apr 15;265(11):6403-9.</reference_text>
+      <pubmed_id>1690725</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nigro JM, Schweinfest CW, Rajkovic A, Pavlovic J, Jamal S, Dottin RP, Hart JT, Kamarck ME, Rae PM, Carty MD, et al.: cDNA cloning and mapping of the human creatine kinase M gene to 19q13.  Am J Hum Genet. 1987 Feb;40(2):115-25.</reference_text>
+      <pubmed_id>3031982</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang L, Zhou HM, Lin ZJ: Crystallization and preliminary X-ray analysis of human muscle creatine kinase. Acta Crystallogr D Biol Crystallogr. 1999 Mar;55(Pt 3):669-70.</reference_text>
+      <pubmed_id>10089465</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Creatine</name>
+        <accession>HMDB00064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zeng L, Hu Q, Wang X, Mansoor A, Lee J, Feygin J, Zhang G, Suntharalingam P, Boozer S, Mhashilkar A, Panetta CJ, Swingen C, Deans R, From AH, Bache RJ, Verfaillie CM, Zhang J: Bioenergetic and functional consequences of bone marrow-derived multipotent progenitor cell transplantation in hearts with postinfarction left ventricular remodeling. Circulation. 2007 Apr 10;115(14):1866-75. Epub 2007 Mar 26.</reference_text>
+        <pubmed_id>17389266</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Creatine</name>
+        <accession>HMDB00064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou DQ, Hu Y, Liu G, Gong L, Xi Y, Wen L: Muscle-specific creatine kinase gene polymorphism and running economy responses to an 18-week 5000-m training programme. Br J Sports Med. 2006 Dec;40(12):988-91. Epub 2006 Sep 25.</reference_text>
+        <pubmed_id>17000714</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Creatine</name>
+        <accession>HMDB00064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wallimann T, Wyss M, Brdiczka D, Nicolay K, Eppenberger HM: Intracellular compartmentation, structure and function of creatine kinase isoenzymes in tissues with high and fluctuating energy demands: the 'phosphocreatine circuit' for cellular energy homeostasis. Biochem J. 1992 Jan 1;281 ( Pt 1):21-40.</reference_text>
+        <pubmed_id>1731757</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

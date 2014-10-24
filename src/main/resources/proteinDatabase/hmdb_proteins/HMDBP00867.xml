@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:06 -0700</creation_date>
+  <update_date>2013-05-27 11:24:04 -0600</update_date>
+  <accession>HMDBP00867</accession>
+  <secondary_accessions>
+    <accession>6149</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>AMan II</synonym>
+    <synonym>Golgi alpha-mannosidase II</synonym>
+    <synonym>Man II</synonym>
+    <synonym>Mannosidase alpha class 2A member 1</synonym>
+    <synonym>Mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase</synonym>
+  </synonyms>
+  <gene_name>MAN2A1</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Catalyzes the first committed step in the biosynthesis of complex N-glycans. It controls conversion of high mannose to complex N-glycans; the final hydrolytic step in the N-glycan maturation pathway.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>N-Glycan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00510</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00169</accession>
+      <name>D-Mannose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>alpha-mannosidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, hydrolyzing o-glycosyl compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>mannosidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbohydrate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>mannose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carbohydrate binding</description>
+      <go_id>GO:0030246</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hydrolase activity, hydrolyzing N-glycosyl compounds</description>
+      <go_id>GO:0016799</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase activity</description>
+      <go_id>GO:0004572</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>liver development</description>
+      <go_id>GO:0001889</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lung alveolus development</description>
+      <go_id>GO:0048286</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mannose metabolic process</description>
+      <go_id>GO:0006013</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrion organization</description>
+      <go_id>GO:0007005</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>N-glycan processing</description>
+      <go_id>GO:0006491</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-translational protein modification</description>
+      <go_id>GO:0043687</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein N-linked glycosylation via asparagine</description>
+      <go_id>GO:0018279</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>respiratory gaseous exchange</description>
+      <go_id>GO:0007585</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>vacuole organization</description>
+      <go_id>GO:0007033</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q21-q22</locus>
+    <gene_sequence>&gt;3435 bp
+ATGAAGTTAAGCCGCCAGTTCACCGTGTTCGGCAGTGCGATCTTCTGTGTGGTGATTTTC
+TCGCTCTACCTGATGCTGGACCGGGGTCACTTAGACTACCCCAGGAACCCGCGCCGCGAG
+GGCTCCTTCCCTCAGGGCCAGCTCTCAATGTTGCAAGAAAAAATAGACCATTTGGAGCGT
+TTGCTAGCTGAGAATAATGAGATCATCTCAAATATTAGAGACTCAGTCATCAATTTGAGT
+GAGTCTGTGGAGGATGGTCCGAAAAGTTCACAAAGCAATTTCAGCCAAGGTGCTGGCTCA
+CATCTTCTGCCCTCACAATTATCCCTCTCAGTTGACACTGCAGACTGTCTGTTTGCTTCA
+CAAAGTGGAAGTCACAATTCAGATGTGCAGATGTTGGATGTTTACAGTCTAATTTCTTTT
+GACAATCCAGATGGTGGAGTTTGGAAGCAAGGATTTGACATTACTTATGAATCTAATGAA
+TGGGACACTGAACCCCTTCAAGTCTTTGTGGTGCCTCATTCCCATAACGACCCAGGTTGG
+TTGAAGACTTTCAATGACTACTTTAGAGACAAGACTCAGTATATTTTTAATAACATGGTC
+CTAAAGCTGAAAGAAGACTCACGGAGGAAGTTTATTTGGTCTGAGATCTCTTACCTTTCA
+AAGTGGTGGGATATTATAGATATTCAGAAGAAGGATGCTGTTAAAAGTTTAATAGAAAAT
+GGTCAGCTTGAAATTGTGACAGGTGGCTGGGTTATGCCTGATGAAGCTACTCCACATTAT
+TTTGCCTTAATTGATCAACTAATTGAAGGACATCAGTGGCTGGAAAATAATATAGGAGTG
+AAACCTCGGTCCGGCTGGGCTATTGATCCCTTTGGACACTCACCAACAATGGCTTATCTT
+CTAAACCGTGCTGGACTTTCTCACATGCTTATCCAGAGAGTTCATTATGCAGTTAAAAAA
+CACTTTGCACTGCATAAAACATTGGAGTTTTTTTGGAGACAGAATTGGGATCTGGGATCT
+GTCACAGATATTTTATGCCACATGATGCCCTTCTACAGCTATGACATCCCTCACACTTGT
+GGACCTGATCCTAAAATATGCTGCCAGTTTGATTTTAAACGTCTTCCTGGAGGCAGATTT
+GGTTGTCCCTGGGGAGTCCCCCCAGAAACAATACATCCTGGAAATGTCCAAAGCAGGGCT
+CGGATGCTACTAGATCAGTACCGAAAGAAGTCAAAGCTTTTTCGTACCAAAGTTCTCCTG
+GCTCCACTAGGAGATGATTTCCGCTACTGTGAATACACGGAATGGGATTTACAGTTTAAG
+AATTATCAGCAGCTTTTTGATTATATGAATTCTCAGTCCAAGTTTAAAGTTAAGATACAG
+TTTGGAACTTTATCAGATTTTTTTGATGCGCTGGATAAAGCAGATGAAACTCAGAGAGAC
+AAGGGCCAATCGATGTTCCCTGTTTTAAGTGGAGATTTTTTCACTTATGCCGATCGAGAT
+GATCATTACTGGAGTGGCTATTTTACATCCAGACCCTTTTACAAACGAATGGACAGAATC
+ATGGAATCTCATTTAAGGGCTGCTGAAATTCTTTACTATTTCGCCCTGAGACAAGCTCAC
+AAATACAAGATAAATAAATTTCTCTCATCATCACTTTACACGGCACTGACAGAAGCCAGA
+AGGAATTTGGGACTGTTTCAACATCATGATGCTATCACAGGAACTGCAAAAGACTGGGTG
+GTTGTGGATTATGGTACCAGACTTTTTCATTCGTTAATGGTTTTGGAGAAGATAATTGGA
+AATTCTGCATTTCTTCTTATTTTGAAGGACAAACTCACATACGACTCTTACTCTCCTGAT
+ACCTTCCTGGAGATGGATTTGAAACAAAAATCACAAGATTCTCTGCCACAAAAAAATATA
+ATAAGGCTGAGTGCGGAGCCAAGGTACCTTGTGGTCTATAATCCTTTAGAACAAGACCGA
+ATCTCGTTGGTCTCAGTCTATGTGAGTTCCCCGACAGTGCAAGTGTTCTCTGCTTCAGGA
+AAACCTGTGGAAGTTCAAGTCAGCGCAGTTTGGGATACAGCAAATACTATTTCAGAAACA
+GCCTATGAGATCTCTTTTCGAGCACATATACCGCCATTGGGACTGAAAGTGTATAAGATT
+TTGGAATCAGCAAGTTCAAATTCACATTTAGCTGATTATGTCTTGTATAAGAATAAAGTA
+GAAGATAGCGGAATTTTCACCATAAAGAATATGATAAATACTGAAGAAGGTATAACACTA
+GAGAACTCCTTTGTTTTACTTCGGTTTGATCAAACTGGACTTATGAAGCAAATGATGACT
+AAAGAAGATGGTAAACACCATGAAGTAAATGTGCAATTTTCATGGTATGGAACCACAATT
+AAAAGAGACAAAAGTGGTGCCTACCTCTTCTTACCTGATGGTAATGCCAAGCCTTATGTT
+TACACAACACCGCCCTTTGTCAGAGTGACACATGGAAGGATTTATTCGGAAGTGACTTGC
+TTTTTTGACCATGTTACTCATAGAGTCCGACTATACCACATACAGGGAATAGAAGGACAG
+TCTGTGGAAGTTTCCAATATTGTGGACATCCGAAAAGTATATAACCGTGAGATTGCAATG
+AAAATTTCTTCTGATATAAAAAGCCAAAATAGATTTTATACTGACCTAAATGGGTACCAG
+ATTCAACCTAGAATGACACTGAGCAAATTGCCTCTTCAAGCAAATGTCTATCCCATGACC
+ACAATGGCCTATATCCAGGATGCCAAACATCGTTTGACACTGCTCTCTGCTCAGTCATTA
+GGGGTTTCGAGTTTGAATAGTGGTCAGATTGAAGTTATCATGGATCGAAGACTCATGCAA
+GATGATAATCGTGGCCTTGAGCAAGGTATCCAGGATAACAAGATTACAGCTAATCTATTT
+CGAATACTACTAGAAAAAAGAAGTGCTGTTAATACGGAAGAAGAAAAGAAGTCGGTCAGT
+TATCCTTCTCTCCTTAGCCACATAACTTCTTCTCTCATGAATCATCCAGTCATTCCAATG
+GCAAATAAGTTCTCCTCACCTACCCTTGAGCTGCAAGGTGAATTCTCTCCATTACAGTCA
+TCTTTGCCTTGTGACATTCATCTGGTTAATTTGAGAACAATACAGTCAAAGGTGGGCAAT
+GGGCACTCCAATGAGGCAGCCTTGATCCTCCACAGAAAAGGGTTTGATTGTCGGTTCTCT
+AGCAAAGGCACAGGGCTGTTTTGTTCTACTACTCAGGGAAAGATATTGGTACAGAAACTT
+TTAAACAAGTTTATTGTCGAAAGTCTCACACCTTCATCACTATCCTTGATGCATTCACCT
+CCCGGCACTCAGAATATAAGTGAGATCAACTTGAGTCCAATGGAAATCAGCACATTCCGA
+ATCCAGTTGAGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1144</residue_number>
+    <molecular_weight>131139.485</molecular_weight>
+    <theoretical_pi>7.573</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Alpha-mann_mid</name>
+        <pfam_id>PF09261</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Glyco_hydro_38</name>
+        <pfam_id>PF01074</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Glyco_hydro_38C</name>
+        <pfam_id>PF07748</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alpha-mannosidase 2
+MKLSRQFTVFGSAIFCVVIFSLYLMLDRGHLDYPRNPRREGSFPQGQLSMLQEKIDHLER
+LLAENNEIISNIRDSVINLSESVEDGPKSSQSNFSQGAGSHLLPSQLSLSVDTADCLFAS
+QSGSHNSDVQMLDVYSLISFDNPDGGVWKQGFDITYESNEWDTEPLQVFVVPHSHNDPGW
+LKTFNDYFRDKTQYIFNNMVLKLKEDSRRKFIWSEISYLSKWWDIIDIQKKDAVKSLIEN
+GQLEIVTGGWVMPDEATPHYFALIDQLIEGHQWLENNIGVKPRSGWAIDPFGHSPTMAYL
+LNRAGLSHMLIQRVHYAVKKHFALHKTLEFFWRQNWDLGSVTDILCHMMPFYSYDIPHTC
+GPDPKICCQFDFKRLPGGRFGCPWGVPPETIHPGNVQSRARMLLDQYRKKSKLFRTKVLL
+APLGDDFRYCEYTEWDLQFKNYQQLFDYMNSQSKFKVKIQFGTLSDFFDALDKADETQRD
+KGQSMFPVLSGDFFTYADRDDHYWSGYFTSRPFYKRMDRIMESHLRAAEILYYFALRQAH
+KYKINKFLSSSLYTALTEARRNLGLFQHHDAITGTAKDWVVVDYGTRLFHSLMVLEKIIG
+NSAFLLILKDKLTYDSYSPDTFLEMDLKQKSQDSLPQKNIIRLSAEPRYLVVYNPLEQDR
+ISLVSVYVSSPTVQVFSASGKPVEVQVSAVWDTANTISETAYEISFRAHIPPLGLKVYKI
+LESASSNSHLADYVLYKNKVEDSGIFTIKNMINTEEGITLENSFVLLRFDQTGLMKQMMT
+KEDGKHHEVNVQFSWYGTTIKRDKSGAYLFLPDGNAKPYVYTTPPFVRVTHGRIYSEVTC
+FFDHVTHRVRLYHIQGIEGQSVEVSNIVDIRKVYNREIAMKISSDIKSQNRFYTDLNGYQ
+IQPRMTLSKLPLQANVYPMTTMAYIQDAKHRLTLLSAQSLGVSSLNSGQIEVIMDRRLMQ
+DDNRGLEQGIQDNKITANLFRILLEKRSAVNTEEEKKSVSYPSLLSHITSSLMNHPVIPM
+ANKFSSPTLELQGEFSPLQSSLPCDIHLVNLRTIQSKVGNGHSNEAALILHRKGFDCRFS
+SKGTGLFCSTTQGKILVQKLLNKFIVESLTPSSLSLMHSPPGTQNISEINLSPMEISTFR
+IQLR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>51477714</genbank_protein_id>
+  <uniprot_id>Q16706</uniprot_id>
+  <uniprot_name>MA2A1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_002372.2</genbank_gene_id>
+  <genecard_id>MAN2A1</genecard_id>
+  <geneatlas_id>MAN2A1</geneatlas_id>
+  <hgnc_id>HGNC:6824</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Misago M, Liao YF, Kudo S, Eto S, Mattei MG, Moremen KW, Fukuda MN: Molecular cloning and expression of cDNAs encoding human alpha-mannosidase II and a previously unrecognized alpha-mannosidase IIx isozyme. Proc Natl Acad Sci U S A. 1995 Dec 5;92(25):11766-70.</reference_text>
+      <pubmed_id>8524845</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

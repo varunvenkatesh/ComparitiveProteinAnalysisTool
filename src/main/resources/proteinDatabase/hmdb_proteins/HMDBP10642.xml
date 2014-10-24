@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:36:23 -0700</creation_date>
+  <update_date>2013-05-27 11:12:07 -0600</update_date>
+  <accession>HMDBP10642</accession>
+  <secondary_accessions>
+    <accession>16872</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>56 kDa U2AF65-associated protein</synonym>
+    <synonym>ATP-dependent RNA helicase p47</synonym>
+    <synonym>DEAD box protein UAP56</synonym>
+    <synonym>HLA-B-associated transcript 1 protein</synonym>
+  </synonyms>
+  <gene_name>DDX39B</gene_name>
+  <general_function>Involved in nucleic acid binding</general_function>
+  <specific_function>Component of the THO subcomplex of the TREX complex. The TREX complex specifically associates with spliced mRNA and not with unspliced pre-mRNA. It is recruited to spliced mRNAs by a transcription-independent mechanism. Binds to mRNA upstream of the exon-junction complex (EJC) and is recruited in a splicing- and cap-dependent manner to a region near the 5' end of the mRNA where it functions in mRNA export. The recruitment occurs via an interaction between ALYREF/THOC4 and the cap-binding protein NCBP1. DDX39B functions as a bridge between ALYREF/THOC4 and the THO complex. The TREX complex is essential for the export of Kaposi's sarcoma-associated herpesvirus (KSHV) intronless mRNAs and infectious virus production. The recruitment of the TREX complex to the intronless viral mRNA occurs via an interaction between KSHV ORF57 protein and ALYREF/THOC4.
+Splice factor that is required for the first ATP-dependent step in spliceosome assembly and for the interaction of U2 snRNP with the branchpoint. Has both RNA-stimulated ATP binding/hydrolysis activity and ATP-dependent RNA unwinding activity. Even with the stimulation of RNA, the ATPase activity is weak. Can only hydrolyze ATP but not other NTPs. The RNA stimulation of ATPase activity does not have a strong preference for the sequence and length of the RNA. However, ssRNA stimulates the ATPase activity much more strongly than dsRNA. Can unwind 5' or 3' overhangs or blunt end RNA duplexes in vitro. The ATPase and helicase activities are not influenced by U2AF2 and ALYREF/THOC4.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RNA transport</name>
+      <smpdb_id/>
+      <kegg_map_id>map03013</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>mRNA surveillance pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03015</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Spliceosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map03040</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Influenza A</name>
+      <smpdb_id/>
+      <kegg_map_id>map05164</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00863</accession>
+      <name>Isopropyl alcohol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity, coupled</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear speck</description>
+      <go_id>GO:0016607</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>spliceosomal complex</description>
+      <go_id>GO:0005681</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>transcription export complex</description>
+      <go_id>GO:0000346</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent protein binding</description>
+      <go_id>GO:0043008</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent RNA helicase activity</description>
+      <go_id>GO:0004004</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>U4 snRNA binding</description>
+      <go_id>GO:0030621</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>U6 snRNA binding</description>
+      <go_id>GO:0017070</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intronless viral mRNA export from host nucleus</description>
+      <go_id>GO:0046784</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>RNA secondary structure unwinding</description>
+      <go_id>GO:0010501</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spliceosomal complex assembly</description>
+      <go_id>GO:0000245</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Nucleus speckle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6p21.3</locus>
+    <gene_sequence>&gt;1287 bp
+ATGGCAGAGAACGATGTGGACAATGAGCTCTTGGACTATGAAGATGATGAGGTGGAGACA
+GCAGCTGGGGGAGATGGGGCTGAGGCCCCTGCCAAGAAGGATGTCAAGGGCTCCTATGTC
+TCCATCCACAGCTCTGGCTTTCGTGACTTCCTGCTCAAGCCAGAGTTGCTCCGGGCCATT
+GTCGACTGTGGCTTTGAGCATCCGTCAGAAGTCCAGCATGAGTGCATCCCTCAGGCCATT
+CTGGGAATGGATGTCCTGTGCCAGGCCAAGTCGGGCATGGGAAAGACAGCAGTGTTTGTC
+TTGGCCACACTGCAACAGCTGGAGCCAGTTACTGGGCAGGTGTCTGTACTGGTGATGTGT
+CACACTCGGGAGTTGGCTTTTCAGATCAGCAAGGAATATGAGCGCTTCTCTAAATACATG
+CCCAATGTCAAGGTTGCTGTTTTTTTTGGTGGTCTGTCTATCAAGAAGGATGAAGAGGTG
+CTGAAGAAGAACTGCCCGCATATCGTCGTGGGGACTCCAGGCCGTATCCTAGCCCTGGCT
+CGAAATAAGAGCCTCAACCTCAAACACATTAAACACTTTATTTTGGATGAATGTGATAAG
+ATGCTTGAACAGCTCGACATGCGTCGGGATGTCCAGGAAATTTTTCGCATGACCCCCCAC
+GAGAAGCAGGTCATGATGTTCAGTGCTACCTTGAGCAAAGAGATCCGTCCAGTCTGCCGC
+AAGTTCATGCAAGATCCAATGGAGATCTTCGTGGATGATGAGACGAAGTTGACGCTGCAT
+GGGTTGCAGCAGTACTACGTGAAACTGAAGGACAACGAGAAGAACCGGAAGCTCTTTGAC
+CTTCTGGATGTCCTTGAGTTCAACCAGGTGGTGATCTTTGTGAAGTCTGTGCAGCGGTGC
+ATTGCCTTGGCCCAGCTACTAGTGGAGCAGAACTTCCCAGCCATTGCCATCCACCGTGGG
+ATGCCCCAGGAGGAGAGGCTTTCTCGGTATCAGCAGTTTAAAGATTTTCAACGACGAATT
+CTTGTGGCTACCAACCTATTTGGCCGAGGCATGGACATCGAGCGGGTGAACATTGCTTTT
+AATTATGACATGCCTGAGGATTCTGACACCTACCTGCATCGGGTGGCCAGAGCAGGCCGG
+TTTGGCACCAAGGGCTTGGCTATCACATTTGTGTCCGATGAGAATGATGCCAAGATCCTC
+AATGATGTGCAGGATCGCTTTGAGGTCAATATTAGTGAGCTGCCTGATGAGATAGACATC
+TCCTCCTACATTGAACAGACACGGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>428</residue_number>
+    <molecular_weight>48990.945</molecular_weight>
+    <theoretical_pi>5.668</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DEAD;</name>
+        <pfam_id>PF00270</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Helicase_C;</name>
+        <pfam_id>PF00271</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Spliceosome RNA helicase BAT1
+MAENDVDNELLDYEDDEVETAAGGDGAEAPAKKDVKGSYVSIHSSGFRDFLLKPELLRAI
+VDCGFEHPSEVQHECIPQAILGMDVLCQAKSGMGKTAVFVLATLQQLEPVTGQVSVLVMC
+HTRELAFQISKEYERFSKYMPNVKVAVFFGGLSIKKDEEVLKKNCPHIVVGTPGRILALA
+RNKSLNLKHIKHFILDECDKMLEQLDMRRDVQEIFRMTPHEKQVMMFSATLSKEIRPVCR
+KFMQDPMEIFVDDETKLTLHGLQQYYVKLKDNEKNRKLFDLLDVLEFNQVVIFVKSVQRC
+IALAQLLVEQNFPAIAIHRGMPQEERLSRYQQFKDFQRRILVATNLFGRGMDIERVNIAF
+NYDMPEDSDTYLHRVARAGRFGTKGLAITFVSDENDAKILNDVQDRFEVNISELPDEIDI
+SSYIEQTR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>587146</genbank_protein_id>
+  <uniprot_id>Q13838</uniprot_id>
+  <uniprot_name>UAP56_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1T5I</pdb_id>
+    <pdb_id>1T6N</pdb_id>
+    <pdb_id>1XTI</pdb_id>
+    <pdb_id>1XTJ</pdb_id>
+    <pdb_id>1XTK</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>Z37166</genbank_gene_id>
+  <genecard_id>BAT1</genecard_id>
+  <geneatlas_id>BAT1</geneatlas_id>
+  <hgnc_id>HGNC:13917</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Peelman LJ, Chardon P, Nunes M, Renard C, Geffrotin C, Vaiman M, Van Zeveren A, Coppieters W, van de Weghe A, Bouquet Y, et al.: The BAT1 gene in the MHC encodes an evolutionarily conserved putative nuclear RNA helicase of the DEAD family. Genomics. 1995 Mar 20;26(2):210-8.</reference_text>
+      <pubmed_id>7601445</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shiina T, Ota M, Shimizu S, Katsuyama Y, Hashimoto N, Takasu M, Anzai T, Kulski JK, Kikkawa E, Naruse T, Kimura N, Yanagiya K, Watanabe A, Hosomichi K, Kohara S, Iwamoto C, Umehara Y, Meyer A, Wanner V, Sano K, Macquin C, Ikeo K, Tokunaga K, Gojobori T, Inoko H, Bahram S: Rapid evolution of major histocompatibility complex class I genes in primates generates new disease alleles in humans via hitchhiking diversity. Genetics. 2006 Jul;173(3):1555-70. Epub 2006 May 15.</reference_text>
+      <pubmed_id>16702430</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fleckner J, Zhang M, Valcarcel J, Green MR: U2AF65 recruits a novel human DEAD box protein required for the U2 snRNP-branchpoint interaction. Genes Dev. 1997 Jul 15;11(14):1864-72.</reference_text>
+      <pubmed_id>9242493</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Luo ML, Zhou Z, Magni K, Christoforides C, Rappsilber J, Mann M, Reed R: Pre-mRNA splicing and mRNA export linked by direct interactions between UAP56 and Aly. Nature. 2001 Oct 11;413(6856):644-7.</reference_text>
+      <pubmed_id>11675789</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McCracken S, Longman D, Johnstone IL, Caceres JF, Blencowe BJ: An evolutionarily conserved role for SRm160 in 3'-end processing that functions independently of exon junction complex formation. J Biol Chem. 2003 Nov 7;278(45):44153-60. Epub 2003 Aug 27.</reference_text>
+      <pubmed_id>12944400</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lehner B, Semple JI, Brown SE, Counsell D, Campbell RD, Sanderson CM: Analysis of a high-throughput yeast two-hybrid system and its use to predict the function of intracellular proteins encoded within the human MHC class III region. Genomics. 2004 Jan;83(1):153-67.</reference_text>
+      <pubmed_id>14667819</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guo S, Hakimi MA, Baillat D, Chen X, Farber MJ, Klein-Szanto AJ, Cooch NS, Godwin AK, Shiekhattar R: Linking transcriptional elongation and messenger RNA export to metastatic breast cancers. Cancer Res. 2005 Apr 15;65(8):3011-6.</reference_text>
+      <pubmed_id>15833825</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Masuda S, Das R, Cheng H, Hurt E, Dorman N, Reed R: Recruitment of the human TREX complex to mRNA during splicing.  Genes Dev. 2005 Jul 1;19(13):1512-7.</reference_text>
+      <pubmed_id>15998806</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li Y, Wang X, Zhang X, Goodrich DW: Human hHpr1/p84/Thoc1 regulates transcriptional elongation and physically links RNA polymerase II and RNA processing factors. Mol Cell Biol. 2005 May;25(10):4023-33.</reference_text>
+      <pubmed_id>15870275</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cheng H, Dufu K, Lee CS, Hsu JL, Dias A, Reed R: Human mRNA export machinery recruited to the 5' end of mRNA.  Cell. 2006 Dec 29;127(7):1389-400.</reference_text>
+      <pubmed_id>17190602</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shen J, Zhang L, Zhao R: Biochemical characterization of the ATPase and helicase activity of UAP56, an essential pre-mRNA splicing and mRNA export factor. J Biol Chem. 2007 Aug 3;282(31):22544-50. Epub 2007 Jun 11.</reference_text>
+      <pubmed_id>17562711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Boyne JR, Colgan KJ, Whitehouse A: Recruitment of the complete hTREX complex is required for Kaposi's sarcoma-associated herpesvirus intronless mRNA nuclear export and virus replication. PLoS Pathog. 2008 Oct;4(10):e1000194. Epub 2008 Oct 31.</reference_text>
+      <pubmed_id>18974867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hautbergue GM, Hung ML, Walsh MJ, Snijders AP, Chang CT, Jones R, Ponting CP, Dickman MJ, Wilson SA: UIF, a New mRNA export adaptor that works together with REF/ALY, requires FACT for recruitment to mRNA. Curr Biol. 2009 Dec 1;19(22):1918-24.</reference_text>
+      <pubmed_id>19836239</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shi H, Cordin O, Minder CM, Linder P, Xu RM: Crystal structure of the human ATP-dependent splicing and export factor UAP56. Proc Natl Acad Sci U S A. 2004 Dec 21;101(51):17628-33. Epub 2004 Dec 7.</reference_text>
+      <pubmed_id>15585580</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhao R, Shen J, Green MR, MacMorris M, Blumenthal T: Crystal structure of UAP56, a DExD/H-box protein involved in pre-mRNA splicing and mRNA export. Structure. 2004 Aug;12(8):1373-81.</reference_text>
+      <pubmed_id>15296731</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isopropyl alcohol</name>
+        <accession>HMDB00863</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isopropyl alcohol</name>
+        <accession>HMDB00863</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isopropyl alcohol</name>
+        <accession>HMDB00863</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

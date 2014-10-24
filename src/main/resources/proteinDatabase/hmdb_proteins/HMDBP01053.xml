@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:03 -0700</creation_date>
+  <update_date>2013-05-27 11:23:08 -0600</update_date>
+  <accession>HMDBP01053</accession>
+  <secondary_accessions>
+    <accession>6342</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MK</synonym>
+  </synonyms>
+  <gene_name>MVK</gene_name>
+  <general_function>Involved in ATP binding</general_function>
+  <specific_function>May be a regulatory site in cholesterol biosynthetic pathway.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>isopentenyl diphosphate biosynthesis via mevalonate pathway</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Terpenoid backbone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00900</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Peroxisome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04146</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01343</accession>
+      <name>Mevalonic acid-5P</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00227</accession>
+      <name>Mevalonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59629</accession>
+      <name>(R)-mevalonate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>mevalonate kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>isoprenoid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>isoprenoid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mevalonate kinase activity</description>
+      <go_id>GO:0004496</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>isopentenyl diphosphate biosynthetic process, mevalonate pathway</description>
+      <go_id>GO:0019287</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>isoprenoid biosynthetic process</description>
+      <go_id>GO:0008299</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of inflammatory response</description>
+      <go_id>GO:0050728</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Peroxisome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q24</locus>
+    <gene_sequence>&gt;1191 bp
+ATGTTGTCAGAAGTCCTACTGGTGTCTGCTCCGGGGAAAGTCATCCTTCATGGAGAACAT
+GCCGTGGTACATGGCAAGGTAGCACTGGCTGTATCCTTGAACTTGAGAACATTCCTCCGG
+CTTCAACCCCACAGCAATGGGAAAGTGGACCTCAGCTTACCCAACATTGGTATCAAGCGG
+GCCTGGGATGTGGCCAGGCTTCAGTCACTGGACACAAGCTTTCTGGAGCAAGGTGATGTC
+ACAACACCCACCTCAGAGCAAGTGGAGAAGCTAAAGGAGGTTGCAGGCTTGCCTGACGAC
+TGTGCTGTCACCGAGCGCCTGGCTGTGCTGGCCTTTCTTTACTTATACCTGTCCATCTGC
+CGGAAGCAGAGGGCCCTGCCGAGCCTGGATATCGTAGTGTGGTCGGAGCTGCCCCCCGGG
+GCGGGCTTGGGCTCCAGCGCCGCCTACTCGGTGTGTCTGGCAGCAGCCCTCCTGACTGTG
+TGCGAGGAGATCCCAAACCCGCTGAAGGACGGGGATTGCGTCAACAGGTGGACCAAGGAG
+GATTTGGAGCTAATTAACAAGTGGGCCTTCCAAGGGGAGAGAATGATTCACGGGAACCCC
+TCCGGAGTGGACAATGCTGTCAGCACCTGGGGAGGAGCCCTCCGATACCATCAAGGGAAG
+ATTTCATCCTTAAAGAGGTCGCCAGCTCTCCAGATCCTGCTGACCAACACCAAAGTCCCT
+CGCAATACCAGGGCCCTTGTGGCTGGCGTCAGAAACAGGCTGCTCAAGTTCCCAGAGATC
+GTGGCCCCCCTCCTGACCTCAATAGATGCCATCTCCCTGGAGTGTGAGCGCGTGCTGGGA
+GAGATGGGGGAAGCCCCAGCCCCGGAGCAGTACCTCGTGCTGGAAGAGCTCATTGACATG
+AACCAGCACCATCTGAATGCCCTCGGCGTGGGCCACGCCTCTCTGGACCAGCTCTGCCAG
+GTGACCAGGGCCCGCGGACTTCACAGCAAGCTGACTGGCGCAGGCGGTGGTGGCTGTGGC
+ATCACACTCCTCAAGCCAGGGCTGGAGCAGCCAGAAGTGGAGGCCACGAAGCAGGCCCTG
+ACCAGCTGTGGCTTTGACTGCTTGGAAACCAGCATCGGTGCCCCCGGCGTCTCCATCCAC
+TCAGCCACCTCCCTGGACAGCCGAGTCCAGCAAGCCCTGGATGGCCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>396</residue_number>
+    <molecular_weight>42450.475</molecular_weight>
+    <theoretical_pi>6.459</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GHMP_kinases_C</name>
+        <pfam_id>PF08544</pfam_id>
+      </pfam>
+      <pfam>
+        <name>GHMP_kinases_N</name>
+        <pfam_id>PF00288</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Mevalonate kinase
+MLSEVLLVSAPGKVILHGEHAVVHGKVALAVSLNLRTFLRLQPHSNGKVDLSLPNIGIKR
+AWDVARLQSLDTSFLEQGDVTTPTSEQVEKLKEVAGLPDDCAVTERLAVLAFLYLYLSIC
+RKQRALPSLDIVVWSELPPGAGLGSSAAYSVCLAAALLTVCEEIPNPLKDGDCVNRWTKE
+DLELINKWAFQGERMIHGNPSGVDNAVSTWGGALRYHQGKISSLKRSPALQILLTNTKVP
+RNTRALVAGVRNRLLKFPEIVAPLLTSIDAISLECERVLGEMGEAPAPEQYLVLEELIDM
+NQHHLNALGVGHASLDQLCQVTRARGLHSKLTGAGGGGCGITLLKPGLEQPEVEATKQAL
+TSCGFDCLETSIGAPGVSIHSATSLDSRVQQALDGL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q03426</uniprot_id>
+  <uniprot_name>KIME_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2R3V</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M88468</genbank_gene_id>
+  <genecard_id>MVK</genecard_id>
+  <geneatlas_id>MVK</geneatlas_id>
+  <hgnc_id>HGNC:7530</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Schafer BL, Bishop RW, Kratunis VJ, Kalinowski SS, Mosley ST, Gibson KM, Tanaka RD: Molecular cloning of human mevalonate kinase and identification of a missense mutation in the genetic disease mevalonic aciduria. J Biol Chem. 1992 Jul 5;267(19):13229-38.</reference_text>
+      <pubmed_id>1377680</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Graef E, Caselmann WH, Wells J, Koshy R: Insertional activation of mevalonate kinase by hepatitis B virus DNA in a human hepatoma cell line. Oncogene. 1994 Jan;9(1):81-7.</reference_text>
+      <pubmed_id>8302606</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Houten SM, Koster J, Romeijn GJ, Frenkel J, Di Rocco M, Caruso U, Landrieu P, Kelley RI, Kuis W, Poll-The BT, Gibson KM, Wanders RJ, Waterham HR: Organization of the mevalonate kinase (MVK) gene and identification of novel mutations causing mevalonic aciduria and hyperimmunoglobulinaemia D and periodic fever syndrome. Eur J Hum Genet. 2001 Apr;9(4):253-9.</reference_text>
+      <pubmed_id>11313768</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hinson DD, Ross RM, Krisans S, Shaw JL, Kozich V, Rolland MO, Divry P, Mancini J, Hoffmann GF, Gibson KM: Identification of a mutation cluster in mevalonate kinase deficiency, including a new mutation in a patient of Mennonite ancestry. Am J Hum Genet. 1999 Aug;65(2):327-35.</reference_text>
+      <pubmed_id>10417275</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Houten SM, Romeijn GJ, Koster J, Gray RG, Darbyshire P, Smit GP, de Klerk JB, Duran M, Gibson KM, Wanders RJ, Waterham HR: Identification and characterization of three novel missense mutations in mevalonate kinase cDNA causing mevalonic aciduria, a disorder of isoprene biosynthesis. Hum Mol Genet. 1999 Aug;8(8):1523-8.</reference_text>
+      <pubmed_id>10401001</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Houten SM, Kuis W, Duran M, de Koning TJ, van Royen-Kerkhof A, Romeijn GJ, Frenkel J, Dorland L, de Barse MM, Huijbers WA, Rijkers GT, Waterham HR, Wanders RJ, Poll-The BT: Mutations in MVK, encoding mevalonate kinase, cause hyperimmunoglobulinaemia D and periodic fever syndrome. Nat Genet. 1999 Jun;22(2):175-7.</reference_text>
+      <pubmed_id>10369261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Drenth JP, Cuisset L, Grateau G, Vasseur C, van de Velde-Visser SD, de Jong JG, Beckmann JS, van der Meer JW, Delpech M: Mutations in the gene encoding mevalonate kinase cause hyper-IgD and periodic fever syndrome. International Hyper-IgD Study Group. Nat Genet. 1999 Jun;22(2):178-81.</reference_text>
+      <pubmed_id>10369262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cuisset L, Drenth JP, Simon A, Vincent MF, van der Velde Visser S, van der Meer JW, Grateau G, Delpech M: Molecular analysis of MVK mutations and enzymatic activity in hyper-IgD and periodic fever syndrome. Eur J Hum Genet. 2001 Apr;9(4):260-6.</reference_text>
+      <pubmed_id>11313769</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>D'Osualdo A, Picco P, Caroli F, Gattorno M, Giacchino R, Fortini P, Corona F, Tommasini A, Salvi G, Specchia F, Obici L, Meini A, Ricci A, Seri M, Ravazzolo R, Martini A, Ceccherini I: MVK mutations and associated clinical features in Italian patients affected with autoinflammatory disorders and recurrent fever. Eur J Hum Genet. 2005 Mar;13(3):314-20.</reference_text>
+      <pubmed_id>15536479</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

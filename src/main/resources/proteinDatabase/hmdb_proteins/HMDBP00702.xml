@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:20 -0700</creation_date>
+  <update_date>2013-05-27 11:09:29 -0600</update_date>
+  <accession>HMDBP00702</accession>
+  <secondary_accessions>
+    <accession>5975</accession>
+    <accession>HMDBP05313</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>65 kDa glutamic acid decarboxylase</synonym>
+    <synonym>GAD-65</synonym>
+    <synonym>Glutamate decarboxylase 65 kDa isoform</synonym>
+  </synonyms>
+  <gene_name>GAD2</gene_name>
+  <general_function>Involved in carboxy-lyase activity</general_function>
+  <specific_function>Catalyzes the production of GABA.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Alanine, aspartate and glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>beta-Alanine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00410</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Taurine and hypotaurine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00430</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Butanoate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00650</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>GABAergic synapse</name>
+      <smpdb_id/>
+      <kegg_map_id>map04727</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Type I diabetes mellitus</name>
+      <smpdb_id/>
+      <kegg_map_id>map04940</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00056</accession>
+      <name>Beta-Alanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00112</accession>
+      <name>Gamma-Aminobutyric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00191</accession>
+      <name>L-Aspartic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00251</accession>
+      <name>Taurine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00965</accession>
+      <name>Hypotaurine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00996</accession>
+      <name>3-Sulfinoalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02757</accession>
+      <name>Cysteic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cofactor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbon-carbon lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carboxy-lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>anchored to membrane</description>
+      <go_id>GO:0031225</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>axon</description>
+      <go_id>GO:0030424</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cell junction</description>
+      <go_id>GO:0030054</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane</description>
+      <go_id>GO:0061202</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>presynaptic membrane</description>
+      <go_id>GO:0042734</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>synaptic vesicle membrane</description>
+      <go_id>GO:0030672</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate decarboxylase activity</description>
+      <go_id>GO:0004351</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id>GO:0030170</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate decarboxylation to succinate</description>
+      <go_id>GO:0006540</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter biosynthetic process</description>
+      <go_id>GO:0042136</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter secretion</description>
+      <go_id>GO:0007269</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol</subcellular_location>
+    <subcellular_location>Cytoplasmic vesicle</subcellular_location>
+    <subcellular_location>Cell junction</subcellular_location>
+    <subcellular_location>synapse</subcellular_location>
+    <subcellular_location>presynaptic cell membrane</subcellular_location>
+    <subcellular_location>Lipid-anchor</subcellular_location>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasmic side</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10p11.23</locus>
+    <gene_sequence>&gt;1758 bp
+ATGGCATCTCCGGGCTCTGGCTTTTGGTCTTTCGGGTCGGAAGATGGCTCTGGGGATTCC
+GAGAATCCCGGCACAGCGCGAGCCTGGTGCCAAGTGGCTCAGAAGTTCACGGGCGGCATC
+GGAAACAAACTGTGCGCCCTGCTCTACGGAGACGCCGAGAAGCCGGCGGAGAGCGGCGGG
+AGCCAACCCCCGCGGGCCGCCGCCCGGAAGGCCGCCTGCGCCTGCGACCAGAAGCCCTGC
+AGCTGCTCCAAAGTGGATGTCAACTACGCGTTTCTCCATGCAACAGACCTGCTGCCGGCG
+TGTGATGGAGAAAGGCCCACTTTGGCGTTTCTGCAAGATGTTATGAACATTTTACTTCAG
+TATGTGGTGAAAAGTTTCGATAGATCAACCAAAGTGATTGATTTCCATTATCCTAATGAG
+CTTCTCCAAGAATATAATTGGGAATTGGCAGACCAACCACAAAATTTGGAGGAAATTTTG
+ATGCATTGCCAAACAACTCTAAAATATGCAATTAAAACAGGGCATCCTAGATACTTCAAT
+CAACTTTCTACTGGTTTGGATATGGTTGGATTAGCAGCAGACTGGCTGACATCAACAGCA
+AATACTAACATGTTCACCTATGAAATTGCTCCAGTATTTGTGCTTTTGGAATATGTCACA
+CTAAAGAAAATGAGAGAAATCATTGGCTGGCCAGGGGGCTCTGGCGATGGGATATTTTCT
+CCCGGTGGCGCCATATCTAACATGTATGCCATGATGATCGCACGCTTTAAGATGTTCCCA
+GAAGTCAAGGAGAAAGGAATGGCTGCTCTTCCCAGGCTCATTGCCTTCACGTCTGAACAT
+AGTCATTTTTCTCTCAAGAAGGGAGCTGCAGCCTTAGGGATTGGAACAGACAGCGTGATT
+CTGATTAAATGTGATGAGAGAGGGAAAATGATTCCATCTGATCTTGAAAGAAGGATTCTT
+GAAGCCAAACAGAAAGGGTTTGTTCCTTTCCTCGTGAGTGCCACAGCTGGAACCACCGTG
+TACGGAGCATTTGACCCCCTCTTAGCTGTCGCTGACATTTGCAAAAAGTATAAGATCTGG
+ATGCATGTGGATGCAGCTTGGGGTGGGGGATTACTGATGTCCCGAAAACACAAGTGGAAA
+CTGAGTGGCGTGGAGAGGGCCAACTCTGTGACGTGGAATCCACACAAGATGATGGGAGTC
+CCTTTGCAGTGCTCTGCTCTCCTGGTTAGAGAAGAGGGATTGATGCAGAATTGCAACCAA
+ATGCATGCCTCCTACCTCTTTCAGCAAGATAAACATTATGACCTGTCCTATGACACTGGA
+GACAAGGCCTTACAGTGCGGACGCCACGTTGATGTTTTTAAACTATGGCTGATGTGGAGG
+GCAAAGGGGACTACCGGGTTTGAAGCGCATGTTGATAAATGTTTGGAGTTGGCAGAGTAT
+TTATACAACATCATAAAAAACCGAGAAGGATATGAGATGGTGTTTGATGGGAAGCCTCAG
+CACACAAATGTCTGCTTCTGGTACATTCCTCCAAGCTTGCGTACTCTGGAAGACAATGAA
+GAGAGAATGAGTCGCCTCTCGAAGGTGGCTCCAGTGATTAAAGCCAGAATGATGGAGTAT
+GGAACCACAATGGTCAGCTACCAACCCTTGGGAGACAAGGTCAATTTCTTCCGCATGGTC
+ATCTCAAACCCAGCGGCAACTCACCAAGACATTGACTTCCTGATTGAAGAAATAGAACGC
+CTTGGACAAGATTTATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>585</residue_number>
+    <molecular_weight>65410.77</molecular_weight>
+    <theoretical_pi>6.899</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pyridoxal_deC</name>
+        <pfam_id>PF00282</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glutamate decarboxylase 2
+MASPGSGFWSFGSEDGSGDSENPGTARAWCQVAQKFTGGIGNKLCALLYGDAEKPAESGG
+SQPPRAAARKAACACDQKPCSCSKVDVNYAFLHATDLLPACDGERPTLAFLQDVMNILLQ
+YVVKSFDRSTKVIDFHYPNELLQEYNWELADQPQNLEEILMHCQTTLKYAIKTGHPRYFN
+QLSTGLDMVGLAADWLTSTANTNMFTYEIAPVFVLLEYVTLKKMREIIGWPGGSGDGIFS
+PGGAISNMYAMMIARFKMFPEVKEKGMAALPRLIAFTSEHSHFSLKKGAAALGIGTDSVI
+LIKCDERGKMIPSDLERRILEAKQKGFVPFLVSATAGTTVYGAFDPLLAVADICKKYKIW
+MHVDAAWGGGLLMSRKHKWKLSGVERANSVTWNPHKMMGVPLQCSALLVREEGLMQNCNQ
+MHASYLFQQDKHYDLSYDTGDKALQCGRHVDVFKLWLMWRAKGTTGFEAHVDKCLELAEY
+LYNIIKNREGYEMVFDGKPQHTNVCFWYIPPSLRTLEDNEERMSRLSKVAPVIKARMMEY
+GTTMVSYQPLGDKVNFFRMVISNPAATHQDIDFLIEEIERLGQDL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q05329</uniprot_id>
+  <uniprot_name>DCE2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1ES0</pdb_id>
+    <pdb_id>2OKK</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M81882</genbank_gene_id>
+  <genecard_id>GAD2</genecard_id>
+  <geneatlas_id>GAD2</geneatlas_id>
+  <hgnc_id>HGNC:4093</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Karlsen AE, Hagopian WA, Grubin CE, Dube S, Disteche CM, Adler DA, Barmeier H, Mathewes S, Grant FJ, Foster D, et al.: Cloning and primary structure of a human islet isoform of glutamic acid decarboxylase from chromosome 10. Proc Natl Acad Sci U S A. 1991 Oct 1;88(19):8337-41.</reference_text>
+      <pubmed_id>1924293</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bu DF, Erlander MG, Hitz BC, Tillakaratne NJ, Kaufman DL, Wagner-McPherson CB, Evans GA, Tobin AJ: Two human glutamate decarboxylases, 65-kDa GAD and 67-kDa GAD, are each encoded by a single gene. Proc Natl Acad Sci U S A. 1992 Mar 15;89(6):2115-9.</reference_text>
+      <pubmed_id>1549570</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bu DF, Tobin AJ: The exon-intron organization of the genes (GAD1 and GAD2) encoding two human glutamate decarboxylases (GAD67 and GAD65) suggests that they derive from a common ancestral GAD. Genomics. 1994 May 1;21(1):222-8.</reference_text>
+      <pubmed_id>8088791</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mauch L, Abney CC, Berg H, Scherbaum WA, Liedvogel B, Northemann W: Characterization of a linear epitope within the human pancreatic 64-kDa glutamic acid decarboxylase and its autoimmune recognition by sera from insulin-dependent diabetes mellitus patients. Eur J Biochem. 1993 Mar 1;212(2):597-603.</reference_text>
+      <pubmed_id>7680313</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim J, Richter W, Aanstoot HJ, Shi Y, Fu Q, Rajotte R, Warnock G, Baekkeskov S: Differential expression of GAD65 and GAD67 in human, rat, and mouse pancreatic islets. Diabetes. 1993 Dec;42(12):1799-808.</reference_text>
+      <pubmed_id>8243826</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Namchuk M, Lindsay L, Turck CW, Kanaani J, Baekkeskov S: Phosphorylation of serine residues 3, 6, 10, and 13 distinguishes membrane anchored from soluble glutamic acid decarboxylase 65 and is restricted to glutamic acid decarboxylase 65alpha. J Biol Chem. 1997 Jan 17;272(3):1548-57.</reference_text>
+      <pubmed_id>8999827</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kanaani J, el-Husseini Ael-D, Aguilera-Moreno A, Diacovo JM, Bredt DS, Baekkeskov S: A combination of three distinct trafficking signals mediates axonal targeting and presynaptic clustering of GAD65. J Cell Biol. 2002 Sep 30;158(7):1229-38.</reference_text>
+      <pubmed_id>12356867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Corper AL, Stratmann T, Apostolopoulos V, Scott CA, Garcia KC, Kang AS, Wilson IA, Teyton L: A structural framework for deciphering the link between I-Ag7 and autoimmune diabetes. Science. 2000 Apr 21;288(5465):505-11.</reference_text>
+      <pubmed_id>10775108</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fenalti G, Law RH, Buckle AM, Langendorf C, Tuck K, Rosado CJ, Faux NG, Mahmood K, Hampe CS, Banga JP, Wilce M, Schmidberger J, Rossjohn J, El-Kabbani O, Pike RN, Smith AI, Mackay IR, Rowley MJ, Whisstock JC: GABA production by glutamic acid decarboxylase is regulated by a dynamic catalytic loop. Nat Struct Mol Biol. 2007 Apr;14(4):280-6. Epub 2007 Mar 25.</reference_text>
+      <pubmed_id>17384644</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wei J, Lin CH, Wu H, Jin Y, Lee YH, Wu JY: Activity-dependent cleavage of brain glutamic acid decarboxylase 65 by calpain.  J Neurochem. 2006 Sep;98(5):1688-95. Epub 2006 Jul 31.</reference_text>
+        <pubmed_id>16879709</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Manto MU, Laute MA, Aguera M, Rogemond V, Pandolfo M, Honnorat J: Effects of anti-glutamic acid decarboxylase antibodies associated with neurological diseases. Ann Neurol. 2007 Jun;61(6):544-51.</reference_text>
+        <pubmed_id>17600364</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pop SM, Wong CP, He Q, Wang Y, Wallet MA, Goudy KS, Tisch R: The type and frequency of immunoregulatory CD4+ T-cells govern the efficacy of antigen-specific immunotherapy in nonobese diabetic mice. Diabetes. 2007 May;56(5):1395-402. Epub 2007 Feb 22.</reference_text>
+        <pubmed_id>17317763</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang FY, Zhu RM, Maemura K, Hirata I, Katsu K, Watanabe M: Expression of gamma-aminobutyric acid and glutamic acid decarboxylases in rat descending colon and their relation to epithelial differentiation. Chin J Dig Dis. 2006;7(2):103-8.</reference_text>
+        <pubmed_id>16643338</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Castelli MP, Piras AP, Melis T, Succu S, Sanna F, Melis MR, Collu S, Ennas MG, Diaz G, Mackie K, Argiolas A: Cannabinoid CB1 receptors in the paraventricular nucleus and central control of penile erection: immunocytochemistry, autoradiography and behavioral studies. Neuroscience. 2007 Jun 15;147(1):197-206. Epub 2007 May 15.</reference_text>
+        <pubmed_id>17507169</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

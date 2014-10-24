@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:24 -0700</creation_date>
+  <update_date>2013-04-11 14:05:02 -0600</update_date>
+  <accession>HMDBP01115</accession>
+  <secondary_accessions>
+    <accession>6408</accession>
+    <accession>HMDBP04987</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>MCT 2</synonym>
+    <synonym>Solute carrier family 16 member 7</synonym>
+  </synonyms>
+  <gene_name>SLC16A7</gene_name>
+  <general_function>Involved in transmembrane transport</general_function>
+  <specific_function>Proton-linked monocarboxylate transporter. Catalyzes the rapid transport across the plasma membrane of many monocarboxylates such as lactate, pyruvate, branched-chain oxo acids derived from leucine, valine and isoleucine, and the ketone bodies acetoacetate, beta-hydroxybutyrate and acetate. MCT2 is a high affinity pyruvate transporter</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00243</accession>
+      <name>Pyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15166</accession>
+      <name>Probenecid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15507</accession>
+      <name>Gamma Hydroxybutyric Acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01311</accession>
+      <name>D-Lactic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00019</accession>
+      <name>Alpha-ketoisovaleric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15573</accession>
+      <name>Niflumic Acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>organic acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carboxylic acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monocarboxylic acid transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>secondary active monocarboxylate transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>12q13</locus>
+    <gene_sequence>&gt;1437 bp
+ATGCCACCAATGCCAAGTGCCCCACCTGTGCATCCACCTCCAGATGGAGGATGGGGTTGG
+ATTGTGGTTGGAGCAGCTTTTATCTCCATTGGATTTTCCTATGCATTCCCCAAAGCTGTC
+ACCGTATTCTTCAAAGAAATTCAGCAAATATTCCACACTACCTACAGTGAAATAGCATGG
+ATTTCATCCATTATGCTGGCTGTTATGTACGCAGGAGGTCCTGTAAGTAGTGTTTTGGTG
+AATAAATACGGCAGCCGGCCGGTGGTGATAGCAGGAGGCTTATTATGCTGTCTTGGAATG
+GTGTTGGCCTCCTTTAGTAGCAGCGTGGTACAGCTGTACCTCACTATGGGATTCATTACA
+GGTTTAGGTTTAGCCTTCAACCTGCAACCCGCCTTAACCATAATTGGCAAATACTTCTAT
+AGGAAGCGACCCATGGCAAATGGATTGGCCATGGCAGGAAGTCCTGTTTTCTTAAGTTCA
+TTGGCTCCTTTCAATCAGTACCTTTTTAATACTTTTGGCTGGAAAGGAAGCTTCCTGATT
+TTGGGAAGTCTACTTTTGAATGCCTGTGTGGCTGGTTCCCTCATGAGACCCCTTGGACCC
+AATCAAACCACTTCTAAGTCTAAAAATAAGACTGGCAAAACAGAAGATGATTCAAGCCCA
+AAGAAAATCAAAACGAAGAAATCAACTTGGGAAAAAGTTAATAAGTATTTAGATTTCTCC
+CTTTTTAAGCATAGAGGATTTCTGATATATCTGTCTGGAAATGTCATTATGTTCCTAGGT
+TTTTTTGCCCCCATTATATTCTTGGCTCCATATGCTAAAGACCAAGGAATTGATGAGTAC
+TCGGCAGCTTTTCTGCTATCTGTTATGGCTTTCGTTGATATGTTTGCTAGGCCTTCTGTA
+GGATTAATTGCAAACTCCAAATATATTCGACCTCGAATTCAGTACTTCTTCAGTTTTGCA
+ATCATGTTCAATGGAGTGTGTCACCTCTTGTGCCCACTGGCACAGGACTACACAAGCCTG
+GTATTATATGCTGTATTTTTTGGCCTTGGATTTGGGAGTGTTAGCAGTGTTCTCTTTGAA
+ACTCTCATGGACCTCGTGGGTGCACCAAGATTTTCCAGTGCCGTCGGACTTGTCACAATT
+GTGGAGTGTGGCCCAGTTCTTCTTGGCCCTCCTCTTGCAGGTAAATTGGTGGATTTAACT
+GGAGAATATAAATACATGTACATGTCCTGTGGGGCTATTGTGGTAGCAGCAAGCGTGTGG
+CTGCTCATTGGCAATGCTATCAACTATAGATTGCTTGCAAAGGAAAGGAAGGAGGAAAAT
+GCAAGGCAGAAGTCCAGAGAATCTGAACCCTTGAGCAAATCTAAACATTCGGAAGATGTT
+AACGTCAAAGTTTCAAATGCACAGAGTGTAACCTCAGAAAGAGAAACTAACATTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>478</residue_number>
+    <molecular_weight>52185.7</molecular_weight>
+    <theoretical_pi>9.68</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MFS_1</name>
+        <pfam_id>PF07690</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>16-36</region>
+      <region>60-80</region>
+      <region>90-110</region>
+      <region>116-136</region>
+      <region>149-169</region>
+      <region>174-194</region>
+      <region>247-267</region>
+      <region>283-303</region>
+      <region>313-333</region>
+      <region>339-359</region>
+      <region>374-394</region>
+      <region>407-427</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Monocarboxylate transporter 2
+MPPMPSAPPVHPPPDGGWGWIVVGAAFISIGFSYAFPKAVTVFFKEIQQIFHTTYSEIAW
+ISSIMLAVMYAGGPVSSVLVNKYGSRPVVIAGGLLCCLGMVLASFSSSVVQLYLTMGFIT
+GLGLAFNLQPALTIIGKYFYRKRPMANGLAMAGSPVFLSSLAPFNQYLFNTFGWKGSFLI
+LGSLLLNACVAGSLMRPLGPNQTTSKSKNKTGKTEDDSSPKKIKTKKSTWEKVNKYLDFS
+LFKHRGFLIYLSGNVIMFLGFFAPIIFLAPYAKDQGIDEYSAAFLLSVMAFVDMFARPSV
+GLIANSKYIRPRIQYFFSFAIMFNGVCHLLCPLAQDYTSLVLYAVFFGLGFGSVSSVLFE
+TLMDLVGAPRFSSAVGLVTIVECGPVLLGPPLAGKLVDLTGEYKYMYMSCGAIVVAASVW
+LLIGNAINYRLLAKERKEENARQKSRESEPLSKSKHSEDVNVKVSNAQSVTSERETNI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O60669</uniprot_id>
+  <uniprot_name>MOT2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF058056</genbank_gene_id>
+  <genecard_id>SLC16A7</genecard_id>
+  <geneatlas_id>SLC16A7</geneatlas_id>
+  <hgnc_id>HGNC:10928</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Lin RY, Vera JC, Chaganti RS, Golde DW: Human monocarboxylate transporter 2 (MCT2) is a high affinity pyruvate transporter. J Biol Chem. 1998 Oct 30;273(44):28959-65.</reference_text>
+      <pubmed_id>9786900</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bonen A, Heynen M, Hatta H: Distribution of monocarboxylate transporters MCT1-MCT8 in rat tissues and human skeletal muscle. Appl Physiol Nutr Metab. 2006 Feb;31(1):31-9.</reference_text>
+        <pubmed_id>16604139</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hinoi E, Takarada T, Tsuchihashi Y, Fujimori S, Moriguchi N, Wang L, Uno K, Yoneda Y: A molecular mechanism of pyruvate protection against cytotoxicity of reactive oxygen species in osteoblasts. Mol Pharmacol. 2006 Sep;70(3):925-35. Epub 2006 Jun 9.</reference_text>
+        <pubmed_id>16766717</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yoshida Y, Holloway GP, Ljubicic V, Hatta H, Spriet LL, Hood DA, Bonen A: Negligible direct lactate oxidation in subsarcolemmal and intermyofibrillar mitochondria obtained from red and white rat skeletal muscle. J Physiol. 2007 Aug 1;582(Pt 3):1317-35. Epub 2007 Jun 7.</reference_text>
+        <pubmed_id>17556391</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>de Laplanche E, Gouget K, Cleris G, Dragounoff F, Demont J, Morales A, Bezin L, Godinot C, Perriere G, Mouchiroud D, Simonnet H: Physiological oxygenation status is required for fully differentiated phenotype in kidney cortex proximal tubules. Am J Physiol Renal Physiol. 2006 Oct;291(4):F750-60. Epub 2006 Apr 4.</reference_text>
+        <pubmed_id>16597615</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pierre K, Pellerin L: Monocarboxylate transporters in the central nervous system: distribution, regulation and function. J Neurochem. 2005 Jul;94(1):1-14.</reference_text>
+        <pubmed_id>15953344</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Broer S, Broer A, Schneider HP, Stegen C, Halestrap AP, Deitmer JW: Characterization of the high-affinity monocarboxylate transporter MCT2 in Xenopus laevis oocytes. Biochem J. 1999 Aug 1;341 ( Pt 3):529-35.</reference_text>
+        <pubmed_id>10417314</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lin RY, Vera JC, Chaganti RS, Golde DW: Human monocarboxylate transporter 2 (MCT2) is a high affinity pyruvate transporter. J Biol Chem. 1998 Oct 30;273(44):28959-65.</reference_text>
+        <pubmed_id>9786900</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probenecid</name>
+        <accession>HMDB15166</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Broer S, Broer A, Schneider HP, Stegen C, Halestrap AP, Deitmer JW: Characterization of the high-affinity monocarboxylate transporter MCT2 in Xenopus laevis oocytes. Biochem J. 1999 Aug 1;341 ( Pt 3):529-35.</reference_text>
+        <pubmed_id>10417314</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gamma Hydroxybutyric Acid</name>
+        <accession>HMDB15507</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lin RY, Vera JC, Chaganti RS, Golde DW: Human monocarboxylate transporter 2 (MCT2) is a high affinity pyruvate transporter. J Biol Chem. 1998 Oct 30;273(44):28959-65.</reference_text>
+        <pubmed_id>9786900</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Lactic acid</name>
+        <accession>HMDB01311</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lin RY, Vera JC, Chaganti RS, Golde DW: Human monocarboxylate transporter 2 (MCT2) is a high affinity pyruvate transporter. J Biol Chem. 1998 Oct 30;273(44):28959-65.</reference_text>
+        <pubmed_id>9786900</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-ketoisovaleric acid</name>
+        <accession>HMDB00019</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Broer S, Broer A, Schneider HP, Stegen C, Halestrap AP, Deitmer JW: Characterization of the high-affinity monocarboxylate transporter MCT2 in Xenopus laevis oocytes. Biochem J. 1999 Aug 1;341 ( Pt 3):529-35.</reference_text>
+        <pubmed_id>10417314</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Niflumic Acid</name>
+        <accession>HMDB15573</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Broer S, Broer A, Schneider HP, Stegen C, Halestrap AP, Deitmer JW: Characterization of the high-affinity monocarboxylate transporter MCT2 in Xenopus laevis oocytes. Biochem J. 1999 Aug 1;341 ( Pt 3):529-35.</reference_text>
+        <pubmed_id>10417314</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

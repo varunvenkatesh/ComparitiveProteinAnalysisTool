@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:10 -0700</creation_date>
+  <update_date>2013-05-27 11:13:52 -0600</update_date>
+  <accession>HMDBP00430</accession>
+  <secondary_accessions>
+    <accession>5667</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>2,3-epoxysqualene--lanosterol cyclase</synonym>
+    <synonym>OSC</synonym>
+    <synonym>Oxidosqualene--lanosterol cyclase</synonym>
+    <synonym>hOSC</synonym>
+  </synonyms>
+  <gene_name>LSS</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Catalyzes the cyclization of (S)-2,3 oxidosqualene to lanosterol, a reaction that forms the sterol nucleus.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>lanosterol biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Steroid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00100</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01188</accession>
+      <name>(S)-2,3-Epoxysqualene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01251</accession>
+      <name>Lanosterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59621</accession>
+      <name>(3S)-2,3-epoxy-2,3-dihydrosqualene</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>isomerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>intramolecular transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lipid particle</description>
+      <go_id>GO:0005811</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>lanosterol synthase activity</description>
+      <go_id>GO:0000250</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>21</chromosome_location>
+    <locus>21q22.3</locus>
+    <gene_sequence>&gt;2199 bp
+ATGACGGAGGGCACGTGTCTGCGGCGCCGAGGGGGCCCCTACAAGACCGAGCCCGCCACC
+GACCTCGGCCGCTGGCGACTCAACTGCGAGAGGGGCCGGCAGACGTGGACCTACCTGCAG
+GACGAGCGCGCCGGCCGCGAGCAGACCGGCCTGGAAGCCTACGCCCTGGGGCTGGACACC
+AAGAATTACTTTAAGGACTTGCCCAAAGCCCACACCGCCTTTGAGGGGGCTCTGAACGGG
+ATGACATTTTACGTGGGGCTGCAGGCTGAGGATGGGCACTGGACGGGTGATTATGGTGGC
+CCACTTTTCCTCCTGCCAGGCCTCCTGATCACTTGCCACGTGGCACGCATCCCTCTGCCA
+GCCGGATACAGAGAAGAGATTGTGCGGTACCTGCGGTCAGTGCAGCTCCCTGACGGTGGC
+TGGGGCCTGCACATTGAGGATAAGTCCACCGTGTTTGGGACTGCGCTCAACTATGTGTCT
+CTCAGAATTCTGGGTGTTGGGCCTGACGATCCTGACCTGGTACGAGCCCGGAACATTCTT
+CACAAGAAAGGTGGTGCTGTGGCCATCCCCTCCTGGGGGAAGTTCTGGCTGGCTGTCCTG
+AATGTTTACAGCTGGGAAGGCCTCAATACCCTGTTCCCAGAGATGTGGCTGTTTCCTGAC
+TGGGCACCGGCACACCCCTCCACACTCTGGTGCCACTGCCGGCAGGTGTACCTGCCCATG
+AGCTACTGCTACGCCGTTCGGCTGAGTGCCGCGGAAGACCCGCTGGTCCAGAGCCTCCGC
+CAGGAGCTCTATGTGGAGGACTTCGCCAGCATTGACTGGCTGGCGCAGAGGAACAACGTG
+GCCCCCGACGAGCTGTACACGCCCCACAGCTGGCTGCTCCGCGTGGTATATGCGCTCCTC
+AACCTGTATGAGCACCACCACAGTGCCCACCTGCGGCAGCGGGCCGTGCAGAAGCTGTAT
+GAACACATTGTGGCCGACGACCGATTCACCAAGAGCATCAGCATCGGCCCGATCTCGAAA
+ACCATCAACATGCTTGTGCGCTGGTATGTGGACGGGCCCGCCTCCACTGCCTTCCAGGAG
+CATGTCTCCAGAATCCCGGACTATCTCTGGATGGGCCTTGACGGCATGAAAATGCAGGGC
+ACCAACGGCTCACAGATCTGGGACACCGCATTCGCCATCCAGGCTCTGCTTGAGGCGGGC
+GGGCACCACAGGCCCGAGTTTTCGTCCTGCCTGCAGAAGGCTCATGAGTTCCTGAGGCTC
+TCACAGGTCCCAGATAACCCTCCCGACTACCAGAAGTACTACCGCCAGATGCGCAAGGGT
+GGCTTCTCCTTCAGTACGCTGGACTGCGGCTGGATCGTTTCTGACTGCACGGCTGAGGCC
+TTGAAGGCTGTGCTGCTCCTGCAGGAGAAGTGTCCCCATGTCACCGAGCACATCCCCAGA
+GAACGGCTCTGCGATGCTGTGGCTGTGCTGCTGAACATGAGAAATCCAGATGGAGGGTTC
+GCCACCTATGAGACCAAGCGTGGGGGGCACTTGCTGGAGCTGCTGAACCCCTCGGAGGTC
+TTCGGGGACATCATGATTGACTACACCTATGTGGAGTGCACCTCAGCCGTGATGCAGGCG
+CTTAAGTATTTCCACAAGCGTTTCCCGGAGCACAGGGCAGCGGAGATCCGGGAGACCCTC
+ACGCAGGGCTTAGAGTTCTGTCGGCGGCAGCAGAGGGCCGATGGCTCCTGGGAAGGCTCC
+TGGGGAGTTTGCTTCACCTACGGCACCTGGTTTGGCCTGGAGGCCTTCGCCTGTATGGGG
+CAGACCTACCGAGATGGGACTGCCTGTGCAGAGGTCTCCCGGGCCTGTGACTTCCTGCTG
+TCCCGGCAGATGGCAGACGGAGGCTGGGGGGAGGACTTTGAGTCCTGCGAGGAGCGGCGT
+TATTTGCAGAGTGCCCAGTCCCAGATCCATAACACATGCTGGGCCATGATGGGGCTGATG
+GCCGTTCGGCATCCTGACATCGAGGCCCAGGAGAGAGGAGTCCGGTGTCTACTTGAGAAA
+CAGCTCCCCAATGGCGACTGGCCGCAGGAAAACATTGCTGGGGTCTTCAACAAGTCCTGT
+GCCATCTCCTACACGAGCTACAGGAACATCTTCCCCATCTGGGCCCTCGGCCGCTTCTCC
+CAGCTGTACCCTGAGAGAGCCCTTGCTGGCCACCCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>732</residue_number>
+    <molecular_weight>83308.065</molecular_weight>
+    <theoretical_pi>6.617</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Prenyltrans</name>
+        <pfam_id>PF00432</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Lanosterol synthase
+MTEGTCLRRRGGPYKTEPATDLGRWRLNCERGRQTWTYLQDERAGREQTGLEAYALGLDT
+KNYFKDLPKAHTAFEGALNGMTFYVGLQAEDGHWTGDYGGPLFLLPGLLITCHVARIPLP
+AGYREEIVRYLRSVQLPDGGWGLHIEDKSTVFGTALNYVSLRILGVGPDDPDLVRARNIL
+HKKGGAVAIPSWGKFWLAVLNVYSWEGLNTLFPEMWLFPDWAPAHPSTLWCHCRQVYLPM
+SYCYAVRLSAAEDPLVQSLRQELYVEDFASIDWLAQRNNVAPDELYTPHSWLLRVVYALL
+NLYEHHHSAHLRQRAVQKLYEHIVADDRFTKSISIGPISKTINMLVRWYVDGPASTAFQE
+HVSRIPDYLWMGLDGMKMQGTNGSQIWDTAFAIQALLEAGGHHRPEFSSCLQKAHEFLRL
+SQVPDNPPDYQKYYRQMRKGGFSFSTLDCGWIVSDCTAEALKAVLLLQEKCPHVTEHIPR
+ERLCDAVAVLLNMRNPDGGFATYETKRGGHLLELLNPSEVFGDIMIDYTYVECTSAVMQA
+LKYFHKRFPEHRAAEIRETLTQGLEFCRRQQRADGSWEGSWGVCFTYGTWFGLEAFACMG
+QTYRDGTACAEVSRACDFLLSRQMADGGWGEDFESCEERRYLQSAQSQIHNTCWAMMGLM
+AVRHPDIEAQERGVRCLLEKQLPNGDWPQENIAGVFNKSCAISYTSYRNIFPIWALGRFS
+QLYPERALAGHP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P48449</uniprot_id>
+  <uniprot_name>ERG7_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1W6J</pdb_id>
+    <pdb_id>1W6K</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>U22526</genbank_gene_id>
+  <genecard_id>LSS</genecard_id>
+  <geneatlas_id>LSS</geneatlas_id>
+  <hgnc_id>HGNC:6708</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Baker CH, Matsuda SP, Liu DR, Corey EJ: Molecular cloning of the human gene encoding lanosterol synthase from a liver cDNA library. Biochem Biophys Res Commun. 1995 Aug 4;213(1):154-60.</reference_text>
+      <pubmed_id>7639730</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sung CK, Shibuya M, Sankawa U, Ebizuka Y: Molecular cloning of cDNA encoding human lanosterol synthase.  Biol Pharm Bull. 1995 Oct;18(10):1459-61.</reference_text>
+      <pubmed_id>8593458</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Roessler E, Mittaz L, Du Y, Scott HS, Chang J, Rossier C, Guipponi M, Matsuda SP, Muenke M, Antonarakis SE: Structure of the human Lanosterol synthase gene and its analysis as a candidate for holoprosencephaly (HPE1). Hum Genet. 1999 Nov;105(5):489-95.</reference_text>
+      <pubmed_id>10598817</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ruf A, Muller F, D'Arcy B, Stihle M, Kusznir E, Handschin C, Morand OH, Thoma R: The monotopic membrane protein human oxidosqualene cyclase is active as monomer. Biochem Biophys Res Commun. 2004 Mar 5;315(2):247-54.</reference_text>
+      <pubmed_id>14766201</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Young M, Chen H, Lalioti MD, Antonarakis SE: The human lanosterol synthase gene maps to chromosome 21q22.3.  Hum Genet. 1996 May;97(5):620-4.</reference_text>
+      <pubmed_id>8655142</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Thoma R, Schulz-Gasch T, D'Arcy B, Benz J, Aebi J, Dehmlow H, Hennig M, Stihle M, Ruf A: Insight into steroid scaffold formation from the structure of human oxidosqualene cyclase. Nature. 2004 Nov 4;432(7013):118-22.</reference_text>
+      <pubmed_id>15525992</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

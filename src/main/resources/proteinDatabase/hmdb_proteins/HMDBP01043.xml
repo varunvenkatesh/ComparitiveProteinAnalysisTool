@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:00 -0700</creation_date>
+  <update_date>2013-05-27 11:07:57 -0600</update_date>
+  <accession>HMDBP01043</accession>
+  <secondary_accessions>
+    <accession>6332</accession>
+    <accession>HMDBP04402</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CYPXVII</synonym>
+    <synonym>Cytochrome P450 17A1</synonym>
+    <synonym>Cytochrome P450-C17</synonym>
+    <synonym>Cytochrome P450c17</synonym>
+    <synonym>Steroid 17-alpha-monooxygenase</synonym>
+  </synonyms>
+  <gene_name>CYP17A1</gene_name>
+  <general_function>Involved in monooxygenase activity</general_function>
+  <specific_function>Conversion of pregnenolone and progesterone to their 17-alpha-hydroxylated products and subsequently to dehydroepiandrosterone (DHEA) and androstenedione. Catalyzes both the 17-alpha-hydroxylation and the 17,20-lyase reaction. Involved in sexual development during fetal life and at puberty.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Steroid hormone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00140</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB06764</accession>
+      <name>17a,20a-Dihydroxycholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06283</accession>
+      <name>20alpha-Hydroxycholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00363</accession>
+      <name>17a-Hydroxypregnenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00253</accession>
+      <name>Pregnenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01830</accession>
+      <name>Progesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04030</accession>
+      <name>21-Deoxycortisol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04031</accession>
+      <name>11b-Hydroxyprogesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00053</accession>
+      <name>Androstenedione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00042</accession>
+      <name>Acetic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00077</accession>
+      <name>Dehydroepiandrosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00374</accession>
+      <name>17-Hydroxyprogesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15363</accession>
+      <name>Metoclopramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15364</accession>
+      <name>Dexamethasone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13839</accession>
+      <name>N-Desmethylaminopyrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>axon</description>
+      <go_id>GO:0030424</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>neuronal cell body</description>
+      <go_id>GO:0043025</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxygen binding</description>
+      <go_id>GO:0019825</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>steroid 17-alpha-monooxygenase activity</description>
+      <go_id>GO:0004508</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>adrenal gland development</description>
+      <go_id>GO:0030325</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>androgen biosynthetic process</description>
+      <go_id>GO:0006702</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>biphenyl metabolic process</description>
+      <go_id>GO:0018879</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to antibiotic</description>
+      <go_id>GO:0071236</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to gonadotropin stimulus</description>
+      <go_id>GO:0071371</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to lipopolysaccharide</description>
+      <go_id>GO:0071222</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dibenzo-p-dioxin metabolic process</description>
+      <go_id>GO:0018894</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucocorticoid biosynthetic process</description>
+      <go_id>GO:0006704</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hippocampus development</description>
+      <go_id>GO:0021766</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Leydig cell differentiation</description>
+      <go_id>GO:0033327</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ovulation</description>
+      <go_id>GO:0030728</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phenol-containing compound metabolic process</description>
+      <go_id>GO:0018958</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phthalate metabolic process</description>
+      <go_id>GO:0018963</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of steroid hormone biosynthetic process</description>
+      <go_id>GO:0090031</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to acetate</description>
+      <go_id>GO:0010034</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cAMP</description>
+      <go_id>GO:0051591</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cytokine stimulus</description>
+      <go_id>GO:0034097</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to fungicide</description>
+      <go_id>GO:0060992</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to herbicide</description>
+      <go_id>GO:0009635</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to insecticide</description>
+      <go_id>GO:0017085</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ionizing radiation</description>
+      <go_id>GO:0010212</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to methylmercury</description>
+      <go_id>GO:0051597</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient levels</description>
+      <go_id>GO:0031667</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to retinoic acid</description>
+      <go_id>GO:0032526</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to steroid hormone stimulus</description>
+      <go_id>GO:0048545</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sex differentiation</description>
+      <go_id>GO:0007548</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q24.3</locus>
+    <gene_sequence>&gt;1527 bp
+ATGTGGGAGCTCGTGGCTCTCTTGCTGCTTACCCTAGCTTATTTGTTTTGGCCCAAGAGA
+AGGTGCCCTGGTGCCAAGTACCCCAAGAGCCTCCTGTCCCTGCCCCTGGTGGGCAGCCTG
+CCATTCCTCCCCAGACATGGCCATATGCATAACAACTTCTTCAAGCTGCAGAAAAAATAT
+GGCCCCATCTATTCTGTTCGTATGGGCACCAAGACTACAGTGATTGTCGGCCACCACCAG
+CTGGCCAAGGAGGTGCTTATTAAGAAGGGCAAGGACTTCTCTGGGCGGCCTCAAATGGCA
+ACTCTAGACATCGCGTCCAACAACCGTAAGGGTATCGCCTTCGCTGACTCTGGCGCACAC
+TGGCAGCTGCATCGAAGGCTGGCGATGGCCACCTTTGCCCTGTTCAAGGATGGCGATCAG
+AAGCTGGAGAAGATCATTTGTCAGGAAATCAGTACATTGTGTGATATGCTGGCCACCCAC
+AACGGACAGTCCATAGACATCTCCTTTCCTGTCTTCGTGGCGGTAACCAATGTCATCTCC
+TTGATCTGCTTCAATACCTCCTACAAGAATGGGGACCCTGAGTTGAATGTCATACAGAAT
+TACAATGAAGGCATCATAGACAACCTGAGCAAAGACAGCCTGGTGGACCTAGTCCCCTGG
+TTGAAGATTTTCCCCAACAAAACCCTGGAAAAATTAAAGAGCCATGTTAAAATACGAAAT
+GATCTGCTGAATAAAATACTTGAAAATTACAAGGAGAAATTCCGGAGTGACTCTATCACC
+AACATGCTGGACACACTGATGCAAGCCAAGATGAACTCAGATAATGGCAATGCTGGCCCA
+GATCAAGATTCAGAGCTGCTTTCAGATAACCACATTCTCACCACCATAGGGGACATCTTT
+GGGGCTGGCGTGGAGACCACCACCTCTGTGGTTAAATGGACCCTGGCCTTCCTGCTGCAC
+AATCCTCAGGTGAAGAAGAAGCTCTACGAGGAGATTGACCAGAATGTGGGTTTCAGCCGC
+ACACCAACTATCAGTGACCGTAACCGTCTCCTCCTGCTGGAGGCCACCATCCGAGAGGTG
+CTTCGCCTCAGGCCCGTGGCCCCTATGCTCATCCCCCACAAGGCCAACGTTGACTCCAGC
+ATCGGTGAGTTTGCTGTGGACAAGGGCACAGAAGTTATCATCAATCTGTGGGCGCTGCAT
+CACAATGAGAAGGAGTGGCACCAGCCGGATCAGTTCATGCCTGAGCGTTTCTTGAATCCA
+GCGGGGACCCAGCTCATCTCACCGTCAGTAAGCTATTTGCCCTTCGGAGCAGGACCTCGC
+TCCTGTATAGGTGAGATCCTGGCCCGCCAGGAGCTCTTCCTCATCATGGCCTGGCTGCTG
+CAGAGGTTCGACCTGGAGGTGCCAGATGATGGGCAGCTGCCCTCCCTGGAAGGCATCCCC
+AAGGTGGTCTTTCTGATCGACTCTTTCAAAGTGAAGATCAAGGTGCGCCAGGCCTGGAGG
+GAAGCCCAGGCTGAGGGTAGCACCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>508</residue_number>
+    <molecular_weight>57369.995</molecular_weight>
+    <theoretical_pi>8.568</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>p450</name>
+        <pfam_id>PF00067</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Steroid 17-alpha-hydroxylase/17,20 lyase
+MWELVALLLLTLAYLFWPKRRCPGAKYPKSLLSLPLVGSLPFLPRHGHMHNNFFKLQKKY
+GPIYSVRMGTKTTVIVGHHQLAKEVLIKKGKDFSGRPQMATLDIASNNRKGIAFADSGAH
+WQLHRRLAMATFALFKDGDQKLEKIICQEISTLCDMLATHNGQSIDISFPVFVAVTNVIS
+LICFNTSYKNGDPELNVIQNYNEGIIDNLSKDSLVDLVPWLKIFPNKTLEKLKSHVKIRN
+DLLNKILENYKEKFRSDSITNMLDTLMQAKMNSDNGNAGPDQDSELLSDNHILTTIGDIF
+GAGVETTTSVVKWTLAFLLHNPQVKKKLYEEIDQNVGFSRTPTISDRNRLLLLEATIREV
+LRLRPVAPMLIPHKANVDSSIGEFAVDKGTEVIINLWALHHNEKEWHQPDQFMPERFLNP
+AGTQLISPSVSYLPFGAGPRSCIGEILARQELFLIMAWLLQRFDLEVPDDGQLPSLEGIP
+KVVFLIDSFKVKIKVRQAWREAQAEGST</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P05093</uniprot_id>
+  <uniprot_name>CP17A_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2C17</pdb_id>
+    <pdb_id>3RUK</pdb_id>
+    <pdb_id>3SWZ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M14564</genbank_gene_id>
+  <genecard_id>CYP17A1</genecard_id>
+  <geneatlas_id>CYP17A1</geneatlas_id>
+  <hgnc_id>HGNC:2593</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Chung BC, Picado-Leonard J, Haniu M, Bienkowski M, Hall PF, Shively JE, Miller WL: Cytochrome P450c17 (steroid 17 alpha-hydroxylase/17,20 lyase): cloning of human adrenal and testis cDNAs indicates the same gene is expressed in both tissues. Proc Natl Acad Sci U S A. 1987 Jan;84(2):407-11.</reference_text>
+      <pubmed_id>3025870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Picado-Leonard J, Miller WL: Cloning and sequence of the human gene for P450c17 (steroid 17 alpha-hydroxylase/17,20 lyase): similarity with the gene for P450c21. DNA. 1987 Oct;6(5):439-48.</reference_text>
+      <pubmed_id>3500022</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bradshaw KD, Waterman MR, Couch RT, Simpson ER, Zuber MX: Characterization of complementary deoxyribonucleic acid for human adrenocortical 17 alpha-hydroxylase: a probe for analysis of 17 alpha-hydroxylase deficiency. Mol Endocrinol. 1987 May;1(5):348-54.</reference_text>
+      <pubmed_id>3274893</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brentano ST, Picado-Leonard J, Mellon SH, Moore CC, Miller WL: Tissue-specific, cyclic adenosine 3',5'-monophosphate-induced, and phorbol ester-repressed transcription from the human P450c17 promoter in mouse cells. Mol Endocrinol. 1990 Dec;4(12):1972-9.</reference_text>
+      <pubmed_id>1964490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kagimoto M, Winter JS, Kagimoto K, Simpson ER, Waterman MR: Structural characterization of normal and mutant human steroid 17 alpha-hydroxylase genes: molecular basis of one example of combined 17 alpha-hydroxylase/17,20 lyase deficiency. Mol Endocrinol. 1988 Jun;2(6):564-70.</reference_text>
+      <pubmed_id>2843762</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Auchus RJ, Miller WL: Molecular modeling of human P450c17 (17alpha-hydroxylase/17,20-lyase): insights into reaction mechanisms and effects of mutations. Mol Endocrinol. 1999 Jul;13(7):1169-82.</reference_text>
+      <pubmed_id>10406467</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yanase T, Kagimoto M, Suzuki S, Hashiba K, Simpson ER, Waterman MR: Deletion of a phenylalanine in the N-terminal region of human cytochrome P-450(17 alpha) results in partial combined 17 alpha-hydroxylase/17,20-lyase deficiency. J Biol Chem. 1989 Oct 25;264(30):18076-82.</reference_text>
+      <pubmed_id>2808364</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin D, Harikrishna JA, Moore CC, Jones KL, Miller WL: Missense mutation serine106----proline causes 17 alpha-hydroxylase deficiency. J Biol Chem. 1991 Aug 25;266(24):15992-8.</reference_text>
+      <pubmed_id>1714904</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yanase T, Waterman MR, Zachmann M, Winter JS, Simpson ER, Kagimoto M: Molecular basis of apparent isolated 17,20-lyase deficiency: compound heterozygous mutations in the C-terminal region (Arg(496)----Cys, Gln(461)----Stop) actually cause combined 17 alpha-hydroxylase/17,20-lyase deficiency. Biochim Biophys Acta. 1992 Aug 25;1139(4):275-9.</reference_text>
+      <pubmed_id>1515452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ahlgren R, Yanase T, Simpson ER, Winter JS, Waterman MR: Compound heterozygous mutations (Arg 239----stop, Pro 342----Thr) in the CYP17 (P45017 alpha) gene lead to ambiguous external genitalia in a male patient with partial combined 17 alpha-hydroxylase/17,20-lyase deficiency. J Clin Endocrinol Metab. 1992 Mar;74(3):667-72.</reference_text>
+      <pubmed_id>1740503</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imai T, Globerman H, Gertner JM, Kagawa N, Waterman MR: Expression and purification of functional human 17 alpha-hydroxylase/17,20-lyase (P450c17) in Escherichia coli. Use of this system for study of a novel form of combined 17 alpha-hydroxylase/17,20-lyase deficiency. J Biol Chem. 1993 Sep 15;268(26):19681-9.</reference_text>
+      <pubmed_id>8396144</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Monno S, Ogawa H, Date T, Fujioka M, Miller WL, Kobayashi M: Mutation of histidine 373 to leucine in cytochrome P450c17 causes 17 alpha-hydroxylase deficiency. J Biol Chem. 1993 Dec 5;268(34):25811-7.</reference_text>
+      <pubmed_id>8245018</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fardella CE, Zhang LH, Mahachoklertwattana P, Lin D, Miller WL: Deletion of amino acids Asp487-Ser488-Phe489 in human cytochrome P450c17 causes severe 17 alpha-hydroxylase deficiency. J Clin Endocrinol Metab. 1993 Aug;77(2):489-93.</reference_text>
+      <pubmed_id>8345056</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fardella CE, Hum DW, Homoki J, Miller WL: Point mutation of Arg440 to His in cytochrome P450c17 causes severe 17 alpha-hydroxylase deficiency. J Clin Endocrinol Metab. 1994 Jul;79(1):160-4.</reference_text>
+      <pubmed_id>8027220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Laflamme N, Leblanc JF, Mailloux J, Faure N, Labrie F, Simard J: Mutation R96W in cytochrome P450c17 gene causes combined 17 alpha-hydroxylase/17-20-lyase deficiency in two French Canadian patients. J Clin Endocrinol Metab. 1996 Jan;81(1):264-8.</reference_text>
+      <pubmed_id>8550762</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Biason-Lauber A, Kempken B, Werder E, Forest MG, Einaudi S, Ranke MB, Matsuo N, Brunelli V, Schonle EJ, Zachmann M: 17alpha-hydroxylase/17,20-lyase deficiency as a model to study enzymatic activity regulation: role of phosphorylation. J Clin Endocrinol Metab. 2000 Mar;85(3):1226-31.</reference_text>
+      <pubmed_id>10720067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gupta MK, Geller DH, Auchus RJ: Pitfalls in characterizing P450c17 mutations associated with isolated 17,20-lyase deficiency. J Clin Endocrinol Metab. 2001 Sep;86(9):4416-23.</reference_text>
+      <pubmed_id>11549685</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Cerbo A, Biason-Lauber A, Savino M, Piemontese MR, Di Giorgio A, Perona M, Savoia A: Combined 17alpha-Hydroxylase/17,20-lyase deficiency caused by Phe93Cys mutation in the CYP17 gene. J Clin Endocrinol Metab. 2002 Feb;87(2):898-905.</reference_text>
+      <pubmed_id>11836339</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Van Den Akker EL, Koper JW, Boehmer AL, Themmen AP, Verhoef-Post M, Timmerman MA, Otten BJ, Drop SL, De Jong FH: Differential inhibition of 17alpha-hydroxylase and 17,20-lyase activities by three novel missense CYP17 mutations identified in patients with P450c17 deficiency. J Clin Endocrinol Metab. 2002 Dec;87(12):5714-21.</reference_text>
+      <pubmed_id>12466376</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martin RM, Lin CJ, Costa EM, de Oliveira ML, Carrilho A, Villar H, Longui CA, Mendonca BB: P450c17 deficiency in Brazilian patients: biochemical diagnosis through progesterone levels confirmed by CYP17 genotyping. J Clin Endocrinol Metab. 2003 Dec;88(12):5739-46.</reference_text>
+      <pubmed_id>14671162</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Progesterone</name>
+        <accession>HMDB01830</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Haidar S, Hartmann RW: C16 and C17 substituted derivatives of pregnenolone and progesterone as inhibitors of 17alpha-hydroxylase-C17, 20-lyase: synthesis and biological evaluation. Arch Pharm (Weinheim). 2002;335(11-12):526-34.</reference_text>
+        <pubmed_id>12596217</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Progesterone</name>
+        <accession>HMDB01830</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Androstenedione</name>
+        <accession>HMDB00053</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sherbet DP, Tiosano D, Kwist KM, Hochberg Z, Auchus RJ: CYP17 mutation E305G causes isolated 17,20-lyase deficiency by selectively altering substrate binding. J Biol Chem. 2003 Dec 5;278(49):48563-9. Epub 2003 Sep 22.</reference_text>
+        <pubmed_id>14504283</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Metoclopramide</name>
+        <accession>HMDB15363</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dexamethasone</name>
+        <accession>HMDB15364</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Desmethylaminopyrine</name>
+        <accession>HMDB13839</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

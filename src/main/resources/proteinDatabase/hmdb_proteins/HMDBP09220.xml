@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:42 -0700</creation_date>
+  <update_date>2013-01-15 20:20:42 -0700</update_date>
+  <accession>HMDBP09220</accession>
+  <secondary_accessions>
+    <accession>15003</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Angiotensin-binding protein</synonym>
+    <synonym>MEP</synonym>
+    <synonym>Microsomal endopeptidase</synonym>
+    <synonym>Mitochondrial oligopeptidase M</synonym>
+    <synonym>Neurotensin endopeptidase</synonym>
+  </synonyms>
+  <gene_name>NLN</gene_name>
+  <general_function>Involved in metalloendopeptidase activity</general_function>
+  <specific_function>Hydrolyzes oligopeptides such as neurotensin, bradykinin and dynorphin A</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB04246</accession>
+      <name>Bradykinin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01303</accession>
+      <name>Zinc (II) ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity, acting on l-amino acid peptides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>endopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metalloendopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proteolysis</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion intermembrane space</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:5</chromosome_location>
+    <locus>5q12.3</locus>
+    <gene_sequence>&gt;2115 bp
+ATGATCGCCCGGTGCCTTTTGGCTGTGCGAAGCCTCCGCAGAGTTGGTGGTTCCAGGATT
+TTACTCAGAATGACGTTAGGAAGAGAAGTGATGTCTCCTCTTCAGGCAATGTCTTCCTAT
+ACTGTGGCTGGCAGAAATGTTTTAAGATGGGATCTTTCACCAGAGCAAATTAAAACAAGA
+ACTGAGGAGCTCATTGTGCAGACCAAACAGGTGTACGATGCTGTTGGAATGCTCGGTATT
+GAGGAAGTAACTTACGAGAACTGTCTGCAGGCACTGGCAGATGTAGAAGTAAAGTATATA
+GTGGAAAGGACCATGCTAGACTTTCCCCAGCATGTATCCTCTGACAAAGAAGTACGAGCA
+GCAAGTACAGAAGCAGACAAAAGACTTTCTCGTTTTGATATTGAGATGAGCATGAGAGGA
+GATATATTTGAGAGAATTGTTCATTTACAGGAAACCTGTGATCTGGGGAAGATAAAACCT
+GAGGCCAGACGATACTTGGAAAAGTCAATTAAAATGGGGAAAAGAAATGGGCTCCATCTT
+CCTGAACAAGTACAGAATGAAATCAAATCAATGAAGAAAAGAATGAGTGAGCTATGTATT
+GATTTTAACAAAAACCTCAATGAGGATGATACCTTCCTTGTATTTTCCAAGGCTGAACTT
+GGTGCTCTTCCTGATGATTTCATTGACAGTTTAGAAAAGACAGATGATGACAAGTATAAA
+ATTACCTTAAAATATCCACACTATTTCCCTGTCATGAAGAAATGTTGTATCCCTGAAACC
+AGAAGAAGGATGGAAATGGCTTTTAATACAAGGTGCAAAGAGGAAAACACCATAATTTTG
+CAGCAGCTACTCCCACTGCGAACCAAGGTGGCCAAACTACTCGGTTATAGCACACATGCT
+GACTTCGTCCTTGAAATGAACACTGCAAAGAGCACAAGCCGCGTAACAGCCTTTCTAGAT
+GATTTAAGCCAGAAGTTAAAACCCTTGGGTGAAGCAGAACGAGAGTTTATTTTGAATTTG
+AAGAAAAAGGAATGCAAAGACAGGGGTTTTGAATATGATGGGAAAATCAATGCCTGGGAT
+CTATATTACTACATGACTCAGACAGAGGAACTCAAGTATTCCATAGACCAAGAGTTCCTC
+AAGGAATACTTCCCAATTGAGGTGGTCACTGAAGGCTTGCTGAACACCTACCAGGAGTTG
+TTGGGACTTTCATTTGAACAAATGACAGATGCTCATGTTTGGAACAAGAGTGTTACACTT
+TATACTGTGAAGGATAAAGCTACAGGAGAAGTATTGGGACAGTTCTATTTGGACCTCTAT
+CCAAGGGAAGGAAAATACAATCATGCGGCCTGCTTCGGTCTCCAGCCTGGCTGCCTTCTG
+CCTGATGGAAGCCGGATGATGGCAGTGGCTGCCCTCGTGGTGAACTTCTCACAGCCAGTG
+GCAGGTCGTCCCTCTCTCCTGAGACACGACGAGGTGAGGACTTACTTTCATGAGTTTGGT
+CACGTGATGCATCAGATTTGTGCACAGACTGATTTTGCACGATTTAGCGGAACAAATGTG
+GAAACTGACTTTGTAGAGGTGCCATCGCAAATGCTTGAAAATTGGGTGTGGGACGTCGAT
+TCCCTCCGAAGATTGTCAAAACATTATAAAGATGGAAGCCCTATTGCAGACGATCTGCTT
+GAAAAACTTGTTGCTTCTAGGCTGGTCAACACAGGTCTTCTGACCCTGCGCCAGATTGTT
+TTGAGCAAAGTTGATCAGTCTCTTCATACCAACACATCGCTGGATGCTGCAAGTGAATAT
+GCCAAATACTGCTCAGAAATATTAGGAGTTGCAGCTACTCCAGGCACAAATATGCCAGCT
+ACCTTTGGACATTTGGCAGGGGGATACGATGGCCAATATTATGGATATCTTTGGAGTGAA
+GTATTTTCCATGGATATGTTTTACAGCTGTTTTAAAAAAGAAGGGATAATGAATCCAGAG
+GTTGGAATGAAATACAGAAACCTAATCCTGAAACCTGGGGGATCTCTGGACGGCATGGAC
+ATGCTCCACAATTTCTTGAAACGTGAGCCAAACCAAAAAGCGTTCCTAATGAGTAGAGGC
+CTGCATGCTCCGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>704</residue_number>
+    <molecular_weight>80651.1</molecular_weight>
+    <theoretical_pi>6.62</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Peptidase_M3</name>
+        <pfam_id>PF01432</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Neurolysin, mitochondrial
+MIARCLLAVRSLRRVGGSRILLRMTLGREVMSPLQAMSSYTVAGRNVLRWDLSPEQIKTR
+TEELIVQTKQVYDAVGMLGIEEVTYENCLQALADVEVKYIVERTMLDFPQHVSSDKEVRA
+ASTEADKRLSRFDIEMSMRGDIFERIVHLQETCDLGKIKPEARRYLEKSIKMGKRNGLHL
+PEQVQNEIKSMKKRMSELCIDFNKNLNEDDTFLVFSKAELGALPDDFIDSLEKTDDDKYK
+ITLKYPHYFPVMKKCCIPETRRRMEMAFNTRCKEENTIILQQLLPLRTKVAKLLGYSTHA
+DFVLEMNTAKSTSRVTAFLDDLSQKLKPLGEAEREFILNLKKKECKDRGFEYDGKINAWD
+LYYYMTQTEELKYSIDQEFLKEYFPIEVVTEGLLNTYQELLGLSFEQMTDAHVWNKSVTL
+YTVKDKATGEVLGQFYLDLYPREGKYNHAACFGLQPGCLLPDGSRMMAVAALVVNFSQPV
+AGRPSLLRHDEVRTYFHEFGHVMHQICAQTDFARFSGTNVETDFVEVPSQMLENWVWDVD
+SLRRLSKHYKDGSPIADDLLEKLVASRLVNTGLLTLRQIVLSKVDQSLHTNTSLDAASEY
+AKYCSEILGVAATPGTNMPATFGHLAGGYDGQYYGYLWSEVFSMDMFYSCFKKEGIMNPE
+VGMKYRNLILKPGGSLDGMDMLHNFLKREPNQKAFLMSRGLHAP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>20521802</genbank_protein_id>
+  <uniprot_id>Q9BYT8</uniprot_id>
+  <uniprot_name>NEUL_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1I1I</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB033052</genbank_gene_id>
+  <genecard_id>NLN</genecard_id>
+  <geneatlas_id>NLN</geneatlas_id>
+  <hgnc_id>HGNC:16058</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Kikuno R, Hirosawa M, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. XV. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1999 Oct 29;6(5):337-45.</reference_text>
+      <pubmed_id>10574462</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakajima D, Okazaki N, Yamakawa H, Kikuno R, Ohara O, Nagase T: Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones. DNA Res. 2002 Jun 30;9(3):99-106.</reference_text>
+      <pubmed_id>12168954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

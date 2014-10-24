@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:02 -0700</creation_date>
+  <update_date>2013-05-27 11:08:41 -0600</update_date>
+  <accession>HMDBP00401</accession>
+  <secondary_accessions>
+    <accession>5638</accession>
+    <accession>HMDBP05608</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>20-HETE synthase</synonym>
+    <synonym>20-hydroxyeicosatetraenoic acid synthase</synonym>
+    <synonym>CYP4AII</synonym>
+    <synonym>CYPIVA11</synonym>
+    <synonym>Cytochrome P-450HK-omega</synonym>
+    <synonym>Cytochrome P450HL-omega</synonym>
+    <synonym>Fatty acid omega-hydroxylase</synonym>
+    <synonym>Lauric acid omega-hydroxylase</synonym>
+  </synonyms>
+  <gene_name>CYP4A11</gene_name>
+  <general_function>Involved in monooxygenase activity</general_function>
+  <specific_function>Catalyzes the omega- and (omega-1)-hydroxylation of various fatty acids such as laurate, myristate and palmitate. Has little activity toward prostaglandins A1 and E1. Oxidizes arachidonic acid to 20-hydroxyeicosatetraenoic acid (20-HETE).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>fatty acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00071</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Arachidonic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00590</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Retinol metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00830</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>PPAR signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03320</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Vascular smooth muscle contraction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04270</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB05998</accession>
+      <name>20-Hydroxyeicosatetraenoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01043</accession>
+      <name>Arachidonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01183</accession>
+      <name>Octanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01485</accession>
+      <name>Octane</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14008</accession>
+      <name>Hydroxylansoprazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14656</accession>
+      <name>Cisplatin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14774</accession>
+      <name>Clofibrate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14876</accession>
+      <name>Pentamidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00108</accession>
+      <name>Ethanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15179</accession>
+      <name>Rifampin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15364</accession>
+      <name>Dexamethasone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00115</accession>
+      <name>Glycolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10409</accession>
+      <name>11,12-EpETrE</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01852</accession>
+      <name>All-trans-retinoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12452</accession>
+      <name>all-trans-18-Hydroxyretinoic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>apical plasma membrane</description>
+      <go_id>GO:0016324</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alkane 1-monooxygenase activity</description>
+      <go_id>GO:0018685</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arachidonic acid epoxygenase activity</description>
+      <go_id>GO:0008392</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arachidonic acid omega-hydroxylase activity</description>
+      <go_id>GO:0052869</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>leukotriene-B4 20-monooxygenase activity</description>
+      <go_id>GO:0050051</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>epoxygenase P450 pathway</description>
+      <go_id>GO:0019373</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of icosanoid secretion</description>
+      <go_id>GO:0032305</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pressure natriuresis</description>
+      <go_id>GO:0003095</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>renal water homeostasis</description>
+      <go_id>GO:0003091</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sodium ion homeostasis</description>
+      <go_id>GO:0055078</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Microsome membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p33</locus>
+    <gene_sequence>&gt;1560 bp
+ATGAGTGTCTCTGTGCTGAGCCCCAGCAGACTCCTGGGTGATGTCTCTGGAATCCTCCAA
+GCGGCCTCCCTGCTCATTCTGCTTCTGCTGCTGATCAAGGCAGTTCAGCTCTACCTGCAC
+AGGCAGTGGCTGCTCAAAGCCCTCCAGCAGTTCCCGTGCCCTCCCTCCCACTGGCTCTTC
+GGGCACATCCAGGAGCTCCAACAGGACCAGGAGCTACAACGGATTCAGAAATGGGTGGAG
+ACATTCCCAAGTGCCTGTCCTCATTGGCTATGGGGAGGCAAAGTTCGTGTCCAGCTCTAT
+GACCCTGACTATATGAAGGTGATTCTGGGGAGATCAGACCCGAAATCCCATGGTTCCTAC
+AGATTCCTGGCTCCATGGATTGGGTACGGCTTGCTCCTGTTGAATGGGCAGACATGGTTC
+CAGCATCGACGGATGCTGACCCCAGCCTTCCACTATGACATCCTGAAGCCCTATGTGGGG
+CTCATGGCAGACTCTGTACGAGTGATGCTGGACAAATGGGAAGAGCTCCTTGGCCAGGAT
+TCCCCTCTGGAGGTCTTTCAGCACGTCTCCTTGATGACCCTGGACACCATCATGAAGTGT
+GCCTTCAGCCATCAGGGCAGCATCCAGGTGGACAGGAATTCTCAGTCCTACATACAGGCC
+ATTAGTGACCTGAACAACCTGGTTTTTTCCCGTGTGAGGAATGCCTTTCACCAGAATGAC
+ACCATCTACAGCCTGACCTCTGCTGGCCGCTGGACACACCGCGCCTGCCAGCTGGCCCAT
+CAGCACACAGACCAAGTGATCCAACTGAGGAAGGCTCAACTACAGAAGGAGGGGGAGCTG
+GAGAAGATCAAGAGGAAGAGGCATTTGGATTTTCTGGATATCCTCCTCTTGGCCAAAATG
+GAGAATGGGAGCATCTTGTCAGACAAGGACCTCCGTGCTGAGGTGGACACGTTCATGTTT
+GAGGGCCACGACACCACAGCCAGTGGGATCTCCTGGATCCTCTATGCTCTGGCCACACAC
+CCCAAGCATCAGGAGAGGTGCCGGGAGGAGATCCACAGCCTCCTGGGTGATGGAGCCTCC
+ATCACCTGGAACCACCTGGACCAGATGCCCTACACCACCATGTGCATTAAGGAGGCACTG
+AGGCTCTACCCACCGGTGCCAGGCATTGGCAGAGAGCTCAGCACTCCCGTCACCTTCCCT
+GATGGGCGCTCCTTGCCCAAAGGTATCATGGTCCTCCTCTCCATTTATGGCCTTCACCAC
+AACCCAAAAGTGTGGCCCAACCCAGAGGTGTTTGACCCTTTCCGTTTTGCACCGGGTTCT
+GCTCAACACAGCCACGCTTTCCTGCCCTTCTCAGGAGGATCAAGGAACTGCATTGGGAAA
+CAATTTGCCATGAACGAGCTGAAGGTGGCCACGGCCCTGACCCTGCTCCGCTTTGAGCTG
+CTGCCTGATCCCACCAGGATCCCCATCCCCATTGCACGACTTGTGTTGAAATCCAAAAAT
+GGAATCCACCTGCGTCTCAGGAGGCTCCCTAACCCTTGTGAAGACAAGGACCAGCTTTGA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>519</residue_number>
+    <molecular_weight>59347.31</molecular_weight>
+    <theoretical_pi>8.764</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>p450</name>
+        <pfam_id>PF00067</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Cytochrome P450 4A11
+MSVSVLSPSRLLGDVSGILQAASLLILLLLLIKAVQLYLHRQWLLKALQQFPCPPSHWLF
+GHIQELQQDQELQRIQKWVETFPSACPHWLWGGKVRVQLYDPDYMKVILGRSDPKSHGSY
+RFLAPWIGYGLLLLNGQTWFQHRRMLTPAFHYDILKPYVGLMADSVRVMLDKWEELLGQD
+SPLEVFQHVSLMTLDTIMKCAFSHQGSIQVDRNSQSYIQAISDLNNLVFSRVRNAFHQND
+TIYSLTSAGRWTHRACQLAHQHTDQVIQLRKAQLQKEGELEKIKRKRHLDFLDILLLAKM
+ENGSILSDKDLRAEVDTFMFEGHDTTASGISWILYALATHPKHQERCREEIHSLLGDGAS
+ITWNHLDQMPYTTMCIKEALRLYPPVPGIGRELSTPVTFPDGRSLPKGIMVLLSIYGLHH
+NPKVWPNPEVFDPFRFAPGSAQHSHAFLPFSGGSRNCIGKQFAMNELKVATALTLLRFEL
+LPDPTRIPIPIARLVLKSKNGIHLRLRRLPNPCEDKDQL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q02928</uniprot_id>
+  <uniprot_name>CP4AB_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>L04751</genbank_gene_id>
+  <genecard_id>CYP4A11</genecard_id>
+  <geneatlas_id>CYP4A11</geneatlas_id>
+  <hgnc_id>HGNC:2642</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Palmer CN, Richardson TH, Griffin KJ, Hsu MH, Muerhoff AS, Clark JE, Johnson EF: Characterization of a cDNA encoding a human kidney, cytochrome P-450 4A fatty acid omega-hydroxylase and the cognate enzyme expressed in Escherichia coli. Biochim Biophys Acta. 1993 Feb 20;1172(1-2):161-6.</reference_text>
+      <pubmed_id>7679927</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kawashima H, Kusunose E, Kikuta Y, Kinoshita H, Tanaka S, Yamamoto S, Kishimoto T, Kusunose M: Purification and cDNA cloning of human liver CYP4A fatty acid omega-hydroxylase. J Biochem (Tokyo). 1994 Jul;116(1):74-80.</reference_text>
+      <pubmed_id>7798189</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imaoka S, Ogawa H, Kimura S, Gonzalez FJ: Complete cDNA sequence and cDNA-directed expression of CYP4A11, a fatty acid omega-hydroxylase expressed in human kidney. DNA Cell Biol. 1993 Dec;12(10):893-9.</reference_text>
+      <pubmed_id>8274222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bellamine A, Wang Y, Waterman MR, Gainer JV 3rd, Dawson EP, Brown NJ, Capdevila JH: Characterization of the CYP4A11 gene, a second CYP4A gene in humans.  Arch Biochem Biophys. 2003 Jan 1;409(1):221-7.</reference_text>
+      <pubmed_id>12464262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kawashima H, Kusunose E, Kubota I, Maekawa M, Kusunose M: Purification and NH2-terminal amino acid sequences of human and rat kidney fatty acid omega-hydroxylases. Biochim Biophys Acta. 1992 Jan 24;1123(2):156-62.</reference_text>
+      <pubmed_id>1739747</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bell DR, Plant NJ, Rider CG, Na L, Brown S, Ateitalla I, Acharya SK, Davies MH, Elias E, Jenkins NA, et al.: Species-specific induction of cytochrome P-450 4A RNAs: PCR cloning of partial guinea-pig, human and mouse CYP4A cDNAs. Biochem J. 1993 Aug 15;294 ( Pt 1):173-80.</reference_text>
+      <pubmed_id>8363569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoch U, Ortiz De Montellano PR: Covalently linked heme in cytochrome p4504a fatty acid hydroxylases.  J Biol Chem. 2001 Apr 6;276(14):11339-46. Epub 2001 Jan 3.</reference_text>
+      <pubmed_id>11139583</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>LeBrun LA, Hoch U, Ortiz de Montellano PR: Autocatalytic mechanism and consequences of covalent heme attachment in the cytochrome P4504A family. J Biol Chem. 2002 Apr 12;277(15):12755-61. Epub 2002 Jan 30.</reference_text>
+      <pubmed_id>11821421</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gainer JV, Bellamine A, Dawson EP, Womble KE, Grant SW, Wang Y, Cupples LA, Guo CY, Demissie S, O'Donnell CJ, Brown NJ, Waterman MR, Capdevila JH: Functional variant of CYP4A11 20-hydroxyeicosatetraenoic acid synthase is associated with essential hypertension. Circulation. 2005 Jan 4;111(1):63-9. Epub 2004 Dec 20.</reference_text>
+      <pubmed_id>15611369</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cho BH, Park BL, Kim LH, Chung HS, Shin HD: Highly polymorphic human CYP4A11 gene.  J Hum Genet. 2005;50(5):259-63. Epub 2005 May 14.</reference_text>
+      <pubmed_id>15895287</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxylansoprazole</name>
+        <accession>HMDB14008</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cisplatin</name>
+        <accession>HMDB14656</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nakamura M, Imaoka S, Tanaka E, Misawa S, Funae Y: cis-Diamminedichloroplatinum induces peroxisomes as well as CYP4A1 in rat kidney.  Res Commun Mol Pathol Pharmacol. 1998 Jan;99(1):23-32.</reference_text>
+        <pubmed_id>9523352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofibrate</name>
+        <accession>HMDB14774</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pentamidine</name>
+        <accession>HMDB14876</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Li XQ, Bjorkman A, Andersson TB, Gustafsson LL, Masimirembwa CM: Identification of human cytochrome P(450)s that metabolise anti-parasitic drugs and predictions of in vivo drug hepatic clearance from in vitro data. Eur J Clin Pharmacol. 2003 Sep;59(5-6):429-42. Epub 2003 Aug 12.</reference_text>
+        <pubmed_id>12920490</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ethanol</name>
+        <accession>HMDB00108</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rifampin</name>
+        <accession>HMDB15179</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dexamethasone</name>
+        <accession>HMDB15364</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

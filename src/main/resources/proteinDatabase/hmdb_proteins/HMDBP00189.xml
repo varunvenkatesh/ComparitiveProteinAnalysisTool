@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:17 -0700</creation_date>
+  <update_date>2013-05-27 11:28:02 -0600</update_date>
+  <accession>HMDBP00189</accession>
+  <secondary_accessions>
+    <accession>5421</accession>
+    <accession>HMDBP03469</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>NADH dehydrogenase subunit 6</synonym>
+  </synonyms>
+  <gene_name>MT-ND6</gene_name>
+  <general_function>Involved in NADH dehydrogenase (ubiquinone) activity</general_function>
+  <specific_function>Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Oxidative phosphorylation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00190</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Parkinson's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05012</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00598</accession>
+      <name>Sulfide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01304</accession>
+      <name>QH2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02012</accession>
+      <name>Ubiquinone-1</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06709</accession>
+      <name>Ubiquinone-2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01060</accession>
+      <name>Ubiquinol 8</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01072</accession>
+      <name>Coenzyme Q10</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59661</accession>
+      <name>QH(2)</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on nadh or nadph</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nadh dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nadh dehydrogenase (quinone) activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nadh dehydrogenase (ubiquinone) activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial respiratory chain complex I</description>
+      <go_id>GO:0005747</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADH dehydrogenase (ubiquinone) activity</description>
+      <go_id>GO:0008137</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrial electron transport, NADH to ubiquinone</description>
+      <go_id>GO:0006120</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hydrogen peroxide</description>
+      <go_id>GO:0042542</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;525 bp
+ATGATGTATGCTTTGTTTCTGTTGAGTGTGGGTTTAGTAATGGGGTTTGTGGGGTTTTCT
+TCTAAGCCTTCTCCTATTTATGGGGGTTTAGTATTGATTGTTAGCGGTGTGGTCGGGTGT
+GTTATTATTCTGAATTTTGGGGGAGGTTATATGGGTTTAATAGTTTTTTTAATTTATTTA
+GGGGGAATGATGGTTGTCTTTGGATATACTACAGCGATGGCTATTGAGGAGTATCCTGAG
+GCATGGGGGTCAGGGGTTGAGGTCTTGGTGAGTGTTTTAGTGGGGTTAGCGATGGAGGTA
+GGATTCGTCCTGTGGGTGAAAGAGTATGATGGGGTGGTGGTTGTGGTAAACTTTAATAGT
+GTAGGAAGCTGAATAATTTATGAAGGAGAGGGGTCAGGGTTCATTCGGGAGGATCCTATT
+GGTGCGGGGGCTTTGTATGATTATGGGCGTTGATTAGTAGTAGTTACTGGTTGACCATTG
+TTTGTTGGTGTATATATTGTAATTGAGATTGCTCGGGGGAATAGG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>174</residue_number>
+    <molecular_weight>18622.045</molecular_weight>
+    <theoretical_pi>4.206</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Oxidored_q3</name>
+        <pfam_id>PF00499</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;NADH-ubiquinone oxidoreductase chain 6
+MMYALFLLSVGLVMGFVGFSSKPSPIYGGLVLIVSGVVGCVIILNFGGGYMGLMVFLIYL
+GGMMVVFGYTTAMAIEEYPEAWGSGVEVLVSVLVGLAMEVGLVLWVKEYDGVVVVVNFNS
+VGSWMIYEGEGSGLIREDPIGAGALYDYGRWLVVVTGWTLFVGVYIVIEIARGN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>13015</genbank_protein_id>
+  <uniprot_id>P03923</uniprot_id>
+  <uniprot_name>NU6M_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>V00662</genbank_gene_id>
+  <genecard_id>MT-ND6</genecard_id>
+  <geneatlas_id>MT-ND6</geneatlas_id>
+  <hgnc_id>HGNC:7462</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Anderson S, Bankier AT, Barrell BG, de Bruijn MH, Coulson AR, Drouin J, Eperon IC, Nierlich DP, Roe BA, Sanger F, Schreier PH, Smith AJ, Staden R, Young IG: Sequence and organization of the human mitochondrial genome.  Nature. 1981 Apr 9;290(5806):457-65.</reference_text>
+      <pubmed_id>7219534</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Horai S, Hayasaka K, Kondo R, Tsugane K, Takahata N: Recent African origin of modern humans revealed by complete sequences of hominoid mitochondrial DNAs. Proc Natl Acad Sci U S A. 1995 Jan 17;92(2):532-6.</reference_text>
+      <pubmed_id>7530363</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sudoyo H, Sitepu M, Malik S, Poesponegoro HD, Marzuki S: Leber's hereditary optic neuropathy in Indonesia: two families with the mtDNA 11778G&amp;gt;A and 14484T&amp;gt;C mutations. Hum Mutat. 1998;Suppl 1:S271-4.</reference_text>
+      <pubmed_id>9452107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moilanen JS, Finnila S, Majamaa K: Lineage-specific selection in human mtDNA: lack of polymorphisms in a segment of MTND5 gene in haplogroup J. Mol Biol Evol. 2003 Dec;20(12):2132-42. Epub 2003 Aug 29.</reference_text>
+      <pubmed_id>12949126</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ingman M, Kaessmann H, Paabo S, Gyllensten U: Mitochondrial genome variation and the origin of modern humans.  Nature. 2000 Dec 7;408(6813):708-13.</reference_text>
+      <pubmed_id>11130070</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ingman M, Gyllensten U: Mitochondrial genome variation and evolutionary history of Australian and New Guinean aborigines. Genome Res. 2003 Jul;13(7):1600-6.</reference_text>
+      <pubmed_id>12840039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Coble MD, Just RS, O'Callaghan JE, Letmanyi IH, Peterson CT, Irwin JA, Parsons TJ: Single nucleotide polymorphisms over the entire mtDNA genome that increase the power of forensic testing in Caucasians. Int J Legal Med. 2004 Jun;118(3):137-46. Epub 2004 Feb 4.</reference_text>
+      <pubmed_id>14760490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ozawa T, Tanaka M, Sugiyama S, Ino H, Ohno K, Hattori K, Ohbayashi T, Ito T, Deguchi H, Kawamura K, et al.: Patients with idiopathic cardiomyopathy belong to the same mitochondrial DNA gene family of Parkinson's disease and mitochondrial encephalomyopathy. Biochem Biophys Res Commun. 1991 May 31;177(1):518-25.</reference_text>
+      <pubmed_id>2043137</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marzuki S, Noer AS, Lertrit P, Thyagarajan D, Kapsa R, Utthanaphol P, Byrne E: Normal variants of human mitochondrial DNA and translation products: the building of a reference data base. Hum Genet. 1991 Dec;88(2):139-45.</reference_text>
+      <pubmed_id>1757091</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Johns DR, Neufeld MJ, Park RD: An ND-6 mitochondrial DNA mutation associated with Leber hereditary optic neuropathy. Biochem Biophys Res Commun. 1992 Sep 30;187(3):1551-7.</reference_text>
+      <pubmed_id>1417830</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jun AS, Brown MD, Wallace DC: A mitochondrial DNA mutation at nucleotide pair 14459 of the NADH dehydrogenase subunit 6 gene associated with maternally inherited Leber hereditary optic neuropathy and dystonia. Proc Natl Acad Sci U S A. 1994 Jun 21;91(13):6206-10.</reference_text>
+      <pubmed_id>8016139</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Vries DD, Went LN, Bruyn GW, Scholte HR, Hofstra RM, Bolhuis PA, van Oost BA: Genetic and biochemical impairment of mitochondrial complex I activity in a family with Leber hereditary optic neuropathy and hereditary spastic dystonia. Am J Hum Genet. 1996 Apr;58(4):703-11.</reference_text>
+      <pubmed_id>8644732</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leo-Kottler B, Christ-Adler M, Baumann B, Zrenner E, Wissinger B: Leber's hereditary optic neuropathy: clinical and molecular genetic results obtained in a family with a new point mutation at nucleotide position 14498 in the ND 6 gene. Ger J Ophthalmol. 1996 Jul;5(4):233-40.</reference_text>
+      <pubmed_id>8854108</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Besch D, Leo-Kottler B, Zrenner E, Wissinger B: Leber's hereditary optic neuropathy: clinical and molecular genetic findings in a patient with a new mutation in the ND6 gene. Graefes Arch Clin Exp Ophthalmol. 1999 Sep;237(9):745-52.</reference_text>
+      <pubmed_id>10447650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chinnery PF, Brown DT, Andrews RM, Singh-Kler R, Riordan-Eva P, Lindley J, Applegarth DA, Turnbull DM, Howell N: The mitochondrial ND6 gene is a hot spot for mutations that cause Leber's hereditary optic neuropathy. Brain. 2001 Jan;124(Pt 1):209-18.</reference_text>
+      <pubmed_id>11133798</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ravn K, Wibrand F, Hansen FJ, Horn N, Rosenberg T, Schwartz M: An mtDNA mutation, 14453G--&amp;gt;A, in the NADH dehydrogenase subunit 6 associated with severe MELAS syndrome. Eur J Hum Genet. 2001 Oct;9(10):805-9.</reference_text>
+      <pubmed_id>11781695</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:08 -0700</creation_date>
+  <update_date>2013-05-27 10:58:34 -0600</update_date>
+  <accession>HMDBP00146</accession>
+  <secondary_accessions>
+    <accession>5378</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>AOX</synonym>
+    <synonym>Palmitoyl-CoA oxidase</synonym>
+    <synonym>SCOX</synonym>
+    <synonym>Straight-chain acyl-CoA oxidase</synonym>
+  </synonyms>
+  <gene_name>ACOX1</gene_name>
+  <general_function>Involved in acyl-CoA dehydrogenase activity</general_function>
+  <specific_function>Catalyzes the desaturation of acyl-CoAs to 2-trans-enoyl-CoAs. Isoform 1 shows highest activity against medium-chain fatty acyl-CoAs and activity decreases with increasing chain length. Isoform 2 is active against a much broader range of substrates and shows activity towards very long-chain acyl-CoAs. Isoform 2 is twice as active as isoform 1 against 16-hydroxy-palmitoyl-CoA and is 25% more active against 1,16-hexadecanodioyl-CoA.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>peroxisomal fatty acid beta-oxidation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>fatty acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00071</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>alpha-Linolenic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00592</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Biosynthesis of unsaturated fatty acids</name>
+      <smpdb_id/>
+      <kegg_map_id>map01040</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>PPAR signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03320</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Peroxisome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04146</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB11113</accession>
+      <name>OPC4-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11120</accession>
+      <name>trans-2-Enoyl-OPC4-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11114</accession>
+      <name>OPC6-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11121</accession>
+      <name>trans-2-Enoyl-OPC6-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11115</accession>
+      <name>OPC8-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11122</accession>
+      <name>trans-2-Enoyl-OPC8-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02009</accession>
+      <name>Crotonoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01088</accession>
+      <name>Butyryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03944</accession>
+      <name>trans-2-Hexenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02845</accession>
+      <name>Hexanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03949</accession>
+      <name>(2E)-Octenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01070</accession>
+      <name>Octanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03948</accession>
+      <name>(2E)-Decenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06404</accession>
+      <name>Decanoyl-CoA (n-C10:0CoA)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03712</accession>
+      <name>(2E)-Dodecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03571</accession>
+      <name>Lauroyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03946</accession>
+      <name>(2E)-Tetradecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01521</accession>
+      <name>Tetradecanoyl-CoA </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03945</accession>
+      <name>(2E)-Hexadecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01338</accession>
+      <name>Palmityl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01197</accession>
+      <name>FADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03125</accession>
+      <name>Hydrogen peroxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06243</accession>
+      <name>Tetracosahexaenoyl CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06497</accession>
+      <name>Heptadecanoyl CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01114</accession>
+      <name>Stearoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04258</accession>
+      <name>Eicosanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01275</accession>
+      <name>Propionyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13037</accession>
+      <name>Pentanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12969</accession>
+      <name>Heptanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13028</accession>
+      <name>Nonanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13114</accession>
+      <name>Undecanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06526</accession>
+      <name>Tetracosanoyl-CoA  </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01290</accession>
+      <name>Glutaconyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04257</accession>
+      <name>3Z-dodecenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01243</accession>
+      <name>Isobutyryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11660</accession>
+      <name>2-Methylhexanoyl-CoA </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01113</accession>
+      <name>Isovaleryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02057</accession>
+      <name>Pristanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01041</accession>
+      <name>2-Methylbutyryl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02307</accession>
+      <name>Acrylyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06529</accession>
+      <name>trans-Octadec-2-enoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13109</accession>
+      <name>Tridecanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59627</accession>
+      <name>(E)-but-2-enoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59623</accession>
+      <name>hexadecanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06260</accession>
+      <name>Trans-2-all-cis-6,9,12,15,18,21-tetracosaheptaenoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60225</accession>
+      <name>Tetracosapentaenoyl coenzyme A, n-6</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60308</accession>
+      <name>(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fad or fadh2 binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-ch group of donors, oxygen as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyl-coa oxidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-ch group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyl-coa dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid beta-oxidation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>microbody</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>peroxisome</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>peroxisomal matrix</description>
+      <go_id>GO:0005782</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>peroxisomal membrane</description>
+      <go_id>GO:0005778</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>acyl-CoA dehydrogenase activity</description>
+      <go_id>GO:0003995</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>acyl-CoA oxidase activity</description>
+      <go_id>GO:0003997</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>FAD binding</description>
+      <go_id>GO:0071949</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavin adenine dinucleotide binding</description>
+      <go_id>GO:0050660</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>palmitoyl-CoA oxidase activity</description>
+      <go_id>GO:0016401</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>alpha-linolenic acid metabolic process</description>
+      <go_id>GO:0036109</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid beta-oxidation using acyl-CoA oxidase</description>
+      <go_id>GO:0033540</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid oxidation</description>
+      <go_id>GO:0019395</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>generation of precursor metabolites and energy</description>
+      <go_id>GO:0006091</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lipid homeostasis</description>
+      <go_id>GO:0055088</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peroxisome fission</description>
+      <go_id>GO:0016559</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cholesterol homeostasis</description>
+      <go_id>GO:2000189</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>prostaglandin metabolic process</description>
+      <go_id>GO:0006693</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spermatogenesis</description>
+      <go_id>GO:0007283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>very long-chain fatty acid metabolic process</description>
+      <go_id>GO:0000038</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Peroxisome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q25.1</locus>
+    <gene_sequence>&gt;1983 bp
+ATGAACCCGGACCTGCGCAGGGAGCGGGATTCCGCCAGCTTCAACCCGGAGCTGCTTACA
+CACATCCTGGACGGCAGCCCCGAGAAAACCCGGCGCCGCCGAGAGATCGAGAACATGATC
+CTGAACGACCCAGACTTCCAGCATGAGGACTTGAACTTCCTCACTCGCAGCCAGCGTTAT
+GAGGTGGCTGTCAGGAAAAGTGCCATCATGGTGAAGAAGATGAGGGAGTTTGGCATCGCT
+GACCCTGATGAAATTATGTGGTTTAAAAATTTTGTGCACCGAGGGCGGCCTGAGCCTCTG
+GATCTTCACTTGGGCATGTTCCTGCCCACCTTGCTTCACCAGGCAACTGCGGAGCAGCAG
+GAGCGCTTCTTCATGCCCGCCTGGAACTTGGAGATCATTGGCACTTATGCCCAGACAGAG
+ATGGGTCATGGAACTCACCTTCGAGGCTTGGAAACCACAGCCACGTATGACCCTGAAACC
+CAGGAGTTCATTCTCAACAGTCCTACTGTGACCTCCATTAAATGGTGGCCTGGTGGGCTT
+GGAAAGACTTCAAATCATGCAATAGTTCTTGCCCAGCTCATCACTAAGGGGAAATGCTAT
+GGATTACATGCCTTTATCGTACCTATTCGTGAAATCGGGACCCATAAGCCTTTGCCAGGA
+ATTACCGTTGGTGACATCGGCCCCAAATTTGGTTATGATGAGATAGACAATGGCTACCTC
+AAAATGGACAACCATCGTATTCCCAGAGAAAACATGCTGATGAAGTATGCCCAGGTGAAG
+CCTGATGGCACATACGTGAAACCGCTGAGTAACAAGCTGACTTACGGGACCATGGTGTTT
+GTCAGGTCCTTCCTTGTGGGAGAAGCTGCTCGGGCTCTGTCTAAGGCGTGCACCATTGCC
+ATCCGATACAGCGCTGTGAGGCACCAGTCTGAAATGAAGCCAGGTGAACCAGAACCACAG
+ATTTTGGATTTTCAAACCCAGCAGTATAAACTCTTTCCACTCCTGGCCACTGCCTATGCC
+TTCCAGTTTGTGGGCGCATACATGAAGGAGACCTATCACCGGATTAACGAAGGCATTGGT
+CAAGGGGACCTGAGTGAACTGCCTGAGCTTCATGCCCTCACCGCTGGACTGAAGGCTTTC
+ACCTCCTGGACTGCAAACACTGGCATTGAAGCATGTCGGATGGCTTGTGGTGGGCATGGC
+TATTCTCATTGCAGTGGTCTTCCAAATATTTATGTCAATTTCACCCCAAGCTGTACCTTT
+GAGGGAGAAAACACTGTCATGATGCTCCAGACGGCTAGGTTCCTGATGAAAAGTTATGAT
+CAGGTGCACTCAGGAAAGTTGGTGTGTGGCATGGTGTCCTATTTGAACGACCTGCCCAGT
+CAGCGCATCCAGCCACAGCAGGTAGCAGTCTGGCCAACCATGGTGGATATCAACAGCCCC
+GAAAGCCTAACCGAAGCATATAAACTCCGTGCAGCCAGATTAGTAGAAATTGCTGCAAAA
+AACCTTCAAAAAGAAGTGATTCACAGAAAAAGCAAGGAGGTAGCTTGGAACCTAACTTCT
+GTTGACCTTGTTCGAGCAAGTGAGGCACATTGCCACTATGTGGTAGTTAAGCTCTTTTCA
+GAAAAACTCCTCAAAATTCAAGATAAAGCCATTCAAGCTGTCTTAAGGAGTTTATGTCTG
+CTGTATTCTCTGTATGGAATCAGTCAGAACGCGGGGGATTTCCTTCAGGGGAGCATCATG
+ACAGAGCCTCAGATTACACAAGTAAACCAGCGTGTAAAGGAGTTACTCACTCTGATTCGC
+TCAGATGCTGTTGCTTTGGTTGATGCATTTGATTTTCAGGATGTGACACTTGGCTCTGTG
+CTTGGCCGCTATGATGGGAATGTGTATGAAAACTTGTTTGAGTGGGCTAAGAACTCCCCA
+CTGAACAAAGCAGAGGTCCACGAATCTTACAAGCACCTGAAGTCACTGCAGTCCAAGCTC
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>660</residue_number>
+    <molecular_weight>70135.205</molecular_weight>
+    <theoretical_pi>7.607</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ACOX</name>
+        <pfam_id>PF01756</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Acyl-CoA_dh_M</name>
+        <pfam_id>PF02770</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Peroxisomal acyl-coenzyme A oxidase 1
+MNPDLRRERDSASFNPELLTHILDGSPEKTRRRREIENMILNDPDFQHEDLNFLTRSQRY
+EVAVRKSAIMVKKMREFGIADPDEIMWFKKLHLVNFVEPVGLNYSMFIPTLLNQGTTAQK
+EKWLLSSKGLQIIGTYAQTEMGHGTHLRGLETTATYDPETQEFILNSPTVTSIKWWPGGL
+GKTSNHAIVLAQLITKGKCYGLHAFIVPIREIGTHKPLPGITVGDIGPKFGYDEIDNGYL
+KMDNHRIPRENMLMKYAQVKPDGTYVKPLSNKLTYGTMVFVRSFLVGEAARALSKACTIA
+IRYSAVRHQSEIKPGEPEPQILDFQTQQYKLFPLLATAYAFQFVGAYMKETYHRINEGIG
+QGDLSELPELHALTAGLKAFTSWTANTGIEACRMACGGHGYSHCSGLPNIYVNFTPSCTF
+EGENTVMMLQTARFLMKSYDQVHSGKLVCGMVSYLNDLPSQRIQPQQVAVWPTMVDINSP
+ESLTEAYKLRAARLVEIAAKNLQKEVIHRKSKEVAWNLTSVDLVRASEAHCHYVVVKLFS
+EKLLKIQDKAIQAVLRSLCLLYSLYGISQNAGDFLQGSIMTEPQITQVNQRVKELLTLIR
+SDAVALVDAFDFQDVTLGSVLGRYDGNVYENLFEWAKNSPLNKAEVHESYKHLKSLQSKL
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>14250616</genbank_protein_id>
+  <uniprot_id>Q15067</uniprot_id>
+  <uniprot_name>ACOX1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC008767</genbank_gene_id>
+  <genecard_id>ACOX1</genecard_id>
+  <geneatlas_id>ACOX1</geneatlas_id>
+  <hgnc_id>HGNC:119</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Varanasi U, Chu R, Chu S, Espinosa R, LeBeau MM, Reddy JK: Isolation of the human peroxisomal acyl-CoA oxidase gene: organization, promoter analysis, and chromosomal localization. Proc Natl Acad Sci U S A. 1994 Apr 12;91(8):3107-11.</reference_text>
+      <pubmed_id>8159712</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chu R, Varanasi U, Chu S, Lin Y, Usuda N, Rao MS, Reddy JK: Overexpression and characterization of the human peroxisomal acyl-CoA oxidase in insect cells. J Biol Chem. 1995 Mar 3;270(9):4908-15.</reference_text>
+      <pubmed_id>7876265</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fournier B, Saudubray JM, Benichou B, Lyonnet S, Munnich A, Clevers H, Poll-The BT: Large deletion of the peroxisomal acyl-CoA oxidase gene in pseudoneonatal adrenoleukodystrophy. J Clin Invest. 1994 Aug;94(2):526-31.</reference_text>
+      <pubmed_id>8040306</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aoyama T, Tsushima K, Souri M, Kamijo T, Suzuki Y, Shimozawa N, Orii T, Hashimoto T: Molecular cloning and functional expression of a human peroxisomal acyl-coenzyme A oxidase. Biochem Biophys Res Commun. 1994 Feb 15;198(3):1113-8.</reference_text>
+      <pubmed_id>8117268</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Suzuki Y, Iai M, Kamei A, Tanabe Y, Chida S, Yamaguchi S, Zhang Z, Takemoto Y, Shimozawa N, Kondo N: Peroxisomal acyl CoA oxidase deficiency.  J Pediatr. 2002 Jan;140(1):128-30.</reference_text>
+      <pubmed_id>11815777</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

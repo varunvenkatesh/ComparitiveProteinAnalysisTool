@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:02 -0700</creation_date>
+  <update_date>2013-05-27 11:06:09 -0600</update_date>
+  <accession>HMDBP00121</accession>
+  <secondary_accessions>
+    <accession>5353</accession>
+    <accession>HMDBP09358</accession>
+    <accession>HMDBP09359</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CYBL</synonym>
+    <synonym>Integral membrane protein CII-3</synonym>
+    <synonym>QPs-1</synonym>
+    <synonym>QPs1</synonym>
+    <synonym>Succinate dehydrogenase complex subunit C</synonym>
+    <synonym>Succinate-ubiquinone oxidoreductase cytochrome B large subunit</synonym>
+    <synonym>SubName: cDNA FLJ57876, highly similar to Homo sapiens succinate dehydrogenase complex, subunit C, transcript variant 2, mRNA</synonym>
+    <synonym>SubName: Succinate dehydrogenase complex, subunit C delta3 alternative splicing variant</synonym>
+    <synonym>SubName: Succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa, isoform CRA_g</synonym>
+  </synonyms>
+  <gene_name>SDHC</gene_name>
+  <general_function>Involved in succinate dehydrogenase activity</general_function>
+  <specific_function>Membrane-anchoring subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>tricarboxylic acid cycle</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Citrate cycle (TCA cycle)</name>
+      <smpdb_id/>
+      <kegg_map_id>map00020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Oxidative phosphorylation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00190</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alzheimer's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Parkinson's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05012</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Huntington's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05016</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00134</accession>
+      <name>Fumaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00598</accession>
+      <name>Sulfide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01304</accession>
+      <name>QH2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02012</accession>
+      <name>Ubiquinone-1</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06709</accession>
+      <name>Ubiquinone-2</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-ch group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>succinate dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cofactor metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>coenzyme metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>acetyl-coa metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>acetyl-coa catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>tricarboxylic acid cycle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>plasma membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>plasma membrane succinate dehydrogenase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial respiratory chain complex II</description>
+      <go_id>GO:0005749</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>succinate dehydrogenase activity</description>
+      <go_id>GO:0000104</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>respiratory electron transport chain</description>
+      <go_id>GO:0022904</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tricarboxylic acid cycle</description>
+      <go_id>GO:0006099</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion inner membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q23.3</locus>
+    <gene_sequence>&gt;510 bp
+ATGGCTGCGCTGTTGCTGAGACACGTTGGTCGTCATTGCCTCCGAGCCCACTTTAGCCCT
+CAGCTCTGTATCAGAAATGCTGTTCCTTTGGGAACCACGGCCAAAGAAGAGATGGAGCGG
+TTCTGGAATAAGAATATAGGTTCAAACCGTCCTCTGTCTCCCCACATTACTATCTACAGT
+TGGTCTCTTCCCATGGCGATGTCCATCTGCCACCGTGGCACTGGTATTGCTTTGAGTGCA
+GGGGTCTCTCTTTTTGGCATGTCGGCCCTGTTACTCCCTGGGAACTTTGAGTCTTATTTG
+GAACTTGTGAAGTCCCTGTGTCTGGGGCCAGCACTGATCCACACAGCTAAGTTTGCACTT
+GTCTTCCCTCTCATGTATCATACCTGGAATGGGATCCGACACTTGATGTGGGACCTAGGA
+AAAGGCCTGAAGATTCCCCAGCTATACCAGTCTGGAGTGGTTGTCCTGGTTCTTACTGTG
+TTGTCCTCTATGGGGCTGGCAGCCATGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>169</residue_number>
+    <molecular_weight>16650.185</molecular_weight>
+    <theoretical_pi>9.307</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sdh_cyt</name>
+        <pfam_id>PF01127</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
+MAALLLRHVGRHCLRAHFSPQLCIRNAVPLGTTAKEEMERFWNKNIGSNRPLSPHITIYS
+WSLPMAMSICHRGTGIALSAGVSLFGMSALLLPGNFESYLELVKSLCLGPALIHTAKFAL
+VFPLMYHTWNGIRHLMWDLGKGLKIPQLYQSGVVVLVLTVLSSMGLAAM</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>78096641</genbank_protein_id>
+  <uniprot_id>Q99643</uniprot_id>
+  <uniprot_name>C560_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U57877</genbank_gene_id>
+  <genecard_id>SDHC</genecard_id>
+  <geneatlas_id>SDHC</geneatlas_id>
+  <hgnc_id>HGNC:10682</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hirawake H, Taniwaki M, Tamura A, Kojima S, Kita K: Cytochrome b in human complex II (succinate-ubiquinone oxidoreductase): cDNA cloning of the components in liver mitochondria and chromosome assignment of the genes for the large (SDHC) and small (SDHD) subunits to 1q21 and 11q23. Cytogenet Cell Genet. 1997;79(1-2):132-8.</reference_text>
+      <pubmed_id>9533030</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Elbehti-Green A, Au HC, Mascarello JT, Ream-Robinson D, Scheffler IE: Characterization of the human SDHC gene encoding of the integral membrane proteins of succinate-quinone oxidoreductase in mitochondria. Gene. 1998 Jun 15;213(1-2):133-40.</reference_text>
+      <pubmed_id>9714607</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Niemann S, Muller U: Mutations in SDHC cause autosomal dominant paraganglioma, type 3.  Nat Genet. 2000 Nov;26(3):268-70.</reference_text>
+      <pubmed_id>11062460</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McWhinney SR, Pasini B, Stratakis CA: Familial gastrointestinal stromal tumors and germ-line mutations.  N Engl J Med. 2007 Sep 6;357(10):1054-6.</reference_text>
+      <pubmed_id>17804857</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bayley JP, van Minderhout I, Weiss MM, Jansen JC, Oomen PH, Menko FH, Pasini B, Ferrando B, Wong N, Alpert LC, Williams R, Blair E, Devilee P, Taschner PE: Mutation analysis of SDHB and SDHC: novel germline mutations in sporadic head and neck paraganglioma and familial paraganglioma and/or pheochromocytoma. BMC Med Genet. 2006 Jan 11;7:1.</reference_text>
+        <pubmed_id>16405730</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leibowitz G, Khaldi MZ, Shauer A, Parnes M, Oprescu AI, Cerasi E, Jonas JC, Kaiser N: Mitochondrial regulation of insulin production in rat pancreatic islets.  Diabetologia. 2005 Aug;48(8):1549-59. Epub 2005 Jun 29.</reference_text>
+        <pubmed_id>15986240</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bayley JP, Devilee P, Taschner PE: The SDH mutation database: an online resource for succinate dehydrogenase sequence variants involved in pheochromocytoma, paraganglioma and mitochondrial complex II deficiency. BMC Med Genet. 2005 Nov 16;6:39.</reference_text>
+        <pubmed_id>16288654</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Szeto SS, Reinke SN, Sykes BD, Lemire BD: Ubiquinone-binding site mutations in the Saccharomyces cerevisiae succinate dehydrogenase generate superoxide and lead to the accumulation of succinate. J Biol Chem. 2007 Sep 14;282(37):27518-26. Epub 2007 Jul 18.</reference_text>
+        <pubmed_id>17636259</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kubo Y, Takagi H, Nakamori S: Effect of gene disruption of succinate dehydrogenase on succinate production in a sake yeast strain. J Biosci Bioeng. 2000;90(6):619-24.</reference_text>
+        <pubmed_id>16232921</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:57 -0700</creation_date>
+  <update_date>2013-05-27 11:36:31 -0600</update_date>
+  <accession>HMDBP00625</accession>
+  <secondary_accessions>
+    <accession>5897</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>AlaRS</synonym>
+    <synonym>Alanine--tRNA ligase</synonym>
+    <synonym>Renal carcinoma antigen NY-REN-42</synonym>
+    <synonym>Alanyl-tRNA synthetase</synonym>
+  </synonyms>
+  <gene_name>AARS</gene_name>
+  <general_function>Involved in nucleotide binding</general_function>
+  <specific_function>Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction: alanine is first activated by ATP to form Ala-AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged tRNA(Ala) via its editing domain (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Alanine Metabolism</name>
+      <smpdb_id>SMP00055</smpdb_id>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Aminoacyl-tRNA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00970</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00161</accession>
+      <name>L-Alanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-oxygen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming aminoacyl-trna and related compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>aminoacyl-trna ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>alanine-trna ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ncrna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna aminoacylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna aminoacylation for protein translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alanyl-trna aminoacylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alanine-tRNA ligase activity</description>
+      <go_id>GO:0004813</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>amino acid binding</description>
+      <go_id>GO:0016597</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>aminoacyl-tRNA editing activity</description>
+      <go_id>GO:0002161</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tRNA binding</description>
+      <go_id>GO:0000049</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>alanyl-tRNA aminoacylation</description>
+      <go_id>GO:0006419</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cerebellar Purkinje cell layer development</description>
+      <go_id>GO:0021680</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>endoplasmic reticulum unfolded protein response</description>
+      <go_id>GO:0030968</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hair follicle development</description>
+      <go_id>GO:0001942</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of neuron apoptotic process</description>
+      <go_id>GO:0043524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neuromuscular process controlling balance</description>
+      <go_id>GO:0050885</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein folding</description>
+      <go_id>GO:0006457</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amino acid stimulus</description>
+      <go_id>GO:0043200</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>skin development</description>
+      <go_id>GO:0043588</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA modification</description>
+      <go_id>GO:0006400</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA processing</description>
+      <go_id>GO:0008033</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16q22</locus>
+    <gene_sequence>&gt;2907 bp
+ATGGACTCTACTCTAACAGCAAGTGAAATCCGGCAGCGATTTATAGATTTCTTCAAGAGG
+AACGAGCATACGTATGTTCACTCGTCTGCCACCATCCCATTGGATGACCCCACTTTGCTC
+TTTGCCAATGCAGGCATGAACCAGTTTAAACCCATTTTCCTGAACACAATTGACCCATCT
+CACCCCATGGCAAAGCTGAGCAGAGCTGCCAATACCCAGAAGTGCATCCGGGCTGGGGGC
+AAACATAATGACCTGGACGATGTGGGCAAGGATGTCTATCATCACACCTTCTTCGAGATG
+CTGGGCTCTTGGTCTTTTGGAGATTACTTTAAGGAATTGGCATGTAAGATGGCTCTGGAA
+CTCCTCACCCAAGAGTTTGGCATTCCCATTGAAAGACTTTATGTTACTTACTTTGGCGGG
+GATGAAGCAGCTGGCTTAGAAGCAGATCTGGAATGCAAACAGATCTGGCAAAATTTGGGG
+CTGGATGACACCAAAATCCTCCCAGGCAACATGAAGGATAACTTCTGGGAGATGGGTGAC
+ACGGGCCCCTGTGGTCCTTGCAGTGAGATCCACTACGACCGGATTGGTGGTCGGGACGCC
+GCACATCTTGTCAACCAGGACGACCCTAATGTGCTGGAGATCTGGAACCTTGTGTTCATC
+CAGTATAACAGGGAAGCTGATGGCATTCTGAAACCTCTTCCCAAGAAAAGCATTGACACA
+GGGATGGGCCTGGAACGACTGGTATCTGTGCTGCAGAATAAGATGTCCAACTATGACACT
+GACCTTTTTGTCCCTTACTTTGAAGCCATTCAGAAGGGCACAGGTGCCCGACCATACACT
+GGGAAAGTTGGTGCTGAGGATGCCGATGGGATTGACATGGCCTACCGGGTGCTGGCTGAC
+CACGCTCGGACCATCACTGTGGCACTGGCTGATGGTGGCCGGCCTGACAACACAGGGCGT
+GGATATGTGTTGAGACGGATTCTCCGCCGAGCTGTCCGATACGCCCATGAAAAGCTCAAT
+GCCAGCAGGGGCTTCTTTGCTACGTTAGTGGATGTTGTCGTCCAGTCCCTGGGAGATGCA
+TTTCCTGAGCTGAAGAAGGACCCAGACATGGTGAAGGACATCATTAATGAAGAAGAGGTG
+CAGTTTCTCAAGACTCTCAGCAGAGGGCGTCGCATCCTGGACAGGAAAATTCAGAGCCTG
+GGAGACAGCAAGACCATTCCCGGAGACACTGCTTGGCTCCTCTATGACACCTATGGGTTT
+CCAGTGGATCTGACTGGACTGATTGCTGAAGAGAAGGGCCTGGTGGTAGACATGGATGGC
+TTTGAAGAGGAGAGGAAACTGGCCCAGCTGAAATCACAGGGCAAGGGAGCTGGTGGGGAA
+GACCTCATTATGCTGGACATTTACGCTATCGAAGAGCTCCGGGCACGGGGTCTGGAGGTC
+ACAGATGATTCCCCAAAGTACAATTACCATTTGGACTCCAGTGGTAGCTATGTATTTGAG
+AACACAGTGGCTACGGTGATGGCTCTGCGCAGGGAGAAGATGTTCGTGGAAGAGGTGTCC
+ACAGGCCAGGAGTGTGGAGTGGTGCTGGACAAGACCTGTTTCTATGCTGAGCAAGGAGGC
+CAGATCTATGACGAAGGCTACCTGGTGAAGGTGGATGACAGCAGTGAAGATAAAACAGAG
+TTTACAGTGAAGAATGCTCAGGTCCGAGGAGGGTATGTGCTACACATTGGAACCATCTAC
+GGTGACCTGAAAGTGGGGGATCAGGTCTGGCTGTTTATTGATGAGCCCCGACGAAGACCC
+ATCATGAGCAACCACACAGCTACGCACATTCTGAACTTCGCCCTGCGCTCAGTGCTTGGG
+GAAGCTGACCAGAAAGGCTCATTGGTTGCTCCTGACCGCCTCAGATTTGACTTTACTGCC
+AAGGGAGCCATGTCCACCCAACAGATCAAGAAGGCTGAAGAGATTGCTAATGAGATGATT
+GAGGCAGCCAAGGCCGTCTATACCCAGGATTGCCCCCTGGCAGCAGCGAAAGCCATCCAG
+GGCCTACGGGCTGTGTTTGATGAGACCTATCCTGACCCTGTGCGAGTCGTCTCCATTGGG
+GTCCCGGTGTCCGAGTTGCTGGATGACCCCTCTGGGCCTGCTGGCTCCCTGACTTCTGTT
+GAGTTCTGTGGGGGAACGCACCTGCGGAACTCGAGTCATGCAGGAGCTTTTGTGATCGTG
+ACGGAAGAAGCCATTGCCAAGGGTATCCGGAGGATTGTGGCTGTCACAGGTGCCGAGGCC
+CAGAAGGCCCTCAGGAAAGCAGAGAGCTTGAAGAAATGTCTCTCTGTCATGGAAGCCAAA
+GTGAAGGCTCAGACTGCTCCAAACAAGGATGTGCAGAGGGAGATCGCTGACCTTGGAGAG
+GCCCTGGCCACTGCAGTCATCCCCCAGTGGCAGAAGGATGAATTGCGGGAGACTCTCAAA
+TCCCTAAAGAAGGTCATGGATGACTTGGACCGAGCCAGCAAAGCCGATGTCCAGAAACGA
+GTGTTAGAGAAGACGAAGCAGTTCATCGACAGCAACCCCAACCAGCCTCTTGTCATCCTG
+GAGATGGAGAGCGGCGCCTCAGCCAAGGCCCTGAATGAAGCCTTGAAGCTCTTCAAGATG
+CACTCCCCTCAGACTTCTGCCATGCTCTTCACGGTGGACAATGAGGCTGGCAAGATCACG
+TGCCTGTGTCAAGTTCCCCAGAATGCAGCCAATCGGGGCTTAAAAGCCAGCGAGTGGGTG
+CAGCAGGTGTCAGGCTTGATGGACGGTAAAGGTGGTGGCAAGGATGTGTCTGCACAGGCC
+ACAGGCAAGAACGTTGGCTGCCTGCAGGAGGCGCTGCAGCTGGCCACTTCCTTCGCCCAG
+CTGCGCCTCGGGGATGTAAAGAACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>968</residue_number>
+    <molecular_weight>106809.525</molecular_weight>
+    <theoretical_pi>5.53</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DHHA1</name>
+        <pfam_id>PF02272</pfam_id>
+      </pfam>
+      <pfam>
+        <name>tRNA-synt_2c</name>
+        <pfam_id>PF01411</pfam_id>
+      </pfam>
+      <pfam>
+        <name>tRNA_SAD</name>
+        <pfam_id>PF07973</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alanyl-tRNA synthetase, cytoplasmic
+MDSTLTASEIRQRFIDFFKRNEHTYVHSSATIPLDDPTLLFANAGMNQFKPIFLNTIDPS
+HPMAKLSRAANTQKCIRAGGKHNDLDDVGKDVYHHTFFEMLGSWSFGDYFKELACKMALE
+LLTQEFGIPIERLYVTYFGGDEAAGLEADLECKQIWQNLGLDDTKILPGNMKDNFWEMGD
+TGPCGPCSEIHYDRIGGRDAAHLVNQDDPNVLEIWNLVFIQYNREADGILKPLPKKSIDT
+GMGLERLVSVLQNKMSNYDTDLFVPYFEAIQKGTGARPYTGKVGAEDADGIDMAYRVLAD
+HARTITVALADGGRPDNTGRGYVLRRILRRAVRYAHEKLNASRGFFATLVDVVVQSLGDA
+FPELKKDPDMVKDIINEEEVQFLKTLSRGRRILDRKIQSLGDSKTIPGDTAWLLYDTYGF
+PVDLTGLIAEEKGLVVDMDGFEEERKLAQLKSQGKGAGGEDLIMLDIYAIEELRARGLEV
+TDDSPKYNYHLDSSGSYVFENTVATVMALRREKMFVEEVSTGQECGVVLDKTCFYAEQGG
+QIYDEGYLVKVDDSSEDKTEFTVKNAQVRGGYVLHIGTIYGDLKVGDQVWLFIDEPRRRP
+IMSNHTATHILNFALRSVLGEADQKGSLVAPDRLRFDFTAKGAMSTQQIKKAEEIANEMI
+EAAKAVYTQDCPLAAAKAIQGLRAVFDETYPDPVRVVSIGVPVSELLDDPSGPAGSLTSV
+EFCGGTHLRNSSHAGAFVIVTEEAIAKGIRRIVAVTGAEAQKALRKAESLKKCLSVMEAK
+VKAQTAPNKDVQREIADLGEALATAVIPQWQKDELRETLKSLKKVMDDLDRASKADVQKR
+VLEKTKQFIDSNPNQPLVILEMESGASAKALNEALKLFKMHSPQTSAMLFTVDNEAGKIT
+CLCQVPQNAANRGLKASEWVQQVSGLMDGKGGGKDVSAQATGKNVGCLQEALQLATSFAQ
+LRLGDVKN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>109148542</genbank_protein_id>
+  <uniprot_id>P49588</uniprot_id>
+  <uniprot_name>SYAC_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001605.2</genbank_gene_id>
+  <genecard_id>AARS</genecard_id>
+  <geneatlas_id>AARS</geneatlas_id>
+  <hgnc_id>HGNC:20</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Shiba K, Ripmaster T, Suzuki N, Nichols R, Plotz P, Noda T, Schimmel P: Human alanyl-tRNA synthetase: conservation in evolution of catalytic core and microhelix recognition. Biochemistry. 1995 Aug 22;34(33):10340-9.</reference_text>
+      <pubmed_id>7654687</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martin J, Han C, Gordon LA, Terry A, Prabhakar S, She X, Xie G, Hellsten U, Chan YM, Altherr M, Couronne O, Aerts A, Bajorek E, Black S, Blumer H, Branscomb E, Brown NC, Bruno WJ, Buckingham JM, Callen DF, Campbell CS, Campbell ML, Campbell EW, Caoile C, Challacombe JF, Chasteen LA, Chertkov O, Chi HC, Christensen M, Clark LM, Cohn JD, Denys M, Detter JC, Dickson M, Dimitrijevic-Bussod M, Escobar J, Fawcett JJ, Flowers D, Fotopulos D, Glavina T, Gomez M, Gonzales E, Goodstein D, Goodwin LA, Grady DL, Grigoriev I, Groza M, Hammon N, Hawkins T, Haydu L, Hildebrand CE, Huang W, Israni S, Jett J, Jewett PB, Kadner K, Kimball H, Kobayashi A, Krawczyk MC, Leyba T, Longmire JL, Lopez F, Lou Y, Lowry S, Ludeman T, Manohar CF, Mark GA, McMurray KL, Meincke LJ, Morgan J, Moyzis RK, Mundt MO, Munk AC, Nandkeshwar RD, Pitluck S, Pollard M, Predki P, Parson-Quintana B, Ramirez L, Rash S, Retterer J, Ricke DO, Robinson DL, Rodriguez A, Salamov A, Saunders EH, Scott D, Shough T, Stallings RL, Stalvey M, Sutherland RD, Tapia R, Tesmer JG, Thayer N, Thompson LS, Tice H, Torney DC, Tran-Gyamfi M, Tsai M, Ulanovsky LE, Ustaszewska A, Vo N, White PS, Williams AL, Wills PL, Wu JR, Wu K, Yang J, Dejong P, Bruce D, Doggett NA, Deaven L, Schmutz J, Grimwood J, Richardson P, Rokhsar DS, Eichler EE, Gilna P, Lucas SM, Myers RM, Rubin EM, Pennacchio LA: The sequence and analysis of duplication-rich human chromosome 16.  Nature. 2004 Dec 23;432(7020):988-94.</reference_text>
+      <pubmed_id>15616553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scanlan MJ, Gordan JD, Williamson B, Stockert E, Bander NH, Jongeneel V, Gure AO, Jager D, Jager E, Knuth A, Chen YT, Old LJ: Antigens recognized by autologous antibody in patients with renal-cell carcinoma. Int J Cancer. 1999 Nov 12;83(4):456-64.</reference_text>
+      <pubmed_id>10508479</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guo M, Chong YE, Beebe K, Shapiro R, Yang XL, Schimmel P: The C-Ala domain brings together editing and aminoacylation functions on one tRNA. Science. 2009 Aug 7;325(5941):744-7.</reference_text>
+      <pubmed_id>19661429</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Latour P, Thauvin-Robinet C, Baudelet-Mery C, Soichot P, Cusin V, Faivre L, Locatelli MC, Mayencon M, Sarcey A, Broussolle E, Camu W, David A, Rousson R: A major determinant for binding and aminoacylation of tRNA(Ala) in cytoplasmic Alanyl-tRNA synthetase is mutated in dominant axonal Charcot-Marie-Tooth disease. Am J Hum Genet. 2010 Jan;86(1):77-82. Epub 2009 Dec 31.</reference_text>
+      <pubmed_id>20045102</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nagan MC, Beuning P, Musier-Forsyth K, Cramer CJ: Importance of discriminator base stacking interactions: molecular dynamics analysis of A73 microhelix(Ala) variants. Nucleic Acids Res. 2000 Jul 1;28(13):2527-34.</reference_text>
+        <pubmed_id>10871402</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>McClain WH, Gabriel K, Schneider J: Specific function of a G.U wobble pair from an adjacent helical site in tRNA(Ala) during recognition by alanyl-tRNA synthetase. RNA. 1996 Feb;2(2):105-9.</reference_text>
+        <pubmed_id>8601277</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Buechter DD, Schimmel P: Minor groove recognition of the critical acceptor helix base pair by an appended module of a class II tRNA synthetase. Biochemistry. 1995 May 9;34(18):6014-9.</reference_text>
+        <pubmed_id>7742303</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

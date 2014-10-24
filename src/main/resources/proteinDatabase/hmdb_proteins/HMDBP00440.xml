@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:13 -0700</creation_date>
+  <update_date>2013-05-27 11:27:13 -0600</update_date>
+  <accession>HMDBP00440</accession>
+  <secondary_accessions>
+    <accession>5678</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>NSL-TP</synonym>
+    <synonym>Propanoyl-CoA C-acyltransferase</synonym>
+    <synonym>SCP-2</synonym>
+    <synonym>SCP-X</synonym>
+    <synonym>SCP-chi</synonym>
+    <synonym>SCPX</synonym>
+    <synonym>Sterol carrier protein 2</synonym>
+    <synonym>Sterol carrier protein X</synonym>
+  </synonyms>
+  <gene_name>SCP2</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Mediates in vitro the transfer of all common phospholipids, cholesterol and gangliosides between membranes. May play a role in regulating steroidogenesis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Primary bile acid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00120</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>PPAR signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03320</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Peroxisome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04146</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00032</accession>
+      <name>7-Dehydrocholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01275</accession>
+      <name>Propionyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01374</accession>
+      <name>Choloyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06891</accession>
+      <name>3a,7a,12a-Trihydroxy-5b-24-oxocholestanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06292</accession>
+      <name>Chenodeoxycholoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06896</accession>
+      <name>3a,7a-Dihydroxy-5b-24-oxocholestanoyl-CoA</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lipid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sterol binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>peroxisomal matrix</description>
+      <go_id>GO:0005782</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>protein complex</description>
+      <go_id>GO:0043234</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cholesterol binding</description>
+      <go_id>GO:0015485</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>long-chain fatty acyl-CoA binding</description>
+      <go_id>GO:0036042</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oleic acid binding</description>
+      <go_id>GO:0070538</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol transporter activity</description>
+      <go_id>GO:0008526</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>propanoyl-CoA C-acyltransferase activity</description>
+      <go_id>GO:0033814</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sterol binding</description>
+      <go_id>GO:0032934</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id>GO:0016747</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>alpha-linolenic acid metabolic process</description>
+      <go_id>GO:0036109</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>bile acid biosynthetic process</description>
+      <go_id>GO:0006699</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid beta-oxidation using acyl-CoA oxidase</description>
+      <go_id>GO:0033540</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inositol trisphosphate biosynthetic process</description>
+      <go_id>GO:0032959</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lipid hydroperoxide transport</description>
+      <go_id>GO:1901373</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lipid transport</description>
+      <go_id>GO:0006869</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peroxisome organization</description>
+      <go_id>GO:0007031</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of intracellular cholesterol transport</description>
+      <go_id>GO:0032385</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of steroid metabolic process</description>
+      <go_id>GO:0045940</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>progesterone biosynthetic process</description>
+      <go_id>GO:0006701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein localization to plasma membrane</description>
+      <go_id>GO:0072659</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform SCP2:Mitochondrion (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p32</locus>
+    <gene_sequence>&gt;1644 bp
+ATGTCCTCTTCCCCGTGGGAGCCTGCGACCCTGCGCCGGGTGTTCGTGGTGGGGGTTGGC
+ATGACCAAGTTTGTGAAGCCTGGAGCTGAGAATTCAAGAGACTACCCTGACTTGGCAGAA
+GAAGCAGGCAAGAAGGCTTTAGCTGATGCACAGATCCCTTATTCAGCAGTGGACCAGGCA
+TGTGTTGGCTATGTTTTTGGTGACTCTACCTGTGGGCAGAGGGCTATCTATCACAGTTTG
+GGAATGACTGGAATTCCTATAATCAATGTCAACAATAACTGTGCTACTGGTTCTACTGCT
+TTGTTTATGGCCCGCCAGCTGATTCAGGGTGGTGTGGCAGAATGTGTCTTGGCTCTTGGG
+TTTGAGAAGATGAGTAAGGGAAGCCTTGGAATAAAATTTTCAGATAGAACCATTCCCACT
+GATAAGCATGTTGACCTCCTGATCAATAAGTATGGATTGTCTGCTCACCCAGTTGCTCCT
+CAGATGTTTGGGTATGCTGGAAAAGAACATATGGAAAAATATGGAACAAAAATTGAACAC
+TTTGCAAAAATTGGATGGAAAAATCATAAACATTCAGTTAATAACCCGTATTCCCAGTTC
+CAAGATGAATACAGTTTAGATGAAGTGATGGCATCTAAAGAAGTTTTTGATTTTTTGACT
+ATCTTACAATGTTGTCCCACTTCAGATGGTGCTGCAGCAGCAATTTTGGCCAGTGAAGCA
+TTTGTACAGAAGTATGGCCTGCAATCCAAAGCTGTGGAAATTTTGGCACAAGAAATGATG
+ACTGATTTGCCAAGCTCGTTTGAAGAAAAAAGCATTATTAAAATGGTTGGCTTTGATATG
+AGTAAAGAAGCTGCAAGAAAATGCTATGAGAAATCTGGCCTGACACCAAATGATATTGAC
+GTAATAGAACTTCACGATTGCTTTTCTACCAACGAACTCCTGACTTATGAAGCACTCGGA
+CTCTGTCCAGAAGGACAAGGTGCAACGCTGGTTGATAGAGGAGATAATACATATGGAGGA
+AAGTGGGTCATAAATCCTAGTGGTGGACTGATTTCAAAGGGACACCCACTAGGCGCTACA
+GGTCTTGCTCAGTGTGCAGAACTCTGCTGGCAGCTGAGAGGGGAAGCCGGAAAGAGGCAA
+GTTCCTGGTGCAAAGGTGGCTCTGCAGCATAATTTAGGCATTGGAGGAGCTGTGGTTGTA
+ACACTCTACAAGATGGGTTTTCCGGAAGCCGCCAGTTCTTTTAGAACTCATCAAATTGAA
+GCTGTTCCAACCAGCTCTGCAAGTGATGGATTTAAGGCAAATCTTGTTTTTAAGGAGATT
+GAGAAGAAACTTGAAGAGGAAGGGGAACAGTTTGTGAAGAAAATCGGTGGTATTTTTGCC
+TTCAAGGTGAAAGATGGCCCTGGGGGTAAAGAGGCCACCTGGGTGGTGGATGTGAAGAAT
+GGCAAAGGATCAGTGCTTCCTAACTCAGATAAGAAGGCTGACTGCACAATCACAATGGCT
+GACTCAGACTTCCTGGCTTTAATGACTGGTAAAATGAATCCTCAGTCGGCCTTCTTTCAA
+GGCAAATTGAAAATCACTGGCAACATGGGTCTCGCTATGAAGTTACAAAATCTTCAGCTT
+CAGCCAGGCAACGCTAAGCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>547</residue_number>
+    <molecular_weight>34974.505</molecular_weight>
+    <theoretical_pi>5.658</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SCP2</name>
+        <pfam_id>PF02036</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Thiolase_C</name>
+        <pfam_id>PF02803</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Thiolase_N</name>
+        <pfam_id>PF00108</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Non-specific lipid-transfer protein
+MSSSPWEPATLRRVFVVGVGMTKFVKPGAENSRDYPDLAEEAGKKALADAQIPYSAVDQA
+CVGYVFGDSTCGQRAIYHSLGMTGIPIINVNNNCATGSTALFMARQLIQGGVAECVLALG
+FEKMSKGSLGIKFSDRTIPTDKHVDLLINKYGLSAHPVAPQMFGYAGKEHMEKYGTKIEH
+FAKIGWKNHKHSVNNPYSQFQDEYSLDEVMASKEVFDFLTILQCCPTSDGAAAAILASEA
+FVQKYGLQSKAVEILAQEMMTDLPSSFEEKSIIKMVGFDMSKEAARKCYEKSGLTPNDID
+VIELHDCFSTNELLTYEALGLCPEGQGATLVDRGDNTYGGKWVINPSGGLISKGHPLGAT
+GLAQCAELCWQLRGEAGKRQVPGAKVALQHNLGIGGAVVVTLYKMGFPEAASSFRTHQIE
+AVPTSSASDGFKANLVFKEIEKKLEEEGEQFVKKIGGIFAFKVKDGPGGKEATWVVDVKN
+GKGSVLPNSDKKADCTITMADSDFLALMTGKMNPQSAFFQGKLKITGNMGLAMKLQNLQL
+QPGNAKL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P22307</uniprot_id>
+  <uniprot_name>NLTP_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1QND</pdb_id>
+    <pdb_id>2C0L</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M75883</genbank_gene_id>
+  <genecard_id>SCP2</genecard_id>
+  <geneatlas_id>SCP2</geneatlas_id>
+  <hgnc_id>HGNC:10606</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ohba T, Rennert H, Pfeifer SM, He Z, Yamamoto R, Holt JA, Billheimer JT, Strauss JF 3rd: The structure of the human sterol carrier protein X/sterol carrier protein 2 gene (SCP2). Genomics. 1994 Nov 15;24(2):370-4.</reference_text>
+      <pubmed_id>7698762</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>He Z, Yamamoto R, Furth EE, Schantz LJ, Naylor SL, George H, Billheimer JT, Strauss JF 3rd: cDNAs encoding members of a family of proteins related to human sterol carrier protein 2 and assignment of the gene to human chromosome 1 p21----pter. DNA Cell Biol. 1991 Oct;10(8):559-69.</reference_text>
+      <pubmed_id>1718316</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamamoto R, Kallen CB, Babalola GO, Rennert H, Billheimer JT, Strauss JF 3rd: Cloning and expression of a cDNA encoding human sterol carrier protein 2.  Proc Natl Acad Sci U S A. 1991 Jan 15;88(2):463-7.</reference_text>
+      <pubmed_id>1703300</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamamoto R: [Localization of human sterol carrier protein 2 gene and cDNA expression in COS-7 cell] Hokkaido Igaku Zasshi. 1992 Nov;67(6):839-48.</reference_text>
+      <pubmed_id>1483685</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seedorf U, Scheek S, Engel T, Steif C, Hinz HJ, Assmann G: Structure-activity studies of human sterol carrier protein 2.  J Biol Chem. 1994 Jan 28;269(4):2613-8.</reference_text>
+      <pubmed_id>8300590</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Szyperski T, Scheek S, Johansson J, Assmann G, Seedorf U, Wuthrich K: NMR determination of the secondary structure and the three-dimensional polypeptide backbone fold of the human sterol carrier protein 2. FEBS Lett. 1993 Nov 29;335(1):18-26.</reference_text>
+      <pubmed_id>8243660</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stanley WA, Filipp FV, Kursula P, Schuller N, Erdmann R, Schliebs W, Sattler M, Wilmanns M: Recognition of a functional peroxisome type 1 target by the dynamic import receptor pex5p. Mol Cell. 2006 Dec 8;24(5):653-63.</reference_text>
+      <pubmed_id>17157249</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Dehydrocholesterol</name>
+        <accession>HMDB00032</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Morin RJ, Brun MJ, Srikantaiah MV: Effect of age and cholestyramine feeding on rat liver 3-hydroxy-3-methyl glutaryl CoA reductase, sterol carrier protein 1 and sterol carrier protein 2 activities. Lipids. 1982 Jul;17(7):507-10.</reference_text>
+        <pubmed_id>7121212</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

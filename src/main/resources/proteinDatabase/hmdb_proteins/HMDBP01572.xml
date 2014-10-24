@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:43 -0700</creation_date>
+  <update_date>2013-05-27 11:22:22 -0600</update_date>
+  <accession>HMDBP01572</accession>
+  <secondary_accessions>
+    <accession>6868</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Phosphatidylinositol polyphosphate 5-phosphatase type IV</synonym>
+    <synonym>Phosphatidylinositol-4,5-bisphosphate 5-phosphatase</synonym>
+    <synonym>Phosphatidylinositol 4,5-bisphosphate 5-phosphatase</synonym>
+  </synonyms>
+  <gene_name>INPP5E</gene_name>
+  <general_function>Involved in inositol-polyphosphate 5-phosphatase activity</general_function>
+  <specific_function>Converts phosphatidylinositol 3,4,5-trisphosphate (PtdIns 3,4,5-P3) to PtdIns-P2. Specific for lipid substrates, inactive towards water soluble inositol phosphates.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Inositol phosphate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00562</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phosphatidylinositol signaling system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04070</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06953</accession>
+      <name>1-Phosphatidyl-D-myo-inositol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inositol or phosphatidylinositol phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cilium axoneme</description>
+      <go_id>GO:0035085</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoskeleton</description>
+      <go_id>GO:0005856</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi cisterna membrane</description>
+      <go_id>GO:0032580</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>inositol-polyphosphate 5-phosphatase activity</description>
+      <go_id>GO:0004445</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity</description>
+      <go_id>GO:0004439</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inositol phosphate dephosphorylation</description>
+      <go_id>GO:0046855</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol biosynthetic process</description>
+      <go_id>GO:0006661</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol dephosphorylation</description>
+      <go_id>GO:0046856</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol phosphorylation</description>
+      <go_id>GO:0046854</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of neuron projection development</description>
+      <go_id>GO:0010976</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytoskeleton</subcellular_location>
+    <subcellular_location>cilium axoneme</subcellular_location>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Golgi stack membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasmic side</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q34.3</locus>
+    <gene_sequence>&gt;1935 bp
+ATGCCGTCCAAGGCGGAGAATCTGCGGCCCTCCGAGCCGGCCCCGCAGCCGCCGGAAGGG
+AGGACGCTCCAAGGACAGCTTCCCGGCGCTCCGCCGGCCCAGCGCGCGGGGTCCCCACCC
+GATGCTCCGGGCTCCGAGAGCCCCGCGCTTGCCTGCAGCACTCCGGCCACGCCCAGCGGC
+GAGGACCCGCCAGCCCGAGCAGCACCCATCGCCCCGCGGCCCCCCGCCAGGCCTCGACTG
+GAGCGAGCCCTGTCCCTGGACGACAAGGGCTGGAGGAGGAGGCGTTTTCGAGGCAGCCAG
+GAGGACCTGGAAGCCCGGAATGGGACCAGTCCCTCCAGGGGCTCAGTGCAGAGCGAGGGC
+CCCGGGGCCCCCGCCCACAGCTGCTCCCCGCCCTGCCTGAGCACCTCCTTGCAGGAAATC
+CCCAAGTCCCGCGGGGTCCTGAGCAGTGAGAGAGGGAGCCCGTCCTCGGGGGGTAACCCT
+CTCTCTGGGGTGGCCAGCAGCTCCCCGAACCTCCCGCACAGAGACGCCGCCGTGGCGGGG
+AGCTCGCCCAGGCTGCCCAGCCTGCTGCCCCCGCGCCCACCGCCTGCCCTGAGCCTGGAC
+ATCGCCTCCGACTCCCTGAGGACAGCAAACAAGGTCGACTCGGATCTTGCAGACTACAAG
+CTCCGCGCGCAGCCGCTCCTGGTGCGGGCCCACAGCAGCCTGGGCCCCGGCCGGCCGCGG
+AGCCCCCTGGCCTGCGACGACTGTTCCCTTCGCTCGGCCAAATCCTCCTTCAGCCTCCTG
+GCGCCCATCCGCAGCAAGGACGTCCGCAGCAGGAGTTACCTGGAGGGCAGCCTCCTGGCC
+AGCGGGGCCCTGTTGGGGGCGGATGAGCTGGCCCGCTACTTCCCAGACCGGAACGTGGCA
+CTCTTCGTGGCCACCTGGAACATGCAGGGCCAGAAGGAGCTCCCGCCCAGCCTGGACGAG
+TTCCTGCTCCCAGCCGAGGCCGACTATGCCCAGGACCTGTATGTCATCGGGGTCCAGGAG
+GGCTGTTCTGACACGCGGGAGTGGGAGACTCGTCTGCAGGAGACGCTGGGCCCGCACTAT
+GTGCTGCTGTCCTCGGCGGCCCACGGCGTGCTCTACATGTCGCTCTTCATCCGCAGGGAC
+CTCATCTGGTTCTGCTCAGAGGTGGAGTGCTCCACGGTGACCACACGCATCGTGTCTCAG
+ATCAAGACCAAGGGGGCCTTGGGCATCAGCTTCACCTTTTTTGGCACTTCCTTCCTCTTC
+ATCACGTCCCACTTCACCTCAGGTGACGGGAAGGTGGCGGAGCGGCTGCTGGACTACACC
+AGGACTGTACAAGCCCTGGTCCTGCCCAGAAATGTGCCCGACACCAACCCCTATCGCTCC
+AGCGCAGCGGACGTCACCACCCGCTTCGATGAGGTGTTCTGGTTTGGAGACTTCAACTTC
+CGCCTGAGTGGCGGGCGCACAGTCGTGGACGCCCTCCTGTGCCAGGGCCTGGTGGTGGAC
+GTGCCGGCGCTGCTGCAGCACGACCAGCTCATCCGGGAGATGCGGAAAGGGTCCATCTTC
+AAGGGCTTCCAGGAGCCGGACATCCACTTCCTCCCATCATACAAGTTTGACATCGGGAAG
+GACACGTACGACAGCACCTCCAAGCAGAGGACGCCCTCATACACGGACCGCGTCTTGTAC
+AGAAGCCGCCACAAGGGTGACATCTGTCCTGTGAGCTACTCTTCCTGCCCCGGGATCAAG
+ACGTCCGACCACCGCCCTGTGTATGGCCTCTTCCGGGTGAAAGTGAGGCCGGGGCGAGAC
+AACATTCCGTTGGCAGCTGGCAAATTTGATAGAGAACTGTACTTACTAGGAATTAAAAGA
+CGGATTTCGAAGGAGATTCAGAGGCAGCAAGCACTACAGAGTCAGAACTCCAGCACCATC
+TGCTCCGTTTCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>644</residue_number>
+    <molecular_weight>70204.435</molecular_weight>
+    <theoretical_pi>8.96</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Exo_endo_phos</name>
+        <pfam_id>PF03372</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;72 kDa inositol polyphosphate 5-phosphatase
+MPSKAENLRPSEPAPQPPEGRTLQGQLPGAPPAQRAGSPPDAPGSESPALACSTPATPSG
+EDPPARAAPIAPRPPARPRLERALSLDDKGWRRRRFRGSQEDLEARNGTSPSRGSVQSEG
+PGAPAHSCSPPCLSTSLQEIPKSRGVLSSERGSPSSGGNPLSGVASSSPNLPHRDAAVAG
+SSPRLPSLLPPRPPPALSLDIASDSLRTANKVDSDLADYKLRAQPLLVRAHSSLGPGRPR
+SPLACDDCSLRSAKSSFSLLAPIRSKDVRSRSYLEGSLLASGALLGADELARYFPDRNVA
+LFVATWNMQGQKELPPSLDEFLLPAEADYAQDLYVIGVQEGCSDRREWETRLQETLGPHY
+VLLSSAAHGVLYMSLFIRRDLIWFCSEVECSTVTTRIVSQIKTKGALGISFTFFGTSFLF
+ITSHFTSGDGKVAERLLDYTRTVQALVLPRNVPDTNPYRSSAADVTTRFDEVFWFGDFNF
+RLSGGRTVVDALLCQGLVVDVPALLQHDQLIREMRKGSIFKGFQEPDIHFLPSYKFDIGK
+DTYDSTSKQRTPSYTDRVLYRSRHKGDICPVSYSSCPGIKTSDHRPVYGLFRVKVRPGRD
+NIPLAAGKFDRELYLLGIKRRISKEIQRQQALQSQNSSTICSVS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>8925284</genbank_protein_id>
+  <uniprot_id>Q9NRR6</uniprot_id>
+  <uniprot_name>INP5E_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2XSW</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF187891</genbank_gene_id>
+  <genecard_id>INPP5E</genecard_id>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:21474</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kisseleva MV, Wilson MP, Majerus PW: The isolation and characterization of a cDNA encoding phospholipid-specific inositol polyphosphate 5-phosphatase. J Biol Chem. 2000 Jun 30;275(26):20110-6.</reference_text>
+      <pubmed_id>10764818</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jacoby M, Cox JJ, Gayral S, Hampshire DJ, Ayub M, Blockmans M, Pernot E, Kisseleva MV, Compere P, Schiffmann SN, Gergely F, Riley JH, Perez-Morga D, Woods CG, Schurmans S: INPP5E mutations cause primary cilium signaling defects, ciliary instability and ciliopathies in human and mouse. Nat Genet. 2009 Sep;41(9):1027-31. Epub 2009 Aug 9.</reference_text>
+      <pubmed_id>19668215</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bielas SL, Silhavy JL, Brancati F, Kisseleva MV, Al-Gazali L, Sztriha L, Bayoumi RA, Zaki MS, Abdel-Aleem A, Rosti RO, Kayserili H, Swistun D, Scott LC, Bertini E, Boltshauser E, Fazzi E, Travaglini L, Field SJ, Gayral S, Jacoby M, Schurmans S, Dallapiccola B, Majerus PW, Valente EM, Gleeson JG: Mutations in INPP5E, encoding inositol polyphosphate-5-phosphatase E, link phosphatidyl inositol signaling to the ciliopathies. Nat Genet. 2009 Sep;41(9):1032-6. Epub 2009 Aug 9.</reference_text>
+      <pubmed_id>19668216</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

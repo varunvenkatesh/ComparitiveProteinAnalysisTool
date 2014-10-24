@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:12 -0700</creation_date>
+  <update_date>2013-05-27 11:16:17 -0600</update_date>
+  <accession>HMDBP00675</accession>
+  <secondary_accessions>
+    <accession>5948</accession>
+    <accession>HMDBP02424</accession>
+    <accession>HMDBP04869</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>GLS</synonym>
+    <synonym>L-glutaminase</synonym>
+    <synonym>L-glutamine amidohydrolase</synonym>
+    <synonym>SubName: L-glutaminase</synonym>
+  </synonyms>
+  <gene_name>GLS2</gene_name>
+  <general_function>Involved in glutaminase activity</general_function>
+  <specific_function>Plays an important role in the regulation of glutamine catabolism. Promotes mitochondrial respiration and increases ATP generation in cells by catalyzing the synthesis of glutamate and alpha-ketoglutarate. Increases cellular anti-oxidant function via NADH and glutathione production. May play a role in preventing tumor proliferation.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Ammonia Recycling</name>
+      <smpdb_id>SMP00009</smpdb_id>
+      <kegg_map_id>map00910</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glutamate Metabolism</name>
+      <smpdb_id>SMP00072</smpdb_id>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Urea Cycle</name>
+      <smpdb_id>SMP00059</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alanine, aspartate and glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>D-Glutamine and D-glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00471</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glutamatergic synapse</name>
+      <smpdb_id/>
+      <kegg_map_id>map04724</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>GABAergic synapse</name>
+      <smpdb_id/>
+      <kegg_map_id>map04727</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Proximal tubule bicarbonate reclamation</name>
+      <smpdb_id/>
+      <kegg_map_id>map04964</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00641</accession>
+      <name>L-Glutamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03423</accession>
+      <name>D-Glutamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03339</accession>
+      <name>D-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glutaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutaminase activity</description>
+      <go_id>GO:0004359</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular amino acid biosynthetic process</description>
+      <go_id>GO:0008652</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate secretion</description>
+      <go_id>GO:0014047</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamine metabolic process</description>
+      <go_id>GO:0006541</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter secretion</description>
+      <go_id>GO:0007269</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>reactive oxygen species metabolic process</description>
+      <go_id>GO:0072593</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of apoptotic process</description>
+      <go_id>GO:0042981</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q13</locus>
+    <gene_sequence>&gt;1809 bp
+ATGCGCTCCATGAAGGCTCTGCAGAAGGCCCTGAGCCGGGCTGGCAGTCACTGCGGGCGA
+GGAGGCTGGGGTCACCCGAGCCGGAGCCCCCTCCTTGGCGGGGGCGTCCGGCACCACCTC
+AGTGAGGCCGCGGCGCAGGGCAGAGAGACGCCACACAGCCACCAGCCGCAGCACCAGGAT
+CATGATTCATCAGAAAGTGGCATGCTGTCCCGCCTGGGTGATTTGCTCTTTTACACTATT
+GCTGAAGGACAGGAACGAACCCCTATCCACAAGTTCACCACTGCACTAAAGGCCACTGGA
+CTGCAGACATCAGATCCTCGGCTCCGAGACTGCATGAGCGAGATGCACCGCGTGGTCCAA
+GAGTCCAGTAGTGGTGGCCTCTTGGACCGAGATCTCTTCCGAAAGTGTGTGAGCAGCAGC
+ATTGTGCTCCTGACCCAGGCATTCCGAAAGAAGTTTGTCATTCCTGATTTTGAGGAGTTC
+ACGGGCCATGTGGATCGCATCTTTGAGGATGTCAAAGAGCTCACTGGAGGCAAAGTGGCA
+GCCTACATCCCTCAGCTGGCCAAGTCAAACCCAGACCTGTGGGGTGTCTCCCTGTGCACT
+GTGGATGGTCAACGGCACTCTGTGGGCCACACAAAGATCCCCTTCTGCCTGCAGTCCTGT
+GTGAAGCCCCTCACCTATGCCATCTCCATAAGCACCCTAGGCACTGACTACGTGCACAAG
+TTTGTGGGCAAAGAGCCAAGTGGCCTGCGCTACAACAAGCTCTCCCTCGATGAGGAAGGA
+ATCCCCCATAACCCCATGGTCAATGCTGGTGCCATTGTTGTCAGCTCCCTGATCAAGATG
+GACTGTAACAAAGCAGAGAAGTTTGATTTTGTGTTGCAGTATCTCAACAAAATGGCTGGG
+AATGAATACATGGGTTTCAGCAATGCCACATTCCAGTCAGAGAAGGAAACAGGGGATCGG
+AATTATGCCATCGGCTATTATCACGAGGAAAAGAAGTGCTTTCCTAAGGGGGTGGACATG
+ATGGCTGCCCTTGATCTCTACTTCCAGCTGTGTTCTGTGGAGGTCACTTGTGAATCAGGC
+AGTGTCATGGCAGCCACCCTCGCCAACGGTGGGATTTGCCCCATCACAGGCGAGAGTGTG
+CTGAGTGCTGAAGCAGTGCGCAACACCCTCAGCCTCATGCATTCCTGCGGCATGTATGAC
+TTCTCTGGCCAGTTTGCCTTCCACGTGGGCCTGCCAGCCAAGTCAGCTGTATCAGGAGCC
+ATCCTCCTGGTGGTACCCAATGTCATGGGAATGATGTGCCTGTCACCCCCATTGGACAAG
+CTGGGGAACAGCCATAGGGGGACCAGCTTCTGCCAGAAGTTGGTGTCTCTCTTCAATTTC
+CACAACTATGACAACCTGAGGCACTGTGCTCGGAAGTTAGACCCACGGCGTGAAGGGGCA
+GAAATTCGGAACAAGACTGTGGTCAACCTGTTATTTGCTGCCTATAGTGGCGATGTCTCA
+GCTCTTCGAAGGTTTGCCTTGTCAGCCATGGATATGGAACAGAAAGACTATGACTCGCGC
+ACAGCTCTGCATGTTGCTGCAGCTGAAGGACACATCGAAGTTGTTAAATTCCTGATCGAG
+GCTTGCAAAGTGAATCCTTTTGCCAAGGACAGGTGGGGCAACATTCCCCTGGATGATGCT
+GTGCAGTTCAACCATCTGGAGGTGGTCAAACTGCTTCAAGATTACCAGGACTCCTACACA
+CTCTCTGAAACTCAGGCTGAGGCAGCAGCTGAGGCCCTGTCCAAAGAGAACTTAGAAAGC
+ATGGTATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>602</residue_number>
+    <molecular_weight>66322.225</molecular_weight>
+    <theoretical_pi>7.301</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ank</name>
+        <pfam_id>PF00023</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Glutaminase</name>
+        <pfam_id>PF04960</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glutaminase liver isoform, mitochondrial
+MRSMKALQKALSRAGSHCGRGGWGHPSRSPLLGGGVRHHLSEAAAQGRETPHSHQPQHQD
+HDSSESGMLSRLGDLLFYTIAEGQERIPIHKFTTALKATGLQTSDPRLRDCMSEMHRVVQ
+ESSSGGLLDRDLFRKCVSSNIVLLTQAFRKKFVIPDFEEFTGHVDRIFEDVKELTGGKVA
+AYIPQLAKSNPDLWGVSLCTVDGQRHSVGHTKIPFCLQSCVKPLTYAISISTLGTDYVHK
+FVGKEPSGLRYNKLSLNEEGIPHNPMVNAGAIVVSSLIKMDCNKAEKFDFVLQYLNKMAG
+NEYMGFSNATFQSEKETGDRNYAIGYYLKEKKCFPKGVDMMAALDLYFQLCSVEVTCESG
+SVMAATLANGGICPITGESVLSAEAVRNTLSLMHSCGMYDFSGQFAFHVGLPAKSAVSGA
+ILLVVPNVMGMMCLSPPLDKLGNSHRGTSFCQKLVSLFNFHNYDNLRHCARKLDPRREGA
+EIRNKTVVNLLFAAYSGDVSALRRFALSAMDMEQKDYDSRTALHVAAAEGHIEVVKFLIE
+ACKVNPFAKDRWGNIPLDDAVQFNHLEVVKLLQDYQDSYTLSETQAEAAAEALSKENLES
+MV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>6650606</genbank_protein_id>
+  <uniprot_id>Q9UI32</uniprot_id>
+  <uniprot_name>GLSL_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF110330</genbank_gene_id>
+  <genecard_id>GLS2</genecard_id>
+  <geneatlas_id>GLS2</geneatlas_id>
+  <hgnc_id>HGNC:29570</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Gomez-Fabre PM, Aledo JC, Del Castillo-Olivares A, Alonso FJ, Nunez De Castro I, Campos JA, Marquez J: Molecular cloning, sequencing and expression studies of the human breast cancer cell glutaminase. Biochem J. 2000 Jan 15;345 Pt 2:365-75.</reference_text>
+      <pubmed_id>10620514</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olalla L, Aledo JC, Bannenberg G, Marquez J: The C-terminus of human glutaminase L mediates association with PDZ domain-containing proteins. FEBS Lett. 2001 Jan 19;488(3):116-22.</reference_text>
+      <pubmed_id>11163757</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perez-Gomez C, Mates JM, Gomez-Fabre PM, del Castillo-Olivares A, Alonso FJ, Marquez J: Genomic organization and transcriptional analysis of the human l-glutaminase gene. Biochem J. 2003 Mar 15;370(Pt 3):771-84.</reference_text>
+      <pubmed_id>12444921</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sido B, Seel C, Hochlehnert A, Breitkreutz R, Droge W: Low intestinal glutamine level and low glutaminase activity in Crohn's disease: a rational for glutamine supplementation? Dig Dis Sci. 2006 Dec;51(12):2170-9. Epub 2006 Nov 1.</reference_text>
+        <pubmed_id>17078002</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Strohmeier M, Raschle T, Mazurkiewicz J, Rippe K, Sinning I, Fitzpatrick TB, Tews I: Structure of a bacterial pyridoxal 5'-phosphate synthase complex.  Proc Natl Acad Sci U S A. 2006 Dec 19;103(51):19284-9. Epub 2006 Dec 11.</reference_text>
+        <pubmed_id>17159152</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Myers RS, Amaro RE, Luthey-Schulten ZA, Davisson VJ: Reaction coupling through interdomain contacts in imidazole glycerol phosphate synthase. Biochemistry. 2005 Sep 13;44(36):11974-85.</reference_text>
+        <pubmed_id>16142895</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Benlloch M, Mena S, Ferrer P, Obrador E, Asensi M, Pellicer JA, Carretero J, Ortega A, Estrela JM: Bcl-2 and Mn-SOD antisense oligodeoxynucleotides and a glutamine-enriched diet facilitate elimination of highly resistant B16 melanoma cells by tumor necrosis factor-alpha and chemotherapy. J Biol Chem. 2006 Jan 6;281(1):69-79. Epub 2005 Nov 1.</reference_text>
+        <pubmed_id>16263711</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Campos-Sandoval JA, Lopez de la Oliva AR, Lobo C, Segura JA, Mates JM, Alonso FJ, Marquez J: Expression of functional human glutaminase in baculovirus system: affinity purification, kinetic and molecular characterization. Int J Biochem Cell Biol. 2007;39(4):765-73. Epub 2006 Dec 21.</reference_text>
+        <pubmed_id>17267261</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dossena L, Curti B, Vanoni MA: Activation and coupling of the glutaminase and synthase reaction of glutamate synthase is mediated by E1013 of the ferredoxin-dependent enzyme, belonging to loop 4 of the synthase domain. Biochemistry. 2007 Apr 17;46(15):4473-85. Epub 2007 Mar 21.</reference_text>
+        <pubmed_id>17373776</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kita K, Suzuki T, Ochi T: Down-regulation of glutaminase C in human hepatocarcinoma cell by diphenylarsinic acid, a degradation product of chemical warfare agents. Toxicol Appl Pharmacol. 2007 May 1;220(3):262-70. Epub 2007 Jan 24.</reference_text>
+        <pubmed_id>17321558</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yoshimune K, Shirakihara Y, Shiratori A, Wakayama M, Chantawannakul P, Moriguchi M: Crystal structure of a major fragment of the salt-tolerant glutaminase from Micrococcus luteus K-3. Biochem Biophys Res Commun. 2006 Aug 11;346(4):1118-24. Epub 2006 Jun 6.</reference_text>
+        <pubmed_id>16793004</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

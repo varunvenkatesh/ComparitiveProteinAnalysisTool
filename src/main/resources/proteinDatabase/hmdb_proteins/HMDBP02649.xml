@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:07:01 -0700</creation_date>
+  <update_date>2013-04-11 14:05:02 -0600</update_date>
+  <accession>HMDBP02649</accession>
+  <secondary_accessions>
+    <accession>8149</accession>
+    <accession>HMDBP06680</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>D5D</synonym>
+    <synonym>Delta(5) desaturase</synonym>
+    <synonym>Delta(5) fatty acid desaturase</synonym>
+  </synonyms>
+  <gene_name>FADS1</gene_name>
+  <general_function>Involved in heme binding</general_function>
+  <specific_function>Component of a lipid metabolic pathway that catalyzes biosynthesis of highly unsaturated fatty acids (HUFA) from precursor essential polyunsaturated fatty acids (PUFA) linoleic acid (LA) (18:2n-6) and alpha-linolenic acid (ALA) (18:3n-3). Catalyzes the desaturation of dihomo-gamma-linoleic acid (DHGLA) (20:3n-6) and eicosatetraenoic acid (20:4n-3) to generate arachidonic acid (AA) (20:4n-6) and eicosapentaenoic acid (EPA)(20:5n-3) respectively</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01999</accession>
+      <name>Eicosapentaenoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01388</accession>
+      <name>Alpha-Linolenic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q12.2-q13.1</locus>
+    <gene_sequence>&gt;1335 bp
+ATGGCCCCCGACCCGGTGGCCGCCGAGACCGCGGCTCAGGGACCTACCCCGCGCTACTTC
+ACCTGGGACGAGGTGGCCCAGCGCTCAGGGTGCGAGGAGCGGTGGCTAGTGATCGACCGT
+AAGGTGTACAACATCAGCGAGTTCACCCGCCGGCATCCAGGGGGCTCCCGGGTCATCAGC
+CACTACGCCGGGCAGGATGCCACGGATCCCTTTGTGGCCTTCCACATCAACAAGGGCCTT
+GTGAAGAAGTATATGAACTCTCTCCTGATTGGAGAACTGTCTCCAGAGCAGCCCAGCTTT
+GAGCCCACCAAGAATAAAGAGCTGACAGATGAGTTCCGGGAGCTGCGGGCCACAGTGGAG
+CGGATGGGGCTCATGAAGGCCAACCATGTCTTCTTCCTGCTGTACCTGCTGCACATCTTG
+CTGCTGGATGGTGCAGCCTGGCTCACCCTTTGGGTCTTTGGGACGTCCTTTTTGCCCTTC
+CTCCTCTGTGCGGTGCTGCTCAGTGCAGTTCAGGCCCAGGCTGGCTGGCTGCAGCATGAC
+TTTGGGCACCTGTCGGTCTTCAGCACCTCAAAGTGGAACCATCTGCTACATCATTTTGTG
+ATTGGCCACCTGAAGGGGGCCCCCGCCAGTTGGTGGAACCACATGCACTTCCAGCACCAT
+GCCAAGCCCAACTGCTTCCGCAAAGACCCAGACATCAACATGCATCCCTTCTTCTTTGCC
+TTGGGGAAGATCCTCTCTGTGGAGCTTGGGAAACAGAAGAAAAAATATATGCCGTACAAC
+CACCAGCACAAATACTTCTTCCTAATTGGGCCCCCAGCCTTGCTGCCTCTCTACTTCCAG
+TGGTATATTTTCTATTTTGTTATCCAGCGAAAGAAGTGGGTGGACTTGGCCTGGATGATT
+ACCTTCTACGTCCGCTTCTTCCTCACTTATGTGCCACTATTGGGGCTGAAAGCCTTCCTG
+GGCCTTTTCTTCATAGTCAGGTTCCTGGAAAGCAACTGGTTTGTGTGGGTGACACAGATG
+AACCATATTCCCATGCACATTGATCATGACCGGAACATGGACTGGGTTTCCACCCAGCTC
+CAGGCCACATGCAATGTCCACAAGTCTGCCTTCAATGACTGGTTCAGTGGACACCTCAAC
+TTCCAGATTGAGCACCATCTTTTTCCCACGATGCCTCGACACAATTACCACAAAGTGGCT
+CCCCTGGTGCAGTCCTTGTGTGCCAAGCATGGCATAGAGTACCAGTCCAAGCCCCTGCTG
+TCAGCCTTCGCCGACATCATCCACTCACTAAAGGAGTCAGGGCAGCTCTGGCTAGATGCC
+TATCTTCACCAATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>444</residue_number>
+    <molecular_weight>51963.9</molecular_weight>
+    <theoretical_pi>9.15</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Cyt-b5</name>
+        <pfam_id>PF00173</pfam_id>
+      </pfam>
+      <pfam>
+        <name>FA_desaturase</name>
+        <pfam_id>PF00487</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>122-142</region>
+      <region>146-170</region>
+      <region>268-288</region>
+      <region>306-326</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Fatty acid desaturase 1
+MAPDPVAAETAAQGPTPRYFTWDEVAQRSGCEERWLVIDRKVYNISEFTRRHPGGSRVIS
+HYAGQDATDPFVAFHINKGLVKKYMNSLLIGELSPEQPSFEPTKNKELTDEFRELRATVE
+RMGLMKANHVFFLLYLLHILLLDGAAWLTLWVFGTSFLPFLLCAVLLSAVQAQAGWLQHD
+FGHLSVFSTSKWNHLLHHFVIGHLKGAPASWWNHMHFQHHAKPNCFRKDPDINMHPFFFA
+LGKILSVELGKQKKKYMPYNHQHKYFFLIGPPALLPLYFQWYIFYFVIQRKKWVDLAWMI
+TFYVRFFLTYVPLLGLKAFLGLFFIVRFLESNWFVWVTQMNHIPMHIDHDRNMDWVSTQL
+QATCNVHKSAFNDWFSGHLNFQIEHHLFPTMPRHNYHKVAPLVQSLCAKHGIEYQSKPLL
+SAFADIIHSLKESGQLWLDAYLHQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3169158</genbank_protein_id>
+  <uniprot_id>O60427</uniprot_id>
+  <uniprot_name>FADS1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AC004770</genbank_gene_id>
+  <genecard_id>FADS1</genecard_id>
+  <geneatlas_id>FADS1</geneatlas_id>
+  <hgnc_id>HGNC:3574</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Cho HP, Nakamura M, Clarke SD: Cloning, expression, and fatty acid regulation of the human delta-5 desaturase. J Biol Chem. 1999 Dec 24;274(52):37335-9.</reference_text>
+      <pubmed_id>10601301</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leonard AE, Kelder B, Bobik EG, Chuang LT, Parker-Barnes JM, Thurmond JM, Kroeger PE, Kopchick JJ, Huang YS, Mukerji P: cDNA cloning and characterization of human Delta5-desaturase involved in the biosynthesis of arachidonic acid. Biochem J. 2000 May 1;347 Pt 3:719-24.</reference_text>
+      <pubmed_id>10769175</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marquardt A, Stohr H, White K, Weber BH: cDNA cloning, genomic structure, and chromosomal localization of three members of the human fatty acid desaturase family. Genomics. 2000 Jun 1;66(2):175-83.</reference_text>
+      <pubmed_id>10860662</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Eicosapentaenoic acid</name>
+        <accession>HMDB01999</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Barham JB, Edens MB, Fonteh AN, Johnson MM, Easter L, Chilton FH: Addition of eicosapentaenoic acid to gamma-linolenic acid-supplemented diets prevents serum arachidonic acid accumulation in humans. J Nutr. 2000 Aug;130(8):1925-31.</reference_text>
+        <pubmed_id>10917903</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Eicosapentaenoic acid</name>
+        <accession>HMDB01999</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Navarro E, Esteve M, Olive A, Klaassen J, Cabre E, Tena X, Fernandez-Banares F, Pastor C, Gassull MA: Abnormal fatty acid pattern in rheumatoid arthritis. A rationale for treatment with marine and botanical lipids. J Rheumatol. 2000 Feb;27(2):298-303.</reference_text>
+        <pubmed_id>10685788</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Eicosapentaenoic acid</name>
+        <accession>HMDB01999</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Engler MM, Bellenger-Germain SH, Engler MB, Narce MM, Poisson JP: Dietary docosahexaenoic acid affects stearic acid desaturation in spontaneously hypertensive rats. Lipids. 2000 Sep;35(9):1011-5.</reference_text>
+        <pubmed_id>11026622</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Eicosapentaenoic acid</name>
+        <accession>HMDB01999</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chavali SR, Zhong WW, Forse RA: Dietary alpha-linolenic acid increases TNF-alpha, and decreases IL-6, IL-10 in response to LPS: effects of sesamin on the delta-5 desaturation of omega6 and omega3 fatty acids in mice. Prostaglandins Leukot Essent Fatty Acids. 1998 Mar;58(3):185-91.</reference_text>
+        <pubmed_id>9610840</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Eicosapentaenoic acid</name>
+        <accession>HMDB01999</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Watts JL, Browse J: Isolation and characterization of a Delta 5-fatty acid desaturase from Caenorhabditis elegans. Arch Biochem Biophys. 1999 Feb 1;362(1):175-82.</reference_text>
+        <pubmed_id>9917342</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Linolenic acid</name>
+        <accession>HMDB01388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Xiang M, Rahman MA, Ai H, Li X, Harbige LS: Diet and gene expression: delta-5 and delta-6 desaturases in healthy Chinese and European subjects. Ann Nutr Metab. 2006;50(6):492-8. Epub 2006 Sep 19.</reference_text>
+        <pubmed_id>16988497</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Linolenic acid</name>
+        <accession>HMDB01388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Descomps B, Rodriguez A: [Essential fatty acids and prematurity: a triple experimental approach].  C R Seances Soc Biol Fil. 1995;189(5):781-96.</reference_text>
+        <pubmed_id>8673626</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Linolenic acid</name>
+        <accession>HMDB01388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hoffman DR, DeMar JC, Heird WC, Birch DG, Anderson RE: Impaired synthesis of DHA in patients with X-linked retinitis pigmentosa.  J Lipid Res. 2001 Sep;42(9):1395-401.</reference_text>
+        <pubmed_id>11518758</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Linolenic acid</name>
+        <accession>HMDB01388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Maniongui C, Blond JP, Ulmann L, Durand G, Poisson JP, Bezard J: Age-related changes in delta 6 and delta 5 desaturase activities in rat liver microsomes. Lipids. 1993 Apr;28(4):291-7.</reference_text>
+        <pubmed_id>8487621</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Linolenic acid</name>
+        <accession>HMDB01388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mohan IK, Das UN: Effect of L-arginine-nitric oxide system on the metabolism of essential fatty acids in chemical-induced diabetes mellitus. Prostaglandins Leukot Essent Fatty Acids. 2000 Jan;62(1):35-46.</reference_text>
+        <pubmed_id>10765977</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

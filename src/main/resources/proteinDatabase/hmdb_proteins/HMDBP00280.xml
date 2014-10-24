@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:37 -0700</creation_date>
+  <update_date>2013-05-27 11:30:28 -0600</update_date>
+  <accession>HMDBP00280</accession>
+  <secondary_accessions>
+    <accession>5512</accession>
+    <accession>HMDBP05339</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>PAH</synonym>
+    <synonym>Phe-4-monooxygenase</synonym>
+  </synonyms>
+  <gene_name>PAH</gene_name>
+  <general_function>Involved in amino acid binding</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Phenylalanine and Tyrosine Metabolism</name>
+      <smpdb_id>SMP00008</smpdb_id>
+      <kegg_map_id>map00360</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>L-phenylalanine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Phenylalanine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00360</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phenylalanine, tyrosine and tryptophan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00400</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00158</accession>
+      <name>L-Tyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00159</accession>
+      <name>L-Phenylalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00027</accession>
+      <name>Tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02281</accession>
+      <name>4a-Hydroxytetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00068</accession>
+      <name>Epinephrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00216</accession>
+      <name>Norepinephrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00787</accession>
+      <name>Sapropterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15627</accession>
+      <name>Droxidopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59658</accession>
+      <name>L-erythro-tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02215</accession>
+      <name>4a-Carbinolamine tetrahydrobiopterin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phenylalanine 4-monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carboxylic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amino acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>l-phenylalanine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>l-phenylalanine catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>aromatic amino acid family metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>amino acid binding</description>
+      <go_id>GO:0016597</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cofactor binding</description>
+      <go_id>GO:0048037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phenylalanine 4-monooxygenase activity</description>
+      <go_id>GO:0004505</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>catecholamine biosynthetic process</description>
+      <go_id>GO:0042423</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular amino acid biosynthetic process</description>
+      <go_id>GO:0008652</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-phenylalanine catabolic process</description>
+      <go_id>GO:0006559</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter biosynthetic process</description>
+      <go_id>GO:0042136</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein hydroxylation</description>
+      <go_id>GO:0018126</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tetrahydrobiopterin metabolic process</description>
+      <go_id>GO:0046146</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tyrosine biosynthetic process</description>
+      <go_id>GO:0006571</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q22-q24.2</locus>
+    <gene_sequence>&gt;1359 bp
+ATGTCCACTGCGGTCCTGGAAAACCCAGGCTTGGGCAGGAAACTCTCTGACTTTGGACAG
+GAAACAAGCTATATTGAAGACAACTGCAATCAAAATGGTGCCATATCACTGATCTTCTCA
+CTCAAAGAAGAAGTTGGTGCATTGGCCAAAGTATTGCGCTTATTTGAGGAGAATGATGTA
+AACCTGACCCACATTGAATCTAGACCTTCTCGTTTAAAGAAAGATGAGTATGAATTTTTC
+ACCCATTTGGATAAACGTAGCCTGCCTGCTCTGACAAACATCATCAAGATCTTGAGGCAT
+GACATTGGTGCCACTGTCCATGAGCTTTCACGAGATAAGAAGAAAGACACAGTGCCCTGG
+TTCCCAAGAACCATTCAAGAGCTGGACAGATTTGCCAATCAGATTCTCAGCTATGGAGCG
+GAACTGGATGCTGACCACCCTGGTTTTAAAGATCCTGTGTACCGTGCAAGACGGAAGCAG
+TTTGCTGACATTGCCTACAACTACCGCCATGGGCAGCCCATCCCTCGAGTGGAATACATG
+GAGGAAGAAAAGAAAACATGGGGCACAGTGTTCAAGACTCTGAAGTCCTTGTATAAAACC
+CATGCTTGCTATGAGTACAATCACATTTTTCCACTTCTTGAAAAGTACTGTGGCTTCCAT
+GAAGATAACATTCCCCAGCTGGAAGACGTTTCTCAATTCCTGCAGACTTGCACTGGTTTC
+CGCCTCCGACCTGTGGCTGGCCTGCTTTCCTCTCGGGATTTCTTGGGTGGCCTGGCCTTC
+CGAGTCTTCCACTGCACACAGTACATCAGACATGGATCCAAGCCCATGTATACCCCCGAA
+CCTGACATCTGCCATGAGCTGTTGGGACATGTGCCCTTGTTTTCAGATCGCAGCTTTGCC
+CAGTTTTCCCAGGAAATTGGCCTTGCCTCTCTGGGTGCACCTGATGAATACATTGAAAAG
+CTCGCCACAATTTACTGGTTTACTGTGGAGTTTGGGCTCTGCAAACAAGGAGACTCCATA
+AAGGCATATGGTGCTGGGCTCCTGTCATCCTTTGGTGAATTACAGTACTGCTTATCAGAG
+AAGCCAAAGCTTCTCCCCCTGGAGCTGGAGAAGACAGCCATCCAAAATTACACTGTCACG
+GAGTTCCAGCCCCTGTATTACGTGGCAGAGAGTTTTAATGATGCCAAGGAGAAAGTAAGG
+AACTTTGCTGCCACAATACCTCGGCCCTTCTCAGTTCGCTACGACCCATACACCCAAAGG
+ATTGAGGTCTTGGACAATACCCAGCAGCTTAAGATTTTGGCTGATTCCATTAACAGTGAA
+ATTGGAATCCTTTGCAGTGCCCTCCAGAAAATAAAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>452</residue_number>
+    <molecular_weight>51861.565</molecular_weight>
+    <theoretical_pi>6.595</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ACT</name>
+        <pfam_id>PF01842</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Biopterin_H</name>
+        <pfam_id>PF00351</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Phenylalanine-4-hydroxylase
+MSTAVLENPGLGRKLSDFGQETSYIEDNCNQNGAISLIFSLKEEVGALAKVLRLFEENDV
+NLTHIESRPSRLKKDEYEFFTHLDKRSLPALTNIIKILRHDIGATVHELSRDKKKDTVPW
+FPRTIQELDRFANQILSYGAELDADHPGFKDPVYRARRKQFADIAYNYRHGQPIPRVEYM
+EEEKKTWGTVFKTLKSLYKTHACYEYNHIFPLLEKYCGFHEDNIPQLEDVSQFLQTCTGF
+RLRPVAGLLSSRDFLGGLAFRVFHCTQYIRHGSKPMYTPEPDICHELLGHVPLFSDRSFA
+QFSQEIGLASLGAPDEYIEKLATIYWFTVEFGLCKQGDSIKAYGAGLLSSFGELQYCLSE
+KPKLLPLELEKTAIQNYTVTEFQPLYYVAESFNDAKEKVRNFAATIPRPFSVRYDPYTQR
+IEVLDNTQQLKILADSINSEIGILCSALQKIK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>189937</genbank_protein_id>
+  <uniprot_id>P00439</uniprot_id>
+  <uniprot_name>PH4H_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1DMW</pdb_id>
+    <pdb_id>1J8T</pdb_id>
+    <pdb_id>1J8U</pdb_id>
+    <pdb_id>1KW0</pdb_id>
+    <pdb_id>1LRM</pdb_id>
+    <pdb_id>1MMK</pdb_id>
+    <pdb_id>1MMT</pdb_id>
+    <pdb_id>1PAH</pdb_id>
+    <pdb_id>1TDW</pdb_id>
+    <pdb_id>1TG2</pdb_id>
+    <pdb_id>2PAH</pdb_id>
+    <pdb_id>3PAH</pdb_id>
+    <pdb_id>4ANP</pdb_id>
+    <pdb_id>4PAH</pdb_id>
+    <pdb_id>5PAH</pdb_id>
+    <pdb_id>6PAH</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>K03020</genbank_gene_id>
+  <genecard_id>PAH</genecard_id>
+  <geneatlas_id>PAH</geneatlas_id>
+  <hgnc_id>HGNC:8582</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kwok SC, Ledley FD, DiLella AG, Robson KJ, Woo SL: Nucleotide sequence of a full-length complementary DNA clone and amino acid sequence of human phenylalanine hydroxylase. Biochemistry. 1985 Jan 29;24(3):556-61.</reference_text>
+      <pubmed_id>2986678</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cotton RG, McAdam W, Jennings I, Morgan FJ: A monoclonal antibody to aromatic amino acid hydroxylases. Identification of the epitope. Biochem J. 1988 Oct 1;255(1):193-6.</reference_text>
+      <pubmed_id>2461704</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Siltberg-Liberles J, Steen IH, Svebak RM, Martinez A: The phylogeny of the aromatic amino acid hydroxylases revisited by characterizing phenylalanine hydroxylase from Dictyostelium discoideum. Gene. 2008 Dec 31;427(1-2):86-92. Epub 2008 Sep 16.</reference_text>
+      <pubmed_id>18835579</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Erlandsen H, Fusetti F, Martinez A, Hough E, Flatmark T, Stevens RC: Crystal structure of the catalytic domain of human phenylalanine hydroxylase reveals the structural basis for phenylketonuria. Nat Struct Biol. 1997 Dec;4(12):995-1000.</reference_text>
+      <pubmed_id>9406548</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Erlandsen H, Flatmark T, Stevens RC, Hough E: Crystallographic analysis of the human phenylalanine hydroxylase catalytic domain with bound catechol inhibitors at 2.0 A resolution. Biochemistry. 1998 Nov 10;37(45):15638-46.</reference_text>
+      <pubmed_id>9843368</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fusetti F, Erlandsen H, Flatmark T, Stevens RC: Structure of tetrameric human phenylalanine hydroxylase and its implications for phenylketonuria. J Biol Chem. 1998 Jul 3;273(27):16962-7.</reference_text>
+      <pubmed_id>9642259</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Erlandsen H, Bjorgo E, Flatmark T, Stevens RC: Crystal structure and site-specific mutagenesis of pterin-bound human phenylalanine hydroxylase. Biochemistry. 2000 Mar 7;39(9):2208-17.</reference_text>
+      <pubmed_id>10694386</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Andersen OA, Flatmark T, Hough E: High resolution crystal structures of the catalytic domain of human phenylalanine hydroxylase in its catalytically active Fe(II) form and binary complex with tetrahydrobiopterin. J Mol Biol. 2001 Nov 23;314(2):279-91.</reference_text>
+      <pubmed_id>11718561</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Konecki DS, Lichter-Konecki U: The phenylketonuria locus: current knowledge about alleles and mutations of the phenylalanine hydroxylase gene in various populations. Hum Genet. 1991 Aug;87(4):377-88.</reference_text>
+      <pubmed_id>1679029</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cotton RG: Heterogeneity of phenylketonuria at the clinical, protein and DNA levels.  J Inherit Metab Dis. 1990;13(5):739-50.</reference_text>
+      <pubmed_id>2246858</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eisensmith RC, Woo SL: Molecular basis of phenylketonuria and related hyperphenylalaninemias: mutations and polymorphisms in the human phenylalanine hydroxylase gene. Hum Mutat. 1992;1(1):13-23.</reference_text>
+      <pubmed_id>1301187</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoang L, Byck S, Prevost L, Scriver CR: PAH Mutation Analysis Consortium Database: a database for disease-producing and other allelic variation at the human PAH locus. Nucleic Acids Res. 1996 Jan 1;24(1):127-31.</reference_text>
+      <pubmed_id>8594560</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lichter-Konecki U, Konecki DS, DiLella AG, Brayton K, Marvit J, Hahn TM, Trefz FK, Woo SL: Phenylalanine hydroxylase deficiency caused by a single base substitution in an exon of the human phenylalanine hydroxylase gene. Biochemistry. 1988 Apr 19;27(8):2881-5.</reference_text>
+      <pubmed_id>2840952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lyonnet S, Caillaud C, Rey F, Berthelon M, Frezal J, Rey J, Munnich A: Molecular genetics of phenylketonuria in Mediterranean countries: a mutation associated with partial phenylalanine hydroxylase deficiency. Am J Hum Genet. 1989 Apr;44(4):511-7.</reference_text>
+      <pubmed_id>2564729</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hofman KJ, Antonarakis SE, Missiou-Tsangaraki S, Boehm CD, Valle D: Phenylketonuria in the Greek population. Haplotype analysis of the phenylalanine hydroxylase gene and identification of a PKU mutation. Mol Biol Med. 1989 Jun;6(3):245-50.</reference_text>
+      <pubmed_id>2615649</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Svensson E, Andersson B, Hagenfeldt L: Two mutations within the coding sequence of the phenylalanine hydroxylase gene. Hum Genet. 1990 Aug;85(3):300-4.</reference_text>
+      <pubmed_id>1975559</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dianzani I, Forrest SM, Camaschella C, Saglio G, Ponzone A, Cotton RG: Screening for mutations in the phenylalanine hydroxylase gene from Italian patients with phenylketonuria by using the chemical cleavage method: a new splice mutation. Am J Hum Genet. 1991 Mar;48(3):631-5.</reference_text>
+      <pubmed_id>1671810</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hofman KJ, Steel G, Kazazian HH, Valle D: Phenylketonuria in U.S. blacks: molecular analysis of the phenylalanine hydroxylase gene. Am J Hum Genet. 1991 Apr;48(4):791-8.</reference_text>
+      <pubmed_id>2014802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Okano Y, Wang T, Eisensmith RC, Longhi R, Riva E, Giovannini M, Cerone R, Romano C, Woo SL: Phenylketonuria missense mutations in the Mediterranean.  Genomics. 1991 Jan;9(1):96-103.</reference_text>
+      <pubmed_id>1672294</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dworniczak B, Grudda K, Stumper J, Bartholome K, Aulehla-Scholz C, Horst J: Phenylalanine hydroxylase gene: novel missense mutation in exon 7 causing severe phenylketonuria. Genomics. 1991 Jan;9(1):193-9.</reference_text>
+      <pubmed_id>1672290</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Konecki DS, Schlotter M, Trefz FK, Lichter-Konecki U: The identification of two mis-sense mutations at the PAH gene locus in a Turkish patient with phenylketonuria. Hum Genet. 1991 Aug;87(4):389-93.</reference_text>
+      <pubmed_id>1679030</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Caillaud C, Lyonnet S, Rey F, Melle D, Frebourg T, Berthelon M, Vilarinho L, Vaz Osorio R, Rey J, Munnich A: A 3-base pair in-frame deletion of the phenylalanine hydroxylase gene results in a kinetic variant of phenylketonuria. J Biol Chem. 1991 May 25;266(15):9351-4.</reference_text>
+      <pubmed_id>1709636</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Economou-Petersen E, Henriksen KF, Guldberg P, Guttler F: Molecular basis for nonphenylketonuria hyperphenylalaninemia.  Genomics. 1992 Sep;14(1):1-5.</reference_text>
+      <pubmed_id>1358789</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin CH, Hsiao KJ, Tsai TF, Chao HK, Su TS: Identification of a missense phenylketonuria mutation at codon 408 in Chinese. Hum Genet. 1992 Aug;89(6):593-6.</reference_text>
+      <pubmed_id>1355066</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jaruzelska J, Melle D, Matuszak R, Borski K, Munnich A: A new 15 bp deletion in exon 11 of the phenylalanine hydroxylase gene in phenylketonuria. Hum Mol Genet. 1992 Dec;1(9):763-4.</reference_text>
+      <pubmed_id>1363837</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Desviat LR, Perez B, Ugarte M: A new PKU mutation associated with haplotype 12.  Hum Mol Genet. 1992 Dec;1(9):765-6.</reference_text>
+      <pubmed_id>1363838</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guldberg P, Henriksen KF, Guttler F: Molecular analysis of phenylketonuria in Denmark: 99% of the mutations detected by denaturing gradient gel electrophoresis. Genomics. 1993 Jul;17(1):141-6.</reference_text>
+      <pubmed_id>8406445</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Abadie V, Jaruzelska J, Lyonnet S, Millasseau P, Berthelon M, Rey F, Munnich A, Rey J: Illegitimate transcription of the phenylalanine hydroxylase gene in lymphocytes for identification of mutations in phenylketonuria. Hum Mol Genet. 1993 Jan;2(1):31-4.</reference_text>
+      <pubmed_id>8098245</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goebel-Schreiner B, Schreiner R: Identification of a new missense mutation in Japanese phenylketonuric patients. J Inherit Metab Dis. 1993;16(6):950-6.</reference_text>
+      <pubmed_id>8068076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guldberg P, Henriksen KF, Thony B, Blau N, Guttler F: Molecular heterogeneity of nonphenylketonuria hyperphenylalaninemia in 25 Danish patients. Genomics. 1994 May 15;21(2):453-5.</reference_text>
+      <pubmed_id>8088845</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Benit P, Rey F, Melle D, Munnich A, Rey J: Five novel missense mutations of the phenylalanine hydroxylase gene in phenylketonuria. Hum Mutat. 1994;4(3):229-31.</reference_text>
+      <pubmed_id>7833954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Knappskog PM, Eiken HG, Martinez A, Bruland O, Apold J, Flatmark T: PKU mutation (D143G) associated with an apparent high residual enzyme activity: expression of a kinetic variant form of phenylalanine hydroxylase in three different systems. Hum Mutat. 1996;8(3):236-46.</reference_text>
+      <pubmed_id>8889583</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guldberg P, Mallmann R, Henriksen KF, Guttler F: Phenylalanine hydroxylase deficiency in a population in Germany: mutational profile and nine novel mutations. Hum Mutat. 1996;8(3):276-9.</reference_text>
+      <pubmed_id>8889590</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Argiolas A, Bosco P, Cali F, Ceratto N, Anello G, Riva E, Biasucci G, Carducci C, Romano V: Two novel PAH gene mutations detected in Italian phenylketonuric patients.  Hum Genet. 1997 Feb;99(2):275-8.</reference_text>
+      <pubmed_id>9048935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Byck S, Tyfield L, Carter K, Scriver CR: Prediction of multiple hypermutable codons in the human PAH gene: codon 280 contains recurrent mutations in Quebec and other populations. Hum Mutat. 1997;9(4):316-21.</reference_text>
+      <pubmed_id>9101291</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Waters PJ, Parniak MA, Nowacki P, Scriver CR: In vitro expression analysis of mutations in phenylalanine hydroxylase: linking genotype to phenotype and structure to function. Hum Mutat. 1998;11(1):4-17.</reference_text>
+      <pubmed_id>9450897</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bosco P, Cali F, Meli C, Mollica F, Zammarchi E, Cerone R, Vanni C, Palillo L, Greco D, Romano V: Eight new mutations of the phenylalanine hydroxylase gene in Italian patients with hyperphenylalaninemia. Hum Mutat. 1998;11(3):240-3.</reference_text>
+      <pubmed_id>9521426</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Lucca M, Perez B, Desviat LR, Ugarte M: Molecular basis of phenylketonuria in Venezuela: presence of two novel null mutations. Hum Mutat. 1998;11(5):354-9.</reference_text>
+      <pubmed_id>9600453</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mallolas J, Campistol J, Lambruschini N, Vilaseca MA, Cambra FJ, Estivill X, Mila M: Two novel mutations in exon 11 of the PAH gene (V1163del TG and P362T) associated with classic phenylketonuira and mild phenylketonuria. Mutations in brief no. 143. Online. Hum Mutat. 1998;11(6):482.</reference_text>
+      <pubmed_id>10200057</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park YS, Seoung CS, Lee SW, Oh KH, Lee DH, Yim J: Identification of three novel mutations in Korean phenylketonuria patients: R53H, N207D, and Y325X. Hum Mutat. 1998;Suppl 1:S121-2.</reference_text>
+      <pubmed_id>9452061</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Michiels L, Francois B, Raus J, Vandevyver C: Identification of seven new mutations in the phenylalanine hydroxylase gene, associated with hyperphenylalaninemia in the Belgian population. Hum Mutat. 1998;Suppl 1:S123-4.</reference_text>
+      <pubmed_id>9452062</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Popescu T, Blazkova M, Kozak L, Jebeleanu G, Popescu A: Mutation spectrum and phenylalanine hydroxylase RFLP/VNTR background in 44 Romanian phenylketonuric alleles. Hum Mutat. 1998;12(5):314-9.</reference_text>
+      <pubmed_id>9792407</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Waters PJ, Parniak MA, Hewson AS, Scriver CR: Alterations in protein aggregation and degradation due to mild and severe missense mutations (A104D, R157N) in the human phenylalanine hydroxylase gene (PAH). Hum Mutat. 1998;12(5):344-54.</reference_text>
+      <pubmed_id>9792411</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kibayashi M, Nagao M, Chiba S: Mutation analysis of the phenylalanine hydroxylase gene and its clinical implications in two Japanese patients with non-phenylketonuria hyperphenylalaninemia. J Hum Genet. 1998;43(4):231-6.</reference_text>
+      <pubmed_id>9852673</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hennermann JB, Vetter B, Wolf C, Windt E, Buhrdel P, Seidel J, Monch E, Kulozik AE: Phenylketonuria and hyperphenylalaninemia in eastern Germany: a characteristic molecular profile and 15 novel mutations. Hum Mutat. 2000;15(3):254-60.</reference_text>
+      <pubmed_id>10679941</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gjetting T, Petersen M, Guldberg P, Guttler F: Missense mutations in the N-terminal domain of human phenylalanine hydroxylase interfere with binding of regulatory phenylalanine. Am J Hum Genet. 2001 Jun;68(6):1353-60. Epub 2001 Apr 20.</reference_text>
+      <pubmed_id>11326337</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Acosta A, Silva W Jr, Carvalho T, Gomes M, Zago M: Mutations of the phenylalanine hydroxylase (PAH) gene in Brazilian patients with phenylketonuria. Hum Mutat. 2001 Feb;17(2):122-30.</reference_text>
+      <pubmed_id>11180595</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang Y, Drummond-Borg M, Garcia-Heras J: Molecular analysis of phenylketonuria (PKU) in newborns from Texas.  Hum Mutat. 2001 Jun;17(6):523.</reference_text>
+      <pubmed_id>11385716</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gjetting T, Romstad A, Haavik J, Knappskog PM, Acosta AX, Silva WA Jr, Zago MA, Guldberg P, Guttler F: A phenylalanine hydroxylase amino acid polymorphism with implications for molecular diagnostics. Mol Genet Metab. 2001 Jul;73(3):280-4.</reference_text>
+      <pubmed_id>11461196</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Thorolfsson M, Ibarra-Molero B, Fojan P, Petersen SB, Sanchez-Ruiz JM, Martinez A: L-phenylalanine binding and domain organization in human phenylalanine hydroxylase: a differential scanning calorimetry study. Biochemistry. 2002 Jun 18;41(24):7573-85.</reference_text>
+        <pubmed_id>12056888</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pueschel SM, Boylan J, Ellenbogen R: Studies on experimentally induced hyperphenylalaninemia.  J Ment Defic Res. 1988 Aug;32 ( Pt 4):309-19.</reference_text>
+        <pubmed_id>2975336</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nagasaki Y, Matsubara Y, Takano H, Fujii K, Senoo M, Akanuma J, Takahashi K, Kure S, Hara M, Kanegae Y, Saito I, Narisawa K: Reversal of hypopigmentation in phenylketonuria mice by adenovirus-mediated gene transfer. Pediatr Res. 1999 Apr;45(4 Pt 1):465-73.</reference_text>
+        <pubmed_id>10203136</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fusetti F, Erlandsen H, Flatmark T, Stevens RC: Structure of tetrameric human phenylalanine hydroxylase and its implications for phenylketonuria. J Biol Chem. 1998 Jul 3;273(27):16962-7.</reference_text>
+        <pubmed_id>9642259</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Phenylalanine</name>
+        <accession>HMDB00159</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Stokka AJ, Flatmark T: Substrate-induced conformational transition in human phenylalanine hydroxylase as studied by surface plasmon resonance analyses: the effect of terminal deletions, substrate analogues and phosphorylation. Biochem J. 2003 Feb 1;369(Pt 3):509-18.</reference_text>
+        <pubmed_id>12379147</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tetrahydrobiopterin</name>
+        <accession>HMDB00027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Andersen OA, Flatmark T, Hough E: High resolution crystal structures of the catalytic domain of human phenylalanine hydroxylase in its catalytically active Fe(II) form and binary complex with tetrahydrobiopterin. J Mol Biol. 2001 Nov 23;314(2):279-91.</reference_text>
+        <pubmed_id>11718561</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martinez A, Andersson KK, Haavik J, Flatmark T: EPR and 1H-NMR spectroscopic studies on the paramagnetic iron at the active site of phenylalanine hydroxylase and its interaction with substrates and inhibitors. Eur J Biochem. 1991 Jun 15;198(3):675-82.</reference_text>
+        <pubmed_id>1646718</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martinez A, Haavik J, Flatmark T: Cooperative homotropic interaction of L-noradrenaline with the catalytic site of phenylalanine 4-monooxygenase. Eur J Biochem. 1990 Oct 5;193(1):211-9.</reference_text>
+        <pubmed_id>2226440</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Molinoff PB: The regulation of the noradrenergic neuron.  J Psychiatr Res. 1974;11:339-45.</reference_text>
+        <pubmed_id>4156788</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Droxidopa</name>
+        <accession>HMDB15627</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martinez A, Andersson KK, Haavik J, Flatmark T: EPR and 1H-NMR spectroscopic studies on the paramagnetic iron at the active site of phenylalanine hydroxylase and its interaction with substrates and inhibitors. Eur J Biochem. 1991 Jun 15;198(3):675-82.</reference_text>
+        <pubmed_id>1646718</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Droxidopa</name>
+        <accession>HMDB15627</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martinez A, Haavik J, Flatmark T: Cooperative homotropic interaction of L-noradrenaline with the catalytic site of phenylalanine 4-monooxygenase. Eur J Biochem. 1990 Oct 5;193(1):211-9.</reference_text>
+        <pubmed_id>2226440</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Droxidopa</name>
+        <accession>HMDB15627</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Molinoff PB: The regulation of the noradrenergic neuron.  J Psychiatr Res. 1974;11:339-45.</reference_text>
+        <pubmed_id>4156788</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

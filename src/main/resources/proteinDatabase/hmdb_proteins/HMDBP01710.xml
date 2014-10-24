@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:48 -0700</creation_date>
+  <update_date>2013-01-15 18:58:48 -0700</update_date>
+  <accession>HMDBP01710</accession>
+  <secondary_accessions>
+    <accession>7050</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ACE</synonym>
+    <synonym>Angiotensin-converting enzyme, soluble form</synonym>
+    <synonym>CD143 antigen</synonym>
+    <synonym>Dipeptidyl carboxypeptidase I</synonym>
+    <synonym>Kininase II</synonym>
+  </synonyms>
+  <gene_name>ACE</gene_name>
+  <general_function>Involved in metallopeptidase activity</general_function>
+  <specific_function>Converts angiotensin I to angiotensin II by release of the terminal His-Leu, this results in an increase of the vasoconstrictor activity of angiotensin. Also able to inactivate bradykinin, a potent vasodilator. Has also a glycosidase activity which releases GPI-anchored proteins from the membrane by cleaving the mannose linkage in the GPI moiety</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01035</accession>
+      <name>Angiotensin II</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01303</accession>
+      <name>Zinc (II) ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04246</accession>
+      <name>Bradykinin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01938</accession>
+      <name>Lisinopril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14324</accession>
+      <name>Ramipril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14635</accession>
+      <name>Fosinopril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14660</accession>
+      <name>Trandolapril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14682</accession>
+      <name>Benazepril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14722</accession>
+      <name>Enalapril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14754</accession>
+      <name>Candoxatril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14829</accession>
+      <name>Moexipril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14928</accession>
+      <name>Perindopril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15019</accession>
+      <name>Quinapril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15311</accession>
+      <name>Rescinnamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15328</accession>
+      <name>Captopril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15433</accession>
+      <name>Cilazapril</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15438</accession>
+      <name>Spirapril</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>exopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidyl-dipeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity, acting on l-amino acid peptides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metallopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proteolysis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>17q23.3</locus>
+    <gene_sequence>&gt;3921 bp
+ATGGGGGCCGCCTCGGGCCGCCGGGGGCCGGGGCTGCTGCTGCCGCTGCCGCTGCTGTTG
+CTGCTGCCGCCGCAGCCCGCCCTGGCGTTGGACCCCGGGCTGCAGCCCGGCAACTTTTCT
+GCTGACGAGGCCGGGGCGCAGCTCTTCGCGCAGAGCTACAACTCCAGCGCCGAACAGGTG
+CTGTTCCAGAGCGTGGCCGCCAGCTGGGCGCACGACACCAACATCACCGCGGAGAATGCA
+AGGCGCCAGGAGGAAGCAGCCCTGCTCAGCCAGGAGTTTGCGGAGGCCTGGGGCCAGAAG
+GCCAAGGAGCTGTATGAACCGATCTGGCAGAACTTCACGGACCCGCAGCTGCGCAGGATC
+ATCGGAGCTGTGCGAACCCTGGGCTCTGCCAACCTGCCCCTGGCTAAGCGGCAGCAGTAC
+AACGCCCTGCTAAGCAACATGAGCAGGATCTACTCCACCGCCAAGGTCTGCCTCCCCAAC
+AAGACTGCCACCTGCTGGTCCCTGGACCCAGATCTCACCAACATCCTGGCTTCCTCGCGA
+AGCTACGCCATGCTCCTGTTTGCCTGGGAGGGCTGGCACAACGCTGCGGGCATCCCGCTG
+AAACCGCTGTACGAGGATTTCACTGCCCTCAGCAATGAAGCCTACAAGCAGGACGGCTTC
+ACAGACACGGGGGCCTACTGGCGCTCCTGGTACAACTCCCCCACCTTCGAGGACGATCTG
+GAACACCTCTACCAACAGCTAGAGCCCCTCTACCTGAACCTCCATGCCTTCGTCCGCCGC
+GCACTGCATCGCCGATACGGAGACAGATACATCAACCTCAGGGGACCCATCCCTGCTCAT
+CTGCTGGGAGACATGTGGGCCCAGAGCTGGGAAAACATCTACGACATGGTGGTGCCTTTC
+CCAGACAAGCCCAACCTCGATGTCACCAGTACTATGCTGCAGCAGGGCTGGAACGCCACG
+CACATGTTCCGGGTGGCAGAGGAGTTCTTCACCTCCCTGGAGCTCTCCCCCATGCCTCCC
+GAGTTCTGGGAAGGGTCGATGCTGGAGAAGCCGGCCGACGGGCGGGAAGTGGTGTGCCAC
+GCCTCGGCTTGGGACTTCTACAACAGGAAAGACTTCAGGATCAAGCAGTGCACACGGGTC
+ACGATGGACCAGCTCTCCACAGTGCACCATGAGATGGGCCATATACAGTACTACCTGCAG
+TACAAGGATCTGCCCGTCTCCCTGCGTCGGGGGGCCAACCCCGGCTTCCATGAGGCCATT
+GGGGACGTGCTGGCGCTCTCGGTCTCCACTCCTGAACATCTGCACAAAATCGGCCTGCTG
+GACCGTGTCACCAATGACACGGAAAGTGACATCAATTACTTGCTAAAAATGGCACTGGAA
+AAAATTGCCTTCCTGCCCTTTGGCTACTTGGTGGACCAGTGGCGCTGGGGGGTCTTTAGT
+GGGCGTACCCCCCCTTCCCGCTACAACTTCGACTGGTGGTATCTTCGAACCAAGTATCAG
+GGGATCTGTCCTCCTGTTACCCGAAACGAAACCCACTTTGATGCTGGAGCTAAGTTTCAT
+GTTCCAAATGTGACACCATACATCAGGTACTTTGTGAGTTTTGTCCTGCAGTTCCAGTTC
+CATGAAGCCCTGTGCAAGGAGGCAGGCTATGAGGGCCCACTGCACCAGTGTGACATCTAC
+CGGTCCACCAAGGCAGGGGCCAAGCTCCGGAAGGTGCTGCAGGCTGGCTCCTCCAGGCCC
+TGGCAGGAGGTGCTGAAGGACATGGTCGGCTTAGATGCCCTGGATGCCCAGCCGCTGCTC
+AAGTACTTCCAGCCAGTCACCCAGTGGCTGCAGGAGCAGAACCAGCAGAACGGCGAGGTC
+CTGGGCTGGCCCGAGTACCAGTGGCACCCGCCGTTGCCTGACAACTACCCGGAGGGCATA
+GACCTGGTGACTGATGAGGCTGAGGCCAGCAAGTTTGTGGAGGAATATGACCGGACATCC
+CAGGTGGTGTGGAACGAGTATGCCGAGGCCAACTGGAACTACAACACCAACATCACCACA
+GAGACCAGCAAGATTCTGCTGCAGAAGAACATGCAAATAGCCAACCACACCCTGAAGTAC
+GGCACCCAGGCCAGGAAGTTTGATGTGAACCAGTTGCAGAACACCACTATCAAGCGGATC
+ATAAAGAAGGTTCAGGACCTAGAACGGGCAGCGCTGCCTGCCCAGGAGCTGGAGGAGTAC
+AACAAGATCCTGTTGGATATGGAAACCACCTACAGCGTGGCCACTGTGTGCCACCCGAAT
+GGCAGCTGCCTGCAGCTCGAGCCAGATCTGACGAATGTGATGGCCACATCCCGGAAATAT
+GAAGACCTGTTATGGGCATGGGAGGGCTGGCGAGACAAGGCGGGGAGAGCCATCCTCCAG
+TTTTACCCGAAATACGTGGAACTCATCAACCAGGCTGCCCGGCTCAATGGCTATGTAGAT
+GCAGGGGACTCGTGGAGGTCTATGTACGAGACACCATCCCTGGAGCAAGACCTGGAGCGG
+CTCTTCCAGGAGCTGCAGCCACTCTACCTCAACCTGCATGCCTACGTGCGCCGGGCCCTG
+CACCGTCACTACGGGGCCCAGCACATCAACCTGGAGGGGCCCATTCCTGCTCACCTGCTG
+GGGAACATGTGGGCGCAGACCTGGTCCAACATCTATGACTTGGTGGTGCCCTTCCCTTCA
+GCCCCCTCGATGGACACCACAGAGGCTATGCTAAAGCAGGGCTGGACGCCCAGGAGGATG
+TTTAAGGAGGCTGATGATTTCTTCACCTCCCTGGGGCTGCTGCCCGTGCCTCCTGAGTTC
+TGGAACAAGTCGATGCTGGAGAAGCCAACCGACGGGCGGGAGGTGGTCTGCCACGCCTCG
+GCCTGGGACTTCTACAACGGCAAGGACTTCCGGATCAAGCAGTGCACCACCGTGAACTTG
+GAGGACCTGGTGGTGGCCCACCACGAAATGGGCCACATCCAGTATTTCATGCAGTACAAA
+GACTTACCTGTGGCCTTGAGGGAGGGTGCCAACCCCGGCTTCCATGAGGCCATTGGGGAC
+GTGCTAGCCCTCTCAGTGTCTACGCCCAAGCACCTGCACAGTCTCAACCTGCTGAGCAGT
+GAGGGTGGCAGCGACGAGCATGACATCAACTTTCTGATGAAGATGGCCCTTGACAAGATC
+GCCTTTATCCCCTTCAGCTACCTCGTCGATCAGTGGCGCTGGAGGGTATTTGATGGAAGC
+ATCACCAAGGAGAACTATAACCAGGAGTGGTGGAGCCTCAGGCTGAAGTACCAGGGCCTC
+TGCCCCCCAGTGCCCAGGACTCAAGGTGACTTTGACCCAGGGGCCAAGTTCCACATTCCT
+TCTAGCGTGCCTTACATCAGGTACTTTGTCAGCTTCATCATCCAGTTCCAGTTCCACGAG
+GCACTGTGCCAGGCAGCTGGCCACACGGGCCCCCTGCACAAGTGTGACATCTACCAGTCC
+AAGGAGGCCGGGCAGCGCCTGGCGACCGCCATGAAGCTGGGCTTCAGTAGGCCGTGGCCG
+GAAGCCATGCAGCTGATCACGGGCCAGCCCAACATGAGCGCCTCGGCCATGTTGAGCTAC
+TTCAAGCCGCTGCTGGACTGGCTCCGCACGGAGAACGAGCTGCATGGGGAGAAGCTGGGC
+TGGCCGCAGTACAACTGGACGCCGAACTCCGCTCGCTCAGAAGGGCCCCTCCCAGACAGC
+GGCCGCGTCAGCTTCCTGGGCCTGGACCTGGATGCGCAGCAGGCCCGCGTGGGCCAGTGG
+CTGCTGCTCTTCCTGGGCATCGCCCTGCTGGTAGCCACCCTGGGCCTCAGCCAGCGGCTC
+TTCAGCATCCGCCACCGCAGCCTCCACCGGCACTCCCACGGGCCCCAGTTCGGCTCCGAG
+GTGGAGCTGAGACACTCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1306</residue_number>
+    <molecular_weight>149713.7</molecular_weight>
+    <theoretical_pi>6.36</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Peptidase_M2</name>
+        <pfam_id>PF01401</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>1257-1277</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-29</region>
+    </signal_regions>
+    <protein_sequence>&gt;Angiotensin-converting enzyme
+MGAASGRRGPGLLLPLPLLLLLPPQPALALDPGLQPGNFSADEAGAQLFAQSYNSSAEQV
+LFQSVAASWAHDTNITAENARRQEEAALLSQEFAEAWGQKAKELYEPIWQNFTDPQLRRI
+IGAVRTLGSANLPLAKRQQYNALLSNMSRIYSTAKVCLPNKTATCWSLDPDLTNILASSR
+SYAMLLFAWEGWHNAAGIPLKPLYEDFTALSNEAYKQDGFTDTGAYWRSWYNSPTFEDDL
+EHLYQQLEPLYLNLHAFVRRALHRRYGDRYINLRGPIPAHLLGDMWAQSWENIYDMVVPF
+PDKPNLDVTSTMLQQGWNATHMFRVAEEFFTSLELSPMPPEFWEGSMLEKPADGREVVCH
+ASAWDFYNRKDFRIKQCTRVTMDQLSTVHHEMGHIQYYLQYKDLPVSLRRGANPGFHEAI
+GDVLALSVSTPEHLHKIGLLDRVTNDTESDINYLLKMALEKIAFLPFGYLVDQWRWGVFS
+GRTPPSRYNFDWWYLRTKYQGICPPVTRNETHFDAGAKFHVPNVTPYIRYFVSFVLQFQF
+HEALCKEAGYEGPLHQCDIYRSTKAGAKLRKVLQAGSSRPWQEVLKDMVGLDALDAQPLL
+KYFQPVTQWLQEQNQQNGEVLGWPEYQWHPPLPDNYPEGIDLVTDEAEASKFVEEYDRTS
+QVVWNEYAEANWNYNTNITTETSKILLQKNMQIANHTLKYGTQARKFDVNQLQNTTIKRI
+IKKVQDLERAALPAQELEEYNKILLDMETTYSVATVCHPNGSCLQLEPDLTNVMATSRKY
+EDLLWAWEGWRDKAGRAILQFYPKYVELINQAARLNGYVDAGDSWRSMYETPSLEQDLER
+LFQELQPLYLNLHAYVRRALHRHYGAQHINLEGPIPAHLLGNMWAQTWSNIYDLVVPFPS
+APSMDTTEAMLKQGWTPRRMFKEADDFFTSLGLLPVPPEFWNKSMLEKPTDGREVVCHAS
+AWDFYNGKDFRIKQCTTVNLEDLVVAHHEMGHIQYFMQYKDLPVALREGANPGFHEAIGD
+VLALSVSTPKHLHSLNLLSSEGGSDEHDINFLMKMALDKIAFIPFSYLVDQWRWRVFDGS
+ITKENYNQEWWSLRLKYQGLCPPVPRTQGDFDPGAKFHIPSSVPYIRYFVSFIIQFQFHE
+ALCQAAGHTGPLHKCDIYQSKEAGQRLATAMKLGFSRPWPEAMQLITGQPNMSASAMLSY
+FKPLLDWLRTENELHGEKLGWPQYNWTPNSARSEGPLPDSGRVSFLGLDLDAQQARVGQW
+LLLFLGIALLVATLGLSQRLFSIRHRSLHRHSHGPQFGSEVELRHS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P12821</uniprot_id>
+  <uniprot_name>ACE_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1UZF</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>J04144</genbank_gene_id>
+  <genecard_id>ACE</genecard_id>
+  <geneatlas_id>ACE</geneatlas_id>
+  <hgnc_id>HGNC:2707</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Soubrier F, Alhenc-Gelas F, Hubert C, Allegrini J, John M, Tregear G, Corvol P: Two putative active centers in human angiotensin I-converting enzyme revealed by molecular cloning. Proc Natl Acad Sci U S A. 1988 Dec;85(24):9386-90.</reference_text>
+      <pubmed_id>2849100</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lattion AL, Soubrier F, Allegrini J, Hubert C, Corvol P, Alhenc-Gelas F: The testicular transcript of the angiotensin I-converting enzyme encodes for the ancestral, non-duplicated form of the enzyme. FEBS Lett. 1989 Jul 31;252(1-2):99-104.</reference_text>
+      <pubmed_id>2547653</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ehlers MR, Fox EA, Strydom DJ, Riordan JF: Molecular cloning of human testicular angiotensin-converting enzyme: the testis isozyme is identical to the C-terminal half of endothelial angiotensin-converting enzyme. Proc Natl Acad Sci U S A. 1989 Oct;86(20):7741-5.</reference_text>
+      <pubmed_id>2554286</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rieder MJ, Taylor SL, Clark AG, Nickerson DA: Sequence variation in the human angiotensin converting enzyme.  Nat Genet. 1999 May;22(1):59-62.</reference_text>
+      <pubmed_id>10319862</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeuchi K, Shimizu T, Ohishi N, Seyama Y, Takaku F, Yotsumoto H: Purification of human lung angiotensin-converting enzyme by high-performance liquid chromatography: properties and N-terminal amino acid sequence. J Biochem (Tokyo). 1989 Sep;106(3):442-5.</reference_text>
+      <pubmed_id>2558109</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sugimura K, Tian XL, Hoffmann S, Ganten D, Bader M: Alternative splicing of the mRNA coding for the human endothelial angiotensin-converting enzyme: a new mechanism for solubilization. Biochem Biophys Res Commun. 1998 Jun 18;247(2):466-72.</reference_text>
+      <pubmed_id>9642152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ehlers MR, Riordan JF: Angiotensin-converting enzyme: zinc- and inhibitor-binding stoichiometries of the somatic and testis isozymes. Biochemistry. 1991 Jul 23;30(29):7118-26.</reference_text>
+      <pubmed_id>1649623</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sturrock ED, Yu XC, Wu Z, Biemann K, Riordan JF: Assignment of free and disulfide-bonded cysteine residues in testis angiotensin-converting enzyme: functional implications. Biochemistry. 1996 Jul 23;35(29):9560-6.</reference_text>
+      <pubmed_id>8755737</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu XC, Sturrock ED, Wu Z, Biemann K, Ehlers MR, Riordan JF: Identification of N-linked glycosylation sites in human testis angiotensin-converting enzyme and expression of an active deglycosylated form. J Biol Chem. 1997 Feb 7;272(6):3511-9.</reference_text>
+      <pubmed_id>9013598</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Woodman ZL, Oppong SY, Cook S, Hooper NM, Schwager SL, Brandt WF, Ehlers MR, Sturrock ED: Shedding of somatic angiotensin-converting enzyme (ACE) is inefficient compared with testis ACE despite cleavage at identical stalk sites. Biochem J. 2000 May 1;347 Pt 3:711-8.</reference_text>
+      <pubmed_id>10769174</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Donoghue M, Hsieh F, Baronas E, Godbout K, Gosselin M, Stagliano N, Donovan M, Woolf B, Robison K, Jeyaseelan R, Breitbart RE, Acton S: A novel angiotensin-converting enzyme-related carboxypeptidase (ACE2) converts angiotensin I to angiotensin 1-9. Circ Res. 2000 Sep 1;87(5):E1-9.</reference_text>
+      <pubmed_id>10969042</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tipnis SR, Hooper NM, Hyde R, Karran E, Christie G, Turner AJ: A human homolog of angiotensin-converting enzyme. Cloning and functional expression as a captopril-insensitive carboxypeptidase. J Biol Chem. 2000 Oct 27;275(43):33238-43.</reference_text>
+      <pubmed_id>10924499</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eyries M, Michaud A, Deinum J, Agrapart M, Chomilier J, Kramers C, Soubrier F: Increased shedding of angiotensin-converting enzyme by a mutation identified in the stalk region. J Biol Chem. 2001 Feb 23;276(8):5525-32. Epub 2000 Nov 13.</reference_text>
+      <pubmed_id>11076943</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kohlstedt K, Shoghi F, Muller-Esterl W, Busse R, Fleming I: CK2 phosphorylates the angiotensin-converting enzyme and regulates its retention in the endothelial cell plasma membrane. Circ Res. 2002 Oct 18;91(8):749-56.</reference_text>
+      <pubmed_id>12386153</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Harmer D, Gilbert M, Borman R, Clark KL: Quantitative mRNA expression profiling of ACE 2, a novel homologue of angiotensin converting enzyme. FEBS Lett. 2002 Dec 4;532(1-2):107-10.</reference_text>
+      <pubmed_id>12459472</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gordon K, Redelinghuys P, Schwager SL, Ehlers MR, Papageorgiou AC, Natesh R, Acharya KR, Sturrock ED: Deglycosylation, processing and crystallization of human testis angiotensin-converting enzyme. Biochem J. 2003 Apr 15;371(Pt 2):437-42.</reference_text>
+      <pubmed_id>12542396</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goulter AB, Goddard MJ, Allen JC, Clark KL: ACE2 gene expression is up-regulated in the human failing heart.  BMC Med. 2004 May 19;2:19.</reference_text>
+      <pubmed_id>15151696</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Burrell LM, Risvanis J, Kubota E, Dean RG, MacDonald PS, Lu S, Tikellis C, Grant SL, Lew RA, Smith AI, Cooper ME, Johnston CI: Myocardial infarction increases ACE2 expression in rat and humans.  Eur Heart J. 2005 Feb;26(4):369-75; discussion 322-4. Epub 2005 Jan 25.</reference_text>
+      <pubmed_id>15671045</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Natesh R, Schwager SL, Sturrock ED, Acharya KR: Crystal structure of the human angiotensin-converting enzyme-lisinopril complex. Nature. 2003 Jan 30;421(6922):551-4. Epub 2003 Jan 19.</reference_text>
+      <pubmed_id>12540854</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Natesh R, Schwager SL, Evans HR, Sturrock ED, Acharya KR: Structural details on the binding of antihypertensive drugs captopril and enalaprilat to human testicular angiotensin I-converting enzyme. Biochemistry. 2004 Jul 13;43(27):8718-24.</reference_text>
+      <pubmed_id>15236580</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Corradi HR, Schwager SL, Nchinda AT, Sturrock ED, Acharya KR: Crystal structure of the N domain of human somatic angiotensin I-converting enzyme provides a structural basis for domain-specific inhibitor design. J Mol Biol. 2006 Mar 31;357(3):964-74. Epub 2006 Jan 31.</reference_text>
+      <pubmed_id>16476442</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vleming LJ, van der Pijl JW, Lemkes HH, Westendorp RG, Maassen JA, Daha MR, van Es LA, van Kooten C: The DD genotype of the ACE gene polymorphism is associated with progression of diabetic nephropathy to end stage renal failure in IDDM. Clin Nephrol. 1999 Mar;51(3):133-40.</reference_text>
+      <pubmed_id>10099885</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Halushka MK, Fan JB, Bentley K, Hsie L, Shen N, Weder A, Cooper R, Lipshutz R, Chakravarti A: Patterns of single-nucleotide polymorphisms in candidate genes for blood-pressure homeostasis. Nat Genet. 1999 Jul;22(3):239-47.</reference_text>
+      <pubmed_id>10391210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kramers C, Danilov SM, Deinum J, Balyasnikova IV, Scharenborg N, Looman M, Boomsma F, de Keijzer MH, van Duijn C, Martin S, Soubrier F, Adema GJ: Point mutation in the stalk of angiotensin-converting enzyme causes a dramatic increase in serum angiotensin-converting enzyme but no cardiovascular disease. Circulation. 2001 Sep 11;104(11):1236-40.</reference_text>
+      <pubmed_id>11551873</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Linnebank M, Kesper K, Jeub M, Urbach H, Wullner U, Klockgether T, Schmidt S: Hereditary elevation of angiotensin converting enzyme suggesting neurosarcoidosis. Neurology. 2003 Dec 23;61(12):1819-20.</reference_text>
+      <pubmed_id>14694062</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Casas JP, Hingorani AD, Bautista LE, Sharma P: Meta-analysis of genetic studies in ischemic stroke: thirty-two genes involving approximately 18,000 cases and 58,000 controls. Arch Neurol. 2004 Nov;61(11):1652-61.</reference_text>
+      <pubmed_id>15534175</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Slowik A, Turaj W, Dziedzic T, Haefele A, Pera J, Malecki MT, Glodzik-Sobanska L, Szermer P, Figlewicz DA, Szczudlik A: DD genotype of ACE gene is a risk factor for intracerebral hemorrhage.  Neurology. 2004 Jul 27;63(2):359-61.</reference_text>
+      <pubmed_id>15277638</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gribouval O, Gonzales M, Neuhaus T, Aziza J, Bieth E, Laurent N, Bouton JM, Feuillet F, Makni S, Ben Amar H, Laube G, Delezoide AL, Bouvier R, Dijoud F, Ollagnon-Roman E, Roume J, Joubert M, Antignac C, Gubler MC: Mutations in genes in the renin-angiotensin system are associated with autosomal recessive renal tubular dysgenesis. Nat Genet. 2005 Sep;37(9):964-8. Epub 2005 Aug 14.</reference_text>
+      <pubmed_id>16116425</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ramipril</name>
+        <accession>HMDB14324</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ramipril</name>
+        <accession>HMDB14324</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Levitt DG, Schoemaker RC: Human physiologically based pharmacokinetic model for ACE inhibitors: ramipril and ramiprilat. BMC Clin Pharmacol. 2006 Jan 6;6:1.</reference_text>
+        <pubmed_id>16398929</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ramipril</name>
+        <accession>HMDB14324</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Piepho RW: Overview of the angiotensin-converting-enzyme inhibitors.  Am J Health Syst Pharm. 2000 Oct 1;57 Suppl 1:S3-7.</reference_text>
+        <pubmed_id>11030016</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ramipril</name>
+        <accession>HMDB14324</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fosinopril</name>
+        <accession>HMDB14635</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fosinopril</name>
+        <accession>HMDB14635</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ondetti MA: Structural relationships of angiotensin converting-enzyme inhibitors to pharmacologic activity. Circulation. 1988 Jun;77(6 Pt 2):I74-8.</reference_text>
+        <pubmed_id>2836111</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fosinopril</name>
+        <accession>HMDB14635</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Piepho RW: Overview of the angiotensin-converting-enzyme inhibitors.  Am J Health Syst Pharm. 2000 Oct 1;57 Suppl 1:S3-7.</reference_text>
+        <pubmed_id>11030016</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fosinopril</name>
+        <accession>HMDB14635</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sharma S, Deitchman D, Eni JS, Gelperin K, Ilgenfritz JP, Blumenthal M: The hemodynamic effects of long-term ACE inhibition with fosinopril in patients with heart failure. Fosinopril Hemodynamics Study Group. Am J Ther. 1999 Jul;6(4):181-9.</reference_text>
+        <pubmed_id>11329095</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trandolapril</name>
+        <accession>HMDB14660</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trandolapril</name>
+        <accession>HMDB14660</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Piepho RW: Overview of the angiotensin-converting-enzyme inhibitors.  Am J Health Syst Pharm. 2000 Oct 1;57 Suppl 1:S3-7.</reference_text>
+        <pubmed_id>11030016</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trandolapril</name>
+        <accession>HMDB14660</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benazepril</name>
+        <accession>HMDB14682</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Benazepril</name>
+        <accession>HMDB14682</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enalapril</name>
+        <accession>HMDB14722</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Andujar-Sanchez M, Jara-Perez V, Camara-Artigas A: Thermodynamic determination of the binding constants of angiotensin-converting enzyme inhibitors by a displacement method. FEBS Lett. 2007 Jul 24;581(18):3449-54. Epub 2007 Jun 27.</reference_text>
+        <pubmed_id>17618628</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enalapril</name>
+        <accession>HMDB14722</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enalapril</name>
+        <accession>HMDB14722</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Liu YH, Liu LY, Wu JX, Chen SX, Sun YX: Comparison of captopril and enalapril to study the role of the sulfhydryl-group in improvement of endothelial dysfunction with ACE inhibitors in high dieted methionine mice. J Cardiovasc Pharmacol. 2006 Jan;47(1):82-8.</reference_text>
+        <pubmed_id>16424790</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enalapril</name>
+        <accession>HMDB14722</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Natesh R, Schwager SL, Evans HR, Sturrock ED, Acharya KR: Structural details on the binding of antihypertensive drugs captopril and enalaprilat to human testicular angiotensin I-converting enzyme. Biochemistry. 2004 Jul 13;43(27):8718-24.</reference_text>
+        <pubmed_id>15236580</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dumoulin MJ, Adam A, Rouleau JL, Lamontagne D: Comparison of a vasopeptidase inhibitor with neutral endopeptidase and angiotensin-converting enzyme inhibitors on bradykinin metabolism in the rat coronary bed. J Cardiovasc Pharmacol. 2001 Apr;37(4):359-66.</reference_text>
+        <pubmed_id>11300648</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kostova E, Jovanoska E, Zafirov D, Jakovski K, Maleska V, Slaninka-Miceska M: Dual inhibition of angiotensin converting enzyme and neutral endopeptidase produces effective blood pressure control in spontaneously hypertensive rats. Bratisl Lek Listy. 2005;106(12):407-11.</reference_text>
+        <pubmed_id>16642666</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Moexipril</name>
+        <accession>HMDB14829</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Moexipril</name>
+        <accession>HMDB14829</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chrysant SG, Chrysant GS: Pharmacological and clinical profile of moexipril: a concise review.  J Clin Pharmacol. 2004 Aug;44(8):827-36.</reference_text>
+        <pubmed_id>15286086</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Moexipril</name>
+        <accession>HMDB14829</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Edling O, Bao G, Feelisch M, Unger T, Gohlke P: Moexipril, a new angiotensin-converting enzyme (ACE) inhibitor: pharmacological characterization and comparison with enalapril. J Pharmacol Exp Ther. 1995 Nov;275(2):854-63.</reference_text>
+        <pubmed_id>7473177</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Moexipril</name>
+        <accession>HMDB14829</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Perindopril</name>
+        <accession>HMDB14928</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Alfakih K, Hall AS: Perindopril.  Expert Opin Pharmacother. 2006 Jan;7(1):63-71.</reference_text>
+        <pubmed_id>16370923</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Perindopril</name>
+        <accession>HMDB14928</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Brugts JJ, Ferrari R, Simoons ML: Angiotensin-converting enzyme inhibition by perindopril in the treatment of cardiovascular disease. Expert Rev Cardiovasc Ther. 2009 Apr;7(4):345-60.</reference_text>
+        <pubmed_id>19379059</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Perindopril</name>
+        <accession>HMDB14928</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Perindopril</name>
+        <accession>HMDB14928</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinapril</name>
+        <accession>HMDB15019</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinapril</name>
+        <accession>HMDB15019</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Culy CR, Jarvis B: Quinapril: a further update of its pharmacology and therapeutic use in cardiovascular disorders. Drugs. 2002;62(2):339-85.</reference_text>
+        <pubmed_id>11817979</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinapril</name>
+        <accession>HMDB15019</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Klutchko S, Blankley CJ, Fleming RW, Hinkley JM, Werner AE, Nordin I, Holmes A, Hoefle ML, Cohen DM, Essenburg AD, et al.: Synthesis of novel angiotensin converting enzyme inhibitor quinapril and related compounds. A divergence of structure-activity relationships for non-sulfhydryl and sulfhydryl types. J Med Chem. 1986 Oct;29(10):1953-61.</reference_text>
+        <pubmed_id>3020249</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinapril</name>
+        <accession>HMDB15019</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rescinnamine</name>
+        <accession>HMDB15311</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rescinnamine</name>
+        <accession>HMDB15311</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rescinnamine</name>
+        <accession>HMDB15311</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Azhar I, Mazhar F, Manzar QN, Hussain I, Shamim S: Colorimetric determination of indolic drugs.  Pak J Pharm Sci. 2005 Apr;18(2):48-51.</reference_text>
+        <pubmed_id>16431399</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rescinnamine</name>
+        <accession>HMDB15311</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Andujar-Sanchez M, Jara-Perez V, Camara-Artigas A: Thermodynamic determination of the binding constants of angiotensin-converting enzyme inhibitors by a displacement method. FEBS Lett. 2007 Jul 24;581(18):3449-54. Epub 2007 Jun 27.</reference_text>
+        <pubmed_id>17618628</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dalkas GA, Marchand D, Galleyrand JC, Martinez J, Spyroulias GA, Cordopatis P, Cavelier F: Study of a lipophilic captopril analogue binding to angiotensin I converting enzyme. J Pept Sci. 2010 Feb;16(2):91-7.</reference_text>
+        <pubmed_id>20014331</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Natesh R, Schwager SL, Evans HR, Sturrock ED, Acharya KR: Structural details on the binding of antihypertensive drugs captopril and enalaprilat to human testicular angiotensin I-converting enzyme. Biochemistry. 2004 Jul 13;43(27):8718-24.</reference_text>
+        <pubmed_id>15236580</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Piepho RW: Overview of the angiotensin-converting-enzyme inhibitors.  Am J Health Syst Pharm. 2000 Oct 1;57 Suppl 1:S3-7.</reference_text>
+        <pubmed_id>11030016</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tzakos AG, Naqvi N, Comporozos K, Pierattelli R, Theodorou V, Husain A, Gerothanassis IP: The molecular basis for the selection of captopril cis and trans conformations by angiotensin I converting enzyme. Bioorg Med Chem Lett. 2006 Oct 1;16(19):5084-7. Epub 2006 Aug 2.</reference_text>
+        <pubmed_id>16889963</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Captopril</name>
+        <accession>HMDB15328</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yoshiyama M, Takeuchi K, Omura T, Kim S, Yamagishi H, Toda I, Teragaki M, Akioka K, Iwao H, Yoshikawa J: Effects of candesartan and cilazapril on rats with myocardial infarction assessed by echocardiography. Hypertension. 1999 Apr;33(4):961-8.</reference_text>
+        <pubmed_id>10205231</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kihara M, Mitsui MK, Mitsui Y, Okuda K, Nakasaka Y, Takahashi M, Schmelzer JD: Altered vasoreactivity to angiotensin II in experimental diabetic neuropathy: role of nitric oxide. Muscle Nerve. 1999 Jul;22(7):920-5.</reference_text>
+        <pubmed_id>10398211</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mervaala E, Dehmel B, Gross V, Lippoldt A, Bohlender J, Milia AF, Ganten D, Luft FC: Angiotensin-converting enzyme inhibition and AT1 receptor blockade modify the pressure-natriuresis relationship by additive mechanisms in rats with human renin and angiotensinogen genes. J Am Soc Nephrol. 1999 Aug;10(8):1669-80.</reference_text>
+        <pubmed_id>10446934</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rosendorff C, Patton J, Radford HM, Kalliatakis B: Alpha-adrenergic and angiotensin II pressor sensitivity in hypertensive patients treated with an angiotensin-converting enzyme inhibitor. J Cardiovasc Pharmacol. 1992;19 Suppl 6:S105-9.</reference_text>
+        <pubmed_id>1382157</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hannedouche T, Ikeni A, Marques LP, Natov S, Dechaux M, Schmitt F, Lacour B, Grunfeld JP: Renal effects of angiotensin II in normotensive subjects on short-term cilazapril treatment. J Cardiovasc Pharmacol. 1992;19 Suppl 6:S25-7.</reference_text>
+        <pubmed_id>1382161</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tylicki L, Rutkowski P, Renke M, Larczynski W, Aleksandrowicz E, Lysiak-Szydlowska W, Rutkowski B: Triple pharmacological blockade of the renin-angiotensin-aldosterone system in nondiabetic CKD: an open-label crossover randomized controlled trial. Am J Kidney Dis. 2008 Sep;52(3):486-93. Epub 2008 Apr 18.</reference_text>
+        <pubmed_id>18423812</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilazapril</name>
+        <accession>HMDB15433</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spirapril</name>
+        <accession>HMDB15438</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song JC, White CM: Clinical pharmacokinetics and selective pharmacodynamics of new angiotensin converting enzyme inhibitors: an update. Clin Pharmacokinet. 2002;41(3):207-24.</reference_text>
+        <pubmed_id>11929321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spirapril</name>
+        <accession>HMDB15438</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Maul B, Krause W, Pankow K, Becker M, Gembardt F, Alenina N, Walther T, Bader M, Siems WE: Central angiotensin II controls alcohol consumption via its AT1 receptor.  FASEB J. 2005 Sep;19(11):1474-81.</reference_text>
+        <pubmed_id>16126915</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spirapril</name>
+        <accession>HMDB15438</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hermida RC, Ayala DE, Fontao MJ, Mojon A, Alonso I, Fernandez JR: Administration-time-dependent effects of spirapril on ambulatory blood pressure in uncomplicated essential hypertension. Chronobiol Int. 2010 May;27(3):560-74.</reference_text>
+        <pubmed_id>20524801</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spirapril</name>
+        <accession>HMDB15438</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arend U, Albrecht S, Meisel E, Schmidt J: [Influence of ACE inhibitor spirapril on left ventricular hypertrophy].  Fortschr Med Orig. 2002 Dec 5;120(4):147-50.</reference_text>
+        <pubmed_id>12613273</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spirapril</name>
+        <accession>HMDB15438</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

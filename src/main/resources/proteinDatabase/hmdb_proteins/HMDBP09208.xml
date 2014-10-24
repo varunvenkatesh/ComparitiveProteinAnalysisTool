@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:34 -0700</creation_date>
+  <update_date>2013-05-27 11:38:05 -0600</update_date>
+  <accession>HMDBP09208</accession>
+  <secondary_accessions>
+    <accession>14990</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Catechol O-methyltransferase 2</synonym>
+    <synonym>Protein LRTOMT2</synonym>
+  </synonyms>
+  <gene_name>LRTOMT</gene_name>
+  <general_function>Involved in O-methyltransferase activity</general_function>
+  <specific_function>Catalyzes the O-methylation, and thereby the inactivation, of catecholamine neurotransmitters and catechol hormones (By similarity). Required for auditory function.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00957</accession>
+      <name>Pyrocatechol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01398</accession>
+      <name>Guaiacol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>o-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>catechol O-methyltransferase activity</description>
+      <go_id>GO:0016206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>auditory receptor cell development</description>
+      <go_id>GO:0060117</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>catecholamine catabolic process</description>
+      <go_id>GO:0042424</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter catabolic process</description>
+      <go_id>GO:0042135</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sensory perception of sound</description>
+      <go_id>GO:0007605</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform 2:Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q13.4</locus>
+    <gene_sequence>&gt;876 bp
+ATGGGAACCCCATGGAGGAAGAGAAAGGGTATAGCAGGCCCTGGACTCCCCGACCTGTCC
+TGTGCTCTGGTCCTCCAGCCCAGGGCCCAGGTAGGGACCATGTCCCCTGCCATTGCATTG
+GCCTTCCTGCCACTGGTGGTAACATTGCTGGTGCGGTACCGGCACTACTTCCGATTGCTG
+GTGCGCACGGTCTTGCTGCGAAGCCTCCGAGACTGCCTGTCAGGGCTGCGGATCGAGGAG
+CGGGCCTTCAGCTACGTGCTCACCCATGCCCTGCCCGGTGACCCTGGTCACATCCTCACC
+ACCCTGGACCACTGGAGCAGCCGCTGCGAGTACTTGAGCCACATGGGGCCTGTCAAAGGT
+CAGATCCTGATGCGGCTGGTGGAGGAGAAGGCCCCTGCTTGTGTGCTGGAATTGGGAACC
+TACTGTGGATACTCTACCCTGCTTATTGCCCGAGCCCTGCCCCCTGGGGGTCGCCTTCTT
+ACTGTGGAGCGGGACCCACGCACGGCAGCAGTGGCTGAAAAACTCATCCGCCTGGCCGGC
+TTTGATGAGCACATGGTGGAGCTCATCGTGGGCAGCTCAGAGGACGTGATCCCGTGCCTA
+CGCACCCAGTATCAGCTGAGTCGGGCAGACCTGGTGCTCCTGGCACACCGGCCACGATGT
+TACCTGAGGGACCTGCAGCTGCTGGAGGCCCATGCCCTACTGCCAGCAGGTGCCACCGTG
+CTGGCTGACCATGTGCTCTTCCCTGGTGCACCCCGCTTCTTGCAGTATGCTAAGAGCTGT
+GGCCGCTACCGCTGCCGCCTCCACCACACTGGCCTTCCAGACTTCCCTGCCATCAAGGAT
+GGAATAGCTCAGCTCACCTATGCTGGACCAGGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>291</residue_number>
+    <molecular_weight>32154.43</molecular_weight>
+    <theoretical_pi>9.082</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Methyltransf_3</name>
+        <pfam_id>PF01596</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Transmembrane O-methyltransferase
+MGTPWRKRKGIAGPGLPDLSCALVLQPRAQVGTMSPAIALAFLPLVVTLLVRYRHYFRLL
+VRTVLLRSLRDCLSGLRIEERAFSYVLTHALPGDPGHILTTLDHWSSRCEYLSHMGPVKG
+QILMRLVEEKAPACVLELGTYCGYSTLLIARALPPGGRLLTVERDPRTAAVAEKLIRLAG
+FDEHMVELIVGSSEDVIPCLRTQYQLSRADLVLLAHRPRCYLRDLQLLEAHALLPAGATV
+LADHVLFPGAPRFLQYAKSCGRYRCRLHHTGLPDFPAIKDGIAQLTYAGPG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>223718159</genbank_protein_id>
+  <uniprot_id>Q8WZ04</uniprot_id>
+  <uniprot_name>TOMT_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001145308.1</genbank_gene_id>
+  <genecard_id>LRTOMT</genecard_id>
+  <geneatlas_id>LRTOMT</geneatlas_id>
+  <hgnc_id>HGNC:25033</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ahmed ZM, Masmoudi S, Kalay E, Belyantseva IA, Mosrati MA, Collin RW, Riazuddin S, Hmani-Aifa M, Venselaar H, Kawar MN, Tlili A, van der Zwaag B, Khan SY, Ayadi L, Riazuddin SA, Morell RJ, Griffith AJ, Charfedine I, Caylan R, Oostrik J, Karaguzel A, Ghorbel A, Riazuddin S, Friedman TB, Ayadi H, Kremer H: Mutations of LRTOMT, a fusion gene with alternative reading frames, cause nonsyndromic deafness in humans. Nat Genet. 2008 Nov;40(11):1335-40. Epub 2008 Oct 26.</reference_text>
+      <pubmed_id>18953341</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wan D, Gong Y, Qin W, Zhang P, Li J, Wei L, Zhou X, Li H, Qiu X, Zhong F, He L, Yu J, Yao G, Jiang H, Qian L, Yu Y, Shu H, Chen X, Xu H, Guo M, Pan Z, Chen Y, Ge C, Yang S, Gu J: Large-scale cDNA transfection screening for genes related to cancer development and progression. Proc Natl Acad Sci U S A. 2004 Nov 2;101(44):15724-9. Epub 2004 Oct 21.</reference_text>
+      <pubmed_id>15498874</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Du X, Schwander M, Moresco EM, Viviani P, Haller C, Hildebrand MS, Pak K, Tarantino L, Roberts A, Richardson H, Koob G, Najmabadi H, Ryan AF, Smith RJ, Muller U, Beutler B: A catechol-O-methyltransferase that is essential for auditory function in mice and humans. Proc Natl Acad Sci U S A. 2008 Sep 23;105(38):14609-14. Epub 2008 Sep 15.</reference_text>
+      <pubmed_id>18794526</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

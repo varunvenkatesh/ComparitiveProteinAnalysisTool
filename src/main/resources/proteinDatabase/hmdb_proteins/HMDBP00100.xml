@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:57 -0700</creation_date>
+  <update_date>2013-05-27 11:25:28 -0600</update_date>
+  <accession>HMDBP00100</accession>
+  <secondary_accessions>
+    <accession>5332</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>GIF</synonym>
+    <synonym>Glycosylation-inhibiting factor</synonym>
+    <synonym>L-dopachrome isomerase</synonym>
+    <synonym>L-dopachrome tautomerase</synonym>
+    <synonym>MIF</synonym>
+    <synonym>Phenylpyruvate tautomerase</synonym>
+  </synonyms>
+  <gene_name>MIF</gene_name>
+  <general_function>Involved in cell surface binding</general_function>
+  <specific_function>Pro-inflammatory cytokine. Involved in the innate immune response to bacterial pathogens. The expression of MIF at sites of inflammation suggests a role as mediator in regulating the function of macrophages in host defense. Counteracts the anti-inflammatory activity of glucocorticoids. Has phenylpyruvate tautomerase and dopachrome tautomerase activity (in vitro), but the physiological substrate is not known. It is not clear whether the tautomerase activity has any physiological relevance, and whether it is important for cytokine activity.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Tyrosine Metabolism</name>
+      <smpdb_id>SMP00006</smpdb_id>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Tyrosine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phenylalanine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00360</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB06915</accession>
+      <name>2-Hydroxy-3-(4-hydroxyphenyl)propenoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00707</accession>
+      <name>4-Hydroxyphenylpyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12225</accession>
+      <name>Enol-phenylpyruvate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00205</accession>
+      <name>Phenylpyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00094</accession>
+      <name>Citric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01430</accession>
+      <name>L-Dopachrome</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01253</accession>
+      <name>5,6-Dihydroxyindole-2-carboxylic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cell surface</description>
+      <go_id>GO:0009986</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular region</description>
+      <go_id>GO:0005576</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cell surface binding</description>
+      <go_id>GO:0043498</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chemoattractant activity</description>
+      <go_id>GO:0042056</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cytokine activity</description>
+      <go_id>GO:0005125</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dopachrome isomerase activity</description>
+      <go_id>GO:0004167</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phenylpyruvate tautomerase activity</description>
+      <go_id>GO:0050178</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell surface receptor signaling pathway</description>
+      <go_id>GO:0007166</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inflammatory response</description>
+      <go_id>GO:0006954</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell aging</description>
+      <go_id>GO:0090344</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell cycle arrest</description>
+      <go_id>GO:0071157</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of DNA damage response, signal transduction by p53 class mediator</description>
+      <go_id>GO:0043518</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of gene expression</description>
+      <go_id>GO:0010629</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of B cell proliferation</description>
+      <go_id>GO:0030890</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cytokine secretion</description>
+      <go_id>GO:0050715</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of ERK1 and ERK2 cascade</description>
+      <go_id>GO:0070374</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of fibroblast proliferation</description>
+      <go_id>GO:0048146</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of peptidyl-serine phosphorylation</description>
+      <go_id>GO:0033138</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of peptidyl-tyrosine phosphorylation</description>
+      <go_id>GO:0050731</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of protein kinase A signaling cascade</description>
+      <go_id>GO:0010739</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>prostaglandin biosynthetic process</description>
+      <go_id>GO:0001516</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotrimerization</description>
+      <go_id>GO:0070207</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of macrophage activation</description>
+      <go_id>GO:0043030</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>22</chromosome_location>
+    <locus>22q11.23</locus>
+    <gene_sequence>&gt;348 bp
+ATGCCGATGTTCATCGTAAACACCAACGTGCCCCGCGCCTCCGTGCCGGACGGGTTCCTC
+TCCGAGCTCACCCAGCAGCTGGCGCAGGCCACCGGCAAGCCCCCCCAGTACATCGCGGTG
+CACGTGGTCCCGGACCAGCTCATGGCCTTCGGCGGCTCCAGCGAGCCGTGCGCGCTCTGC
+AGCCTGCACAGCATCGGCAAGATCGGCGGCGCGCAGAACCGCTCCTACAGCAAGCTGCTG
+TGCGGCCTGCTGGCCGAGCGCCTGCGCATCAGCCCGGACAGGGTCTACATCAACTATTAC
+GACATGAACGCGGCCAATGTGGGCTGGAACAACTCCACCTTCGCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>115</residue_number>
+    <molecular_weight>12476.19</molecular_weight>
+    <theoretical_pi>7.885</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MIF</name>
+        <pfam_id>PF01187</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Macrophage migration inhibitory factor
+MPMFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALC
+SLHSIGKIGGAQNRSYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>18699569</genbank_protein_id>
+  <uniprot_id>P14174</uniprot_id>
+  <uniprot_name>MIF_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1CA7</pdb_id>
+    <pdb_id>1CGQ</pdb_id>
+    <pdb_id>1GCZ</pdb_id>
+    <pdb_id>1GD0</pdb_id>
+    <pdb_id>1GIF</pdb_id>
+    <pdb_id>1LJT</pdb_id>
+    <pdb_id>1MIF</pdb_id>
+    <pdb_id>1P1G</pdb_id>
+    <pdb_id>2OOH</pdb_id>
+    <pdb_id>2OOW</pdb_id>
+    <pdb_id>2OOZ</pdb_id>
+    <pdb_id>3B9S</pdb_id>
+    <pdb_id>3CE4</pdb_id>
+    <pdb_id>3DJH</pdb_id>
+    <pdb_id>3DJI</pdb_id>
+    <pdb_id>3HOF</pdb_id>
+    <pdb_id>3IJG</pdb_id>
+    <pdb_id>3IJJ</pdb_id>
+    <pdb_id>3JSF</pdb_id>
+    <pdb_id>3JSG</pdb_id>
+    <pdb_id>3JTU</pdb_id>
+    <pdb_id>3L5P</pdb_id>
+    <pdb_id>3L5R</pdb_id>
+    <pdb_id>3L5S</pdb_id>
+    <pdb_id>3L5T</pdb_id>
+    <pdb_id>3L5U</pdb_id>
+    <pdb_id>3L5V</pdb_id>
+    <pdb_id>3SMB</pdb_id>
+    <pdb_id>3SMC</pdb_id>
+    <pdb_id>3U18</pdb_id>
+    <pdb_id>4ETG</pdb_id>
+    <pdb_id>4EUI</pdb_id>
+    <pdb_id>4EVG</pdb_id>
+    <pdb_id>4F2K</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF469046</genbank_gene_id>
+  <genecard_id>MIF</genecard_id>
+  <geneatlas_id>MIF</geneatlas_id>
+  <hgnc_id>HGNC:7097</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Weiser WY, Temple PA, Witek-Giannotti JS, Remold HG, Clark SC, David JR: Molecular cloning of a cDNA encoding a human macrophage migration inhibitory factor. Proc Natl Acad Sci U S A. 1989 Oct;86(19):7522-6.</reference_text>
+      <pubmed_id>2552447</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mikayama T, Nakano T, Gomi H, Nakagawa Y, Liu YC, Sato M, Iwamatsu A, Ishii Y, Weiser WY, Ishizaka K: Molecular cloning and functional expression of a cDNA encoding glycosylation-inhibiting factor. Proc Natl Acad Sci U S A. 1993 Nov 1;90(21):10056-60.</reference_text>
+      <pubmed_id>8234256</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bernhagen J, Mitchell RA, Calandra T, Voelter W, Cerami A, Bucala R: Purification, bioactivity, and secondary structure analysis of mouse and human macrophage migration inhibitory factor (MIF). Biochemistry. 1994 Nov 29;33(47):14144-55.</reference_text>
+      <pubmed_id>7947826</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Paralkar V, Wistow G: Cloning the human gene for macrophage migration inhibitory factor (MIF).  Genomics. 1994 Jan 1;19(1):48-51.</reference_text>
+      <pubmed_id>8188240</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG, Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM, Dunham I: A genome annotation-driven approach to cloning the human ORFeome.  Genome Biol. 2004;5(10):R84. Epub 2004 Sep 30.</reference_text>
+      <pubmed_id>15461802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hochstrasser DF, Frutiger S, Paquet N, Bairoch A, Ravier F, Pasquali C, Sanchez JC, Tissot JD, Bjellqvist B, Vargas R, et al.: Human liver protein map: a reference database established by microsequencing and gel comparison. Electrophoresis. 1992 Dec;13(12):992-1001.</reference_text>
+      <pubmed_id>1286669</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zeng FY, Weiser WY, Kratzin H, Stahl B, Karas M, Gabius HJ: The major binding protein of the interferon antagonist sarcolectin in human placenta is a macrophage migration inhibitory factor. Arch Biochem Biophys. 1993 May 15;303(1):74-80.</reference_text>
+      <pubmed_id>7683862</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wistow GJ, Shaughnessy MP, Lee DC, Hodin J, Zelenka PS: A macrophage migration inhibitory factor is expressed in the differentiating cells of the eye lens. Proc Natl Acad Sci U S A. 1993 Feb 15;90(4):1272-5.</reference_text>
+      <pubmed_id>7679497</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kleemann R, Hausser A, Geiger G, Mischke R, Burger-Kentischer A, Flieger O, Johannes FJ, Roger T, Calandra T, Kapurniotu A, Grell M, Finkelmeier D, Brunner H, Bernhagen J: Intracellular action of the cytokine MIF to modulate AP-1 activity and the cell cycle through Jab1. Nature. 2000 Nov 9;408(6809):211-6.</reference_text>
+      <pubmed_id>11089976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Donn RP, Shelley E, Ollier WE, Thomson W: A novel 5'-flanking region polymorphism of macrophage migration inhibitory factor is associated with systemic-onset juvenile idiopathic arthritis. Arthritis Rheum. 2001 Aug;44(8):1782-5.</reference_text>
+      <pubmed_id>11508429</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tan TH, Edgerton SA, Kumari R, McAlister MS, Roe SM, Nagl S, Pearl LH, Selkirk ME, Bianco AE, Totty NF, Engwerda C, Gray CA, Meyer DJ: Macrophage migration inhibitory factor of the parasitic nematode Trichinella spiralis. Biochem J. 2001 Jul 15;357(Pt 2):373-83.</reference_text>
+      <pubmed_id>11439086</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shen L, Hu J, Lu H, Wu M, Qin W, Wan D, Li YY, Gu J: The apoptosis-associated protein BNIPL interacts with two cell proliferation-related proteins, MIF and GFER. FEBS Lett. 2003 Apr 10;540(1-3):86-90.</reference_text>
+      <pubmed_id>12681488</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leng L, Metz CN, Fang Y, Xu J, Donnelly S, Baugh J, Delohery T, Chen Y, Mitchell RA, Bucala R: MIF signal transduction initiated by binding to CD74.  J Exp Med. 2003 Jun 2;197(11):1467-76.</reference_text>
+      <pubmed_id>12782713</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oddo M, Calandra T, Bucala R, Meylan PR: Macrophage migration inhibitory factor reduces the growth of virulent Mycobacterium tuberculosis in human macrophages. Infect Immun. 2005 Jun;73(6):3783-6.</reference_text>
+      <pubmed_id>15908412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Emonts M, Sweep FC, Grebenchtchikov N, Geurts-Moespot A, Knaup M, Chanson AL, Erard V, Renner P, Hermans PW, Hazelzet JA, Calandra T: Association between high levels of blood macrophage migration inhibitory factor, inappropriate adrenal response, and early death in patients with severe sepsis. Clin Infect Dis. 2007 May 15;44(10):1321-8. Epub 2007 Apr 5.</reference_text>
+      <pubmed_id>17443469</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Merk M, Baugh J, Zierow S, Leng L, Pal U, Lee SJ, Ebert AD, Mizue Y, Trent JO, Mitchell R, Nickel W, Kavathas PB, Bernhagen J, Bucala R: The Golgi-associated protein p115 mediates the secretion of macrophage migration inhibitory factor. J Immunol. 2009 Jun 1;182(11):6896-906.</reference_text>
+      <pubmed_id>19454686</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sugimoto H, Suzuki M, Nakagawa A, Tanaka I, Nishihira J: Crystal structure of macrophage migration inhibitory factor from human lymphocyte at 2.1 A resolution. FEBS Lett. 1996 Jul 1;389(2):145-8.</reference_text>
+      <pubmed_id>8766818</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kato Y, Muto T, Tomura T, Tsumura H, Watarai H, Mikayama T, Ishizaka K, Kuroki R: The crystal structure of human glycosylation-inhibiting factor is a trimeric barrel with three 6-stranded beta-sheets. Proc Natl Acad Sci U S A. 1996 Apr 2;93(7):3007-10.</reference_text>
+      <pubmed_id>8610159</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun HW, Bernhagen J, Bucala R, Lolis E: Crystal structure at 2.6-A resolution of human macrophage migration inhibitory factor. Proc Natl Acad Sci U S A. 1996 May 28;93(11):5191-6.</reference_text>
+      <pubmed_id>8643551</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lubetsky JB, Swope M, Dealwis C, Blake P, Lolis E: Pro-1 of macrophage migration inhibitory factor functions as a catalytic base in the phenylpyruvate tautomerase activity. Biochemistry. 1999 Jun 1;38(22):7346-54.</reference_text>
+      <pubmed_id>10353846</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Orita M, Yamamoto S, Katayama N, Aoki M, Takayama K, Yamagiwa Y, Seki N, Suzuki H, Kurihara H, Sakashita H, Takeuchi M, Fujita S, Yamada T, Tanaka A: Coumarin and chromen-4-one analogues as tautomerase inhibitors of macrophage migration inhibitory factor: discovery and X-ray crystallography. J Med Chem. 2001 Feb 15;44(4):540-7.</reference_text>
+      <pubmed_id>11170644</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Crichlow GV, Cheng KF, Dabideen D, Ochani M, Aljabari B, Pavlov VA, Miller EJ, Lolis E, Al-Abed Y: Alternative chemical modifications reverse the binding orientation of a pharmacophore scaffold in the active site of macrophage migration inhibitory factor. J Biol Chem. 2007 Aug 10;282(32):23089-95. Epub 2007 May 25.</reference_text>
+      <pubmed_id>17526494</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Crichlow GV, Lubetsky JB, Leng L, Bucala R, Lolis EJ: Structural and kinetic analyses of macrophage migration inhibitory factor active site interactions. Biochemistry. 2009 Jan 13;48(1):132-9.</reference_text>
+      <pubmed_id>19090677</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enol-phenylpyruvate</name>
+        <accession>HMDB12225</accession>
+      </metabolite>
+      <reference>
+        <reference_text>KNOX WE, PITT BM: Enzymic catalysis of the keto-enol tautomerization of phenylpyruvic acids.  J Biol Chem. 1957 Apr;225(2):675-88.</reference_text>
+        <pubmed_id>13416270</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citric acid</name>
+        <accession>HMDB00094</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citric acid</name>
+        <accession>HMDB00094</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

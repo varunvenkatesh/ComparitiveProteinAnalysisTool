@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:45 -0700</creation_date>
+  <update_date>2013-05-27 11:29:53 -0600</update_date>
+  <accession>HMDBP00582</accession>
+  <secondary_accessions>
+    <accession>5854</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>cGMP phosphodiesterase 6C</synonym>
+  </synonyms>
+  <gene_name>PDE6C</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01314</accession>
+      <name>Cyclic GMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric diester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3',5'-cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3',5'-cyclic-GMP phosphodiesterase activity</description>
+      <go_id>GO:0047555</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cGMP binding</description>
+      <go_id>GO:0030553</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>metabolic process</description>
+      <go_id>GO:0008152</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phototransduction, visible light</description>
+      <go_id>GO:0007603</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retinal cone cell development</description>
+      <go_id>GO:0046549</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>visual perception</description>
+      <go_id>GO:0007601</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Lipid-anchor</subcellular_location>
+    <subcellular_location>Cytoplasmic side (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q24</locus>
+    <gene_sequence>&gt;2577 bp
+ATGGGTGAGATCAACCAAGTTGCCGTGGAGAAATACCTGGAGGAGAACCCTCAGTTTGCC
+AAGGAGTACTTTGACAGGAAGTTGCGGGTGGAGGTGCTGGGAGAAATCTTCAAGAACAGC
+CAGGTGCCAGTCCAGTCCAGCATGTCCTTCTCTGAGCTGACCCAGGTGGAGGAGTCAGCC
+CTGTGCTTGGAGCTGCTGTGGACCGTGCAGGAGGAGGGGGGCACCCCAGAGCAGGGGGTT
+CACAGGGCCCTGCAGAGGCTGGCCCACCTGCTCCAGGCTGACCGCTGCAGCATGTTCCTG
+TGCCGGTCCCGGAACGGCATACCTGAGGTGGCCTCTAGGTTGCTGGATGTCACCCCCACC
+TCCAAGTTTGAGGACAACCTGGTGGGCCCTGACAAAGAAGTTGTGTTTCCATTGGACATT
+GGGATAGTGGGTTGGGCTGCTCACACGAAGAAAACTCATAATGTCCCAGATGTGAAAAAG
+AACAGCCATTTTTCTGACTTCATGGACAAGCAAACTGGGTATGTCACTAAGAACCTGCTG
+GCAACCCCGATCGTGGTGGGCAAGGAGGTTCTTGCTGTGATCATGGCAGTTAACAAAGTA
+AATGCATCTGAATTTTCCAAACAGGATGAAGAGGTCTTTTCCAAATACCTCAACTTTGTG
+TCTATCATCCTAAGGCTTCATCACACCAGCTACATGTACAATATTGAATCCCGAAGAAGC
+CAGATCCTTATGTGGTCAGCCAATAAAGTATTTGAAGAACTCACAGATGTTGAGCGACAG
+TTTCACAAAGCGCTCTACACGGTTAGATCATATCTGAACTGTGAACGATACTCCATTGGA
+CTGCTGGACATGACCAAGGAGAAGGAATTCTACGATGAATGGCCAATCAAGCTTGGAGAA
+GTAGAGCCTTATAAAGGTCCAAAGACACCTGATGGCAGGGAAGTCAACTTTTATAAAATC
+ATTGATTACATTTTACATGGAAAAGAAGAGATCAAAGTGATTCCGACGCCTCCTGCAGAC
+CACTGGACACTCATTAGTGGGTTGCCAACATATGTTGCTGAAAATGGATTTATCTGTAAC
+ATGATGAATGCCCCTGCGGATGAATACTTCACATTTCAGAAAGGACCTGTAGACGAAACT
+GGTTGGGTCATTAAGAATGTTTTGTCCCTGCCTATTGTCAACAAGAAAGAAGATATTGTG
+GGAGTGGCTACATTTTACAACAGGAAGGATGGAAAACCTTTCGATGAGCATGATGAATAC
+ATTACCGAGACTCTCACACAATTTCTTGGATGGTCTCTTTTAAATACTGACACCTACGAT
+AAGATGAATAAGCTAGAAAACAGAAAGGACATTGCTCAGGAAATGCTCATGAACCAAACC
+AAAGCCACTCCTGAAGAAATTAAGTCCATTTTGAAATTTCAAGAGAAGTTAAATGTTGAT
+GTAATTGACGACTGTGAAGAAAAACAACTTGTTGCAATTTTGAAAGAGGACTTGCCAGAC
+CCACGCTCAGCAGAACTGTACGAATTCCGCTTCAGTGACTTCCCCCTTACAGAGCACGGA
+TTGATTAAATGTGGAATACGACTGTTTTTTGAAATAAATGTGGTGGAGAAATTCAAAGTA
+CCTGTAGAGGTTCTTACCAGATGGATGTACACTGTGAGGAAAGGGTACCGAGCTGTCACT
+TACCACAATTGGCGGCATGGGTTCAACGTGGGGCAGACCATGTTTACTTTGCTGATGACA
+GGAAGATTAAAGAAGTACTACACAGATCTCGAAGCCTTTGCCATGCTTGCTGCTGCTTTC
+TGCCATGATATTGACCACAGAGGCACCAATAATTTGTACCAGATGAAATCCACGTCTCCA
+TTAGCAAGACTTCATGGTTCTTCTATTTTGGAGAGGCACCACCTGGAGTACAGTAAGACT
+CTGTTGCAGGATGAGAGTTTAAACATCTTCCAGAACCTAAATAAGCGGCAGTTTGAAACA
+GTTATTCATTTGTTCGAGGTCGCAATAATAGCAACTGACCTGGCTTTATATTTCAAGAAG
+AGGACCATGTTTCAAAAAATTGTTGATGCCTGTGAACAAATGCAAACGGAAGAAGAAGCC
+ATCAAATATGTAACTGTTGATCCAACCAAGAAAGAGATTATCATGGCAATGATGATGACG
+GCATGTGACTTGTCTGCTATTACCAAGCCCTGGGAGGTGCAAAGTCAGGTAGCACTTATG
+GTTGCAAATGAATTTTGGGAACAAGGAGATCTGGAGAGAACAGTGTTGCAGCAACAACCC
+ATTCCTATGATGGACAGAAACAAAAGAGATGAATTACCTAAACTTCAAGTTGGATTTATT
+GATTTTGTTTGTACTTTTGTATATAAGGAGTTCTCACGGTTTCACAAAGAAATCACACCT
+ATGCTGAGTGGTCTTCAGAATAACAGAGTAGAATGGAAATCACTAGCTGATGAGTATGAT
+GCAAAGATGAAGGTCATTGAAGAGGAGGCAAAAAAGCAAGAAGGAGGAGCCGAAAAAGCT
+GCTGAAGATTCAGGAGGTGGTGATGACAAAAAGTCCAAAACATGTTTAATGTTGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>858</residue_number>
+    <molecular_weight>99146.095</molecular_weight>
+    <theoretical_pi>5.713</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GAF</name>
+        <pfam_id>PF01590</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PDEase_I</name>
+        <pfam_id>PF00233</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha'
+MGEINQVAVEKYLEENPQFAKEYFDRKLRVEVLGEIFKNSQVPVQSSMSFSELTQVEESA
+LCLELLWTVQEEGGTPEQGVHRALQRLAHLLQADRCSMFLCRSRNGIPEVASRLLDVTPT
+SKFEDNLVGPDKEVVFPLDIGIVGWAAHTKKTHNVPDVKKNSHFSDFMDKQTGYVTKNLL
+ATPIVVGKEVLAVIMAVNKVNASEFSKQDEEVFSKYLNFVSIILRLHHTSYMYNIESRRS
+QILMWSANKVFEELTDVERQFHKALYTVRSYLNCERYSIGLLDMTKEKEFYDEWPIKLGE
+VEPYKGPKTPDGREVNFYKIIDYILHGKEEIKVIPTPPADHWTLISGLPTYVAENGFICN
+MMNAPADEYFTFQKGPVDETGWVIKNVLSLPIVNKKEDIVGVATFYNRKDGKPFDEHDEY
+ITETLTQFLGWSLLNTDTYDKMNKLENRKDIAQEMLMNQTKATPEEIKSILKFQEKLNVD
+VIDDCEEKQLVAILKEDLPDPRSAELYEFRFSDFPLTEHGLIKCGIRLFFEINVVEKFKV
+PVEVLTRWMYTVRKGYRAVTYHNWRHGFNVGQTMFTLLMTGRLKKYYTDLEAFAMLAAAF
+CHDIDHRGTNNLYQMKSTSPLARLHGSSILERHHLEYSKTLLQDESLNIFQNLNKRQFET
+VIHLFEVAIIATDLALYFKKRTMFQKIVDACEQMQTEEEAIKYVTVDPTKKEIIMAMMMT
+ACDLSAITKPWEVQSQVALMVANEFWEQGDLERTVLQQQPIPMMDRNKRDELPKLQVGFI
+DFVCTFVYKEFSRFHKEITPMLSGLQNNRVEWKSLADEYDAKMKVIEEEAKKQEGGAEKA
+AEDSGGGDDKKSKTCLML</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>55661526</genbank_protein_id>
+  <uniprot_id>P51160</uniprot_id>
+  <uniprot_name>PDE6C_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL157396</genbank_gene_id>
+  <genecard_id>PDE6C</genecard_id>
+  <geneatlas_id>PDE6C</geneatlas_id>
+  <hgnc_id>HGNC:8787</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Viczian AS, Piriev NI, Farber DB: Isolation and characterization of a cDNA encoding the alpha' subunit of human cone cGMP-phosphodiesterase. Gene. 1995 Dec 12;166(2):205-11.</reference_text>
+      <pubmed_id>8543163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Piriev NI, Viczian AS, Ye J, Kerner B, Korenberg JR, Farber DB: Gene structure and amino acid sequence of the human cone photoreceptor cGMP-phosphodiesterase alpha' subunit (PDEA2) and its chromosomal localization to 10q24. Genomics. 1995 Aug 10;28(3):429-35.</reference_text>
+      <pubmed_id>7490077</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Feshchenko EA, Andreeva SG, Suslova VA, Smirnova EV, Zagranichny VE, Lipkin VM: Human cone-specific cGMP phosphodiesterase alpha' subunit: complete cDNA sequence and gene arrangement. FEBS Lett. 1996 Feb 26;381(1-2):149-52.</reference_text>
+      <pubmed_id>8641425</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gao YQ, Danciger M, Longmuir R, Piriev NI, Zhao DY, Heckenlively JR, Fishman GA, Weleber RG, Jacobson SG, Stone EM, Farber DB: Screening of the gene encoding the alpha'-subunit of cone cGMP-PDE in patients with retinal degenerations. Invest Ophthalmol Vis Sci. 1999 Jul;40(8):1818-22.</reference_text>
+      <pubmed_id>10393054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Thiadens AA, den Hollander AI, Roosing S, Nabuurs SB, Zekveld-Vroon RC, Collin RW, De Baere E, Koenekoop RK, van Schooneveld MJ, Strom TM, van Lith-Verhoeven JJ, Lotery AJ, van Moll-Ramirez N, Leroy BP, van den Born LI, Hoyng CB, Cremers FP, Klaver CC: Homozygosity mapping reveals PDE6C mutations in patients with early-onset cone photoreceptor disorders. Am J Hum Genet. 2009 Aug;85(2):240-7. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19615668</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

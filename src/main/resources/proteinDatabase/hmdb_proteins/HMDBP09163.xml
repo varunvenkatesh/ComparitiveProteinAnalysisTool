@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:04 -0700</creation_date>
+  <update_date>2013-05-27 10:58:04 -0600</update_date>
+  <accession>HMDBP09163</accession>
+  <secondary_accessions>
+    <accession>14919</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Acylsphingosine deacylase 3-like</synonym>
+    <synonym>AlkCDase 2</synonym>
+    <synonym>Alkaline CDase 2</synonym>
+    <synonym>N-acylsphingosine amidohydrolase 3-like</synonym>
+    <synonym>haCER2</synonym>
+  </synonyms>
+  <gene_name>ACER2</gene_name>
+  <general_function>Involved in hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides</general_function>
+  <specific_function>Hydrolyzes the sphingolipid ceramide into sphingosine and free fatty acid. Unsaturated long-chain ceramides are the best substrates, saturated long-chain ceramides and unsaturated very long-chain ceramides are good substrates, whereas saturated very long-chain ceramides and short-chain ceramides were poor substrates. The substrate preference is D-erythro-C(18:1)-, C(20:1)-, C(20:4)-ceramide &gt; D-erythro-C(16:0)-, C(18:0), C(20:0)-ceramide &gt; D-erythro-C(24:1)-ceramide &gt; D-erythro-C(12:0)-ceramide, D-erythro-C(14:0)-ceramides &gt; D-erythro-C(24:0)-ceramide &gt; D-erythro-C(6:0)-ceramide. Inhibits the maturation of protein glycosylation in the Golgi complex, including that of integrin beta-1 (ITGB1) and of LAMP1, by increasing the levels of sphingosine. Inhibits cell adhesion by reducing the level of ITGB1 in the cell surface. May have a role in cell proliferation and apoptosis that seems to depend on the balance between sphingosine and sphingosine-1-phosphate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>sphingolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00600</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB04950</accession>
+      <name>Ceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04947</accession>
+      <name>Ceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04956</accession>
+      <name>Ceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04949</accession>
+      <name>Ceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04952</accession>
+      <name>Ceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04957</accession>
+      <name>Ceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04951</accession>
+      <name>Ceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04955</accession>
+      <name>Cer(d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04948</accession>
+      <name>Ceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00252</accession>
+      <name>Sphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00790</accession>
+      <name>N-Palmitoylsphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00829</accession>
+      <name>N-Stearoylsphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00831</accession>
+      <name>N-Lignoceroylsphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00950</accession>
+      <name>Cer(d18:1/23:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04953</accession>
+      <name>Cer(d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04954</accession>
+      <name>Cer(d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06752</accession>
+      <name>Dihydroceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10697</accession>
+      <name>Cer(t18:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11758</accession>
+      <name>Cer(d18:0/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11759</accession>
+      <name>Cer(d18:0/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11760</accession>
+      <name>Cer(d18:0/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11761</accession>
+      <name>Cer(d18:0/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11762</accession>
+      <name>Cer(d18:0/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11763</accession>
+      <name>Cer(d18:0/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11764</accession>
+      <name>Cer(d18:0/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11765</accession>
+      <name>Cer(d18:0/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11766</accession>
+      <name>Cer(d18:0/22:1(13Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11767</accession>
+      <name>Cer(d18:0/23:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11768</accession>
+      <name>Cer(d18:0/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11769</accession>
+      <name>Cer(d18:0/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11770</accession>
+      <name>Cer(d18:0/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11771</accession>
+      <name>Cer(d18:0/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11772</accession>
+      <name>Cer(d18:0/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11773</accession>
+      <name>Cer(d18:1/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11774</accession>
+      <name>Cer(d18:1/18:1(11Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11775</accession>
+      <name>Cer(d18:1/22:1(13Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00910</accession>
+      <name>Tridecanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00806</accession>
+      <name>Myristic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00220</accession>
+      <name>Palmitic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06497</accession>
+      <name>Heptadecanoyl CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00827</accession>
+      <name>Stearic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01043</accession>
+      <name>Arachidonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02212</accession>
+      <name>Arachidic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00024</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00140</accession>
+      <name>Glucosylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04832</accession>
+      <name>Galabiosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04833</accession>
+      <name>Galabiosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04834</accession>
+      <name>Galabiosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04835</accession>
+      <name>Galabiosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04836</accession>
+      <name>Galabiosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04837</accession>
+      <name>Galabiosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04838</accession>
+      <name>Galabiosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04839</accession>
+      <name>Galabiosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04840</accession>
+      <name>Galabiosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04841</accession>
+      <name>Galabiosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04866</accession>
+      <name>Lactosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04872</accession>
+      <name>Lactosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04873</accession>
+      <name>Lactosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04874</accession>
+      <name>Lactosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04876</accession>
+      <name>Lactosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04877</accession>
+      <name>Trihexosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04878</accession>
+      <name>Trihexosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04879</accession>
+      <name>Trihexosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04880</accession>
+      <name>Trihexosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04881</accession>
+      <name>Trihexosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04882</accession>
+      <name>Trihexosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04883</accession>
+      <name>Trihexosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04884</accession>
+      <name>Trihexosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04886</accession>
+      <name>Trihexosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04887</accession>
+      <name>Trihexosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04958</accession>
+      <name>Tetrahexosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04959</accession>
+      <name>Tetrahexosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04960</accession>
+      <name>Tetrahexosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04961</accession>
+      <name>Tetrahexosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04962</accession>
+      <name>Tetrahexosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04963</accession>
+      <name>Tetrahexosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04964</accession>
+      <name>Tetrahexosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04965</accession>
+      <name>Tetrahexosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04966</accession>
+      <name>Tetrahexosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04967</accession>
+      <name>Tetrahexosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04968</accession>
+      <name>Tetrahexosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04969</accession>
+      <name>Glucosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04970</accession>
+      <name>Glucosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04971</accession>
+      <name>Glucosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04972</accession>
+      <name>Glucosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04973</accession>
+      <name>Glucosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04974</accession>
+      <name>Glucosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04975</accession>
+      <name>Glucosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04976</accession>
+      <name>Glucosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04977</accession>
+      <name>Glucosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04978</accession>
+      <name>Glucosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04979</accession>
+      <name>Glucosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06750</accession>
+      <name>Lactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10708</accession>
+      <name>Galactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10709</accession>
+      <name>Galactosylceramide (d18:1/18:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10710</accession>
+      <name>Galactosylceramide (d18:1/20:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10711</accession>
+      <name>Galactosylceramide (d18:1/22:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10712</accession>
+      <name>Galactosylceramide (d18:1/24:1(15Z)) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10713</accession>
+      <name>Galactosylceramide (d18:1/26:1(17Z)) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10714</accession>
+      <name>Galactosylceramide (d18:1/18:1(9Z)) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11591</accession>
+      <name>Lactosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11592</accession>
+      <name>Lactosyceramide (d18:1/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11594</accession>
+      <name>Lactosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11595</accession>
+      <name>Lactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12237</accession>
+      <name>Inositol-P-ceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12256</accession>
+      <name>Mannosyl-diinositol-phosphorylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12257</accession>
+      <name>Mannosyl-inositol-phosphorylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12311</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12312</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/14:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12313</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12314</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12315</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12316</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12317</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/18:1(9Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12318</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12319</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12320</accession>
+      <name>Galactosylceramide (d18:1/12:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12321</accession>
+      <name>Galactosylceramide (d18:1/14:0) </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02259</accession>
+      <name>Heptadecanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00826</accession>
+      <name>Pentadecanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04610</accession>
+      <name>Phytosphingosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00269</accession>
+      <name>Sphinganine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>membrane lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sphingolipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sphingoid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ceramide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to Golgi membrane</description>
+      <go_id>GO:0030173</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dihydroceramidase activity</description>
+      <go_id>GO:0071633</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>activation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+      <go_id>GO:0006919</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to drug</description>
+      <go_id>GO:0035690</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ceramide metabolic process</description>
+      <go_id>GO:0006672</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell adhesion mediated by integrin</description>
+      <go_id>GO:0033629</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell-matrix adhesion</description>
+      <go_id>GO:0001953</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of protein glycosylation in Golgi</description>
+      <go_id>GO:0090285</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phospholipid metabolic process</description>
+      <go_id>GO:0006644</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cell death</description>
+      <go_id>GO:0010942</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cell proliferation</description>
+      <go_id>GO:0008284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to retinoic acid</description>
+      <go_id>GO:0032526</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingosine biosynthetic process</description>
+      <go_id>GO:0046512</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9p22.1</locus>
+    <gene_sequence>&gt;828 bp
+ATGGGCGCCCCGCACTGGTGGGACCAGCTGCAGGCTGGTAGCTCGGAGGTGGACTGGTGC
+GAGGACAACTACACCATCGTGCCTGCTATCGCCGAGTTCTACAACACGATCAGCAATGTC
+TTATTTTTCATTTTACCGCCCATCTGCATGTGCTTGTTTCGTCAGTATGCAACATGCTTC
+AACAGTGGCATCTACTTAATCTGGACTCTTTTGGTTGTAGTGGGAATTGGATCCGTCTAC
+TTCCATGCAACCCTTAGTTTCTTGGGTCAGATGCTTGATGAACTTGCAGTCCTTTGGGTT
+CTGATGTGTGCTTTGGCCATGTGGTTCCCCAGAAGGTATCTACCAAAGATCTTTCGGAAT
+GACCGGGGTAGGTTCAAGGTGGTGGTCAGTGTCCTGTCTGCGGTTACGACGTGCCTGGCA
+TTTGTCAAGCCTGCCATCAACAACATCTCTCTGATGACCCTGGGAGTTCCTTGCACTGCA
+CTGCTCATCGCAGAGCTAAAGAGGTGTGACAACATGCGTGTGTTTAAGCTGGGCCTCTTC
+TCGGGCCTCTGGTGGACCCTGGCCCTGTTCTGCTGGATCAGTGACCGAGCTTTCTGCGAG
+CTGCTGTCATCCTTCAACTTCCCCTACCTGCACTGCATGTGGCACATCCTCATCTGCCTT
+GCTGCCTACCTGGGCTGTGTATGCTTTGCCTACTTTGATGCTGCCTCAGAGATTCCTGAG
+CAAGGCCCTGTCATCAAGTTCTGGCCCAATGAGAAATGGGCCTTCATTGGTGTCCCCTAT
+GTGTCCCTCCTGTGTGCCAACAAGAAATCATCAGTCAAGACCACGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>275</residue_number>
+    <molecular_weight>31308.85</molecular_weight>
+    <theoretical_pi>7.654</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>aPHC</name>
+        <pfam_id>PF05875</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alkaline ceramidase 2
+MGAPHWWDQLQAGSSEVDWCEDNYTIVPAIAEFYNTISNVLFFILPPICMCLFRQYATCF
+NSGIYLIWTLLVVVGIGSVYFHATLSFLGQMLDELAVLWVLMCALAMWFPRRYLPKIFRN
+DRGRFKVVVSVLSAVTTCLAFVKPAINNISLMTLGVPCTALLIAELKRCDNMRVFKLGLF
+SGLWWTLALFCWISDRAFCELLSSFNFPYLHCMWHILICLAAYLGCVCFAYFDAASEIPE
+QGPVIKFWPNEKWAFIGVPYVSLLCANKKSSVKIT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>36304156</genbank_protein_id>
+  <uniprot_id>Q5QJU3</uniprot_id>
+  <uniprot_name>ACER2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AY312516</genbank_gene_id>
+  <genecard_id>ACER2</genecard_id>
+  <geneatlas_id>ACER2</geneatlas_id>
+  <hgnc_id>HGNC:23675</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Xu R, Jin J, Hu W, Sun W, Bielawski J, Szulc Z, Taha T, Obeid LM, Mao C: Golgi alkaline ceramidase regulates cell proliferation and survival by controlling levels of sphingosine and S1P. FASEB J. 2006 Sep;20(11):1813-25.</reference_text>
+      <pubmed_id>16940153</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wan D, Gong Y, Qin W, Zhang P, Li J, Wei L, Zhou X, Li H, Qiu X, Zhong F, He L, Yu J, Yao G, Jiang H, Qian L, Yu Y, Shu H, Chen X, Xu H, Guo M, Pan Z, Chen Y, Ge C, Yang S, Gu J: Large-scale cDNA transfection screening for genes related to cancer development and progression. Proc Natl Acad Sci U S A. 2004 Nov 2;101(44):15724-9. Epub 2004 Oct 21.</reference_text>
+      <pubmed_id>15498874</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun W, Hu W, Xu R, Jin J, Szulc ZM, Zhang G, Galadari SH, Obeid LM, Mao C: Alkaline ceramidase 2 regulates beta1 integrin maturation and cell adhesion. FASEB J. 2009 Feb;23(2):656-66. Epub 2008 Oct 22.</reference_text>
+      <pubmed_id>18945876</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

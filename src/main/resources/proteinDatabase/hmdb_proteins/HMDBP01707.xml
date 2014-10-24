@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:47 -0700</creation_date>
+  <update_date>2013-05-27 11:28:24 -0600</update_date>
+  <accession>HMDBP01707</accession>
+  <secondary_accessions>
+    <accession>7045</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>O-GlcNAc transferase subunit p110</synonym>
+    <synonym>O-linked N-acetylglucosamine transferase 110 kDa subunit</synonym>
+    <synonym>OGT</synonym>
+  </synonyms>
+  <gene_name>OGT</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Catalyzes the transfer of a single N-acetylglucosamine from UDP-GlcNAc to a serine or threonine residue in cytoplasmic and nuclear proteins resulting in their modification with a beta-linked N-acetylglucosamine (O-GlcNAc). Glycosylates a large and diverse number of proteins including histone H2B, AKT1, PFKL, MLL5, MAPT/TAU and HCFC1. Can regulate their cellular processes via cross-talk between glycosylation and phosphorylation or by affecting proteolytic processing. Involved in insulin resistance in muscle and adipocyte cells via glycosylating insulin signaling components and inhibiting the 'Thr-308' phosphorylation of AKT1, enhancing IRS1 phosphorylation and attenuating insulin signaling. Involved in glycolysis regulation by mediating glycosylation of 6-phosphofructokinase PFKL, inhibiting its activity. Component of a THAP1/THAP3-HCFC1-OGT complex that is required for the regulation of the transcriptional activity of RRM1. As part of the NSL complex it may be involved in acetylation of nucleosomal histone H4 on several lysine residues.
+Isoform 2, the mitochondrial isoform (mOGT), is cytotoxic and triggers apoptosis in several cell types including INS1, an insulinoma cell line.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Other types of O-glycan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00514</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00304</accession>
+      <name>Uridine diphosphate-N-acetylgalactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06591</accession>
+      <name>Lactosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00290</accession>
+      <name>Uridine diphosphate-N-acetylglucosamine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>centrosome</description>
+      <go_id>GO:0005813</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>histone acetyltransferase complex</description>
+      <go_id>GO:0000123</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>MLL5-L complex</description>
+      <go_id>GO:0070688</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>enzyme activator activity</description>
+      <go_id>GO:0008047</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>monosaccharide binding</description>
+      <go_id>GO:0048029</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptide binding</description>
+      <go_id>GO:0042277</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol-3,4,5-trisphosphate binding</description>
+      <go_id>GO:0005547</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein N-acetylglucosaminyltransferase activity</description>
+      <go_id>GO:0016262</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>apoptotic process</description>
+      <go_id>GO:0006915</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to retinoic acid</description>
+      <go_id>GO:0071300</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H4-K16 acetylation</description>
+      <go_id>GO:0043984</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H4-K5 acetylation</description>
+      <go_id>GO:0043981</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H4-K8 acetylation</description>
+      <go_id>GO:0043982</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>induction of apoptosis</description>
+      <go_id>GO:0006917</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol-mediated signaling</description>
+      <go_id>GO:0048015</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of granulocyte differentiation</description>
+      <go_id>GO:0030854</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of histone H3-K4 methylation</description>
+      <go_id>GO:0051571</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of proteolysis</description>
+      <go_id>GO:0045862</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotrimerization</description>
+      <go_id>GO:0070207</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein O-linked glycosylation</description>
+      <go_id>GO:0006493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of glycolysis</description>
+      <go_id>GO:0006110</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of insulin receptor signaling pathway</description>
+      <go_id>GO:0046626</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of Rac protein signal transduction</description>
+      <go_id>GO:0035020</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to insulin stimulus</description>
+      <go_id>GO:0032868</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient</description>
+      <go_id>GO:0007584</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Nucleus (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq13</locus>
+    <gene_sequence>&gt;3141 bp
+ATGGCGTCTTCCGTGGGCAACGTGGCCGACAGCACAGAACCAACGAAACGTATGCTTTCC
+TTCCAAGGGTTAGCTGAGTTGGCACATCGAGAATATCAGGCAGGAGATTTTGAGGCAGCT
+GAGAGACACTGCATGCAGCTCTGGAGACAAGAGCCAGACAATACTGGTGTGCTTTTATTA
+CTTTCATCTATACACTTCCAGTGTCGAAGGCTGGACAGATCTGCTCACTTTAGCACTCTG
+GCAATTAAACAGAACCCCCTTCTGGCAGAAGCTTATTCGAATTTGGGGAATGTGTACAAG
+GAAAGAGGGCAGTTGCAGGAGGCAATTGAGCATTATCGACATGCATTGCGTCTCAAACCT
+GATTTCATCGATGGTTATATTAACCTGGCAGCCGCCTTGGTAGCAGCGGGTGACATGGAA
+GGGGCAGTACAAGCTTACGTCTCTGCTCTTCAGTACAATCCTGATTTGTACTGTGTTCGC
+AGTGACCTGGGGAACCTGCTCAAAGCCCTGGGTCGCTTGGAAGAAGCCAAGGCATGTTAT
+TTGAAAGCAATTGAGACGCAACCGAACTTTGCAGTAGCTTGGAGTAATCTTGGCTGTGTT
+TTCAATGCACAAGGGGAAATTTGGCTTGCAATTCATCACTTTGAAAAGGCTGTCACCCTT
+GACCCAAACTTTCTGGATGCTTATATCAATTTAGGAAATGTCTTGAAAGAGGCACGCATT
+TTTGACAGAGCTGTGGCAGCTTATCTTCGTGCCCTAAGTTTGAGTCCAAATCACGCAGTG
+GTGCACGGCAACCTGGCTTGTGTATACTATGAGCAAGGCCTGATAGATCTGGCAATAGAC
+ACCTACAGGCGGGCTATCGAACTACAACCACATTTCCCTGATGCTTACTGCAACCTAGCC
+AATGCTCTCAAAGAGAAGGGCAGTGTTGCTGAAGCAGAAGATTGTTATAATACAGCTCTC
+CGTCTGTGTCCCACCCATGCAGACTCTCTGAATAACCTAGCCAATATCAAACGAGAACAG
+GGAAACATTGAAGAGGCAGTTCGCTTGTATCGTAAAGCATTAGAAGTCTTCCCAGAGTTT
+GCTGCTGCCCATTCAAATTTAGCAAGTGTACTGCAGCAGCAGGGAAAACTGCAGGAAGCT
+CTGATGCATTATAAGGAGGCTATTCGAATCAGTCCTACCTTTGCTGATGCCTACTCTAAT
+ATGGGAAACACTCTAAAGGAGATGCAGGATGTTCAGGGAGCCTTGCAGTGTTATACGCGT
+GCCATCCAAATTAATCCTGCATTTGCAGATGCACATAGCAATCTGGCTTCCATTCATAAG
+GATTCAGGGAATATTCCAGAAGCCATAGCTTCTTACCGCACGGCTCTGAAACTTAAGCCT
+GATTTTCCTGATGCTTATTGTAACTTGGCTCATTGCCTGCAGATTGTCTGTGATTGGACA
+GACTATGATGAGCGAATGAAGAAGTTGGTCAGTATTGTGGCTGACCAGTTAGAGAAGAAT
+AGGTTGCCTTCTGTGCATCCTCATCATAGTATGCTATATCCTCTTTCTCATGGCTTCAGG
+AAGGCTATTGCTGAGAGGCACGGCAACCTGTGCTTAGATAAGATTAATGTTCTTCATAAA
+CCACCATATGAACATCCAAAAGACTTGAAGCTCAGTGATGGTCGGCTGCGTGTAGGATAT
+GTGAGTTCCGACTTTGGGAATCATCCTACTTCTCACCTTATGCAGTCTATTCCAGGCATG
+CACAATCCTGATAAATTTGAGGTGTTCTGTTATGCCCTGAGCCCAGACGATGGCACAAAC
+TTCCGAGTGAAGGTGATGGCAGAAGCCAATCATTTCATTGATCTTTCTCAGATTCCATGC
+AATGGAAAAGCAGCTGATCGCATCCATCAGGATGGAATTCATATCCTTGTAAATATGAAT
+GGCTATACTAAGGGCGCTCGAAATGAGCTTTTTGCTCTCAGGCCAGCTCCTATTCAGGCA
+ATGTGGCTGGGATACCCTGGGACGAGTGGTGCGCTTTTCATGGATTATATTATCACTGAT
+CAGGAAACTTCGCCAGCTGAAGTTGCTGAGCAGTATTCCGAGAAATTGGCTTATATGCCC
+CACACTTTTTTTATTGGTGATCATGCTAATATGTTCCCTCACCTGAAGAAAAAAGCAGTC
+ATCGATTTTAAGTCCAATGGGCACATTTATGACAATCGGATAGTTCTGAATGGCATCGAC
+CTCAAAGCATTTCTTGATAGTCTACCAGATGTGAAAATTGTCAAGATGAAGTGTCCTGAT
+GGAGGAGACAATGCAGATAGCAGTAACACAGCTCTTAATATGCCTGTTATTCCTATGAAT
+ACTATTGCAGAAGCAGTTATTGAAATGATTAACCGAGGACAGATTCAAATAACAATTAAT
+GGATTCAGTATTAGCAATGGACTGGCAACTACTCAGATCAACAATAAGGCTGCAACTGGA
+GAGGAGGTTCCCCGTACCATTATTGTAACCACCCGTTCTCAGTACGGGTTACCAGAAGAT
+GCCATCGTATACTGTAACTTTAATCAGTTGTATAAAATTGACCCTTCTACTTTGCAGATG
+TGGGCAAACATTCTGAAGCGTGTTCCCAATAGTGTACTCTGGCTGTTGCGTTTTCCAGCA
+GTAGGAGAACCTAATATTCAACAGTATGCACAAAACATGGGCCTGCCCCAGAACCGTATC
+ATTTTTTCACCTGTTGCTCCTAAAGAGGAACACGTCAGGAGAGGCCAGCTGGCTGATGTC
+TGCTTGGACACTCCACTCTGTAATGGGCACACCACAGGGATGGATGTCCTCTGGGCAGGG
+ACCCCCATGGTGACTATGCCAGGAGAGACTCTTGCTTCTCGAGTTGCAGCATCCCAGCTC
+ACTTGCTTAGGTTGTCTTGAGCTTATTGCTAAAAACAGACAAGAATATGAAGACATAGCT
+GTGAAGCTGGGAACTGATCTAGAATACCTGAAGAAAGTTCGTGGCAAAGTCTGGAAGCAA
+AGAATATCTAGCCCTCTGTTCAACACCAAACAATACACAATGGAACTAGAGCGGCTCTAT
+CTACAGATGTGGGAGCATTATGCAGCTGGCAACAAACCTGACCACATGATTAAGCCTGTT
+GAAGTCACTGAGTCAGCATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1046</residue_number>
+    <molecular_weight>116923.515</molecular_weight>
+    <theoretical_pi>6.693</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>TPR_1</name>
+        <pfam_id>PF00515</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit
+MASSVGNVADSTEPTKRMLSFQGLAELAHREYQAGDFEAAERHCMQLWRQEPDNTGVLLL
+LSSIHFQCRRLDRSAHFSTLAIKQNPLLAEAYSNLGNVYKERGQLQEAIEHYRHALRLKP
+DFIDGYINLAAALVAAGDMEGAVQAYVSALQYNPDLYCVRSDLGNLLKALGRLEEAKACY
+LKAIETQPNFAVAWSNLGCVFNAQGEIWLAIHHFEKAVTLDPNFLDAYINLGNVLKEARI
+FDRAVAAYLRALSLSPNHAVVHGNLACVYYEQGLIDLAIDTYRRAIELQPHFPDAYCNLA
+NALKEKGSVAEAEDCYNTALRLCPTHADSLNNLANIKREQGNIEEAVRLYRKALEVFPEF
+AAAHSNLASVLQQQGKLQEALMHYKEAIRISPTFADAYSNMGNTLKEMQDVQGALQCYTR
+AIQINPAFADAHSNLASIHKDSGNIPEAIASYRTALKLKPDFPDAYCNLAHCLQIVCDWT
+DYDERMKKLVSIVADQLEKNRLPSVHPHHSMLYPLSHGFRKAIAERHGNLCLDKINVLHK
+PPYEHPKDLKLSDGRLRVGYVSSDFGNHPTSHLMQSIPGMHNPDKFEVFCYALSPDDGTN
+FRVKVMAEANHFIDLSQIPCNGKAADRIHQDGIHILVNMNGYTKGARNELFALRPAPIQA
+MWLGYPGTSGALFMDYIITDQETSPAEVAEQYSEKLAYMPHTFFIGDHANMFPHLKKKAV
+IDFKSNGHIYDNRIVLNGIDLKAFLDSLPDVKIVKMKCPDGGDNADSSNTALNMPVIPMN
+TIAEAVIEMINRGQIQITINGFSISNGLATTQINNKAATGEEVPRTIIVTTRSQYGLPED
+AIVYCNFNQLYKIDPSTLQMWANILKRVPNSVLWLLRFPAVGEPNIQQYAQNMGLPQNRI
+IFSPVAPKEEHVRRGQLADVCLDTPLCNGHTTGMDVLWAGTPMVTMPGETLASRVAASQL
+TCLGCLELIAKNRQEYEDIAVKLGTDLEYLKKVRGKVWKQRISSPLFNTKQYTMELERLY
+LQMWEHYAAGNKPDHMIKPVEVTESA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>18250915</genbank_protein_id>
+  <uniprot_id>O15294</uniprot_id>
+  <uniprot_name>OGT1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1W3B</pdb_id>
+    <pdb_id>3PE3</pdb_id>
+    <pdb_id>3PE4</pdb_id>
+    <pdb_id>3TAX</pdb_id>
+    <pdb_id>4AY5</pdb_id>
+    <pdb_id>4AY6</pdb_id>
+    <pdb_id>4GYW</pdb_id>
+    <pdb_id>4GYY</pdb_id>
+    <pdb_id>4GZ3</pdb_id>
+    <pdb_id>4GZ5</pdb_id>
+    <pdb_id>4GZ6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AJ315767</genbank_gene_id>
+  <genecard_id>OGT</genecard_id>
+  <geneatlas_id>OGT</geneatlas_id>
+  <hgnc_id>HGNC:8127</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Lubas WA, Frank DW, Krause M, Hanover JA: O-Linked GlcNAc transferase is a conserved nucleocytoplasmic protein containing tetratricopeptide repeats. J Biol Chem. 1997 Apr 4;272(14):9316-24.</reference_text>
+      <pubmed_id>9083068</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nolte D, Muller U: Human O-GlcNAc transferase (OGT): genomic structure, analysis of splice variants, fine mapping in Xq13.1. Mamm Genome. 2002 Jan;13(1):62-4.</reference_text>
+      <pubmed_id>11773972</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wysocka J, Myers MP, Laherty CD, Eisenman RN, Herr W: Human Sin3 deacetylase and trithorax-related Set1/Ash2 histone H3-K4 methyltransferase are tethered together selectively by the cell-proliferation factor HCF-1. Genes Dev. 2003 Apr 1;17(7):896-911.</reference_text>
+      <pubmed_id>12670868</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujiki R, Chikanishi T, Hashiba W, Ito H, Takada I, Roeder RG, Kitagawa H, Kato S: GlcNAcylation of a histone methyltransferase in retinoic-acid-induced granulopoiesis. Nature. 2009 May 21;459(7245):455-9. Epub 2009 Apr 19.</reference_text>
+      <pubmed_id>19377461</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

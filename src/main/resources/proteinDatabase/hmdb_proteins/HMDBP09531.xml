@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:25:01 -0700</creation_date>
+  <update_date>2013-04-11 15:15:03 -0600</update_date>
+  <accession>HMDBP09531</accession>
+  <secondary_accessions>
+    <accession>15437</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>TCIRG1</gene_name>
+  <general_function>Energy production and conversion</general_function>
+  <specific_function/>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>physiological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular physiological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hydrogen transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proton transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:11</chromosome_location>
+    <locus>11q13.2</locus>
+    <gene_sequence>&gt;2493 bp
+ATGGGCTCCATGTTCCGGAGCGAGGAGGTGGCCCTGGTCCAGCTCTTTCTGCCCACAGCG
+GCTGCCTACACCTGCGTGAGTCGGCTGGGCGAGCTGGGCCTCGTGGAGTTCAGAGACCTC
+AACGCCTCGGTGAGCGCCTTCCAGAGACGCTTTGTGGTTGATGTTCGGCGCTGTGAGGAG
+CTGGAGAAGACCTTCACCTTCCTGCAGGAGGAGGTGCGGCGGGCTGGGCTGGTCCTGCCC
+CCGCCAAAGGGGAGGCTGCCGGCACCCCCACCCCGGGACCTGCTGCGCATCCAGGAGGAG
+ACGGAGCGCCTGGCCCAGGAGCTGCGGGATGTGCGGGGCAACCAGCAGGCCCTGCGGGCC
+CAGCTGCACCAGCTGCAGCTCCACGCCGCCGTGCTACGCCAGGGCCATGAACCTCAGCTG
+GCAGCCGCCCACACAGATGGGGCCTCAGAGAGGACGCCCCTGCTCCAGGCCCCCGGGGGG
+CCGCACCAGGACCTGAGGGTCAACTTTGTGGCAGGTGCCGTGGAGCCCCACAAGGCCCCT
+GCCCTAGAGCGCCTGCTCTGGAGGGCCTGCCGCGGCTTCCTCATTGCCAGCTTCAGGGAG
+CTGGAGCAGCCGCTGGAGCACCCCGTGACGGGCGAGCCAGCCACGTGGATGACCTTCCTC
+ATCTCCTACTGGGGTGAGCAGATCGGACAGAAGATCCGCAAGATCACGGACTGCTTCCAC
+TGCCACGTCTTCCCGTTTCTGCAGCAGGAGGAGGCCCGCCTCGGGGCCCTGCAGCAGCTG
+CAACAGCAGAGCCAGGAGCTGCAGGAGGTCCTCGGGGAGACAGAGCGGTTCCTGAGCCAG
+GTGCTAGGCCGGGTGCTGCAGCTGCTGCCGCCAGGGCAGGTGCAGGTCCACAAGATGAAG
+GCCGTGTACCTGGCCCTGAACCAGTGCAGCGTGAGCACCACGCACAAGTGCCTCATTGCC
+GAGGCCTGGTGCTCTGTGCGAGACCTGCCCGCCCTGCAGGAGGCCCTGCGGGACAGCTCG
+ATGGAGGAGGGAGTGAGTGCCGTGGCTCACCGCATCCCCTGCCGGGACATGCCCCCCACA
+CTCATCCGCACCAACCGCTTCACGGCCAGCTTCCAGGGCATCGTGGATGCCTACGGCGTG
+GGCCGCTACCAGGAGGTCAACCCCGCTCCCTACACCATCATCACCTTCCCCTTCCTGTTT
+GCTGTGATGTTCGGGGATGTGGGCCACGGGCTGCTCATGTTCCTCTTCGCCCTGGCCATG
+GTCCTTGCGGAGAACCGACCGGCTGTGAAGGCCGCGCAGAACGAGATCTGGCAGACTTTC
+TTCAGGGGCCGCTACCTGCTCCTGCTTATGGGCCTGTTCTCCATCTACACCGGCTTCATC
+TACAACGAGTGCTTCAGTCGCGCCACCAGCATCTTCCCCTCGGGCTGGAGTGTGGCCGCC
+ATGGCCAACCAGTCTGGCTGGAGTGATGCATTCCTGGCCCAGCACACGATGCTTACCCTG
+GATCCCAACGTCACCGGTGTCTTCCTGGGACCCTACCCCTTTGGCATCGATCCTATTTGG
+AGCCTGGCTGCCAACCACTTGAGCTTCCTCAACTCCTTCAAGATGAAGATGTCCGTCATC
+CTGGGCGTCGTGCACATGGCCTTTGGGGTGGTCCTCGGAGTCTTCAACCACGTGCACTTT
+GGCCAGAGGCACCGGCTGCTGCTGGAGACGCTGCCGGAGCTCACCTTCCTGCTGGGACTC
+TTCGGTTACCTCGTGTTCCTAGTCATCTACAAGTGGCTGTGTGTCTGGGCTGCCAGGGCC
+GCCTCGGCCCCCAGCATCCTCATCCACTTCATCAACATGTTCCTCTTCTCCCACAGCCCC
+AGCAACAGGCTGCTCTACCCCCGGCAGGAGGTGGTCCAGGCCACGCTGGTGGTCCTGGCC
+TTGGCCATGGTGCCCATCCTGCTGCTTGGCACACCCCTGCACCTGCTGCACCGCCACCGC
+CGCCGCCTGCGGAGGAGGCCCGCTGACCGACAGGAGGAAAACAAGGCCGGGTTGCTGGAC
+CTGCCTGACGCATCTGTGAATGGCTGGAGCTCCGATGAGGAAAAGGCAGGGGGCCTGGAT
+GATGAAGAGGAGGCCGAGCTCGTCCCCTCCGAGGTGCTCATGCACCAGGCCATCCACACC
+ATCGAGTTCTGCCTGGGCTGCGTCTCCAACACCGCCTCCTACCTGCGCCTGTGGGCCCTG
+AGCCTGGCCCACGCCCAGCTGTCCGAGGTTCTGTGGGCCATGGTGATGCGCATAGGCCTG
+GGCCTGGGCCGGGAGGTGGGCGTGGCGGCTGTGGTGCTGGTCCCCATCTTTGCCGCCTTT
+GCCGTGATGACCGTGGCTATCCTGCTGGTGATGGAGGGACTCTCAGCCTTCCTGCACGCC
+CTGCGGCTGCACTGGGTGGAATTCCAGAACAAGTTCTACTCAGGCACGGGCTACAAGCTG
+AGTCCCTTCACCTTCGCTGCCACAGATGACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>830</residue_number>
+    <molecular_weight>92969.0</molecular_weight>
+    <theoretical_pi>7.13</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>V_ATPase_I</name>
+        <pfam_id>PF01496</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3 (T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3, isoform CRA_c)
+MGSMFRSEEVALVQLFLPTAAAYTCVSRLGELGLVEFRDLNASVSAFQRRFVVDVRRCEE
+LEKTFTFLQEEVRRAGLVLPPPKGRLPAPPPRDLLRIQEETERLAQELRDVRGNQQALRA
+QLHQLQLHAAVLRQGHEPQLAAAHTDGASERTPLLQAPGGPHQDLRVNFVAGAVEPHKAP
+ALERLLWRACRGFLIASFRELEQPLEHPVTGEPATWMTFLISYWGEQIGQKIRKITDCFH
+CHVFPFLQQEEARLGALQQLQQQSQELQEVLGETERFLSQVLGRVLQLLPPGQVQVHKMK
+AVYLALNQCSVSTTHKCLIAEAWCSVRDLPALQEALRDSSMEEGVSAVAHRIPCRDMPPT
+LIRTNRFTASFQGIVDAYGVGRYQEVNPAPYTIITFPFLFAVMFGDVGHGLLMFLFALAM
+VLAENRPAVKAAQNEIWQTFFRGRYLLLLMGLFSIYTGFIYNECFSRATSIFPSGWSVAA
+MANQSGWSDAFLAQHTMLTLDPNVTGVFLGPYPFGIDPIWSLAANHLSFLNSFKMKMSVI
+LGVVHMAFGVVLGVFNHVHFGQRHRLLLETLPELTFLLGLFGYLVFLVIYKWLCVWAARA
+ASAPSILIHFINMFLFSHSPSNRLLYPRQEVVQATLVVLALAMVPILLLGTPLHLLHRHR
+RRLRRRPADRQEENKAGLLDLPDASVNGWSSDEEKAGGLDDEEEAELVPSEVLMHQAIHT
+IEFCLGCVSNTASYLRLWALSLAHAQLSEVLWAMVMRIGLGLGREVGVAAVVLVPIFAAF
+AVMTVAILLVMEGLSAFLHALRLHWVEFQNKFYSGTGYKLSPFTFAATDD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>17390298</genbank_protein_id>
+  <uniprot_id>Q13488</uniprot_id>
+  <uniprot_name>Q8WVC5_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC018133</genbank_gene_id>
+  <genecard_id>Q8WVC5</genecard_id>
+  <geneatlas_id>TCIRG1</geneatlas_id>
+  <hgnc_id>HGNC:11647</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Strausberg RL, Feingold EA, Grouse LH, Derge JG, Klausner RD, Collins FS, Wagner L, Shenmen CM, Schuler GD, Altschul SF, Zeeberg B, Buetow KH, Schaefer CF, Bhat NK, Hopkins RF, Jordan H, Moore T, Max SI, Wang J, Hsieh F, Diatchenko L, Marusina K, Farmer AA, Rubin GM, Hong L, Stapleton M, Soares MB, Bonaldo MF, Casavant TL, Scheetz TE, Brownstein MJ, Usdin TB, Toshiyuki S, Carninci P, Prange C, Raha SS, Loquellano NA, Peters GJ, Abramson RD, Mullahy SJ, Bosak SA, McEwan PJ, McKernan KJ, Malek JA, Gunaratne PH, Richards S, Worley KC, Hale S, Garcia AM, Gay LJ, Hulyk SW, Villalon DK, Muzny DM, Sodergren EJ, Lu X, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madan A, Young AC, Shevchenko Y, Bouffard GG, Blakesley RW, Touchman JW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Krzywinski MI, Skalska U, Smailus DE, Schnerch A, Schein JE, Jones SJ, Marra MA: Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences. Proc Natl Acad Sci U S A. 2002 Dec 24;99(26):16899-903. Epub 2002 Dec 11.</reference_text>
+      <pubmed_id>12477932</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

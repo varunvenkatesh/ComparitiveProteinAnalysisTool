@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:14 -0700</creation_date>
+  <update_date>2013-04-11 14:45:15 -0600</update_date>
+  <accession>HMDBP00175</accession>
+  <secondary_accessions>
+    <accession>5407</accession>
+    <accession>HMDBP03458</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CI-13kD-B</synonym>
+    <synonym>Complex I subunit B13</synonym>
+    <synonym>Complex I-13kD-B</synonym>
+    <synonym>NADH-ubiquinone oxidoreductase 13 kDa-B subunit</synonym>
+  </synonyms>
+  <gene_name>NDUFA5</gene_name>
+  <general_function>Involved in oxidoreductase activity, acting on NADH or NADPH</general_function>
+  <specific_function>Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00598</accession>
+      <name>Sulfide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01304</accession>
+      <name>QH2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02012</accession>
+      <name>Ubiquinone-1</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06709</accession>
+      <name>Ubiquinone-2</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on nadh or nadph</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>generation of precursor metabolites and energy</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>electron transport chain</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>respiratory electron transport chain</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle inner membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion inner membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Matrix side</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:7</chromosome_location>
+    <locus>7q32</locus>
+    <gene_sequence>&gt;351 bp
+ATGGCGGGTGTGCTGAAGAAGACCACTGGCCTTGTGGGATTGGCTGTGTGCAATACTCCT
+CACGAGAGGCTAAGAATATTGTACACAAAGATTCTTGATGTTCTTGAGGAAATCCCTAAA
+AATGCAGCATATAGAAAGTATACAGAACAGATTACAAATGAGAAGCTGGCTATGGTTAAA
+GCGGAACCAGATGTTAAAAAATTAGAAGACCAACTTCAAGGCGGTCAATTAGAAGAGGTG
+ATTCTTCAGGCTGAACATGAACTAAATCTGGCAAGAAAAATGAGGGAATGGAAACTATGG
+GAGCCATTAGTGGAAGAGCCTCCTGCCGATCAGTGGAAATGGCCAATATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>116</residue_number>
+    <molecular_weight>13458.6</molecular_weight>
+    <theoretical_pi>5.81</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ETC_C1_NDUFA5</name>
+        <pfam_id>PF04716</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5
+MAGVLKKTTGLVGLAVCNTPHERLRILYTKILDVLEEIPKNAAYRKYTEQITNEKLAMVK
+AEPDVKKLEDQLQGGQLEEVILQAEHELNLARKMREWKLWEPLVEEPPADQWKWPI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>37674403</genbank_protein_id>
+  <uniprot_id>Q16718</uniprot_id>
+  <uniprot_name>NDUA5_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AC073323</genbank_gene_id>
+  <genecard_id>NDUFA5</genecard_id>
+  <geneatlas_id>NDUFA5</geneatlas_id>
+  <hgnc_id>HGNC:7688</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Pata I, Tensing K, Metspalu A: A human cDNA encoding the homologue of NADH: ubiquinone oxidoreductase subunit B13. Biochim Biophys Acta. 1997 Feb 7;1350(2):115-8.</reference_text>
+      <pubmed_id>9048877</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Russell MW, du Manoir S, Collins FS, Brody LC: Cloning of the human NADH: ubiquinone oxidoreductase subunit B13: localization to chromosome 7q32 and identification of a pseudogene on 11p15. Mamm Genome. 1997 Jan;8(1):60-1.</reference_text>
+      <pubmed_id>9021153</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tensing K, Pata I, Wittig I, Wehnert M, Metspalu A: Genomic organization of the human complex I 13-kDa subunit gene NDUFA5.  Cytogenet Cell Genet. 1999;84(1-2):125-7.</reference_text>
+      <pubmed_id>10343126</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Fulton RS, Fulton LA, Graves TA, Pepin KH, Wagner-McPherson C, Layman D, Maas J, Jaeger S, Walker R, Wylie K, Sekhon M, Becker MC, O'Laughlin MD, Schaller ME, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Cordes M, Du H, Sun H, Edwards J, Bradshaw-Cordum H, Ali J, Andrews S, Isak A, Vanbrunt A, Nguyen C, Du F, Lamar B, Courtney L, Kalicki J, Ozersky P, Bielicki L, Scott K, Holmes A, Harkins R, Harris A, Strong CM, Hou S, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Leonard S, Rohlfing T, Rock SM, Tin-Wollam AM, Abbott A, Minx P, Maupin R, Strowmatt C, Latreille P, Miller N, Johnson D, Murray J, Woessner JP, Wendl MC, Yang SP, Schultz BR, Wallis JW, Spieth J, Bieri TA, Nelson JO, Berkowicz N, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Bedell JA, Mardis ER, Clifton SW, Chissoe SL, Marra MA, Raymond C, Haugen E, Gillett W, Zhou Y, James R, Phelps K, Iadanoto S, Bubb K, Simms E, Levy R, Clendenning J, Kaul R, Kent WJ, Furey TS, Baertsch RA, Brent MR, Keibler E, Flicek P, Bork P, Suyama M, Bailey JA, Portnoy ME, Torrents D, Chinwalla AT, Gish WR, Eddy SR, McPherson JD, Olson MV, Eichler EE, Green ED, Waterston RH, Wilson RK: The DNA sequence of human chromosome 7.  Nature. 2003 Jul 10;424(6945):157-64.</reference_text>
+      <pubmed_id>12853948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murray J, Zhang B, Taylor SW, Oglesbee D, Fahy E, Marusich MF, Ghosh SS, Capaldi RA: The subunit composition of the human NADH dehydrogenase obtained by rapid one-step immunopurification. J Biol Chem. 2003 Apr 18;278(16):13619-22. Epub 2003 Feb 28.</reference_text>
+      <pubmed_id>12611891</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

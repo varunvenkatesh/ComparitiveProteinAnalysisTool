@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:34 -0700</creation_date>
+  <update_date>2013-05-27 11:29:11 -0600</update_date>
+  <accession>HMDBP00270</accession>
+  <secondary_accessions>
+    <accession>5502</accession>
+    <accession>HMDBP03640</accession>
+    <accession>HMDBP09371</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>PhyH</synonym>
+    <synonym>Phytanic acid oxidase</synonym>
+    <synonym>Phytanoyl-CoA alpha-hydroxylase</synonym>
+  </synonyms>
+  <gene_name>PHYH</gene_name>
+  <general_function>Involved in electron carrier activity</general_function>
+  <specific_function>Converts phytanoyl-CoA to 2-hydroxyphytanoyl-CoA.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Oxidation of Branched Chain Fatty Acids</name>
+      <smpdb_id>SMP00030</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phytanic Acid Peroxisomal Oxidation</name>
+      <smpdb_id>SMP00450</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>fatty acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00071</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Peroxisome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04146</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01359</accession>
+      <name>Phytanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01295</accession>
+      <name>2-Hydroxyphytanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00044</accession>
+      <name>Ascorbic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>peroxisomal matrix</description>
+      <go_id>GO:0005782</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cofactor binding</description>
+      <go_id>GO:0048037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-ascorbic acid binding</description>
+      <go_id>GO:0031418</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen</description>
+      <go_id>GO:0016702</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phytanoyl-CoA dioxygenase activity</description>
+      <go_id>GO:0048244</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid alpha-oxidation</description>
+      <go_id>GO:0001561</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>isoprenoid metabolic process</description>
+      <go_id>GO:0006720</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>methyl-branched fatty acid metabolic process</description>
+      <go_id>GO:0097089</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Peroxisome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10p13</locus>
+    <gene_sequence>&gt;1017 bp
+ATGGAGCAGCTTCGCGCCGCCGCCCGTCTGCAGATTGTTCTGGGCCACCTCGGCCGCCCC
+TCGGCCGGGGCTGTCGTAGCTCATCCCACTTCAGGGACTATTTCCTCTGCCAGTTTCCAT
+CCTCAACAATTCCAGTATACTCTGGATAATAATGTTCTAACCCTGGAACAGAGAAAATTT
+TATGAAGAAAATGGGTTTCTAGTAATCAAAAATCTTGTACCTGATGCCGATATTCAACGC
+TTTCGGAATGAGTTTGAAAAAATCTGCAGAAAGGAGGTGAAACCATTAGGATTAACAGTA
+ATGAGAGATGTGACCATTTCGAAATCCGAATATGCTCCAAGTGAGAAGATGATCACGAAG
+GTCCAGGATTTCCAGGAAGATAAGGAGCTCTTCAGATACTGCACTCTCCCCGAGATTCTG
+AAATATGTGGAGTGCTTCACTGGACCTAATATTATGGCCATGCACACAATGTTGATAAAC
+AAACCTCCAGATTCTGGCAAGAAGACGTCCCGTCACCCCCTGCACCAGGACCTGCACTAT
+TTCCCCTTCAGGCCCAGCGATCTCATCGTTTGCGCCTGGACGGCGATGGAGCACATCAGC
+CGGAACAACGGCTGTCTGGTTGTGCTCCCAGGCACGCACAAGGGCTCCCTGAAGCCCCAC
+GATTACCCCAAGTGGGAGGGGGGAGTTAACAAAATGTTCCACGGGATCCAGGACTACGAG
+GAAAACAAGGCCCGGGTGCACCTGGTGATGGAGAAGGGCGACACTGTTTTCTTCCATCCT
+TTGCTCATCCACGGATCTGGTCAGAATAAAACCCAGGGATTCCGGAAGGCAATTTCCTGC
+CATTTCGCCAGTGCCGATTGCCACTACATTGACGTGAAGGGCACCAGTCAAGAAAACATC
+GAGAAGGAAGTTGTAGGAATAGCACATAAATTCTTTGGAGCTGAAAATAGCGTGAACTTG
+AAGGATATTTGGATGTTTCGAGCTCGACTTGTGAAAGGAGAAAGAACCAATCTTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>338</residue_number>
+    <molecular_weight>38538.065</molecular_weight>
+    <theoretical_pi>8.477</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PhyH</name>
+        <pfam_id>PF05721</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Phytanoyl-CoA dioxygenase, peroxisomal
+MEQLRAAARLQIVLGHLGRPSAGAVVAHPTSGTISSASFHPQQFQYTLDNNVLTLEQRKF
+YEENGFLVIKNLVPDADIQRFRNEFEKICRKEVKPLGLTVMRDVTISKSEYAPSEKMITK
+VQDFQEDKELFRYCTLPEILKYVECFTGPNIMAMHTMLINKPPDSGKKTSRHPLHQDLHY
+FPFRPSDLIVCAWTAMEHISRNNGCLVVLPGTHKGSLKPHDYPKWEGGVNKMFHGIQDYE
+ENKARVHLVMEKGDTVFFHPLLIHGSGQNKTQGFRKAISCHFASADCHYIDVKGTSQENI
+EKEVVGIAHKFFGAENSVNLKDIWMFRARLVKGERTNL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>83281447</genbank_protein_id>
+  <uniprot_id>O14832</uniprot_id>
+  <uniprot_name>PAHX_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2A1X</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF023462</genbank_gene_id>
+  <genecard_id>PHYH</genecard_id>
+  <geneatlas_id>PHYH</geneatlas_id>
+  <hgnc_id>HGNC:8940</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mihalik SJ, Morrell JC, Kim D, Sacksteder KA, Watkins PA, Gould SJ: Identification of PAHX, a Refsum disease gene.  Nat Genet. 1997 Oct;17(2):185-9.</reference_text>
+      <pubmed_id>9326939</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jansen GA, Ofman R, Ferdinandusse S, Ijlst L, Muijsers AO, Skjeldal OH, Stokke O, Jakobs C, Besley GT, Wraith JE, Wanders RJ: Refsum disease is caused by mutations in the phytanoyl-CoA hydroxylase gene. Nat Genet. 1997 Oct;17(2):190-3.</reference_text>
+      <pubmed_id>9326940</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chambraud B, Radanyi C, Camonis JH, Rajkowski K, Schumacher M, Baulieu EE: Immunophilins, Refsum disease, and lupus nephritis: the peroxisomal enzyme phytanoyl-COA alpha-hydroxylase is a new FKBP-associated protein. Proc Natl Acad Sci U S A. 1999 Mar 2;96(5):2104-9.</reference_text>
+      <pubmed_id>10051602</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jansen GA, Hogenhout EM, Ferdinandusse S, Waterham HR, Ofman R, Jakobs C, Skjeldal OH, Wanders RJ: Human phytanoyl-CoA hydroxylase: resolution of the gene structure and the molecular basis of Refsum's disease. Hum Mol Genet. 2000 May 1;9(8):1195-200.</reference_text>
+      <pubmed_id>10767344</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee ZH, Kim H, Ahn KY, Seo KH, Kim JK, Bae CS, Kim KK: Identification of a brain specific protein that associates with a refsum disease gene product, phytanoyl-CoA alpha-hydroxylase. Brain Res Mol Brain Res. 2000 Feb 22;75(2):237-47.</reference_text>
+      <pubmed_id>10686344</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McDonough MA, Kavanagh KL, Butler D, Searls T, Oppermann U, Schofield CJ: Structure of human phytanoyl-CoA 2-hydroxylase identifies molecular mechanisms of Refsum disease. J Biol Chem. 2005 Dec 9;280(49):41101-10. Epub 2005 Sep 25.</reference_text>
+      <pubmed_id>16186124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jansen GA, Waterham HR, Wanders RJ: Molecular basis of Refsum disease: sequence variations in phytanoyl-CoA hydroxylase (PHYH) and the PTS2 receptor (PEX7). Hum Mutat. 2004 Mar;23(3):209-18.</reference_text>
+      <pubmed_id>14974078</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jansen GA, Ferdinandusse S, Hogenhout EM, Verhoeven NM, Jakobs C, Wanders RJ: Phytanoyl-CoA hydroxylase deficiency. Enzymological and molecular basis of classical Refsum disease. Adv Exp Med Biol. 1999;466:371-6.</reference_text>
+      <pubmed_id>10709665</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

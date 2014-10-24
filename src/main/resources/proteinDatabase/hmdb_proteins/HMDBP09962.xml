@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:30:05 -0700</creation_date>
+  <update_date>2013-05-27 11:15:07 -0600</update_date>
+  <accession>HMDBP09962</accession>
+  <secondary_accessions>
+    <accession>15894</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Fuc-TVI</synonym>
+    <synonym>FucT-VI</synonym>
+    <synonym>Fucosyltransferase 6</synonym>
+    <synonym>Fucosyltransferase VI</synonym>
+    <synonym>Galactoside 3-L-fucosyltransferase</synonym>
+  </synonyms>
+  <gene_name>FUT6</gene_name>
+  <general_function>Involved in fucosyltransferase activity</general_function>
+  <specific_function>Enzyme involved in the biosynthesis of the E-Selectin ligand, sialyl-Lewis X. Catalyzes the transfer of fucose from GDP-beta-fucose to alpha-2,3 sialylated substrates.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycosphingolipid biosynthesis - lacto and neolacto series</name>
+      <smpdb_id/>
+      <kegg_map_id>map00601</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01095</accession>
+      <name>GDP-L-fucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fucosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid glycosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi apparatus</description>
+      <go_id>GO:0005794</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi cisterna membrane</description>
+      <go_id>GO:0032580</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase activity</description>
+      <go_id>GO:0017060</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alpha-(1-&gt;3)-fucosyltransferase activity</description>
+      <go_id>GO:0046920</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-fucose catabolic process</description>
+      <go_id>GO:0042355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein glycosylation</description>
+      <go_id>GO:0006486</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Golgi stack membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19p13.3</locus>
+    <gene_sequence>&gt;1080 bp
+ATGGATCCCCTGGGCCCGGCCAAGCCACAGTGGTCGTGGCGCTGCTGTCTGACCACGCTG
+CTGTTTCAGCTGCTGATGGCTGTGTGTTTCTTCTCCTATCTGCGTGTGTCTCAAGACGAT
+CCCACTGTGTACCCTAATGGGTCCCGCTTCCCAGACAGCACAGGGACCCCCGCCCACTCC
+ATCCCCCTGATCCTGCTGTGGACGTGGCCTTTTAACAAACCCATAGCTCTGCCCCGCTGC
+TCAGAGATGGTGCCTGGCACGGCTGACTGCAACATCACTGCCGACCGCAAGGTGTATCCA
+CAGGCAGACGCGGTCATCGTGCACCACCGAGAGGTCATGTACAACCCCAGTGCCCAGCTC
+CCACGCTCCTCGAGGCGGCAGGGGCAGCGATGGATCTGGTTCAGCATGGAGTCCCCAAGC
+CACTGCTGGCAGCTGAAAGCCATGGACGGATACTTCAATCTCACCATGTCCTACCGCAGC
+GACTCCGACATCTTCACGCCCTACGGCTGGCTGGAGCCGTGGTCCGGCCAGCCTGCCCAC
+CCACCGCTCAACCTCTCGGCCAAGACCGAGCTGGTGGCCTGGGCAGTGTCCAACTGGGGG
+CCAAACTCCGCCAGGGTGCGCTACTACCAGAGCCTGCAGGCCCATCTCAAGGTGGACGTG
+TACGGACGCTCCCACAAGCCCCTGCCCCAGGGAACCATGATGGAGACGCTGTCCCGGTAC
+AAGTTCTATCTGGCCTTCGAGAACTCCTTGCACCCCGACTACATCACCGAGAAGCTGTGG
+AGGAACGCCCTGGAGGCCTGGGCCGTGCCCGTGGTGCTGGGCCCCAGCAGAAGCAACTAC
+GAGAGGTTCCTGCCGCCCGACGCCTTCATCCACGTGGACGACTTCCAGAGCCCCAAGGAC
+CTGGCCCGGTACCTGCAGGAGCTGGACAAGGACCACGCCCGCTACCTGAGCTACTTTCGC
+TGGCGGGAGACGCTGCGGCCTCGCTCCTTCAGCTGGGCACTCGCTTTCTGCAAGGCCTGC
+TGGAAACTGCAGGAGGAATCCAGGTACCAGACACGCGGCATAGCGGCTTGGTTCACCTGA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>359</residue_number>
+    <molecular_weight>41859.42</molecular_weight>
+    <theoretical_pi>8.679</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glyco_transf_10</name>
+        <pfam_id>PF00852</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alpha-(1,3)-fucosyltransferase
+MDPLGPAKPQWSWRCCLTTLLFQLLMAVCFFSYLRVSQDDPTVYPNGSRFPDSTGTPAHS
+IPLILLWTWPFNKPIALPRCSEMVPGTADCNITADRKVYPQADAVIVHHREVMYNPSAQL
+PRSPRRQGQRWIWFSMESPSHCWQLKAMDGYFNLTMSYRSDSDIFTPYGWLEPWSGQPAH
+PPLNLSAKTELVAWAVSNWGPNSARVRYYQSLQAHLKVDVYGRSHKPLPQGTMMETLSRY
+KFYLAFENSLHPDYITEKLWRNALEAWAVPVVLGPSRSNYERFLPPDAFIHVDDFQSPKD
+LARYLQELDKDHARYLSYFRWRETLRPRSFSWALAFCKACWKLQEESRYQTRGIAAWFT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4928266</genbank_protein_id>
+  <uniprot_id>P51993</uniprot_id>
+  <uniprot_name>FUT6_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF131211</genbank_gene_id>
+  <genecard_id>FUT6</genecard_id>
+  <geneatlas_id>FUT6</geneatlas_id>
+  <hgnc_id>HGNC:4017</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Koszdin KL, Bowen BR: The cloning and expression of a human alpha-1,3 fucosyltransferase capable of forming the E-selectin ligand. Biochem Biophys Res Commun. 1992 Aug 31;187(1):152-7.</reference_text>
+      <pubmed_id>1520296</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Weston BW, Smith PL, Kelly RJ, Lowe JB: Molecular cloning of a fourth member of a human alpha (1,3)fucosyltransferase gene family. Multiple homologous sequences that determine expression of the Lewis x, sialyl Lewis x, and difucosyl sialyl Lewis x epitopes. J Biol Chem. 1992 Dec 5;267(34):24575-84.</reference_text>
+      <pubmed_id>1339443</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cameron HS, Szczepaniak D, Weston BW: Expression of human chromosome 19p alpha(1,3)-fucosyltransferase genes in normal tissues. Alternative splicing, polyadenylation, and isoforms. J Biol Chem. 1995 Aug 25;270(34):20112-22.</reference_text>
+      <pubmed_id>7650030</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

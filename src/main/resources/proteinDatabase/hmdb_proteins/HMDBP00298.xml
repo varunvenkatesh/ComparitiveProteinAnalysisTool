@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:41 -0700</creation_date>
+  <update_date>2013-05-27 11:04:19 -0600</update_date>
+  <accession>HMDBP00298</accession>
+  <secondary_accessions>
+    <accession>5533</accession>
+    <accession>HMDBP03494</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Liver-type arginase</synonym>
+    <synonym>Type I arginase</synonym>
+  </synonyms>
+  <gene_name>ARG1</gene_name>
+  <general_function>Involved in arginase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Arginine and Proline Metabolism</name>
+      <smpdb_id>SMP00020</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Urea Cycle</name>
+      <smpdb_id>SMP00059</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>urea cycle</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Amoebiasis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05146</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00214</accession>
+      <name>Ornithine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00517</accession>
+      <name>L-Arginine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00294</accession>
+      <name>Urea</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>arginase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>arginine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>neuron projection</description>
+      <go_id>GO:0043005</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>neuronal cell body</description>
+      <go_id>GO:0043025</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arginase activity</description>
+      <go_id>GO:0004053</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>manganese ion binding</description>
+      <go_id>GO:0030145</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>arginine catabolic process</description>
+      <go_id>GO:0006527</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to dexamethasone stimulus</description>
+      <go_id>GO:0071549</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to glucagon stimulus</description>
+      <go_id>GO:0071377</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to hydrogen peroxide</description>
+      <go_id>GO:0070301</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to lipopolysaccharide</description>
+      <go_id>GO:0071222</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to transforming growth factor beta stimulus</description>
+      <go_id>GO:0071560</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>collagen biosynthetic process</description>
+      <go_id>GO:0032964</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>liver development</description>
+      <go_id>GO:0001889</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lung development</description>
+      <go_id>GO:0030324</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mammary gland involution</description>
+      <go_id>GO:0060056</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>maternal process involved in female pregnancy</description>
+      <go_id>GO:0060135</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of endothelial cell proliferation</description>
+      <go_id>GO:0001938</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotrimerization</description>
+      <go_id>GO:0070207</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of L-arginine import</description>
+      <go_id>GO:0010963</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amine stimulus</description>
+      <go_id>GO:0014075</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amino acid stimulus</description>
+      <go_id>GO:0043200</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to axon injury</description>
+      <go_id>GO:0048678</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cadmium ion</description>
+      <go_id>GO:0046686</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to herbicide</description>
+      <go_id>GO:0009635</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to manganese ion</description>
+      <go_id>GO:0010042</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to methylmercury</description>
+      <go_id>GO:0051597</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to selenium ion</description>
+      <go_id>GO:0010269</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to vitamin A</description>
+      <go_id>GO:0033189</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to vitamin E</description>
+      <go_id>GO:0033197</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to zinc ion</description>
+      <go_id>GO:0010043</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>urea cycle</description>
+      <go_id>GO:0000050</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6q23</locus>
+    <gene_sequence>&gt;969 bp
+ATGAGCGCCAAGTCCAGAACCATAGGGATTATTGGAGCTCCTTTCTCAAAGGGACAGCCA
+CGAGGAGGGGTGGAAGAAGGCCCTACAGTATTGAGAAAGGCTGGTCTGCTTGAGAAACTT
+AAAGAACAAGAGTGTGATGTGAAGGATTATGGGGACCTGCCCTTTGCTGACATCCCTAAT
+GACAGTCCCTTTCAAATTGTGAAGAATCCAAGGTCTGTGGGAAAAGCAAGCGAGCAGCTG
+GCTGGCAAGGTGGCACAAGTCAAGAAGAACGGAAGAATCAGCCTGGTGCTGGGCGGAGAC
+CACAGTTTGGCAATTGGAAGCATCTCTGGCCATGCCAGGGTCCACCCTGATCTTGGAGTC
+ATCTGGGTGGATGCTCACACTGATATCAACACTCCACTGACAACCACAAGTGGAAACTTG
+CATGGACAACCTGTATCTTTCCTCCTGAAGGAACTAAAAGGAAAGATTCCCGATGTGCCA
+GGATTCTCCTGGGTGACTCCCTGTATATCTGCCAAGGATATTGTGTATATTGGCTTGAGA
+GACGTGGACCCTGGGGAACACTACATTTTGAAAACTCTAGGCATTAAATACTTTTCAATG
+ACTGAAGTGGACAGACTAGGAATTGGCAAGGTGATGGAAGAAACACTCAGCTATCTACTA
+GGAAGAAAGAAAAGGCCAATTCATCTAAGTTTTGATGTTGACGGACTGGACCCATCTTTC
+ACACCAGCTACTGGCACACCAGTCGTGGGAGGTCTGACATACAGAGAAGGTCTCTACATC
+ACAGAAGAAATCTACAAAACAGGGCTACTCTCAGGATTAGATATAATGGAAGTGAACCCA
+TCCCTGGGGAAGACACCAGAAGAAGTAACTCGAACAGTGAACACAGCAGTTGCAATAACC
+TTGGCTTGTTTCGGACTTGCTCGGGAGGGTAATCACAAGCCTATTGACTACCTTAACCCA
+CCTAAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>322</residue_number>
+    <molecular_weight>34734.655</molecular_weight>
+    <theoretical_pi>7.217</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Arginase</name>
+        <pfam_id>PF00491</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Arginase-1
+MSAKSRTIGIIGAPFSKGQPRGGVEEGPTVLRKAGLLEKLKEQECDVKDYGDLPFADIPN
+DSPFQIVKNPRSVGKASEQLAGKVAEVKKNGRISLVLGGDHSLAIGSISGHARVHPDLGV
+IWVDAHTDINTPLTTTSGNLHGQPVSFLLKELKGKIPDVPGFSWVTPCISAKDIVYIGLR
+DVDPGEHYILKTLGIKYFSMTEVDRLGIGKVMEETLSYLLGRKKRPIHLSFDVDGLDPSF
+TPATGTPVVGGLTYREGLYITEEIYKTGLLSGLDIMEVNPSLGKTPEEVTRTVNTAVAIT
+LACFGLAREGNHKPIDYLNPPK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>178995</genbank_protein_id>
+  <uniprot_id>P05089</uniprot_id>
+  <uniprot_name>ARGI1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1WVA</pdb_id>
+    <pdb_id>1WVB</pdb_id>
+    <pdb_id>2AEB</pdb_id>
+    <pdb_id>2PHA</pdb_id>
+    <pdb_id>2PHO</pdb_id>
+    <pdb_id>2PLL</pdb_id>
+    <pdb_id>2ZAV</pdb_id>
+    <pdb_id>3DJ8</pdb_id>
+    <pdb_id>3E6K</pdb_id>
+    <pdb_id>3E6V</pdb_id>
+    <pdb_id>3F80</pdb_id>
+    <pdb_id>3GMZ</pdb_id>
+    <pdb_id>3GN0</pdb_id>
+    <pdb_id>3KV2</pdb_id>
+    <pdb_id>3LP4</pdb_id>
+    <pdb_id>3LP7</pdb_id>
+    <pdb_id>3MFV</pdb_id>
+    <pdb_id>3MFW</pdb_id>
+    <pdb_id>3MJL</pdb_id>
+    <pdb_id>3SJT</pdb_id>
+    <pdb_id>3SKK</pdb_id>
+    <pdb_id>3TF3</pdb_id>
+    <pdb_id>3TH7</pdb_id>
+    <pdb_id>3THE</pdb_id>
+    <pdb_id>3THH</pdb_id>
+    <pdb_id>3THJ</pdb_id>
+    <pdb_id>4FCI</pdb_id>
+    <pdb_id>4FCK</pdb_id>
+    <pdb_id>4GSM</pdb_id>
+    <pdb_id>4GSV</pdb_id>
+    <pdb_id>4GSZ</pdb_id>
+    <pdb_id>4GWC</pdb_id>
+    <pdb_id>4GWD</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M14502</genbank_gene_id>
+  <genecard_id>ARG1</genecard_id>
+  <geneatlas_id>ARG1</geneatlas_id>
+  <hgnc_id>HGNC:663</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Haraguchi Y, Takiguchi M, Amaya Y, Kawamoto S, Matsuda I, Mori M: Molecular cloning and nucleotide sequence of cDNA for human liver arginase. Proc Natl Acad Sci U S A. 1987 Jan;84(2):412-5.</reference_text>
+      <pubmed_id>3540966</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takiguchi M, Haraguchi Y, Mori M: Human liver-type arginase gene: structure of the gene and analysis of the promoter region. Nucleic Acids Res. 1988 Sep 26;16(18):8789-802.</reference_text>
+      <pubmed_id>3174433</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikemoto M, Tabata M, Miyake T, Kono T, Mori M, Totani M, Murachi T: Expression of human liver arginase in Escherichia coli. Purification and properties of the product. Biochem J. 1990 Sep 15;270(3):697-703.</reference_text>
+      <pubmed_id>2241902</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Costanzo L, Sabio G, Mora A, Rodriguez PC, Ochoa AC, Centeno F, Christianson DW: Crystal structure of human arginase I at 1.29-A resolution and exploration of inhibition in the immune response. Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13058-63. Epub 2005 Sep 2.</reference_text>
+      <pubmed_id>16141327</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Costanzo L, Moulin M, Haertlein M, Meilleur F, Christianson DW: Expression, purification, assay, and crystal structure of perdeuterated human arginase I. Arch Biochem Biophys. 2007 Sep 1;465(1):82-9. Epub 2007 May 21.</reference_text>
+      <pubmed_id>17562323</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Costanzo L, Pique ME, Christianson DW: Crystal structure of human arginase I complexed with thiosemicarbazide reveals an unusual thiocarbonyl mu-sulfide ligand in the binuclear manganese cluster. J Am Chem Soc. 2007 May 23;129(20):6388-9. Epub 2007 May 1.</reference_text>
+      <pubmed_id>17469833</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zakharian TY, Di Costanzo L, Christianson DW: Synthesis of (2S)-2-amino-7,8-epoxyoctanoic acid and structure of its metal-bridging complex with human arginase I. Org Biomol Chem. 2008 Sep 21;6(18):3240-3. Epub 2008 Aug 6.</reference_text>
+      <pubmed_id>18802628</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uchino T, Haraguchi Y, Aparicio JM, Mizutani N, Higashikawa M, Naitoh H, Mori M, Matsuda I: Three novel mutations in the liver-type arginase gene in three unrelated Japanese patients with argininemia. Am J Hum Genet. 1992 Dec;51(6):1406-12.</reference_text>
+      <pubmed_id>1463019</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grody WW, Klein D, Dodson AE, Kern RM, Wissmann PB, Goodman BK, Bassand P, Marescau B, Kang SS, Leonard JV, et al.: Molecular genetic study of human arginase deficiency.  Am J Hum Genet. 1992 Jun;50(6):1281-90.</reference_text>
+      <pubmed_id>1598908</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uchino T, Snyderman SE, Lambert M, Qureshi IA, Shapira SK, Sansaricq C, Smit LM, Jakobs C, Matsuda I: Molecular basis of phenotypic variation in patients with argininemia.  Hum Genet. 1995 Sep;96(3):255-60.</reference_text>
+      <pubmed_id>7649538</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gobert AP, Cheng Y, Wang JY, Boucher JL, Iyer RK, Cederbaum SD, Casero RA Jr, Newton JC, Wilson KT: Helicobacter pylori induces macrophage apoptosis by activation of arginase II.  J Immunol. 2002 May 1;168(9):4692-700.</reference_text>
+        <pubmed_id>11971019</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Iwata S, Tsujino T, Ikeda Y, Ishida T, Ueyama T, Gotoh T, Mori M, Yokoyama M: Decreased expression of arginase II in the kidneys of Dahl salt-sensitive rats.  Hypertens Res. 2002 May;25(3):411-8.</reference_text>
+        <pubmed_id>12135320</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Stickings P, Mistry SK, Boucher JL, Morris SM, Cunningham JM: Arginase expression and modulation of IL-1beta-induced nitric oxide generation in rat and human islets of Langerhans. Nitric Oxide. 2002 Dec;7(4):289-96.</reference_text>
+        <pubmed_id>12446178</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bansal V, Ochoa JB: Arginine availability, arginase, and the immune response.  Curr Opin Clin Nutr Metab Care. 2003 Mar;6(2):223-8.</reference_text>
+        <pubmed_id>12589193</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ornithine</name>
+        <accession>HMDB00214</accession>
+      </metabolite>
+      <reference>
+        <reference_text>El Alami M, Dubois E, Oudjama Y, Tricot C, Wouters J, Stalon V, Messenguy F: Yeast epiarginase regulation, an enzyme-enzyme activity control: identification of residues of ornithine carbamoyltransferase and arginase responsible for enzyme catalytic and regulatory activities. J Biol Chem. 2003 Jun 13;278(24):21550-8. Epub 2003 Apr 4.</reference_text>
+        <pubmed_id>12679340</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Urea</name>
+        <accession>HMDB00294</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Urea</name>
+        <accession>HMDB00294</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Urea</name>
+        <accession>HMDB00294</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

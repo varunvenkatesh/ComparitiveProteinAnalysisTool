@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:02:19 -0700</creation_date>
+  <update_date>2013-01-15 20:02:19 -0700</update_date>
+  <accession>HMDBP07755</accession>
+  <secondary_accessions>
+    <accession>13464</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>BK channel subunit beta-3</synonym>
+    <synonym>BKbeta3</synonym>
+    <synonym>Calcium-activated potassium channel, subfamily M subunit beta-3</synonym>
+    <synonym>Charybdotoxin receptor subunit beta-3</synonym>
+    <synonym>Hbeta3</synonym>
+    <synonym>K(VCA)beta-3</synonym>
+    <synonym>Maxi K channel subunit beta-3</synonym>
+    <synonym>Slo-beta-3</synonym>
+  </synonyms>
+  <gene_name>KCNMB3</gene_name>
+  <general_function>Involved in calcium-activated potassium channel activity</general_function>
+  <specific_function>Regulatory subunit of the calcium activated potassium KCNMA1 (maxiK) channel. Modulates the calcium sensitivity and gating kinetics of KCNMA1, thereby contributing to KCNMA1 channel diversity. Alters the functional properties of the current expressed by the KCNMA1 channel. Isoform 2, isoform 3 and isoform 4 partially inactivate the current of KCNBMA. Isoform 4 induces a fast and incomplete inactivation of KCNMA1 channel that is detectable only at large depolarizations. In contrast, isoform 1 does not induce detectable inactivation of KCNMA1. Two or more subunits of KCNMB3 are required to block the KCNMA1 tetramer</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00586</accession>
+      <name>Potassium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15242</accession>
+      <name>Miconazole</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium activated cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium-activated potassium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>potassium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:3</chromosome_location>
+    <locus>3q26.3-q27</locus>
+    <gene_sequence>&gt;840 bp
+ATGGACTTTTCACCAAGCTCTGAACTGGGATTTCATTTTGTTGCATTCATCCTGCTCACG
+AGACACAGGACAGCCTTTCCTGCCTCAGGGAAGAAGAGAGAGACAGACTACAGTGATGGA
+GACCCACTAGATGTGCACAAGAGGCTGCCATCCAGTGCTGGAGAGGACCGAGCCGTGATG
+CTGGGGTTTGCCATGATGGGCTTCTCAGTCCTAATGTTCTTCTTGCTCGGAACAACCATT
+CTAAAGCCTTTTATGCTCAGCATTCAGAGAGAAGAATCGACCTGCACTGCCATCCACACA
+GATATCATGGACGACTGGCTGGACTGTGCCTTCACCTGTGGTGTGCACTGCCACGGTCAG
+GGGAAGTACCCGTGTCTTCAGGTGTTTGTGAACCTCAGCCATCCAGGTCAGAAAGCTCTC
+CTACATTATAATGAAGAGGCTGTCCAGATAAATCCCAAGTGCTTTTACACACCTAAGTGC
+CACCAAGATAGAAATGATTTGCTCAACAGTGCTCTGGACATAAAAGAATTCTTCGATCAC
+AAAAATGGAACCCCCTTTTCATGCTTCTACAGTCCAGCCAGCCAATCTGAAGATGTCATT
+CTTATAAAAAAGTATGACCAAATGGCTATCTTCCACTGTTTATTTTGGCCTTCACTGACT
+CTGCTAGGTGGTGCCCTGATTGTTGGCATGGTGAGATTAACACAACACCTGTCCTTACTG
+TGTGAAAAATATAGCACTGTAGTCAGAGATGAGGTAGGTGGAAAAGTACCTTATATAGAA
+CAGCATCAGTTCAAACTGTGCATTATGAGGAGGAGCAAAGGAAGAGCAGAGAAATCTTAA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>279</residue_number>
+    <molecular_weight>31603.3</molecular_weight>
+    <theoretical_pi>7.31</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CaKB</name>
+        <pfam_id>PF03185</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>61-81</region>
+      <region>208-228</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Calcium-activated potassium channel subunit beta-3
+MDFSPSSELGFHFVAFILLTRHRTAFPASGKKRETDYSDGDPLDVHKRLPSSAGEDRAVM
+LGFAMMGFSVLMFFLLGTTILKPFMLSIQREESTCTAIHTDIMDDWLDCAFTCGVHCHGQ
+GKYPCLQVFVNLSHPGQKALLHYNEEAVQINPKCFYTPKCHQDRNDLLNSALDIKEFFDH
+KNGTPFSCFYSPASQSEDVILIKKYDQMAIFHCLFWPSLTLLGGALIVGMVRLTQHLSLL
+CEKYSTVVRDEVGGKVPYIEQHQFKLCIMRRSKGRAEKS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>25952095</genbank_protein_id>
+  <uniprot_id>Q9NPA1</uniprot_id>
+  <uniprot_name>KCMB3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_014407.3</genbank_gene_id>
+  <genecard_id>KCNMB3</genecard_id>
+  <geneatlas_id>KCNMB3</geneatlas_id>
+  <hgnc_id>HGNC:6287</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Riazi MA, Brinkman-Mills P, Johnson A, Naylor SL, Minoshima S, Shimizu N, Baldini A, McDermid HE: Identification of a putative regulatory subunit of a calcium-activated potassium channel in the dup(3q) syndrome region and a related sequence on 22q11.2. Genomics. 1999 Nov 15;62(1):90-4.</reference_text>
+      <pubmed_id>10585773</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brenner R, Jegla TJ, Wickenden A, Liu Y, Aldrich RW: Cloning and functional characterization of novel large conductance calcium-activated potassium channel beta subunits, hKCNMB3 and hKCNMB4. J Biol Chem. 2000 Mar 3;275(9):6453-61.</reference_text>
+      <pubmed_id>10692449</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uebele VN, Lagrutta A, Wade T, Figueroa DJ, Liu Y, McKenna E, Austin CP, Bennett PB, Swanson R: Cloning and functional expression of two families of beta-subunits of the large conductance calcium-activated K+ channel. J Biol Chem. 2000 Jul 28;275(30):23211-8.</reference_text>
+      <pubmed_id>10766764</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meera P, Wallner M, Toro L: A neuronal beta subunit (KCNMB4) makes the large conductance, voltage- and Ca2+-activated K+ channel resistant to charybdotoxin and iberiotoxin. Proc Natl Acad Sci U S A. 2000 May 9;97(10):5562-7.</reference_text>
+      <pubmed_id>10792058</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Behrens R, Nolting A, Reimann F, Schwarz M, Waldschutz R, Pongs O: hKCNMB3 and hKCNMB4, cloning and characterization of two members of the large-conductance calcium-activated potassium channel beta subunit family. FEBS Lett. 2000 May 26;474(1):99-106.</reference_text>
+      <pubmed_id>10828459</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xia XM, Ding JP, Zeng XH, Duan KL, Lingle CJ: Rectification and rapid activation at low Ca2+ of Ca2+-activated, voltage-dependent BK currents: consequences of rapid inactivation by a novel beta subunit. J Neurosci. 2000 Jul 1;20(13):4890-903.</reference_text>
+      <pubmed_id>10864947</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lingle CJ, Zeng XH, Ding JP, Xia XM: Inactivation of BK channels mediated by the NH(2) terminus of the beta3b auxiliary subunit involves a two-step mechanism: possible separation of binding and blockade. J Gen Physiol. 2001 Jun;117(6):583-606.</reference_text>
+      <pubmed_id>11382808</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zeng XH, Ding JP, Xia XM, Lingle CJ: Gating properties conferred on BK channels by the beta3b auxiliary subunit in the absence of its NH(2)- and COOH termini. J Gen Physiol. 2001 Jun;117(6):607-28.</reference_text>
+      <pubmed_id>11382809</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu S, Labuda MZ, Pandolfo M, Goss GG, McDermid HE, Ali DW: Variants of the KCNMB3 regulatory subunit of maxi BK channels affect channel inactivation. Physiol Genomics. 2003 Nov 11;15(3):191-8.</reference_text>
+      <pubmed_id>14612589</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zeng XH, Xia XM, Lingle CJ: Redox-sensitive extracellular gates formed by auxiliary beta subunits of calcium-activated potassium channels. Nat Struct Biol. 2003 Jun;10(6):448-54.</reference_text>
+      <pubmed_id>12740608</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Orio P, Rojas P, Ferreira G, Latorre R: New disguises for an old channel: MaxiK channel beta-subunits.  News Physiol Sci. 2002 Aug;17:156-61.</reference_text>
+      <pubmed_id>12136044</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Miconazole</name>
+        <accession>HMDB15242</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hatton CJ, Peers C: Effects of cytochrome P-450 inhibitors on ionic currents in isolated rat type I carotid body cells. Am J Physiol. 1996 Jul;271(1 Pt 1):C85-92.</reference_text>
+        <pubmed_id>8760033</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Miconazole</name>
+        <accession>HMDB15242</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Alvarez J, Montero M, Garcia-Sancho J: High affinity inhibition of Ca(2+)-dependent K+ channels by cytochrome P-450 inhibitors. J Biol Chem. 1992 Jun 15;267(17):11789-93.</reference_text>
+        <pubmed_id>1376313</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

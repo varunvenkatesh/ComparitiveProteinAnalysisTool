@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:08:00 -0700</creation_date>
+  <update_date>2013-05-27 11:34:44 -0600</update_date>
+  <accession>HMDBP08226</accession>
+  <secondary_accessions>
+    <accession>13938</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Solute carrier family 6 member 19</synonym>
+    <synonym>System B(0) neutral amino acid transporter AT1</synonym>
+  </synonyms>
+  <gene_name>SLC6A19</gene_name>
+  <general_function>Involved in neurotransmitter:sodium symporter activity</general_function>
+  <specific_function>Transporter that mediates epithelial resorption of neutral amino acids across the apical membrane of epithelial cells in the kidney and intestine. It appears that leucine is the preferred substrate, but all large neutral non-aromatic L-amino acids bind to this transporter. Uptake of leucine is sodium-dependent. In contrast to other members of the neurotransmitter transporter family, does not appear to be chloride-dependent (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Protein digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04974</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Mineral absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04978</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>neurotransmitter transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>neurotransmitter:sodium symporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>neurotransmitter transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to plasma membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>neurotransmitter:sodium symporter activity</description>
+      <go_id>GO:0005328</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>neutral amino acid transmembrane transporter activity</description>
+      <go_id>GO:0015175</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>amino acid transport</description>
+      <go_id>GO:0006865</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient</description>
+      <go_id>GO:0007584</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transmembrane transport</description>
+      <go_id>GO:0055085</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5p15.33</locus>
+    <gene_sequence>&gt;1905 bp
+ATGGTGAGGCTCGTGCTGCCCAACCCCGGCCTAGACGCCCGGATCCCGTCCCTGGCTGAG
+CTGGAGACCATCGAGCAGGAGGAGGCCAGCTCCCGGCCGAAGTGGGACAACAAGGCGCAG
+TACATGCTCACCTGCCTGGGCTTCTGCGTGGGCCTCGGCAACGTGTGGCGCTTCCCCTAC
+CTGTGTCAGAGCCACGGAGGAGGAGCCTTCATGATCCCGTTCCTCATCCTGCTGGTCCTG
+GAGGGCATCCCCCTGCTGTACCTGGAGTTCGCCATCGGGCAGCGGCTGCGGCGGGGCAGC
+CTGGGTGTGTGGAGCTCCATCCACCCGGCCCTGAAGGGCCTAGGCCTGGCCTCCATGCTC
+ACGTCCTTCATGGTGGGACTGTATTACAACACCATCATCTCCTGGATCATGTGGTACTTA
+TTCAACTCCTTCCAGGAGCCTCTGCCCTGGAGCGACTGCCCGCTCAACGAGAACCAGACA
+GGGTATGTGGACGAGTGCGCCAGGAGCTCCCCTGTGGACTACTTCTGGTACCGAGAGACG
+CTCAACATCTCCACGTCCATCAGCGACTCGGGCTCCATCCAGTGGTGGATGCTGCTGTGC
+CTGGCCTGCGCATGGAGCGTCCTGTACATGTGCACCATCCGCGGCATCGAGACCACCGGG
+AAGGCCGTGTACATCACCTCCACGCTGCCCTATGTCGTCCTGACCATCTTCCTCATCCGA
+GGCCTGACGCTGAAGGGCGCCACCAATGGCATCGTCTTCCTCTTCACGCCCAACGTCACG
+GAGCTGGCCCAGCCGGACACCTGGCTGGACGCGGGCGCACAGGTCTTCTTCTCCTTCTCC
+CTGGCCTTCGGGGGCCTCATCTCCTTCTCCAGCTACAACTCTGTGCACAACAACTGCGAG
+AAGGACTCGGTGATTGTGTCCATCATCAACGGCTTCACATCGGTGTATGTGGCCATCGTG
+GTCTACTCCGTCATTGGGTTCCGCGCCACGCAGCGCTACGACGACTGCTTCAGCACGAAC
+ATCCTGACCCTCATCAACGGGTTCGACCTGCCTGAAGGCAACGTGACCCAGGAGAACTTT
+GTGGACATGCAGCAGCGGTGCAACGCCTCCGACCCCGCGGCCTACGCGCAGCTGGTGTTC
+CAGACCTGCGACATCAACGCCTTCCTCTCAGAGGCCGTGGAGGGCACAGGCCTGGCCTTC
+ATCGTCTTCACCGAGGCCATCACCAAGATGCCGTTGTCCCCACTGTGGTCTGTGCTCTTC
+TTCATTATGCTCTTCTGCCTGGGGCTGTCATCTATGTTTGGGAACATGGAGGGCGTCGTT
+GTGCCCCTGCAGGACCTCAGAGTCATCCCCCCGAAGTGGCCCAAGGAGGTGCTCACAGGC
+CTCATCTGCCTGGGGACATTCCTCATTGGCTTCATCTTCACGCTGAACTCCGGCCAGTAC
+TGGCTCTCCCTGCTGGACAGCTATGCCGGCTCCATTCCCCTGCTCATCATCGCCTTCTGC
+GAGATGTTCTCTGTGGTCTACGTGTACGGTGTGGACAGGTTCAATAAGGACATCGAGTTC
+ATGATCGGCCACAAGCCCAACATCTTCTGGCAAGTCACGTGGCGCGTGGTCAGCCCCCTG
+CTCATGCTGATCATCTTCCTCTTCTTCTTCGTGGTAGAGGTCAGTCAGGAGCTGACCTAC
+AGCATCTGGGACCCTGGCTACGAGGAATTTCCCAAATCCCAGAAGATCTCCTACCCGAAC
+TGGGTGTATGTGGTGGTGGTGATTGTGGCTGGAGTGCCCTCCCTCACCATCCCTGGCTAT
+GCCATCTACAAGCTCATCAGGAACCACTGCCAGAAGCCAGGGGACCATCAGGGGCTGGTG
+AGCACACTGTCCACAGCCTCCATGAACGGGGACCTGAAGTACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>634</residue_number>
+    <molecular_weight>71109.125</molecular_weight>
+    <theoretical_pi>5.036</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SNF</name>
+        <pfam_id>PF00209</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Sodium-dependent neutral amino acid transporter B(0)AT1
+MVRLVLPNPGLDARIPSLAELETIEQEEASSRPKWDNKAQYMLTCLGFCVGLGNVWRFPY
+LCQSHGGGAFMIPFLILLVLEGIPLLYLEFAIGQRLRRGSLGVWSSIHPALKGLGLASML
+TSFMVGLYYNTIISWIMWYLFNSFQEPLPWSDCPLNENQTGYVDECARSSPVDYFWYRET
+LNISTSISDSGSIQWWMLLCLACAWSVLYMCTIRGIETTGKAVYITSTLPYVVLTIFLIR
+GLTLKGATNGIVFLFTPNVTELAQPDTWLDAGAQVFFSFSLAFGGLISFSSYNSVHNNCE
+KDSVIVSIINGFTSVYVAIVVYSVIGFRATQRYDDCFSTNILTLINGFDLPEGNVTQENF
+VDMQQRCNASDPAAYAQLVFQTCDINAFLSEAVEGTGLAFIVFTEAITKMPLSPLWSVLF
+FIMLFCLGLSSMFGNMEGVVVPLQDLRVIPPKWPKEVLTGLICLGTFLIGFIFTLNSGQY
+WLSLLDSYAGSIPLLIIAFCEMFSVVYVYGVDRFNKDIEFMIGHKPNIFWQVTWRVVSPL
+LMLIIFLFFFVVEVSQELTYSIWDPGYEEFPKSQKISYPNWVYVVVVIVAGVPSLTIPGY
+AIYKLIRNHCQKPGDHQGLVSTLSTASMNGDLKY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>158255058</genbank_protein_id>
+  <uniprot_id>Q695T7</uniprot_id>
+  <uniprot_name>S6A19_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK290811</genbank_gene_id>
+  <genecard_id>SLC6A19</genecard_id>
+  <geneatlas_id>SLC6A19</geneatlas_id>
+  <hgnc_id>HGNC:27960</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kleta R, Romeo E, Ristic Z, Ohura T, Stuart C, Arcos-Burgos M, Dave MH, Wagner CA, Camargo SR, Inoue S, Matsuura N, Helip-Wooley A, Bockenhauer D, Warth R, Bernardini I, Visser G, Eggermann T, Lee P, Chairoungdua A, Jutabha P, Babu E, Nilwarangkoon S, Anzai N, Kanai Y, Verrey F, Gahl WA, Koizumi A: Mutations in SLC6A19, encoding B0AT1, cause Hartnup disorder.  Nat Genet. 2004 Sep;36(9):999-1002. Epub 2004 Aug 1.</reference_text>
+      <pubmed_id>15286787</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seow HF, Broer S, Broer A, Bailey CG, Potter SJ, Cavanaugh JA, Rasko JE: Hartnup disorder is caused by mutations in the gene encoding the neutral amino acid transporter SLC6A19. Nat Genet. 2004 Sep;36(9):1003-7. Epub 2004 Aug 1.</reference_text>
+      <pubmed_id>15286788</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:55 -0700</creation_date>
+  <update_date>2013-05-27 11:23:47 -0600</update_date>
+  <accession>HMDBP00365</accession>
+  <secondary_accessions>
+    <accession>5601</accession>
+    <accession>HMDBP04834</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Lactase</synonym>
+    <synonym>Lactase-glycosylceramidase</synonym>
+    <synonym>Phlorizin hydrolase</synonym>
+  </synonyms>
+  <gene_name>LCT</gene_name>
+  <general_function>Involved in hydrolase activity, hydrolyzing O-glycosyl compounds</general_function>
+  <specific_function>LPH splits lactose in the small intestine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Galactose Metabolism</name>
+      <smpdb_id>SMP00043</smpdb_id>
+      <kegg_map_id>map00052</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lactose Degradation</name>
+      <smpdb_id>SMP00457</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyruvaldehyde Degradation</name>
+      <smpdb_id>SMP00459</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Galactose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00052</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Carbohydrate digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04973</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03345</accession>
+      <name>Alpha-D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00186</accession>
+      <name>Alpha-Lactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00122</accession>
+      <name>D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00131</accession>
+      <name>Glycerol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00140</accession>
+      <name>Glucosylceramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00143</accession>
+      <name>D-Galactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00516</accession>
+      <name>Beta-D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01030</accession>
+      <name>3'-Ketolactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01385</accession>
+      <name>3-Keto-b-D-galactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04162</accession>
+      <name>Galactan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04853</accession>
+      <name>Ganglioside GM1 (18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04854</accession>
+      <name>Ganglioside GM1 (18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04855</accession>
+      <name>Ganglioside GM1 (18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04856</accession>
+      <name>Ganglioside GM1 (18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04857</accession>
+      <name>Ganglioside GM1 (18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04858</accession>
+      <name>Ganglioside GM1 (18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04859</accession>
+      <name>Ganglioside GM1 (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04860</accession>
+      <name>Ganglioside GM1 (d18:1/26:1(17Z)))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04861</accession>
+      <name>Ganglioside GM1 (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04863</accession>
+      <name>Ganglioside GM1 (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04865</accession>
+      <name>Ganglioside GM1 (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04866</accession>
+      <name>Lactosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04872</accession>
+      <name>Lactosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04873</accession>
+      <name>Lactosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04874</accession>
+      <name>Lactosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04876</accession>
+      <name>Lactosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04888</accession>
+      <name>Ganglioside GA2 (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04889</accession>
+      <name>Ganglioside GA2 (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04890</accession>
+      <name>Ganglioside GA2 (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04891</accession>
+      <name>Ganglioside GA2 (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04892</accession>
+      <name>Ganglioside GA2 (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04893</accession>
+      <name>Ganglioside GA2 (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04894</accession>
+      <name>Ganglioside GA2 (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04895</accession>
+      <name>Ganglioside GA2 (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04896</accession>
+      <name>Ganglioside GA2 (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04897</accession>
+      <name>Ganglioside GA2 (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04898</accession>
+      <name>Ganglioside GA2 (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04900</accession>
+      <name>Ganglioside GA1 (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04901</accession>
+      <name>Ganglioside GA1 (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04902</accession>
+      <name>Ganglioside GA1 (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04903</accession>
+      <name>Ganglioside GA1 (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04904</accession>
+      <name>Ganglioside GA1 (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04905</accession>
+      <name>Ganglioside GA1 (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04906</accession>
+      <name>Ganglioside GA1 (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04907</accession>
+      <name>Ganglioside GA1 (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04908</accession>
+      <name>Ganglioside GA1 (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04909</accession>
+      <name>Ganglioside GA1 (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04910</accession>
+      <name>Ganglioside GA1 (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04936</accession>
+      <name>Ganglioside GM2 (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04937</accession>
+      <name>Ganglioside GM2 (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04938</accession>
+      <name>Ganglioside GM2 (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04939</accession>
+      <name>Ganglioside GM2 (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04941</accession>
+      <name>Ganglioside GM2 (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04942</accession>
+      <name>Ganglioside GM2 (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04943</accession>
+      <name>Ganglioside GM2 (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04944</accession>
+      <name>Ganglioside GM2 (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04945</accession>
+      <name>Ganglioside GM2 (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04946</accession>
+      <name>Ganglioside GM2 (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04947</accession>
+      <name>Ceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04948</accession>
+      <name>Ceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04949</accession>
+      <name>Ceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04950</accession>
+      <name>Ceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04951</accession>
+      <name>Ceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04952</accession>
+      <name>Ceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04953</accession>
+      <name>Cer(d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04954</accession>
+      <name>Cer(d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04955</accession>
+      <name>Cer(d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04956</accession>
+      <name>Ceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04957</accession>
+      <name>Ceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04969</accession>
+      <name>Glucosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04970</accession>
+      <name>Glucosylceramide (d18:1/9Z-18:1)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04971</accession>
+      <name>Glucosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04972</accession>
+      <name>Glucosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04973</accession>
+      <name>Glucosylceramide (d18:1/20:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04974</accession>
+      <name>Glucosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04975</accession>
+      <name>Glucosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04976</accession>
+      <name>Glucosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04977</accession>
+      <name>Glucosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04979</accession>
+      <name>Glucosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06750</accession>
+      <name>Lactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06789</accession>
+      <name>Lactose 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06790</accession>
+      <name>Galactosylglycerol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00044</accession>
+      <name>Ascorbic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00169</accession>
+      <name>D-Mannose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41627</accession>
+      <name>beta-Lactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03449</accession>
+      <name>Beta-D-Galactose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, hydrolyzing o-glycosyl compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>apical plasma membrane</description>
+      <go_id>GO:0016324</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>brush border</description>
+      <go_id>GO:0005903</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cation binding</description>
+      <go_id>GO:0043169</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glycosylceramidase activity</description>
+      <go_id>GO:0017042</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>lactase activity</description>
+      <go_id>GO:0000016</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transferase activity</description>
+      <go_id>GO:0016740</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>polysaccharide digestion</description>
+      <go_id>GO:0044245</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to estrogen stimulus</description>
+      <go_id>GO:0043627</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ethanol</description>
+      <go_id>GO:0045471</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hypoxia</description>
+      <go_id>GO:0001666</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to lead ion</description>
+      <go_id>GO:0010288</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nickel cation</description>
+      <go_id>GO:0010045</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nutrient</description>
+      <go_id>GO:0007584</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to starvation</description>
+      <go_id>GO:0042594</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to sucrose stimulus</description>
+      <go_id>GO:0009744</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Apical cell membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q21</locus>
+    <gene_sequence>&gt;5784 bp
+ATGGAGCTGTCTTGGCATGTAGTCTTTATTGCCCTGCTAAGTTTTTCATGCTGGGGGTCA
+GACTGGGAGTCTGATAGAAATTTCATTTCCACCGCTGGTCCTCTAACCAATGACTTGCTG
+CACAACCTGAGTGGTCTCCTGGGAGACCAGAGTTCTAACTTTGTAGCAGGGGACAAAGAC
+ATGTATGTTTGTCACCAGCCACTGCCCACTTTCCTGCCAGAATACTTCAGCAGTCTCCAT
+GCCAGTCAGATCACCCATTATAAGGTATTTCTGTCATGGGCACAGCTCCTCCCAGCAGGA
+AGCACCCAGAATCCAGACGAGAAAACAGTGCAGTGCTACCGGCGACTCCTCAAGGCCCTC
+AAGACTGCACGGCTTCAGCCCATGGTCATCCTGCACCACCAGACCCTCCCTGCCAGCACC
+CTCCGGAGAACCGAAGCCTTTGCTGACCTCTTCGCCGACTATGCCACATTCGCCTTCCAC
+TCCTTCGGGGACCTAGTTGGGATCTGGTTCACCTTCAGTGACTTGGAGGAAGTGATCAAG
+GAGCTTCCCCACCAGGAATCAAGAGCGTCACAACTCCAGACCCTCAGTGATGCCCACAGA
+AAAGCCTATGAGATTTACCACGAAAGCTATGCTTTTCAGGGCGGAAAACTCTCTGTTGTC
+CTGCGAGCTGAAGATATCCCGGAGCTCCTGCTAGAACCACCCATATCTGCGCTTGCCCAG
+GACACGGTCGATTTCCTCTCTCTTGATTTGTCTTATGAATGCCAAAATGAGGCAAGTCTG
+CGGCAGAAGCTGAGTAAATTGCAGACCATTGAGCCAAAAGTGAAAGTTTTCATCTTCAAC
+CTAAAACTCCCAGACTGCCCCTCCACCATGAAGAACCCAGCCAGTCTGCTCTTCAGCCTT
+TTTGAAGCCATAAATAAAGACCAAGTGCTCACCATTGGGTTTGATATTAATGAGTTTCTG
+AGTTGTTCATCAAGTTCCAAGAAAAGCATGTCTTGTTCTCTGACTGGCAGCCTGGCCCTT
+CAGCCTGACCAGCAGCAGGACCACGAGACCACGGACTCCTCTCCTGCCTCTGCCTATCAG
+AGAGTCTGGGAAGCATTTGCCAATCAGTCCAGAGCGGAAAGGGATGCCTTCCTGCAGGAT
+ACTTTCCCTGAAGGCTTCCTCTGGGGTGCCTCCACAGGAGCCTTTAACGTGGAAGGAGGC
+TGGGCCGAGGGTGGGAGAGGGGTGAGCATCTGGGATCCACGCAGGCCCCTGAACACCACT
+GAGGGCCAAGCGACGCTGGAGGTGGCCAGCGACAGTTACCACAAGGTAGCCTCTGACGTC
+GCCCTGCTTTGCGGCCTCCGGGCTCAGGTGTACAAGTTCTCCATCTCCTGGTCCCGGATC
+TTCCCCATGGGGCACGGGAGCAGCCCCAGCCTCCCAGGCGTTGCCTACTACAACAAGCTG
+ATTGACAGGCTACAGGATGCGGGCATCGAGCCCATGGCCACGCTGTTCCACTGGGACCTG
+CCTCAGGCCCTGCAGGATCATGGTGGATGGCAGAATGAGAGCGTGGTGGATGCCTTCCTG
+GACTATGCGGCCTTCTGCTTCTCCACATTTGGGGACCGTGTGAAGCTGTGGGTGACCTTC
+CATGAGCCGTGGGTGATGAGCTACGCAGGCTATGGCACCGGCCAGCACCCTCCCGGCATC
+TCTGACCCAGGAGTGGCCTCTTTTAAGGTGGCTCACTTGGTCCTCAAGGCTCATGCCAGA
+ACTTGGCACCACTACAACAGCCATCATCGCCCACAGCAGCAGGGGCACGTGGGCATTGTG
+CTGAACTCAGACTGGGCAGAACCCCTGTCTCCAGAGAGGCCTGAGGACCTGAGAGCCTCT
+GAGCGCTTCTTGCACTTCATGCTGGGCTGGTTTGCACACCCCGTCTTTGTGGATGGAGAC
+TACCCAGCCACCCTGAGGACCCAGATCCAACAGATGAACAGACAGTGCTCCCATCCTGTG
+GCTCAACTCCCCGAGTTCACAGAGGCAGAGAAGCAGCTCCTGAAAGGCTCTGCTGATTTT
+CTGGGTCTGTCGCATTACACCTCCCGCCTCATCAGCAACGCCCCACAAAACACCTGCATC
+CCTAGCTATGATACCATTGGAGGCTTCTCCCAACACGTGAACCATGTGTGGCCCCAGACC
+TCATCCTCTTGGATTCGTGTGGTGCCCTGGGGGATAAGGAGGCTGTTGCAGTTTGTATCC
+CTGGAATACACAAGAGGAAAAGTTCCAATATACCTTGCCGGGAATGGCATGCCCATAGGG
+GAAAGTGAAAATCTCTTTGATGATTCCTTAAGAGTAGACTACTTCAATCAATATATCAAT
+GAGGTGCTCAAGGCTATCAAGGAAGACTCTGTGGATGTTCGTTCCTACATTGCTCGTTCC
+CTCATTGATGGCTTCGAAGGCCCTTCTGGTTACAGCCAGCGGTTTGGCCTGCACCACGTC
+AACTTCAGCGACAGCAGCAAGTCAAGGACTCCCAGGAAATCTGCCTACTTTTTCACTAGC
+ATCATAGAAAAGAACGGTTTCCTCACCAAGGGGGCAAAAAGACTGCTACCACCTAATACA
+GTAAACCTCCCCTCCAAAGTCAGAGCCTTCACTTTTCCATCTGAGGTGCCCTCCAAGGCT
+AAAGTCGTTTGGGAAAAGTTCTCCAGCCAACCCAAGTTCGAAAGAGATTTGTTCTACCAC
+GGGACGTTTCGGGATGACTTTCTGTGGGGCGTGTCCTCTTCCGCTTATCAGATTGAAGGC
+GCGTGGGATGCCGATGGCAAAGGCCCCAGCATCTGGGATAACTTTACCCACACACCAGGG
+AGCAATGTGAAAGACAATGCCACTGGAGACATCGCCTGTGACAGCTATCACCAGCTGGAT
+GCCGATCTGAATATGCTCCGAGCTTTGAAGGTGAAGGCCTACCGCTTCTCTATCTCCTGG
+TCTCGGATTTTCCCAACTGGGAGAAACAGCTCTATCAACAGTCATGGGGTTGATTATTAC
+AACAGGCTGATCAATGGCTTGGTGGCAAGCAACATCTTTCCCATGGTGACATTGTTCCAT
+TGGGACCTGCCCCAGGCCCTCCAGGATATCGGAGGCTGGGAGAATCCTGCCTTGATTGAC
+TTGTTTGACAGCTACGCAGACTTTTGTTTCCAGACCTTTGGTGATAGAGTCAAGTTTTGG
+ATGACTTTTAATGAGCCCATGTACCTGGCATGGCTAGGTTATGGCTCAGGGGAATTTCCC
+CCAGGGGTGAAGGACCCAGGCTGGGCACCATATAGGATAGCCCACACCGTCATCAAAGCC
+CATGCCAGAGTCTATCACACGTACGATGAGAAATACAGGCAGGAGCAGAAGGGGGTCATC
+TCGCTGAGCCTCAGTACACACTGGGCAGAGCCCAAGTCACCAGGGGTCCCCAGAGATGTG
+GAAGCCGCTGACCGAATGCTGCAGTTCTCCCTGGGCTGGTTTGCTCACCCCATTTTTAGA
+AACGGAGACTATCCTGACACCATGAAGTGGAAAGTGGGGAACAGGAGTGAACTGCAGCAC
+TTAGCCACCTCCCGCCTGCCAAGCTTCACTGAGGAAGAGAAGAGGTTCATCAGGGCGACG
+GCCGACGTCTTCTGCCTCAACACGTACTACTCCAGAATCGTGCAGCACAAAACACCCAGG
+CTAAACCCACCCTCCTACGAAGACGACCAGGAGATGGCTGAGGAGGAGGACCCTTCGTGG
+CCTTCCACGGCAATGAACAGAGCTGCGCCCTGGGGGACGCGAAGGCTGCTGAACTGGATC
+AAGGAAGAGTATGGTGACATCCCCATTTACATCACCGAAAACGGAGTGGGGCTGACCAAT
+CCGAACACGGAGGATACTGATAGGATATTTTACCACAAAACCTACATCAATGAGGCTTTG
+AAAGCCTACAGGCTCGATGGTATAGACCTTCGAGGGTATGTCGCCTGGTCTCTGATGGAC
+AACTTTGAGTGGCTAAATGGCTACACGGTCAAGTTTGGACTGTACCATGTTGATTTCAAC
+AACACGAACAGGCCTCGCACAGCAAGAGCCTCCGCCAGGTACTACACAGAGGTCATTACC
+AACAACGGCATGCCACTGGCCAGGGAGGATGAGTTTCTGTACGGACGGTTTCCTGAGGGC
+TTCATCTGGAGTGCAGCTTCTGCTGCATATCAGATTGAAGGTGCGTGGAGAGCAGATGGC
+AAAGGACTCAGCATTTGGGACACGTTTTCTCACACACCACTGAGGGTTGAGAACGATGCC
+ATTGGAGACGTGGCCTGTGACAGTTATCACAAGATTGCTGAGGATCTGGTCACCCTGCAG
+AACCTGGGTGTGTCCCACTACCGTTTTTCCATCTCCTGGTCTCGCATCCTCCCTGATGGA
+ACCACCAGGTACATCAATGAAGCGGGCCTGAACTACTACGTGAGGCTCATCGATACACTG
+CTGGCCGCCAGCATCCAGCCCCAGGTGACCATTTACCACTGGGACCTACCACAGACGCTC
+CAAGATGTAGGAGGCTGGGAGAATGAGACCATCGTGCAGCGGTTTAAGGAGTATGCAGAT
+GTGCTCTTCCAGAGGCTGGGAGACAAGGTGAAGTTTTGGATCACGTTGAATGAGCCCTTT
+GTCATTGCTTACCAGGGCTATGGCTACGGAACAGCAGCTCCAGGAGTCTCCAATAGGCCT
+GGCACTGCCCCCTACATTGTTGGCCACAATCTAATAAAGGCTCATGCTGAGGCCTGGCAT
+CTGTACAACGATGTGTACCGCGCCAGTCAAGGTGGCGTGATTTCCATCACCATCAGCAGT
+GACTGGGCTGAACCCAGAGATCCCTCTAACCAGGAGGATGTGGAGGCAGCCAGGAGATAT
+GTTCAGTTCATGGGAGGCTGGTTTGCACATCCTATTTTCAAGAATGGAGATTACAATGAG
+GTGATGAAGACGCGGATCCGTGACAGGAGCTTGGCTGCAGGCCTCAACAAGTCTCGGCTG
+CCAGAATTTACAGAGAGTGAGAAGAGGAGGATCAACGGCACCTATGACTTTTTTGGGTTC
+AATCACTACACCACTGTCCTCGCCTACAACCTCAACTATGCCACTGCCATCTCTTCTTTT
+GATGCAGACAGAGGAGTTGCTTCCATCGCAGATCGCTCGTGGCCAGACTCTGGCTCCTTC
+TGGCTGAAGATGACGCCTTTTGGCTTCAGGAGGATCCTGAACTGGTTAAAGGAGGAATAC
+AATGACCCTCCAATTTATGTCACAGAGAATGGAGTGTCCCAGCGGGAAGAAACAGACCTC
+AATGACACTGCAAGGATCTACTACCTTCGGACTTACATCAATGAGGCCCTCAAAGCTGTG
+CAGGACAAGGTGGACCTTCGAGGATACACAGTTTGGAGTGCGATGGACAATTTTGAGTGG
+GCCACAGGCTTTTCAGAGAGATTTGGTCTGCATTTTGTGAACTACAGTGACCCTTCTCTG
+CCAAGGATCCCCAAAGCATCAGCGAAGTTCTACGCCTCTGTGGTCCGATGCAATGGCTTC
+CCTGACCCCGCTACAGGGCCTCACGCTTGTCTCCACCAGCCAGATGCTGGACCCACCATC
+AGCCCCGTGAGACAGGAGGAGGTGCAGTTCCTGGGGCTAATGCTCGGCACCACAGAAGCA
+CAGACAGCTTTGTACGTTCTCTTTTCTCTTGTGCTTCTTGGAGTCTGTGGCTTGGCATTT
+CTGTCATACAAGTACTGCAAGCGCTCTAAGCAAGGGAAAACACAACGAAGCCAACAGGAA
+TTGAGCCCGGTGTCTTCATTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1927</residue_number>
+    <molecular_weight>218584.77</molecular_weight>
+    <theoretical_pi>6.344</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glyco_hydro_1</name>
+        <pfam_id>PF00232</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Lactase-phlorizin hydrolase
+MELSWHVVFIALLSFSCWGSDWESDRNFISTAGPLTNDLLHNLSGLLGDQSSNFVAGDKD
+MYVCHQPLPTFLPEYFSSLHASQITHYKVFLSWAQLLPAGSTQNPDEKTVQCYRRLLKAL
+KTARLQPMVILHHQTLPASTLRRTEAFADLFADYATFAFHSFGDLVGIWFTFSDLEEVIK
+ELPHQESRASQLQTLSDAHRKAYEIYHESYAFQGGKLSVVLRAEDIPELLLEPPISALAQ
+DTVDFLSLDLSYECQNEASLRQKLSKLQTIEPKVKVFIFNLKLPDCPSTMKNPASLLFSL
+FEAINKDQVLTIGFDINEFLSCSSSSKKSMSCSLTGSLALQPDQQQDHETTDSSPASAYQ
+RVWEAFANQSRAERDAFLQDTFPEGFLWGASTGAFNVEGGWAEGGRGVSIWDPRRPLNTT
+EGQATLEVASDSYHKVASDVALLCGLRAQVYKFSISWSRIFPMGHGSSPSLPGVAYYNKL
+IDRLQDAGIEPMATLFHWDLPQALQDHGGWQNESVVDAFLDYAAFCFSTFGDRVKLWVTF
+HEPWVMSYAGYGTGQHPPGISDPGVASFKVAHLVLKAHARTWHHYNSHHRPQQQGHVGIV
+LNSDWAEPLSPERPEDLRASERFLHFMLGWFAHPVFVDGDYPATLRTQIQQMNRQCSHPV
+AQLPEFTEAEKQLLKGSADFLGLSHYTSRLISNAPQNTCIPSYDTIGGFSQHVNHVWPQT
+SSSWIRVVPWGIRRLLQFVSLEYTRGKVPIYLAGNGMPIGESENLFDDSLRVDYFNQYIN
+EVLKAIKEDSVDVRSYIARSLIDGFEGPSGYSQRFGLHHVNFSDSSKSRTPRKSAYFFTS
+IIEKNGFLTKGAKRLLPPNTVNLPSKVRAFTFPSEVPSKAKVVWEKFSSQPKFERDLFYH
+GTFRDDFLWGVSSSAYQIEGAWDADGKGPSIWDNFTHTPGSNVKDNATGDIACDSYHQLD
+ADLNMLRALKVKAYRFSISWSRIFPTGRNSSINSHGVDYYNRLINGLVASNIFPMVTLFH
+WDLPQALQDIGGWENPALIDLFDSYADFCFQTFGDRVKFWMTFNEPMYLAWLGYGSGEFP
+PGVKDPGWAPYRIAHAVIKAHARVYHTYDEKYRQEQKGVISLSLSTHWAEPKSPGVPRDV
+EAADRMLQFSLGWFAHPIFRNGDYPDTMKWKVGNRSELQHLATSRLPSFTEEEKRFIRAT
+ADVFCLNTYYSRIVQHKTPRLNPPSYEDDQEMAEEEDPSWPSTAMNRAAPWGTRRLLNWI
+KEEYGDIPIYITENGVGLTNPNTEDTDRIFYHKTYINEALKAYRLDGIDLRGYVAWSLMD
+NFEWLNGYTVKFGLYHVDFNNTNRPRTARASARYYTEVITNNGMPLAREDEFLYGRFPEG
+FIWSAASAAYQIEGAWRADGKGLSIWDTFSHTPLRVENDAIGDVACDSYHKIAEDLVTLQ
+NLGVSHYRFSISWSRILPDGTTRYINEAGLNYYVRLIDTLLAASIQPQVTIYHWDLPQTL
+QDVGGWENETIVQRFKEYADVLFQRLGDKVKFWITLNEPFVIAYQGYGYGTAAPGVSNRP
+GTAPYIVGHNLIKAHAEAWHLYNDVYRASQGGVISITISSDWAEPRDPSNQEDVEAARRY
+VQFMGGWFAHPIFKNGDYNEVMKTRIRDRSLAAGLNKSRLPEFTESEKRRINGTYDFFGF
+NHYTTVLAYNLNYATAISSFDADRGVASIADRSWPDSGSFWLKMTPFGFRRILNWLKEEY
+NDPPIYVTENGVSQREETDLNDTARIYYLRTYINEALKAVQDKVDLRGYTVWSAMDNFEW
+ATGFSERFGLHFVNYSDPSLPRIPKASAKFYASVVRCNGFPDPATGPHACLHQPDAGPTI
+SPVRQEEVQFLGLMLGTTEAQTALYVLFSLVLLGVCGLAFLSYKYCKRSKQGKTQRSQQE
+LSPVSSF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>34400</genbank_protein_id>
+  <uniprot_id>P09848</uniprot_id>
+  <uniprot_name>LPH_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>X07994</genbank_gene_id>
+  <genecard_id>LCT</genecard_id>
+  <geneatlas_id>LCT</geneatlas_id>
+  <hgnc_id>HGNC:6530</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mantei N, Villa M, Enzler T, Wacker H, Boll W, James P, Hunziker W, Semenza G: Complete primary structure of human and rabbit lactase-phlorizin hydrolase: implications for biosynthesis, membrane anchoring and evolution of the enzyme. EMBO J. 1988 Sep;7(9):2705-13.</reference_text>
+      <pubmed_id>2460343</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Boll W, Wagner P, Mantei N: Structure of the chromosomal gene and cDNAs coding for lactase-phlorizin hydrolase in humans with adult-type hypolactasia or persistence of lactase. Am J Hum Genet. 1991 May;48(5):889-902.</reference_text>
+      <pubmed_id>1902057</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Enattah NS, Sahi T, Savilahti E, Terwilliger JD, Peltonen L, Jarvela I: Identification of a variant associated with adult-type hypolactasia.  Nat Genet. 2002 Feb;30(2):233-7. Epub 2002 Jan 14.</reference_text>
+      <pubmed_id>11788828</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Du D, Fang L, Yang G, Zhang C, Zeng R, Ullrich A, Lottspeich F, Chen Z: Tyrosine phosphorylated Par3 regulates epithelial tight junction assembly promoted by EGFR signaling. EMBO J. 2006 Nov 1;25(21):5058-70. Epub 2006 Oct 19.</reference_text>
+      <pubmed_id>17053785</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuokkanen M, Kokkonen J, Enattah NS, Ylisaukko-Oja T, Komu H, Varilo T, Peltonen L, Savilahti E, Jarvela I: Mutations in the translated region of the lactase gene (LCT) underlie congenital lactase deficiency. Am J Hum Genet. 2006 Feb;78(2):339-44. Epub 2005 Dec 15.</reference_text>
+      <pubmed_id>16400612</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Mannose</name>
+        <accession>HMDB00169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

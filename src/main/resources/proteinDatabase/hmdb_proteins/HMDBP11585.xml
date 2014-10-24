@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:51:32 -0700</creation_date>
+  <update_date>2013-05-27 11:17:01 -0600</update_date>
+  <accession>HMDBP11585</accession>
+  <secondary_accessions>
+    <accession>21029</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>GST class-theta-2</synonym>
+  </synonyms>
+  <gene_name>GSTT2</gene_name>
+  <general_function>Posttranslational modification, protein turnover, chaperones</general_function>
+  <specific_function>Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. Has a sulfatase activity.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00125</accession>
+      <name>Glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01448</accession>
+      <name>Sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02306</accession>
+      <name>Hydrochloric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13030</accession>
+      <name>Noradrenochrome</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12780</accession>
+      <name>4-Hydroxyestrone-2-S-glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12942</accession>
+      <name>Estrone-3,4-quinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12623</accession>
+      <name>2-Hydroxyestrone-1-S-glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12884</accession>
+      <name>Adrenochrome</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13063</accession>
+      <name>S-(PGJ2)-glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12624</accession>
+      <name>2-Hydroxyestrone-4-S-glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12941</accession>
+      <name>Estrone-2,3-quinone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutathione transferase activity</description>
+      <go_id>GO:0004364</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;735 bp
+ATGGGCCTAGAGCTGTTTCTTGACCTGGTGTCCCAGCCCAGCCGCGCCGTCTACATCTTC
+GCCAAGAAGAATGGCATCCCCTTAGAGCTGCGCACCGTGGATTTGGTCAAAGGGCAGCAC
+AAGAGCAAGGAGTTCTTGCAGATCAACAGCCTGGGGAAACTGCCGACGCTCAAGGATGGT
+GATTTCATCTTGACCGAAAGCTCGGCCATCCTGATTTACCTGAGCTGTAAGTACCAGACG
+CCGGACCACTGGTATCCATCTGACCTGCAGGCTCGTGCCCGTGTTCATGAGTACCTGGGC
+TGGCATGCCGACTGCATCCGTGGCACCTTTGGTATACCCCTGTGGGTCCAGGTGTTGGGG
+CCACTCATTGGGGTCCAGGTGCCCAAGGAGAAGGTGGAACGCAACAGGACTGCCATGGAC
+CAGGCCCTGCAATGGCTGGAGGACAAGTTCCTGGGGGACAGGCCCTTCCTCGCTGGCCAG
+CAGGTGACACTGGCTGATCTCATGGCCCTGGAGGAGCTGATGCAGCCGGTGGCTCTCGGC
+TATGAACTGTTTGAGGGACGGCCACGACTGGCAGCATGGCGTGGACGAGTGGAGGCTTTC
+CTGGGTGCTGAGCTATGCCAGGAGGCCCACAGCATCATCTTGAGCATCCTGGAACAGGCG
+GCCAAGAAAACCCTCCCAACACCCTCACCAGAGGCCTATCAGGCTATGCTGCTTCGAATC
+GCCAGGATCCCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>244</residue_number>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+      <pfam>
+        <name>GST_C</name>
+        <pfam_id>PF00043</pfam_id>
+      </pfam>
+      <pfam>
+        <name>GST_N</name>
+        <pfam_id>PF02798</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glutathione S-transferase theta-2
+MGLELFLDLVSQPSRAVYIFAKKNGIPLELRTVDLVKGQHKSKEFLQINSLGKLPTLKDG
+DFILTESSAILIYLSCKYQTPDHWYPSDLQARARVHEYLGWHADCIRGTFGIPLWVQVLG
+PLIGVQVPKEKVERNRTAMDQALQWLEDKFLGDRPFLAGQQVTLADLMALEELMQPVALG
+YELFEGRPRLAAWRGRVEAFLGAELCQEAHSIILSILEQAAKKTLPTPSPEAYQAMLLRI
+ARIP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>9937244</genbank_protein_id>
+  <uniprot_id>P0CG29</uniprot_id>
+  <uniprot_name>GST2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF240786</genbank_gene_id>
+  <genecard_id>GSTT2</genecard_id>
+  <geneatlas_id>GSTT2</geneatlas_id>
+  <hgnc_id>HGNC:4642</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sprenger R, Schlagenhaufer R, Kerb R, Bruhn C, Brockmoller J, Roots I, Brinkmann U: Characterization of the glutathione S-transferase GSTT1 deletion: discrimination of all genotypes by polymerase chain reaction indicates a trimodular genotype-phenotype correlation. Pharmacogenetics. 2000 Aug;10(6):557-65.</reference_text>
+      <pubmed_id>10975610</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hussey AJ, Hayes JD: Characterization of a human class-Theta glutathione S-transferase with activity towards 1-menaphthyl sulphate. Biochem J. 1992 Sep 15;286 ( Pt 3):929-35.</reference_text>
+      <pubmed_id>1417752</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mainwaring GW, Williams SM, Foster JR, Tugwood J, Green T: The distribution of theta-class glutathione S-transferases in the liver and lung of mouse, rat and human. Biochem J. 1996 Aug 15;318 ( Pt 1):297-303.</reference_text>
+      <pubmed_id>8761485</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

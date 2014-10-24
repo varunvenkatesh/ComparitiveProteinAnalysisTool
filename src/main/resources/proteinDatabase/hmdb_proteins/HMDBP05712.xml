@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:40:33 -0700</creation_date>
+  <update_date>2013-05-27 11:11:16 -0600</update_date>
+  <accession>HMDBP05712</accession>
+  <secondary_accessions>
+    <accession>11311</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CXXC-type zinc finger protein 9</synonym>
+    <synonym>DNA MTase HsaI</synonym>
+    <synonym>DNA methyltransferase HsaI</synonym>
+    <synonym>Dnmt1</synonym>
+    <synonym>M.HsaI</synonym>
+    <synonym>MCMT</synonym>
+  </synonyms>
+  <gene_name>DNMT1</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Methylates CpG residues. Preferentially methylates hemimethylated DNA. Associates with DNA replication sites in S phase maintaining the methylation pattern in the newly synthesized strand, that is essential for epigenetic inheritance. Associates with chromatin during G2 and M phases to maintain DNA methylation independently of replication. It is responsible for maintaining methylation patterns established in development. DNA methylation is coordinated with methylation of histones. Mediates transcriptional repression by direct binding to HDAC2. In association with DNMT3B and via the recruitment of CTCFL/BORIS, involved in activation of BAG1 gene expression by modulating dimethylation of promoter histone H3 at H3K4 and H3K9.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Methionine Metabolism</name>
+      <smpdb_id>SMP00033</smpdb_id>
+      <kegg_map_id>map00270</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cysteine and methionine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00270</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB15063</accession>
+      <name>Azacitidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15169</accession>
+      <name>Procainamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15231</accession>
+      <name>Flucytosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15391</accession>
+      <name>Decitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>s-adenosylmethionine-dependent methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna (cytosine-5-)-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription factor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna alkylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna methylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>centromeric heterochromatin</description>
+      <go_id>GO:0005721</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>replication fork</description>
+      <go_id>GO:0005657</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA (cytosine-5-)-methyltransferase activity</description>
+      <go_id>GO:0003886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>methyl-CpG binding</description>
+      <go_id>GO:0008327</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to amino acid stimulus</description>
+      <go_id>GO:0071230</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chromatin modification</description>
+      <go_id>GO:0016568</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gene silencing</description>
+      <go_id>GO:0016458</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>maintenance of DNA methylation</description>
+      <go_id>GO:0010216</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of histone H3-K9 methylation</description>
+      <go_id>GO:0051573</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of gene expression</description>
+      <go_id>GO:0010628</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of histone H3-K4 methylation</description>
+      <go_id>GO:0051571</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cell proliferation</description>
+      <go_id>GO:0042127</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19p13.2</locus>
+    <gene_sequence>&gt;4851 bp
+ATGCCGGCGCGTACCGCCCCAGCCCGGGTGCCCACACTGGCCGTCCCGGCCATCTCGCTG
+CCCGACGATGTCCGCAGGCGGCTCAAAGATTTGGAAAGAGACAGCTTAACAGAAAAGGAA
+TGTGTGAAGGAGAAATTGAATCTCTTGCACGAATTTCTGCAAACAGAAATAAAGAATCAG
+TTATGTGACTTGGAAACCAAATTACGTAAAGAAGAATTATCCGAGGAGGGCTACCTGGCT
+AAAGTCAAATCCCTTTTAAATAAAGATTTGTCCTTGGAGAACGGTGCTCATGCTTACAAC
+CGGGAAGTGAATGGACGTCTAGAAAACGGGAACCAAGCAAGAAGTGAAGCCCGTAGAGTG
+GGAATGGCAGATGCCAACAGCCCCCCCAAACCCCTTTCCAAACCTCGCACGCCCAGGAGG
+AGCAAGTCCGATGGAGAGGCTAAGCCTGAACCTTCACCTAGCCCCAGGATTACAAGGAAA
+AGCACCAGGCAAACCACCATCACATCTCATTTTGCAAAGGGCCCTGCCAAACGGAAACCT
+CAGGAAGAGTCTGAAAGAGCCAAATCGGATGAGTCCATCAAGGAAGAAGACAAAGACCAG
+GATGAGAAGAGACGTAGAGTTACATCCAGAGAACGAGTTGCTAGACCGCTTCCTGCAGAA
+GAACCTGAAAGAGCAAAATCAGGAACGCGCACTGAAAAGGAAGAAGAAAGAGATGAAAAA
+GAAGAAAAGAGACTCCGAAGTCAAACCAAAGAACCAACACCCAAACAGAAACTGAAGGAG
+GAGCCGGACAGAGAAGCCAGGGCAGGCGTGCAGGCTGACGAGGACGAAGATGGAGACGAG
+AAAGATGAGAAGAAGCACAGAAGTCAACCCAAAGATCTAGCTGCCAAACGGAGGCCCGAA
+GAAAAAGAACCTGAAAAAGTAAATCCACAGATTTCTGATGAAAAAGACGAGGATGAAAAG
+GAGGAGAAGAGACGCAAAACGACCCCCAAAGAACCAACGGAGAAAAAAATGGCTCGCGCC
+AAAACAGTCATGAACTCCAAGACCCACCCTCCCAAGTGCATTCAGTGCGGGCAGTACCTG
+GACGACCCTGACCTCAAATATGGGCAGCACCCACCAGACGCGGTGGATGAGCCACAGATG
+CTGACAAATGAGAAGCTGTCCATCTTTGATGCCAACGAGTCTGGCTTTGAGAGTTATGAG
+GCGCTTCCCCAGCACAAACTGACCTGCTTCAGTGTGTACTGTAAGCACGGTCACCTGTGT
+CCCATCGACACCGGCCTCATCGAGAAGAATATCGAACTCTTCTTTTCTGGTTCAGCAAAA
+CCAATCTATGATGATGACCCGTCTCTTGAAGGTGGTGTTAATGGCAAAAATCTTGGCCCC
+ATAAATGAATGGTGGATCACTGGCTTTGATGGAGGTGAAAAGGCCCTCATCGGCTTCAGC
+ACCTCATTTGCCGAATACATTCTGATGGATCCCAGTCCCGAGTATGCGCCCATATTTGGG
+CTGATGCAGGAGAAGATCTACATCAGCAAGATTGTGGTGGAGTTCCTGCAGAGCAATTCC
+GACTCGACCTATGAGGACCTGATCAACAAGATCGAGACCACGGTTCCTCCTTCTGGCCTC
+AACTTGAACCGCTTCACAGAGGACTCCCTCCTGCGACACGCGCAGTTTGTGGTGGAGCAG
+GTGGAGAGTTATGACGAGGCCGGGGACAGTGATGAGCAGCCCATCTTCCTGACGCCCTGC
+ATGCGGGACCTGATCAAGCTGGCTGGGGTCACGCTGGGACAGAGGCGAGCCCAGGCGAGG
+CGGCAGACCATCAGGCATTCTACCAGGGAGAAGGACAGGGGACCCACGAAAGCCACCACC
+ACCAAGCTGGTCTACCAGATCTTCGATACTTTCTTCGCAGAGCAAATTGAAAAGGATGAC
+AGAGAAGACAAGGAGAACGCCTTTAAGCGCCGGCGATGTGGCGTCTGTGAGGTGTGTCAG
+CAGCCTGAGTGTGGGAAATGTAAAGCCTGCAAGGACATGGTTAAATTTGGTGGCAGTGGA
+CGGAGCAAGCAGGCTTGCCAAGAGCGGAGGTGTCCCAATATGGCCATGAAGGAGGCAGAT
+GACGATGAGGAAGTCGATGATAACATCCCAGAGATGCCGTCACCCAAAAAAATGCACCAG
+GGGAAGAAGAAGAAACAGAACAAGAATCGCATCTCTTGGGTCGGAGAAGCCGTCAAGACT
+GATGGGAAGAAGAGTTACTATAAGAAGGTGTGCATTGATGCGGAAACCCTGGAAGTGGGG
+GACTGTGTCTCTGTTATTCCAGATGATTCCTCAAAACCGCTGTATCTAGCAAGGGTCACG
+GCGCTGTGGGAGGACAGCAGCAACGGGCAGATGTTTCACGCCCACTGGTTCTGCGCTGGG
+ACAGACACAGTCCTCGGGGCCACGTCGGACCCTCTGGAGCTGTTCTTGGTGGATGAATGT
+GAGGACATGCAGCTTTCATATATCCACAGCAAAGTGAAAGTCATCTACAAAGCCCCCTCC
+GAAAACTGGGCCATGGAGGGAGGCATGGATCCCGAGTCCCTGCTGGAGGGGGACGACGGG
+AAGACCTACTTCTACCAGCTGTGGTATGATCAAGACTACGCGAGATTCGAGTCCCCTCCA
+AAAACCCAGCCAACAGAGGACAACAAGTTCAAATTCTGTGTGAGCTGTGCCCGTCTGGCT
+GAGATGAGGCAAAAAGAAATCCCCAGGGTCCTGGAGCAGCTCGAGGACCTGGATAGCCGG
+GTCCTCTACTACTCAGCCACCAAGAACGGCATCCTGTACCGAGTTGGTGATGGTGTGTAC
+CTGCCCCCTGAGGCCTTCACGTTCAACATCAAGCTGTCCAGTCCCGTGAAACGCCCACGG
+AAGGAGCCCGTGGATGAGGACCTGTACCCAGAGCACTACCGGAAATACTCCGACTACATC
+AAAGGCAGCAACCTGGATGCCCCTGAGCCCTACCGAATTGGCCGGATCAAAGAGATCTTC
+TGTCCCAAGAAGAGCAACGGCAGGCCCAATGAGACTGACATCAAAATCCGGGTCAACAAG
+TTCTACAGGCCTGAGAACACCCACAAGTCCACTCCAGCGAGCTACCACGCAGACATCAAC
+CTGCTCTACTGGAGCGACGAGGAGGCCGTGGTGGACTTCAAGGCTGTGCAGGGCCGCTGC
+ACCGTGGAGTATGGGGAGGACCTGCCCGAGTGCGTCCAGGTGTACTCCATGGGCGGCCCC
+AACCGCTTCTACTTCCTCGAGGCCTATAATGCAAAGAGCAAAAGCTTTGAAGATCCTCCC
+AACCATGCCCGTAGCCCTGGAAACAAAGGGAAGGGCAAGGGAAAAGGGAAGGGCAAGCCC
+AAGTCCCAAGCCTGTGAGCCGAGCGAGCCAGAGATAGAGATCAAGCTGCCCAAGCTGCGG
+ACCCTGGATGTGTTTTCTGGCTGCGGGGGGTTGTCGGAGGGATTCCACCAAGCAGGCATC
+TCTGACACGCTGTGGGCCATCGAGATGTGGGACCCTGCGGCCCAGGCGTTCCGGCTGAAC
+AACCCCGGCTCCACAGTGTTCACAGAGGACTGCAACATCCTGCTGAAGCTGGTCATGGCT
+GGGGAGACCACCAACTCCCGCGGCCAGCGGCTGCCCCAGAAGGGAGACGTGGAGATGCTG
+TGCGGCGGGCCGCCCTGCCAGGGCTTCAGCGGCATGAACCGCTTCAATTCGCGCACCTAC
+TCCAAGTTCAAAAACTCTCTGGTGGTTTCCTTCCTCAGCTACTGCGACTACTACCGGCCC
+CGGTTCTTCCTCCTGGAGAATGTCAGGAACTTTGTCTCCTTCAAGCGCTCCATGGTCCTG
+AAGCTCACCCTCCGCTGCCTGGTCCGCATGGGCTATCAGTGCACCTTCGGCGTGCTGCAG
+GCCGGTCAGTACGGCGTGGCCCAGACTAGGAGGCGGGCCATCATCCTGGCCGCGGCCCCT
+GGAGAGAAGCTCCCTCTGTTCCCGGAGCCACTGCACGTGTTTGCTCCCCGGGCCTGCCAG
+CTGAGCGTGGTGGTGGATGACAAGAAGTTTGTGAGCAACATAACCAGGTTGAGCTCGGGT
+CCTTTCCGGACCATCACGGTGCGAGACACGATGTCCGACCTGCCGGAGGTGCGGAATGGA
+GCCTCGGCACTGGAGATCTCCTACAACGGGGAGCCTCAGTCCTGGTTCCAGAGGCAGCTC
+CGGGGCGCACAGTACCAGCCCATCCTCAGGGACCACATCTGTAAGGACATGAGTGCATTG
+GTGGCTGCCCGCATGCGGCACATCCCCTTGGCCCCAGGGTCAGACTGGCGCGATCTGCCC
+AACATCGAGGTGCGGCTCTCAGACGGCACCATGGCCAGGAAGCTGCGGTATACCCACCAT
+GACAGGAAGAACGGCCGCAGCAGCTCTGGGGCCCTCCGTGGGGTCTGCTCCTGCGTGGAA
+GCCGGCAAAGCCTGCGACCCCGCAGCCAGGCAGTTCAACACCCTCATCCCCTGGTGCCTG
+CCCCACACCGGGAACCGGCACAACCACTGGGCTGGCCTCTATGGAAGGCTCGAGTGGGAC
+GGCTTCTTCAGCACAACCGTCACCAACCCCGAGCCCATGGGCAAGCAGGGCCGCGTGCTC
+CACCCAGAGCAGCACCGTGTGGTGAGCGTGCGGGAGTGTGCCCGCTCCCAGGGCTTCCCT
+GACACCTACCGGCTCTTCGGCAACATCCTGGACAAGCACCGGCAGGTGGGCAATGCCGTG
+CCACCGCCCCTGGCCAAAGCCATTGGCTTGGAGATCAAGCTTTGTATGTTGGCCAAAGCC
+CGAGAGAGTGCCTCAGCTAAAATAAAGGAGGAGGAAGCTGCTAAGGACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1616</residue_number>
+    <molecular_weight>184817.425</molecular_weight>
+    <theoretical_pi>7.859</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>BAH</name>
+        <pfam_id>PF01426</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DMAP_binding</name>
+        <pfam_id>PF06464</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DNA_methylase</name>
+        <pfam_id>PF00145</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DNMT1-RFD</name>
+        <pfam_id>PF12047</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-CXXC</name>
+        <pfam_id>PF02008</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA (cytosine-5)-methyltransferase 1
+MPARTAPARVPTLAVPAISLPDDVRRRLKDLERDSLTEKECVKEKLNLLHEFLQTEIKNQ
+LCDLETKLRKEELSEEGYLAKVKSLLNKDLSLENGAHAYNREVNGRLENGNQARSEARRV
+GMADANSPPKPLSKPRTPRRSKSDGEAKPEPSPSPRITRKSTRQTTITSHFAKGPAKRKP
+QEESERAKSDESIKEEDKDQDEKRRRVTSRERVARPLPAEEPERAKSGTRTEKEEERDEK
+EEKRLRSQTKEPTPKQKLKEEPDREARAGVQADEDEDGDEKDEKKHRSQPKDLAAKRRPE
+EKEPEKVNPQISDEKDEDEKEEKRRKTTPKEPTEKKMARAKTVMNSKTHPPKCIQCGQYL
+DDPDLKYGQHPPDAVDEPQMLTNEKLSIFDANESGFESYEALPQHKLTCFSVYCKHGHLC
+PIDTGLIEKNIELFFSGSAKPIYDDDPSLEGGVNGKNLGPINEWWITGFDGGEKALIGFS
+TSFAEYILMDPSPEYAPIFGLMQEKIYISKIVVEFLQSNSDSTYEDLINKIETTVPPSGL
+NLNRFTEDSLLRHAQFVVEQVESYDEAGDSDEQPIFLTPCMRDLIKLAGVTLGQRRAQAR
+RQTIRHSTREKDRGPTKATTTKLVYQIFDTFFAEQIEKDDREDKENAFKRRRCGVCEVCQ
+QPECGKCKACKDMVKFGGSGRSKQACQERRCPNMAMKEADDDEEVDDNIPEMPSPKKMHQ
+GKKKKQNKNRISWVGEAVKTDGKKSYYKKVCIDAETLEVGDCVSVIPDDSSKPLYLARVT
+ALWEDSSNGQMFHAHWFCAGTDTVLGATSDPLELFLVDECEDMQLSYIHSKVKVIYKAPS
+ENWAMEGGMDPESLLEGDDGKTYFYQLWYDQDYARFESPPKTQPTEDNKFKFCVSCARLA
+EMRQKEIPRVLEQLEDLDSRVLYYSATKNGILYRVGDGVYLPPEAFTFNIKLSSPVKRPR
+KEPVDEDLYPEHYRKYSDYIKGSNLDAPEPYRIGRIKEIFCPKKSNGRPNETDIKIRVNK
+FYRPENTHKSTPASYHADINLLYWSDEEAVVDFKAVQGRCTVEYGEDLPECVQVYSMGGP
+NRFYFLEAYNAKSKSFEDPPNHARSPGNKGKGKGKGKGKPKSQACEPSEPEIEIKLPKLR
+TLDVFSGCGGLSEGFHQAGISDTLWAIEMWDPAAQAFRLNNPGSTVFTEDCNILLKLVMA
+GETTNSRGQRLPQKGDVEMLCGGPPCQGFSGMNRFNSRTYSKFKNSLVVSFLSYCDYYRP
+RFFLLENVRNFVSFKRSMVLKLTLRCLVRMGYQCTFGVLQAGQYGVAQTRRRAIILAAAP
+GEKLPLFPEPLHVFAPRACQLSVVVDDKKFVSNITRLSSGPFRTITVRDTMSDLPEVRNG
+ASALEISYNGEPQSWFQRQLRGAQYQPILRDHICKDMSALVAARMRHIPLAPGSDWRDLP
+NIEVRLSDGTMARKLRYTHHDRKNGRSSSGALRGVCSCVEAGKACDPAARQFNTLIPWCL
+PHTGNRHNHWAGLYGRLEWDGFFSTTVTNPEPMGKQGRVLHPEQHRVVSVRECARSQGFP
+DTYRLFGNILDKHRQVGNAVPPPLAKAIGLEIKLCMLAKARESASAKIKEEEAAKD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>1632819</genbank_protein_id>
+  <uniprot_id>P26358</uniprot_id>
+  <uniprot_name>DNMT1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3EPZ</pdb_id>
+    <pdb_id>3PTA</pdb_id>
+    <pdb_id>3SWR</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X63692</genbank_gene_id>
+  <genecard_id>DNMT1</genecard_id>
+  <geneatlas_id>DNMT1</geneatlas_id>
+  <hgnc_id>HGNC:2976</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yen RW, Vertino PM, Nelkin BD, Yu JJ, el-Deiry W, Cumaraswamy A, Lennon GG, Trask BJ, Celano P, Baylin SB: Isolation and characterization of the cDNA encoding human DNA methyltransferase. Nucleic Acids Res. 1992 May 11;20(9):2287-91.</reference_text>
+      <pubmed_id>1594447</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoder JA, Yen RW, Vertino PM, Bestor TH, Baylin SB: New 5' regions of the murine and human genes for DNA (cytosine-5)-methyltransferase. J Biol Chem. 1996 Dec 6;271(49):31092-7.</reference_text>
+      <pubmed_id>8940105</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hsu DW, Lin MJ, Lee TL, Wen SC, Chen X, Shen CK: Two major forms of DNA (cytosine-5) methyltransferase in human somatic tissues. Proc Natl Acad Sci U S A. 1999 Aug 17;96(17):9751-6.</reference_text>
+      <pubmed_id>10449766</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bonfils C, Beaulieu N, Chan E, Cotton-Montpetit J, MacLeod AR: Characterization of the human DNA methyltransferase splice variant Dnmt1b.  J Biol Chem. 2000 Apr 14;275(15):10754-60.</reference_text>
+      <pubmed_id>10753866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chuang LS, Ian HI, Koh TW, Ng HH, Xu G, Li BF: Human DNA-(cytosine-5) methyltransferase-PCNA complex as a target for p21WAF1. Science. 1997 Sep 26;277(5334):1996-2000.</reference_text>
+      <pubmed_id>9302295</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tatematsu KI, Yamazaki T, Ishikawa F: MBD2-MBD3 complex binds to hemi-methylated DNA and forms a complex containing DNMT1 at the replication foci in late S phase. Genes Cells. 2000 Aug;5(8):677-88.</reference_text>
+      <pubmed_id>10947852</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rountree MR, Bachman KE, Baylin SB: DNMT1 binds HDAC2 and a new co-repressor, DMAP1, to form a complex at replication foci. Nat Genet. 2000 Jul;25(3):269-77.</reference_text>
+      <pubmed_id>10888872</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Robertson KD, Ait-Si-Ali S, Yokochi T, Wade PA, Jones PL, Wolffe AP: DNMT1 forms a complex with Rb, E2F1 and HDAC1 and represses transcription from E2F-responsive promoters. Nat Genet. 2000 Jul;25(3):338-42.</reference_text>
+      <pubmed_id>10888886</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Robertson KD, Uzvolgyi E, Liang G, Talmadge C, Sumegi J, Gonzales FA, Jones PA: The human DNA methyltransferases (DNMTs) 1, 3a and 3b: coordinate mRNA expression in normal tissues and overexpression in tumors. Nucleic Acids Res. 1999 Jun 1;27(11):2291-8.</reference_text>
+      <pubmed_id>10325416</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim GD, Ni J, Kelesoglu N, Roberts RJ, Pradhan S: Co-operation and communication between the human maintenance and de novo DNA (cytosine-5) methyltransferases. EMBO J. 2002 Aug 1;21(15):4183-95.</reference_text>
+      <pubmed_id>12145218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim SC, Sprung R, Chen Y, Xu Y, Ball H, Pei J, Cheng T, Kho Y, Xiao H, Xiao L, Grishin NV, White M, Yang XJ, Zhao Y: Substrate and functional diversity of lysine acetylation revealed by a proteomics survey. Mol Cell. 2006 Aug;23(4):607-18.</reference_text>
+      <pubmed_id>16916647</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vire E, Brenner C, Deplus R, Blanchon L, Fraga M, Didelot C, Morey L, Van Eynde A, Bernard D, Vanderwinden JM, Bollen M, Esteller M, Di Croce L, de Launoit Y, Fuks F: The Polycomb group protein EZH2 directly controls DNA methylation.  Nature. 2006 Feb 16;439(7078):871-4. Epub 2005 Dec 14.</reference_text>
+      <pubmed_id>16357870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schlesinger Y, Straussman R, Keshet I, Farkash S, Hecht M, Zimmerman J, Eden E, Yakhini Z, Ben-Shushan E, Reubinoff BE, Bergman Y, Simon I, Cedar H: Polycomb-mediated methylation on Lys27 of histone H3 pre-marks genes for de novo methylation in cancer. Nat Genet. 2007 Feb;39(2):232-6. Epub 2006 Dec 31.</reference_text>
+      <pubmed_id>17200670</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pradhan M, Esteve PO, Chin HG, Samaranayke M, Kim GD, Pradhan S: CXXC domain of human DNMT1 is essential for enzymatic activity.  Biochemistry. 2008 Sep 23;47(38):10000-9. Epub 2008 Aug 29.</reference_text>
+      <pubmed_id>18754681</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun L, Huang L, Nguyen P, Bisht KS, Bar-Sela G, Ho AS, Bradbury CM, Yu W, Cui H, Lee S, Trepel JB, Feinberg AP, Gius D: DNA methyltransferase 1 and 3B activate BAG-1 expression via recruitment of CTCFL/BORIS and modulation of promoter histone methylation. Cancer Res. 2008 Apr 15;68(8):2726-35.</reference_text>
+      <pubmed_id>18413740</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee B, Muller MT: SUMOylation enhances DNA methyltransferase 1 activity.  Biochem J. 2009 Jul 15;421(3):449-61.</reference_text>
+      <pubmed_id>19450230</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fellinger K, Rothbauer U, Felle M, Langst G, Leonhardt H: Dimerization of DNA methyltransferase 1 is mediated by its regulatory domain. J Cell Biochem. 2009 Mar 1;106(4):521-8.</reference_text>
+      <pubmed_id>19173286</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kaminskas E, Farrell AT, Wang YC, Sridhara R, Pazdur R: FDA drug approval summary: azacitidine (5-azacytidine, Vidaza) for injectable suspension. Oncologist. 2005 Mar;10(3):176-82.</reference_text>
+        <pubmed_id>15793220</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cataldo VD, Cortes J, Quintas-Cardama A: Azacitidine for the treatment of myelodysplastic syndrome.  Expert Rev Anticancer Ther. 2009 Jul;9(7):875-84.</reference_text>
+        <pubmed_id>19589026</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leone G, Voso MT, Teofili L, Lubbert M: Inhibitors of DNA methylation in the treatment of hematological malignancies and MDS. Clin Immunol. 2003 Oct;109(1):89-102.</reference_text>
+        <pubmed_id>14585280</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ghoshal K, Bai S: DNA methyltransferases as targets for cancer therapy.  Drugs Today (Barc). 2007 Jun;43(6):395-422.</reference_text>
+        <pubmed_id>17612710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Silverman LR, Demakos EP, Peterson BL, Kornblith AB, Holland JC, Odchimar-Reissig R, Stone RM, Nelson D, Powell BL, DeCastro CM, Ellerton J, Larson RA, Schiffer CA, Holland JF: Randomized controlled trial of azacitidine in patients with the myelodysplastic syndrome: a study of the cancer and leukemia group B. J Clin Oncol. 2002 May 15;20(10):2429-40.</reference_text>
+        <pubmed_id>12011120</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fenaux P: Inhibitors of DNA methylation: beyond myelodysplastic syndromes.  Nat Clin Pract Oncol. 2005 Dec;2 Suppl 1:S36-44.</reference_text>
+        <pubmed_id>16341239</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Silverman LR: Targeting hypomethylation of DNA to achieve cellular differentiation in myelodysplastic syndromes (MDS). Oncologist. 2001;6 Suppl 5:8-14.</reference_text>
+        <pubmed_id>11700387</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>O'Dwyer K, Maslak P: Azacitidine and the beginnings of therapeutic epigenetic modulation.  Expert Opin Pharmacother. 2008 Aug;9(11):1981-6.</reference_text>
+        <pubmed_id>18627335</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hollenbach PW, Nguyen AN, Brady H, Williams M, Ning Y, Richard N, Krushel L, Aukerman SL, Heise C, MacBeth KJ: A comparison of azacitidine and decitabine activities in acute myeloid leukemia cell lines. PLoS One. 2010 Feb 2;5(2):e9001.</reference_text>
+        <pubmed_id>20126405</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azacitidine</name>
+        <accession>HMDB15063</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Glover AB, Leyland-Jones B: Biochemistry of azacitidine: a review.  Cancer Treat Rep. 1987 Oct;71(10):959-64.</reference_text>
+        <pubmed_id>2443243</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Oelke K, Lu Q, Richardson D, Wu A, Deng C, Hanash S, Richardson B: Overexpression of CD70 and overstimulation of IgG synthesis by lupus T cells and T cells treated with DNA methylation inhibitors. Arthritis Rheum. 2004 Jun;50(6):1850-60.</reference_text>
+        <pubmed_id>15188362</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Januchowski R, Jagodzinski PP: Effect of 5-azacytidine and procainamide on CD3-zeta chain expression in Jurkat T cells. Biomed Pharmacother. 2005 Apr;59(3):122-6.</reference_text>
+        <pubmed_id>15795105</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lee BH, Yegnasubramanian S, Lin X, Nelson WG: Procainamide is a specific inhibitor of DNA methyltransferase 1.  J Biol Chem. 2005 Dec 9;280(49):40749-56. Epub 2005 Oct 17.</reference_text>
+        <pubmed_id>16230360</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Scheinbart LS, Johnson MA, Gross LA, Edelstein SR, Richardson BC: Procainamide inhibits DNA methyltransferase in a human T cell line.  J Rheumatol. 1991 Apr;18(4):530-4.</reference_text>
+        <pubmed_id>2066944</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flucytosine</name>
+        <accession>HMDB15231</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flucytosine</name>
+        <accession>HMDB15231</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flucytosine</name>
+        <accession>HMDB15231</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shieh FK, Reich NO: AdoMet-dependent methyl-transfer: Glu119 is essential for DNA C5-cytosine methyltransferase M.HhaI. J Mol Biol. 2007 Nov 9;373(5):1157-68. Epub 2007 Aug 19.</reference_text>
+        <pubmed_id>17897676</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flucytosine</name>
+        <accession>HMDB15231</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wyszynski MW, Gabbara S, Kubareva EA, Romanova EA, Oretskaya TS, Gromova ES, Shabarova ZA, Bhagwat AS: The cysteine conserved among DNA cytosine methylases is required for methyl transfer, but not for specific DNA binding. Nucleic Acids Res. 1993 Jan 25;21(2):295-301.</reference_text>
+        <pubmed_id>8441637</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ando T, Nishimura M, Oka Y: Decitabine (5-Aza-2'-deoxycytidine) decreased DNA methylation and expression of MDR-1 gene in K562/ADM cells. Leukemia. 2000 Nov;14(11):1915-20.</reference_text>
+        <pubmed_id>11069027</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Karpf AR, Moore BC, Ririe TO, Jones DA: Activation of the p53 DNA damage response pathway after inhibition of DNA methyltransferase by 5-aza-2'-deoxycytidine. Mol Pharmacol. 2001 Apr;59(4):751-7.</reference_text>
+        <pubmed_id>11259619</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Csankovszki G, Nagy A, Jaenisch R: Synergism of Xist RNA, DNA methylation, and histone hypoacetylation in maintaining X chromosome inactivation. J Cell Biol. 2001 May 14;153(4):773-84.</reference_text>
+        <pubmed_id>11352938</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takebayashi S, Nakao M, Fujita N, Sado T, Tanaka M, Taguchi H, Okumura K: 5-Aza-2'-deoxycytidine induces histone hyperacetylation of mouse centromeric heterochromatin by a mechanism independent of DNA demethylation. Biochem Biophys Res Commun. 2001 Nov 9;288(4):921-6.</reference_text>
+        <pubmed_id>11688997</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Saunthararajah Y, Hillery CA, Lavelle D, Molokie R, Dorn L, Bressler L, Gavazova S, Chen YH, Hoffman R, DeSimone J: Effects of 5-aza-2'-deoxycytidine on fetal hemoglobin levels, red cell adhesion, and hematopoietic differentiation in patients with sickle cell disease. Blood. 2003 Dec 1;102(12):3865-70. Epub 2003 Aug 7.</reference_text>
+        <pubmed_id>12907443</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Daskalakis M, Blagitko-Dorfs N, Hackanson B: Decitabine.  Recent Results Cancer Res. 2010;184:131-57.</reference_text>
+        <pubmed_id>20072836</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Saba HI, Wijermans PW: Decitabine in myelodysplastic syndromes.  Semin Hematol. 2005 Jul;42(3 Suppl 2):S23-31.</reference_text>
+        <pubmed_id>16015501</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jabbour E, Issa JP, Garcia-Manero G, Kantarjian H: Evolution of decitabine development: accomplishments, ongoing investigations, and future strategies. Cancer. 2008 Jun;112(11):2341-51.</reference_text>
+        <pubmed_id>18398832</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Stresemann C, Lyko F: Modes of action of the DNA methyltransferase inhibitors azacytidine and decitabine. Int J Cancer. 2008 Jul 1;123(1):8-13.</reference_text>
+        <pubmed_id>18425818</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Oki Y, Aoki E, Issa JP: Decitabine--bedside to bench.  Crit Rev Oncol Hematol. 2007 Feb;61(2):140-52. Epub 2006 Oct 4.</reference_text>
+        <pubmed_id>17023173</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

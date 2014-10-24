@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:59:12 -0700</creation_date>
+  <update_date>2013-01-15 18:59:12 -0700</update_date>
+  <accession>HMDBP01757</accession>
+  <secondary_accessions>
+    <accession>7108</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Alpha-1 type I collagen</synonym>
+  </synonyms>
+  <gene_name>COL1A1</gene_name>
+  <general_function>Involved in extracellular matrix structural constituent</general_function>
+  <specific_function>Type I collagen is a member of group I collagen (fibrillar forming collagen)</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB31784</accession>
+      <name>Halofuginone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>structural molecule activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>extracellular matrix structural constituent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>extracellular region part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>extracellular matrix part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>collagen</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+    <subcellular_location>extracellular space</subcellular_location>
+    <subcellular_location>extracellular matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>17q21.33</locus>
+    <gene_sequence>&gt;4395 bp
+ATGTTCAGCTTTGTGGACCTCCGGCTCCTGCTCCTCTTAGCGGCCACCGCCCTCCTGACG
+CACGGCCAAGAGGAAGGCCAAGTCGAGGGCCAAGACGAAGACATCCCACCAATCACCTGC
+GTACAGAACGGCCTCAGGTACCATGACCGAGACGTGTGGAAACCCGAGCCCTGCCGGATC
+TGCGTCTGCGACAACGGCAAGGTGTTGTGCGATGACGTGATCTGTGACGAGACCAAGAAC
+TGCCCCGGCGCCGAAGTCCCCGAGGGCGAGTGCTGTCCCGTCTGCCCCGACGGCTCAGAG
+TCACCCACCGACCAAGAAACCACCGGCGTCGAGGGACCCAAGGGAGACACTGGCCCCCGA
+GGCCCAAGGGGACCCGCAGGCCCCCCTGGCCGAGATGGCATCCCTGGACAGCCTGGACTT
+CCCGGACCCCCCGGACCCCCCGGACCTCCCGGACCCCCTGGCCTCGGAGGAAACTTTGCT
+CCCCAGCTGTCTTATGGCTATGATGAGAAATCAACCGGAGGAATTTCCGTGCCTGGCCCC
+ATGGGTCCCTCTGGTCCTCGTGGTCTCCCTGGCCCCCCTGGTGCACCTGGTCCCCAAGGC
+TTCCAAGGTCCCCCTGGTGAGCCTGGCGAGCCTGGAGCTTCAGGTCCCATGGGTCCCCGA
+GGTCCCCCAGGTCCCCCTGGAAAGAATGGAGATGATGGGGAAGCTGGAAAACCTGGTCGT
+CCTGGTGAGCGTGGGCCTCCTGGGCCTCAGGGTGCTCGAGGATTGCCCGGAACAGCTGGC
+CTCCCTGGAATGAAGGGACACAGAGGTTTCAGTGGTTTGGATGGTGCCAAGGGAGATGCT
+GGTCCTGCTGGTCCTAAGGGTGAGCCTGGCAGCCCTGGTGAAAATGGAGCTCCTGGTCAG
+ATGGGCCCCCGTGGCCTGCCTGGTGAGAGAGGTCGCCCTGGAGCCCCTGGCCCTGCTGGT
+GCTCGTGGAAATGATGGTGCTACTGGTGCTGCCGGGCCCCCTGGTCCCACCGGCCCCGCT
+GGTCCTCCTGGCTTCCCTGGTGCTGTTGGTGCTAAGGGTGAAGCTGGTCCCCAAGGGCCC
+CGAGGCTCTGAAGGTCCCCAGGGTGTGCGTGGTGAGCCTGGCCCCCCTGGCCCTGCTGGT
+GCTGCTGGCCCTGCTGGAAACCCTGGTGCTGATGGACAGCCTGGTGCTAAAGGTGCCAAT
+GGTGCTCCTGGTATTGCTGGTGCTCCTGGCTTCCCTGGTGCCCGAGGCCCCTCTGGACCC
+CAGGGCCCCGGCGGCCCTCCTGGTCCCAAGGGTAACAGCGGTGAACCTGGTGCTCCTGGC
+AGCAAAGGAGACACTGGTGCTAAGGGAGAGCCTGGCCCTGTTGGTGTTCAAGGACCCCCT
+GGCCCTGCTGGAGAGGAAGGAAAGCGAGGAGCTCGAGGTGAACCCGGACCCACTGGCCTG
+CCCGGACCCCCTGGCGAGCGTGGTGGACCTGGTAGCCGTGGTTTCCCTGGCGCAGATGGT
+GTTGCTGGTCCCAAGGGTCCCGCTGGTGAACGTGGTTCTCCTGGCCCCGCTGGCCCCAAA
+GGATCTCCTGGTGAAGCTGGTCGTCCCGGTGAAGCTGGTCTGCCTGGTGCCAAGGGTCTG
+ACTGGAAGCCCTGGCAGCCCTGGTCCTGATGGCAAAACTGGCCCCCCTGGTCCCGCCGGT
+CAAGATGGTCGCCCCGGACCCCCAGGCCCACCTGGTGCCCGTGGTCAGGCTGGTGTGATG
+GGATTCCCTGGACCTAAAGGTGCTGCTGGAGAGCCCGGCAAGGCTGGAGAGCGAGGTGTT
+CCCGGACCCCCTGGCGCTGTCGGTCCTGCTGGCAAAGATGGAGAGGCTGGAGCTCAGGGA
+CCCCCTGGCCCTGCTGGTCCCGCTGGCGAGAGAGGTGAACAAGGCCCTGCTGGCTCCCCC
+GGATTCCAGGGTCTCCCTGGTCCTGCTGGTCCTCCAGGTGAAGCAGGCAAACCTGGTGAA
+CAGGGTGTTCCTGGAGACCTTGGCGCCCCTGGCCCCTCTGGAGCAAGAGGCGAGAGAGGT
+TTCCCTGGCGAGCGTGGTGTGCAAGGTCCCCCTGGTCCTGCTGGACCCCGAGGGGCCAAC
+GGTGCTCCCGGCAACGATGGTGCTAAGGGTGATGCTGGTGCCCCTGGAGCTCCCGGTAGC
+CAGGGCGCCCCTGGCCTTCAGGGAATGCCTGGTGAACGTGGTGCAGCTGGTCTTCCAGGG
+CCTAAGGGTGACAGAGGTGATGCTGGTCCCAAAGGTGCTGATGGCTCTCCTGGCAAAGAT
+GGCGTCCGTGGTCTGACCGGCCCCATTGGTCCTCCTGGCCCTGCTGGTGCCCCTGGTGAC
+AAGGGTGAAAGTGGTCCCAGCGGCCCTGCTGGTCCCACTGGAGCTCGTGGTGCCCCCGGA
+GACCGTGGTGAGCCTGGTCCCCCCGGCCCTGCTGGCTTTGCTGGCCCCCCTGGTGCTGAC
+GGCCAACCTGGTGCTAAAGGCGAACCTGGTGATGCTGGTGCCAAAGGCGATGCTGGTCCC
+CCTGGGCCTGCCGGACCCGCTGGACCCCCTGGCCCCATTGGTAATGTTGGTGCTCCTGGA
+GCCAAAGGTGCTCGCGGCAGCGCTGGTCCCCCTGGTGCTACTGGTTTCCCTGGTGCTGCT
+GGCCGAGTCGGTCCTCCTGGCCCCTCTGGAAATGCTGGACCCCCTGGCCCTCCTGGTCCT
+GCTGGCAAAGAAGGCGGCAAAGGTCCCCGTGGTGAGACTGGCCCTGCTGGACGTCCTGGT
+GAAGTTGGTCCCCCTGGTCCCCCTGGCCCTGCTGGCGAGAAAGGATCCCCTGGTGCTGAT
+GGTCCTGCTGGTGCTCCTGGTACTCCCGGGCCTCAAGGTATTGCTGGACAGCGTGGTGTG
+GTCGGCCTGCCTGGTCAGAGAGGAGAGAGAGGCTTCCCTGGTCTTCCTGGCCCCTCTGGT
+GAACCTGGCAAACAAGGTCCCTCTGGAGCAAGTGGTGAACGTGGTCCCCCCGGTCCCATG
+GGCCCCCCTGGATTGGCTGGACCCCCTGGTGAATCTGGACGTGAGGGGGCTCCTGCTGCC
+GAAGGTTCCCCTGGACGAGACGGTTCTCCTGGCGCCAAGGGTGACCGTGGTGAGACCGGC
+CCCGCTGGACCCCCTGGTGCTCCTGGTGCTCCTGGTGCCCCTGGCCCCGTTGGCCCTGCT
+GGCAAGAGTGGTGATCGTGGTGAGACTGGTCCTGCTGGTCCCGCCGGTCCCGTCGGCCCC
+GTCGGCGCCCGTGGCCCCGCCGGACCCCAAGGCCCCCGTGGTGACAAGGGTGAGACAGGC
+GAACAGGGCGACAGAGGCATAAAGGGTCACCGTGGCTTCTCTGGCCTCCAGGGTCCCCCT
+GGCCCTCCTGGCTCTCCTGGTGAACAAGGTCCCTCTGGAGCCTCTGGTCCTGCTGGTCCC
+CGAGGTCCCCCTGGCTCTGCTGGTGCTCCTGGCAAAGATGGACTCAACGGTCTCCCTGGC
+CCCATTGGGCCCCCTGGTCCTCGCGGTCGCACTGGTGATGCTGGTCCTGTTGGTCCCCCC
+GGCCCTCCTGGACCTCCTGGTCCCCCTGGTCCTCCCAGCGCTGGTTTCGACTTCAGCTTC
+CTGCCCCAGCCACCTCAAGAGAAGGCTCACGATGGTGGCCGCTACTACCGGGCTGATGAT
+GCCAATGTGGTTCGTGACCGTGACCTCGAGGTGGACACCACCCTCAAGAGCCTGAGCCAG
+CAGATCGAGAACATCCGGAGCCCAGAGGGAAGCCGCAAGAACCCCGCCCGCACCTGCCGT
+GACCTCAAGATGTGCCACTCTGACTGGAAGAGTGGAGAGTACTGGATTGACCCCAACCAA
+GGCTGCAACCTGGATGCCATCAAAGTCTTCTGCAACATGGAGACTGGTGAGACCTGCGTG
+TACCCCACTCAGCCCAGTGTGGCCCAGAAGAACTGGTACATCAGCAAGAACCCCAAGGAC
+AAGAGGCATGTCTGGTTCGGCGAGAGCATGACCGATGGATTCCAGTTCGAGTATGGCGGC
+CAGGGCTCCGACCCTGCCGATGTGGCCATCCAGCTGACCTTCCTGCGCCTGATGTCCACC
+GAGGCCTCCCAGAACATCACCTACCACTGCAAGAACAGCGTGGCCTACATGGACCAGCAG
+ACTGGCAACCTCAAGAAGGCCCTGCTCCTCAAGGGCTCCAACGAGATCGAGATCCGCGCC
+GAGGGCAACAGCCGCTTCACCTACAGCGTCACTGTCGATGGCTGCACGAGTCACACCGGA
+GCCTGGGGCAAGACAGTGATTGAATACAAAACCACCAAGTCCTCCCGCCTGCCCATCATC
+GATGTGGCCCCCTTGGACGTTGGTGCCCCAGACCAGGAATTCGGCTTCGACGTTGGCCCT
+GTCTGCTTCCTGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1464</residue_number>
+    <molecular_weight>138941.1</molecular_weight>
+    <theoretical_pi>5.47</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>COLFI;</name>
+        <pfam_id>PF01410</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Collagen;</name>
+        <pfam_id>PF01391</pfam_id>
+      </pfam>
+      <pfam>
+        <name>VWC</name>
+        <pfam_id>PF00093</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-22</region>
+    </signal_regions>
+    <protein_sequence>&gt;Collagen alpha-1(I) chain
+MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNGLRYHDRDVWKPEPCRI
+CVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESPTDQETTGVEGPKGDTGPR
+GPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFAPQLSYGYDEKSTGGISVPGP
+MGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMGPRGPPGPPGKNGDDGEAGKPGR
+PGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGAKGDAGPAGPKGEPGSPGENGAPGQ
+MGPRGLPGERGRPGAPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVGAKGEAGPQGP
+RGSEGPQGVRGEPGPPGPAGAAGPAGNPGADGQPGAKGANGAPGIAGAPGFPGARGPSGP
+QGPGGPPGPKGNSGEPGAPGSKGDTGAKGEPGPVGVQGPPGPAGEEGKRGARGEPGPTGL
+PGPPGERGGPGSRGFPGADGVAGPKGPAGERGSPGPAGPKGSPGEAGRPGEAGLPGAKGL
+TGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGV
+PGPPGAVGPAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGE
+QGVPGDLGAPGPSGARGERGFPGERGVQGPPGPAGPRGANGAPGNDGAKGDAGAPGAPGS
+QGAPGLQGMPGERGAAGLPGPKGDRGDAGPKGADGSPGKDGVRGLTGPIGPPGPAGAPGD
+KGESGPSGPAGPTGARGAPGDRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGP
+PGPAGPAGPPGPIGNVGAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGP
+AGKEGGKGPRGETGPAGRPGEVGPPGPPGPAGEKGSPGADGPAGAPGTPGPQGIAGQRGV
+VGLPGQRGERGFPGLPGPSGEPGKQGPSGASGERGPPGPMGPPGLAGPPGESGREGAPGA
+EGSPGRDGSPGAKGDRGETGPAGPPGAPGAPGAPGPVGPAGKSGDRGETGPAGPTGPVGP
+VGARGPAGPQGPRGDKGETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGP
+RGPPGSAGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSF
+LPQPPQEKAHDGGRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEGSRKNPARTCR
+DLKMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYISKNPKD
+KRHVWFGESMTDGFQFEYGGQGSDPADVAIQLTFLRLMSTEASQNITYHCKNSVAYMDQQ
+TGNLKKALLLQGSNEIEIRAEGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSRLPII
+DVAPLDVGAPDQEFGFDVGPVCFL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>1418928</genbank_protein_id>
+  <uniprot_id>P02452</uniprot_id>
+  <uniprot_name>CO1A1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>Z74615</genbank_gene_id>
+  <genecard_id>COL1A1</genecard_id>
+  <geneatlas_id>COL1A1</geneatlas_id>
+  <hgnc_id>HGNC:2197</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Korkko J, Ala-Kokko L, De Paepe A, Nuytinck L, Earley J, Prockop DJ: Analysis of the COL1A1 and COL1A2 genes by PCR amplification and scanning by conformation-sensitive gel electrophoresis identifies only COL1A1 mutations in 15 patients with osteogenesis imperfecta type I: identification of common sequences of null-allele mutations. Am J Hum Genet. 1998 Jan;62(1):98-110.</reference_text>
+      <pubmed_id>9443882</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>D'Alessio M, Bernard M, Pretorius PJ, de Wet W, Ramirez F: Complete nucleotide sequence of the region encompassing the first twenty-five exons of the human pro alpha 1(I) collagen gene (COL1A1) Gene. 1988 Jul 15;67(1):105-15.</reference_text>
+      <pubmed_id>2843432</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tromp G, Kuivaniemi H, Stacey A, Shikata H, Baldwin CT, Jaenisch R, Prockop DJ: Structure of a full-length cDNA clone for the prepro alpha 1(I) chain of human type I procollagen. Biochem J. 1988 Aug 1;253(3):919-22.</reference_text>
+      <pubmed_id>3178743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chu ML, de Wet W, Bernard M, Ding JF, Morabito M, Myers J, Williams C, Ramirez F: Human pro alpha 1(I) collagen gene structure reveals evolutionary conservation of a pattern of introns and exons. Nature. 1984 Jul 26-Aug 1;310(5975):337-40.</reference_text>
+      <pubmed_id>6462220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rossouw CM, Vergeer WP, du Plooy SJ, Bernard MP, Ramirez F, de Wet WJ: DNA sequences in the first intron of the human pro-alpha 1(I) collagen gene enhance transcription. J Biol Chem. 1987 Nov 5;262(31):15151-7.</reference_text>
+      <pubmed_id>2822714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chu ML, de Wet W, Bernard M, Ramirez F: Fine structural analysis of the human pro-alpha 1 (I) collagen gene. Promoter structure, AluI repeats, and polymorphic transcripts. J Biol Chem. 1985 Feb 25;260(4):2315-20.</reference_text>
+      <pubmed_id>2857713</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bornstein P, McKay J, Morishima JK, Devarayalu S, Gelinas RE: Regulatory elements in the first intron contribute to transcriptional control of the human alpha 1(I) collagen gene. Proc Natl Acad Sci U S A. 1987 Dec;84(24):8869-73.</reference_text>
+      <pubmed_id>3480516</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wirtz MK, Keene DR, Hori H, Glanville RW, Steinmann B, Rao VH, Hollister DW: In vivo and in vitro noncovalent association of excised alpha 1 (I) amino-terminal propeptides with mutant pN alpha 2(I) collagen chains in native mutant collagen in a case of Ehlers-Danlos syndrome, type VII. J Biol Chem. 1990 Apr 15;265(11):6312-7.</reference_text>
+      <pubmed_id>2318855</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Weil D, D'Alessio M, Ramirez F, de Wet W, Cole WG, Chan D, Bateman JF: A base substitution in the exon of a collagen gene causes alternative splicing and generates a structurally abnormal polypeptide in a patient with Ehlers-Danlos syndrome type VII. EMBO J. 1989 Jun;8(6):1705-10.</reference_text>
+      <pubmed_id>2767050</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Click EM, Bornstein P: Isolation and characterization of the cyanogen bromide peptides from the alpha 1 and alpha 2 chains of human skin collagen. Biochemistry. 1970 Nov 24;9(24):4699-706.</reference_text>
+      <pubmed_id>5529814</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Batge B, Notbohm H, Diebold J, Lehmann H, Bodo M, Deutzmann R, Muller PK: A critical crosslink region in human-bone-derived collagen type I. Specific cleavage site at residue Leu95. Eur J Biochem. 1990 Aug 28;192(1):153-9.</reference_text>
+      <pubmed_id>2169412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Morgan PH, Jacobs HG, Segrest JP, Cunningham LW: A comparative study of glycopeptides derived from selected vertebrate collagens. A possible role of the carbohydrate in fibril formation. J Biol Chem. 1970 Oct 10;245(19):5042-8.</reference_text>
+      <pubmed_id>4319110</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Labhard ME, Hollister DW: Segmental amplification of the entire helical and telopeptide regions of the cDNA for human alpha 1 (I) collagen. Matrix. 1990 May;10(2):124-30.</reference_text>
+      <pubmed_id>2374517</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bernard MP, Chu ML, Myers JC, Ramirez F, Eikenberry EF, Prockop DJ: Nucleotide sequences of complementary deoxyribonucleic acids for the pro alpha 1 chain of human type I procollagen. Statistical evaluation of structures that are conserved during evolution. Biochemistry. 1983 Oct 25;22(22):5213-23.</reference_text>
+      <pubmed_id>6689127</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chu ML, Myers JC, Bernard MP, Ding JF, Ramirez F: Cloning and characterization of five overlapping cDNAs specific for the human pro alpha 1(I) collagen chain. Nucleic Acids Res. 1982 Oct 11;10(19):5925-34.</reference_text>
+      <pubmed_id>6183642</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chu ML, Gargiulo V, Williams CJ, Ramirez F: Multiexon deletion in an osteogenesis imperfecta variant with increased type III collagen mRNA. J Biol Chem. 1985 Jan 25;260(2):691-4.</reference_text>
+      <pubmed_id>2981843</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barsh GS, Roush CL, Bonadio J, Byers PH, Gelinas RE: Intron-mediated recombination may cause a deletion in an alpha 1 type I collagen chain in a lethal form of osteogenesis imperfecta. Proc Natl Acad Sci U S A. 1985 May;82(9):2870-4.</reference_text>
+      <pubmed_id>3857621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wallis GA, Starman BJ, Zinn AB, Byers PH: Variable expression of osteogenesis imperfecta in a nuclear family is explained by somatic mosaicism for a lethal point mutation in the alpha 1(I) gene (COL1A1) of type I collagen in a parent. Am J Hum Genet. 1990 Jun;46(6):1034-40.</reference_text>
+      <pubmed_id>2339700</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Forlino A, Zolezzi F, Valli M, Pignatti PF, Cetta G, Brunelli PC, Mottes M: Severe (type III) osteogenesis imperfecta due to glycine substitutions in the central domain of the collagen triple helix. Hum Mol Genet. 1994 Dec;3(12):2201-6.</reference_text>
+      <pubmed_id>7881420</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chessler SD, Wallis GA, Byers PH: Mutations in the carboxyl-terminal propeptide of the pro alpha 1(I) chain of type I collagen result in defective chain association and produce lethal osteogenesis imperfecta. J Biol Chem. 1993 Aug 25;268(24):18218-25.</reference_text>
+      <pubmed_id>8349697</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cohn DH, Apone S, Eyre DR, Starman BJ, Andreassen P, Charbonneau H, Nicholls AC, Pope FM, Byers PH: Substitution of cysteine for glycine within the carboxyl-terminal telopeptide of the alpha 1 chain of type I collagen produces mild osteogenesis imperfecta. J Biol Chem. 1988 Oct 15;263(29):14605-7.</reference_text>
+      <pubmed_id>3170557</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Makela JK, Raassina M, Virta A, Vuorio E: Human pro alpha 1(I) collagen: cDNA sequence for the C-propeptide domain.  Nucleic Acids Res. 1988 Jan 11;16(1):349.</reference_text>
+      <pubmed_id>3340531</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Willing MC, Cohn DH, Byers PH: Frameshift mutation near the 3' end of the COL1A1 gene of type I collagen predicts an elongated Pro alpha 1(I) chain and results in osteogenesis imperfecta type I. J Clin Invest. 1990 Jan;85(1):282-90.</reference_text>
+      <pubmed_id>2295701</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maatta A, Bornstein P, Penttinen RP: Highly conserved sequences in the 3'-untranslated region of the COL1A1 gene bind cell-specific nuclear proteins. FEBS Lett. 1991 Feb 11;279(1):9-13.</reference_text>
+      <pubmed_id>1995349</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuivaniemi H, Tromp G, Prockop DJ: Mutations in collagen genes: causes of rare and some common diseases in humans. FASEB J. 1991 Apr;5(7):2052-60.</reference_text>
+      <pubmed_id>2010058</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuivaniemi H, Tromp G, Prockop DJ: Mutations in fibrillar collagens (types I, II, III, and XI), fibril-associated collagen (type IX), and network-forming collagen (type X) cause a spectrum of diseases of bone, cartilage, and blood vessels. Hum Mutat. 1997;9(4):300-15.</reference_text>
+      <pubmed_id>9101290</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Byers PH, Wallis GA, Willing MC: Osteogenesis imperfecta: translation of mutation to phenotype.  J Med Genet. 1991 Jul;28(7):433-42.</reference_text>
+      <pubmed_id>1895312</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stefanovic B, Stefanovic L, Schnabl B, Bataller R, Brenner DA: TRAM2 protein interacts with endoplasmic reticulum Ca2+ pump Serca2b and is necessary for collagen type I synthesis. Mol Cell Biol. 2004 Feb;24(4):1758-68.</reference_text>
+      <pubmed_id>14749390</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cohn DH, Byers PH, Steinmann B, Gelinas RE: Lethal osteogenesis imperfecta resulting from a single nucleotide change in one human pro alpha 1(I) collagen allele. Proc Natl Acad Sci U S A. 1986 Aug;83(16):6045-7.</reference_text>
+      <pubmed_id>3016737</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bateman JF, Chan D, Walker ID, Rogers JG, Cole WG: Lethal perinatal osteogenesis imperfecta due to the substitution of arginine for glycine at residue 391 of the alpha 1(I) chain of type I collagen. J Biol Chem. 1987 May 25;262(15):7021-7.</reference_text>
+      <pubmed_id>3108247</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vogel BE, Minor RR, Freund M, Prockop DJ: A point mutation in a type I procollagen gene converts glycine 748 of the alpha 1 chain to cysteine and destabilizes the triple helix in a lethal variant of osteogenesis imperfecta. J Biol Chem. 1987 Oct 25;262(30):14737-44.</reference_text>
+      <pubmed_id>3667599</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bateman JF, Lamande SR, Dahl HH, Chan D, Cole WG: Substitution of arginine for glycine 664 in the collagen alpha 1(I) chain in lethal perinatal osteogenesis imperfecta. Demonstration of the peptide defect by in vitro expression of the mutant cDNA. J Biol Chem. 1988 Aug 25;263(24):11627-30.</reference_text>
+      <pubmed_id>3403550</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Labhard ME, Wirtz MK, Pope FM, Nicholls AC, Hollister DW: A cysteine for glycine substitution at position 1017 in an alpha 1(I) chain of type I collagen in a patient with mild dominantly inherited osteogenesis imperfecta. Mol Biol Med. 1988 Dec;5(3):197-207.</reference_text>
+      <pubmed_id>3244312</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Patterson E, Smiley E, Bonadio J: RNA sequence analysis of a perinatal lethal osteogenesis imperfecta mutation. J Biol Chem. 1989 Jun 15;264(17):10083-7.</reference_text>
+      <pubmed_id>2470760</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marini JC, Grange DK, Gottesman GS, Lewis MB, Koeplin DA: Osteogenesis imperfecta type IV. Detection of a point mutation in one alpha 1(I) collagen allele (COL1A1) by RNA/RNA hybrid analysis. J Biol Chem. 1989 Jul 15;264(20):11893-900.</reference_text>
+      <pubmed_id>2745420</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lamande SR, Dahl HH, Cole WG, Bateman JF: Characterization of point mutations in the collagen COL1A1 and COL1A2 genes causing lethal perinatal osteogenesis imperfecta. J Biol Chem. 1989 Sep 25;264(27):15809-12.</reference_text>
+      <pubmed_id>2777764</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pack M, Constantinou CD, Kalia K, Nielsen KB, Prockop DJ: Substitution of serine for alpha 1(I)-glycine 844 in a severe variant of osteogenesis imperfecta minimally destabilizes the triple helix of type I procollagen. The effects of glycine substitutions on thermal stability are either position of amino acid specific. J Biol Chem. 1989 Nov 25;264(33):19694-9.</reference_text>
+      <pubmed_id>2511192</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Constantinou CD, Nielsen KB, Prockop DJ: A lethal variant of osteogenesis imperfecta has a single base mutation that substitutes cysteine for glycine 904 of the alpha 1(I) chain of type I procollagen. The asymptomatic mother has an unidentified mutation producing an overmodified and unstable type I procollagen. J Clin Invest. 1989 Feb;83(2):574-84.</reference_text>
+      <pubmed_id>2913053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Starman BJ, Eyre D, Charbonneau H, Harrylock M, Weis MA, Weiss L, Graham JM Jr, Byers PH: Osteogenesis imperfecta. The position of substitution for glycine by cysteine in the triple helical domain of the pro alpha 1(I) chains of type I collagen determines the clinical phenotype. J Clin Invest. 1989 Oct;84(4):1206-14.</reference_text>
+      <pubmed_id>2794057</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Westerhausen A, Kishi J, Prockop DJ: Mutations that substitute serine for glycine alpha 1-598 and glycine alpha 1-631 in type I procollagen. The effects on thermal unfolding of the triple helix are position-specific and demonstrate that the protein unfolds through a series of cooperative blocks. J Biol Chem. 1990 Aug 15;265(23):13995-4000.</reference_text>
+      <pubmed_id>2116413</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wallis GA, Starman BJ, Schwartz MF, Byers PH: Substitution of arginine for glycine at position 847 in the triple-helical domain of the alpha 1 (I) chain of type I collagen produces lethal osteogenesis imperfecta. Molecules that contain one or two abnormal chains differ in stability and secretion. J Biol Chem. 1990 Oct 25;265(30):18628-33.</reference_text>
+      <pubmed_id>2211725</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhuang JP, Constantinou CD, Ganguly A, Prockop DJ: A single base mutation in type I procollagen (COL1A1) that converts glycine alpha 1-541 to aspartate in a lethal variant of osteogenesis imperfecta: detection of the mutation with a carbodiimide reaction of DNA heteroduplexes and direct sequencing of products of the PCR. Am J Hum Genet. 1991 Jun;48(6):1186-91.</reference_text>
+      <pubmed_id>2035536</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Steinmann B, Westerhausen A, Constantinou CD, Superti-Furga A, Prockop DJ: Substitution of cysteine for glycine-alpha 1-691 in the pro alpha 1(I) chain of type I procollagen in a proband with lethal osteogenesis imperfecta destabilizes the triple helix at a site C-terminal to the substitution. Biochem J. 1991 Nov 1;279 ( Pt 3):747-52.</reference_text>
+      <pubmed_id>1953667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kadler KE, Torre-Blanco A, Adachi E, Vogel BE, Hojima Y, Prockop DJ: A type I collagen with substitution of a cysteine for glycine-748 in the alpha 1(I) chain copolymerizes with normal type I collagen and can generate fractallike structures. Biochemistry. 1991 May 21;30(20):5081-8.</reference_text>
+      <pubmed_id>2036375</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pruchno CJ, Cohn DH, Wallis GA, Willing MC, Starman BJ, Zhang XM, Byers PH: Osteogenesis imperfecta due to recurrent point mutations at CpG dinucleotides in the COL1A1 gene of type I collagen. Hum Genet. 1991 May;87(1):33-40.</reference_text>
+      <pubmed_id>2037280</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Valli M, Mottes M, Tenni R, Sangalli A, Gomez Lira M, Rossi A, Antoniazzi F, Cetta G, Pignatti PF: A de novo G to T transversion in a pro-alpha 1 (I) collagen gene for a moderate case of osteogenesis imperfecta. Substitution of cysteine for glycine 178 in the triple helical domain. J Biol Chem. 1991 Jan 25;266(3):1872-8.</reference_text>
+      <pubmed_id>1988452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsuneyoshi T, Westerhausen A, Constantinou CD, Prockop DJ: Substitutions for glycine alpha 1-637 and glycine alpha 2-694 of type I procollagen in lethal osteogenesis imperfecta. The conformational strain on the triple helix introduced by a glycine substitution can be transmitted along the helix. J Biol Chem. 1991 Aug 25;266(24):15608-13.</reference_text>
+      <pubmed_id>1874719</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deak SB, Scholz PM, Amenta PS, Constantinou CD, Levi-Minzi SA, Gonzalez-Lavin L, Mackenzie JW: The substitution of arginine for glycine 85 of the alpha 1(I) procollagen chain results in mild osteogenesis imperfecta. The mutation provides direct evidence for three discrete domains of cooperative melting of intact type I collagen. J Biol Chem. 1991 Nov 15;266(32):21827-32.</reference_text>
+      <pubmed_id>1718984</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hawkins JR, Superti-Furga A, Steinmann B, Dalgleish R: A 9-base pair deletion in COL1A1 in a lethal variant of osteogenesis imperfecta. J Biol Chem. 1991 Nov 25;266(33):22370-4.</reference_text>
+      <pubmed_id>1939261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nicholls AC, Oliver J, Renouf DV, Keston M, Pope FM: Substitution of cysteine for glycine at residue 415 of one allele of the alpha 1(I) chain of type I procollagen in type III/IV osteogenesis imperfecta. J Med Genet. 1991 Nov;28(11):757-64.</reference_text>
+      <pubmed_id>1770532</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sokolov BP, Constantinou CD, Tsuneyoshi T, Zhuang JP, Prockop DJ: G to A polymorphism in exon 45 of the COL1A1 gene.  Nucleic Acids Res. 1991 Aug 11;19(15):4302.</reference_text>
+      <pubmed_id>1870989</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mottes M, Sangalli A, Valli M, Gomez Lira M, Tenni R, Buttitta P, Pignatti PF, Cetta G: Mild dominant osteogenesis imperfecta with intrafamilial variability: the cause is a serine for glycine alpha 1(I) 901 substitution in a type-I collagen gene. Hum Genet. 1992 Jul;89(5):480-4.</reference_text>
+      <pubmed_id>1634225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bonaventure J, Cohen-Solal L, Lasselin C, Maroteaux P: A dominant mutation in the COL1A1 gene that substitutes glycine for valine causes recurrent lethal osteogenesis imperfecta. Hum Genet. 1992 Aug;89(6):640-6.</reference_text>
+      <pubmed_id>1511982</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wallis GA, Kadler KE, Starman BJ, Byers PH: A tripeptide deletion in the triple-helical domain of the pro alpha 1(I) chain of type I procollagen in a patient with lethal osteogenesis imperfecta does not alter cleavage of the molecule by N-proteinase. J Biol Chem. 1992 Dec 15;267(35):25529-34.</reference_text>
+      <pubmed_id>1460047</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shapiro JR, Stover ML, Burn VE, McKinstry MB, Burshell AL, Chipman SD, Rowe DW: An osteopenic nonfracture syndrome with features of mild osteogenesis imperfecta associated with the substitution of a cysteine for glycine at triple helix position 43 in the pro alpha 1(I) chain of type I collagen. J Clin Invest. 1992 Feb;89(2):567-73.</reference_text>
+      <pubmed_id>1737847</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cole WG, Patterson E, Bonadio J, Campbell PE, Fortune DW: The clinicopathological features of three babies with osteogenesis imperfecta resulting from the substitution of glycine by valine in the pro alpha 1 (I) chain of type I procollagen. J Med Genet. 1992 Feb;29(2):112-8.</reference_text>
+      <pubmed_id>1613761</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bateman JF, Lamande SR, Hannagan M, Moeller I, Dahl HH, Cole WG: Chemical cleavage method for the detection of RNA base changes: experience in the application to collagen mutations in osteogenesis imperfecta. Am J Med Genet. 1993 Jan 15;45(2):233-40.</reference_text>
+      <pubmed_id>8456808</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marini JC, Lewis MB, Chen K: Moderately severe osteogenesis imperfecta associated with substitutions of serine for glycine in the alpha 1(I) chain of type I collagen. Am J Med Genet. 1993 Jan 15;45(2):241-5.</reference_text>
+      <pubmed_id>8456809</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wirtz MK, Rao VH, Glanville RW, Labhard ME, Pretorius PJ, de Vries WN, de Wet WJ, Hollister DW: A cysteine for glycine substitution at position 175 in an alpha 1 (I) chain of type I collagen produces a clinically heterogeneous form of osteogenesis imperfecta. Connect Tissue Res. 1993;29(1):1-11.</reference_text>
+      <pubmed_id>8339541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Valli M, Sangalli A, Rossi A, Mottes M, Forlino A, Tenni R, Pignatti PF, Cetta G: Osteogenesis imperfecta and type-I collagen mutations. A lethal variant caused by a Gly910--&amp;gt;Ala substitution in the alpha 1 (I) chain. Eur J Biochem. 1993 Feb 1;211(3):415-9.</reference_text>
+      <pubmed_id>7679635</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Valli M, Zolezzi F, Mottes M, Antoniazzi F, Stanzial F, Tenni R, Pignatti P, Cetta G: Gly85 to Val substitution in pro alpha 1(I) chain causes mild osteogenesis imperfecta and introduces a susceptibility to protease digestion. Eur J Biochem. 1993 Oct 1;217(1):77-82.</reference_text>
+      <pubmed_id>8223589</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mackay K, Lund AM, Raghunath M, Steinmann B, Dalgleish R: SSCP detection of a Gly565Val substitution in the pro alpha 1(I) collagen chain resulting in osteogenesis imperfecta type II. Hum Genet. 1993 Jun;91(5):439-44.</reference_text>
+      <pubmed_id>8100209</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mackay K, Byers PH, Dalgleish R: An RT-PCR-SSCP screening strategy for detection of mutations in the gene encoding the alpha 1 chain of type I collagen: application to four patients with osteogenesis imperfecta. Hum Mol Genet. 1993 Aug;2(8):1155-60.</reference_text>
+      <pubmed_id>7691343</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mottes M, Gomez Lira MM, Valli M, Scarano G, Lonardo F, Forlino A, Cetta G, Pignatti PF: Paternal mosaicism for a COL1A1 dominant mutation (alpha 1 Ser-415) causes recurrent osteogenesis imperfecta. Hum Mutat. 1993;2(3):196-204.</reference_text>
+      <pubmed_id>8364588</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marini JC, Lewis MB, Wang Q, Chen KJ, Orrison BM: Serine for glycine substitutions in type I collagen in two cases of type IV osteogenesis imperfecta (OI). Additional evidence for a regional model of OI pathophysiology. J Biol Chem. 1993 Feb 5;268(4):2667-73.</reference_text>
+      <pubmed_id>8094076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chessler SD, Byers PH: BiP binds type I procollagen pro alpha chains with mutations in the carboxyl-terminal propeptide synthesized by cells from patients with osteogenesis imperfecta. J Biol Chem. 1993 Aug 25;268(24):18226-33.</reference_text>
+      <pubmed_id>8349698</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sztrolovics R, Glorieux FH, Travers R, van der Rest M, Roughley PJ: Osteogenesis imperfecta: comparison of molecular defects with bone histological changes. Bone. 1994 May-Jun;15(3):321-8.</reference_text>
+      <pubmed_id>7520724</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mackay K, De Paepe A, Nuytinck L, Dalgleish R: Substitution of glycine-172 by arginine in the alpha 1 chain of type I collagen in a patient with osteogenesis imperfecta, type III. Hum Mutat. 1994;3(3):324-6.</reference_text>
+      <pubmed_id>8019571</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kurosaka D, Hattori S, Hori H, Yamaguchi N, Hasegawa T, Akimoto H, Nagai Y: Substitution of cysteine for glycine-946 in the alpha 1(I) chain of type I procollagen causes lethal osteogenesis imperfecta. J Biochem (Tokyo). 1994 May;115(5):853-7.</reference_text>
+      <pubmed_id>7961597</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lightfoot SJ, Atkinson MS, Murphy G, Byers PH, Kadler KE: Substitution of serine for glycine 883 in the triple helix of the pro alpha 1 (I) chain of type I procollagen produces osteogenesis imperfecta type IV and introduces a structural change in the triple helix that does not alter cleavage of the molecule by procollagen N-proteinase. J Biol Chem. 1994 Dec 2;269(48):30352-7.</reference_text>
+      <pubmed_id>7982948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhuang J, Tromp G, Kuivaniemi H, Castells S, Prockop DJ: Substitution of arginine for glycine at position 154 of the alpha 1 chain of type I collagen in a variant of osteogenesis imperfecta: comparison to previous cases with the same mutation. Am J Med Genet. 1996 Jan 11;61(2):111-16.</reference_text>
+      <pubmed_id>8669434</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nuytinck L, Dalgleish R, Spotila L, Renard JP, Van Regemorter N, De Paepe A: Substitution of glycine-661 by serine in the alpha1(I) and alpha2(I) chains of type I collagen results in different clinical and biochemical phenotypes. Hum Genet. 1996 Mar;97(3):324-9.</reference_text>
+      <pubmed_id>8786074</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oliver JE, Thompson EM, Pope FM, Nicholls AC: Mutation in the carboxy-terminal propeptide of the Pro alpha 1(I) chain of type I collagen in a child with severe osteogenesis imperfecta (OI type III): possible implications for protein folding. Hum Mutat. 1996;7(4):318-26.</reference_text>
+      <pubmed_id>8723681</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grant SF, Reid DM, Blake G, Herd R, Fogelman I, Ralston SH: Reduced bone density and osteoporosis associated with a polymorphic Sp1 binding site in the collagen type I alpha 1 gene. Nat Genet. 1996 Oct;14(2):203-5.</reference_text>
+      <pubmed_id>8841196</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lund AM, Skovby F, Schwartz M: Serine for glycine substitutions in the C-terminal third of the alpha 1(I) chain of collagen I in five patients with nonlethal osteogenesis imperfecta. Hum Mutat. 1997;9(4):378-82.</reference_text>
+      <pubmed_id>9101304</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lund AM, Skovby F, Schwartz M: (G586V) substitutions in the alpha 1 and alpha 2 chains of collagen I: effect of alpha-chain stoichiometry on the phenotype of osteogenesis imperfecta? Hum Mutat. 1997;9(5):431-6.</reference_text>
+      <pubmed_id>9143923</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarafova AP, Choi H, Forlino A, Gajko A, Cabral WA, Tosi L, Reing CM, Marini JC: Three novel type I collagen mutations in osteogenesis imperfecta type IV probands are associated with discrepancies between electrophoretic migration of osteoblast and fibroblast collagen. Hum Mutat. 1998;11(5):395-403.</reference_text>
+      <pubmed_id>9600458</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mottes M, Gomez Lira M, Zolezzi F, Valli M, Lisi V, Freising P: Four new cases of lethal osteogenesis imperfecta due to glycine substitutions in COL1A1 and genes. Mutations in brief no. 152. Online. Hum Mutat. 1998;12(1):71-2.</reference_text>
+      <pubmed_id>10627137</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uitterlinden AG, Burger H, Huang Q, Yue F, McGuigan FE, Grant SF, Hofman A, van Leeuwen JP, Pols HA, Ralston SH: Relation of alleles of the collagen type Ialpha1 gene to bone density and the risk of osteoporotic fractures in postmenopausal women. N Engl J Med. 1998 Apr 9;338(15):1016-21.</reference_text>
+      <pubmed_id>9535665</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lund AM, Astrom E, Soderhall S, Schwartz M, Skovby F: Osteogenesis imperfecta: mosaicism and refinement of the genotype-phenotype map in OI type III. Mutations in brief no. 242. Online. Hum Mutat. 1999;13(6):503.</reference_text>
+      <pubmed_id>10408781</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nuytinck L, Freund M, Lagae L, Pierard GE, Hermanns-Le T, De Paepe A: Classical Ehlers-Danlos syndrome caused by a mutation in type I collagen.  Am J Hum Genet. 2000 Apr;66(4):1398-402. Epub 2000 Mar 17.</reference_text>
+      <pubmed_id>10739762</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simon MP, Pedeutour F, Sirvent N, Grosgeorge J, Minoletti F, Coindre JM, Terrier-Lacombe MJ, Mandahl N, Craver RD, Blin N, Sozzi G, Turc-Carel C, O'Brien KP, Kedra D, Fransson I, Guilbaud C, Dumanski JP: Deregulation of the platelet-derived growth factor B-chain gene via fusion with collagen gene COL1A1 in dermatofibrosarcoma protuberans and giant-cell fibroblastoma. Nat Genet. 1997 Jan;15(1):95-8.</reference_text>
+      <pubmed_id>8988177</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sandberg AA, Anderson WD, Fredenberg C, Hashimoto H: Dermatofibrosarcoma protuberans of breast.  Cancer Genet Cytogenet. 2003 Apr 1;142(1):56-9.</reference_text>
+      <pubmed_id>12660034</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gensure RC, Makitie O, Barclay C, Chan C, Depalma SR, Bastepe M, Abuzahra H, Couper R, Mundlos S, Sillence D, Ala Kokko L, Seidman JG, Cole WG, Juppner H: A novel COL1A1 mutation in infantile cortical hyperostosis (Caffey disease) expands the spectrum of collagen-related disorders. J Clin Invest. 2005 May;115(5):1250-7.</reference_text>
+      <pubmed_id>15864348</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Venturi G, Tedeschi E, Mottes M, Valli M, Camilot M, Viglio S, Antoniazzi F, Tato L: Osteogenesis imperfecta: clinical, biochemical and molecular findings.  Clin Genet. 2006 Aug;70(2):131-9.</reference_text>
+      <pubmed_id>16879195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee KS, Song HR, Cho TJ, Kim HJ, Lee TM, Jin HS, Park HY, Kang S, Jung SC, Koo SK: Mutational spectrum of type I collagen genes in Korean patients with osteogenesis imperfecta. Hum Mutat. 2006 Jun;27(6):599.</reference_text>
+      <pubmed_id>16705691</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pollitt R, McMahon R, Nunn J, Bamford R, Afifi A, Bishop N, Dalton A: Mutation analysis of COL1A1 and COL1A2 in patients diagnosed with osteogenesis imperfecta type I-IV. Hum Mutat. 2006 Jul;27(7):716.</reference_text>
+      <pubmed_id>16786509</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aerts M, Van Holsbeke C, de Ravel T, Devlieger R: Prenatal diagnosis of type II osteogenesis imperfecta, describing a new mutation in the COL1A1 gene. Prenat Diagn. 2006 Apr;26(4):394.</reference_text>
+      <pubmed_id>16566045</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Z, Xu DL, Chen Z, Hu JY, Yang Z, Wang LT: [A new mutation in COL1A1 gene in a family with osteogenesis imperfecta]  Zhonghua Yi Xue Za Zhi. 2006 Jan 17;86(3):170-3.</reference_text>
+      <pubmed_id>16638323</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Malfait F, Symoens S, De Backer J, Hermanns-Le T, Sakalihasan N, Lapiere CM, Coucke P, De Paepe A: Three arginine to cysteine substitutions in the pro-alpha (I)-collagen chain cause Ehlers-Danlos syndrome with a propensity to arterial rupture in early adulthood. Hum Mutat. 2007 Apr;28(4):387-95.</reference_text>
+      <pubmed_id>17211858</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cabral WA, Makareeva E, Letocha AD, Scribanu N, Fertala A, Steplewski A, Keene DR, Persikov AV, Leikin S, Marini JC: Y-position cysteine substitution in type I collagen (alpha1(I) R888C/p.R1066C) is associated with osteogenesis imperfecta/Ehlers-Danlos syndrome phenotype. Hum Mutat. 2007 Apr;28(4):396-405.</reference_text>
+      <pubmed_id>17206620</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kataoka K, Ogura E, Hasegawa K, Inoue M, Seino Y, Morishima T, Tanaka H: Mutations in type I collagen genes in Japanese osteogenesis imperfecta patients. Pediatr Int. 2007 Oct;49(5):564-9.</reference_text>
+      <pubmed_id>17875077</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chan TF, Poon A, Basu A, Addleman NR, Chen J, Phong A, Byers PH, Klein TE, Kwok PY: Natural variation in four human collagen genes across an ethnically diverse population. Genomics. 2008 Apr;91(4):307-14. Epub 2008 Feb 12.</reference_text>
+      <pubmed_id>18272325</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Witecka J, Augusciak-Duma AM, Kruczek A, Szydlo A, Lesiak M, Krzak M, Pietrzyk JJ, Mannikko M, Sieron AL: Two novel COL1A1 mutations in patients with osteogenesis imperfecta (OI) affect the stability of the collagen type I triple-helix. J Appl Genet. 2008;49(3):283-95.</reference_text>
+      <pubmed_id>18670065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bodian DL, Chan TF, Poon A, Schwarze U, Yang K, Byers PH, Kwok PY, Klein TE: Mutation and polymorphism spectrum in osteogenesis imperfecta type II: implications for genotype-phenotype relationships. Hum Mol Genet. 2009 Feb 1;18(3):463-71. Epub 2008 Nov 7.</reference_text>
+      <pubmed_id>18996919</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Halofuginone</name>
+        <accession>HMDB31784</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Elkin M, Miao HQ, Nagler A, Aingorn E, Reich R, Hemo I, Dou HL, Pines M, Vlodavsky I: Halofuginone: a potent inhibitor of critical steps in angiogenesis progression.  FASEB J. 2000 Dec;14(15):2477-85.</reference_text>
+        <pubmed_id>11099465</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

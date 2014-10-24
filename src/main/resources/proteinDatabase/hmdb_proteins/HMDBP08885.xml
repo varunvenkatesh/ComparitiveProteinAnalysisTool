@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:42 -0700</creation_date>
+  <update_date>2013-05-27 11:38:20 -0600</update_date>
+  <accession>HMDBP08885</accession>
+  <secondary_accessions>
+    <accession>14613</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>TRPT1</gene_name>
+  <general_function>Involved in transferase activity, transferring phosphorus-containing groups</general_function>
+  <specific_function>Catalyzes the last step of tRNA splicing, the transfer of the splice junction 2'-phosphate from ligated tRNA to NAD to produce ADP-ribose 1''-2'' cyclic phosphate (Probable).
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06336</accession>
+      <name>ADP-ribose 2'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01406</accession>
+      <name>Niacinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna processing</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna splicing</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna splicing, via endonucleolytic cleavage and ligation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna splicing, via endonucleolytic cleavage and ligation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id>GO:0016772</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tRNA 2'-phosphotransferase activity</description>
+      <go_id>GO:0000215</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA splicing, via endonucleolytic cleavage and ligation</description>
+      <go_id>GO:0006388</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q13.1</locus>
+    <gene_sequence>&gt;762 bp
+ATGAACTTCTCTGGAGGAGGGAGGCAGGAAGCAGCAGGGTCCAGGGGTAGAAGGGCTCCC
+AGACCCCGAGAACAGGACCGAGACGTGCAGCTGTCCAAGGCTCTGTCCTATGCCCTGCGC
+CATGGGGCCTTGAAGCTGGGGCTTCCCATGGGAGCTGATGGCTTCGTGCCCCTGGGCACC
+CTCCTGCAGTTGCCCCAGTTCCGCGGCTTCTCTGCTGAAGATGTGCAGCGCGTGGTGGAC
+ACCAATAGGAAGCAGCGGTTCGCCCTGCAGCTGGGGGATCCCAGCACTGGCCTTCTCATC
+CGGGCCAACCAGGGCCATTCCCTGCAGGTACCTAAGTTGGAGCTGATGCCCCTGGAGACA
+CCGCAGGCCCTGCCCCCGATGCTAGTCCATGGTACATTCTGGAAGCACTGGCCATCCATC
+CTACTCAAAGGCCTGTCCTGCCAGGGAAGGACGCACATTCACCTGGCCCCAGGACTGCCT
+GGAGACCCCGGTATCATCAGTGGCATGCGGTCCCATTGTGAAATAGCTGTGTTCATCGAT
+GGACCCCTGGCTCTGGCAGATGGAATACCCTTCTTCCGCTCTGCCAATGGGGTGATTCTG
+ACTCCAGGGAATACTGATGGCTTCCTCCTTCCCAAGTACTTCAAGGAGGCCCTGCAGCTA
+CGCCCTACCCGAAAGCCCCTTTCCTTGGCTGGTGATGAAGAGACAGAGTGTCAGAGTAGC
+CCCAAGCACAGCTCCAGAGAAAGGAGGAGGATCCAACAATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>253</residue_number>
+    <molecular_weight>27741.69</molecular_weight>
+    <theoretical_pi>9.985</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PTS_2-RNA</name>
+        <pfam_id>PF01885</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;tRNA 2'-phosphotransferase 1
+MNFSGGGRQEAAGSRGRRAPRPREQDRDVQLSKALSYALRHGALKLGLPMGADGFVPLGT
+LLQLPQFRGFSAEDVQRVVDTNRKQRFALQLGDPSTGLLIRANQGHSLQVPKLELMPLET
+PQALPPMLVHGTFWKHWPSILLKGLSCQGRTHIHLAPGLPGDPGIISGMRSHCEIAVFID
+GPLALADGIPFFRSANGVILTPGNTDGFLLPKYFKEALQLRPTRKPLSLAGDEETECQSS
+PKHSSRERRRIQQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>238550153</genbank_protein_id>
+  <uniprot_id>Q86TN4</uniprot_id>
+  <uniprot_name>TRPT1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001033678.3</genbank_gene_id>
+  <genecard_id>TRPT1</genecard_id>
+  <geneatlas_id>TRPT1</geneatlas_id>
+  <hgnc_id>HGNC:20316</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hu QD, Lu H, Huo K, Ying K, Li J, Xie Y, Mao Y, Li YY: A human homolog of the yeast gene encoding tRNA 2'-phosphotransferase: cloning, characterization and complementation analysis. Cell Mol Life Sci. 2003 Aug;60(8):1725-32.</reference_text>
+      <pubmed_id>14504659</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

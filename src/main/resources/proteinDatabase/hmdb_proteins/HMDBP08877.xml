@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:33 -0700</creation_date>
+  <update_date>2013-05-27 11:31:20 -0600</update_date>
+  <accession>HMDBP08877</accession>
+  <secondary_accessions>
+    <accession>14604</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>FHA-HIT-interacting protein</synonym>
+    <synonym>NAPRTase</synonym>
+    <synonym>Nicotinate phosphoribosyltransferase domain-containing protein 1</synonym>
+  </synonyms>
+  <gene_name>NAPRT1</gene_name>
+  <general_function>Involved in nicotinate phosphoribosyltransferase activity</general_function>
+  <specific_function>Catalyzes the conversion of nicotinic acid (NA) to NA mononucleotide (NaMN). Essential for NA to increase cellular NAD levels and prevent oxidative stress of the cells.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>NAD(+) biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Nicotinate and nicotinamide metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00760</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01132</accession>
+      <name>Nicotinic acid mononucleotide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59646</accession>
+      <name>nicotinate beta-D-ribonucleotide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01488</accession>
+      <name>Nicotinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00280</accession>
+      <name>Phosphoribosyl pyrophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring pentosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nicotinate phosphoribosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nicotinate nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nicotinate nucleotide salvage</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cofactor metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>coenzyme metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>coenzyme biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyridine nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nicotinamide nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nad biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi apparatus</description>
+      <go_id>GO:0005794</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nicotinate phosphoribosyltransferase activity</description>
+      <go_id>GO:0004516</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nicotinate-nucleotide diphosphorylase (carboxylating) activity</description>
+      <go_id>GO:0004514</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>NAD biosynthetic process</description>
+      <go_id>GO:0009435</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>NAD metabolic process</description>
+      <go_id>GO:0019674</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nicotinamide metabolic process</description>
+      <go_id>GO:0006769</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nicotinate nucleotide salvage</description>
+      <go_id>GO:0019358</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>water-soluble vitamin metabolic process</description>
+      <go_id>GO:0006767</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q24.3</locus>
+    <gene_sequence>&gt;1617 bp
+ATGGCGGCGGAGCAGGACCCCGAGGCGCGCGCGGCGGCGCGGCCGCTGCTCACTGACCTC
+TACCAGGCCACCATGGCGTTGGGCTATTGGCGCGCGGGCCGGGCGCGGGACGCCGCCGAG
+TTCGAGCTCTTCTTCCGCCGCTGCCCGTTCGGCGGCGCCTTCGCCTTGGCCGCCGGCTTG
+CGCGACTGTGTGCGCTTCCTGCGCGCCTTCCGCCTGCGGGACGCCGACGTGCAGTTCCTG
+GCCTCGGTGCTGCCCCCAGACACGGATCCTGCGTTCTTCGAGCACCTTCGGGCCCTCGAC
+TGCTCCGAGGTGACGGTGCGAGCCCTGCCCGAGGGCTCCCTCGCCTTCCCCGGAGTGCCG
+CTCCTGCAGGTGTCCGGGCCGCTCCTGGTGGTGCAGCTGCTGGAGACACCGCTGCTCTGC
+CTGGTCAGCTACGCCAGCCTGGTGGCCACCAACGCAGCGCGGCTTCGCTTGATCGCAGGA
+CCAGAGAAGCGGCTGCTAGAGATGGGCCTGAGGCGGGCTCAGGGCCCCGATGGGGGCCTG
+ACAGCCTCCACCTACAGCTACCTGGGCGGCTTCGACAGCAGCAGCAACGTGCTAGCGGGC
+CAGCTGCGAGGTGTGCCGGTGGCCGGGACCCTGGCCCACTCCTTCGTCACTTCCTTTTCA
+GGCAGCGAGGCGCCCCCTGACCCGATGTTGGCGCCAGCAGCTGGTGAGGGCCCTGGGGTG
+GACCTGGCGGCCAAAACCCAGGTGTGGCTGGAGCAGGTGTGTGCCCACCTGGGGCTGGGG
+GTGCAGGAGCCGCATCCAGGCGAGCGGGCAGCCTTTGTGGCCTATGCCTTGGCTTTTCCC
+CGGGCCTTCCAGGGCCTCCTGGACACCTACAGCGTGTGGAGGAGTGGTCTCCCCAACTTC
+CTAGCAGTCGCCTTGGCCCTGGGAGAGCTGGGCTACCGGGCAGTGGGCGTGAGGCTGGAC
+AGTGGTGACCTGCTACAGCAGGCTCAGGAGATCCGCAAGGTCTTCCGAGCTGCTGCAGCC
+CAGTTCCAGGTGCCCTGGCTGGAGTCAGTCCTCATCGTAGTCAGCAACAACATTGACGAG
+GAGGCGCTGGCCCGACTGGCCCAAGAGGGCAGTGAGGTGAATGCCATTGGCATTGGCACC
+AGTGTGGTCACCTGCCCCCAACAGCCTTCCCTGGGTGGCGTCTATAAGCTGGTGGCCGTG
+GGGGGCCAGCCACGAATGAAGCTGACCGAGGACCCCGAGAAGCAGACGTTGCCTGGGAGC
+AAGGCTGCTTTCCGGCTCCTGGGCTCTGACGGGTCTCCACTCATGGACATGCTGCAGTTA
+GCAGAAGAGCCAGTGCCACAGGCTGGGCAGGAGCTGAGGGTGTGGCCTCCAGGGGCCCAG
+GAGCCCTGCACCGTGAGGCCAGCCCAGGTGGAGCCACTACTGCGGCTCTGCCTCCAGCAG
+GGACAGCTGTGTGAGCCGCTCCCATCCCTGGCAGAGTCTAGAGCCTTGGCCCAGCTGTCC
+CTGAGCCGACTCAGCCCTGAGCACAGGCGGCTGCGGAGCCCTGCACAGTACCAGGTGGTG
+CTGTCCGAGAGGCTGCAGGCCCTGGTGAACAGTCTGTGTGCGGGGCAGTCCCCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>538</residue_number>
+    <molecular_weight>57577.575</molecular_weight>
+    <theoretical_pi>5.675</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>NAPRTase</name>
+        <pfam_id>PF04095</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Nicotinate phosphoribosyltransferase
+MAAEQDPEARAAARPLLTDLYQATMALGYWRAGRARDAAEFELFFRRCPFGGAFALAAGL
+RDCVRFLRAFRLRDADVQFLASVLPPDTDPAFFEHLRALDCSEVTVRALPEGSLAFPGVP
+LLQVSGPLLVVQLLETPLLCLVSYASLVATNAARLRLIAGPEKRLLEMGLRRAQGPDGGL
+TASTYSYLGGFDSSSNVLAGQLRGVPVAGTLAHSFVTSFSGSEVPPDPMLAPAAGEGPGV
+DLAAKAQVWLEQVCAHLGLGVQEPHPGERAAFVAYALAFPRAFQGLLDTYSVWRSGLPNF
+LAVALALGELGYRAVGVRLDSGDLLQQAQEIRKVFRAAAAQFQVPWLESVLIVVSNNIDE
+EALARLAQEGSEVNVIGIGTSVVTCPQQPSLGGVYKLVAVGGQPRMKLTEDPEKQTLPGS
+KAAFRLLGSDGSPLMDMLQLAEEPVPQAGQELRVWPPGAQEPCTVRPAQVEPLLRLCLQQ
+GQLCEPLPSLAESRALAQLSLSRLSPEHRRLRSPAQYQVVLSERLQALVNSLCAGQSP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>154936864</genbank_protein_id>
+  <uniprot_id>Q6XQN6</uniprot_id>
+  <uniprot_name>PNCB_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB242230</genbank_gene_id>
+  <genecard_id>NAPRT1</genecard_id>
+  <geneatlas_id>NAPRT1</geneatlas_id>
+  <hgnc_id>HGNC:30450</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hara N, Yamada K, Shibata T, Osago H, Hashimoto T, Tsuchiya M: Elevation of cellular NAD levels by nicotinic acid and involvement of nicotinic acid phosphoribosyltransferase in human cells. J Biol Chem. 2007 Aug 24;282(34):24574-82. Epub 2007 Jun 29.</reference_text>
+      <pubmed_id>17604275</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

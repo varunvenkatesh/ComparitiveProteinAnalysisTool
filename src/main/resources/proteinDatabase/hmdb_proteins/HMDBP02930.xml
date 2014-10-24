@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:15 -0700</creation_date>
+  <update_date>2013-01-15 19:09:15 -0700</update_date>
+  <accession>HMDBP02930</accession>
+  <secondary_accessions>
+    <accession>8440</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ENaCG</synonym>
+    <synonym>Epithelial Na(+) channel subunit gamma</synonym>
+    <synonym>Gamma-ENaC</synonym>
+    <synonym>Gamma-NaCH</synonym>
+    <synonym>Nonvoltage-gated sodium channel 1 subunit gamma</synonym>
+    <synonym>SCNEG</synonym>
+  </synonyms>
+  <gene_name>SCNN1G</gene_name>
+  <general_function>Involved in ligand-gated sodium channel activity</general_function>
+  <specific_function>Sodium permeable non-voltage-sensitive ion channel inhibited by the diuretic amiloride. Mediates the electrodiffusion of the luminal sodium (and water, which follows osmotically) through the apical membrane of epithelial cells. Controls the reabsorption of sodium in kidney, colon, lung and sweat glands. Also plays a role in taste perception</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01940</accession>
+      <name>Triamterene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14732</accession>
+      <name>Amiloride</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sodium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amiloride-sensitive sodium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sodium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Apical cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16p12</locus>
+    <gene_sequence>&gt;1950 bp
+ATGGCCCCCGGGGAGAAGATCAAAGCCAAAATCAAGAAGAATCTGCCCGTGACGGGCCCT
+CAGGCGCCGACCATTAAAGAGCTGATGCGGTGGTACTGCCTCAACACCAACACCCATGGC
+TGTCGCCGCATCGTGGTGTCCCGCGGCCGTCTGCGCCGCCTCCTCTGGATCGGGTTCACA
+CTGACTGCCGTGGCCCTCATCCTCTGGCAGTGCGCCCTCCTCGTCTTCTCCTTCTATACT
+GTCTCAGTTTCCATCAAAGTCCACTTCCGGAAGCTGGATTTTCCTGCAGTCACCATCTGC
+AACATCAACCCCTACAAGTACAGCACCGTTCGCCACCTTCTAGCTGACTTGGAACAGGAG
+ACCAGAGAGGCCCTGAAGTCCCTGTATGGCTTTCCAGAGTCCCGGAAGCGCCGAGAGGCG
+GAGTCCTGGAACTCCGTCTCAGAGGGAAAGCAGCCTAGATTCTCCCACCGGATTCCGCTG
+CTGATCTTTGATCAGGATGAGAAGGGCAAGGCCAGGGACTTCTTCACAGGGAGGAAGCGG
+AAAGTCGGCGGTAGCATCATTCACAAGGCTTCAAATGTCATGCACATCGAGTCCAAGCAA
+GTGGTGGGATTCCAACTGTGCTCAAATGACACCTCCGACTGTGCCACCTACACCTTCAGC
+TCGGGAATCAATGCCATTCAGGAGTGGTATAAGCTACACTACATGAACATCATGGCACAG
+GTGCCTCTGGAGAAGAAAATCAACATGAGCTATTCTGCTGAGGAGCTGCTGGTGACCTGC
+TTCTTTGATGGAGTGTCCTGTGATGCCAGGAATTTCACGCTTTTCCACCACCCGATGCAT
+GGGAATTGCTATACTTTCAACAACAGAGAAAATGAGACCATTCTCAGCACCTCCATGGGG
+GGCAGCGAATATGGGCTGCAAGTCATTTTGTACATAAACGAAGAGGAATACAACCCATTC
+CTCGTGTCCTCCACTGGAGCTAAGGTGATCATCCATCGGCAGGATGAGTATCCCTCCGTC
+GAAGATGTGGGAACAGAGATTGAGACAACAATGGTCACCTCTATAGGAATGCACCTGACA
+GAGTCCTTCAAGCTGAGTGAGCCCTCCAGTCAGTGCACGGAGGGCGGGAGTGACGTGCCA
+ATCAGGAACATCTACAACGCTGCCTACTCGCTCCAGATCTGCCTTCATTCATGCTTCCAG
+ACAAAGATGGTGGAGAAATGTGGGTGTGCCCAGTACAGCCAGCCTCTACCTCCTGCAGCC
+AACTACTGCAACTACCAGCAGCACCCCAACTGGATGTATTGTTACTACCAACTGCATCGA
+GCCTTTGTCCAGGAAGAGCTGGGCTGCCAGTCTGTGTGCAAGGAAGCCTGCCGCTTTAAA
+GAGTGGACACTAACCACAAGCCTGGCACAATGGCCATCTGTGGTTTCGGAGAAGTGGTTG
+CTGCCTGTTCTCACTTGGGACCAAGGCCGGCAAGTAAACAAAAAGCTCAACAAGACAGAC
+TTGGCCAAACTCTTGATATTCTACAAAGACCTGAACCAGAGATCCATCATGGAGAGCCCA
+GCCAACAGTATTGAGATGCTTCTGTCCAACTTCGGCGGTCAGCTGGGCCTGTGGATGAGC
+TGCTCTGTTGTCTGCGTCATCGAGATCATCGAGGTCTTCTTCATTGACTTCTTCTCTATC
+ATTGCCCGCCGCCAGTGGCAGAAAGCCAAGGAGTGGTGGGCCTGGAAACAGGCTCCCCCA
+TGTCCAGAAGCTCCCCGTAGCCCACAGGGCCAGGACAATCCAGCCCTGGATATAGACGAT
+GACCTACCCACTTTCAACTCTGCTTTGCACCTGCCTCCAGCCCTAGGAACCCAAGTGCCC
+GGCACACCGCCCCCCAAATACAATACCTTGCGCTTGGAGAGGGCCTTTTCCAACCAGCTC
+ACAGATACCCAGATGCTGGATGAGCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>649</residue_number>
+    <molecular_weight>74269.6</molecular_weight>
+    <theoretical_pi>7.54</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ASC</name>
+        <pfam_id>PF00858</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>56-76</region>
+      <region>542-562</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Amiloride-sensitive sodium channel subunit gamma
+MAPGEKIKAKIKKNLPVTGPQAPTIKELMRWYCLNTNTHGCRRIVVSRGRLRRLLWIGFT
+LTAVALILWQCALLVFSFYTVSVSIKVHFRKLDFPAVTICNINPYKYSTVRHLLADLEQE
+TREALKSLYGFPESRKRREAESWNSVSEGKQPRFSHRIPLLIFDQDEKGKARDFFTGRKR
+KVGGSIIHKASNVMHIESKQVVGFQLCSNDTSDCATYTFSSGINAIQEWYKLHYMNIMAQ
+VPLEKKINMSYSAEELLVTCFFDGVSCDARNFTLFHHPMHGNCYTFNNRENETILSTSMG
+GSEYGLQVILYINEEEYNPFLVSSTGAKVIIHRQDEYPFVEDVGTEIETAMVTSIGMHLT
+ESFKLSEPYSQCTEDGSDVPIRNIYNAAYSLQICLHSCFQTKMVEKCGCAQYSQPLPPAA
+NYCNYQQHPNWMYCYYQLHRAFVQEELGCQSVCKEACSFKEWTLTTSLAQWPSVVSEKWL
+LPVLTWDQGRQVNKKLNKTDLAKLLIFYKDLNQRSIMESPANSIEMLLSNFGGQLGLWMS
+CSVVCVIEIIEVFFIDFFSIIARRQWQKAKEWWAWKQAPPCPEAPRSPQGQDNPALDIDD
+DLPTFNSALHLPPALGTQVPGTPPPKYNTLRLERAFSNQLTDTQMLDEL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>1004273</genbank_protein_id>
+  <uniprot_id>P51170</uniprot_id>
+  <uniprot_name>SCNNG_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>X87160</genbank_gene_id>
+  <genecard_id>SCNN1G</genecard_id>
+  <geneatlas_id>SCNN1G</geneatlas_id>
+  <hgnc_id>HGNC:10602</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Voilley N, Bassilana F, Mignon C, Merscher S, Mattei MG, Carle GF, Lazdunski M, Barbry P: Cloning, chromosomal localization, and physical linkage of the beta and gamma subunits (SCNN1B and SCNN1G) of the human epithelial amiloride-sensitive sodium channel. Genomics. 1995 Aug 10;28(3):560-5.</reference_text>
+      <pubmed_id>7490094</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McDonald FJ, Price MP, Snyder PM, Welsh MJ: Cloning and expression of the beta- and gamma-subunits of the human epithelial sodium channel. Am J Physiol. 1995 May;268(5 Pt 1):C1157-63.</reference_text>
+      <pubmed_id>7762608</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saxena A, Hanukoglu I, Saxena D, Thompson RJ, Gardiner RM, Hanukoglu A: Novel mutations responsible for autosomal recessive multisystem pseudohypoaldosteronism and sequence variants in epithelial sodium channel alpha-, beta-, and gamma-subunit genes. J Clin Endocrinol Metab. 2002 Jul;87(7):3344-50.</reference_text>
+      <pubmed_id>12107247</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Thomas CP, Doggett NA, Fisher R, Stokes JB: Genomic organization and the 5' flanking region of the gamma subunit of the human amiloride-sensitive epithelial sodium channel. J Biol Chem. 1996 Oct 18;271(42):26062-6.</reference_text>
+      <pubmed_id>8824247</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hansson JH, Nelson-Williams C, Suzuki H, Schild L, Shimkets R, Lu Y, Canessa C, Iwasaki T, Rossier B, Lifton RP: Hypertension caused by a truncated epithelial sodium channel gamma subunit: genetic heterogeneity of Liddle syndrome. Nat Genet. 1995 Sep;11(1):76-82.</reference_text>
+      <pubmed_id>7550319</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pirozzi G, McConnell SJ, Uveges AJ, Carter JM, Sparks AB, Kay BK, Fowlkes DM: Identification of novel human WW domain-containing proteins by cloning of ligand targets. J Biol Chem. 1997 Jun 6;272(23):14611-6.</reference_text>
+      <pubmed_id>9169421</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Harvey KF, Dinudom A, Cook DI, Kumar S: The Nedd4-like protein KIAA0439 is a potential regulator of the epithelial sodium channel. J Biol Chem. 2001 Mar 16;276(11):8597-601. Epub 2001 Jan 17.</reference_text>
+      <pubmed_id>11244092</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McDonald FJ, Western AH, McNeil JD, Thomas BC, Olson DR, Snyder PM: Ubiquitin-protein ligase WWP2 binds to and downregulates the epithelial Na(+) channel. Am J Physiol Renal Physiol. 2002 Sep;283(3):F431-6.</reference_text>
+      <pubmed_id>12167593</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mutesa L, Azad AK, Verhaeghe C, Segers K, Vanbellinghen JF, Ngendahayo L, Rusingiza EK, Mutwa PR, Rulisa S, Koulischer L, Cassiman JJ, Cuppens H, Bours V: Genetic analysis of Rwandan patients with cystic fibrosis-like symptoms: identification of novel cystic fibrosis transmembrane conductance regulator and epithelial sodium channel gene variants. Chest. 2009 May;135(5):1233-42. Epub 2008 Nov 18.</reference_text>
+      <pubmed_id>19017867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arai K, Zachman K, Shibasaki T, Chrousos GP: Polymorphisms of amiloride-sensitive sodium channel subunits in five sporadic cases of pseudohypoaldosteronism: do they have pathologic potential? J Clin Endocrinol Metab. 1999 Jul;84(7):2434-7.</reference_text>
+      <pubmed_id>10404817</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Halushka MK, Fan JB, Bentley K, Hsie L, Shen N, Weder A, Cooper R, Lipshutz R, Chakravarti A: Patterns of single-nucleotide polymorphisms in candidate genes for blood-pressure homeostasis. Nat Genet. 1999 Jul;22(3):239-47.</reference_text>
+      <pubmed_id>10391210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fajac I, Viel M, Sublemontier S, Hubert D, Bienvenu T: Could a defective epithelial sodium channel lead to bronchiectasis.  Respir Res. 2008 May 28;9:46.</reference_text>
+      <pubmed_id>18507830</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amiloride</name>
+        <accession>HMDB14732</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Viemann M, Peter M, Lopez-Siguero JP, Simic-Schleicher G, Sippell WG: Evidence for genetic heterogeneity of pseudohypoaldosteronism type 1: identification of a novel mutation in the human mineralocorticoid receptor in one sporadic case and no mutations in two autosomal dominant kindreds. J Clin Endocrinol Metab. 2001 May;86(5):2056-9.</reference_text>
+        <pubmed_id>11344206</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amiloride</name>
+        <accession>HMDB14732</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Iwai N, Baba S, Mannami T, Katsuya T, Higaki J, Ogihara T, Ogata J: Association of sodium channel gamma-subunit promoter variant with blood pressure.  Hypertension. 2001 Jul;38(1):86-9.</reference_text>
+        <pubmed_id>11463765</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amiloride</name>
+        <accession>HMDB14732</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yamagata T, Yamagata Y, Nishimoto T, Nakanishi M, Nakanishi H, Minakata Y, Mune M, Yukawa S: The impact of phorbol ester on the regulation of amiloride-sensitive epithelial sodium channel in alveolar type ii epithelial cells. Exp Lung Res. 2002 Oct-Nov;28(7):543-62.</reference_text>
+        <pubmed_id>12396248</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amiloride</name>
+        <accession>HMDB14732</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Akcay A, Yavuz T, Semiz S, Bundak R, Demirdoven M: Pseudohypoaldosteronism type 1 and respiratory distress syndrome.  J Pediatr Endocrinol Metab. 2002 Nov-Dec;15(9):1557-61.</reference_text>
+        <pubmed_id>12503866</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amiloride</name>
+        <accession>HMDB14732</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ludwig M, Bidlingmaier F, Reissinger A: Pseudohypoaldosteronism type 1 and the genes encoding prostasin, alpha-spectrin, and Nedd4. Int J Mol Med. 2004 Dec;14(6):1101-4.</reference_text>
+        <pubmed_id>15547682</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

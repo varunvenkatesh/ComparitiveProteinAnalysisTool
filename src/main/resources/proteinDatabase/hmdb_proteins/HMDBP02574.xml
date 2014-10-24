@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:06:20 -0700</creation_date>
+  <update_date>2013-04-11 14:04:56 -0600</update_date>
+  <accession>HMDBP02574</accession>
+  <secondary_accessions>
+    <accession>8073</accession>
+    <accession>HMDBP05564</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>Organic cation transporter 1</synonym>
+    <synonym>hOCT1</synonym>
+  </synonyms>
+  <gene_name>SLC22A1</gene_name>
+  <general_function>Involved in ion transmembrane transporter activity</general_function>
+  <specific_function>Translocates a broad array of organic cations with various structures and molecular weights including the model compounds 1-methyl-4-phenylpyridinium (MPP), tetraethylammonium (TEA), N-1-methylnicotinamide (NMN), 4-(4-(dimethylamino)styryl)- N-methylpyridinium (ASP), the endogenous compounds choline, guanidine, histamine, epinephrine, adrenaline, noradrenaline and dopamine, and the drugs quinine, and metformin. The transport of organic cations is inhibited by a broad array of compounds like tetramethylammonium (TMA), cocaine, lidocaine, NMDA receptor antagonists, atropine, prazosin, cimetidine, TEA and NMN, guanidine, cimetidine, choline, procainamide, quinine, tetrabutylammonium, and tetrapentylammonium. Translocates organic cations in an electrogenic and pH-independent manner. Translocates organic cations across the plasma membrane in both directions. Transports the polyamines spermine and spermidine. Transports pramipexole across the basolateral membrane of the proximal tubular epithelial cells. The choline transport is activated by MMTS. Regulated by various intracellular signaling pathways including inhibition by protein kinase A activation, and endogenously activation by the calmodulin complex, the calmodulin- dependent kinase II and LCK tyrosine kinase</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00097</accession>
+      <name>Choline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01257</accession>
+      <name>Spermidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01256</accession>
+      <name>Spermine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01934</accession>
+      <name>L(-)-Nicotine pestanal</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14351</accession>
+      <name>Reserpine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14365</accession>
+      <name>Nelfinavir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14369</accession>
+      <name>Indinavir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14387</accession>
+      <name>Cladribine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14425</accession>
+      <name>Disopyramide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00216</accession>
+      <name>Norepinephrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01830</accession>
+      <name>Progesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14550</accession>
+      <name>Gentian Violet</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14557</accession>
+      <name>Pramipexole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14600</accession>
+      <name>Prazosin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14611</accession>
+      <name>Quinine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14620</accession>
+      <name>Chlorpromazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14644</accession>
+      <name>Cimetidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14661</accession>
+      <name>Caspofungin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14667</accession>
+      <name>Oxaliplatin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01842</accession>
+      <name>Guanidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14732</accession>
+      <name>Amiloride</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13862</accession>
+      <name>N-desmethylimatinib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00234</accession>
+      <name>Testosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13961</accession>
+      <name>O-Desmethylverapamil (D-702)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14805</accession>
+      <name>Histamine Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14821</accession>
+      <name>Midazolam</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14866</accession>
+      <name>Rocuronium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00151</accession>
+      <name>Estradiol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14925</accession>
+      <name>Aciclovir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15044</accession>
+      <name>Quinidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15050</accession>
+      <name>Phenformin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15051</accession>
+      <name>Amantadine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15061</accession>
+      <name>Phenoxybenzamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15122</accession>
+      <name>Cytarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00073</accession>
+      <name>Dopamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15139</accession>
+      <name>Ganciclovir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15166</accession>
+      <name>Probenecid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15169</accession>
+      <name>Procainamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15282</accession>
+      <name>Desipramine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15324</accession>
+      <name>Acebutolol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15330</accession>
+      <name>Tubocurarine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15362</accession>
+      <name>Saquinavir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15430</accession>
+      <name>Pancuronium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15432</accession>
+      <name>Vecuronium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15552</accession>
+      <name>Acepromazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15558</accession>
+      <name>Pipotiazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15559</accession>
+      <name>Thioproperazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15560</accession>
+      <name>Thiothixene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00036</accession>
+      <name>Taurocholic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00273</accession>
+      <name>Thymidine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Basolateral cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:6</chromosome_location>
+    <locus>6q26</locus>
+    <gene_sequence>&gt;1665 bp
+ATGCCCACCGTGGATGACATTCTGGAGCAGGTTGGGGAGTCTGGCTGGTTCCAGAAGCAA
+GCCTTCCTCATCTTATGCCTGCTGTCGGCTGCCTTTGCGCCCATCTGTGTGGGCATCGTC
+TTCCTGGGTTTCACACCTGACCACCACTGCCAGAGCCCTGGGGTGGCTGAGCTGAGCCAG
+CGCTGTGGCTGGAGCCCTGCGGAGGAGCTGAACTATACAGTGCCAGGCCTGGGGCCCGCG
+GGCGAGGCCTTCCTTGGCCAGTGCAGGCGCTATGAAGTGGACTGGAACCAGAGCGCCCTC
+AGCTGTGTAGACCCCCTGGCTAGCCTGGCCACCAACAGGAGCCACCTGCCGCTGGGTCCC
+TGCCAGGATGGCTGGGTGTATGACACGCCCGGCTCTTCCATCGTCACTGAGTTCAACCTG
+GTGTGTGCTGACTCCTGGAAGCTGGACCTCTTTCAGTCCTGTTTGAATGCGGGCTTCTTC
+TTTGGCTCTCTCGGTGTTGGCTACTTTGCAGACAGGTTTGGCCGTAAGCTGTGTCTCCTG
+GGAACTGTGCTGGTCAACGCGGTGTCGGGCGTGCTCATGGCCTTCTCGCCCAACTACATG
+TCCATGCTGCTCTTCCGCCTGCTGCAGGGCCTGGTCAGCAAGGGCAACTGGATGGCTGGC
+TACACCCTAATCACAGAATTTGTTGGCTCGGGCTCCAGAAGAACGGTGGCGATCATGTAC
+CAGATGGCCTTCACGGTGGGGCTGGTGGCGCTTACCGGGCTGGCCTACGCCCTGCCTCAC
+TGGCGCTGGCTGCAGCTGGCAGTCTCCCTGCCCACCTTCCTCTTCCTGCTCTACTACTGG
+TGTGTGCCGGAGTCCCCTCGGTGGCTGTTATCACAAAAAAGAAACACTGAAGCAATAAAG
+ATAATGGACCACATCGCTCAAAAGAATGGGAAGTTGCCTCCTGCTGATTTAAAGATGCTT
+TCCCTCGAAGAGGATGTCACCGAAAAGCTGAGCCCTTCATTTGCAGACCTGTTCCGCACG
+CCGCGCCTGAGGAAGCGCACCTTCATCCTGATGTACCTGTGGTTCACGGACTCTGTGCTC
+TATCAGGGGCTCATCCTGCACATGGGCGCCACCAGCGGGAACCTCTACCTGGATTTCCTT
+TACTCCGCTCTGGTCGAAATCCCGGGGGCCTTCATAGCCCTCATCACCATTGACCGCGTG
+GGCCGCATCTACCCCATGGCCATGTCAAATTTGTTGGCGGGGGCAGCCTGCCTCGTCATG
+ATTTTTATCTCACCTGACCTGCACTGGTTAAACATCATAATCATGTGTGTTGGCCGAATG
+GGAATCACCATTGCAATACAAATGATCTGCCTGGTGAATGCTGAGCTGTACCCCACATTC
+GTCAGGAACCTCGGAGTGATGGTGTGTTCCTCCCTGTGTGACATAGGTGGGATAATCACC
+CCCTTCATAGTCTTCAGGCTGAGGGAGGTCTGGCAAGCCTTGCCCCTCATTTTGTTTGCG
+GTGTTGGGCCTGCTTGCCGCGGGAGTGACGCTACTTCTTCCAGAGACCAAGGGGGTCGCT
+TTGCCAGAGACCATGAAGGACGCCGAGAACCTTGGGAGAAAAGCAAAGCCCAAAGAAAAC
+ACGATTTACCTTAAGGTCCAAACCTCAGAACCCTCGGGCACCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>554</residue_number>
+    <molecular_weight>61187.4</molecular_weight>
+    <theoretical_pi>6.81</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sugar_tr</name>
+        <pfam_id>PF00083</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>22-42</region>
+      <region>150-170</region>
+      <region>177-197</region>
+      <region>207-229</region>
+      <region>236-256</region>
+      <region>263-283</region>
+      <region>348-368</region>
+      <region>377-397</region>
+      <region>403-423</region>
+      <region>432-452</region>
+      <region>465-485</region>
+      <region>493-513</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Solute carrier family 22 member 1
+MPTVDDILEQVGESGWFQKQAFLILCLLSAAFAPICVGIVFLGFTPDHHCQSPGVAELSQ
+RCGWSPAEELNYTVPGLGPAGEAFLGQCRRYEVDWNQSALSCVDPLASLATNRSHLPLGP
+CQDGWVYDTPGSSIVTEFNLVCADSWKLDLFQSCLNAGFFFGSLGVGYFADRFGRKLCLL
+GTVLVNAVSGVLMAFSPNYMSMLLFRLLQGLVSKGNWMAGYTLITEFVGSGSRRTVAIMY
+QMAFTVGLVALTGLAYALPHWRWLQLAVSLPTFLFLLYYWCVPESPRWLLSQKRNTEAIK
+IMDHIAQKNGKLPPADLKMLSLEEDVTEKLSPSFADLFRTPRLRKRTFILMYLWFTDSVL
+YQGLILHMGATSGNLYLDFLYSALVEIPGAFIALITIDRVGRIYPMAMSNLLAGAACLVM
+IFISPDLHWLNIIIMCVGRMGITIAIQMICLVNAELYPTFVRNLGVMVCSSLCDIGGIIT
+PFIVFRLREVWQALPLILFAVLGLLAAGVTLLLPETKGVALPETMKDAENLGRKAKPKEN
+TIYLKVQTSEPSGT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2511670</genbank_protein_id>
+  <uniprot_id>O15245</uniprot_id>
+  <uniprot_name>S22A1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>X98332</genbank_gene_id>
+  <genecard_id>SLC22A1</genecard_id>
+  <geneatlas_id>SLC22A1</geneatlas_id>
+  <hgnc_id>HGNC:10963</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Gorboulev V, Ulzheimer JC, Akhoundova A, Ulzheimer-Teuber I, Karbach U, Quester S, Baumann C, Lang F, Busch AE, Koepsell H: Cloning and characterization of two human polyspecific organic cation transporters. DNA Cell Biol. 1997 Jul;16(7):871-81.</reference_text>
+      <pubmed_id>9260930</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+      <pubmed_id>9187257</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hayer M, Bonisch H, Bruss M: Molecular cloning, functional characterization and genomic organization of four alternatively spliced isoforms of the human organic cation transporter 1 (hOCT1/SLC22A1). Ann Hum Genet. 1999 Nov;63(Pt 6):473-82.</reference_text>
+      <pubmed_id>11388889</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+      <pubmed_id>9655880</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Montfoort JE, Muller M, Groothuis GM, Meijer DK, Koepsell H, Meier PJ: Comparison of &amp;quot;type I&amp;quot; and &amp;quot;type II&amp;quot; organic cation transport by organic cation transporters and organic anion-transporting polypeptides. J Pharmacol Exp Ther. 2001 Jul;298(1):110-5.</reference_text>
+      <pubmed_id>11408531</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ciarimboli G, Struwe K, Arndt P, Gorboulev V, Koepsell H, Schlatter E, Hirsch JR: Regulation of the human organic cation transporter hOCT1.  J Cell Physiol. 2004 Dec;201(3):420-8.</reference_text>
+      <pubmed_id>15389554</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muller J, Lips KS, Metzner L, Neubert RH, Koepsell H, Brandsch M: Drug specificity and intestinal membrane localization of human organic cation transporters (OCT). Biochem Pharmacol. 2005 Dec 5;70(12):1851-60. Epub 2005 Nov 2.</reference_text>
+      <pubmed_id>16263091</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kimura N, Masuda S, Tanihara Y, Ueo H, Okuda M, Katsura T, Inui K: Metformin is a superior substrate for renal organic cation transporter OCT2 rather than hepatic OCT1. Drug Metab Pharmacokinet. 2005 Oct;20(5):379-86.</reference_text>
+      <pubmed_id>16272756</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saborowski M, Kullak-Ublick GA, Eloranta JJ: The human organic cation transporter-1 gene is transactivated by hepatocyte nuclear factor-4alpha. J Pharmacol Exp Ther. 2006 May;317(2):778-85. Epub 2006 Jan 25.</reference_text>
+      <pubmed_id>16436500</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Amphoux A, Vialou V, Drescher E, Bruss M, Mannoury La Cour C, Rochat C, Millan MJ, Giros B, Bonisch H, Gautron S: Differential pharmacological in vitro properties of organic cation transporters and regional distribution in rat brain. Neuropharmacology. 2006 Jun;50(8):941-52. Epub 2006 Mar 31.</reference_text>
+      <pubmed_id>16581093</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dias V, Ribeiro V: The expression of the solute carriers NTCP and OCT-1 is regulated by cholesterol in HepG2 cells. Fundam Clin Pharmacol. 2007 Aug;21(4):445-50.</reference_text>
+      <pubmed_id>17635184</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kerb R, Brinkmann U, Chatskaia N, Gorbunov D, Gorboulev V, Mornhinweg E, Keil A, Eichelbaum M, Koepsell H: Identification of genetic variations of the human organic cation transporter hOCT1 and their functional consequences. Pharmacogenetics. 2002 Nov;12(8):591-5.</reference_text>
+      <pubmed_id>12439218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shu Y, Leabman MK, Feng B, Mangravite LM, Huang CC, Stryke D, Kawamoto M, Johns SJ, DeYoung J, Carlson E, Ferrin TE, Herskowitz I, Giacomini KM: Evolutionary conservation predicts function of variants of the human organic cation transporter, OCT1. Proc Natl Acad Sci U S A. 2003 May 13;100(10):5902-7. Epub 2003 Apr 28.</reference_text>
+      <pubmed_id>12719534</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sakata T, Anzai N, Shin HJ, Noshiro R, Hirata T, Yokoyama H, Kanai Y, Endou H: Novel single nucleotide polymorphisms of organic cation transporter 1 (SLC22A1) affecting transport functions. Biochem Biophys Res Commun. 2004 Jan 16;313(3):789-93.</reference_text>
+      <pubmed_id>14697261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Itoda M, Saito Y, Maekawa K, Hichiya H, Komamura K, Kamakura S, Kitakaze M, Tomoike H, Ueno K, Ozawa S, Sawada J: Seven novel single nucleotide polymorphisms in the human SLC22A1 gene encoding organic cation transporter 1 (OCT1). Drug Metab Pharmacokinet. 2004 Aug;19(4):308-12.</reference_text>
+      <pubmed_id>15499200</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermidine</name>
+        <accession>HMDB01257</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</reference_text>
+        <pubmed_id>8955087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</reference_text>
+        <pubmed_id>8955087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L(-)-Nicotine pestanal</name>
+        <accession>HMDB01934</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L(-)-Nicotine pestanal</name>
+        <accession>HMDB01934</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L(-)-Nicotine pestanal</name>
+        <accession>HMDB01934</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Saito H, Inui KI: Functional characteristics and membrane localization of rat multispecific organic cation transporters, OCT1 and OCT2, mediating tubular secretion of cationic drugs. J Pharmacol Exp Ther. 1998 Nov;287(2):800-5.</reference_text>
+        <pubmed_id>9808712</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Reserpine</name>
+        <accession>HMDB14351</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grundemann D, Gorboulev V, Gambaryan S, Veyhl M, Koepsell H: Drug excretion mediated by a new prototype of polyspecific transporter.  Nature. 1994 Dec 8;372(6506):549-52.</reference_text>
+        <pubmed_id>7990927</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelfinavir</name>
+        <accession>HMDB14365</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Gorset W, Washington CB, Blaschke TF, Kroetz DL, Giacomini KM: Interactions of HIV protease inhibitors with a human organic cation transporter in a mammalian expression system. Drug Metab Dispos. 2000 Mar;28(3):329-34.</reference_text>
+        <pubmed_id>10681378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Indinavir</name>
+        <accession>HMDB14369</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Gorset W, Washington CB, Blaschke TF, Kroetz DL, Giacomini KM: Interactions of HIV protease inhibitors with a human organic cation transporter in a mammalian expression system. Drug Metab Dispos. 2000 Mar;28(3):329-34.</reference_text>
+        <pubmed_id>10681378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen R, Nelson JA: Role of organic cation transporters in the renal secretion of nucleosides.  Biochem Pharmacol. 2000 Jul 15;60(2):215-9.</reference_text>
+        <pubmed_id>10825466</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Disopyramide</name>
+        <accession>HMDB14425</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Disopyramide</name>
+        <accession>HMDB14425</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</reference_text>
+        <pubmed_id>11758759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Gorboulev V, Akhoundova A, Waldegger S, Lang F, Koepsell H: Monoamine neurotransmitter transport mediated by the polyspecific cation transporter rOCT1. FEBS Lett. 1996 Oct 21;395(2-3):153-6.</reference_text>
+        <pubmed_id>8898084</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Breidert T, Spitzenberger F, Grundemann D, Schomig E: Catecholamine transport by the organic cation transporter type 1 (OCT1).  Br J Pharmacol. 1998 Sep;125(1):218-24.</reference_text>
+        <pubmed_id>9776363</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Progesterone</name>
+        <accession>HMDB01830</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hayer-Zillgen M, Bruss M, Bonisch H: Expression and pharmacological profile of the human organic cation transporters hOCT1, hOCT2 and hOCT3. Br J Pharmacol. 2002 Jul;136(6):829-36.</reference_text>
+        <pubmed_id>12110607</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Progesterone</name>
+        <accession>HMDB01830</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wu X, Kekuda R, Huang W, Fei YJ, Leibach FH, Chen J, Conway SJ, Ganapathy V: Identity of the organic cation transporter OCT3 as the extraneuronal monoamine transporter (uptake2) and evidence for the expression of the transporter in the brain. J Biol Chem. 1998 Dec 4;273(49):32776-86.</reference_text>
+        <pubmed_id>9830022</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gentian Violet</name>
+        <accession>HMDB14550</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pramipexole</name>
+        <accession>HMDB14557</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ishiguro N, Saito A, Yokoyama K, Morikawa M, Igarashi T, Tamai I: Transport of the dopamine D2 agonist pramipexole by rat organic cation transporters OCT1 and OCT2 in kidney. Drug Metab Dispos. 2005 Apr;33(4):495-9. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640376</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Prazosin</name>
+        <accession>HMDB14600</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hayer-Zillgen M, Bruss M, Bonisch H: Expression and pharmacological profile of the human organic cation transporters hOCT1, hOCT2 and hOCT3. Br J Pharmacol. 2002 Jul;136(6):829-36.</reference_text>
+        <pubmed_id>12110607</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kakehi M, Koyabu N, Nakamura T, Uchiumi T, Kuwano M, Ohtani H, Sawada Y: Functional characterization of mouse cation transporter mOCT2 compared with mOCT1. Biochem Biophys Res Commun. 2002 Aug 23;296(3):644-50.</reference_text>
+        <pubmed_id>12176030</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arndt P, Volk C, Gorboulev V, Budiman T, Popp C, Ulzheimer-Teuber I, Akhoundova A, Koppatz S, Bamberg E, Nagel G, Koepsell H: Interaction of cations, anions, and weak base quinine with rat renal cation transporter rOCT2 compared with rOCT1. Am J Physiol Renal Physiol. 2001 Sep;281(3):F454-68.</reference_text>
+        <pubmed_id>11502595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sweet DH, Miller DS, Pritchard JB: Ventricular choline transport: a role for organic cation transporter 2 expressed in choroid plexus. J Biol Chem. 2001 Nov 9;276(45):41611-9. Epub 2001 Sep 11.</reference_text>
+        <pubmed_id>11553644</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Goralski KB, Lou G, Prowse MT, Gorboulev V, Volk C, Koepsell H, Sitar DS: The cation transporters rOCT1 and rOCT2 interact with bicarbonate but play only a minor role for amantadine uptake into rat renal proximal tubules. J Pharmacol Exp Ther. 2002 Dec;303(3):959-68.</reference_text>
+        <pubmed_id>12438515</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grundemann D, Gorboulev V, Gambaryan S, Veyhl M, Koepsell H: Drug excretion mediated by a new prototype of polyspecific transporter.  Nature. 1994 Dec 8;372(6506):549-52.</reference_text>
+        <pubmed_id>7990927</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martel F, Vetter T, Russ H, Grundemann D, Azevedo I, Koepsell H, Schomig E: Transport of small organic cations in the rat liver. The role of the organic cation transporter OCT1. Naunyn Schmiedebergs Arch Pharmacol. 1996 Aug-Sep;354(3):320-6.</reference_text>
+        <pubmed_id>8878062</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Gorboulev V, Akhoundova A, Waldegger S, Lang F, Koepsell H: Monoamine neurotransmitter transport mediated by the polyspecific cation transporter rOCT1. FEBS Lett. 1996 Oct 21;395(2-3):153-6.</reference_text>
+        <pubmed_id>8898084</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</reference_text>
+        <pubmed_id>8955087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorpromazine</name>
+        <accession>HMDB14620</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kakehi M, Koyabu N, Nakamura T, Uchiumi T, Kuwano M, Ohtani H, Sawada Y: Functional characterization of mouse cation transporter mOCT2 compared with mOCT1. Biochem Biophys Res Commun. 2002 Aug 23;296(3):644-50.</reference_text>
+        <pubmed_id>12176030</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Chun JK, Babbitt PC, Giacomini KM: Cloning and functional characterization of a rat renal organic cation transporter isoform (rOCT1A). J Biol Chem. 1997 Jun 27;272(26):16548-54.</reference_text>
+        <pubmed_id>9195965</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Saito H, Inui KI: Functional characteristics and membrane localization of rat multispecific organic cation transporters, OCT1 and OCT2, mediating tubular secretion of cationic drugs. J Pharmacol Exp Ther. 1998 Nov;287(2):800-5.</reference_text>
+        <pubmed_id>9808712</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Okuda M, Urakami Y, Saito H, Inui K: Molecular mechanisms of organic cation transport in OCT2-expressing Xenopus oocytes. Biochim Biophys Acta. 1999 Mar 4;1417(2):224-31.</reference_text>
+        <pubmed_id>10082798</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jonker JW, Wagenaar E, Mol CA, Buitelaar M, Koepsell H, Smit JW, Schinkel AH: Reduced hepatic uptake and intestinal excretion of organic cations in mice with a targeted disruption of the organic cation transporter 1 (Oct1 [Slc22a1]) gene. Mol Cell Biol. 2001 Aug;21(16):5471-7.</reference_text>
+        <pubmed_id>11463829</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grundemann D, Liebich G, Kiefer N, Koster S, Schomig E: Selective substrates for non-neuronal monoamine transporters.  Mol Pharmacol. 1999 Jul;56(1):1-10.</reference_text>
+        <pubmed_id>10385678</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caspofungin</name>
+        <accession>HMDB14661</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sandhu P, Lee W, Xu X, Leake BF, Yamazaki M, Stone JA, Lin JH, Pearson PG, Kim RB: Hepatic uptake of the novel antifungal agent caspofungin.  Drug Metab Dispos. 2005 May;33(5):676-82. Epub 2005 Feb 16.</reference_text>
+        <pubmed_id>15716364</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxaliplatin</name>
+        <accession>HMDB14667</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ahlin G, Karlsson J, Pedersen JM, Gustavsson L, Larsson R, Matsson P, Norinder U, Bergstrom CA, Artursson P: Structural requirements for drug inhibition of the liver specific human organic cation transport protein 1. J Med Chem. 2008 Oct 9;51(19):5932-42. Epub 2008 Sep 13.</reference_text>
+        <pubmed_id>18788725</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanidine</name>
+        <accession>HMDB01842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Chun JK, Babbitt PC, Giacomini KM: Cloning and functional characterization of a rat renal organic cation transporter isoform (rOCT1A). J Biol Chem. 1997 Jun 27;272(26):16548-54.</reference_text>
+        <pubmed_id>9195965</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanidine</name>
+        <accession>HMDB01842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arndt P, Volk C, Gorboulev V, Budiman T, Popp C, Ulzheimer-Teuber I, Akhoundova A, Koppatz S, Bamberg E, Nagel G, Koepsell H: Interaction of cations, anions, and weak base quinine with rat renal cation transporter rOCT2 compared with rOCT1. Am J Physiol Renal Physiol. 2001 Sep;281(3):F454-68.</reference_text>
+        <pubmed_id>11502595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanidine</name>
+        <accession>HMDB01842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Saito H, Inui KI: Functional characteristics and membrane localization of rat multispecific organic cation transporters, OCT1 and OCT2, mediating tubular secretion of cationic drugs. J Pharmacol Exp Ther. 1998 Nov;287(2):800-5.</reference_text>
+        <pubmed_id>9808712</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amiloride</name>
+        <accession>HMDB14732</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</reference_text>
+        <pubmed_id>11758759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-desmethylimatinib</name>
+        <accession>HMDB13862</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Davies A, Jordanides NE, Giannoudis A, Lucas CM, Hatziieremia S, Harris RJ, Jorgensen HG, Holyoake TL, Pirmohamed M, Clark RE, Mountford JC: Nilotinib concentration in cell lines and primary CD34(+) chronic myeloid leukemia cells is not mediated by active uptake or efflux by major drug transporters. Leukemia. 2009 Nov;23(11):1999-2006. Epub 2009 Aug 27.</reference_text>
+        <pubmed_id>19710702</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-desmethylimatinib</name>
+        <accession>HMDB13862</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Engler JR, Frede A, Saunders VA, Zannettino AC, Hughes TP, White DL: Chronic myeloid leukemia CD34+ cells have reduced uptake of imatinib due to low OCT-1 activity. Leukemia. 2010 Apr;24(4):765-70. Epub 2010 Feb 11.</reference_text>
+        <pubmed_id>20147974</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-desmethylimatinib</name>
+        <accession>HMDB13862</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ahlin G, Karlsson J, Pedersen JM, Gustavsson L, Larsson R, Matsson P, Norinder U, Bergstrom CA, Artursson P: Structural requirements for drug inhibition of the liver specific human organic cation transport protein 1. J Med Chem. 2008 Oct 9;51(19):5932-42. Epub 2008 Sep 13.</reference_text>
+        <pubmed_id>18788725</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Testosterone</name>
+        <accession>HMDB00234</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wu X, Kekuda R, Huang W, Fei YJ, Leibach FH, Chen J, Conway SJ, Ganapathy V: Identity of the organic cation transporter OCT3 as the extraneuronal monoamine transporter (uptake2) and evidence for the expression of the transporter in the brain. J Biol Chem. 1998 Dec 4;273(49):32776-86.</reference_text>
+        <pubmed_id>9830022</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylverapamil (D-702)</name>
+        <accession>HMDB13961</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylverapamil (D-702)</name>
+        <accession>HMDB13961</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grundemann D, Liebich G, Kiefer N, Koster S, Schomig E: Selective substrates for non-neuronal monoamine transporters.  Mol Pharmacol. 1999 Jul;56(1):1-10.</reference_text>
+        <pubmed_id>10385678</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</reference_text>
+        <pubmed_id>11758759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Gorboulev V, Akhoundova A, Waldegger S, Lang F, Koepsell H: Monoamine neurotransmitter transport mediated by the polyspecific cation transporter rOCT1. FEBS Lett. 1996 Oct 21;395(2-3):153-6.</reference_text>
+        <pubmed_id>8898084</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Histamine Phosphate</name>
+        <accession>HMDB14805</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arndt P, Volk C, Gorboulev V, Budiman T, Popp C, Ulzheimer-Teuber I, Akhoundova A, Koppatz S, Bamberg E, Nagel G, Koepsell H: Interaction of cations, anions, and weak base quinine with rat renal cation transporter rOCT2 compared with rOCT1. Am J Physiol Renal Physiol. 2001 Sep;281(3):F454-68.</reference_text>
+        <pubmed_id>11502595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Midazolam</name>
+        <accession>HMDB14821</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rocuronium</name>
+        <accession>HMDB14866</accession>
+      </metabolite>
+      <reference>
+        <reference_text>van Montfoort JE, Muller M, Groothuis GM, Meijer DK, Koepsell H, Meier PJ: Comparison of &amp;quot;type I&amp;quot; and &amp;quot;type II&amp;quot; organic cation transport by organic cation transporters and organic anion-transporting polypeptides. J Pharmacol Exp Ther. 2001 Jul;298(1):110-5.</reference_text>
+        <pubmed_id>11408531</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Estradiol</name>
+        <accession>HMDB00151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hayer-Zillgen M, Bruss M, Bonisch H: Expression and pharmacological profile of the human organic cation transporters hOCT1, hOCT2 and hOCT3. Br J Pharmacol. 2002 Jul;136(6):829-36.</reference_text>
+        <pubmed_id>12110607</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Estradiol</name>
+        <accession>HMDB00151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wu X, Kekuda R, Huang W, Fei YJ, Leibach FH, Chen J, Conway SJ, Ganapathy V: Identity of the organic cation transporter OCT3 as the extraneuronal monoamine transporter (uptake2) and evidence for the expression of the transporter in the brain. J Biol Chem. 1998 Dec 4;273(49):32776-86.</reference_text>
+        <pubmed_id>9830022</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aciclovir</name>
+        <accession>HMDB14925</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takeda M, Khamdang S, Narikawa S, Kimura H, Kobayashi Y, Yamamoto T, Cha SH, Sekine T, Endou H: Human organic anion transporters and human organic cation transporters mediate renal antiviral transport. J Pharmacol Exp Ther. 2002 Mar;300(3):918-24.</reference_text>
+        <pubmed_id>11861798</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>van Montfoort JE, Muller M, Groothuis GM, Meijer DK, Koepsell H, Meier PJ: Comparison of &amp;quot;type I&amp;quot; and &amp;quot;type II&amp;quot; organic cation transport by organic cation transporters and organic anion-transporting polypeptides. J Pharmacol Exp Ther. 2001 Jul;298(1):110-5.</reference_text>
+        <pubmed_id>11408531</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Gorset W, Dresser MJ, Giacomini KM: The interaction of n-tetraalkylammonium compounds with a human organic cation transporter, hOCT1. J Pharmacol Exp Ther. 1999 Mar;288(3):1192-8.</reference_text>
+        <pubmed_id>10027858</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sandhu P, Lee W, Xu X, Leake BF, Yamazaki M, Stone JA, Lin JH, Pearson PG, Kim RB: Hepatic uptake of the novel antifungal agent caspofungin.  Drug Metab Dispos. 2005 May;33(5):676-82. Epub 2005 Feb 16.</reference_text>
+        <pubmed_id>15716364</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sinclair CJ, Chi KD, Subramanian V, Ward KL, Green RM: Functional expression of a high affinity mammalian hepatic choline/organic cation transporter. J Lipid Res. 2000 Nov;41(11):1841-8.</reference_text>
+        <pubmed_id>11060354</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arndt P, Volk C, Gorboulev V, Budiman T, Popp C, Ulzheimer-Teuber I, Akhoundova A, Koppatz S, Bamberg E, Nagel G, Koepsell H: Interaction of cations, anions, and weak base quinine with rat renal cation transporter rOCT2 compared with rOCT1. Am J Physiol Renal Physiol. 2001 Sep;281(3):F454-68.</reference_text>
+        <pubmed_id>11502595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Saito H, Inui KI: Functional characteristics and membrane localization of rat multispecific organic cation transporters, OCT1 and OCT2, mediating tubular secretion of cationic drugs. J Pharmacol Exp Ther. 1998 Nov;287(2):800-5.</reference_text>
+        <pubmed_id>9808712</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martel F, Vetter T, Russ H, Grundemann D, Azevedo I, Koepsell H, Schomig E: Transport of small organic cations in the rat liver. The role of the organic cation transporter OCT1. Naunyn Schmiedebergs Arch Pharmacol. 1996 Aug-Sep;354(3):320-6.</reference_text>
+        <pubmed_id>8878062</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Gorboulev V, Akhoundova A, Waldegger S, Lang F, Koepsell H: Monoamine neurotransmitter transport mediated by the polyspecific cation transporter rOCT1. FEBS Lett. 1996 Oct 21;395(2-3):153-6.</reference_text>
+        <pubmed_id>8898084</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</reference_text>
+        <pubmed_id>8955087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Phenformin</name>
+        <accession>HMDB15050</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dresser MJ, Xiao G, Leabman MK, Gray AT, Giacomini KM: Interactions of n-tetraalkylammonium compounds and biguanides with a human renal organic cation transporter (hOCT2). Pharm Res. 2002 Aug;19(8):1244-7.</reference_text>
+        <pubmed_id>12240953</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Phenformin</name>
+        <accession>HMDB15050</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang DS, Jonker JW, Kato Y, Kusuhara H, Schinkel AH, Sugiyama Y: Involvement of organic cation transporter 1 in hepatic and intestinal distribution of metformin. J Pharmacol Exp Ther. 2002 Aug;302(2):510-5.</reference_text>
+        <pubmed_id>12130709</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amantadine</name>
+        <accession>HMDB15051</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amantadine</name>
+        <accession>HMDB15051</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amantadine</name>
+        <accession>HMDB15051</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Goralski KB, Lou G, Prowse MT, Gorboulev V, Volk C, Koepsell H, Sitar DS: The cation transporters rOCT1 and rOCT2 interact with bicarbonate but play only a minor role for amantadine uptake into rat renal proximal tubules. J Pharmacol Exp Ther. 2002 Dec;303(3):959-68.</reference_text>
+        <pubmed_id>12438515</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amantadine</name>
+        <accession>HMDB15051</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ishiguro N, Saito A, Yokoyama K, Morikawa M, Igarashi T, Tamai I: Transport of the dopamine D2 agonist pramipexole by rat organic cation transporters OCT1 and OCT2 in kidney. Drug Metab Dispos. 2005 Apr;33(4):495-9. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640376</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Phenoxybenzamine</name>
+        <accession>HMDB15061</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hayer-Zillgen M, Bruss M, Bonisch H: Expression and pharmacological profile of the human organic cation transporters hOCT1, hOCT2 and hOCT3. Br J Pharmacol. 2002 Jul;136(6):829-36.</reference_text>
+        <pubmed_id>12110607</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen R, Nelson JA: Role of organic cation transporters in the renal secretion of nucleosides.  Biochem Pharmacol. 2000 Jul 15;60(2):215-9.</reference_text>
+        <pubmed_id>10825466</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</reference_text>
+        <pubmed_id>11758759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Gorboulev V, Akhoundova A, Waldegger S, Lang F, Koepsell H: Monoamine neurotransmitter transport mediated by the polyspecific cation transporter rOCT1. FEBS Lett. 1996 Oct 21;395(2-3):153-6.</reference_text>
+        <pubmed_id>8898084</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Breidert T, Spitzenberger F, Grundemann D, Schomig E: Catecholamine transport by the organic cation transporter type 1 (OCT1).  Br J Pharmacol. 1998 Sep;125(1):218-24.</reference_text>
+        <pubmed_id>9776363</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ganciclovir</name>
+        <accession>HMDB15139</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takeda M, Khamdang S, Narikawa S, Kimura H, Kobayashi Y, Yamamoto T, Cha SH, Sekine T, Endou H: Human organic anion transporters and human organic cation transporters mediate renal antiviral transport. J Pharmacol Exp Ther. 2002 Mar;300(3):918-24.</reference_text>
+        <pubmed_id>11861798</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probenecid</name>
+        <accession>HMDB15166</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arndt P, Volk C, Gorboulev V, Budiman T, Popp C, Ulzheimer-Teuber I, Akhoundova A, Koppatz S, Bamberg E, Nagel G, Koepsell H: Interaction of cations, anions, and weak base quinine with rat renal cation transporter rOCT2 compared with rOCT1. Am J Physiol Renal Physiol. 2001 Sep;281(3):F454-68.</reference_text>
+        <pubmed_id>11502595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kakehi M, Koyabu N, Nakamura T, Uchiumi T, Kuwano M, Ohtani H, Sawada Y: Functional characterization of mouse cation transporter mOCT2 compared with mOCT1. Biochem Biophys Res Commun. 2002 Aug 23;296(3):644-50.</reference_text>
+        <pubmed_id>12176030</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Green RM, Lo K, Sterritt C, Beier DR: Cloning and functional expression of a mouse liver organic cation transporter.  Hepatology. 1999 May;29(5):1556-62.</reference_text>
+        <pubmed_id>10216142</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Chun JK, Babbitt PC, Giacomini KM: Cloning and functional characterization of a rat renal organic cation transporter isoform (rOCT1A). J Biol Chem. 1997 Jun 27;272(26):16548-54.</reference_text>
+        <pubmed_id>9195965</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Goralski KB, Lou G, Prowse MT, Gorboulev V, Volk C, Koepsell H, Sitar DS: The cation transporters rOCT1 and rOCT2 interact with bicarbonate but play only a minor role for amantadine uptake into rat renal proximal tubules. J Pharmacol Exp Ther. 2002 Dec;303(3):959-68.</reference_text>
+        <pubmed_id>12438515</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</reference_text>
+        <pubmed_id>11758759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grundemann D, Gorboulev V, Gambaryan S, Veyhl M, Koepsell H: Drug excretion mediated by a new prototype of polyspecific transporter.  Nature. 1994 Dec 8;372(6506):549-52.</reference_text>
+        <pubmed_id>7990927</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Procainamide</name>
+        <accession>HMDB15169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ishiguro N, Saito A, Yokoyama K, Morikawa M, Igarashi T, Tamai I: Transport of the dopamine D2 agonist pramipexole by rat organic cation transporters OCT1 and OCT2 in kidney. Drug Metab Dispos. 2005 Apr;33(4):495-9. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640376</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arndt P, Volk C, Gorboulev V, Budiman T, Popp C, Ulzheimer-Teuber I, Akhoundova A, Koppatz S, Bamberg E, Nagel G, Koepsell H: Interaction of cations, anions, and weak base quinine with rat renal cation transporter rOCT2 compared with rOCT1. Am J Physiol Renal Physiol. 2001 Sep;281(3):F454-68.</reference_text>
+        <pubmed_id>11502595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grundemann D, Gorboulev V, Gambaryan S, Veyhl M, Koepsell H: Drug excretion mediated by a new prototype of polyspecific transporter.  Nature. 1994 Dec 8;372(6506):549-52.</reference_text>
+        <pubmed_id>7990927</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acebutolol</name>
+        <accession>HMDB15324</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tubocurarine</name>
+        <accession>HMDB15330</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</reference_text>
+        <pubmed_id>8955087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Saquinavir</name>
+        <accession>HMDB15362</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Gorset W, Washington CB, Blaschke TF, Kroetz DL, Giacomini KM: Interactions of HIV protease inhibitors with a human organic cation transporter in a mammalian expression system. Drug Metab Dispos. 2000 Mar;28(3):329-34.</reference_text>
+        <pubmed_id>10681378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pancuronium</name>
+        <accession>HMDB15430</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pancuronium</name>
+        <accession>HMDB15430</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</reference_text>
+        <pubmed_id>8955087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Vecuronium</name>
+        <accession>HMDB15432</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Vecuronium</name>
+        <accession>HMDB15432</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Schaner ME, Giacomini KM: Functional characterization of an organic cation transporter (hOCT1) in a transiently transfected human cell line (HeLa). J Pharmacol Exp Ther. 1998 Jul;286(1):354-61.</reference_text>
+        <pubmed_id>9655880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acepromazine</name>
+        <accession>HMDB15552</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pipotiazine</name>
+        <accession>HMDB15558</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thioproperazine</name>
+        <accession>HMDB15559</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiothixene</name>
+        <accession>HMDB15560</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bednarczyk D, Ekins S, Wikel JH, Wright SH: Influence of molecular structure on substrate binding to the human organic cation transporter, hOCT1. Mol Pharmacol. 2003 Mar;63(3):489-98.</reference_text>
+        <pubmed_id>12606755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Taurocholic acid</name>
+        <accession>HMDB00036</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thymidine</name>
+        <accession>HMDB00273</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang L, Dresser MJ, Gray AT, Yost SC, Terashita S, Giacomini KM: Cloning and functional expression of a human liver organic cation transporter. Mol Pharmacol. 1997 Jun;51(6):913-21.</reference_text>
+        <pubmed_id>9187257</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

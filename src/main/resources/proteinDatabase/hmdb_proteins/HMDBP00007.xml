@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:38 -0700</creation_date>
+  <update_date>2013-05-27 11:09:32 -0600</update_date>
+  <accession>HMDBP00007</accession>
+  <secondary_accessions>
+    <accession>5235</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>dCK</synonym>
+  </synonyms>
+  <gene_name>DCK</gene_name>
+  <general_function>Involved in ATP binding</general_function>
+  <specific_function>Required for the phosphorylation of the deoxyribonucleosides deoxycytidine (dC), deoxyguanosine (dG) and deoxyadenosine (dA). Has broad substrate specificity, and does not display selectivity based on the chirality of the substrate. It is also an essential enzyme for the phosphorylation of numerous nucleoside analogs widely employed as antiviral and chemotherapeutic agents.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00050</accession>
+      <name>Adenosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01202</accession>
+      <name>dCMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00014</accession>
+      <name>Deoxycytidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14387</accession>
+      <name>Cladribine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14584</accession>
+      <name>Gemcitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14769</accession>
+      <name>Clofarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14780</accession>
+      <name>Pemetrexed</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15017</accession>
+      <name>Emtricitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15078</accession>
+      <name>Zalcitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15122</accession>
+      <name>Cytarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15206</accession>
+      <name>Fludarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15391</accession>
+      <name>Decitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15401</accession>
+      <name>Nelarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60500</accession>
+      <name>NTP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>deoxycytidine kinase activity</description>
+      <go_id>GO:0004137</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>drug binding</description>
+      <go_id>GO:0008144</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>magnesium ion binding</description>
+      <go_id>GO:0000287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id>GO:0016773</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyrimidine deoxyribonucleoside binding</description>
+      <go_id>GO:0032548</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>deoxycytidine metabolic process</description>
+      <go_id>GO:0046092</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>drug metabolic process</description>
+      <go_id>GO:0017144</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>purine nucleobase metabolic process</description>
+      <go_id>GO:0006144</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>purine-containing compound salvage</description>
+      <go_id>GO:0043101</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleobase metabolic process</description>
+      <go_id>GO:0006206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleoside salvage</description>
+      <go_id>GO:0043097</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleotide metabolic process</description>
+      <go_id>GO:0006220</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>4</chromosome_location>
+    <locus>4q13.3-q21.1</locus>
+    <gene_sequence>&gt;783 bp
+ATGGCCACCCCGCCCAAGAGAAGCTGCCCGTCTTTCTCAGCCAGCTCTGAGGGGACCCGC
+ATCAAGAAAATCTCCATCGAAGGGAACATCGCTGCAGGGAAGTCAACATTTGTGAATATC
+CTTAAACAATTGTGTGAAGATTGGGAAGTGGTTCCTGAACCTGTTGCCAGATGGTGCAAT
+GTTCAAAGTACTCAAGATGAATTTGAGGAACTTACAATGTCTCAGAAAAATGGTGGGAAT
+GTTCTTCAGATGATGTATGAGAAACCTGAACGATGGTCTTTTACCTTCCAAACATATGCC
+TGTCTCAGTCGAATAAGAGCTCAGCTTGCCTCTCTGAATGGCAAGCTCAAAGATGCAGAG
+AAACCTGTATTATTTTTTGAACGATCTGTGTATAGTGACAGGTATATTTTTGCATCTAAT
+TTGTATGAATCTGAATGCATGAATGAGACAGAGTGGACAATTTATCAAGACTGGCATGAC
+TGGATGAATAACCAATTTGGCCAAAGCCTTGAATTGGATGGAATCATTTATCTTCAAGCC
+ACTCCAGAGACATGCTTACATAGAATATATTTACGGGGAAGAAATGAAGAGCAAGGCATT
+CCTCTTGAATATTTAGAGAAGCTTCATTATAAACATGAAAGCTGGCTCCTGCATAGGACA
+CTGAAAACCAACTTCGATTATCTTCAAGAGGTGCCTATCTTAACACTGGATGTTAATGAA
+GACTTTAAAGACAAATATGAAAGTCTGGTTGAAAAGGTCAAAGAGTTTTTGAGTACTTTG
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>260</residue_number>
+    <molecular_weight>30518.315</molecular_weight>
+    <theoretical_pi>5.209</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>dNK</name>
+        <pfam_id>PF01712</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Deoxycytidine kinase
+MATPPKRSCPSFSASSEGTRIKKISIEGNIAAGKSTFVNILKQLCEDWEVVPEPVARWCN
+VQSTQDEFEELTMSQKNGGNVLQMMYEKPERWSFTFQTYACLSRIRAQLASLNGKLKDAE
+KPVLFFERSVYSDRYIFASNLYESECMNETEWTIYQDWHDWMNNQFGQSLELDGIIYLQA
+TPETCLHRIYLRGRNEEQGIPLEYLEKLHYKHESWLLHRTLKTNFDYLQEVPILTLDVNE
+DFKDKYESLVEKVKEFLSTL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P27707</uniprot_id>
+  <uniprot_name>DCK_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1P5Z</pdb_id>
+    <pdb_id>1P60</pdb_id>
+    <pdb_id>1P61</pdb_id>
+    <pdb_id>1P62</pdb_id>
+    <pdb_id>2A2Z</pdb_id>
+    <pdb_id>2A30</pdb_id>
+    <pdb_id>2A7Q</pdb_id>
+    <pdb_id>2NO0</pdb_id>
+    <pdb_id>2NO1</pdb_id>
+    <pdb_id>2NO6</pdb_id>
+    <pdb_id>2NO7</pdb_id>
+    <pdb_id>2NO9</pdb_id>
+    <pdb_id>2NOA</pdb_id>
+    <pdb_id>2QRN</pdb_id>
+    <pdb_id>2QRO</pdb_id>
+    <pdb_id>2ZI3</pdb_id>
+    <pdb_id>2ZI4</pdb_id>
+    <pdb_id>2ZI5</pdb_id>
+    <pdb_id>2ZI6</pdb_id>
+    <pdb_id>2ZI7</pdb_id>
+    <pdb_id>2ZI9</pdb_id>
+    <pdb_id>2ZIA</pdb_id>
+    <pdb_id>3HP1</pdb_id>
+    <pdb_id>3IPX</pdb_id>
+    <pdb_id>3IPY</pdb_id>
+    <pdb_id>3KFX</pdb_id>
+    <pdb_id>3MJR</pdb_id>
+    <pdb_id>3QEJ</pdb_id>
+    <pdb_id>3QEN</pdb_id>
+    <pdb_id>3QEO</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M60527</genbank_gene_id>
+  <genecard_id>DCK</genecard_id>
+  <geneatlas_id>DCK</geneatlas_id>
+  <hgnc_id>HGNC:2704</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Chottiner EG, Shewach DS, Datta NS, Ashcraft E, Gribbin D, Ginsburg D, Fox IH, Mitchell BS: Cloning and expression of human deoxycytidine kinase cDNA.  Proc Natl Acad Sci U S A. 1991 Feb 15;88(4):1531-5.</reference_text>
+      <pubmed_id>1996353</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eriksson S, Cederlund E, Bergman T, Jornvall H, Bohman C: Characterization of human deoxycytidine kinase. Correlation with cDNA sequences. FEBS Lett. 1991 Mar 25;280(2):363-6.</reference_text>
+      <pubmed_id>2013338</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Johansson M, Brismar S, Karlsson A: Human deoxycytidine kinase is located in the cell nucleus.  Proc Natl Acad Sci U S A. 1997 Oct 28;94(22):11941-5.</reference_text>
+      <pubmed_id>9342341</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sabini E, Ort S, Monnerjahn C, Konrad M, Lavie A: Structure of human dCK suggests strategies to improve anticancer and antiviral therapy. Nat Struct Biol. 2003 Jul;10(7):513-9.</reference_text>
+      <pubmed_id>12808445</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Deoxycytidine</name>
+        <accession>HMDB00014</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Giovannetti E, Mey V, Loni L, Nannizzi S, Barsanti G, Savarino G, Ricciardi S, Del Tacca M, Danesi R: Cytotoxic activity of gemcitabine and correlation with expression profile of drug-related genes in human lymphoid cells. Pharmacol Res. 2007 Apr;55(4):343-9. Epub 2007 Jan 16.</reference_text>
+        <pubmed_id>17296311</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Warnke C, Wiendl H, Hartung HP, Stuve O, Kieseier BC: Identification of targets and new developments in the treatment of multiple sclerosis--focus on cladribine. Drug Des Devel Ther. 2010 Jul 21;4:117-26.</reference_text>
+        <pubmed_id>20689698</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sigal DS, Miller HJ, Schram ED, Saven A: Beyond hairy cell: the activity of cladribine in other hematologic malignancies.  Blood. 2010 Oct 21;116(16):2884-96. Epub 2010 Jul 15.</reference_text>
+        <pubmed_id>20634380</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kantarjian HM, Jeha S, Gandhi V, Wess M, Faderl S: Clofarabine: past, present, and future.  Leuk Lymphoma. 2007 Oct;48(10):1922-30.</reference_text>
+        <pubmed_id>17852710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sampat K, Kantarjian H, Borthakur G: Clofarabine: emerging role in leukemias.  Expert Opin Investig Drugs. 2009 Oct;18(10):1559-64.</reference_text>
+        <pubmed_id>19715446</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Larson ML, Venugopal P: Clofarabine: a new treatment option for patients with acute myeloid leukemia.  Expert Opin Pharmacother. 2009 Jun;10(8):1353-7.</reference_text>
+        <pubmed_id>19463072</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wong A, Soo RA, Yong WP, Innocenti F: Clinical pharmacology and pharmacogenetics of gemcitabine.  Drug Metab Rev. 2009;41(2):77-88.</reference_text>
+        <pubmed_id>19514966</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Marechal R, Mackey JR, Lai R, Demetter P, Peeters M, Polus M, Cass CE, Salmon I, Deviere J, Van Laethem JL: Deoxycitidine kinase is associated with prolonged survival after adjuvant gemcitabine for resected pancreatic adenocarcinoma. Cancer. 2010 Nov 15;116(22):5200-6. doi: 10.1002/cncr.25303.</reference_text>
+        <pubmed_id>20669326</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pession A, Masetti R, Kleinschmidt K, Martoni A: Use of clofarabine for acute childhood leukemia.  Biologics. 2010 Jun 24;4:111-8.</reference_text>
+        <pubmed_id>20631817</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kantarjian HM, Jeha S, Gandhi V, Wess M, Faderl S: Clofarabine: past, present, and future.  Leuk Lymphoma. 2007 Oct;48(10):1922-30.</reference_text>
+        <pubmed_id>17852710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pemetrexed</name>
+        <accession>HMDB14780</accession>
+      </metabolite>
+      <reference>
+        <reference_text>De Pas TM, Toffalorio F, Giovannetti E, Radice D, Russo F, Angeli I, Calamai G, Spitaleri G, Catania C, Noberasco C, Milani A, Pelosi G, Danesi R, De Braud F: Optimizing pemetrexed-gemcitabine combination in patients with advanced non-small cell lung cancer: a pharmacogenetic approach. J Thorac Oncol. 2011 Apr;6(4):768-73.</reference_text>
+        <pubmed_id>21336182</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Emtricitabine</name>
+        <accession>HMDB15017</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bethell R, De Muys J, Lippens J, Richard A, Hamelin B, Ren C, Collins P: In vitro interactions between apricitabine and other deoxycytidine analogues.  Antimicrob Agents Chemother. 2007 Aug;51(8):2948-53. Epub 2007 May 21.</reference_text>
+        <pubmed_id>17517847</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zalcitabine</name>
+        <accession>HMDB15078</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rossi L, Serafini S, Schiavano GF, Casabianca A, Vallanti G, Chiarantini L, Magnani M: Metabolism, mitochondrial uptake and toxicity of 2', 3'-dideoxycytidine.  Biochem J. 1999 Dec 15;344 Pt 3:915-20.</reference_text>
+        <pubmed_id>10585881</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zalcitabine</name>
+        <accession>HMDB15078</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kitos TE, Tyrrell DL: Intracellular metabolism of 2',3'-dideoxynucleosides in duck hepatocyte primary cultures. Biochem Pharmacol. 1995 May 11;49(9):1291-302.</reference_text>
+        <pubmed_id>7763311</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ohta T, Hori H, Ogawa M, Miyahara M, Kawasaki H, Taniguchi N, Komada Y: Impact of cytidine deaminase activity on intrinsic resistance to cytarabine in carcinoma cells. Oncol Rep. 2004 Nov;12(5):1115-20.</reference_text>
+        <pubmed_id>15492802</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lamba JK: Genetic factors influencing cytarabine therapy.  Pharmacogenomics. 2009 Oct;10(10):1657-74.</reference_text>
+        <pubmed_id>19842938</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jordheim LP, Galmarini CM, Dumontet C: [Metabolism, mechanism of action and resistance to cytotoxic nucleoside analogues]. Bull Cancer. 2005 Mar;92(3):239-48.</reference_text>
+        <pubmed_id>15820918</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yao L, Xu W, Fan L, Miao KR, Wu YJ, Qiao C, Zhu DX, Zhu HY, Liu P, Li JY: [Correlation of deoxycytidine kinase gene expression with fludarabine resistance in patients with chronic lymphocytic leukemia]. Zhongguo Shi Yan Xue Ye Xue Za Zhi. 2010 Feb;18(1):36-9.</reference_text>
+        <pubmed_id>20137114</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang Y, Secrist JA 3rd, Ealick SE: The structure of human deoxycytidine kinase in complex with clofarabine reveals key interactions for prodrug activation. Acta Crystallogr D Biol Crystallogr. 2006 Feb;62(Pt 2):133-9. Epub 2006 Jan 18.</reference_text>
+        <pubmed_id>16421443</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Decitabine</name>
+        <accession>HMDB15391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schwarzenberg J, Radu CG, Benz M, Fueger B, Tran AQ, Phelps ME, Witte ON, Satyamurthy N, Czernin J, Schiepers C: Human biodistribution and radiation dosimetry of novel PET probes targeting the deoxyribonucleoside salvage pathway. Eur J Nucl Med Mol Imaging. 2011 Apr;38(4):711-21. Epub 2010 Dec 3.</reference_text>
+        <pubmed_id>21127859</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Buie LW, Epstein SS, Lindley CM: Nelarabine: a novel purine antimetabolite antineoplastic agent.  Clin Ther. 2007 Sep;29(9):1887-99.</reference_text>
+        <pubmed_id>18035189</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>DeAngelo DJ: Nelarabine for the treatment of patients with relapsed or refractory T-cell acute lymphoblastic leukemia or lymphoblastic lymphoma. Hematol Oncol Clin North Am. 2009 Oct;23(5):1121-35, vii-viii.</reference_text>
+        <pubmed_id>19825456</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Reilly KM, Kisor DF: Profile of nelarabine: use in the treatment of T-cell acute lymphoblastic leukemia. Onco Targets Ther. 2009 Feb 18;2:219-28.</reference_text>
+        <pubmed_id>20616909</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cooper TM: Role of nelarabine in the treatment of T-cell acute lymphoblastic leukemia and T-cell lymphoblastic lymphoma. Ther Clin Risk Manag. 2007 Dec;3(6):1135-41.</reference_text>
+        <pubmed_id>18516261</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>DeAngelo DJ, Yu D, Johnson JL, Coutre SE, Stone RM, Stopeck AT, Gockerman JP, Mitchell BS, Appelbaum FR, Larson RA: Nelarabine induces complete remissions in adults with relapsed or refractory T-lineage acute lymphoblastic leukemia or lymphoblastic lymphoma: Cancer and Leukemia Group B study 19801. Blood. 2007 Jun 15;109(12):5136-42. Epub 2007 Mar 7.</reference_text>
+        <pubmed_id>17344466</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

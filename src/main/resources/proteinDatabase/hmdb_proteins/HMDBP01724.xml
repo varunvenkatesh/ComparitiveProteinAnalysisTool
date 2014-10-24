@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:54 -0700</creation_date>
+  <update_date>2013-01-15 18:58:54 -0700</update_date>
+  <accession>HMDBP01724</accession>
+  <secondary_accessions>
+    <accession>7068</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>ATIII</synonym>
+    <synonym>Serpin C1</synonym>
+  </synonyms>
+  <gene_name>SERPINC1</gene_name>
+  <general_function>Involved in serine-type endopeptidase inhibitor activity</general_function>
+  <specific_function>Most important serine protease inhibitor in plasma that regulates the blood coagulation cascade. AT-III inhibits thrombin as well as factors IXa, Xa and XIa. Its inhibitory activity is greatly enhanced in the presence of heparin</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01394</accession>
+      <name>Heparin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14551</accession>
+      <name>Ardeparin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14709</accession>
+      <name>Fondaparinux sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15356</accession>
+      <name>Enoxaparin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00169</accession>
+      <name>D-Mannose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>enzyme regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>endopeptidase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>serine-type endopeptidase inhibitor activity</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+    <subcellular_location>extracellular space</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1q23-q25.1</locus>
+    <gene_sequence>&gt;1395 bp
+ATGTATTCCAATGTGATAGGAACTGTAACCTCTGGAAAAAGGAAGGTTTATCTTTTGTCC
+TTGCTGCTCATTGGCTTCTGGGACTGCGTGACCTGTCACGGGAGCCCTGTGGACATCTGC
+ACAGCCAAGCCGCGGGACATTCCCATGAATCCCATGTGCATTTACCGCTCCCCGGAGAAG
+AAGGCAACTGAGGATGAGGGCTCAGAACAGAAGATCCCGGAGGCCACCAACCGGCGTGTC
+TGGGAACTGTCCAAGGCCAATTCCCGCTTTGCTACCACTTTCTATCAGCACCTGGCAGAT
+TCCAAGAATGACAATGATAACATTTTCCTGTCACCCCTGAGTATCTCCACGGCTTTTGCT
+ATGACCAAGCTGGGTGCCTGTAATGACACCCTCCAGCAACTGATGGAGGTATTTAAGTTT
+GACACCATATCTGAGAAAACATCTGATCAGATCCACTTCTTCTTTGCCAAACTGAACTGC
+CGACTCTATCGAAAAGCCAACAAATCCTCCAAGTTAGTATCAGCCAATCGCCTTTTTGGA
+GACAAATCCCTTACCTTCAATGAGACCTACCAGGACATCAGTGAGTTGGTATATGGAGCC
+AAGCTCCAGCCCCTGGACTTCAAGGAAAATGCAGAGCAATCCAGAGCGGCCATCAACAAA
+TGGGTGTCCAATAAGACCGAAGGCCGAATCACCGATGTCATTCCCTCGGAAGCCATCAAT
+GAGCTCACTGTTCTGGTGCTGGTTAACACCATTTACTTCAAGGGCCTGTGGAAGTCAAAG
+TTCAGCCCTGAGAACACAAGGAAGGAACTGTTCTACAAGGCTGATGGAGAGTCGTGTTCA
+GCATCTATGATGTACCAGGAAGGCAAGTTCCGTTATCGGCGCGTGGCTGAAGGCACCCAG
+GTGCTTGAGTTGCCCTTCAAAGGTGATGACATCACCATGGTCCTCATCTTGCCCAAGCCT
+GAGAAGAGCCTGGCCAAGGTGGAGAAGGAACTCACCCCAGAGGTGCTGCAAGAGTGGCTG
+GATGAATTGGAGGAGATGATGCTGGTGGTCCACATGCCCCGCTTCCGCATTGAGGACGGC
+TTCAGTTTGAAGGAGCAGCTGCAAGACATGGGCCTTGTCGATCTGTTCAGCCCTGAAAAG
+TCCAAACTCCCAGGTATTGTTGCAGAAGGCCGAGATGACCTCTATGTCTCAGATGCATTC
+CATAAGGCATTTCTTGAGGTAAATGAAGAAGGCAGTGAAGCAGCTGCAAGTACCGCTGTT
+GTGATTGCTGGCCGTTCGCTAAACCCCAACAGGGTGACTTTCAAGGCCAACAGGCCTTTC
+CTGGTTTTTATAAGAGAAGTTCCCCTGAACACTATTATCTTCATGGGCAGAGTAGCCAAC
+CCTTGTGTTAAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>464</residue_number>
+    <molecular_weight>52601.9</molecular_weight>
+    <theoretical_pi>6.68</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Serpin</name>
+        <pfam_id>PF00079</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-32</region>
+    </signal_regions>
+    <protein_sequence>&gt;Antithrombin-III
+MYSNVIGTVTSGKRKVYLLSLLLIGFWDCVTCHGSPVDICTAKPRDIPMNPMCIYRSPEK
+KATEDEGSEQKIPEATNRRVWELSKANSRFATTFYQHLADSKNDNDNIFLSPLSISTAFA
+MTKLGACNDTLQQLMEVFKFDTISEKTSDQIHFFFAKLNCRLYRKANKSSKLVSANRLFG
+DKSLTFNETYQDISELVYGAKLQPLDFKENAEQSRAAINKWVSNKTEGRITDVIPSEAIN
+ELTVLVLVNTIYFKGLWKSKFSPENTRKELFYKADGESCSASMMYQEGKFRYRRVAEGTQ
+VLELPFKGDDITMVLILPKPEKSLAKVEKELTPEVLQEWLDELEEMMLVVHMPRFRIEDG
+FSLKEQLQDMGLVDLFSPEKSKLPGIVAEGRDDLYVSDAFHKAFLEVNEEGSEAAASTAV
+VIAGRSLNPNRVTFKANRPFLVFIREVPLNTIIFMGRVANPCVK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>11493504</genbank_protein_id>
+  <uniprot_id>P01008</uniprot_id>
+  <uniprot_name>ANT3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1JVQ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF130100</genbank_gene_id>
+  <genecard_id>SERPINC1</genecard_id>
+  <geneatlas_id>SERPINC1</geneatlas_id>
+  <hgnc_id>HGNC:775</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Bock SC, Wion KL, Vehar GA, Lawn RM: Cloning and expression of the cDNA for human antithrombin III.  Nucleic Acids Res. 1982 Dec 20;10(24):8113-25.</reference_text>
+      <pubmed_id>6298709</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chandra T, Stackhouse R, Kidd VJ, Woo SL: Isolation and sequence characterization of a cDNA clone of human antithrombin III. Proc Natl Acad Sci U S A. 1983 Apr;80(7):1845-8.</reference_text>
+      <pubmed_id>6572945</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olds RJ, Lane DA, Chowdhury V, De Stefano V, Leone G, Thein SL: Complete nucleotide sequence of the antithrombin gene: evidence for homologous recombination causing thrombophilia. Biochemistry. 1993 Apr 27;32(16):4216-24.</reference_text>
+      <pubmed_id>8476848</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Prochownik EV, Markham AF, Orkin SH: Isolation of a cDNA clone for human antithrombin III.  J Biol Chem. 1983 Jul 10;258(13):8389-94.</reference_text>
+      <pubmed_id>6305982</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bock SC, Marrinan JA, Radziejewska E: Antithrombin III Utah: proline-407 to leucine mutation in a highly conserved region near the inhibitor reactive site. Biochemistry. 1988 Aug 9;27(16):6171-8.</reference_text>
+      <pubmed_id>3191114</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lindo VS, Kakkar VV, Learmonth M, Melissari E, Zappacosta F, Panico M, Morris HR: Antithrombin-TRI (Ala382 to Thr) causing severe thromboembolic tendency undergoes the S-to-R transition and is associated with a plasma-inactive high-molecular-weight complex of aggregated antithrombin. Br J Haematol. 1995 Mar;89(3):589-601.</reference_text>
+      <pubmed_id>7734359</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bjork I, Danielsson A, Fenton JW, Jornvall: The site in human antithrombin for functional proteolytic cleavage by human thrombin. FEBS Lett. 1981 Apr 20;126(2):257-60.</reference_text>
+      <pubmed_id>7238875</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blackburn MN, Smith RL, Carson J, Sibley CC: The heparin-binding site of antithrombin III. Identification of a critical tryptophan in the amino acid sequence. J Biol Chem. 1984 Jan 25;259(2):939-41.</reference_text>
+      <pubmed_id>6693405</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kristiansen TZ, Bunkenborg J, Gronborg M, Molina H, Thuluvath PJ, Argani P, Goggins MG, Maitra A, Pandey A: A proteomic analysis of human bile.  Mol Cell Proteomics. 2004 Jul;3(7):715-28. Epub 2004 Apr 14.</reference_text>
+      <pubmed_id>15084671</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bunkenborg J, Pilch BJ, Podtelejnikov AV, Wisniewski JR: Screening for N-glycosylated proteins by liquid chromatography mass spectrometry. Proteomics. 2004 Feb;4(2):454-65.</reference_text>
+      <pubmed_id>14760718</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lewandrowski U, Moebius J, Walter U, Sickmann A: Elucidation of N-glycosylation sites on human platelet proteins: a glycoproteomic approach. Mol Cell Proteomics. 2006 Feb;5(2):226-33. Epub 2005 Oct 31.</reference_text>
+      <pubmed_id>16263699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhou W, Ross MM, Tessitore A, Ornstein D, Vanmeter A, Liotta LA, Petricoin EF 3rd: An initial characterization of the serum phosphoproteome.  J Proteome Res. 2009 Dec;8(12):5523-31.</reference_text>
+      <pubmed_id>19824718</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nilsson J, Ruetschi U, Halim A, Hesse C, Carlsohn E, Brinkmalm G, Larson G: Enrichment of glycopeptides for glycan structure and attachment site identification. Nat Methods. 2009 Nov;6(11):809-11. Epub 2009 Oct 18.</reference_text>
+      <pubmed_id>19838169</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Carrell RW, Stein PE, Fermi G, Wardell MR: Biological implications of a 3 A structure of dimeric antithrombin.  Structure. 1994 Apr 15;2(4):257-70.</reference_text>
+      <pubmed_id>8087553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schreuder HA, de Boer B, Dijkema R, Mulders J, Theunissen HJ, Grootenhuis PD, Hol WG: The intact and cleaved human antithrombin III complex as a model for serpin-proteinase interactions. Nat Struct Biol. 1994 Jan;1(1):48-54.</reference_text>
+      <pubmed_id>7656006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Skinner R, Abrahams JP, Whisstock JC, Lesk AM, Carrell RW, Wardell MR: The 2.6 A structure of antithrombin indicates a conformational change at the heparin binding site. J Mol Biol. 1997 Feb 28;266(3):601-9.</reference_text>
+      <pubmed_id>9067613</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Skinner R, Chang WS, Jin L, Pei X, Huntington JA, Abrahams JP, Carrell RW, Lomas DA: Implications for function and therapy of a 2.9 A structure of binary-complexed antithrombin. J Mol Biol. 1998;283(1):9-14.</reference_text>
+      <pubmed_id>9761669</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mourey L, Samama JP, Delarue M, Choay J, Lormeau JC, Petitou M, Moras D: Antithrombin III: structural and functional aspects.  Biochimie. 1990 Aug;72(8):599-608.</reference_text>
+      <pubmed_id>2126464</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lane DA, Olds RJ, Boisclair M, Chowdhury V, Thein SL, Cooper DN, Blajchman M, Perry D, Emmerich J, Aiach M: Antithrombin III mutation database: first update. For the Thrombin and its Inhibitors Subcommittee of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis. Thromb Haemost. 1993 Aug 2;70(2):361-9.</reference_text>
+      <pubmed_id>8236149</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stein PE, Carrell RW: What do dysfunctional serpins tell us about molecular mobility and disease? Nat Struct Biol. 1995 Feb;2(2):96-113.</reference_text>
+      <pubmed_id>7749926</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perry DJ, Carrell RW: Molecular genetics of human antithrombin deficiency.  Hum Mutat. 1996;7(1):7-22.</reference_text>
+      <pubmed_id>8664906</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lane DA, Bayston T, Olds RJ, Fitches AC, Cooper DN, Millar DS, Jochmans K, Perry DJ, Okajima K, Thein SL, Emmerich J: Antithrombin mutation database: 2nd (1997) update. For the Plasma Coagulation Inhibitors Subcommittee of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis. Thromb Haemost. 1997 Jan;77(1):197-211.</reference_text>
+      <pubmed_id>9031473</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Koide T, Odani S, Takahashi K, Ono T, Sakuragawa N: Antithrombin III Toyama: replacement of arginine-47 by cysteine in hereditary abnormal antithrombin III that lacks heparin-binding ability. Proc Natl Acad Sci U S A. 1984 Jan;81(2):289-93.</reference_text>
+      <pubmed_id>6582486</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chang JY, Tran TH: Antithrombin III Basel. Identification of a Pro-Leu substitution in a hereditary abnormal antithrombin with impaired heparin cofactor activity. J Biol Chem. 1986 Jan 25;261(3):1174-6.</reference_text>
+      <pubmed_id>3080419</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stephens AW, Thalley BS, Hirs CH: Antithrombin-III Denver, a reactive site variant.  J Biol Chem. 1987 Jan 25;262(3):1044-8.</reference_text>
+      <pubmed_id>3805013</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Devraj-Kizuk R, Chui DH, Prochownik EV, Carter CJ, Ofosu FA, Blajchman MA: Antithrombin-III-Hamilton: a gene with a point mutation (guanine to adenine) in codon 382 causing impaired serine protease reactivity. Blood. 1988 Nov;72(5):1518-23.</reference_text>
+      <pubmed_id>3179438</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Erdjument H, Lane DA, Panico M, Di Marzo V, Morris HR: Single amino acid substitutions in the reactive site of antithrombin leading to thrombosis. Congenital substitution of arginine 393 to cysteine in antithrombin Northwick Park and to histidine in antithrombin Glasgow. J Biol Chem. 1988 Apr 25;263(12):5589-93.</reference_text>
+      <pubmed_id>3162733</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Erdjument H, Lane DA, Panico M, Di Marzo V, Morris HR, Bauer K, Rosenberg RD: Antithrombin Chicago, amino acid substitution of arginine 393 to histidine. Thromb Res. 1989 Jun 15;54(6):613-9.</reference_text>
+      <pubmed_id>2781509</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Borg JY, Brennan SO, Carrell RW, George P, Perry DJ, Shaw J: Antithrombin Rouen-IV 24 Arg----Cys. The amino-terminal contribution to heparin binding. FEBS Lett. 1990 Jun 18;266(1-2):163-6.</reference_text>
+      <pubmed_id>2365065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daly M, Bruce D, Perry DJ, Price J, Harper PL, O'Meara A, Carrell RW: Antithrombin Dublin (-3 Val----Glu): an N-terminal variant which has an aberrant signal peptidase cleavage site. FEBS Lett. 1990 Oct 29;273(1-2):87-90.</reference_text>
+      <pubmed_id>1977621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gandrille S, Aiach M, Lane DA, Vidaud D, Molho-Sabatier P, Caso R, de Moerloose P, Fiessinger JN, Clauser E: Important role of arginine 129 in heparin-binding site of antithrombin III. Identification of a novel mutation arginine 129 to glutamine. J Biol Chem. 1990 Nov 5;265(31):18997-9001.</reference_text>
+      <pubmed_id>2229057</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Austin RC, Rachubinski RA, Blajchman MA: Site-directed mutagenesis of alanine-382 of human antithrombin III.  FEBS Lett. 1991 Mar 25;280(2):254-8.</reference_text>
+      <pubmed_id>2013320</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perry DJ, Daly M, Harper PL, Tait RC, Price J, Walker ID, Carrell RW: Antithrombin Cambridge II, 384 Ala to Ser. Further evidence of the role of the reactive centre loop in the inhibitory function of the serpins. FEBS Lett. 1991 Jul 22;285(2):248-50.</reference_text>
+      <pubmed_id>1906811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olds RJ, Lane DA, Boisclair M, Sas G, Bock SC, Thein SL: Antithrombin Budapest 3. An antithrombin variant with reduced heparin affinity resulting from the substitution L99F. FEBS Lett. 1992 Apr 6;300(3):241-6.</reference_text>
+      <pubmed_id>1555650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blajchman MA, Fernandez-Rachubinski F, Sheffield WP, Austin RC, Schulman S: Antithrombin-III-Stockholm: a codon 392 (Gly----Asp) mutation with normal heparin binding and impaired serine protease reactivity. Blood. 1992 Mar 15;79(6):1428-34.</reference_text>
+      <pubmed_id>1547341</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Okajima K, Abe H, Maeda S, Motomura M, Tsujihata M, Nagataki S, Okabe H, Takatsuki K: Antithrombin III Nagasaki (Ser116-Pro): a heterozygous variant with defective heparin binding associated with thrombosis. Blood. 1993 Mar 1;81(5):1300-5.</reference_text>
+      <pubmed_id>8443391</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olds RJ, Lane DA, Beresford CH, Abildgaard U, Hughes PM, Thein SL: A recurrent deletion in the antithrombin gene, AT106-108(-6 bp), identified by DNA heteroduplex detection. Genomics. 1993 Apr;16(1):298-9.</reference_text>
+      <pubmed_id>8486379</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Emmerich J, Vidaud D, Alhenc-Gelas M, Chadeuf G, Gouault-Heilmann M, Aillaud MF, Aiach M: Three novel mutations of antithrombin inducing high-molecular-mass compounds. Arterioscler Thromb. 1994 Dec;14(12):1958-65.</reference_text>
+      <pubmed_id>7981186</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Millar DS, Wacey AI, Ribando J, Melissari E, Laursen B, Woods P, Kakkar VV, Cooper DN: Three novel missense mutations in the antithrombin III (AT3) gene causing recurrent venous thrombosis. Hum Genet. 1994 Nov;94(5):509-12.</reference_text>
+      <pubmed_id>7959685</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jochmans K, Lissens W, Vervoort R, Peeters S, De Waele M, Liebaers I: Antithrombin-Gly 424 Arg: a novel point mutation responsible for type 1 antithrombin deficiency and neonatal thrombosis. Blood. 1994 Jan 1;83(1):146-51.</reference_text>
+      <pubmed_id>8274732</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Boven HH, Olds RJ, Thein SL, Reitsma PH, Lane DA, Briet E, Vandenbroucke JP, Rosendaal FR: Hereditary antithrombin deficiency: heterogeneity of the molecular basis and mortality in Dutch families. Blood. 1994 Dec 15;84(12):4209-13.</reference_text>
+      <pubmed_id>7994035</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bruce D, Perry DJ, Borg JY, Carrell RW, Wardell MR: Thromboembolic disease due to thermolabile conformational changes of antithrombin Rouen-VI (187 Asn--&amp;gt;Asp) J Clin Invest. 1994 Dec;94(6):2265-74.</reference_text>
+      <pubmed_id>7989582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Emmerich J, Chadeuf G, Alhenc-Gelas M, Gouault-Heilman M, Toulon P, Fiessinger JN, Aiach M: Molecular basis of antithrombin type I deficiency: the first large in-frame deletion and two novel mutations in exon 6. Thromb Haemost. 1994 Oct;72(4):534-9.</reference_text>
+      <pubmed_id>7878627</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Okajima K, Abe H, Wagatsuma M, Okabe H, Takatsuki K: Antithrombin III Kumamoto II; a single mutation at Arg393-His increased the affinity of antithrombin III for heparin. Am J Hematol. 1995 Jan;48(1):12-8.</reference_text>
+      <pubmed_id>7832187</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ozawa T, Takikawa Y, Niiya K, Fujiwara T, Suzuki K, Sato S, Sakuragawa N: Antithrombin Morioka (Cys 95-Arg): a novel missense mutation causing type I antithrombin deficiency. Thromb Haemost. 1997 Feb;77(2):403.</reference_text>
+      <pubmed_id>9157604</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fitches AC, Appleby R, Lane DA, De Stefano V, Leone G, Olds RJ: Impaired cotranslational processing as a mechanism for type I antithrombin deficiency. Blood. 1998 Dec 15;92(12):4671-6.</reference_text>
+      <pubmed_id>9845533</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jochmans K, Lissens W, Seneca S, Capel P, Chatelain B, Meeus P, Osselaer JC, Peerlinck K, Seghers J, Slacmeulder M, Stibbe J, van de Loo J, Vermylen J, Liebaers I, De Waele M: The molecular basis of antithrombin deficiency in Belgian and Dutch families. Thromb Haemost. 1998 Sep;80(3):376-81.</reference_text>
+      <pubmed_id>9759613</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bayston TA, Tripodi A, Mannucci PM, Thompson E, Ireland H, Fitches AC, Hananeia L, Olds RJ, Lane DA: Familial overexpression of beta antithrombin caused by an Asn135Thr substitution. Blood. 1999 Jun 15;93(12):4242-7.</reference_text>
+      <pubmed_id>10361121</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Picard V, Bura A, Emmerich J, Alhenc-Gelas M, Biron C, Houbouyan-Reveillard LL, Molho P, Labatide-Alanore A, Sie P, Toulon P, Verdy E, Aiach M: Molecular bases of antithrombin deficiency in French families: identification of seven novel mutations in the antithrombin gene. Br J Haematol. 2000 Sep;110(3):731-4.</reference_text>
+      <pubmed_id>10997988</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Niiya K, Kiguchi T, Dansako H, Fujimura K, Fujimoto T, Iijima K, Tanimoto M, Harada M: Two novel gene mutations in type I antithrombin deficiency.  Int J Hematol. 2001 Dec;74(4):469-72.</reference_text>
+      <pubmed_id>11794707</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baud O, Picard V, Durand P, Duchemin J, Proulle V, Alhenc-Gelas M, Devictor D, Dreyfus M: Intracerebral hemorrhage associated with a novel antithrombin gene mutation in a neonate. J Pediatr. 2001 Nov;139(5):741-3.</reference_text>
+      <pubmed_id>11713457</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mushunje A, Zhou A, Huntington JA, Conard J, Carrell RW: Antithrombin 'DREUX' (Lys 114Glu): a variant with complete loss of heparin affinity. Thromb Haemost. 2002 Sep;88(3):436-43.</reference_text>
+      <pubmed_id>12353073</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Picard V, Dautzenberg MD, Villoutreix BO, Orliaguet G, Alhenc-Gelas M, Aiach M: Antithrombin Phe229Leu: a new homozygous variant leading to spontaneous antithrombin polymerization in vivo associated with severe childhood thrombosis. Blood. 2003 Aug 1;102(3):919-25. Epub 2003 Feb 20.</reference_text>
+      <pubmed_id>12595305</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagaizumi K, Inaba H, Amano K, Suzuki M, Arai M, Fukutake K: Five novel and four recurrent point mutations in the antithrombin gene causing venous thrombosis. Int J Hematol. 2003 Jul;78(1):79-83.</reference_text>
+      <pubmed_id>12894857</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>David D, Ribeiro S, Ferrao L, Gago T, Crespo F: Molecular basis of inherited antithrombin deficiency in Portuguese families: identification of genetic alterations and screening for additional thrombotic risk factors. Am J Hematol. 2004 Jun;76(2):163-71.</reference_text>
+      <pubmed_id>15164384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuhli C, Jochmans K, Scharrer I, Luchtenberg M, Hattenbach LO: Retinal vein occlusion associated with antithrombin deficiency secondary to a novel G9840C missense mutation. Arch Ophthalmol. 2006 Aug;124(8):1165-9.</reference_text>
+      <pubmed_id>16908819</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ardeparin</name>
+        <accession>HMDB14551</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mousa SA: The low molecular weight heparin, tinzaparin, in thrombosis and beyond.  Cardiovasc Drug Rev. 2002 Fall;20(3):199-216.</reference_text>
+        <pubmed_id>12397367</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ardeparin</name>
+        <accession>HMDB14551</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lin P, Sinha U, Betz A: Antithrombin binding of low molecular weight heparins and inhibition of factor Xa. Biochim Biophys Acta. 2001 Apr 3;1526(1):105-13.</reference_text>
+        <pubmed_id>11287128</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ardeparin</name>
+        <accession>HMDB14551</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shaughnessy SG, Young E, Deschamps P, Hirsh J: The effects of low molecular weight and standard heparin on calcium loss from fetal rat calvaria. Blood. 1995 Aug 15;86(4):1368-73.</reference_text>
+        <pubmed_id>7632944</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fondaparinux sodium</name>
+        <accession>HMDB14709</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Paolucci F, Clavies MC, Donat F, Necciari J: Fondaparinux sodium mechanism of action: identification of specific binding to purified and human plasma-derived proteins. Clin Pharmacokinet. 2002;41 Suppl 2:11-8.</reference_text>
+        <pubmed_id>12383040</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fondaparinux sodium</name>
+        <accession>HMDB14709</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cheng JW: Fondaparinux: a new antithrombotic agent.  Clin Ther. 2002 Nov;24(11):1757-69; discussion 1719.</reference_text>
+        <pubmed_id>12501872</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fondaparinux sodium</name>
+        <accession>HMDB14709</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dager WE, Andersen J, Nutescu E: Special considerations with fondaparinux therapy: heparin-induced thrombocytopenia and wound healing. Pharmacotherapy. 2004 Jul;24(7 Pt 2):88S-94S.</reference_text>
+        <pubmed_id>15317404</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fondaparinux sodium</name>
+        <accession>HMDB14709</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Donat F, Duret JP, Santoni A, Cariou R, Necciari J, Magnani H, de Greef R: The pharmacokinetics of fondaparinux sodium in healthy volunteers.  Clin Pharmacokinet. 2002;41 Suppl 2:1-9.</reference_text>
+        <pubmed_id>12383039</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enoxaparin</name>
+        <accession>HMDB15356</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Peng K, Wang C, Pang BS, Yang YH: [Effects of thrombolysis and anticoagulation on the functions of vascular endothelial cells and coagulation and fibrinolysis in patients with pulmonary thromboembolism]. Zhonghua Jie He He Hu Xi Za Zhi. 2005 Sep;28(9):596-9.</reference_text>
+        <pubmed_id>16207425</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enoxaparin</name>
+        <accession>HMDB15356</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lee S, Gibson CM: Enoxaparin in acute coronary syndromes.  Expert Rev Cardiovasc Ther. 2007 May;5(3):387-99.</reference_text>
+        <pubmed_id>17489664</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enoxaparin</name>
+        <accession>HMDB15356</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bisio A, Vecchietti D, Citterio L, Guerrini M, Raman R, Bertini S, Eisele G, Naggi A, Sasisekharan R, Torri G: Structural features of low-molecular-weight heparins affecting their affinity to antithrombin. Thromb Haemost. 2009 Nov;102(5):865-73.</reference_text>
+        <pubmed_id>19888521</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Mannose</name>
+        <accession>HMDB00169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>D-Mannose</name>
+        <accession>HMDB00169</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

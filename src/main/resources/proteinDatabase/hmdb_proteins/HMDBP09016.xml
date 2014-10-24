@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:18:22 -0700</creation_date>
+  <update_date>2013-05-27 11:24:20 -0600</update_date>
+  <accession>HMDBP09016</accession>
+  <secondary_accessions>
+    <accession>14757</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>RG7MT1</synonym>
+    <synonym>hCMT1</synonym>
+    <synonym>hMet</synonym>
+    <synonym>hcm1p</synonym>
+    <synonym>mRNA (guanine-N(7)-)-methyltransferase</synonym>
+    <synonym>mRNA cap methyltransferase</synonym>
+  </synonyms>
+  <gene_name>RNMT</gene_name>
+  <general_function>Involved in mRNA capping</general_function>
+  <specific_function>mRNA-capping methyltransferase that methylates the N7 position of the added guanosine to the 5'-cap structure of mRNAs. Binds RNA containing 5'-terminal GpppC.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>mRNA surveillance pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03015</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna processing</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>mrna processing</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>mrna capping</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mRNA cap binding complex</description>
+      <go_id>GO:0005845</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mRNA (guanine-N7-)-methyltransferase activity</description>
+      <go_id>GO:0004482</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0006366</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>viral reproduction</description>
+      <go_id>GO:0016032</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>18</chromosome_location>
+    <locus>18p11.21</locus>
+    <gene_sequence>&gt;1431 bp
+ATGGCAAATTCTGCAAAAGCAGAAGAATATGAAAAGATGTCTCTTGAACAGGCAAAAGCG
+TCAGTGAATTCTGAAACAGAGTCTTCATTCAATATTAATGAAAACACAACAGCTTCTGGG
+ACTGGGCTTTCTGAAAAGACTTCTGTCTGTAGGCAAGTAGACATAGCAAGAAAGAGAAAA
+GAGTTTGAAGATGATCTTGTAAAGGAAAGTTCTAGTTGTGGGAAAGACACTCCATCCAAG
+AAGAGAAAACTTGATCCTGAAATTGTCCCAGAGGAAAAAGATTGTGGTGATGCTGAAGGC
+AATTCAAAGAAAAGAAAAAGAGAAACTGAGGATGTTCCAAAAGATAAATCTTCTACTGGA
+GATGGCACTCAAAATAAGAGAAAAATAGCACTTGAGGATGTTCCTGAAAAGCAGAAAAAT
+CTGGAAGAAGGACACAGCTCAACAGTGGCTGCCCATTACAATGAACTTCAGGAAGTTGGT
+TTGGAGAAGCGTAGTCAAAGTCGTATTTTTTACCTAAGAAACTTTAATAATTGGATGAAA
+AGTGTTCTCATTGGAGAATTTTTGGAAAAGGTACGACAGAAGAAAAAACGTGATATCACT
+GTTTTGGACCTGGGATGTGGTAAAGGTGGAGATTTGCTGAAATGGAAAAAAGGAAGAATT
+AACAAGCTAGTTTGTACTGATATTGCCGATGTTTCTGTCAAACAGTGTCAGCAGCGGTAT
+GAGGACATGAAAAATCGTCGTGATAGTGAATATATTTTCAGTGCAGAATTTATAACTGCT
+GACAGCTCAAAGGAACTTCTGATTGACAAATTTCGTGACCCACAAATGTGTTTTGACATC
+TGCAGTTGTCAGTTTGTCTGTCATTACTCATTTGAGTCTTATGAGCAGGCTGACATGATG
+CTGAGAAATGCGTGTGAGAGACTTAGCCCTGGGGGCTATTTTATTGGTACTACTCCCAAT
+AGCTTTGAATTGATAAGACGCCTTGAAGCTTCAGAAACAGAATCATTTGGAAATGAAATA
+TATACTGTGAAATTTCAGAAGAAAGGAGATTATCCTTTATTTGGCTGCAAATATGACTTC
+AACTTGGAAGGTGTTGTGGATGTTCCTGAATTCTTGGTCTATTTTCCATTGCTAAATGAA
+ATGGCAAAGAAGTACAATATGAAACTAGTCTACAAAAAAACATTTCTGGAATTCTACGAA
+GAAAAGATTAAGAACAATGAAAATAAAATGCTCTTAAAACGAATGCAGGCCTTGGAGCCA
+TATCCTGCAAATGAGAGTTCTAAACTTGTCTCTGAGAAGGTGGATGACTATGAACATGCA
+GCAAAGTACATGAAGAACAGTCAAGTAAGGTTACCTTTGGGAACCTTAAGTAAATCAGAA
+TGGGAAGCTACAAGTATTTACTTGGTGTTTGCCTTTGAGAAACAGCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>476</residue_number>
+    <molecular_weight>54843.655</molecular_weight>
+    <theoretical_pi>6.614</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pox_MCEL</name>
+        <pfam_id>PF03291</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;mRNA cap guanine-N7 methyltransferase
+MANSAKAEEYEKMSLEQAKASVNSETESSFNINENTTASGTGLSEKTSVCRQVDIARKRK
+EFEDDLVKESSSCGKDTPSKKRKLDPEIVPEEKDCGDAEGNSKKRKRETEDVPKDKSSTG
+DGTQNKRKIALEDVPEKQKNLEEGHSSTVAAHYNELQEVGLEKRSQSRIFYLRNFNNWMK
+SVLIGEFLEKVRQKKKRDITVLDLGCGKGGDLLKWKKGRINKLVCTDIADVSVKQCQQRY
+EDMKNRRDSEYIFSAEFITADSSKELLIDKFRDPQMCFDICSCQFVCHYSFESYEQADMM
+LRNACERLSPGGYFIGTTPNSFELIRRLEASETESFGNEIYTVKFQKKGDYPLFGCKYDF
+NLEGVVDVPEFLVYFPLLNEMAKKYNMKLVYKKTFLEFYEEKIKNNENKMLLKRMQALEP
+YPANESSKLVSEKVDDYEHAAKYMKNSQVRLPLGTLSKSEWEATSIYLVFAFEKQQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2662077</genbank_protein_id>
+  <uniprot_id>O43148</uniprot_id>
+  <uniprot_name>MCES_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3BGV</pdb_id>
+    <pdb_id>3EPP</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB007858</genbank_gene_id>
+  <genecard_id>RNMT</genecard_id>
+  <geneatlas_id>RNMT</geneatlas_id>
+  <hgnc_id>HGNC:10075</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tsukamoto T, Shibagaki Y, Niikura Y, Mizumoto K: Cloning and characterization of three human cDNAs encoding mRNA (guanine-7-)-methyltransferase, an mRNA cap methylase. Biochem Biophys Res Commun. 1998 Oct 9;251(1):27-34.</reference_text>
+      <pubmed_id>9790902</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pillutla RC, Yue Z, Maldonado E, Shatkin AJ: Recombinant human mRNA cap methyltransferase binds capping enzyme/RNA polymerase IIo complexes. J Biol Chem. 1998 Aug 21;273(34):21443-6.</reference_text>
+      <pubmed_id>9705270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamada-Okabe T, Mio T, Kashima Y, Matsui M, Arisawa M, Yamada-Okabe H: The Candida albicans gene for mRNA 5-cap methyltransferase: identification of additional residues essential for catalysis. Microbiology. 1999 Nov;145 ( Pt 11):3023-33.</reference_text>
+      <pubmed_id>10589710</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ishikawa K, Nagase T, Nakajima D, Seki N, Ohira M, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. VIII. 78 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1997 Oct 31;4(5):307-13.</reference_text>
+      <pubmed_id>9455477</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saha N, Schwer B, Shuman S: Characterization of human, Schizosaccharomyces pombe, and Candida albicans mRNA cap methyltransferases and complete replacement of the yeast capping apparatus by mammalian enzymes. J Biol Chem. 1999 Jun 4;274(23):16553-62.</reference_text>
+      <pubmed_id>10347220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wen Y, Shatkin AJ: Cap methyltransferase selective binding and methylation of GpppG-RNA are stimulated by importin-alpha. Genes Dev. 2000 Dec 1;14(23):2944-9.</reference_text>
+      <pubmed_id>11114884</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shafer B, Chu C, Shatkin AJ: Human mRNA cap methyltransferase: alternative nuclear localization signal motifs ensure nuclear localization required for viability. Mol Cell Biol. 2005 Apr;25(7):2644-9.</reference_text>
+      <pubmed_id>15767670</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

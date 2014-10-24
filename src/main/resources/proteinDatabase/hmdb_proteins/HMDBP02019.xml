@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:38 -0700</creation_date>
+  <update_date>2013-01-15 19:01:38 -0700</update_date>
+  <accession>HMDBP02019</accession>
+  <secondary_accessions>
+    <accession>7476</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Cell growth-inhibiting gene 27 protein</synonym>
+    <synonym>FGCP</synonym>
+    <synonym>Folate hydrolase 1</synonym>
+    <synonym>Folylpoly-gamma-glutamate carboxypeptidase</synonym>
+    <synonym>GCPII</synonym>
+    <synonym>Glutamate carboxypeptidase II</synonym>
+    <synonym>Membrane glutamate carboxypeptidase</synonym>
+    <synonym>N-acetylated-alpha-linked acidic dipeptidase I</synonym>
+    <synonym>NAALADase I</synonym>
+    <synonym>PSM</synonym>
+    <synonym>PSMA</synonym>
+    <synonym>Prostate-specific membrane antigen</synonym>
+    <synonym>Pteroylpoly-gamma-glutamate carboxypeptidase</synonym>
+    <synonym>mGCP</synonym>
+  </synonyms>
+  <gene_name>FOLH1</gene_name>
+  <general_function>Involved in peptidase activity</general_function>
+  <specific_function>Also exhibits a dipeptidyl-peptidase IV type activity. In vitro, cleaves Gly-Pro-AMC</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00608</accession>
+      <name>Cobalt</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proteolysis</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform PSMA':Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11p11.2</locus>
+    <gene_sequence>&gt;2253 bp
+ATGTGGAATCTCCTTCACGAAACCGACTCGGCTGTGGCCACCGCGCGCCGCCCGCGCTGG
+CTGTGCGCTGGGGCGCTGGTGCTGGCGGGTGGCTTCTTTCTCCTCGGCTTCCTCTTCGGG
+TGGTTTATAAAATCCTCCAATGAAGCTACTAACATTACTCCAAAGCATAATATGAAAGCA
+TTTTTGGATGAATTGAAAGCTGAGAACATCAAGAAGTTCTTATATAATTTTACACAGATA
+CCACATTTAGCAGGAACAGAACAAAACTTTCAGCTTGCAAAGCAAATTCAATCCCAGTGG
+AAAGAATTTGGCCTGGATTCTGTTGAGCTAGCACATTATGATGTCCTGTTGTCCTACCCA
+AATAAGACTCATCCCAACTACATCTCAATAATTAATGAAGATGGAAATGAGATTTTCAAC
+ACATCATTATTTGAACCACCTCCTCCAGGATATGAAAATGTTTCGGATATTGTACCACCT
+TTCAGTGCTTTCTCTCCTCAAGGAATGCCAGAGGGCGATCTAGTGTATGTTAACTATGCA
+CGAACTGAAGACTTCTTTAAATTGGAACGGGACATGAAAATCAATTGCTCTGGGAAAATT
+GTAATTGCCAGATATGGGAAAGTTTTCAGAGGAAATAAGGTTAAAAATGCCCAGCTGGCA
+GGGGCCAAAGGAGTCATTCTCTACTCCGACCCTGCTGACTACTTTGCTCCTGGGGTGAAG
+TCCTATCCAGATGGTTGGAATCTTCCTGGAGGTGGTGTCCAGCGTGGAAATATCCTAAAT
+CTGAATGGTGCAGGAGACCCTCTCACACCAGGTTACCCAGCAAATGAATATGCTTATAGG
+CGTGGAATTGCAGAGGCTGTTGGTCTTCCAAGTATTCCTGTTCATCCAATTGGATACTAT
+GATGCACAGAAGCTCCTAGAAAAAATGGGTGGCTCAGCACCACCAGATAGCAGCTGGAGA
+GGAAGTCTCAAAGTGCCCTACAATGTTGGACCTGGCTTTACTGGAAACTTTTCTACACAA
+AAAGTCAAGATGCACATCCACTCTACCAATGAAGTGACAAGAATTTACAATGTGATAGGT
+ACTCTCAGAGGAGCAGTGGAACCAGACAGATATGTCATTCTGGGAGGTCACCGGGACTCA
+TGGGTGTTTGGTGGTATTGACCCTCAGAGTGGAGCAGCTGTTGTTCATGAAATTGTGAGG
+AGCTTTGGAACACTGAAAAAGGAAGGGTGGAGACCTAGAAGAACAATTTTGTTTGCAAGC
+TGGGATGCAGAAGAATTTGGTCTTCTTGGTTCTACTGAGTGGGCAGAGGAGAATTCAAGA
+CTCCTTCAAGAGCGTGGCGTGGCTTATATTAATGCTGACTCATCTATAGAAGGAAACTAC
+ACTCTGAGAGTTGATTGTACACCGCTGATGTACAGCTTGGTACACAACCTAACAAAAGAG
+CTGAAAAGCCCTGATGAAGGCTTTGAAGGCAAATCTCTTTATGAAAGTTGGACTAAAAAA
+AGTCCTTCCCCAGAGTTCAGTGGCATGCCCAGGATAAGCAAATTGGGATCTGGAAATGAT
+TTTGAGGTGTTCTTCCAACGACTTGGAATTGCTTCAGGCAGAGCACGGTATACTAAAAAT
+TGGGAAACAAACAAATTCAGCGGCTATCCACTGTATCACAGTGTCTATGAAACATATGAG
+TTGGTGGAAAAGTTTTATGATCCAATGTTTAAATATCACCTCACTGTGGCCCAGGTTCGA
+GGAGGGATGGTGTTTGAGCTAGCCAATTCCATAGTGCTCCCTTTTGATTGTCGAGATTAT
+GCTGTAGTTTTAAGAAAGTATGCTGACAAAATCTACAGTATTTCTATGAAACATCCACAG
+GAAATGAAGACATACAGTGTATCATTTGATTCACTTTTTTCTGCAGTAAAGAATTTTACA
+GAAATTGCTTCCAAGTTCAGTGAGAGACTCCAGGACTTTGACAAAAGCAACCCAATAGTA
+TTAAGAATGATGAATGATCAACTCATGTTTCTGGAAAGAGCATTTATTGATCCATTAGGG
+TTACCAGACAGGCCTTTTTATAGGCATGTCATCTATGCTCCAAGCAGCCACAACAAGTAT
+GCAGGGGAGTCATTCCCAGGAATTTATGATGCTCTGTTTGATATTGAAAGCAAAGTGGAC
+CCTTCCAAGGCCTGGGGAGAAGTGAAGAGACAGATTTATGTTGCAGCCTTCACAGTGCAG
+GCAGCTGCAGAGACTTTGAGTGAAGTAGCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>750</residue_number>
+    <molecular_weight>84330.0</molecular_weight>
+    <theoretical_pi>6.97</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PA</name>
+        <pfam_id>PF02225</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Peptidase_M28</name>
+        <pfam_id>PF04389</pfam_id>
+      </pfam>
+      <pfam>
+        <name>TFR_dimer</name>
+        <pfam_id>PF04253</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>20-43</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Glutamate carboxypeptidase 2
+MWNLLHETDSAVATARRPRWLCAGALVLAGGFFLLGFLFGWFIKSSNEATNITPKHNMKA
+FLDELKAENIKKFLYNFTQIPHLAGTEQNFQLAKQIQSQWKEFGLDSVELAHYDVLLSYP
+NKTHPNYISIINEDGNEIFNTSLFEPPPPGYENVSDIVPPFSAFSPQGMPEGDLVYVNYA
+RTEDFFKLERDMKINCSGKIVIARYGKVFRGNKVKNAQLAGAKGVILYSDPADYFAPGVK
+SYPDGWNLPGGGVQRGNILNLNGAGDPLTPGYPANEYAYRRGIAEAVGLPSIPVHPIGYY
+DAQKLLEKMGGSAPPDSSWRGSLKVPYNVGPGFTGNFSTQKVKMHIHSTNEVTRIYNVIG
+TLRGAVEPDRYVILGGHRDSWVFGGIDPQSGAAVVHEIVRSFGTLKKEGWRPRRTILFAS
+WDAEEFGLLGSTEWAEENSRLLQERGVAYINADSSIEGNYTLRVDCTPLMYSLVHNLTKE
+LKSPDEGFEGKSLYESWTKKSPSPEFSGMPRISKLGSGNDFEVFFQRLGIASGRARYTKN
+WETNKFSGYPLYHSVYETYELVEKFYDPMFKYHLTVAQVRGGMVFELANSIVLPFDCRDY
+AVVLRKYADKIYSISMKHPQEMKTYSVSFDSLFSAVKNFTEIASKFSERLQDFDKSNPIV
+LRMMNDQLMFLERAFIDPLGLPDRPFYRHVIYAPSSHNKYAGESFPGIYDALFDIESKVD
+PSKAWGEVKRQIYVAAFTVQAAAETLSEVA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q04609</uniprot_id>
+  <uniprot_name>FOLH1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1Z8L</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M99487</genbank_gene_id>
+  <genecard_id>FOLH1</genecard_id>
+  <geneatlas_id>FOLH1</geneatlas_id>
+  <hgnc_id>HGNC:3788</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Israeli RS, Powell CT, Fair WR, Heston WD: Molecular cloning of a complementary DNA encoding a prostate-specific membrane antigen. Cancer Res. 1993 Jan 15;53(2):227-30.</reference_text>
+      <pubmed_id>8417812</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Su SL, Huang IP, Fair WR, Powell CT, Heston WD: Alternatively spliced variants of prostate-specific membrane antigen RNA: ratio of expression as a potential measurement of progression. Cancer Res. 1995 Apr 1;55(7):1441-3.</reference_text>
+      <pubmed_id>7882349</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bzdega T, Turi T, Wroblewska B, She D, Chung HS, Kim H, Neale JH: Molecular cloning of a peptidase against N-acetylaspartylglutamate from a rat hippocampal cDNA library. J Neurochem. 1997 Dec;69(6):2270-7.</reference_text>
+      <pubmed_id>9375657</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Keefe DS, Su SL, Bacich DJ, Horiguchi Y, Luo Y, Powell CT, Zandvliet D, Russell PJ, Molloy PL, Nowak NJ, Shows TB, Mullins C, Vonder Haar RA, Fair WR, Heston WD: Mapping, genomic organization and promoter analysis of the human prostate-specific membrane antigen gene. Biochim Biophys Acta. 1998 Nov 26;1443(1-2):113-27.</reference_text>
+      <pubmed_id>9838072</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Luthi-Carter R, Barczak AK, Speno H, Coyle JT: Molecular characterization of human brain N-acetylated alpha-linked acidic dipeptidase (NAALADase). J Pharmacol Exp Ther. 1998 Aug;286(2):1020-5.</reference_text>
+      <pubmed_id>9694964</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pangalos MN, Neefs JM, Somers M, Verhasselt P, Bekkers M, van der Helm L, Fraiponts E, Ashton D, Gordon RD: Isolation and expression of novel human glutamate carboxypeptidases with N-acetylated alpha-linked acidic dipeptidase and dipeptidyl peptidase IV activity. J Biol Chem. 1999 Mar 26;274(13):8470-83.</reference_text>
+      <pubmed_id>10085079</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Devlin AM, Ling EH, Peerson JM, Fernando S, Clarke R, Smith AD, Halsted CH: Glutamate carboxypeptidase II: a polymorphism associated with lower levels of serum folate and hyperhomocysteinemia. Hum Mol Genet. 2000 Nov 22;9(19):2837-44.</reference_text>
+      <pubmed_id>11092759</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Keefe DS, Bacich DJ, Heston WD: Comparative analysis of prostate-specific membrane antigen (PSMA) versus a prostate-specific membrane antigen-like gene. Prostate. 2004 Feb 1;58(2):200-10.</reference_text>
+      <pubmed_id>14716746</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grauer LS, Lawler KD, Marignac JL, Kumar A, Goel AS, Wolfert RL: Identification, purification, and subcellular localization of prostate-specific membrane antigen PSM' protein in the LNCaP prostatic carcinoma cell line. Cancer Res. 1998 Nov 1;58(21):4787-9.</reference_text>
+      <pubmed_id>9809977</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Luthi-Carter R, Barczak AK, Speno H, Coyle JT: Hydrolysis of the neuropeptide N-acetylaspartylglutamate (NAAG) by cloned human glutamate carboxypeptidase II. Brain Res. 1998 Jun 8;795(1-2):341-8.</reference_text>
+      <pubmed_id>9622670</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rawlings ND, Barrett AJ: Structure of membrane glutamate carboxypeptidase.  Biochim Biophys Acta. 1997 May 23;1339(2):247-52.</reference_text>
+      <pubmed_id>9187245</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Speno HS, Luthi-Carter R, Macias WL, Valentine SL, Joshi AR, Coyle JT: Site-directed mutagenesis of predicted active site residues in glutamate carboxypeptidase II. Mol Pharmacol. 1999 Jan;55(1):179-85.</reference_text>
+      <pubmed_id>9882712</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang H, Li XJ, Martin DB, Aebersold R: Identification and quantification of N-linked glycoproteins using hydrazide chemistry, stable isotope labeling and mass spectrometry. Nat Biotechnol. 2003 Jun;21(6):660-6. Epub 2003 May 18.</reference_text>
+      <pubmed_id>12754519</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barinka C, Sacha P, Sklenar J, Man P, Bezouska K, Slusher BS, Konvalinka J: Identification of the N-glycosylation sites on glutamate carboxypeptidase II necessary for proteolytic activity. Protein Sci. 2004 Jun;13(6):1627-35.</reference_text>
+      <pubmed_id>15152093</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kinoshita Y, Kuratsukuri K, Landas S, Imaida K, Rovito PM Jr, Wang CY, Haas GP: Expression of prostate-specific membrane antigen in normal and malignant human tissues. World J Surg. 2006 Apr;30(4):628-36.</reference_text>
+      <pubmed_id>16555021</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sacha P, Zamecnik J, Barinka C, Hlouchova K, Vicha A, Mlcochova P, Hilgert I, Eckschlager T, Konvalinka J: Expression of glutamate carboxypeptidase II in human brain.  Neuroscience. 2007 Feb 23;144(4):1361-72. Epub 2006 Dec 5.</reference_text>
+      <pubmed_id>17150306</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mesters JR, Barinka C, Li W, Tsukamoto T, Majer P, Slusher BS, Konvalinka J, Hilgenfeld R: Structure of glutamate carboxypeptidase II, a drug target in neuronal damage and prostate cancer. EMBO J. 2006 Mar 22;25(6):1375-84. Epub 2006 Feb 9.</reference_text>
+      <pubmed_id>16467855</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mesters JR, Henning K, Hilgenfeld R: Human glutamate carboxypeptidase II inhibition: structures of GCPII in complex with two potent inhibitors, quisqualate and 2-PMPA. Acta Crystallogr D Biol Crystallogr. 2007 Apr;63(Pt 4):508-13. Epub 2007       Mar 16.</reference_text>
+      <pubmed_id>17372356</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barinka C, Rovenska M, Mlcochova P, Hlouchova K, Plechanovova A, Majer P, Tsukamoto T, Slusher BS, Konvalinka J, Lubkowski J: Structural insight into the pharmacophore pocket of human glutamate carboxypeptidase II. J Med Chem. 2007 Jul 12;50(14):3267-73. Epub 2007 Jun 14.</reference_text>
+      <pubmed_id>17567119</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barinka C, Byun Y, Dusich CL, Banerjee SR, Chen Y, Castanares M, Kozikowski AP, Mease RC, Pomper MG, Lubkowski J: Interactions between human glutamate carboxypeptidase II and urea-based inhibitors: structural characterization. J Med Chem. 2008 Dec 25;51(24):7737-43.</reference_text>
+      <pubmed_id>19053759</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barinka C, Hlouchova K, Rovenska M, Majer P, Dauter M, Hin N, Ko YS, Tsukamoto T, Slusher BS, Konvalinka J, Lubkowski J: Structural basis of interactions between human glutamate carboxypeptidase II and its substrate analogs. J Mol Biol. 2008 Mar 7;376(5):1438-50. Epub 2008 Jan 5.</reference_text>
+      <pubmed_id>18234225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Klusak V, Barinka C, Plechanovova A, Mlcochova P, Konvalinka J, Rulisek L, Lubkowski J: Reaction mechanism of glutamate carboxypeptidase II revealed by mutagenesis, X-ray crystallography, and computational methods. Biochemistry. 2009 May 19;48(19):4126-38.</reference_text>
+      <pubmed_id>19301871</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rodriguez CE, Lu H, Martinez AR, Hu Y, Brunelle A, Berkman CE: Inhibition of glutamate carboxypeptidase II by phosphonamidothionate derivatives of glutamic acid. J Enzyme Inhib. 2001 Oct;16(4):359-65.</reference_text>
+        <pubmed_id>11916141</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Davis MI, Bennett MJ, Thomas LM, Bjorkman PJ: Crystal structure of prostate-specific membrane antigen, a tumor marker and peptidase. Proc Natl Acad Sci U S A. 2005 Apr 26;102(17):5981-6. Epub 2005 Apr 18.</reference_text>
+        <pubmed_id>15837926</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Maung J, Mallari JP, Girtsman TA, Wu LY, Rowley JA, Santiago NM, Brunelle AN, Berkman CE: Probing for a hydrophobic a binding register in prostate-specific membrane antigen with phenylalkylphosphonamidates. Bioorg Med Chem. 2004 Sep 15;12(18):4969-79.</reference_text>
+        <pubmed_id>15336276</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

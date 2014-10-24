@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:02:42 -0700</creation_date>
+  <update_date>2013-01-15 19:02:42 -0700</update_date>
+  <accession>HMDBP02118</accession>
+  <secondary_accessions>
+    <accession>7600</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Activated protein C cofactor</synonym>
+    <synonym>Coagulation factor V heavy chain</synonym>
+    <synonym>Coagulation factor V light chain</synonym>
+    <synonym>Proaccelerin, labile factor</synonym>
+  </synonyms>
+  <gene_name>F5</gene_name>
+  <general_function>Involved in cell adhesion</general_function>
+  <specific_function>Central regulator of hemostasis. It serves as a critical cofactor for the prothrombinase activity of factor Xa that results in the activation of prothrombin to thrombin</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00657</accession>
+      <name>Copper</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>copper ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell adhesion</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1q23</locus>
+    <gene_sequence>&gt;6675 bp
+ATGTTCCCAGGCTGCCCACGCCTCTGGGTCCTGGTGGTCTTGGGCACCAGCTGGGTAGGC
+TGGGGGAGCCAAGGGACAGAAGCGGCACAGCTAAGGCAGTTCTACGTGGCTGCTCAGGGC
+ATCAGTTGGAGCTACCGACCTGAGCCCACAAACTCAAGTTTGAATCTTTCTGTAACTTCC
+TTTAAGAAAATTGTCTACAGAGAGTATGAACCATATTTTAAGAAAGAAAAACCACAATCT
+ACCATTTCAGGACTTCTTGGGCCTACTTTATATGCTGAAGTCGGAGACATCATAAAAGTT
+CACTTTAAAAATAAGGCAGATAAGCCCTTGAGCATCCATCCTCAAGGAATTAGGTACAGT
+AAATTATCAGAAGGTGCTTCTTACCTTGACCACACATTCCCTGCGGAGAAGATGGACGAC
+GCTGTGGCTCCAGGCCGAGAATACACCTATGAATGGAGTATCAGTGAGGACAGTGGACCC
+ACCCATGATGACCCTCCATGCCTCACACACATCTATTACTCCCATGAAAATCTGATCGAG
+GATTTCAACTCGGGGCTGATTGGGCCCCTGCTTATCTGTAAAAAAGGGACCCTAACTGAG
+GGTGGGACACAGAAGACGTTTGACAAGCAAATCGTGCTACTATTTGCTGTGTTTGATGAA
+AGCAAGAGCTGGAGCCAGTCATCATCCCTAATGTACACAGTCAATGGATATGTGAATGGG
+ACAATGCCAGATATAACAGTTTGTGCCCATGACCACATCAGCTGGCATCTGCTGGGAATG
+AGCTCGGGGCCAGAATTATTCTCCATTCATTTCAACGGCCAGGTCCTGGAGCAGAACCAT
+CATAAGGTCTCAGCCATCACCCTTGTCAGTGCTACATCCACTACCGCAAATATGACTGTG
+GGCCCAGAGGGAAAGTGGATCATATCTTCTCTCACCCCAAAACATTTGCAAGCTGGGATG
+CAGGCTTACATTGACATTAAAAACTGCCCAAAGAAAACCAGGAATCTTAAGAAAATAACT
+CGTGAGCAGAGGCGGCACATGAAGAGGTGGGAATACTTCATTGCTGCAGAGGAAGTCATT
+TGGGACTATGCACCTGTAATACCAGCGAATATGGACAAAAAATACAGGTCTCAGCATTTG
+GATAATTTCTCAAACCAAATTGGAAAACATTATAAGAAAGTTATGTACACACAGTACGAA
+GATGAGTCCTTCACCAAACATACAGTGAATCCCAATATGAAAGAAGATGGGATTTTGGGT
+CCTATTATCAGAGCCCAGGTCAGAGACACACTCAAAATCGTGTTCAAAAATATGGCCAGC
+CGCCCCTATAGCATTTACCCTCATGGAGTGACCTTCTCGCCTTATGAAGATGAAGTCAAC
+TCTTCTTTCACCTCAGGCAGGAACAACACCATGATCAGAGCAGTTCAACCAGGGGAAACC
+TATACTTATAAGTGGAACATCTTAGAGTTTGATGAACCCACAGAAAATGATGCCCAGTGC
+TTAACAAGACCATACTACAGTGACGTGGACATCATGAGAGACATCGCCTCTGGGCTAATA
+GGACTACTTCTAATCTGTAAGAGCAGATCCCTGGACAGGCGAGGAATACAGAGGGCAGCA
+GACATCGAACAGCAGGCTGTGTTTGCTGTGTTTGATGAGAACAAAAGCTGGTACCTTGAG
+GACAACATCAACAAGTTTTGTGAAAATCCTGATGAGGTGAAACGTGATGACCCCAAGTTT
+TATGAATCAAACATCATGAGCACTATCAATGGCTATGTGCCTGAGAGCATAACTACTCTT
+GGATTCTGCTTTGATGACACTGTCCAGTGGCACTTCTGTAGTGTGGGGACCCAGAATGAA
+ATTTTGACCATCCACTTCACTGGGCACTCATTCATCTATGGAAAGAGGCATGAGGACACC
+TTGACCCTCTTCCCCATGCGTGGAGAATCTGTGACGGTCACAATGGATAATGTTGGAACT
+TGGATGTTAACTTCCATGAATTCTAGTCCAAGAAGCAAAAAGCTGAGGCTGAAATTCAGG
+GATGTTAAATGTATCCCAGATGATGATGAAGACTCATATGAGATTTTTGAACCTCCAGAA
+TCTACAGTCATGGCTACACGGAAAATGCATGATCGTTTAGAACCTGAAGATGAAGAGAGT
+GATGCTGACTATGATTACCAGAACAGACTGGCTGCAGCATTAGGAATTAGGTCATTCCGA
+AACTCATCATTGAACCAGGAAGAAGAAGAGTTCAATCTTACTGCCCTAGCTCTGGAGAAT
+GGCACTGAATTCGTTTCTTCGAACACAGATATAATTGTTGGTTCAAATTATTCTTCCCCA
+AGTAATATTAGTAAGTTCACTGTCAATAACCTTGCAGAACCTCAGAAAGCCCCTTCTCAC
+CAACAAGCCACCACAGCTGGTTCCCCACTGAGACACCTCATTGGCAAGAACTCAGTTCTC
+AATTCTTCCACAGCAGAGCATTCCAGCCCATATTCTGAAGACCCTATAGAGGATCCTCTA
+CAGCCAGATGTCACAGGGATACGTCTACTTTCACTTGGTGCTGGAGAATTCAGAAGTCAA
+GAACATGCTAAGCGTAAGGGACCCAAGGTAGAAAGAGATCAAGCAGCAAAGCACAGGTTC
+TCCTGGATGAAATTACTAGCACATAAAGTTGGGAGACACCTAAGCCAAGACACTGGTTCT
+CCTTCCGGAATGAGGCCCTGGGAGGACCTTCCTAGCCAAGACACTGGTTCTCCTTCCAGA
+ATGAGGCCCTGGGAGGACCCTCCTAGTGATCTGTTACTCTTAAAACAAAGTAACTCATCT
+AAGATTTTGGTTGGGAGATGGCATTTGGCTTCTGAGAAAGGTAGCTATGAAATAATCCAA
+GATACTGATGAAGACACAGCTGTTAACAATTGGCTGATCAGCCCCCAGAATGCCTCACGT
+GCTTGGGGAGAAAGCACCCCTCTTGCCAACAAGCCTGGAAAGCAGAGTGGCCACCCAAAG
+TTTCCTAGAGTTAGACATAAATCTCTACAAGTAAGACAGGATGGAGGAAAGAGTAGACTG
+AAGAAAAGCCAGTTTCTCATTAAGACACGAAAAAAGAAAAAAGAGAAGCACACACACCAT
+GCTCCTTTATCTCCGAGGACCTTTCACCCTCTAAGAAGTGAAGCCTACAACACATTTTCA
+GAAAGAAGACTTAAGCATTCGTTGGTGCTTCATAAATCCAATGAAACATCTCTTCCCACA
+GACCTCAATCAGACATTGCCCTCTATGGATTTTGGCTGGATAGCCTCACTTCCTGACCAT
+AATCAGAATTCCTCAAATGACACTGGTCAGGCAAGCTGTCCTCCAGGTCTTTATCAGACA
+GTGCCCCCAGAGGAACACTATCAAACATTCCCCATTCAAGACCCTGATCAAATGCACTCT
+ACTTCAGACCCCAGTCACAGATCCTCTTCTCCAGAGCTCAGTGAAATGCTTGAGTATGAC
+CGAAGTCACAAGTCCTTCCCCACAGATATAAGTCAAATGTCCCCTTCCTCAGAACATGAA
+GTCTGGCAGACAGTCATCTCTCCAGACCTCAGCCAGGTGACCCTCTCTCCAGAACTCAGC
+CAGACAAACCTCTCTCCAGACCTCAGCCACACGACTCTCTCTCCAGAACTCATTCAGAGA
+AACCTTTCCCCAGCCCTCGGTCAGATGCCCATTTCTCCAGACCTCAGCCATACAACCCTT
+TCTCCAGACCTCAGCCATACAACCCTTTCTTTAGACCTCAGCCAGACAAACCTCTCTCCA
+GAACTCAGTCAGACAAACCTTTCCCCAGCCCTCGGTCAGATGCCCCTTTCTCCAGACCTC
+AGCCATACAACCCTTTCTCTAGACTTCAGCCAGACAAACCTCTCTCCAGAACTCAGCCAT
+ATGACTCTCTCTCCAGAACTCAGTCAGACAAACCTTTCCCCAGCCCTTGGTCAGATGCCC
+ATTTCTCCAGACCTCAGCCATACAACCCTTTCTCTAGACTTCAGCCAGACAAACCTCTCT
+CCAGAACTCAGTCAAACAAACCTTTCCCCAGCCCTCGGTCAGATGCCCCTTTCTCCAGAC
+CCCAGCCATACAACCCTTTCTCTAGACCTCAGCCAGACAAACCTCTCTCCAGAACTCAGT
+CAGACAAACCTTTCCCCAGACCTCAGTGAGATGCCCCTCTTTGCAGATCTCAGTCAAATT
+CCCCTTACCCCAGACCTCGACCAGATGACACTTTCTCCAGACCTTGGTGAGACAGATCTT
+TCCCCAAACTTTGGTCAGATGTCCCTTTCCCCAGACCTCAGCCAGGTGACTCTCTCTCCA
+GACATCAGTGACACCACCCTTCTCCCGGATCTCAGCCAGATATCACCTCCTCCAGACCTT
+GATCAGATATTCTACCCTTCTGAATCTAGTCAGTCATTGCTTCTTCAAGAATTTAATGAG
+TCTTTTCCTTATCCAGACCTTGGTCAGATGCCATCTCCTTCATCTCCTACTCTCAATGAT
+ACTTTTCTATCAAAGGAATTTAATCCACTGGTTATAGTGGGCCTCAGTAAAGATGGTACA
+GATTACATTGAGATCATTCCAAAGGAAGAGGTCCAGAGCAGTGAAGATGACTATGCTGAA
+ATTGATTATGTGCCCTATGATGACCCCTACAAAACTGATGTTAGGACAAACATCAACTCC
+TCCAGAGATCCTGACAACATTGCAGCATGGTACCTCCGCAGCAACAATGGAAACAGAAGA
+AATTATTACATTGCTGCTGAAGAAATATCCTGGGATTATTCAGAATTTGTACAAAGGGAA
+ACAGATATTGAAGACTCTGATGATATTCCAGAAGATACCACATATAAGAAAGTAGTTTTT
+CGAAAGTACCTCGACAGCACTTTTACCAAACGTGATCCTCGAGGGGAGTATGAAGAGCAT
+CTCGGAATTCTTGGTCCTATTATCAGAGCTGAAGTGGATGATGTTATCCAAGTTCGTTTT
+AAAAATTTAGCATCCAGACCGTATTCTCTACATGCCCATGGACTTTCCTATGAAAAATCA
+TCAGAGGGAAAGACTTATGAAGATGACTCTCCTGAATGGTTTAAGGAAGATAATGCTGTT
+CAGCCAAATAGCAGTTATACCTACGTATGGCATGCCACTGAGCGATCAGGGCCAGAAAGT
+CCTGGCTCTGCCTGTCGGGCTTGGGCCTACTACTCAGCTGTGAACCCAGAAAAAGATATT
+CACTCAGGCTTGATAGGTCCCCTCCTAATCTGCCAAAAAGGAATACTACATAAGGACAGC
+AACATGCCTGTGGACATGAGAGAATTTGTCTTACTATTTATGACCTTTGATGAAAAGAAG
+AGCTGGTACTATGAAAAGAAGTCCCGAAGTTCTTGGAGACTCACATCCTCAGAAATGAAA
+AAATCCCATGAGTTTCACGCCATTAATGGGATGATCTACAGCTTGCCTGGCCTGAAAATG
+TATGAGCAAGAGTGGGTGAGGTTACACCTGCTGAACATAGGCGGCTCCCAAGACATTCAC
+GTGGTTCACTTTCACGGCCAGACCTTGCTGGAAAATGGCAATAAACAGCACCAGTTAGGG
+GTCTGGCCCCTTCTGCCTGGTTCATTTAAAACTCTTGAAATGAAGGCATCAAAACCTGGC
+TGGTGGCTCCTAAACACAGAGGTTGGAGAAAACCAGAGAGCAGGGATGCAAACGCCATTT
+CTTATCATGGACAGAGACTGTAGGATGCCAATGGGACTAAGCACTGGTATCATATCTGAT
+TCACAGATCAAGGCTTCAGAGTTTCTGGGTTACTGGGAGCCCAGATTAGCAAGATTAAAC
+AATGGTGGATCTTATAATGCTTGGAGTGTAGAAAAACTTGCAGCAGAATTTGCCTCTAAA
+CCTTGGATCCAGGTGGACATGCAAAAGGAAGTCATAATCACAGGGATCCAGACCCAAGGT
+GCCAAACACTACCTGAAGTCCTGCTATACCACAGAGTTCTATGTAGCTTACAGTTCCAAC
+CAGATCAACTGGCAGATCTTCAAAGGGAACAGCACAAGGAATGTGATGTATTTTAATGGC
+AATTCAGATGCCTCTACAATAAAAGAGAATCAGTTTGACCCACCTATTGTGGCTAGATAT
+ATTAGGATCTCTCCAACTCGAGCCTATAACAGACCTACCCTTCGATTGGAACTGCAAGGT
+TGTGAGGTAAATGGATGTTCCACACCCCTGGGTATGGAAAATGGAAAGATAGAAAACAAG
+CAAATCACAGCTTCTTCGTTTAAGAAATCTTGGTGGGGAGATTACTGGGAACCCTTCCGT
+GCCCGTCTGAATGCCCAGGGACGTGTGAATGCCTGGCAAGCCAAGGCAAACAACAATAAG
+CAGTGGCTAGAAATTGATCTACTCAAGATCAAGAAGATAACGGCAATTATAACACAGGGC
+TGCAAGTCTCTGTCCTCTGAAATGTATGTAAAGAGCTATACCATCCACTACAGTGAGCAG
+GGAGTGGAATGGAAACCATACAGGCTGAAATCCTCCATGGTGGACAAGATTTTTGAAGGA
+AATACTAATACCAAAGGACATGTGAAGAACTTTTTCAACCCCCCAATCATTTCCAGGTTT
+ATCCGTGTCATTCCTAAAACATGGAATCAAAGTATTACACTTCGCCTGGAACTCTTTGGC
+TGTGATATTTACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2224</residue_number>
+    <molecular_weight>251701.2</molecular_weight>
+    <theoretical_pi>5.95</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Cu-oxidase_3</name>
+        <pfam_id>PF07732</pfam_id>
+      </pfam>
+      <pfam>
+        <name>F5_F8_type_C</name>
+        <pfam_id>PF00754</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-28</region>
+    </signal_regions>
+    <protein_sequence>&gt;Coagulation factor V
+MFPGCPRLWVLVVLGTSWVGWGSQGTEAAQLRQFYVAAQGISWSYRPEPTNSSLNLSVTS
+FKKIVYREYEPYFKKEKPQSTISGLLGPTLYAEVGDIIKVHFKNKADKPLSIHPQGIRYS
+KLSEGASYLDHTFPAEKMDDAVAPGREYTYEWSISEDSGPTHDDPPCLTHIYYSHENLIE
+DFNSGLIGPLLICKKGTLTEGGTQKTFDKQIVLLFAVFDESKSWSQSSSLMYTVNGYVNG
+TMPDITVCAHDHISWHLLGMSSGPELFSIHFNGQVLEQNHHKVSAITLVSATSTTANMTV
+GPEGKWIISSLTPKHLQAGMQAYIDIKNCPKKTRNLKKITREQRRHMKRWEYFIAAEEVI
+WDYAPVIPANMDKKYRSQHLDNFSNQIGKHYKKVMYTQYEDESFTKHTVNPNMKEDGILG
+PIIRAQVRDTLKIVFKNMASRPYSIYPHGVTFSPYEDEVNSSFTSGRNNTMIRAVQPGET
+YTYKWNILEFDEPTENDAQCLTRPYYSDVDIMRDIASGLIGLLLICKSRSLDRRGIQRAA
+DIEQQAVFAVFDENKSWYLEDNINKFCENPDEVKRDDPKFYESNIMSTINGYVPESITTL
+GFCFDDTVQWHFCSVGTQNEILTIHFTGHSFIYGKRHEDTLTLFPMRGESVTVTMDNVGT
+WMLTSMNSSPRSKKLRLKFRDVKCIPDDDEDSYEIFEPPESTVMATRKMHDRLEPEDEES
+DADYDYQNRLAAALGIRSFRNSSLNQEEEEFNLTALALENGTEFVSSNTDIIVGSNYSSP
+SNISKFTVNNLAEPQKAPSHQQATTAGSPLRHLIGKNSVLNSSTAEHSSPYSEDPIEDPL
+QPDVTGIRLLSLGAGEFKSQEHAKHKGPKVERDQAAKHRFSWMKLLAHKVGRHLSQDTGS
+PSGMRPWEDLPSQDTGSPSRMRPWKDPPSDLLLLKQSNSSKILVGRWHLASEKGSYEIIQ
+DTDEDTAVNNWLISPQNASRAWGESTPLANKPGKQSGHPKFPRVRHKSLQVRQDGGKSRL
+KKSQFLIKTRKKKKEKHTHHAPLSPRTFHPLRSEAYNTFSERRLKHSLVLHKSNETSLPT
+DLNQTLPSMDFGWIASLPDHNQNSSNDTGQASCPPGLYQTVPPEEHYQTFPIQDPDQMHS
+TSDPSHRSSSPELSEMLEYDRSHKSFPTDISQMSPSSEHEVWQTVISPDLSQVTLSPELS
+QTNLSPDLSHTTLSPELIQRNLSPALGQMPISPDLSHTTLSPDLSHTTLSLDLSQTNLSP
+ELSQTNLSPALGQMPLSPDLSHTTLSLDFSQTNLSPELSHMTLSPELSQTNLSPALGQMP
+ISPDLSHTTLSLDFSQTNLSPELSQTNLSPALGQMPLSPDPSHTTLSLDLSQTNLSPELS
+QTNLSPDLSEMPLFADLSQIPLTPDLDQMTLSPDLGETDLSPNFGQMSLSPDLSQVTLSP
+DISDTTLLPDLSQISPPPDLDQIFYPSESSQSLLLQEFNESFPYPDLGQMPSPSSPTLND
+TFLSKEFNPLVIVGLSKDGTDYIEIIPKEEVQSSEDDYAEIDYVPYDDPYKTDVRTNINS
+SRDPDNIAAWYLRSNNGNRRNYYIAAEEISWDYSEFVQRETDIEDSDDIPEDTTYKKVVF
+RKYLDSTFTKRDPRGEYEEHLGILGPIIRAEVDDVIQVRFKNLASRPYSLHAHGLSYEKS
+SEGKTYEDDSPEWFKEDNAVQPNSSYTYVWHATERSGPESPGSACRAWAYYSAVNPEKDI
+HSGLIGPLLICQKGILHKDSNMPMDMREFVLLFMTFDEKKSWYYEKKSRSSWRLTSSEMK
+KSHEFHAINGMIYSLPGLKMYEQEWVRLHLLNIGGSQDIHVVHFHGQTLLENGNKQHQLG
+VWPLLPGSFKTLEMKASKPGWWLLNTEVGENQRAGMQTPFLIMDRDCRMPMGLSTGIISD
+SQIKASEFLGYWEPRLARLNNGGSYNAWSVEKLAAEFASKPWIQVDMQKEVIITGIQTQG
+AKHYLKSCYTTEFYVAYSSNQINWQIFKGNSTRNVMYFNGNSDASTIKENQFDPPIVARY
+IRISPTRAYNRPTLRLELQGCEVNGCSTPLGMENGKIENKQITASSFKKSWWGDYWEPFR
+ARLNAQGRVNAWQAKANNNKQWLEIDLLKIKKITAIITQGCKSLSSEMYVKSYTIHYSEQ
+GVEWKPYRLKSSMVDKIFEGNTNTKGHVKNFFNPPIISRFIRVIPKTWNQSIALRLELFG
+CDIY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>182412</genbank_protein_id>
+  <uniprot_id>P12259</uniprot_id>
+  <uniprot_name>FA5_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M16967</genbank_gene_id>
+  <genecard_id>F5</genecard_id>
+  <geneatlas_id>F5</geneatlas_id>
+  <hgnc_id>HGNC:3542</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Jenny RJ, Pittman DD, Toole JJ, Kriz RW, Aldape RA, Hewick RM, Kaufman RJ, Mann KG: Complete cDNA and derived amino acid sequence of human factor V.  Proc Natl Acad Sci U S A. 1987 Jul;84(14):4846-50.</reference_text>
+      <pubmed_id>3110773</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cripe LD, Moore KD, Kane WH: Structure of the gene for human coagulation factor V.  Biochemistry. 1992 Apr 21;31(15):3777-85.</reference_text>
+      <pubmed_id>1567832</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kane WH, Ichinose A, Hagen FS, Davie EW: Cloning of cDNAs coding for the heavy chain region and connecting region of human factor V, a blood coagulation factor with four types of internal repeats. Biochemistry. 1987 Oct 6;26(20):6508-14.</reference_text>
+      <pubmed_id>2827731</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xie F, Cheng F, Zhu X: [Studies on hereditary deficiency of coagulation factor V]  Zhonghua Xue Ye Xue Za Zhi. 2001 Sep;22(9):453-6.</reference_text>
+      <pubmed_id>11758222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kane WH, Davie EW: Cloning of a cDNA coding for human factor V, a blood coagulation factor homologous to factor VIII and ceruloplasmin. Proc Natl Acad Sci U S A. 1986 Sep;83(18):6800-4.</reference_text>
+      <pubmed_id>3092220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shen NL, Fan ST, Pyati J, Graff R, LaPolla RJ, Edgington TS: The serine protease cofactor factor V is synthesized by lymphocytes.  J Immunol. 1993 Apr 1;150(7):2992-3001.</reference_text>
+      <pubmed_id>8454869</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mann KG, Lawler CM, Vehar GA, Church WR: Coagulation Factor V contains copper ion.  J Biol Chem. 1984 Nov 10;259(21):12949-51.</reference_text>
+      <pubmed_id>6490642</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pittman DD, Tomkinson KN, Michnick D, Selighsohn U, Kaufman RJ: Posttranslational sulfation of factor V is required for efficient thrombin cleavage and activation and for full procoagulant activity. Biochemistry. 1994 Jun 7;33(22):6952-9.</reference_text>
+      <pubmed_id>8204629</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hortin GL: Sulfation of tyrosine residues in coagulation factor V.  Blood. 1990 Sep 1;76(5):946-52.</reference_text>
+      <pubmed_id>2168225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kalafatis M, Rand MD, Mann KG: The mechanism of inactivation of human factor V and human factor Va by activated protein C. J Biol Chem. 1994 Dec 16;269(50):31869-80.</reference_text>
+      <pubmed_id>7989361</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lewandrowski U, Moebius J, Walter U, Sickmann A: Elucidation of N-glycosylation sites on human platelet proteins: a glycoproteomic approach. Mol Cell Proteomics. 2006 Feb;5(2):226-33. Epub 2005 Oct 31.</reference_text>
+      <pubmed_id>16263699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zahedi RP, Lewandrowski U, Wiesner J, Wortelkamp S, Moebius J, Schutz C, Walter U, Gambaryan S, Sickmann A: Phosphoproteome of resting human platelets.  J Proteome Res. 2008 Feb;7(2):526-34. Epub 2007 Dec 19.</reference_text>
+      <pubmed_id>18088087</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhou W, Ross MM, Tessitore A, Ornstein D, Vanmeter A, Liotta LA, Petricoin EF 3rd: An initial characterization of the serum phosphoproteome.  J Proteome Res. 2009 Dec;8(12):5523-31.</reference_text>
+      <pubmed_id>19824718</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Macedo-Ribeiro S, Bode W, Huber R, Quinn-Allen MA, Kim SW, Ortel TL, Bourenkov GP, Bartunik HD, Stubbs MT, Kane WH, Fuentes-Prior P: Crystal structures of the membrane-binding C2 domain of human coagulation factor V. Nature. 1999 Nov 25;402(6760):434-9.</reference_text>
+      <pubmed_id>10586886</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bayston TA, Ireland H, Olds RJ, Thein SL, Lane DA: A polymorphism in the human coagulation factor V gene.  Hum Mol Genet. 1994 Nov;3(11):2085.</reference_text>
+      <pubmed_id>7874144</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bertina RM, Koeleman BP, Koster T, Rosendaal FR, Dirven RJ, de Ronde H, van der Velden PA, Reitsma PH: Mutation in blood coagulation factor V associated with resistance to activated protein C. Nature. 1994 May 5;369(6475):64-7.</reference_text>
+      <pubmed_id>8164741</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lunghi B, Iacoviello L, Gemmati D, Dilasio MG, Castoldi E, Pinotti M, Castaman G, Redaelli R, Mariani G, Marchetti G, Bernardi F: Detection of new polymorphic markers in the factor V gene: association with factor V levels in plasma. Thromb Haemost. 1996 Jan;75(1):45-8.</reference_text>
+      <pubmed_id>8713778</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mahmoud AE, Elias E, Beauchamp N, Wilde JT: Prevalence of the factor V Leiden mutation in hepatic and portal vein thrombosis. Gut. 1997 Jun;40(6):798-800.</reference_text>
+      <pubmed_id>9245936</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chan WP, Lee CK, Kwong YL, Lam CK, Liang R: A novel mutation of Arg306 of factor V gene in Hong Kong Chinese.  Blood. 1998 Feb 15;91(4):1135-9.</reference_text>
+      <pubmed_id>9454741</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Williamson D, Brown K, Luddington R, Baglin C, Baglin T: Factor V Cambridge: a new mutation (Arg306--&amp;gt;Thr) associated with resistance to activated protein C. Blood. 1998 Feb 15;91(4):1140-4.</reference_text>
+      <pubmed_id>9454742</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liang R, Lee CK, Wat MS, Kwong YL, Lam CK, Liu HW: Clinical significance of Arg306 mutations of factor V gene.  Blood. 1998 Oct 1;92(7):2599-600.</reference_text>
+      <pubmed_id>9746807</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cargill M, Altshuler D, Ireland J, Sklar P, Ardlie K, Patil N, Shaw N, Lane CR, Lim EP, Kalyanaraman N, Nemesh J, Ziaugra L, Friedland L, Rolfe A, Warrington J, Lipshutz R, Daley GQ, Lander ES: Characterization of single-nucleotide polymorphisms in coding regions of human genes. Nat Genet. 1999 Jul;22(3):231-8.</reference_text>
+      <pubmed_id>10391209</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Castoldi E, Simioni P, Kalafatis M, Lunghi B, Tormene D, Girelli D, Girolami A, Bernardi F: Combinations of 4 mutations (FV R506Q, FV H1299R, FV Y1702C, PT 20210G/A) affecting the prothrombinase complex in a thrombophilic family. Blood. 2000 Aug 15;96(4):1443-8.</reference_text>
+      <pubmed_id>10942390</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Wijk R, Nieuwenhuis K, van den Berg M, Huizinga EG, van der Meijden BB, Kraaijenhagen RJ, van Solinge WW: Five novel mutations in the gene for human blood coagulation factor V associated with type I factor V deficiency. Blood. 2001 Jul 15;98(2):358-67.</reference_text>
+      <pubmed_id>11435304</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schrijver I, Houissa-Kastally R, Jones CD, Garcia KC, Zehnder JL: Novel factor V C2-domain mutation (R2074H) in two families with factor V deficiency and bleeding. Thromb Haemost. 2002 Feb;87(2):294-9.</reference_text>
+      <pubmed_id>11858490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Duga S, Montefusco MC, Asselta R, Malcovati M, Peyvandi F, Santagostino E, Mannucci PM, Tenchini ML: Arg2074Cys missense mutation in the C2 domain of factor V causing moderately severe factor V deficiency: molecular characterization by expression of the recombinant protein. Blood. 2003 Jan 1;101(1):173-7. Epub 2002 Aug 15.</reference_text>
+      <pubmed_id>12393490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mumford AD, McVey JH, Morse CV, Gomez K, Steen M, Norstrom EA, Tuddenham EG, Dahlback B, Bolton-Maggs PH: Factor V I359T: a novel mutation associated with thrombosis and resistance to activated protein C. Br J Haematol. 2003 Nov;123(3):496-501.</reference_text>
+      <pubmed_id>14617013</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Casas JP, Hingorani AD, Bautista LE, Sharma P: Meta-analysis of genetic studies in ischemic stroke: thirty-two genes involving approximately 18,000 cases and 58,000 controls. Arch Neurol. 2004 Nov;61(11):1652-61.</reference_text>
+      <pubmed_id>15534175</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Steen M, Norstrom EA, Tholander AL, Bolton-Maggs PH, Mumford A, McVey JH, Tuddenham EG, Dahlback B: Functional characterization of factor V-Ile359Thr: a novel mutation associated with thrombosis. Blood. 2004 May 1;103(9):3381-7. Epub 2003 Dec 24.</reference_text>
+      <pubmed_id>14695241</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

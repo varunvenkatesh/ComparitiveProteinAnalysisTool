@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:03:24 -0700</creation_date>
+  <update_date>2013-01-15 20:03:24 -0700</update_date>
+  <accession>HMDBP07856</accession>
+  <secondary_accessions>
+    <accession>13566</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>K-OR-1</synonym>
+    <synonym>KOR-1</synonym>
+  </synonyms>
+  <gene_name>OPRK1</gene_name>
+  <general_function>Involved in G-protein coupled receptor protein signaling pathway</general_function>
+  <specific_function>Inhibits neurotransmitter release by reducing calcium ion currents and increasing potassium ion conductance. Receptor for dynorphins. May play a role in arousal and regulation of autonomic and neuroendocrine functions</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04995</accession>
+      <name>Codeine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14339</accession>
+      <name>Tramadol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14440</accession>
+      <name>Morphine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14514</accession>
+      <name>Mirtazapine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14597</accession>
+      <name>Meperidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14640</accession>
+      <name>Oxycodone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14749</accession>
+      <name>Butorphanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14785</accession>
+      <name>Propoxyphene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14790</accession>
+      <name>Pentazocine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14842</accession>
+      <name>Naltrexone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14846</accession>
+      <name>Sufentanil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14951</accession>
+      <name>Fentanyl</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03352</accession>
+      <name>Menthol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14982</accession>
+      <name>Nalbuphine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14992</accession>
+      <name>Levorphanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15036</accession>
+      <name>Remifentanil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15314</accession>
+      <name>Naloxone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15340</accession>
+      <name>Dezocine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15631</accession>
+      <name>Alvimopan</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptide receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptide receptor activity, g-protein coupled</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>opioid receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kappa-opioid receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell surface receptor linked signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>g-protein coupled receptor protein signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:8</chromosome_location>
+    <locus>8q11.2</locus>
+    <gene_sequence>&gt;1143 bp
+ATGGAATCCCCGATTCAGATCTTCCGCGGGGAGCCGGGCCCTACCTGCGCCCCGAGCGCC
+TGCCTGCCCCCCAACAGCAGCGCCTGGTTTCCCGGCTGGGCCGAGCCCGACAGCAACGGC
+AGCGCCGGCTCGGAGGACGCGCAGCTGGAGCCCGCGCACATCTCCCCGGCCATCCCGGTC
+ATCATCACGGCGGTCTACTCCGTAGTGTTCGTCGTGGGCTTGGTGGGCAACTCGCTGGTC
+ATGTTCGTGATCATCCGATACACAAAGATGAAGACAGCAACCAACATTTACATATTTAAC
+CTGGCTTTGGCAGATGCTTTAGTTACTACAACCATGCCCTTTCAGAGTACGGTCTACTTG
+ATGAATTCCTGGCCTTTTGGGGATGTGCTGTGCAAGATAGTAATTTCCATTGATTACTAC
+AACATGTTCACCAGCATCTTCACCTTGACCATGATGAGCGTGGACCGCTACATTGCCGTG
+TGCCACCCCGTGAAGGCTTTGGACTTCCGCACACCCTTGAAGGCAAAGATCATCAATATC
+TGCATCTGGCTGCTGTCGTCATCTGTTGGCATCTCTGCAATAGTCCTTGGAGGCACCAAA
+GTCAGGGAAGACGTCGATGTCATTGAGTGCTCCTTGCAGTTCCCAGATGATGACTACTCC
+TGGTGGGACCTCTTCATGAAGATCTGCGTCTTCATCTTTGCCTTCGTGATCCCTGTCCTC
+ATCATCATCGTCTGCTACACCCTGATGATCCTGCGTCTCAAGAGCGTCCGGCTCCTTTCT
+GGCTCCCGAGAGAAAGATCGCAACCTGCGTAGGATCACCAGACTGGTCCTGGTGGTGGTG
+GCAGTCTTCGTCGTCTGCTGGACTCCCATTCACATATTCATCCTGGTGGAGGCTCTGGGG
+AGCACCTCCCACAGCACAGCTGCTCTCTCCAGCTATTACTTCTGCATCGCCTTAGGCTAT
+ACCAACAGTAGCCTGAATCCCATTCTCTACGCCTTTCTTGATGAAAACTTCAAGCGGTGT
+TTCCGGGACTTCTGCTTTCCACTGAAGATGAGGATGGAGCGGCAGAGCACTAGCAGAGTC
+CGAAATACAGTTCAGGATCCTGCTTACCTGAGGGACATCGATGGGATGAATAAACCAGTA
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>380</residue_number>
+    <molecular_weight>42644.7</molecular_weight>
+    <theoretical_pi>7.79</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>7tm_1</name>
+        <pfam_id>PF00001</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>59-85</region>
+      <region>96-117</region>
+      <region>133-154</region>
+      <region>174-196</region>
+      <region>223-247</region>
+      <region>276-299</region>
+      <region>312-333</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Kappa-type opioid receptor
+MDSPIQIFRGEPGPTCAPSACLPPNSSAWFPGWAEPDSNGSAGSEDAQLEPAHISPAIPV
+IITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNLALADALVTTTMPFQSTVYL
+MNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIAVCHPVKALDFRTPLKAKIINI
+CIWLLSSSVGISAIVLGGTKVREDVDVIECSLQFPDDDYSWWDLFMKICVFIFAFVIPVL
+IIIVCYTLMILRLKSVRLLSGSREKDRNLRRITRLVLVVVAVFVVCWTPIHIFILVEALG
+STSHSTAALSSYYFCIALGYTNSSLNPILYAFLDENFKRCFRDFCFPLKMRMERQSTSRV
+RNTVQDPAYLRDIDGMNKPV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>20379020</genbank_protein_id>
+  <uniprot_id>P41145</uniprot_id>
+  <uniprot_name>OPRK_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF498922</genbank_gene_id>
+  <genecard_id>OPRK1</genecard_id>
+  <geneatlas_id>OPRK1</geneatlas_id>
+  <hgnc_id>HGNC:8154</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mansson E, Bare L, Yang D: Isolation of a human kappa opioid receptor cDNA from placenta.  Biochem Biophys Res Commun. 1994 Aug 15;202(3):1431-7.</reference_text>
+      <pubmed_id>8060324</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simonin F, Gaveriaux-Ruff C, Befort K, Matthes H, Lannes B, Micheletti G, Mattei MG, Charron G, Bloch B, Kieffer B: kappa-Opioid receptor in humans: cDNA and genomic cloning, chromosomal assignment, functional expression, pharmacology, and expression pattern in the central nervous system. Proc Natl Acad Sci U S A. 1995 Jul 18;92(15):7006-10.</reference_text>
+      <pubmed_id>7624359</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhu J, Chen C, Xue JC, Kunapuli S, DeRiel JK, Liu-Chen LY: Cloning of a human kappa opioid receptor from the brain.  Life Sci. 1995;56(9):PL201-7.</reference_text>
+      <pubmed_id>7869844</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang JB, Johnson PS, Wu JM, Wang WF, Uhl GR: Human kappa opiate receptor second extracellular loop elevates dynorphin's affinity for human mu/kappa chimeras. J Biol Chem. 1994 Oct 21;269(42):25966-9.</reference_text>
+      <pubmed_id>7929306</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li JG, Chen C, Liu-Chen LY: Ezrin-radixin-moesin-binding phosphoprotein-50/Na+/H+ exchanger regulatory factor (EBP50/NHERF) blocks U50,488H-induced down-regulation of the human kappa opioid receptor by enhancing its recycling rate. J Biol Chem. 2002 Jul 26;277(30):27545-52. Epub 2002 May 9.</reference_text>
+      <pubmed_id>12004055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen C, Li JG, Chen Y, Huang P, Wang Y, Liu-Chen LY: GEC1 interacts with the kappa opioid receptor and enhances expression of the receptor. J Biol Chem. 2006 Mar 24;281(12):7983-93. Epub 2006 Jan 23.</reference_text>
+      <pubmed_id>16431922</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li JG, Chen C, Liu-Chen LY: N-Glycosylation of the human kappa opioid receptor enhances its stability but slows its trafficking along the biosynthesis pathway. Biochemistry. 2007 Sep 25;46(38):10960-70. Epub 2007 Aug 21.</reference_text>
+      <pubmed_id>17711303</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Codeine</name>
+        <accession>HMDB04995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Codeine</name>
+        <accession>HMDB04995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Codeine</name>
+        <accession>HMDB04995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takahama K, Shirasaki T: Central and peripheral mechanisms of narcotic antitussives: codeine-sensitive and -resistant coughs. Cough. 2007 Jul 9;3:8.</reference_text>
+        <pubmed_id>17620111</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Codeine</name>
+        <accession>HMDB04995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mignat C, Wille U, Ziegler A: Affinity profiles of morphine, codeine, dihydrocodeine and their glucuronides at opioid receptor subtypes. Life Sci. 1995;56(10):793-9.</reference_text>
+        <pubmed_id>7885194</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tramadol</name>
+        <accession>HMDB14339</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sun HL, Zheng JW, Wang K, Liu RK, Liang JH: Tramadol reduces the 5-HTP-induced head-twitch response in mice via the activation of mu and kappa opioid receptors. Life Sci. 2003 Jan 31;72(11):1221-30.</reference_text>
+        <pubmed_id>12570923</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Morphine</name>
+        <accession>HMDB14440</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Morphine</name>
+        <accession>HMDB14440</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Morphine</name>
+        <accession>HMDB14440</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leventhal L, Silva RM, Rossi GC, Pasternak GW, Bodnar RJ: Morphine-6beta-glucuronide-induced hyperphagia: characterization of opioid action by selective antagonists and antisense mapping in rats. J Pharmacol Exp Ther. 1998 Nov;287(2):538-44.</reference_text>
+        <pubmed_id>9808678</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Morphine</name>
+        <accession>HMDB14440</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kozak CA, Filie J, Adamson MC, Chen Y, Yu L: Murine chromosomal location of the mu and kappa opioid receptor genes.  Genomics. 1994 Jun;21(3):659-61.</reference_text>
+        <pubmed_id>7959748</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Morphine</name>
+        <accession>HMDB14440</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Teodorov E, Modena CC, Sukikara MH, Felicio LF: Preliminary study of the effects of morphine treatment on opioid receptor gene expression in brain structures of the female rat. Neuroscience. 2006 Sep 1;141(3):1225-31. Epub 2006 Jun 6.</reference_text>
+        <pubmed_id>16753266</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mirtazapine</name>
+        <accession>HMDB14514</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schreiber S, Rigai T, Katz Y, Pick CG: The antinociceptive effect of mirtazapine in mice is mediated through serotonergic, noradrenergic and opioid mechanisms. Brain Res Bull. 2002 Sep 30;58(6):601-5.</reference_text>
+        <pubmed_id>12372565</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Meperidine</name>
+        <accession>HMDB14597</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Meperidine</name>
+        <accession>HMDB14597</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxycodone</name>
+        <accession>HMDB14640</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ordonez Gallego A, Gonzalez Baron M, Espinosa Arranz E: Oxycodone: a pharmacological and clinical review.  Clin Transl Oncol. 2007 May;9(5):298-307.</reference_text>
+        <pubmed_id>17525040</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxycodone</name>
+        <accession>HMDB14640</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Riley J, Eisenberg E, Muller-Schwefe G, Drewes AM, Arendt-Nielsen L: Oxycodone: a review of its use in the management of pain.  Curr Med Res Opin. 2008 Jan;24(1):175-92.</reference_text>
+        <pubmed_id>18039433</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxycodone</name>
+        <accession>HMDB14640</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nielsen CK, Ross FB, Lotfipour S, Saini KS, Edwards SR, Smith MT: Oxycodone and morphine have distinctly different pharmacological profiles: radioligand binding and behavioural studies in two rat models of neuropathic pain. Pain. 2007 Dec 5;132(3):289-300. Epub 2007 Apr 30.</reference_text>
+        <pubmed_id>17467904</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vivian JA, DeYoung MB, Sumpter TL, Traynor JR, Lewis JW, Woods JH: kappa-Opioid receptor effects of butorphanol in rhesus monkeys.  J Pharmacol Exp Ther. 1999 Jul;290(1):259-65.</reference_text>
+        <pubmed_id>10381785</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Park Y, Jang CG, Ho IK, Ko KH: kappa-opioid agonist stimulated regional distribution of [(35)S]GTPgammas binding in butorphanol continuously infused rat. Brain Res Bull. 2000 May 1;52(1):17-20.</reference_text>
+        <pubmed_id>10779697</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fan LW, Tanaka S, Tien LT, Ma T, Rockhold RW, Ho IK: Withdrawal from dependence upon butorphanol uniquely increases kappa(1)-opioid receptor binding in the rat brain. Brain Res Bull. 2002 Jun;58(2):149-60.</reference_text>
+        <pubmed_id>12127012</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fan LW, Tanaka S, Park Y, Sasaki K, Ma T, Tien LT, Rockhold RW, Ho IK: Butorphanol dependence and withdrawal decrease hippocampal kappa 2-opioid receptor binding. Brain Res. 2002 Dec 27;958(2):277-90.</reference_text>
+        <pubmed_id>12470863</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Commiskey S, Fan LW, Ho IK, Rockhold RW: Butorphanol: effects of a prototypical agonist-antagonist analgesic on kappa-opioid receptors. J Pharmacol Sci. 2005 Jun;98(2):109-16. Epub 2005 Jun 8.</reference_text>
+        <pubmed_id>15942128</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Picker MJ, Benyas S, Horwitz JA, Thompson K, Mathewson C, Smith MA: Discriminative stimulus effects of butorphanol: influence of training dose on the substitution patterns produced by Mu, Kappa and Delta opioid agonists. J Pharmacol Exp Ther. 1996 Dec;279(3):1130-41.</reference_text>
+        <pubmed_id>8968334</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wakabayashi H, Tokuyama S, Ho IK: Simultaneous measurement of biogenic amines and their metabolites in rat brain regions after acute administration of and abrupt withdrawal from butorphanol or morphine. Neurochem Res. 1995 Oct;20(10):1179-85.</reference_text>
+        <pubmed_id>8746803</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Narita M, Feng Y, Makimura M, Hoskins B, Ho IK: Repeated administration of opioids alters characteristics of membrane-bound phorbol ester binding in rat brain. Eur J Pharmacol. 1994 Dec 27;271(2-3):547-50.</reference_text>
+        <pubmed_id>7705457</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ohta S, Niwa M, Nozaki M, Tsurumi K, Shimonaka H, Tanahashi T, Uematsu H, Yamamoto M, Fujimura H: [Kappa-type opioid receptor in human placental membrane].  Masui. 1989 Oct;38(10):1293-300.</reference_text>
+        <pubmed_id>2555580</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butorphanol</name>
+        <accession>HMDB14749</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Walsh SL, Chausmer AE, Strain EC, Bigelow GE: Evaluation of the mu and kappa opioid actions of butorphanol in humans through differential naltrexone blockade. Psychopharmacology (Berl). 2008 Jan;196(1):143-55. Epub 2007 Oct 2.</reference_text>
+        <pubmed_id>17909753</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propoxyphene</name>
+        <accession>HMDB14785</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propoxyphene</name>
+        <accession>HMDB14785</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Neil A: Affinities of some common opioid analgesics towards four binding sites in mouse brain. Naunyn Schmiedebergs Arch Pharmacol. 1984 Nov;328(1):24-9.</reference_text>
+        <pubmed_id>6151117</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pentazocine</name>
+        <accession>HMDB14790</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chien CC, Pasternak GW: (-)-Pentazocine analgesia in mice: interactions with a sigma receptor system.  Eur J Pharmacol. 1995 Dec 27;294(1):303-8.</reference_text>
+        <pubmed_id>8788445</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naltrexone</name>
+        <accession>HMDB14842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naltrexone</name>
+        <accession>HMDB14842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Helm S, Trescot AM, Colson J, Sehgal N, Silverman S: Opioid antagonists, partial agonists, and agonists/antagonists: the role of office-based detoxification. Pain Physician. 2008 Mar-Apr;11(2):225-35.</reference_text>
+        <pubmed_id>18354714</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naltrexone</name>
+        <accession>HMDB14842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Herz A: Endogenous opioid systems and alcohol addiction.  Psychopharmacology (Berl). 1997 Jan;129(2):99-111.</reference_text>
+        <pubmed_id>9040115</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naltrexone</name>
+        <accession>HMDB14842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Barrios de Tomasi E, Juarez-Gonzalez J: [Opioid antagonists and alcohol consumption].  Rev Neurol. 2007 Aug 1-15;45(3):155-62.</reference_text>
+        <pubmed_id>17661275</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naltrexone</name>
+        <accession>HMDB14842</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wee S, Orio L, Ghirmai S, Cashman JR, Koob GF: Inhibition of kappa opioid receptors attenuated increased cocaine intake in rats with extended access to cocaine. Psychopharmacology (Berl). 2009 Sep;205(4):565-75. Epub 2009 May 30.</reference_text>
+        <pubmed_id>19484223</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Sufentanil</name>
+        <accession>HMDB14846</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhu J, Xue JC, Law PY, Claude PA, Luo LY, Yin J, Chen C, Liu-Chen LY: The region in the mu opioid receptor conferring selectivity for sufentanil over the delta receptor is different from that over the kappa receptor. FEBS Lett. 1996 Apr 15;384(2):198-202.</reference_text>
+        <pubmed_id>8612823</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Sufentanil</name>
+        <accession>HMDB14846</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chang HM, Berde CB, Holz GG 4th, Steward GF, Kream RM: Sufentanil, morphine, met-enkephalin, and kappa-agonist (U-50,488H) inhibit substance P release from primary sensory neurons: a model for presynaptic spinal opioid actions. Anesthesiology. 1989 Apr;70(4):672-7.</reference_text>
+        <pubmed_id>2467589</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fentanyl</name>
+        <accession>HMDB14951</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pascoe JE, Williams KL, Mukhopadhyay P, Rice KC, Woods JH, Ko MC: Effects of mu, kappa, and delta opioid receptor agonists on the function of hypothalamic-pituitary-adrenal axis in monkeys. Psychoneuroendocrinology. 2008 May;33(4):478-86. Epub 2008 Mar 5.</reference_text>
+        <pubmed_id>18325678</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Menthol</name>
+        <accession>HMDB03352</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Galeotti N, Di Cesare Mannelli L, Mazzanti G, Bartolini A, Ghelardini C: Menthol: a natural analgesic compound.  Neurosci Lett. 2002 Apr 12;322(3):145-8.</reference_text>
+        <pubmed_id>11897159</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Menthol</name>
+        <accession>HMDB03352</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Taniguchi Y, Deguchi Y, Saita M, Noda K: [Antinociceptive effects of counterirritants].  Nihon Yakurigaku Zasshi. 1994 Dec;104(6):433-46.</reference_text>
+        <pubmed_id>7851817</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hoehe M, Duka T: Opiates increase plasma catecholamines in humans.  Psychoneuroendocrinology. 1993;18(2):141-8.</reference_text>
+        <pubmed_id>8388112</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen SL, Huang EY, Chow LH, Tao PL: Dextromethorphan differentially affects opioid antinociception in rats.  Br J Pharmacol. 2005 Feb;144(3):400-4.</reference_text>
+        <pubmed_id>15655510</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tao PL, Liang KW, Sung WY, Wu YT, Huang EY: Nalbuphine is effective in decreasing the rewarding effect induced by morphine in rats. Drug Alcohol Depend. 2006 Sep 15;84(2):175-81. Epub 2006 Mar 6.</reference_text>
+        <pubmed_id>16517095</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Smith MA, Greene-Naples JL, Lyle MA, Iordanou JC, Felder JN: The effects of repeated opioid administration on locomotor activity: I. Opposing actions of mu and kappa receptors. J Pharmacol Exp Ther. 2009 Aug;330(2):468-75. Epub 2009 Apr 29.</reference_text>
+        <pubmed_id>19403853</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mello NK, Mendelson JH, Sholar MB, Jaszyna-Gasior M, Goletiani N, Siegel AJ: Effects of the mixed mu/kappa opioid nalbuphine on cocaine-induced changes in subjective and cardiovascular responses in men. Neuropsychopharmacology. 2005 Mar;30(3):618-32.</reference_text>
+        <pubmed_id>15602503</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gear RW, Miaskowski C, Gordon NC, Paul SM, Heller PH, Levine JD: The kappa opioid nalbuphine produces gender- and dose-dependent analgesia and antianalgesia in patients with postoperative pain. Pain. 1999 Nov;83(2):339-45.</reference_text>
+        <pubmed_id>10534607</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nalbuphine</name>
+        <accession>HMDB14982</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Peng X, Knapp BI, Bidlack JM, Neumeyer JL: Pharmacological properties of bivalent ligands containing butorphan linked to nalbuphine, naltrexone, and naloxone at mu, delta, and kappa opioid receptors. J Med Chem. 2007 May 3;50(9):2254-8. Epub 2007 Apr 4.</reference_text>
+        <pubmed_id>17407276</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Levorphanol</name>
+        <accession>HMDB14992</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Prommer E: Levorphanol: the forgotten opioid.  Support Care Cancer. 2007 Mar;15(3):259-64. Epub 2006 Oct 13.</reference_text>
+        <pubmed_id>17039381</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Remifentanil</name>
+        <accession>HMDB15036</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wong GT, Li R, Jiang LL, Irwin MG: Remifentanil post-conditioning attenuates cardiac ischemia-reperfusion injury via kappa or delta opioid receptor activation. Acta Anaesthesiol Scand. 2010 Apr;54(4):510-8. Epub 2009 Oct 29.</reference_text>
+        <pubmed_id>19878098</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Remifentanil</name>
+        <accession>HMDB15036</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pascoe JE, Williams KL, Mukhopadhyay P, Rice KC, Woods JH, Ko MC: Effects of mu, kappa, and delta opioid receptor agonists on the function of hypothalamic-pituitary-adrenal axis in monkeys. Psychoneuroendocrinology. 2008 May;33(4):478-86. Epub 2008 Mar 5.</reference_text>
+        <pubmed_id>18325678</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naloxone</name>
+        <accession>HMDB15314</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Peng X, Neumeyer JL: Kappa receptor bivalent ligands.  Curr Top Med Chem. 2007;7(4):363-73.</reference_text>
+        <pubmed_id>17305578</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naloxone</name>
+        <accession>HMDB15314</accession>
+      </metabolite>
+      <reference>
+        <reference_text>van Dorp EL, Yassen A, Dahan A: Naloxone treatment in opioid addiction: the risks and benefits.  Expert Opin Drug Saf. 2007 Mar;6(2):125-32.</reference_text>
+        <pubmed_id>17367258</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naloxone</name>
+        <accession>HMDB15314</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Helm S, Trescot AM, Colson J, Sehgal N, Silverman S: Opioid antagonists, partial agonists, and agonists/antagonists: the role of office-based detoxification. Pain Physician. 2008 Mar-Apr;11(2):225-35.</reference_text>
+        <pubmed_id>18354714</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dezocine</name>
+        <accession>HMDB15340</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dezocine</name>
+        <accession>HMDB15340</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dezocine</name>
+        <accession>HMDB15340</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gharagozlou P, Hashemi E, DeLorey TM, Clark JD, Lameh J: Pharmacological profiles of opioid ligands at kappa opioid receptors.  BMC Pharmacol. 2006 Jan 25;6:3.</reference_text>
+        <pubmed_id>16433932</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dezocine</name>
+        <accession>HMDB15340</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alvimopan</name>
+        <accession>HMDB15631</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Beattie DT, Cheruvu M, Mai N, O'Keefe M, Johnson-Rabidoux S, Peterson C, Kaufman E, Vickery R: The in vitro pharmacology of the peripherally restricted opioid receptor antagonists, alvimopan, ADL 08-0011 and methylnaltrexone. Naunyn Schmiedebergs Arch Pharmacol. 2007 May;375(3):205-20. Epub 2007 Mar 6.</reference_text>
+        <pubmed_id>17340127</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alvimopan</name>
+        <accession>HMDB15631</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Neary P, Delaney CP: Alvimopan.  Expert Opin Investig Drugs. 2005 Apr;14(4):479-88.</reference_text>
+        <pubmed_id>15882122</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

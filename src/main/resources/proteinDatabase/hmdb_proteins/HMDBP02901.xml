@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:00 -0700</creation_date>
+  <update_date>2013-05-27 11:14:55 -0600</update_date>
+  <accession>HMDBP02901</accession>
+  <secondary_accessions>
+    <accession>8409</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Frataxin intermediate form</synonym>
+    <synonym>Frataxin mature form</synonym>
+    <synonym>Frataxin(56-210)</synonym>
+    <synonym>Frataxin(78-210)</synonym>
+    <synonym>Frataxin(81-210)</synonym>
+    <synonym>Friedreich ataxia protein</synonym>
+    <synonym>Fxn</synonym>
+    <synonym>d-FXN</synonym>
+    <synonym>i-FXN</synonym>
+    <synonym>m56-FXN</synonym>
+    <synonym>m78-FXN</synonym>
+    <synonym>m81-FXN</synonym>
+  </synonyms>
+  <gene_name>FXN</gene_name>
+  <general_function>Involved in cellular iron ion homeostasis</general_function>
+  <specific_function>Promotes the biosynthesis of heme and assembly and repair of iron-sulfur clusters by delivering Fe(2+) to proteins involved in these pathways. May play a role in the protection against iron-catalyzed oxidative stress through its ability to catalyze the oxidation of Fe(2+) to Fe(3+); the oligomeric form but not the monomeric form has in vitro ferroxidase activity. May be able to store large amounts of iron in the form of a ferrihydrite mineral by oligomerization; however, the physiological relevance is unsure as reports are conflicting and the function has only been shown using heterologous overexpression systems. Modulates the RNA-binding activity of ACO1.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12943</accession>
+      <name>Fe3+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological quality</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>homeostatic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chemical homeostasis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion homeostasis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular ion homeostasis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular cation homeostasis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular di-, tri-valent inorganic cation homeostasis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular iron ion homeostasis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>mitochondrion</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>2 iron, 2 sulfur cluster binding</description>
+      <go_id>GO:0051537</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ferric iron binding</description>
+      <go_id>GO:0008199</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ferrous iron binding</description>
+      <go_id>GO:0008198</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ferroxidase activity</description>
+      <go_id>GO:0004322</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron chaperone activity</description>
+      <go_id>GO:0034986</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>adult walking behavior</description>
+      <go_id>GO:0007628</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>aerobic respiration</description>
+      <go_id>GO:0009060</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular iron ion homeostasis</description>
+      <go_id>GO:0006879</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to hydrogen peroxide</description>
+      <go_id>GO:0070301</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryo development ending in birth or egg hatching</description>
+      <go_id>GO:0009792</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heme biosynthetic process</description>
+      <go_id>GO:0006783</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ion transport</description>
+      <go_id>GO:0006811</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>iron incorporation into metallo-sulfur cluster</description>
+      <go_id>GO:0018283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrion organization</description>
+      <go_id>GO:0007005</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of multicellular organism growth</description>
+      <go_id>GO:0040015</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of organ growth</description>
+      <go_id>GO:0046621</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of release of cytochrome c from mitochondria</description>
+      <go_id>GO:0090201</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oxidative phosphorylation</description>
+      <go_id>GO:0006119</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of axon extension</description>
+      <go_id>GO:0045773</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cell growth</description>
+      <go_id>GO:0030307</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cell proliferation</description>
+      <go_id>GO:0008284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of lyase activity</description>
+      <go_id>GO:0051349</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of metalloenzyme activity</description>
+      <go_id>GO:0048554</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of oxidoreductase activity</description>
+      <go_id>GO:0051353</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transferase activity</description>
+      <go_id>GO:0051347</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proprioception</description>
+      <go_id>GO:0019230</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein autoprocessing</description>
+      <go_id>GO:0016540</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of ferrochelatase activity</description>
+      <go_id>GO:0010722</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to iron ion</description>
+      <go_id>GO:0010039</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to organic cyclic compound</description>
+      <go_id>GO:0014070</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q21.11</locus>
+    <gene_sequence>&gt;633 bp
+ATGTGGACTCTCGGGCGCCGCGCAGTAGCCGGCCTCCTGGCGTCACCCAGCCCAGCCCAG
+GCCCAGACCCTCACCCGGGTCCCGCGGCCGGCAGAGTTGGCCCCACTCTGCGGCCGCCGT
+GGCCTGCGCACCGACATCGATGCGACCTGCACGCCCCGCCGCGCAAGTTCGAACCAACGT
+GGCCTCAACCAGATTTGGAATGTCAAAAAGCAGAGTGTCTATTTGATGAATTTGAGGAAA
+TCTGGAACTTTGGGCCACCCAGGCTCTCTAGATGAGACCACCTATGAAAGACTAGCAGAG
+GAAACGCTGGACTCTTTAGCAGAGTTTTTTGAAGACCTTGCAGACAAGCCATACACGTTT
+GAGGACTATGATGTCTCCTTTGGGAGTGGTGTCTTAACTGTCAAACTGGGTGGAGATCTA
+GGAACCTATGTGATCAACAAGCAGACGCCAAACAAGCAAATCTGGCTATCTTCTCCATCC
+AGTGGACCTAAGCGTTATGACTGGACTGGGAAAAACTGGGTGTACTCCCACGACGGCGTG
+TCCCTCCATGAGCTGCTGGCCGCAGAGCTCACTAAAGCCTTAAAAACCAAACTGGACTTG
+TCTTCCTTGGCCTATTCCGGAAAAGATGCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>210</residue_number>
+    <molecular_weight>23134.895</molecular_weight>
+    <theoretical_pi>8.687</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Frataxin_Cyay</name>
+        <pfam_id>PF01491</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Frataxin, mitochondrial
+MWTLGRRAVAGLLASPSPAQAQTLTRVPRPAELAPLCGRRGLRTDIDATCTPRRASSNQR
+GLNQIWNVKKQSVYLMNLRKSGTLGHPGSLDETTYERLAEETLDSLAEFFEDLADKPYTF
+EDYDVSFGSGVLTVKLGGDLGTYVINKQTPNKQIWLSSPSSGPKRYDWTGKNWVYSHDGV
+SLHELLAAELTKALKTKLDLSSLAYSGKDA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>31077081</genbank_protein_id>
+  <uniprot_id>Q16595</uniprot_id>
+  <uniprot_name>FRDA_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1EKG</pdb_id>
+    <pdb_id>1LY7</pdb_id>
+    <pdb_id>3S4M</pdb_id>
+    <pdb_id>3S5D</pdb_id>
+    <pdb_id>3S5E</pdb_id>
+    <pdb_id>3S5F</pdb_id>
+    <pdb_id>3T3J</pdb_id>
+    <pdb_id>3T3K</pdb_id>
+    <pdb_id>3T3L</pdb_id>
+    <pdb_id>3T3T</pdb_id>
+    <pdb_id>3T3X</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_000144.4</genbank_gene_id>
+  <genecard_id>FXN</genecard_id>
+  <geneatlas_id>FXN</geneatlas_id>
+  <hgnc_id>HGNC:3951</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Campuzano V, Montermini L, Molto MD, Pianese L, Cossee M, Cavalcanti F, Monros E, Rodius F, Duclos F, Monticelli A, Zara F, Canizares J, Koutnikova H, Bidichandani SI, Gellera C, Brice A, Trouillas P, De Michele G, Filla A, De Frutos R, Palau F, Patel PI, Di Donato S, Mandel JL, Cocozza S, Koenig M, Pandolfo M: Friedreich's ataxia: autosomal recessive disease caused by an intronic GAA triplet repeat expansion. Science. 1996 Mar 8;271(5254):1423-7.</reference_text>
+      <pubmed_id>8596916</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schmucker S, Argentini M, Carelle-Calmels N, Martelli A, Puccio H: The in vivo mitochondrial two-step maturation of human frataxin.  Hum Mol Genet. 2008 Nov 15;17(22):3521-31. Epub 2008 Aug 25.</reference_text>
+      <pubmed_id>18725397</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Condo I, Ventura N, Malisan F, Rufini A, Tomassini B, Testi R: In vivo maturation of human frataxin.  Hum Mol Genet. 2007 Jul 1;16(13):1534-40. Epub 2007 Apr 27.</reference_text>
+      <pubmed_id>17468497</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Condo I, Malisan F, Guccini I, Serio D, Rufini A, Testi R: Molecular control of the cytosolic aconitase/IRP1 switch by extramitochondrial frataxin. Hum Mol Genet. 2010 Apr 1;19(7):1221-9. Epub 2010 Jan 6.</reference_text>
+      <pubmed_id>20053667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Campuzano V, Montermini L, Lutz Y, Cova L, Hindelang C, Jiralerspong S, Trottier Y, Kish SJ, Faucheux B, Trouillas P, Authier FJ, Durr A, Mandel JL, Vescovi A, Pandolfo M, Koenig M: Frataxin is reduced in Friedreich ataxia patients and is associated with mitochondrial membranes. Hum Mol Genet. 1997 Oct;6(11):1771-80.</reference_text>
+      <pubmed_id>9302253</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Koutnikova H, Campuzano V, Foury F, Dolle P, Cazzalini O, Koenig M: Studies of human, mouse and yeast homologues indicate a mitochondrial function for frataxin. Nat Genet. 1997 Aug;16(4):345-51.</reference_text>
+      <pubmed_id>9241270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gordon DM, Shi Q, Dancis A, Pain D: Maturation of frataxin within mammalian and yeast mitochondria: one-step processing by matrix processing peptidase. Hum Mol Genet. 1999 Nov;8(12):2255-62.</reference_text>
+      <pubmed_id>10545606</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Branda SS, Cavadini P, Adamec J, Kalousek F, Taroni F, Isaya G: Yeast and human frataxin are processed to mature form in two sequential steps by the mitochondrial processing peptidase. J Biol Chem. 1999 Aug 6;274(32):22763-9.</reference_text>
+      <pubmed_id>10428860</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cavadini P, Adamec J, Taroni F, Gakh O, Isaya G: Two-step processing of human frataxin by mitochondrial processing peptidase. Precursor and intermediate forms are cleaved at different rates. J Biol Chem. 2000 Dec 29;275(52):41469-75.</reference_text>
+      <pubmed_id>11020385</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cavadini P, O'Neill HA, Benada O, Isaya G: Assembly and iron-binding properties of human frataxin, the protein deficient in Friedreich ataxia. Hum Mol Genet. 2002 Feb 1;11(3):217-27.</reference_text>
+      <pubmed_id>11823441</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nichol H, Gakh O, O'Neill HA, Pickering IJ, Isaya G, George GN: Structure of frataxin iron cores: an X-ray absorption spectroscopic study.  Biochemistry. 2003 May 27;42(20):5971-6.</reference_text>
+      <pubmed_id>12755598</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoon T, Cowan JA: Iron-sulfur cluster biosynthesis. Characterization of frataxin as an iron donor for assembly of [2Fe-2S] clusters in ISU-type proteins. J Am Chem Soc. 2003 May 21;125(20):6078-84.</reference_text>
+      <pubmed_id>12785837</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoon T, Cowan JA: Frataxin-mediated iron delivery to ferrochelatase in the final step of heme biosynthesis. J Biol Chem. 2004 Jun 18;279(25):25943-6. Epub 2004 Apr 27.</reference_text>
+      <pubmed_id>15123683</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bulteau AL, O'Neill HA, Kennedy MC, Ikeda-Saito M, Isaya G, Szweda LI: Frataxin acts as an iron chaperone protein to modulate mitochondrial aconitase activity. Science. 2004 Jul 9;305(5681):242-5.</reference_text>
+      <pubmed_id>15247478</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Neill HA, Gakh O, Park S, Cui J, Mooney SM, Sampson M, Ferreira GC, Isaya G: Assembly of human frataxin is a mechanism for detoxifying redox-active iron. Biochemistry. 2005 Jan 18;44(2):537-45.</reference_text>
+      <pubmed_id>15641778</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gonzalez-Cabo P, Vazquez-Manrique RP, Garcia-Gimeno MA, Sanz P, Palau F: Frataxin interacts functionally with mitochondrial electron transport chain proteins. Hum Mol Genet. 2005 Aug 1;14(15):2091-8. Epub 2005 Jun 16.</reference_text>
+      <pubmed_id>15961414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schoenfeld RA, Napoli E, Wong A, Zhan S, Reutenauer L, Morin D, Buckpitt AR, Taroni F, Lonnerdal B, Ristow M, Puccio H, Cortopassi GA: Frataxin deficiency alters heme pathway transcripts and decreases mitochondrial heme metabolites in mammalian cells. Hum Mol Genet. 2005 Dec 15;14(24):3787-99. Epub 2005 Oct 20.</reference_text>
+      <pubmed_id>16239244</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Acquaviva F, De Biase I, Nezi L, Ruggiero G, Tatangelo F, Pisano C, Monticelli A, Garbi C, Acquaviva AM, Cocozza S: Extra-mitochondrial localisation of frataxin and its association with IscU1 during enterocyte-like differentiation of the human colon adenocarcinoma cell line Caco-2. J Cell Sci. 2005 Sep 1;118(Pt 17):3917-24. Epub 2005 Aug 9.</reference_text>
+      <pubmed_id>16091420</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Neill HA, Gakh O, Isaya G: Supramolecular assemblies of human frataxin are formed via subunit-subunit interactions mediated by a non-conserved amino-terminal region. J Mol Biol. 2005 Jan 21;345(3):433-9.</reference_text>
+      <pubmed_id>15581888</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Condo I, Ventura N, Malisan F, Tomassini B, Testi R: A pool of extramitochondrial frataxin that promotes cell survival.  J Biol Chem. 2006 Jun 16;281(24):16750-6. Epub 2006 Apr 11.</reference_text>
+      <pubmed_id>16608849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shan Y, Napoli E, Cortopassi G: Mitochondrial frataxin interacts with ISD11 of the NFS1/ISCU complex and multiple mitochondrial chaperones. Hum Mol Genet. 2007 Apr 15;16(8):929-41. Epub 2007 Mar 1.</reference_text>
+      <pubmed_id>17331979</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dhe-Paganon S, Shigeta R, Chi YI, Ristow M, Shoelson SE: Crystal structure of human frataxin.  J Biol Chem. 2000 Oct 6;275(40):30753-6.</reference_text>
+      <pubmed_id>10900192</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Musco G, Stier G, Kolmerer B, Adinolfi S, Martin S, Frenkiel T, Gibson T, Pastore A: Towards a structural understanding of Friedreich's ataxia: the solution structure of frataxin. Structure. 2000 Jul 15;8(7):695-707.</reference_text>
+      <pubmed_id>10903947</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bidichandani SI, Ashizawa T, Patel PI: Atypical Friedreich ataxia caused by compound heterozygosity for a novel missense mutation and the GAA triplet-repeat expansion. Am J Hum Genet. 1997 May;60(5):1251-6.</reference_text>
+      <pubmed_id>9150176</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bartolo C, Mendell JR, Prior TW: Identification of a missense mutation in a Friedreich's ataxia patient: implications for diagnosis and carrier studies. Am J Med Genet. 1998 Oct 12;79(5):396-9.</reference_text>
+      <pubmed_id>9779809</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Forrest SM, Knight M, Delatycki MB, Paris D, Williamson R, King J, Yeung L, Nassif N, Nicholson GA: The correlation of clinical phenotype in Friedreich ataxia with the site of point mutations in the FRDA gene. Neurogenetics. 1998 Aug;1(4):253-7.</reference_text>
+      <pubmed_id>10732799</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cossee M, Durr A, Schmitt M, Dahl N, Trouillas P, Allinson P, Kostrzewa M, Nivelon-Chevallier A, Gustavson KH, Kohlschutter A, Muller U, Mandel JL, Brice A, Koenig M, Cavalcanti F, Tammaro A, De Michele G, Filla A, Cocozza S, Labuda M, Montermini L, Poirier J, Pandolfo M: Friedreich's ataxia: point mutations and clinical presentation of compound heterozygotes. Ann Neurol. 1999 Feb;45(2):200-6.</reference_text>
+      <pubmed_id>9989622</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Al-Mahdawi S, Pook M, Chamberlain S: A novel missense mutation (L198R) in the Friedreich's ataxia gene.  Hum Mutat. 2000 Jul;16(1):95.</reference_text>
+      <pubmed_id>10874325</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Calmels N, Schmucker S, Wattenhofer-Donze M, Martelli A, Vaucamps N, Reutenauer L, Messaddeq N, Bouton C, Koenig M, Puccio H: The first cellular models based on frataxin missense mutations that reproduce spontaneously the defects associated with Friedreich ataxia. PLoS One. 2009 Jul 24;4(7):e6379.</reference_text>
+      <pubmed_id>19629184</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

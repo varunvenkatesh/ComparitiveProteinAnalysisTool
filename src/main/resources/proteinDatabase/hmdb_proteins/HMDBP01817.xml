@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:59:41 -0700</creation_date>
+  <update_date>2013-05-27 11:23:59 -0600</update_date>
+  <accession>HMDBP01817</accession>
+  <secondary_accessions>
+    <accession>7178</accession>
+    <accession>HMDBP05978</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>70 kDa lysosomal alpha-glucosidase</synonym>
+    <synonym>76 kDa lysosomal alpha-glucosidase</synonym>
+    <synonym>Acid maltase</synonym>
+    <synonym>Aglucosidase alfa</synonym>
+  </synonyms>
+  <gene_name>GAA</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Essential for the degradation of glygogen to glucose in lysosomes.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Galactose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00052</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Starch and sucrose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00500</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00258</accession>
+      <name>Sucrose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03345</accession>
+      <name>Alpha-D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14429</accession>
+      <name>Acarbose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14634</accession>
+      <name>Miglitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00163</accession>
+      <name>D-Maltose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00660</accession>
+      <name>D-Fructose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00122</accession>
+      <name>D-Glucose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, hydrolyzing o-glycosyl compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal membrane</description>
+      <go_id>GO:0005765</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosome</description>
+      <go_id>GO:0005764</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alpha-glucosidase activity</description>
+      <go_id>GO:0004558</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carbohydrate binding</description>
+      <go_id>GO:0030246</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>maltose alpha-glucosidase activity</description>
+      <go_id>GO:0032450</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cardiac muscle contraction</description>
+      <go_id>GO:0060048</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>diaphragm contraction</description>
+      <go_id>GO:0002086</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose metabolic process</description>
+      <go_id>GO:0006006</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycogen catabolic process</description>
+      <go_id>GO:0005980</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>locomotory behavior</description>
+      <go_id>GO:0007626</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lysosome organization</description>
+      <go_id>GO:0007040</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>maltose metabolic process</description>
+      <go_id>GO:0000023</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>muscle cell homeostasis</description>
+      <go_id>GO:0046716</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neuromuscular process controlling balance</description>
+      <go_id>GO:0050885</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neuromuscular process controlling posture</description>
+      <go_id>GO:0050884</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of the force of heart contraction</description>
+      <go_id>GO:0002026</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sucrose metabolic process</description>
+      <go_id>GO:0005985</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tongue morphogenesis</description>
+      <go_id>GO:0043587</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>vacuolar sequestering</description>
+      <go_id>GO:0043181</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ventricular cardiac muscle tissue morphogenesis</description>
+      <go_id>GO:0055010</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome</subcellular_location>
+    <subcellular_location>Lysosome membrane</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;2859 bp
+ATGGGAGTGAGGCACCCGCCCTGCTCCCACCGGCTCCTGGCCGTCTGCGCCCTCGTGTCC
+TTGGCAACCGCTGCACTCCTGGGGCACATCCTACTCCATGATTTCCTGCTGGTTCCCCGA
+GAGCTGAGTGGCTCCTCCCCAGTCCTGGAGGAGACTCACCCAGCTCACCAGCAGGGAGCC
+AGCAGACCAGGGCCCCGGGATGCCCAGGCACACCCCGGCCGTCCCAGAGCAGTGCCCACA
+CAGTGCGACGTCCCCCCCAACAGCCGCTTCGATTGCGCCCCTGACAAGGCCATCACCCAG
+GAACAGTGCGAGGCCCGCGGCTGCTGCTACATCCCTGCAAAGCAGGGGCTGCAGGGAGCC
+CAGATGGGGCAGCCCTGGTGCTTCTTCCCACCCAGCTACCCCAGCTACAAGCTGGAGAAC
+CTGAGCTCCTCTGAAATGGGCTACACGGCCACCCTGACCCGTACCACCCCCACCTTCTTC
+CCCAAGGACATCCTGACCCTGCGGCTGGACGTGATGATGGAGACTGAGAACCGCCTCCAC
+TTCACGATCAAAGATCCAGCTAACAGGCGCTACGAGGTGCCCTTGGAGACCCCGCGTGTC
+CACAGCCGGGCACCGTCCCCACTCTACAGCGTGGAGTTCTCCGAGGAGCCCTTCGGGGTG
+ATCGTGCACCGGCAGCTGGACGGCCGCGTGCTGCTGAACACGACGGTGGCGCCCCTGTTC
+TTTGCGGACCAGTTCCTTCAGCTGTCCACCTCGCTGCCCTCGCAGTATATCACAGGCCTC
+GCCGAGCACCTCAGTCCCCTGATGCTCAGCACCAGCTGGACCAGGATCACCCTGTGGAAC
+CGGGACCTTGCGCCCACGCCCGGTGCGAACCTCTACGGGTCTCACCCTTTCTACCTGGCG
+CTGGAGGACGGCGGGTCGGCACACGGGGTGTTCCTGCTAAACAGCAATGCCATGGATGTG
+GTCCTGCAGCCGAGCCCTGCCCTTAGCTGGAGGTCGACAGGTGGGATCCTGGATGTCTAC
+ATCTTCCTGGGCCCAGAGCCCAAGAGCGTGGTGCAGCAGTACCTGGACGTTGTGGGATAC
+CCGTTCATGCCGCCATACTGGGGCCTGGGCTTCCACCTGTGCCGCTGGGGCTACTCCTCC
+ACCGCTATCACCCGCCAGGTGGTGGAGAACATGACCAGGGCCCACTTCCCCCTGGACGTC
+CAATGGAACGACCTGGACTACATGGACTCCCGGAGGGACTTCACGTTCAACAAGGATGGC
+TTCCGGGACTTCCCGGCCATGGTGCAGGAGCTGCACCAGGGCGGCCGGCGCTACATGATG
+ATCGTGGATCCTGCCATCAGCAGCTCGGGCCCTGCCGGGAGCTACAGGCCCTACGACGAG
+GGTCTGCGGAGGGGGGTTTTCATCACCAACGAGACCGGCCAGCCGCTGATTGGGAAGGTA
+TGGCCCGGGTCCACTGCCTTCCCCGACTTCACCAACCCCACAGCCCTGGCCTGGTGGGAG
+GACATGGTGGCTGAGTTCCATGACCAGGTGCCCTTCGACGGCATGTGGATTGACATGAAC
+GAGCCTTCCAACTTCATCAGAGGCTCTGAGGACGGCTGCCCCAACAATGAGCTGGAGAAC
+CCACCCTACGTGCCTGGGGTGGTTGGGGGGACCCTCCAGGCGGCCACCATCTGTGCCTCC
+AGCCACCAGTTTCTCTCCACACACTACAACCTGCACAACCTCTACGGCCTGACCGAAGCC
+ATCGCCTCCCACAGGGCGCTGGTGAAGGCTCGGGGGACACGCCCATTTGTGATCTCCCGC
+TCGACCTTTGCTGGCCACGGCCGATACGCCGGCCACTGGACGGGGGACGTGTGGAGCTCC
+TGGGAGCAGCTCGCCTCCTCCGTGCCAGAAATCCTGCAGTTTAACCTGCTGGGGGTGCCT
+CTGGTCGGGGCCGACGTCTGCGGCTTCCTGGGCAACACCTCAGAGGAGCTGTGTGTGCGC
+TGGACCCAGCTGGGGGCCTTCTACCCCTTCATGCGGAACCACAACAGCCTGCTCAGTCTG
+CCCCAGGAGCCGTACAGCTTCAGCGAGCCGGCCCAGCAGGCCATGAGGAAGGCCCTCACC
+CTGCGCTACGCACTCCTCCCCCACCTCTACACACTGTTCCACCAGGCCCACGTCGCGGGG
+GAGACCGTGGCCCGGCCCCTCTTCCTGGAGTTCCCCAAGGACTCTAGCACCTGGACTGTG
+GACCACCAGCTCCTGTGGGGGGAGGCCCTGCTCATCACCCCAGTGCTCCAGGCCGGGAAG
+GCCGAAGTGACTGGCTACTTCCCCTTGGGCACATGGTACGACCTGCAGACGGTGCCAATA
+GAGGCCCTTGGCAGCCTCCCACCCCCACCTGCAGCTCCCCGTGAGCCAGCCATCCACAGC
+GAGGGGCAGTGGGTGACGCTGCCGGCCCCCCTGGACACCATCAACGTCCACCTCCGGGCT
+GGGTACATCATCCCCCTGCAGGGCCCTGGCCTCACAACCACAGAGTCCCGCCAGCAGCCC
+ATGGCCCTGGCTGTGGCCCTGACCAAGGGTGGAGAGGCCCGAGGGGAGCTGTTCTGGGAC
+GATGGAGAGAGCCTGGAAGTGCTGGAGCGAGGGGCCTACACACAGGTCATCTTCCTGGCC
+AGGAATAACACGATCGTGAATGAGCTGGTACGTGTGACCAGTGAGGGAGCTGGCCTGCAG
+CTGCAGAAGGTGACTGTCCTGGGCGTGGCCACGGCGCCCCAGCAGGTCCTCTCCAACGGT
+GTCCCTGTCTCCAACTTCACCTACAGCCCCGACACCAAGGTCCTGGACATCTGTGTCTCG
+CTGTTGATGGGAGAGCAGTTTCTCGTCAGCTGGTGTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>952</residue_number>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+      <pfam>
+        <name>Glyco_hydro_31</name>
+        <pfam_id>PF01055</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Trefoil</name>
+        <pfam_id>PF00088</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Lysosomal alpha-glucosidase
+MGVRHPPCSHRLLAVCALVSLATAALLGHILLHDFLLVPRELSGSSPVLEETHPAHQQGA
+SRPGPRDAQAHPGRPRAVPTQCDVPPNSRFDCAPDKAITQEQCEARGCCYIPAKQGLQGA
+QMGQPWCFFPPSYPSYKLENLSSSEMGYTATLTRTTPTFFPKDILTLRLDVMMETENRLH
+FTIKDPANRRYEVPLETPHVHSRAPSPLYSVEFSEEPFGVIVHRQLDGRVLLNTTVAPLF
+FADQFLQLSTSLPSQYITGLAEHLSPLMLSTSWTRITLWNRDLAPTPGANLYGSHPFYLA
+LEDGGSAHGVFLLNSNAMDVVLQPSPALSWRSTGGILDVYIFLGPEPKSVVQQYLDVVGY
+PFMPPYWGLGFHLCRWGYSSTAITRQVVENMTRAHFPLDVQWNDLDYMDSRRDFTFNKDG
+FRDFPAMVQELHQGGRRYMMIVDPAISSSGPAGSYRPYDEGLRRGVFITNETGQPLIGKV
+WPGSTAFPDFTNPTALAWWEDMVAEFHDQVPFDGMWIDMNEPSNFIRGSEDGCPNNELEN
+PPYVPGVVGGTLQAATICASSHQFLSTHYNLHNLYGLTEAIASHRALVKARGTRPFVISR
+STFAGHGRYAGHWTGDVWSSWEQLASSVPEILQFNLLGVPLVGADVCGFLGNTSEELCVR
+WTQLGAFYPFMRNHNSLLSLPQEPYSFSEPAQQAMRKALTLRYALLPHLYTLFHQAHVAG
+ETVARPLFLEFPKDSSTWTVDHQLLWGEALLITPVLQAGKAEVTGYFPLGTWYDLQTVPI
+EALGSLPPPPAAPREPAIHSEGQWVTLPAPLDTINVHLRAGYIIPLQGPGLTTTESRQQP
+MALAVALTKGGEARGELFWDDGESLEVLERGAYTQVIFLARNNTIVNELVRVTSEGAGLQ
+LQKVTVLGVATAPQQVLSNGVPVSNFTYSPDTKVLDICVSLLMGEQFLVSWC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>31608</genbank_protein_id>
+  <uniprot_id>P10253</uniprot_id>
+  <uniprot_name>LYAG_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>Y00839</genbank_gene_id>
+  <genecard_id>GAA</genecard_id>
+  <geneatlas_id>GAA</geneatlas_id>
+  <hgnc_id>HGNC:4065</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hoefsloot LH, Hoogeveen-Westerveld M, Kroos MA, van Beeumen J, Reuser AJ, Oostra BA: Primary structure and processing of lysosomal alpha-glucosidase; homology with the intestinal sucrase-isomaltase complex. EMBO J. 1988 Jun;7(6):1697-704.</reference_text>
+      <pubmed_id>3049072</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoefsloot LH, Hoogeveen-Westerveld M, Reuser AJ, Oostra BA: Characterization of the human lysosomal alpha-glucosidase gene.  Biochem J. 1990 Dec 1;272(2):493-7.</reference_text>
+      <pubmed_id>2268276</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martiniuk F, Mehler M, Tzall S, Meredith G, Hirschhorn R: Sequence of the cDNA and 5'-flanking region for human acid alpha-glucosidase, detection of an intron in the 5' untranslated leader sequence, definition of 18-bp polymorphisms, and differences with previous cDNA and amino acid sequences. DNA Cell Biol. 1990 Mar;9(2):85-94.</reference_text>
+      <pubmed_id>2111708</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zody MC, Garber M, Adams DJ, Sharpe T, Harrow J, Lupski JR, Nicholson C, Searle SM, Wilming L, Young SK, Abouelleil A, Allen NR, Bi W, Bloom T, Borowsky ML, Bugalter BE, Butler J, Chang JL, Chen CK, Cook A, Corum B, Cuomo CA, de Jong PJ, DeCaprio D, Dewar K, FitzGerald M, Gilbert J, Gibson R, Gnerre S, Goldstein S, Grafham DV, Grocock R, Hafez N, Hagopian DS, Hart E, Norman CH, Humphray S, Jaffe DB, Jones M, Kamal M, Khodiyar VK, LaButti K, Laird G, Lehoczky J, Liu X, Lokyitsang T, Loveland J, Lui A, Macdonald P, Major JE, Matthews L, Mauceli E, McCarroll SA, Mihalev AH, Mudge J, Nguyen C, Nicol R, O'Leary SB, Osoegawa K, Schwartz DC, Shaw-Smith C, Stankiewicz P, Steward C, Swarbreck D, Venkataraman V, Whittaker CA, Yang X, Zimmer AR, Bradley A, Hubbard T, Birren BW, Rogers J, Lander ES, Nusbaum C: DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage. Nature. 2006 Apr 20;440(7087):1045-9.</reference_text>
+      <pubmed_id>16625196</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin CY, Shieh JJ: Identification of a de novo point mutation resulting in infantile form of Pompe's disease. Biochem Biophys Res Commun. 1995 Mar 17;208(2):886-93.</reference_text>
+      <pubmed_id>7695647</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, Kroos MA, van Beeumen J, Oostra BA, Reuser AJ: Human lysosomal alpha-glucosidase. Characterization of the catalytic site.  J Biol Chem. 1991 Jul 25;266(21):13507-12.</reference_text>
+      <pubmed_id>1856189</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, Wisselaar HA, Kroos MA, Oostra BA, Reuser AJ: Human lysosomal alpha-glucosidase: functional characterization of the glycosylation sites. Biochem J. 1993 Feb 1;289 ( Pt 3):681-6.</reference_text>
+      <pubmed_id>8435067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang H, Li XJ, Martin DB, Aebersold R: Identification and quantification of N-linked glycoproteins using hydrazide chemistry, stable isotope labeling and mass spectrometry. Nat Biotechnol. 2003 Jun;21(6):660-6. Epub 2003 May 18.</reference_text>
+      <pubmed_id>12754519</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Reuser AJ, Kroos MA, Hermans MM, Bijvoet AG, Verbeet MP, Van Diggelen OP, Kleijer WJ, Van der Ploeg AT: Glycogenosis type II (acid maltase deficiency).  Muscle Nerve. 1995;3:S61-9.</reference_text>
+      <pubmed_id>7603530</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schroder B, Wrocklage C, Pan C, Jager R, Kosters B, Schafer H, Elsasser HP, Mann M, Hasilik A: Integral and associated lysosomal membrane proteins.  Traffic. 2007 Dec;8(12):1676-86. Epub 2007 Sep 26.</reference_text>
+      <pubmed_id>17897319</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martiniuk F, Bodkin M, Tzall S, Hirschhorn R: Identification of the base-pair substitution responsible for a human acid alpha glucosidase allele with lower &amp;quot;affinity&amp;quot; for glycogen (GAA 2) and transient gene expression in deficient cells. Am J Hum Genet. 1990 Sep;47(3):440-5.</reference_text>
+      <pubmed_id>2203258</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhong N, Martiniuk F, Tzall S, Hirschhorn R: Identification of a missense mutation in one allele of a patient with Pompe disease, and use of endonuclease digestion of PCR-amplified RNA to demonstrate lack of mRNA expression from the second allele. Am J Hum Genet. 1991 Sep;49(3):635-45.</reference_text>
+      <pubmed_id>1652892</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, de Graaff E, Kroos MA, Wisselaar HA, Oostra BA, Reuser AJ: Identification of a point mutation in the human lysosomal alpha-glucosidase gene causing infantile glycogenosis type II. Biochem Biophys Res Commun. 1991 Sep 16;179(2):919-26.</reference_text>
+      <pubmed_id>1898413</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, Kroos MA, de Graaff E, Oostra BA, Reuser AJ: Two mutations affecting the transport and maturation of lysosomal alpha-glucosidase in an adult case of glycogen storage disease type II. Hum Mutat. 1993;2(4):268-73.</reference_text>
+      <pubmed_id>8401535</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, de Graaff E, Kroos MA, Wisselaar HA, Willemsen R, Oostra BA, Reuser AJ: The conservative substitution Asp-645--&amp;gt;Glu in lysosomal alpha-glucosidase affects transport and phosphorylation of the enzyme in an adult patient with glycogen-storage disease type II. Biochem J. 1993 Feb 1;289 ( Pt 3):687-93.</reference_text>
+      <pubmed_id>8094613</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martiniuk F, Mehler M, Bodkin M, Tzall S, Hirschhorn K, Zhong N, Hirschhorn R: Identification of a missense mutation in an adult-onset patient with glycogenosis type II expressing only one allele. DNA Cell Biol. 1991 Nov;10(9):681-7.</reference_text>
+      <pubmed_id>1684505</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, Svetkey LP, Oostra BA, Chen YT, Reuser AJ: The loss of a polymorphic glycosylation site caused by Thr-927--&amp;gt;Ile is linked to a second polymorphic Val-816--&amp;gt;Ile substitution in lysosomal alpha-glucosidase of American blacks. Genomics. 1993 Apr;16(1):300-1.</reference_text>
+      <pubmed_id>8486380</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huie ML, Hirschhorn R, Chen AS, Martiniuk F, Zhong N: Mutation at the catalytic site (M519V) in glycogen storage disease type II (Pompe disease). Hum Mutat. 1994;4(4):291-3.</reference_text>
+      <pubmed_id>7866409</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huie ML, Chen AS, Brooks SS, Grix A, Hirschhorn R: A de novo 13 nt deletion, a newly identified C647W missense mutation and a deletion of exon 18 in infantile onset glycogen storage disease type II (GSDII). Hum Mol Genet. 1994 Jul;3(7):1081-7.</reference_text>
+      <pubmed_id>7981676</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, De Graaff E, Kroos MA, Mohkamsing S, Eussen BJ, Joosse M, Willemsen R, Kleijer WJ, Oostra BA, Reuser AJ: The effect of a single base pair deletion (delta T525) and a C1634T missense mutation (pro545leu) on the expression of lysosomal alpha-glucosidase in patients with glycogen storage disease type II. Hum Mol Genet. 1994 Dec;3(12):2213-8.</reference_text>
+      <pubmed_id>7881422</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Boerkoel CF, Exelbert R, Nicastri C, Nichols RC, Miller FW, Plotz PH, Raben N: Leaky splicing mutation in the acid maltase gene is associated with delayed onset of glycogenosis type II. Am J Hum Genet. 1995 Apr;56(4):887-97.</reference_text>
+      <pubmed_id>7717400</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huie ML, Menaker M, McAlpine PJ, Hirschhorn R: Identification of an E689K substitution as the molecular basis of the human acid alpha-glucosidase type 4 allozyme (GAA*4). Ann Hum Genet. 1996 Sep;60(Pt 5):365-8.</reference_text>
+      <pubmed_id>8912788</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsunoda H, Ohshima T, Tohyama J, Sasaki M, Sakuragawa N, Martiniuk F: Acid alpha-glucosidase deficiency: identification and expression of a missense mutation (S529V) in a Japanese adult phenotype. Hum Genet. 1996 Apr;97(4):496-9.</reference_text>
+      <pubmed_id>8834250</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huie ML, Tsujino S, Sklower Brooks S, Engel A, Elias E, Bonthron DT, Bessley C, Shanske S, DiMauro S, Goto YI, Hirschhorn R: Glycogen storage disease type II: identification of four novel missense mutations (D645N, G648S, R672W, R672Q) and two insertions/deletions in the acid alpha-glucosidase locus of patients of differing phenotype. Biochem Biophys Res Commun. 1998 Mar 27;244(3):921-7.</reference_text>
+      <pubmed_id>9535769</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kroos MA, van Leenen D, Verbiest J, Reuser AJ, Hermans MM: Glycogen storage disease type II: identification of a dinucleotide deletion and a common missense mutation in the lysosomal alpha-glucosidase gene. Clin Genet. 1998 May;53(5):379-82.</reference_text>
+      <pubmed_id>9660056</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, Kroos MA, Smeitink JA, van der Ploeg AT, Kleijer WJ, Reuser AJ: Glycogen Storage Disease type II: genetic and biochemical analysis of novel mutations in infantile patients from Turkish ancestry. Hum Mutat. 1998;11(3):209-15.</reference_text>
+      <pubmed_id>9521422</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beesley CE, Child AH, Yacoub MH: The identification of five novel mutations in the lysosomal acid a-(1-4) glucosidase gene from patients with glycogen storage disease type II. Mutations in brief no. 134. Online. Hum Mutat. 1998;11(5):413.</reference_text>
+      <pubmed_id>10206684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vorgerd M, Burwinkel B, Reichmann H, Malin JP, Kilimann MW: Adult-onset glycogen storage disease type II: phenotypic and allelic heterogeneity in German patients. Neurogenetics. 1998 Mar;1(3):205-11.</reference_text>
+      <pubmed_id>10737124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Raben N, Lee E, Lee L, Hirschhorn R, Plotz PH: Novel mutations in African American patients with glycogen storage disease Type II. Mutations in brief no. 209. Online. Hum Mutat. 1999;13(1):83-4.</reference_text>
+      <pubmed_id>10189220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ko TM, Hwu WL, Lin YW, Tseng LH, Hwa HL, Wang TR, Chuang SM: Molecular genetic study of Pompe disease in Chinese patients in Taiwan.  Hum Mutat. 1999;13(5):380-4.</reference_text>
+      <pubmed_id>10338092</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Laforet P, Nicolino M, Eymard PB, Puech JP, Caillaud C, Poenaru L, Fardeau M: Juvenile and adult-onset acid maltase deficiency in France: genotype-phenotype correlation. Neurology. 2000 Oct 24;55(8):1122-8.</reference_text>
+      <pubmed_id>11071489</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fernandez-Hojas R, Huie ML, Navarro C, Dominguez C, Roig M, Lopez-Coronas D, Teijeira S, Anyane-Yeboa K, Hirschhorn R: Identification of six novel mutations in the acid alpha-glucosidase gene in three Spanish patients with infantile onset glycogen storage disease type II (Pompe disease). Neuromuscul Disord. 2002 Feb;12(2):159-66.</reference_text>
+      <pubmed_id>11738358</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pittis MG, Montalvo AL, Miocic S, Martini C, Deganuto M, Candusso M, Ciana G, Bembi B: Identification of four novel mutations in the alpha glucosidase gene in five Italian patients with infantile onset glycogen storage disease type II. Am J Med Genet A. 2003 Sep 1;121A(3):225-30.</reference_text>
+      <pubmed_id>12923862</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lam CW, Yuen YP, Chan KY, Tong SF, Lai CK, Chow TC, Lee KC, Chan YW, Martiniuk F: Juvenile-onset glycogen storage disease type II with novel mutations in acid alpha-glucosidase gene. Neurology. 2003 Feb 25;60(4):715-7.</reference_text>
+      <pubmed_id>12601120</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pipo JR, Feng JH, Yamamoto T, Ohsaki Y, Nanba E, Tsujino S, Sakuragawa N, Martiniuk F, Ninomiya H, Oka A, Ohno K: New GAA mutations in Japanese patients with GSDII (Pompe disease).  Pediatr Neurol. 2003 Oct;29(4):284-7.</reference_text>
+      <pubmed_id>14643388</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hermans MM, van Leenen D, Kroos MA, Beesley CE, Van Der Ploeg AT, Sakuraba H, Wevers R, Kleijer W, Michelakakis H, Kirk EP, Fletcher J, Bosshard N, Basel-Vanagaite L, Besley G, Reuser AJ: Twenty-two novel mutations in the lysosomal alpha-glucosidase gene (GAA) underscore the genotype-phenotype correlation in glycogen storage disease type II. Hum Mutat. 2004 Jan;23(1):47-56.</reference_text>
+      <pubmed_id>14695532</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Montalvo AL, Cariati R, Deganuto M, Guerci V, Garcia R, Ciana G, Bembi B, Pittis MG: Glycogenosis type II: identification and expression of three novel mutations in the acid alpha-glucosidase gene causing the infantile form of the disease. Mol Genet Metab. 2004 Mar;81(3):203-8.</reference_text>
+      <pubmed_id>14972326</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kroos MA, Kirschner J, Gellerich FN, Hermans MM, Van Der Ploeg AT, Reuser AJ, Korinthenberg R: A case of childhood Pompe disease demonstrating phenotypic variability of p.Asp645Asn. Neuromuscul Disord. 2004 Jun;14(6):371-4.</reference_text>
+      <pubmed_id>15145338</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Anneser JM, Pongratz DE, Podskarbi T, Shin YS, Schoser BG: Mutations in the acid alpha-glucosidase gene (M. Pompe) in a patient with an unusual phenotype. Neurology. 2005 Jan 25;64(2):368-70.</reference_text>
+      <pubmed_id>15668445</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dou W, Peng C, Zheng J, Gu X, Fu L, Martiniuk F, Sheng HZ: A novel missense mutation in the acid alpha-glucosidase gene causing the classic infantile form of Pompe disease. Clin Chim Acta. 2006 Dec;374(1-2):145-6. Epub 2006 Jun 19.</reference_text>
+      <pubmed_id>16782080</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Amartino H, Painceira D, Pomponio RJ, Niizawa G, Sabio Paz V, Blanco M, Chamoles N: Two clinical forms of glycogen-storage disease type II in two generations of the same family. Clin Genet. 2006 Feb;69(2):187-8.</reference_text>
+      <pubmed_id>16433701</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Montalvo AL, Bembi B, Donnarumma M, Filocamo M, Parenti G, Rossi M, Merlini L, Buratti E, De Filippi P, Dardis A, Stroppiano M, Ciana G, Pittis MG: Mutation profile of the GAA gene in 40 Italian patients with late onset glycogen storage disease type II. Hum Mutat. 2006 Oct;27(10):999-1006.</reference_text>
+      <pubmed_id>16917947</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pittis MG, Donnarumma M, Montalvo AL, Dominissini S, Kroos M, Rosano C, Stroppiano M, Bianco MG, Donati MA, Parenti G, D'Amico A, Ciana G, Di Rocco M, Reuser A, Bembi B, Filocamo M: Molecular and functional characterization of eight novel GAA mutations in Italian infants with Pompe disease. Hum Mutat. 2008 Jun;29(6):E27-36.</reference_text>
+      <pubmed_id>18429042</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Salehi A, Fan BG, Ekelund M, Nordin G, Lundquist I: TPN-evoked dysfunction of islet lysosomal activity mediates impairment of glucose-stimulated insulin release. Am J Physiol Endocrinol Metab. 2001 Jul;281(1):E171-9.</reference_text>
+        <pubmed_id>11404235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Li Y, Scott CR, Chamoles NA, Ghavami A, Pinto BM, Turecek F, Gelb MH: Direct multiplex assay of lysosomal enzymes in dried blood spots for newborn screening. Clin Chem. 2004 Oct;50(10):1785-96. Epub 2004 Aug 3.</reference_text>
+        <pubmed_id>15292070</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lundquist I, Panagiotidis G: The relationship of islet amyloglucosidase activity and glucose-induced insulin secretion. Pancreas. 1992;7(3):352-7.</reference_text>
+        <pubmed_id>1594557</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhang H, Kallwass H, Young SP, Carr C, Dai J, Kishnani PS, Millington DS, Keutzer J, Chen YT, Bali D: Comparison of maltose and acarbose as inhibitors of maltase-glucoamylase activity in assaying acid alpha-glucosidase activity in dried blood spots for the diagnosis of infantile Pompe disease. Genet Med. 2006 May;8(5):302-6.</reference_text>
+        <pubmed_id>16702880</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gelb MH, Turecek F, Scott CR, Chamoles NA: Direct multiplex assay of enzymes in dried blood spots by tandem mass spectrometry for the newborn screening of lysosomal storage disorders. J Inherit Metab Dis. 2006 Apr-Jun;29(2-3):397-404.</reference_text>
+        <pubmed_id>16763908</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lullmann-Rauch R, Watermann D: Fusion of storage lysosomes in experimental lipidosis and glycogenosis.  Exp Mol Pathol. 1987 Feb;46(1):136-43.</reference_text>
+        <pubmed_id>3467980</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bourbon JR, Doucet E, Rieutort M: Role of alpha-glucosidase in fetal lung maturation.  Biochim Biophys Acta. 1987 Jan 13;917(1):203-10.</reference_text>
+        <pubmed_id>3539207</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acarbose</name>
+        <accession>HMDB14429</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Miglitol</name>
+        <accession>HMDB14634</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fukaya N, Mochizuki K, Tanaka Y, Kumazawa T, Jiuxin Z, Fuchigami M, Goda T: The alpha-glucosidase inhibitor miglitol delays the development of diabetes and dysfunctional insulin secretion in pancreatic beta-cells in OLETF rats. Eur J Pharmacol. 2009 Dec 10;624(1-3):51-7. Epub 2009 Oct 7.</reference_text>
+        <pubmed_id>19818342</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Miglitol</name>
+        <accession>HMDB14634</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hirata A, Igarashi M, Iwai H, Tominaga M: Effect of miglitol, an alpha-glucosidase inhibitor, on atherogenic outcomes in balloon-injured diabetic rats. Horm Metab Res. 2009 Mar;41(3):213-20. Epub 2008 Dec 15.</reference_text>
+        <pubmed_id>19085811</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

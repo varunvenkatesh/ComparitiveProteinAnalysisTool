@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:14:31 -0700</creation_date>
+  <update_date>2013-05-27 11:15:13 -0600</update_date>
+  <accession>HMDBP08726</accession>
+  <secondary_accessions>
+    <accession>14449</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ATP-dependent DNA helicase VIII</synonym>
+    <synonym>G3BP-1</synonym>
+    <synonym>GAP SH3 domain-binding protein 1</synonym>
+    <synonym>hDH VIII</synonym>
+  </synonyms>
+  <gene_name>G3BP1</gene_name>
+  <general_function>Involved in nucleotide binding</general_function>
+  <specific_function>May be a regulated effector of stress granule assembly. Phosphorylation-dependent sequence-specific endoribonuclease in vitro. Cleaves exclusively between cytosine and adenine and cleaves MYC mRNA preferentially at the 3'-UTR. ATP- and magnesium-dependent helicase. Unwinds preferentially partial DNA and RNA duplexes having a 17 bp annealed portion and either a hanging 3' tail or hanging tails at both 5'- and 3'-ends. Unwinds DNA/DNA, RNA/DNA, and RNA/RNA substrates with comparable efficiency. Acts unidirectionally by moving in the 5' to 3' direction along the bound single-stranded DNA.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02182</accession>
+      <name>Phenylephrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent DNA helicase activity</description>
+      <go_id>GO:0004003</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent RNA helicase activity</description>
+      <go_id>GO:0004004</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>endonuclease activity</description>
+      <go_id>GO:0004519</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleic acid phosphodiester bond hydrolysis</description>
+      <go_id>GO:0090305</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Ras protein signal transduction</description>
+      <go_id>GO:0007265</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transport</description>
+      <go_id>GO:0006810</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol</subcellular_location>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q33.1</locus>
+    <gene_sequence>&gt;1401 bp
+ATGGTGATGGAGAAGCCTAGTCCCCTGCTGGTCGGGCGGGAATTTGTGAGACAGTATTAC
+ACACTGCTGAACCAGGCCCCAGACATGCTGCATAGATTTTATGGAAAGAACTCTTCTTAT
+GTCCATGGGGGATTGGATTCAAATGGAAAGCCAGCAGATGCAGTCTACGGACAGAAAGAA
+ATCCACAGGAAAGTGATGTCACAAAACTTCACCAACTGCCACACCAAGATTCGCCATGTT
+GATGCTCATGCCACGCTAAATGATGGTGTGGTAGTCCAGGTGATGGGGCTTCTCTCTAAC
+AACAACCAGGCTTTGAGGAGATTCATGCAAACGTTTGTCCTTGCTCCTGAGGGGTCTGTT
+GCAAATAAATTCTATGTTCACAATGATATCTTCAGATACCAAGATGAGGTCTTTGGTGGG
+TTTGTCACTGAGCCTCAGGAGGAGTCTGAAGAAGAAGTAGAGGAACCTGAAGAAAGACAG
+CAAACACCTGAGGTGGTACCTGATGATTCTGGAACTTTCTATGATCAGGCAGTTGTCAGT
+AATGACATGGAAGAACATTTAGAGGAGCCTGTTGCTGAACCAGAGCCTGATCCTGAACCA
+GAACCAGAACAAGAACCTGTATCTGAAATCCAAGAGGAAAAGCCTGAGCCAGTATTAGAA
+GAAACTGCCCCTGAGGATGCTCAGAAGAGTTCTTCTCCAGCACCTGCAGACATAGCTCAG
+ACAGTACAGGAAGACTTGAGGACATTTTCTTGGGCATCTGTGACCAGTAAGAATCTTCCA
+CCCAGTGGAGCTGTTCCAGTTACTGGGATACCACCTCATGTTGTTAAAGTACCAGCTTCA
+CAGCCCCGTCCAGAGTCTAAGCCTGAATCTCAGATTCCACCACAAAGACCTCAGCGGGAT
+CAAAGAGTGCGAGAACAACGAATAAATATTCCTCCCCAAAGGGGACCCAGACCAATCCGT
+GAGGCTGGTGAGCAAGGTGACATTGAACCCCGAAGAATGGTGAGACACCCTGACAGTCAC
+CAACTCTTCATTGGCAACCTGCCTCATGAAGTGGACAAATCAGAGCTTAAAGATTTCTTT
+CAAAGTTATGGAAACGTGGTGGAGTTGCGCATTAACAGTGGTGGGAAATTACCCAATTTT
+GGTTTTGTTGTGTTTGATGATTCTGAGCCTGTTCAGAAAGTCCTTAGCAACAGGCCCATC
+ATGTTCAGAGGTGAGGTCCGTCTGAATGTCGAAGAGAAGAAGACTCGAGCTGCCAGGGAA
+GGCGACCGACGAGATAATCGCCTTCGGGGACCTGGAGGCCCTCGAGGTGGGCTGGGTGGT
+GGAATGAGAGGCCCTCCCCGTGGAGGCATGGTGCAGAAACCAGGATTTGGAGTGGGAAGG
+GGGCTTGCGCCACGGCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>466</residue_number>
+    <molecular_weight>52164.045</molecular_weight>
+    <theoretical_pi>5.515</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>NTF2</name>
+        <pfam_id>PF02136</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RRM_1</name>
+        <pfam_id>PF00076</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ras GTPase-activating protein-binding protein 1
+MVMEKPSPLLVGREFVRQYYTLLNQAPDMLHRFYGKNSSYVHGGLDSNGKPADAVYGQKE
+IHRKVMSQNFTNCHTKIRHVDAHATLNDGVVVQVMGLLSNNNQALRRFMQTFVLAPEGSV
+ANKFYVHNDIFRYQDEVFGGFVTEPQEESEEEVEEPEERQQTPEVVPDDSGTFYDQAVVS
+NDMEEHLEEPVAEPEPDPEPEPEQEPVSEIQEEKPEPVLEETAPEDAQKSSSPAPADIAQ
+TVQEDLRTFSWASVTSKNLPPSGAVPVTGIPPHVVKVPASQPRPESKPESQIPPQRPQRD
+QRVREQRINIPPQRGPRPIREAGEQGDIEPRRMVRHPDSHQLFIGNLPHEVDKSELKDFF
+QSYGNVVELRINSGGKLPNFGFVVFDDSEPVQKVLSNRPIMFRGEVRLNVEEKKTRAARE
+GDRRDNRLRGPGGPRGGLGGGMRGPPRGGMVQKPGFGVGRGLAPRQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>13937794</genbank_protein_id>
+  <uniprot_id>Q13283</uniprot_id>
+  <uniprot_name>G3BP1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3Q90</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>BC006997</genbank_gene_id>
+  <genecard_id>G3BP1</genecard_id>
+  <geneatlas_id>G3BP1</geneatlas_id>
+  <hgnc_id>HGNC:30292</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Parker F, Maurier F, Delumeau I, Duchesne M, Faucher D, Debussche L, Dugue A, Schweighoffer F, Tocque B: A Ras-GTPase-activating protein SH3-domain-binding protein.  Mol Cell Biol. 1996 Jun;16(6):2561-9.</reference_text>
+      <pubmed_id>8649363</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Costa M, Ochem A, Staub A, Falaschi A: Human DNA helicase VIII: a DNA and RNA helicase corresponding to the G3BP protein, an element of the ras transduction pathway. Nucleic Acids Res. 1999 Feb 1;27(3):817-21.</reference_text>
+      <pubmed_id>9889278</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tourriere H, Gallouzi IE, Chebli K, Capony JP, Mouaikel J, van der Geer P, Tazi J: RasGAP-associated endoribonuclease G3Bp: selective RNA degradation and phosphorylation-dependent localization. Mol Cell Biol. 2001 Nov;21(22):7747-60.</reference_text>
+      <pubmed_id>11604510</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Soncini C, Berdo I, Draetta G: Ras-GAP SH3 domain binding protein (G3BP) is a modulator of USP10, a novel human ubiquitin specific protease. Oncogene. 2001 Jun 28;20(29):3869-79.</reference_text>
+      <pubmed_id>11439350</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tourriere H, Chebli K, Zekri L, Courselaud B, Blanchard JM, Bertrand E, Tazi J: The RasGAP-associated endoribonuclease G3BP assembles stress granules.  J Cell Biol. 2003 Mar 17;160(6):823-31.</reference_text>
+      <pubmed_id>12642610</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ong SE, Mittler G, Mann M: Identifying and quantifying in vivo methylation sites by heavy methyl SILAC. Nat Methods. 2004 Nov;1(2):119-26. Epub 2004 Oct 21.</reference_text>
+      <pubmed_id>15782174</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao WA, Wollscheid B, O'Brien R, Eng JK, Li XJ, Bodenmiller B, Watts JD, Hood L, Aebersold R: Quantitative phosphoproteome analysis using a dendrimer conjugation chemistry and tandem mass spectrometry. Nat Methods. 2005 Aug;2(8):591-8.</reference_text>
+      <pubmed_id>16094384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nousiainen M, Sillje HH, Sauer G, Nigg EA, Korner R: Phosphoproteome analysis of the human mitotic spindle.  Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5391-6. Epub 2006 Mar 24.</reference_text>
+      <pubmed_id>16565220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giorgianni F, Zhao Y, Desiderio DM, Beranova-Giorgianni S: Toward a global characterization of the phosphoproteome in prostate cancer cells: identification of phosphoproteins in the LNCaP cell line. Electrophoresis. 2007 Jun;28(12):2027-34.</reference_text>
+      <pubmed_id>17487921</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang LY, Deng N, Wang LS, Dai J, Wang ZL, Jiang XS, Li SJ, Li L, Sheng QH, Wu DQ, Li L, Zeng R: Quantitative phosphoproteome profiling of Wnt3a-mediated signaling network: indicating the involvement of ribonucleoside-diphosphate reductase M2 subunit phosphorylation at residue serine 20 in canonical Wnt signal transduction. Mol Cell Proteomics. 2007 Nov;6(11):1952-67. Epub 2007 Aug 12.</reference_text>
+      <pubmed_id>17693683</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Han G, Ye M, Zhou H, Jiang X, Feng S, Jiang X, Tian R, Wan D, Zou H, Gu J: Large-scale phosphoproteome analysis of human liver tissue by enrichment and fractionation of phosphopeptides with strong anion exchange chromatography. Proteomics. 2008 Apr;8(7):1346-61.</reference_text>
+      <pubmed_id>18318008</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

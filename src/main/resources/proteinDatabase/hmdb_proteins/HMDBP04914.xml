@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:29:31 -0700</creation_date>
+  <update_date>2013-05-27 11:34:14 -0600</update_date>
+  <accession>HMDBP04914</accession>
+  <secondary_accessions>
+    <accession>10509</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Solute carrier family 19 member 3</synonym>
+    <synonym>ThTr-2</synonym>
+    <synonym>ThTr2</synonym>
+  </synonyms>
+  <gene_name>SLC19A3</gene_name>
+  <general_function>Involved in folic acid binding</general_function>
+  <specific_function>Mediates high affinity thiamine uptake, propably via a proton anti-port mechanism. Has no folate transport activity.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Vitamin digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04977</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00574</accession>
+      <name>L-Cysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>active transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>secondary active transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>reduced folate carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carboxylic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>amino acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>folic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>folic acid binding</description>
+      <go_id>GO:0005542</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>reduced folate carrier activity</description>
+      <go_id>GO:0008518</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>thiamine uptake transmembrane transporter activity</description>
+      <go_id>GO:0015403</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>thiamine-containing compound metabolic process</description>
+      <go_id>GO:0042723</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q37</locus>
+    <gene_sequence>&gt;1491 bp
+ATGGATTGTTACAGAACTTCACTAAGCAGTTCCTGGATTTACCCCACTGTGATCCTCTGC
+TTATTTGGTTTTTTCTCCATGATGAGACCCTCAGAACCATTCCTTATCCCATATTTATCT
+GGACCAGATAAAAACCTGACCAGTGCAGAGATAACAAATGAGATCTTCCCCGTTTGGACA
+TACTCCTACCTGGTGCTGCTGCTGCCTGTGTTTGTCCTCACCGATTATGTCCGCTACAAG
+CCAGTCATCATCTTGCAAGGTATCAGTTTCATCATTACCTGGCTGCTGCTGTTGTTTGGC
+CAAGGAGTGAAGACCATGCAGGTTGTAGAGTTCTTCTATGGGATGGTCACCGCCGCCGAG
+GTGGCCTACTACGCCTACATATACAGCGTGGTCAGCCCCGAGCACTACCAGAGAGTGAGC
+GGCTACTGCAGGAGCGTCACGCTGGCCGCCTACACAGCAGGGTCGGTGCTGGCTCAACTC
+TTGGTATCCCTGGCGAACATGTCGTACTTTTACCTCAACGTCATATCCTTGGCCTCTGTC
+TCCGTGGCTTTCCTTTTCTCACTTTTCCTACCAATGCCCAAGAAAAGCATGTTTTTTCAT
+GCAAAACCCAGCAGAGAAATAAAGAAGTCATCAAGCGTGAATCCAGTATTAGAGGAAACT
+CACGAAGGTGAAGCACCAGGCTGTGAAGAGCAGAAACCCACATCAGAAATACTCAGCACT
+TCAGGGAAGCTGAATAAGGGCCAGCTGAACAGCCTGAAACCAAGCAATGTGACTGTGGAC
+GTTTTTGTGCAGTGGTTCCAAGATTTGAAGGAGTGCTACTCCTCAAAACGTCTTTTCTAC
+TGGTCTCTATGGTGGGCTTTCGCCACAGCAGGTTTTAACCAGGTTTTGAACTATGTTCAA
+ATCCTGTGGGATTACAAGGCGCCATCCCAAGATTCTTCCATCTATAATGGGGCCGTAGAA
+GCTATTGCAACCTTTGGAGGGGCTGTGGCTGCCTTTGCAGTGGGTTATGTGAAAGTCAAC
+TGGGACCTTCTGGGAGAGCTGGCTCTGGTGGTCTTCTCAGTTGTCAATGCCGGTTCTTTA
+TTTCTCATGCATTACACAGCCAATATCTGGGCGTGCTATGCTGGCTATTTGATATTCAAG
+TCCAGCTATATGCTTCTTATAACCATAGCAGTATTTCAGATTGCAGTTAATCTGAATGTG
+GAACGCTATGCCTTGGTATTTGGAATCAACACCTTTATTGCCTTGGTGATTCAGACCATC
+ATGACTGTGATTGTAGTAGATCAGAGAGGGCTCAACTTGCCAGTCAGCATTCAGTTTTTA
+GTTTATGGGAGCTATTTTGCAGTAATTGCTGGAATTTTCCTAATGAGAAGCATGTATATT
+ACCTACTCAACCAAATCCCAGAAGGATGTACAGAGCCCTGCTCCAAGTGAGAATCCAGAT
+GTGTCTCACCCAGAGGAAGAGAGTAATATCATCATGTCAACAAAACTCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>496</residue_number>
+    <molecular_weight>55664.265</molecular_weight>
+    <theoretical_pi>6.408</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Folate_carrier</name>
+        <pfam_id>PF01770</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Thiamine transporter 2
+MDCYRTSLSSSWIYPTVILCLFGFFSMMRPSEPFLIPYLSGPDKNLTSAEITNEIFPVWT
+YSYLVLLLPVFVLTDYVRYKPVIILQGISFIITWLLLLFGQGVKTMQVVEFFYGMVTAAE
+VAYYAYIYSVVSPEHYQRVSGYCRSVTLAAYTAGSVLAQLLVSLANMSYFYLNVISLASV
+SVAFLFSLFLPMPKKSMFFHAKPSREIKKSSSVNPVLEETHEGEAPGCEEQKPTSEILST
+SGKLNKGQLNSLKPSNVTVDVFVQWFQDLKECYSSKRLFYWSLWWAFATAGFNQVLNYVQ
+ILWDYKAPSQDSSIYNGAVEAIATFGGAVAAFAVGYVKVNWDLLGELALVVFSVVNAGSL
+FLMHYTANIWACYAGYLIFKSSYMLLITIAVFQIAVNLNVERYALVFGINTFIALVIQTI
+MTVIVVDQRGLNLPVSIQFLVYGSYFAVIAGIFLMRSMYITYSTKSQKDVQSPAPSENPD
+VSHPEEESNIIMSTKL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9BZV2</uniprot_id>
+  <uniprot_name>S19A3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF271633</genbank_gene_id>
+  <genecard_id>SLC19A3</genecard_id>
+  <geneatlas_id>SLC19A3</geneatlas_id>
+  <hgnc_id>HGNC:16266</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Eudy JD, Spiegelstein O, Barber RC, Wlodarczyk BJ, Talbot J, Finnell RH: Identification and characterization of the human and mouse SLC19A3 gene: a novel member of the reduced folate family of micronutrient transporter genes. Mol Genet Metab. 2000 Dec;71(4):581-90.</reference_text>
+      <pubmed_id>11136550</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rajgopal A, Edmondnson A, Goldman ID, Zhao R: SLC19A3 encodes a second thiamine transporter ThTr2.  Biochim Biophys Acta. 2001 Nov 29;1537(3):175-8.</reference_text>
+      <pubmed_id>11731220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ganapathy V, Smith SB, Prasad PD: SLC19: the folate/thiamine transporter family.  Pflugers Arch. 2004 Feb;447(5):641-6. Epub 2003 May 6.</reference_text>
+      <pubmed_id>14770311</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zeng WQ, Al-Yamani E, Acierno JS Jr, Slaugenhaupt S, Gillis T, MacDonald ME, Ozand PT, Gusella JF: Biotin-responsive basal ganglia disease maps to 2q36.3 and is due to mutations in SLC19A3. Am J Hum Genet. 2005 Jul;77(1):16-26. Epub 2005 May 3.</reference_text>
+      <pubmed_id>15871139</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Cysteine</name>
+        <accession>HMDB00574</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Cysteine</name>
+        <accession>HMDB00574</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

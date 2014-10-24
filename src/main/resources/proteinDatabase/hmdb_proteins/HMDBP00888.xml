@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:12 -0700</creation_date>
+  <update_date>2013-05-27 11:36:00 -0600</update_date>
+  <accession>HMDBP00888</accession>
+  <secondary_accessions>
+    <accession>6170</accession>
+    <accession>HMDBP04692</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>LCB 2</synonym>
+    <synonym>LCB2a</synonym>
+    <synonym>Long chain base biosynthesis protein 2</synonym>
+    <synonym>Long chain base biosynthesis protein 2a</synonym>
+    <synonym>SPT 2</synonym>
+    <synonym>Serine-palmitoyl-CoA transferase 2</synonym>
+  </synonyms>
+  <gene_name>SPTLC2</gene_name>
+  <general_function>Involved in transferase activity</general_function>
+  <specific_function>Serine palmitoyltransferase (SPT). The heterodimer formed with LCB1/SPTLC1 constitutes the catalytic core. The composition of the serine palmitoyltransferase (SPT) complex determines the substrate preference. The SPTLC1-SPTLC2-SPTSSA complex shows a strong preference for C16-CoA substrate, while the SPTLC1-SPTLC2-SPTSSB complex displays a preference for C18-CoA substrate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>sphingolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00600</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00187</accession>
+      <name>L-Serine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01338</accession>
+      <name>Palmityl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01480</accession>
+      <name>3-Dehydrosphinganine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59623</accession>
+      <name>hexadecanoyl-CoA</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cofactor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring nitrogenous groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>serine C-palmitoyltransferase complex</description>
+      <go_id>GO:0017059</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id>GO:0030170</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>serine C-palmitoyltransferase activity</description>
+      <go_id>GO:0004758</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phospholipid metabolic process</description>
+      <go_id>GO:0006644</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphinganine biosynthetic process</description>
+      <go_id>GO:0046511</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingolipid biosynthetic process</description>
+      <go_id>GO:0030148</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingomyelin biosynthetic process</description>
+      <go_id>GO:0006686</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingosine biosynthetic process</description>
+      <go_id>GO:0046512</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>14</chromosome_location>
+    <locus>14q24.3</locus>
+    <gene_sequence>&gt;1689 bp
+ATGCGGCCGGAGCCCGGAGGCTGCTGCTGCCGCCGCACGGTGCGGGCGAATGGCTGCGTG
+GCGAACGGGGAAGTACGGAACGGGTACGTGAGGAGCAGCGCTGCAGCCGCAGCCGCAGCC
+GCCGCCGGCCAGATCCATCATGTTACACAAAATGGAGGACTATATAAAAGACCGTTTAAT
+GAAGCTTTTGAAGAAACACCAATGCTGGTTGCTGTGCTCACGTATGTGGGGTATGGCGTA
+CTCACCCTCTTTGGATATCTTCGAGATTTCTTGAGGTATTGGAGAATTGAAAAGTGTCAC
+CATGCAACAGAAAGAGAAGAACAAAAGGACTTTGTGTCATTGTATCAAGATTTTGAAAAC
+TTTTATACAAGGAATCTGTACATGAGGATAAGAGACAACTGGAATCGGCCAATCTGTAGT
+GTGCCTGGAGCCAGGGTGGACATCATGGAGAGACAGTCTCATGATTATAACTGGTCCTTC
+AAGTATACAGGGAATATAATAAAGGGTGTTATAAACATGGGTTCCTACAACTATCTTGGA
+TTTGCACGGAATACTGGATCATGTCAAGAAGCAGCCGCCAAAGTCCTTGAGGAGTATGGA
+GCTGGAGTGTGCAGTACTCGGCAGGAAATTGGAAACCTGGACAAGCATGAAGAACTAGAG
+GAGCTTGTAGCAAGGTTCTTAGGAGTAGAAGCTGCTATGGCGTATGGCATGGGATTTGCA
+ACGAATTCAATGAACATTCCTGCTCTTGTTGGCAAAGGTTGCCTGATTCTGAGTGATGAA
+CTGAACCATGCATCACTGGTTCTGGGAGCCAGACTGTCAGGAGCAACCATTAGAATCTTC
+AAACACAACAATATGCAAAGCCTAGAGAAGCTATTGAAAGATGCCATTGTTTATGGTCAG
+CCTCGGACACGAAGGCCCTGGAAGAAAATTCTCATCCTTGTGGAAGGAATATATAGCATG
+GAGGGATCTATTGTTCGTCTTCCTGAAGTGATTGCCCTCAAGAAGAAATACAAGGCATAC
+TTGTATCTGGATGAGGCTCACAGCATTGGCGCCCTGGGCCCCACAGGCCGGGGTGTGGTG
+GAGTACTTTGGCCTGGATCCCGAGGATGTGGATGTTATGATGGGAACGTTCACAAAGAGT
+TTTGGTGCTTCTGGAGGATATATTGGAGGCAAGAAGGAGCTGATAGACTACCTGCGAACA
+CATTCTCATAGTGCAGTGTATGCCACGTCATTGTCACCTCCTGTAGTGGAGCAGATCATC
+ACCTCCATGAAGTGCATCATGGGGCAGGATGGCACCAGCCTTGGTAAAGAGTGTGTACAA
+CAGTTAGCTGAAAACACCAGGTATTTCAGGAGACGCCTGAAAGAGATGGGCTTCATCATC
+TATGGAAATGAAGACTCTCCAGTAGTGCCTTTGATGCTCTACATGCCTGCCAAAATTGGC
+GCCTTTGGACGGGAGATGCTGAAGCGGAACATCGGTGTCGTTGTGGTTGGATTTCCTGCC
+ACCCCAATTATTGAGTCCAGAGCCAGGTTTTGCCTGTCAGCAGCTCATACCAAAGAAATA
+CTTGATACTGCTTTAAAGGAGATAGATGAAGTTGGGGACCTATTGCAGCTGAAGTATTCC
+CGTCATCGGTTGGTACCTCTACTGGACAGGCCCTTTGACGAGACGACGTATGAAGAAACA
+GAAGACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>562</residue_number>
+    <molecular_weight>62923.765</molecular_weight>
+    <theoretical_pi>7.785</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aminotran_1_2</name>
+        <pfam_id>PF00155</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Serine palmitoyltransferase 2
+MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQIHHVTQNGGLYKRPFN
+EAFEETPMLVAVLTYVGYGVLTLFGYLRDFLRYWRIEKCHHATEREEQKDFVSLYQDFEN
+FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLG
+FARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA
+TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQ
+PRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV
+EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQII
+TSMKCIMGQDGTSLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG
+AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYS
+RHRLVPLLDRPFDETTYEETED</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2564249</genbank_protein_id>
+  <uniprot_id>O15270</uniprot_id>
+  <uniprot_name>SPTC2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>Y08686</genbank_gene_id>
+  <genecard_id>SPTLC2</genecard_id>
+  <geneatlas_id>SPTLC2</geneatlas_id>
+  <hgnc_id>HGNC:11278</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Weiss B, Stoffel W: Human and murine serine-palmitoyl-CoA transferase--cloning, expression and characterization of the key enzyme in sphingolipid synthesis. Eur J Biochem. 1997 Oct 1;249(1):239-47.</reference_text>
+      <pubmed_id>9363775</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. IX. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro. DNA Res. 1998 Feb 28;5(1):31-9.</reference_text>
+      <pubmed_id>9628581</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heilig R, Eckenberg R, Petit JL, Fonknechten N, Da Silva C, Cattolico L, Levy M, Barbe V, de Berardinis V, Ureta-Vidal A, Pelletier E, Vico V, Anthouard V, Rowen L, Madan A, Qin S, Sun H, Du H, Pepin K, Artiguenave F, Robert C, Cruaud C, Bruls T, Jaillon O, Friedlander L, Samson G, Brottier P, Cure S, Segurens B, Aniere F, Samain S, Crespeau H, Abbasi N, Aiach N, Boscus D, Dickhoff R, Dors M, Dubois I, Friedman C, Gouyvenoux M, James R, Madan A, Mairey-Estrada B, Mangenot S, Martins N, Menard M, Oztas S, Ratcliffe A, Shaffer T, Trask B, Vacherie B, Bellemere C, Belser C, Besnard-Gonnet M, Bartol-Mavel D, Boutard M, Briez-Silla S, Combette S, Dufosse-Laurent V, Ferron C, Lechaplais C, Louesse C, Muselet D, Magdelenat G, Pateau E, Petit E, Sirvain-Trukniewicz P, Trybou A, Vega-Czarny N, Bataille E, Bluet E, Bordelais I, Dubois M, Dumont C, Guerin T, Haffray S, Hammadi R, Muanga J, Pellouin V, Robert D, Wunderle E, Gauguet G, Roy A, Sainte-Marthe L, Verdier J, Verdier-Discala C, Hillier L, Fulton L, McPherson J, Matsuda F, Wilson R, Scarpelli C, Gyapay G, Wincker P, Saurin W, Quetier F, Waterston R, Hood L, Weissenbach J: The DNA sequence and analysis of human chromosome 14.  Nature. 2003 Feb 6;421(6923):601-7. Epub 2003 Jan 1.</reference_text>
+      <pubmed_id>12508121</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagiec MM, Lester RL, Dickson RC: Sphingolipid synthesis: identification and characterization of mammalian cDNAs encoding the Lcb2 subunit of serine palmitoyltransferase. Gene. 1996 Oct 24;177(1-2):237-41.</reference_text>
+      <pubmed_id>8921873</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeda J, Yano H, Eng S, Zeng Y, Bell GI: A molecular inventory of human pancreatic islets: sequence analysis of 1000 cDNA clones. Hum Mol Genet. 1993 Nov;2(11):1793-8.</reference_text>
+      <pubmed_id>7506601</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hornemann T, Richard S, Rutti MF, Wei Y, von Eckardstein A: Cloning and initial characterization of a new subunit for mammalian serine-palmitoyltransferase. J Biol Chem. 2006 Dec 8;281(49):37275-81. Epub 2006 Oct 4.</reference_text>
+      <pubmed_id>17023427</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Han G, Gupta SD, Gable K, Niranjanakumari S, Moitra P, Eichler F, Brown RH Jr, Harmon JM, Dunn TM: Identification of small subunits of mammalian serine palmitoyltransferase that confer distinct acyl-CoA substrate specificities. Proc Natl Acad Sci U S A. 2009 May 19;106(20):8186-91. Epub 2009 May 5.</reference_text>
+      <pubmed_id>19416851</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Serine</name>
+        <accession>HMDB00187</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yard BA, Carter LG, Johnson KA, Overton IM, Dorward M, Liu H, McMahon SA, Oke M, Puech D, Barton GJ, Naismith JH, Campopiano DJ: The structure of serine palmitoyltransferase; gateway to sphingolipid biosynthesis. J Mol Biol. 2007 Jul 27;370(5):870-86. Epub 2007 May 10.</reference_text>
+        <pubmed_id>17559874</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:00:46 -0600</creation_date>
+  <update_date>2013-05-27 11:00:46 -0600</update_date>
+  <accession>HMDBP11606</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ARL-1</synonym>
+    <synonym>Aldose reductase-like</synonym>
+    <synonym>Aldose reductase-related protein</synonym>
+    <synonym>Small intestine reductase</synonym>
+    <synonym>ARP</synonym>
+    <synonym>hARP</synonym>
+    <synonym>SI reductase</synonym>
+  </synonyms>
+  <gene_name>AKR1B10</gene_name>
+  <general_function/>
+  <specific_function>Acts as all-trans-retinaldehyde reductase. Can efficiently reduce aliphatic and aromatic aldehydes, and is less active on hexoses (in vitro). May be responsible for detoxification of reactive aldehydes in the digested food before the nutrients are passed on to other organs.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Pentose and glucuronate interconversions</name>
+      <smpdb_id/>
+      <kegg_map_id>map00040</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Fructose and mannose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00051</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Galactose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00052</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycerolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00561</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyruvate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00620</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00131</accession>
+      <name>Glycerol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01051</accession>
+      <name>Glyceraldehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03449</accession>
+      <name>Beta-D-Galactose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00107</accession>
+      <name>Galactitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02917</accession>
+      <name>D-Xylitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00098</accession>
+      <name>D-Xylose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01851</accession>
+      <name>L-Arabitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00646</accession>
+      <name>L-Arabinose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00247</accession>
+      <name>Sorbitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03345</accession>
+      <name>Alpha-D-Glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03052</accession>
+      <name>Lactaldehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01167</accession>
+      <name>Pyruvaldehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01881</accession>
+      <name>Propylene glycol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosome</description>
+      <go_id>GO:0005764</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular region</description>
+      <go_id>GO:0005576</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular aldehyde metabolic process</description>
+      <go_id>GO:0006081</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>aldo-keto reductase (NADP) activity</description>
+      <go_id>GO:0004033</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>geranylgeranyl reductase activity</description>
+      <go_id>GO:0045550</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>indanol dehydrogenase activity</description>
+      <go_id>GO:0047718</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>retinal dehydrogenase activity</description>
+      <go_id>GO:0001758</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>daunorubicin metabolic process</description>
+      <go_id>GO:0044597</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>digestion</description>
+      <go_id>GO:0007586</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>doxorubicin metabolic process</description>
+      <go_id>GO:0044598</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>farnesol catabolic process</description>
+      <go_id>GO:0016488</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>steroid metabolic process</description>
+      <go_id>GO:0008202</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence/>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O60218</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>1ZUA</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:382</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

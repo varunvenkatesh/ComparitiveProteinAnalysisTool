@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:11:10 -0600</creation_date>
+  <update_date>2013-05-27 11:11:10 -0600</update_date>
+  <accession>HMDBP11710</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>hDNA2</synonym>
+    <synonym>DNA replication ATP-dependent helicase-like homolog</synonym>
+  </synonyms>
+  <gene_name>DNA2</gene_name>
+  <general_function/>
+  <specific_function>Key enzyme involved in DNA replication and DNA repair in nucleus and mitochondrion. Involved in Okazaki fragments processing by cleaving long flaps that escape FEN1: flaps that are longer than 27 nucleotides are coated by replication protein A complex (RPA), leading to recruit DNA2 which cleaves the flap until it is too short to bind RPA and becomes a substrate for FEN1. Also involved in 5'-end resection of DNA during double-strand break (DSB) repair: recruited by BLM and mediates the cleavage of 5'-ssDNA, while the 3'-ssDNA cleavage is prevented by the presence of RPA. Also involved in DNA replication checkpoint independently of Okazaki fragments processing. Possesses different enzymatic activities, such as single-stranded DNA (ssDNA)-dependent ATPase, 5'-3' helicase and endonuclease activities. While the ATPase and endonuclease activities are well-defined and play a key role in Okazaki fragments processing and DSB repair, the 5'-3' DNA helicase activity is subject to debate. According to various reports, the helicase activity is weak and its function remains largely unclear. Helicase activity may promote the motion of DNA2 on the flap, helping the nuclease function.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>DNA replication</name>
+      <smpdb_id/>
+      <kegg_map_id>map03030</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial nucleoid</description>
+      <go_id>GO:0042645</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>4 iron, 4 sulfur cluster binding</description>
+      <go_id>GO:0051539</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>base-excision repair</description>
+      <go_id>GO:0006284</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA double-strand break processing</description>
+      <go_id>GO:0000729</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>S phase of mitotic cell cycle</description>
+      <go_id>GO:0000084</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>5'-3' DNA helicase activity</description>
+      <go_id>GO:0043139</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>5'-flap endonuclease activity</description>
+      <go_id>GO:0017108</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>single-stranded DNA-dependent ATPase activity</description>
+      <go_id>GO:0043142</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>site-specific endodeoxyribonuclease activity, specific for altered base</description>
+      <go_id>GO:0016890</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication checkpoint</description>
+      <go_id>GO:0000076</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication, removal of RNA primer</description>
+      <go_id>GO:0043137</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrial DNA repair</description>
+      <go_id>GO:0043504</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrial DNA replication</description>
+      <go_id>GO:0006264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of DNA replication</description>
+      <go_id>GO:0045740</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via recombination</description>
+      <go_id>GO:0000722</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via semi-conservative replication</description>
+      <go_id>GO:0032201</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q21.3-q22.1</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>120413.595</molecular_weight>
+    <theoretical_pi>7.739</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Dna2</name>
+        <pfam_id>PF08696</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|320461728|ref|NP_001073918.2| DNA replication ATP-dependent helicase/nuclease DNA2 [Homo sapiens]
+MEQLNELELLMEKSFWEEAELPAELFQKKVVASFPRTVLSTGMDNRYLVLAVNTVQNKEG
+NCEKRLVITA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P51530</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:2939</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

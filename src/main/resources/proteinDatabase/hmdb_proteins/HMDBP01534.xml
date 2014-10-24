@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:26 -0700</creation_date>
+  <update_date>2013-05-27 11:04:42 -0600</update_date>
+  <accession>HMDBP01534</accession>
+  <secondary_accessions>
+    <accession>6830</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Na(+)/K(+) ATPase alpha-2 subunit</synonym>
+    <synonym>Sodium pump subunit alpha-2</synonym>
+  </synonyms>
+  <gene_name>ATP1A2</gene_name>
+  <general_function>Involved in ATP binding</general_function>
+  <specific_function>This is the catalytic component of the active enzyme, which catalyzes the hydrolysis of ATP coupled with the exchange of sodium and potassium ions across the plasma membrane. This action creates the electrochemical gradient of sodium and potassium, providing the energy for active transport of various nutrients.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Cardiac muscle contraction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04260</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Insulin secretion</name>
+      <smpdb_id/>
+      <kegg_map_id>map04911</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Aldosterone-regulated sodium reabsorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04960</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Endocrine and other factor-regulated calcium reabsorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04961</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Proximal tubule bicarbonate reclamation</name>
+      <smpdb_id/>
+      <kegg_map_id>map04964</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Salivary secretion</name>
+      <smpdb_id/>
+      <kegg_map_id>map04970</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Gastric acid secretion</name>
+      <smpdb_id/>
+      <kegg_map_id>map04971</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pancreatic secretion</name>
+      <smpdb_id/>
+      <kegg_map_id>map04972</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Carbohydrate digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04973</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Protein digestion and absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04974</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Bile secretion</name>
+      <smpdb_id/>
+      <kegg_map_id>map04976</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Mineral absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04978</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00586</accession>
+      <name>Potassium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity, coupled to transmembrane movement of ions</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity, coupled to transmembrane movement of ions, phosphorylative mechanism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inorganic cation transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monovalent inorganic cation transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine nucleoside triphosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine ribonucleoside triphosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>atp biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>caveola</description>
+      <go_id>GO:0005901</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>dendritic spine</description>
+      <go_id>GO:0043197</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endosome</description>
+      <go_id>GO:0005768</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>sarcolemma</description>
+      <go_id>GO:0042383</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>sodium:potassium-exchanging ATPase complex</description>
+      <go_id>GO:0005890</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>synapse</description>
+      <go_id>GO:0045202</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cation-transporting ATPase activity</description>
+      <go_id>GO:0019829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sodium:potassium-exchanging ATPase activity</description>
+      <go_id>GO:0005391</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>adult locomotory behavior</description>
+      <go_id>GO:0008344</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ATP biosynthetic process</description>
+      <go_id>GO:0006754</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ATP hydrolysis coupled proton transport</description>
+      <go_id>GO:0015991</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>locomotion</description>
+      <go_id>GO:0040011</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of heart contraction</description>
+      <go_id>GO:0045822</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of striated muscle contraction</description>
+      <go_id>GO:0045988</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter uptake</description>
+      <go_id>GO:0001504</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>reduction of cytosolic calcium ion concentration</description>
+      <go_id>GO:0051481</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of blood pressure</description>
+      <go_id>GO:0008217</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of respiratory gaseous exchange by neurological system process</description>
+      <go_id>GO:0002087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of smooth muscle contraction</description>
+      <go_id>GO:0006940</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of striated muscle contraction</description>
+      <go_id>GO:0006942</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of the force of heart contraction</description>
+      <go_id>GO:0002026</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of vasoconstriction</description>
+      <go_id>GO:0019229</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>visual learning</description>
+      <go_id>GO:0008542</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q23.2</locus>
+    <gene_sequence>&gt;3063 bp
+ATGGGCCGTGGGGCTGGCCGTGAGTACTCACCTGCCGCCACCACGGCAGAGAATGGGGGC
+GGCAAGAAGAAACAGAAGGAGAAGGAACTGGATGAGCTGAAGAAGGAGGTGGCAATGGAT
+GACCACAAGCTGTCCTTGGATGAGCTGGGCCGCAAATACCAAGTGGACCTGTCCAAGGGC
+CTCACCAACCAGCGGGCTCAGGACGTTCTGGCTCGAGATGGGCCCAACGCCCTCACACCA
+CCTCCCACAACCCCTGAGTGGGTCAAGTTCTGCCGTCAGCTTTTCGGGGGGTTCTCCATC
+CTGCTGTGGATTGGGGCTATCCTCTGCTTCCTGGCCTACGGCATCCAGGCTGCCATGGAG
+GATGAACCATCCAACGACAATCTATATCTGGGTGTGGTGCTGGCAGCTGTGGTCATTGTC
+ACTGGCTGCTTCTCCTACTACCAGGAGGCCAAGAGCTCCAAGATCATGGATTCCTTCAAG
+AACATGGTACCTCAGCAAGCCCTTGTGATCCGGGAGGGAGAGAAGATGCAGATCAACGCA
+GAGGAAGTGGTGGTGGGAGACCTGGTGGAGGTGAAGGGTGGAGACCGCGTCCCTGCTGAC
+CTCCGGATCATCTCTTCTCATGGCTGTAAGGTGGATAACTCATCCTTAACAGGAGAGTCG
+GAGCCCCAGACCCGCTCCCCCGAGTTCACCCATGAGAACCCCCTGGAGACCCGCAATATC
+TGTTTCTTCTCCACCAACTGTGTTGAAGGCACTGCCAGGGGCATTGTGATTGCCACAGGA
+GACCGGACGGTGATGGGCCGCATAGCTACTCTCGCCTCAGGCCTGGAGGTTGGGCGGACA
+CCCATAGCAATGGAGATTGAACACTTCATCCAGCTGATCACAGGGGTCGCTGTATTCCTG
+GGGGTCTCCTTCTTCGTGCTCTCCCTCATCCTGGGCTACAGCTGGCTGGAGGCAGTCATC
+TTCCTCATCGGCATCATAGTGGCCAACGTGCCTGAGGGGCTTCTGGCCACTGTCACTGTG
+TGCCTGACCCTGACAGCCAAGCGCATGGCACGGAAGAACTGCCTGGTGAAGAACCTGGAG
+GCGGTGGAGACGCTGGGCTCCACGTCCACCATCTGCTCGGACAAGACGGGCACCCTCACC
+CAGAACCGCATGACCGTCGCCCACATGTGGTTCGACAACCAAATCCATGAGGCTGACACC
+ACCGAAGATCAGTCTGGGGCCACTTTTGACAAACGATCCCCTACGTGGACGGCCCTGTCT
+CGAATTGCTGGTCTCTGCAACCGCGCCGTCTTCAAGGCAGGACAGGAGAACATCTCCGTG
+TCTAAGCGGGACACAGCTGGTGATGCCTCTGAGTCAGCTCTGCTCAAGTGCATTGAGCTC
+TCCTGTGGCTCAGTGAGGAAAATGAGAGACAGAAACCCCAAGGTGGCAGAGATTCCTTTC
+AACTCTACCAACAAGTACCAGCTGTCTATCCACGAGCGAGAAGACAGCCCCCAGAGCCAC
+GTGCTGGTGATGAAGGGGGCCCCAGAGCGCATTCTGGACCGGTGCTCCACCATCCTGGTG
+CAGGGCAAGGAGATCCCGCTCGACAAGGAGATGCAAGATGCCTTTCAAAATGCCTACATG
+GAGCTGGGGGGACTTGGGGAGCGTGTGCTGGGATTCTGTCAACTGAATCTGCCATCTGGA
+AAGTTTCCTCGGGGCTTCAAATTCGACACGGATGAGCTGAACTTTCCCACGGAGAAGCTT
+TGCTTTGTGGGGCTCATGTCTATGATTGACCCTCCCCGGGCTGCTGTGCCAGATGCTGTG
+GGCAAGTGCCGAAGCGCAGGCATCAAGGTGATCATGGTAACCGGGGATCACCCTATCACA
+GCCAAGGCCATTGCCAAAGGCGTGGGCATCATATCAGAGGGTAACGAGACTGTGGAGGAC
+ATTGCAGCCCGGCTCAACATTCCCATGAGTCAAGTCAACCCCAGAGAAGCCAAGGCATGC
+GTGGTGCACGGCTCTGACCTGAAGGACATGACATCGGAGCAGCTCGATGAGATCCTCAAG
+AACCACACAGAGATCGTCTTTGCTCGAACGTCTCCCCAGCAGAAGCTCATCATTGTGGAG
+GGATGTCAGAGGCAGGGAGCCATTGTGGCCGTGACGGGTGACGGGGTGAACGACTCCCCT
+GCATTGAAGAAGGCTGACATTGGCATTGCCATGGGCATCTCTGGCTCTGACGTCTCTAAG
+CAGGCAGCCGACATGATCCTGCTGGATGACAACTTTGCCTCCATCGTCACGGGGGTGGAG
+GAGGGCCGCCTGATCTTTGACAACTTGAAGAAATCCATCGCCTACACCCTGACCAGCAAC
+ATCCCCGAGATCACCCCCTTCCTGCTGTTCATCATTGCCAACATCCCCCTACCTCTGGGC
+ACTGTGACCATCCTTTGCATTGACCTGGGCACAGATATGGTCCCTGCCATCTCCTTGGCC
+TATGAGGCAGCTGAGAGTGATATCATGAAGCGGCAGCCACGAAACTCCCAGACGGACAAG
+CTGGTGAATGAGAGGCTCATCAGCATGGCCTACGGACAGATCGGGATGATCCAGGCACTG
+GGTGGCTTCTTCACCTACTTTGTGATCCTGGCAGAGAACGGTTTCCTGCCATCACGGCTA
+CTGGGAATCCGCCTCGACTGGGATGACCGGACCATGAATGATCTGGAGGACAGCTATGGA
+CAGGAGTGGACCTATGAGCAGCGGAAGGTGGTGGAGTTCACGTGCCACACGGCATTCTTT
+GCCAGCATCGTGGTGGTGCAGTGGGCTGACCTCATCATCTGCAAGACCCGCCGCAACTCA
+GTCTTCCAGCAGGGCATGAAGAACAAGATCCTGATTTTTGGGCTCCTGGAGGAGACGGCG
+TTGGCTGCCTTTCTCTCTTACTGCCCAGGCATGGGTGTAGCCCTCCGCATGTACCCGCTC
+AAAGTCACCTGGTGGTTCTGCGCCTTCCCCTACAGCCTCCTCATCTTCATCTATGATGAG
+GTCCGAAAGCTCATCCTGCGGCGGTATCCTGGTGGCTGGGTGGAGAAGGAGACATACTAC
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1020</residue_number>
+    <molecular_weight>112264.385</molecular_weight>
+    <theoretical_pi>5.651</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Cation_ATPase_C</name>
+        <pfam_id>PF00689</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Cation_ATPase_N</name>
+        <pfam_id>PF00690</pfam_id>
+      </pfam>
+      <pfam>
+        <name>E1-E2_ATPase</name>
+        <pfam_id>PF00122</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Hydrolase</name>
+        <pfam_id>PF00702</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Sodium/potassium-transporting ATPase subunit alpha-2
+MGRGAGREYSPAATTAENGGGKKKQKEKELDELKKEVAMDDHKLSLDELGRKYQVDLSKG
+LTNQRAQDVLARDGPNALTPPPTTPEWVKFCRQLFGGFSILLWIGAILCFLAYGIQAAME
+DEPSNDNLYLGVVLAAVVIVTGCFSYYQEAKSSKIMDSFKNMVPQQALVIREGEKMQINA
+EEVVVGDLVEVKGGDRVPADLRIISSHGCKVDNSSLTGESEPQTRSPEFTHENPLETRNI
+CFFSTNCVEGTARGIVIATGDRTVMGRIATLASGLEVGRTPIAMEIEHFIQLITGVAVFL
+GVSFFVLSLILGYSWLEAVIFLIGIIVANVPEGLLATVTVCLTLTAKRMARKNCLVKNLE
+AVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTEDQSGATFDKRSPTWTALS
+RIAGLCNRAVFKAGQENISVSKRDTAGDASESALLKCIELSCGSVRKMRDRNPKVAEIPF
+NSTNKYQLSIHEREDSPQSHVLVMKGAPERILDRCSTILVQGKEIPLDKEMQDAFQNAYM
+ELGGLGERVLGFCQLNLPSGKFPRGFKFDTDELNFPTEKLCFVGLMSMIDPPRAAVPDAV
+GKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPMSQVNPREAKAC
+VVHGSDLKDMTSEQLDEILKNHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSP
+ALKKADIGIAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSIAYTLTSN
+IPEITPFLLFIIANIPLPLGTVTILCIDLGTDMVPAISLAYEAAESDIMKRQPRNSQTDK
+LVNERLISMAYGQIGMIQALGGFFTYFVILAENGFLPSRLLGIRLDWDDRTMNDLEDSYG
+QEWTYEQRKVVEFTCHTAFFASIVVVQWADLIICKTRRNSVFQQGMKNKILIFGLLEETA
+LAAFLSYCPGMGVALRMYPLKVTWWFCAFPYSLLIFIYDEVRKLILRRYPGGWVEKETYY
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4502271</genbank_protein_id>
+  <uniprot_id>P50993</uniprot_id>
+  <uniprot_name>AT1A2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_000702.3</genbank_gene_id>
+  <genecard_id>ATP1A2</genecard_id>
+  <geneatlas_id>ATP1A2</geneatlas_id>
+  <hgnc_id>HGNC:800</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Shull MM, Pugh DG, Lingrel JB: Characterization of the human Na,K-ATPase alpha 2 gene and identification of intragenic restriction fragment length polymorphisms. J Biol Chem. 1989 Oct 15;264(29):17532-43.</reference_text>
+      <pubmed_id>2477373</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Suyama M, Kikuno R, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. XI. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1998 Oct 30;5(5):277-86.</reference_text>
+      <pubmed_id>9872452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shull MM, Lingrel JB: Multiple genes encode the human Na+,K+-ATPase catalytic subunit.  Proc Natl Acad Sci U S A. 1987 Jun;84(12):4039-43.</reference_text>
+      <pubmed_id>3035563</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sverdlov ED, Monastyrskaya GS, Broude NE, Ushkaryov YuA, Allikmets RL, Melkov AM, Smirnov YuV, Malyshev IV, Dulobova IE, Petrukhin KE, et al.: The family of human Na+,K+-ATPase genes. No less than five genes and/or pseudogenes related to the alpha-subunit. FEBS Lett. 1987 Jun 15;217(2):275-8.</reference_text>
+      <pubmed_id>3036582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sverdlov ED, Bessarab DA, Malyshev IV, Petrukhin KE, Smirnov YuV, Ushkaryov YuA, Monastyrskaya GS, Broude NE, Modyanov NN: Family of human Na+,K+-ATPase genes. Structure of the putative regulatory region of the alpha+-gene. FEBS Lett. 1989 Feb 27;244(2):481-3.</reference_text>
+      <pubmed_id>2537767</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vanmolkot KR, Kors EE, Hottenga JJ, Terwindt GM, Haan J, Hoefnagels WA, Black DF, Sandkuijl LA, Frants RR, Ferrari MD, van den Maagdenberg AM: Novel mutations in the Na+, K+-ATPase pump gene ATP1A2 associated with familial hemiplegic migraine and benign familial infantile convulsions. Ann Neurol. 2003 Sep;54(3):360-6.</reference_text>
+      <pubmed_id>12953268</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Fusco M, Marconi R, Silvestri L, Atorino L, Rampoldi L, Morgante L, Ballabio A, Aridon P, Casari G: Haploinsufficiency of ATP1A2 encoding the Na+/K+ pump alpha2 subunit associated with familial hemiplegic migraine type 2. Nat Genet. 2003 Feb;33(2):192-6. Epub 2003 Jan 21.</reference_text>
+      <pubmed_id>12539047</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Swoboda KJ, Kanavakis E, Xaidara A, Johnson JE, Leppert MF, Schlesinger-Massart MB, Ptacek LJ, Silver K, Youroukos S: Alternating hemiplegia of childhood or familial hemiplegic migraine? A novel ATP1A2 mutation. Ann Neurol. 2004 Jun;55(6):884-7.</reference_text>
+      <pubmed_id>15174025</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

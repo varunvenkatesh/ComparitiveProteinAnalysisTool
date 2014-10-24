@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:49 -0700</creation_date>
+  <update_date>2013-05-27 11:35:54 -0600</update_date>
+  <accession>HMDBP01587</accession>
+  <secondary_accessions>
+    <accession>6883</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Sulfoglucosamine sulfamidase</synonym>
+    <synonym>Sulphamidase</synonym>
+  </synonyms>
+  <gene_name>SGSH</gene_name>
+  <general_function>Inorganic ion transport and metabolism</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycosaminoglycan degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00531</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01481</accession>
+      <name>N-Sulfo-D-glucosamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01514</accession>
+      <name>Glucosamine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sulfuric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal lumen</description>
+      <go_id>GO:0043202</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>catalytic activity</description>
+      <go_id>GO:0003824</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>N-sulfoglucosamine sulfohydrolase activity</description>
+      <go_id>GO:0016250</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sulfuric ester hydrolase activity</description>
+      <go_id>GO:0008484</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosaminoglycan catabolic process</description>
+      <go_id>GO:0006027</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proteoglycan metabolic process</description>
+      <go_id>GO:0006029</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q25.3</locus>
+    <gene_sequence>&gt;1509 bp
+ATGAGCTGCCCCGTGCCCGCCTGCTGCGCGCTGCTGCTAGTCCTGGGGCTCTGCCGGGCG
+CGTCCCCGGAACGCACTGCTGCTCCTCGCGGATGACGGAGGCTTTGAGAGTGGCGCGTAC
+AACAACAGCGCCATCGCCACCCCGCACCTGGACGCCTTGGCCCGCCGCAGCCTCCTCTTT
+CGCAATGCCTTCACCTCGGTCAGCAGCTGCTCTCCCAGCCGCGCCAGCCTCCTCACTGGC
+CTGCCCCAGCATCAGAATGGGATGTACGGGCTGCACCAGGACGTGCACCACTTCAACTCC
+TTCGACAAGGTGCGGAGCCTGCCGCTGCTGCTCAGCCAAGCTGGTGTGCGCACAGGCATC
+ATCGGGAAGAAGCACGTGGGGCCGGAGACCGTGTACCCGTTTGACTTTGCGTACACGGAG
+GAGAATGGCTCCGTCCTCCAGGTGGGGCGGAACATCACTAGAATTAAGCTGCTCGTCCGG
+AAATTCCTGCAGACTCAGGATGACCGGCCTTTCTTCCTCTACGTCGCCTTCCACGACCCC
+CACCGCTGTGGGCACTCCCAGCCCCAGTACGGAACCTTCTGTGAGAAGTTTGGCAACGGA
+GAGAGCGGCATGGGTCGTATCCCAGACTGGACCCCCCAGGCCTACGACCCACTGGACGTG
+CTGGTGCCTTACTTCGTCCCCAACACCCCGGCAGCCCGAGCCGACCTGGCCGCTCAGTAC
+ACCACCGTCGGCCGCATGGACCAAGGAGTTGGACTGGTGCTCCAGGAGCTGCGTGACGCC
+GGTGTCCTGAACGACACACTGGTGATCTTCACGTCCGACAACGGGATCCCCTTCCCCAGC
+GGCAGGACCAACCTGTACTGGCCGGGCACTGCTGAACCCTTACTGGTGTCATCCCCGGAG
+CACCCAAAACGCTGGGGCCAAGTCAGCGAGGCCTACGTGAGCCTCCTAGACCTCACGCCC
+ACCATCTTGGATTGGTTCTCGATCCCGTACCCCAGCTACGCCATCTTTGGCTCGAAGACC
+ATCCACCTCACTGGCCGGTCCCTCCTGCCGGCGCTGGAGGCCGAGCCCCTCTGGGCCACC
+GTCTTTGGCAGCCAGAGCCACCACGAGGTCACCATGTCCTACCCCATGCGCTCCGTGCAG
+CACCGGCACTTCCGCCTCGTGCACAACCTCAACTTCAAGATGCCCTTTCCCATCGACCAG
+GACTTCTACGTCTCACCCACCTTCCAGGACCTCCTGAACCGCACCACAGCTGGTCAGCCC
+ACGGGCTGGTACAAGGACCTCCGTCATTACTACTACCGGGCGCGCTGGGAGCTCTACGAC
+CGGAGCCGGGACCCCCACGAGACCCAGAACCTGGCCACCGACCCGCGCTTTGCTCAGCTT
+CTGGAGATGCTTCGGGACCAGCTGGCCAAGTGGCAGTGGGAGACCCACGACCCCTGGGTG
+TGCGCCCCCGACGGCGTCCTGGAGGAGAAGCTCTCTCCCCAGTGCCAGCCCCTCCACAAT
+GAGCTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>502</residue_number>
+    <molecular_weight>56694.875</molecular_weight>
+    <theoretical_pi>6.952</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sulfatase</name>
+        <pfam_id>PF00884</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;N-sulphoglucosamine sulphohydrolase
+MSCPVPACCALLLVLGLCRARPRNALLLLADDGGFESGAYNNSAIATPHLDALARRSLLF
+RNAFTSVSSCSPSRASLLTGLPQHQNGMYGLHQDVHHFNSFDKVRSLPLLLSQAGVRTGI
+IGKKHVGPETVYPFDFAYTEENGSVLQVGRNITRIKLLVRKFLQTQDDRPFFLYVAFHDP
+HRCGHSQPQYGTFCEKFGNGESGMGRIPDWTPQAYDPLDVLVPYFVPNTPAARADLAAQY
+TTVGRMDQGVGLVLQELRDAGVLNDTLVIFTSDNGIPFPSGRTNLYWPGTAEPLLVSSPE
+HPKRWGQVSEAYVSLLDLTPTILDWFSIPYPSYAIFGSKTIHLTGRSLLPALEAEPLWAT
+VFGSQSHHEVTMSYPMRSVQHRHFRLVHNLNFKMPFPIDQDFYVSPTFQDLLNRTTAGQP
+TGWYKDLRHYYYRARWELYDRSRDPHETQNLATDPRFAQLLEMLRDQLAKWQWETHDPWV
+CAPDGVLEEKLSPQCQPLHNEL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>158255950</genbank_protein_id>
+  <uniprot_id>P51688</uniprot_id>
+  <uniprot_name>SPHM_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK291257</genbank_gene_id>
+  <genecard_id>SGSH</genecard_id>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:10818</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Scott HS, Blanch L, Guo XH, Freeman C, Orsborn A, Baker E, Sutherland GR, Morris CP, Hopwood JJ: Cloning of the sulphamidase gene and identification of mutations in Sanfilippo A syndrome. Nat Genet. 1995 Dec;11(4):465-7.</reference_text>
+      <pubmed_id>7493035</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang H, Li XJ, Martin DB, Aebersold R: Identification and quantification of N-linked glycoproteins using hydrazide chemistry, stable isotope labeling and mass spectrometry. Nat Biotechnol. 2003 Jun;21(6):660-6. Epub 2003 May 18.</reference_text>
+      <pubmed_id>12754519</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blanch L, Weber B, Guo XH, Scott HS, Hopwood JJ: Molecular defects in Sanfilippo syndrome type A.  Hum Mol Genet. 1997 May;6(5):787-91.</reference_text>
+      <pubmed_id>9158154</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Weber B, Guo XH, Wraith JE, Cooper A, Kleijer WJ, Bunge S, Hopwood JJ: Novel mutations in Sanfilippo A syndrome: implications for enzyme function. Hum Mol Genet. 1997 Sep;6(9):1573-9.</reference_text>
+      <pubmed_id>9285796</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bunge S, Ince H, Steglich C, Kleijer WJ, Beck M, Zaremba J, van Diggelen OP, Weber B, Hopwood JJ, Gal A: Identification of 16 sulfamidase gene mutations including the common R74C in patients with mucopolysaccharidosis type IIIA (Sanfilippo A). Hum Mutat. 1997;10(6):479-85.</reference_text>
+      <pubmed_id>9401012</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Natale P, Balzano N, Esposito S, Villani GR: Identification of molecular defects in Italian Sanfilippo A patients including 13 novel mutations. Hum Mutat. 1998;11(4):313-20.</reference_text>
+      <pubmed_id>9554748</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Montfort M, Vilageliu L, Garcia-Giralt N, Guidi S, Coll MJ, Chabas A, Grinberg D: Mutation 1091delC is highly prevalent in Spanish Sanfilippo syndrome type A patients. Hum Mutat. 1998;12(4):274-9.</reference_text>
+      <pubmed_id>9744479</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beesley CE, Young EP, Vellodi A, Winchester BG: Mutational analysis of Sanfilippo syndrome type A (MPS IIIA): identification of 13 novel mutations. J Med Genet. 2000 Sep;37(9):704-7.</reference_text>
+      <pubmed_id>11182930</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee-Chen GJ, Lin SP, Ko MH, Chuang CK, Chen CP, Lee HH, Cheng SC, Shen CH, Tseng KL, Li CL: Identification and characterization of mutations underlying Sanfilippo syndrome type A (mucopolysaccharidosis type IIIA). Clin Genet. 2002 Mar;61(3):192-7.</reference_text>
+      <pubmed_id>12000360</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Emre S, Terzioglu M, Tokatli A, Coskun T, Ozalp I, Weber B, Hopwood JJ: Sanfilippo syndrome in Turkey: Identification of novel mutations in subtypes A and B. Hum Mutat. 2002 Feb;19(2):184-5.</reference_text>
+      <pubmed_id>11793481</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Natale P, Villani GR, Di Domenico C, Daniele A, Dionisi Vici C, Bartuli A: Analysis of Sanfilippo A gene mutations in a large pedigree.  Clin Genet. 2003 Apr;63(4):314-8.</reference_text>
+      <pubmed_id>12702166</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muschol N, Storch S, Ballhausen D, Beesley C, Westermann JC, Gal A, Ullrich K, Hopwood JJ, Winchester B, Braulke T: Transport, enzymatic activity, and stability of mutant sulfamidase (SGSH) identified in patients with mucopolysaccharidosis type III A. Hum Mutat. 2004 Jun;23(6):559-66.</reference_text>
+      <pubmed_id>15146460</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gabrielli O, Coppa GV, Bruni S, Villani GR, Pontarelli G, Di Natale P: An adult Sanfilippo type A patient with homozygous mutation R206P in the sulfamidase gene. Am J Med Genet A. 2005 Feb 15;133A(1):85-9.</reference_text>
+      <pubmed_id>15637719</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bekri S, Armana G, De Ricaud D, Osenda M, Maire I, Van Obberghen E, Froissart R: Early diagnosis of mucopolysaccharidosis III A with a nonsense mutation and two de novo missense mutations in SGSH gene. J Inherit Metab Dis. 2005;28(4):601-2.</reference_text>
+      <pubmed_id>15902564</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Di Natale P, Pontarelli G, Villani GR, Di Domenico C: Gene symbol: SGSH. Disease: Sanfilippo type A syndrome, mucopolysaccharidosis IIIA. Hum Genet. 2006 Jul;119(6):679.</reference_text>
+      <pubmed_id>17128482</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fiorentino F, Biricik A, Nuccitelli A, De Palma R, Kahraman S, Iacobelli M, Trengia V, Caserta D, Bonu MA, Borini A, Baldi M: Strategies and clinical outcome of 250 cycles of Preimplantation Genetic Diagnosis for single gene disorders. Hum Reprod. 2006 Mar;21(3):670-84. Epub 2005 Nov 25.</reference_text>
+      <pubmed_id>16311287</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meyer A, Kossow K, Gal A, Steglich C, Muhlhausen C, Ullrich K, Braulke T, Muschol N: The mutation p.Ser298Pro in the sulphamidase gene (SGSH) is associated with a slowly progressive clinical phenotype in mucopolysaccharidosis type IIIA (Sanfilippo A syndrome). Hum Mutat. 2008 May;29(5):770.</reference_text>
+      <pubmed_id>18407553</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

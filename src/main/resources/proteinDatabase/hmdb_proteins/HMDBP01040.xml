@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:59 -0700</creation_date>
+  <update_date>2013-05-27 11:09:59 -0600</update_date>
+  <accession>HMDBP01040</accession>
+  <secondary_accessions>
+    <accession>6329</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>2,4-dienoyl-CoA reductase [NADPH]</synonym>
+    <synonym>4-enoyl-CoA reductase [NADPH]</synonym>
+  </synonyms>
+  <gene_name>DECR1</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Auxiliary enzyme of beta-oxidation. It participates in the metabolism of unsaturated fatty enoyl-CoA esters having double bonds in both even- and odd-numbered positions. Catalyzes the NADP-dependent reduction of 2,4-dienoyl-CoA to yield trans-3-enoyl-CoA.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06522</accession>
+      <name>trans-3-Hexenoyl-CoA</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>2,4-dienoyl-CoA reductase (NADPH) activity</description>
+      <go_id>GO:0008670</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADPH binding</description>
+      <go_id>GO:0070402</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on NADH or NADPH</description>
+      <go_id>GO:0016651</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid beta-oxidation</description>
+      <go_id>GO:0006635</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotetramerization</description>
+      <go_id>GO:0051289</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q21.3</locus>
+    <gene_sequence>&gt;1008 bp
+ATGAAGCTACCGGCCAGGGTTTTCTTTACTCTGGGGTCCCGGCTGCCCTGTGGCCTCGCT
+CCTCGGAGGTTTTTCAGTTATGGGACAAAAATATTATATCAAAACACTGAAGCTTTGCAA
+TCTAAATTCTTTTCACCTCTTCAAAAAGCGATGCTACCACCTAATAGTTTTCAAGGAAAA
+GTGGCATTCATTACTGGGGGAGGTACTGGCCTTGGTAAAGGAATGACAACTCTTCTGTCC
+AGCCTAGGTGCTCAGTGCGTGATAGCCAGCCGGAAGATGGATGTTTTGAAAGCTACCGCA
+GAACAAATTTCTTCTCAAACTGGAAATAAGGTTCATGCAATTCAGTGTGATGTGAGGGAT
+CCTGATATGGTTCAAAACACTGTGTCAGAACTGATCAAAGTTGCAGGACATCCTAATATT
+GTGATAAACAATGCAGCAGGGAATTTTATTTCTCCTACTGAAAGACTTTCTCCTAATGCT
+TGGAAAACCATAACTGACATAGTTCTAAATGGCACAGCCTTCGTGACACTAGAAATTGGA
+AAACAACTAATTAAAGCACAGAAAGGAGCAGCATTTCTTTCTATTACTACTATCTATGCT
+GAGACTGGTTCAGGTTTTGTAGTACCAAGTGCTTCTGCCAAAGCAGGTGTGGAAGCCATG
+AGCAAGTCTCTTGCAGCTGAATGGGGTAAATATGGAATGCGATTCAATGTGATTCAACCA
+GGGCCTATAAAAACCAAAGGTGCCTTTAGCCGTCTGGACCCAACTGGAACATTTGAGAAA
+GAAATGATTGGCAGAATTCCCTGTGGTCGCCTGGGGACTGTAGAAGAACTCGCAAATCTT
+GCTGCTTTCCTTTGTAGTGATTATGCTTCTTGGATTAATGGAGCAGTCATTAAATTTGAC
+GGTGGAGAGGAAGTACTTATTTCAGGGGAATTCAACGACCTGAGAAAGGTCACCAAGGAG
+CAGTGGGACACCATAGAAGAACTCATCAGGAAGACAAAAGGTTCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>335</residue_number>
+    <molecular_weight>36067.4</molecular_weight>
+    <theoretical_pi>9.274</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>adh_short</name>
+        <pfam_id>PF00106</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;2,4-dienoyl-CoA reductase, mitochondrial
+MKLPARVFFTLGSRLPCGLAPRRFFSYGTKILYQNTEALQSKFFSPLQKAMLPPNSFQGK
+VAFITGGGTGLGKGMTTLLSSLGAQCVIASRKMDVLKATAEQISSQTGNKVHAIQCDVRD
+PDMVQNTVSELIKVAGHPNIVINNAAGNFISPTERLSPNAWKTITDIVLNGTAFVTLEIG
+KQLIKAQKGAAFLSITTIYAETGSGFVVPSASAKAGVEAMSKSLAAEWGKYGMRFNVIQP
+GPIKTKGAFSRLDPTGTFEKEMIGRIPCGRLGTVEELANLAAFLCSDYASWINGAVIKFD
+GGEEVLISGEFNDLRKVTKEQWDTIEELIRKTKGS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q16698</uniprot_id>
+  <uniprot_name>DECR_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1W6U</pdb_id>
+    <pdb_id>1W73</pdb_id>
+    <pdb_id>1W8D</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>L26050</genbank_gene_id>
+  <genecard_id>DECR1</genecard_id>
+  <geneatlas_id>DECR1</geneatlas_id>
+  <hgnc_id>HGNC:2753</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Koivuranta KT, Hakkola EH, Hiltunen JK: Isolation and characterization of cDNA for human 120 kDa mitochondrial 2,4-dienoyl-coenzyme A reductase. Biochem J. 1994 Dec 15;304 ( Pt 3):787-92.</reference_text>
+      <pubmed_id>7818482</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Helander HM, Koivuranta KT, Horelli-Kuitunen N, Palvimo JJ, Palotie A, Hiltunen JK: Molecular cloning and characterization of the human mitochondrial 2,4-dienoyl-CoA reductase gene (DECR). Genomics. 1997 Nov 15;46(1):112-9.</reference_text>
+      <pubmed_id>9403065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nusbaum C, Mikkelsen TS, Zody MC, Asakawa S, Taudien S, Garber M, Kodira CD, Schueler MG, Shimizu A, Whittaker CA, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Yang X, Allen NR, Anderson S, Asakawa T, Blechschmidt K, Bloom T, Borowsky ML, Butler J, Cook A, Corum B, DeArellano K, DeCaprio D, Dooley KT, Dorris L 3rd, Engels R, Glockner G, Hafez N, Hagopian DS, Hall JL, Ishikawa SK, Jaffe DB, Kamat A, Kudoh J, Lehmann R, Lokitsang T, Macdonald P, Major JE, Matthews CD, Mauceli E, Menzel U, Mihalev AH, Minoshima S, Murayama Y, Naylor JW, Nicol R, Nguyen C, O'Leary SB, O'Neill K, Parker SC, Polley A, Raymond CK, Reichwald K, Rodriguez J, Sasaki T, Schilhabel M, Siddiqui R, Smith CL, Sneddon TP, Talamas JA, Tenzin P, Topham K, Venkataraman V, Wen G, Yamazaki S, Young SK, Zeng Q, Zimmer AR, Rosenthal A, Birren BW, Platzer M, Shimizu N, Lander ES: DNA sequence and analysis of human chromosome 8.  Nature. 2006 Jan 19;439(7074):331-5.</reference_text>
+      <pubmed_id>16421571</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Alphey MS, Yu W, Byres E, Li D, Hunter WN: Structure and reactivity of human mitochondrial 2,4-dienoyl-CoA reductase: enzyme-ligand interactions in a distinctive short-chain reductase active site. J Biol Chem. 2005 Jan 28;280(4):3068-77. Epub 2004 Nov 6.</reference_text>
+      <pubmed_id>15531764</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

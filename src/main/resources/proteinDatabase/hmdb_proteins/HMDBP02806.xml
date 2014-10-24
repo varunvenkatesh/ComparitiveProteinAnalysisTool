@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:08:14 -0700</creation_date>
+  <update_date>2013-01-15 19:08:14 -0700</update_date>
+  <accession>HMDBP02806</accession>
+  <secondary_accessions>
+    <accession>8312</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>GnRH receptor</synonym>
+    <synonym>GnRH-R</synonym>
+  </synonyms>
+  <gene_name>GNRHR</gene_name>
+  <general_function>Involved in G-protein coupled receptor protein signaling pathway</general_function>
+  <specific_function>Receptor for gonadotropin releasing hormone (GnRH) that mediates the action of GnRH to stimulate the secretion of the gonadotropic hormones luteinizing hormone (LH) and follicle- stimulating hormone (FSH). This receptor mediates its action by association with G-proteins that activate a phosphatidylinositol- calcium second messenger system. Isoform 2 may act as an inhibitor of GnRH-R signaling</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02835</accession>
+      <name>Danazol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14259</accession>
+      <name>Goserelin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14261</accession>
+      <name>Cetrorelix</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14782</accession>
+      <name>Gonadorelin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14804</accession>
+      <name>Nafarelin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15645</accession>
+      <name>Degarelix</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>g-protein coupled receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein-hormone receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>gonadotropin-releasing hormone receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell surface receptor linked signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>g-protein coupled receptor protein signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:4</chromosome_location>
+    <locus>4q21.2</locus>
+    <gene_sequence>&gt;987 bp
+ATGGCAAACAGTGCCTCTCCTGAACAGAATCAAAATCACTGTTCAGCCATCAACAACAGC
+ATCCCACTGATGCAGGGCAACCTCCCCACTCTGACCTTGTCTGGAAAGATCCGAGTGACG
+GTTACTTTCTTCCTTTTTCTGCTCTCTGCGACCTTTAATGCTTCTTTCTTGTTGAAACTT
+CAGAAGTGGACACAGAAGAAAGAGAAAGGGAAAAAGCTCTCAAGAATGAAGCTGCTCTTA
+AAACATCTGACCTTAGCCAACCTGTTGGAGACTCTGATTGTCATGCCACTGGATGGGATG
+TGGAACATTACAGTCCAATGGTATGCTGGAGAGTTACTCTGCAAAGTTCTCAGTTATCTA
+AAGCTTTTCTCCATGTATGCCCCAGCCTTCATGATGGTGGTGATCAGCCTGGACCGCTCC
+CTGGCTATCACGAGGCCCCTAGCTTTGAAAAGCAACAGCAAAGTCGGACAGTCCATGGTT
+GGCCTGGCCTGGATCCTCAGTAGTGTCTTTGCAGGACCACAGTTATACATCTTCAGGATG
+ATTCATCTAGCAGACAGCTCTGGACAGACAAAAGTTTTCTCTCAATGTGTAACACACTGC
+AGTTTTTCACAATGGTGGCATCAAGCATTTTATAACTTTTTCACCTTCAGCTGCCTCTTC
+ATCATCCCTCTTTTCATCATGCTGATCTGCAATGCAAAAATCATCTTCACCCTGACACGG
+GTCCTTCATCAGGACCCCCACGAACTACAACTGAATCAGTCCAAGAACAATATACCAAGA
+GCACGGCTGAAGACTCTAAAAATGACGGTTGCATTTGCCACTTCATTTACTGTCTGCTGG
+ACTCCCTACTATGTCCTAGGAATTTGGTATTGGTTTGATCCTGAAATGTTAAACAGGTTG
+TCAGACCCAGTAAATCACTTCTTCTTTCTCTTTGCCTTTTTAAACCCATGCTTTGATCCA
+CTTATCTATGGATATTTTTCTCTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>328</residue_number>
+    <molecular_weight>37730.4</molecular_weight>
+    <theoretical_pi>9.93</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>7tm_1</name>
+        <pfam_id>PF00001</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>39-58</region>
+      <region>78-97</region>
+      <region>116-137</region>
+      <region>165-184</region>
+      <region>213-232</region>
+      <region>282-300</region>
+      <region>307-326</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Gonadotropin-releasing hormone receptor
+MANSASPEQNQNHCSAINNSIPLMQGNLPTLTLSGKIRVTVTFFLFLLSATFNASFLLKL
+QKWTQKKEKGKKLSRMKLLLKHLTLANLLETLIVMPLDGMWNITVQWYAGELLCKVLSYL
+KLFSMYAPAFMMVVISLDRSLAITRPLALKSNSKVGQSMVGLAWILSSVFAGPQLYIFRM
+IHLADSSGQTKVFSQCVTHCSFSQWWHQAFYNFFTFSCLFIIPLFIMLICNAKIIFTLTR
+VLHQDPHELQLNQSKNNIPRARLKTLKMTVAFATSFTVCWTPYYVLGIWYWFDPEMLNRL
+SDPVNHFFFLFAFLNPCFDPLIYGYFSL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P30968</uniprot_id>
+  <uniprot_name>GNRHR_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>L03380</genbank_gene_id>
+  <genecard_id>GNRHR</genecard_id>
+  <geneatlas_id>GNRHR</geneatlas_id>
+  <hgnc_id>HGNC:4421</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kakar SS, Musgrove LC, Devor DC, Sellers JC, Neill JD: Cloning, sequencing, and expression of human gonadotropin releasing hormone (GnRH) receptor. Biochem Biophys Res Commun. 1992 Nov 30;189(1):289-95.</reference_text>
+      <pubmed_id>1333190</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chi L, Zhou W, Prikhozhan A, Flanagan C, Davidson JS, Golembo M, Illing N, Millar RP, Sealfon SC: Cloning and characterization of the human GnRH receptor.  Mol Cell Endocrinol. 1993 Feb;91(1-2):R1-6.</reference_text>
+      <pubmed_id>8386108</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kakar SS, Grizzle WE, Neill JD: The nucleotide sequences of human GnRH receptors in breast and ovarian tumors are identical with that found in pituitary. Mol Cell Endocrinol. 1994 Dec;106(1-2):145-9.</reference_text>
+      <pubmed_id>7534732</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kakar SS: Molecular structure of the human gonadotropin-releasing hormone receptor gene. Eur J Endocrinol. 1997 Aug;137(2):183-92.</reference_text>
+      <pubmed_id>9272108</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grosse R, Schoneberg T, Schultz G, Gudermann T: Inhibition of gonadotropin-releasing hormone receptor signaling by expression of a splice variant of the human receptor. Mol Endocrinol. 1997 Aug;11(9):1305-18.</reference_text>
+      <pubmed_id>9259321</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kottler ML, Bergametti F, Carre MC, Morice S, Decoret E, Lagarde JP, Starzec A, Counis R: Tissue-specific pattern of variant transcripts of the human gonadotropin-releasing hormone receptor gene. Eur J Endocrinol. 1999 Jun;140(6):561-9.</reference_text>
+      <pubmed_id>10366411</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>de Roux N, Young J, Misrahi M, Genet R, Chanson P, Schaison G, Milgrom E: A family with hypogonadotropic hypogonadism and mutations in the gonadotropin-releasing hormone receptor. N Engl J Med. 1997 Nov 27;337(22):1597-602.</reference_text>
+      <pubmed_id>9371856</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Layman LC, Cohen DP, Jin M, Xie J, Li Z, Reindollar RH, Bolbolan S, Bick DP, Sherins RR, Duck LW, Musgrove LC, Sellers JC, Neill JD: Mutations in gonadotropin-releasing hormone receptor gene cause hypogonadotropic hypogonadism. Nat Genet. 1998 Jan;18(1):14-5.</reference_text>
+      <pubmed_id>9425890</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>de Roux N, Young J, Brailly-Tabard S, Misrahi M, Milgrom E, Schaison G: The same molecular defects of the gonadotropin-releasing hormone receptor determine a variable degree of hypogonadism in affected kindred. J Clin Endocrinol Metab. 1999 Feb;84(2):567-72.</reference_text>
+      <pubmed_id>10022417</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Caron P, Chauvin S, Christin-Maitre S, Bennet A, Lahlou N, Counis R, Bouchard P, Kottler ML: Resistance of hypogonadic patients with mutated GnRH receptor genes to pulsatile GnRH administration. J Clin Endocrinol Metab. 1999 Mar;84(3):990-6.</reference_text>
+      <pubmed_id>10084584</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pralong FP, Gomez F, Castillo E, Cotecchia S, Abuin L, Aubert ML, Portmann L, Gaillard RC: Complete hypogonadotropic hypogonadism associated with a novel inactivating mutation of the gonadotropin-releasing hormone receptor. J Clin Endocrinol Metab. 1999 Oct;84(10):3811-6.</reference_text>
+      <pubmed_id>10523035</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pitteloud N, Boepple PA, DeCruz S, Valkenburgh SB, Crowley WF Jr, Hayes FJ: The fertile eunuch variant of idiopathic hypogonadotropic hypogonadism: spontaneous reversal associated with a homozygous mutation in the gonadotropin-releasing hormone receptor. J Clin Endocrinol Metab. 2001 Jun;86(6):2470-5.</reference_text>
+      <pubmed_id>11397842</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Soderlund D, Canto P, de la Chesnaye E, Ulloa-Aguirre A, Mendez JP: A novel homozygous mutation in the second transmembrane domain of the gonadotrophin releasing hormone receptor gene. Clin Endocrinol (Oxf). 2001 Apr;54(4):493-8.</reference_text>
+      <pubmed_id>11318785</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Costa EM, Bedecarrats GY, Mendonca BB, Arnhold IJ, Kaiser UB, Latronico AC: Two novel mutations in the gonadotropin-releasing hormone receptor gene in Brazilian patients with hypogonadotropic hypogonadism and normal olfaction. J Clin Endocrinol Metab. 2001 Jun;86(6):2680-6.</reference_text>
+      <pubmed_id>11397871</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maya-Nunez G, Janovick JA, Ulloa-Aguirre A, Soderlund D, Conn PM, Mendez JP: Molecular basis of hypogonadotropic hypogonadism: restoration of mutant (E(90)K) GnRH receptor function by a deletion at a distant site. J Clin Endocrinol Metab. 2002 May;87(5):2144-9.</reference_text>
+      <pubmed_id>11994356</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karges B, Karges W, Mine M, Ludwig L, Kuhne R, Milgrom E, de Roux N: Mutation Ala(171)Thr stabilizes the gonadotropin-releasing hormone receptor in its inactive conformation, causing familial hypogonadotropic hypogonadism. J Clin Endocrinol Metab. 2003 Apr;88(4):1873-9.</reference_text>
+      <pubmed_id>12679486</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Goserelin</name>
+        <accession>HMDB14259</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kirby RS, Fitzpatrick JM, Clarke N: Abarelix and other gonadotrophin-releasing hormone antagonists in prostate cancer. BJU Int. 2009 Dec;104(11):1580-4.</reference_text>
+        <pubmed_id>20053189</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cetrorelix</name>
+        <accession>HMDB14261</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Volker P, Grundker C, Schmidt O, Schulz KD, Emons G: Expression of receptors for luteinizing hormone-releasing hormone in human ovarian and endometrial cancers: frequency, autoregulation, and correlation with direct antiproliferative activity of luteinizing hormone-releasing hormone analogues. Am J Obstet Gynecol. 2002 Feb;186(2):171-9.</reference_text>
+        <pubmed_id>11854630</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cetrorelix</name>
+        <accession>HMDB14261</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zapatero-Caballero H, Sanchez-Franco F, Guerra-Perez N, Fernandez-Mendez C, Fernandez-Vazquez G: Gonadotropin-releasing hormone receptor gene expression during pubertal development of male rats. Biol Reprod. 2003 May;68(5):1764-70. Epub 2002 Dec 11.</reference_text>
+        <pubmed_id>12606421</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cetrorelix</name>
+        <accession>HMDB14261</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zapatero-Caballero H, Sanchez-Franco F, Fernandez-Mendez C, Garcia-San Frutos M, Botella-Cubells LM, Fernandez-Vazquez G: Gonadotropin-releasing hormone receptor gene expression during pubertal development of female rats. Biol Reprod. 2004 Feb;70(2):348-55. Epub 2003 Oct 15.</reference_text>
+        <pubmed_id>14561652</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cetrorelix</name>
+        <accession>HMDB14261</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Roth C, Hegemann F, Hildebrandt J, Balzer I, Witt A, Wuttke W, Jarry H: Pituitary and gonadal effects of GnRH (gonadotropin releasing hormone) analogues in two peripubertal female rat models. Pediatr Res. 2004 Jan;55(1):126-33. Epub 2003 Nov 6.</reference_text>
+        <pubmed_id>14605254</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cetrorelix</name>
+        <accession>HMDB14261</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Castellon E, Clementi M, Hitschfeld C, Sanchez C, Benitez D, Saenz L, Contreras H, Huidobro C: Effect of leuprolide and cetrorelix on cell growth, apoptosis, and GnRH receptor expression in primary cell cultures from human prostate carcinoma. Cancer Invest. 2006 Apr-May;24(3):261-8.</reference_text>
+        <pubmed_id>16809153</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cetrorelix</name>
+        <accession>HMDB14261</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gonadorelin</name>
+        <accession>HMDB14782</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lu ZL, Gallagher R, Sellar R, Coetsee M, Millar RP: Mutations remote from the human gonadotropin-releasing hormone (GnRH) receptor-binding sites specifically increase binding affinity for GnRH II but not GnRH I: evidence for ligand-selective, receptor-active conformations. J Biol Chem. 2005 Aug 19;280(33):29796-803. Epub 2005 Jun 20.</reference_text>
+        <pubmed_id>15967801</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gonadorelin</name>
+        <accession>HMDB14782</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Moles G, Carrillo M, Mananos E, Mylonas CC, Zanuy S: Temporal profile of brain and pituitary GnRHs, GnRH-R and gonadotropin mRNA expression and content during early development in European sea bass (Dicentrarchus labrax L.). Gen Comp Endocrinol. 2007 Jan 1;150(1):75-86. Epub 2006 Sep 8.</reference_text>
+        <pubmed_id>16962597</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gonadorelin</name>
+        <accession>HMDB14782</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mamputha S, Lu ZL, Roeske RW, Millar RP, Katz AA, Flanagan CA: Conserved amino acid residues that are important for ligand binding in the type I gonadotropin-releasing hormone (GnRH) receptor are required for high potency of GnRH II at the type II GnRH receptor. Mol Endocrinol. 2007 Jan;21(1):281-92. Epub 2006 Sep 14.</reference_text>
+        <pubmed_id>16973761</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gonadorelin</name>
+        <accession>HMDB14782</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lee PA, Houk CP: Gonadotropin-releasing hormone analog therapy for central precocious puberty and other childhood disorders affecting growth and puberty. Treat Endocrinol. 2006;5(5):287-96.</reference_text>
+        <pubmed_id>17002488</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gonadorelin</name>
+        <accession>HMDB14782</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bliss SP, Navratil AM, Breed M, Skinner DC, Clay CM, Roberson MS: Signaling complexes associated with the type I gonadotropin-releasing hormone (GnRH) receptor: colocalization of extracellularly regulated kinase 2 and GnRH receptor within membrane rafts. Mol Endocrinol. 2007 Feb;21(2):538-49. Epub 2006 Oct 26.</reference_text>
+        <pubmed_id>17068198</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gonadorelin</name>
+        <accession>HMDB14782</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Barbieri RL: Comparison of the pharmacology of nafarelin and danazol.  Am J Obstet Gynecol. 1990 Feb;162(2):581-5.</reference_text>
+        <pubmed_id>2137975</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Suh J, Lee E, Hwang S, Yoon S, Yoon BK, Bae D, Choi D: Dose of GnRH agonist (nafarelin acetate) affects intrafollicular PAPP-A expression in controlled ovarian hyperstimulation cycle. Eur J Obstet Gynecol Reprod Biol. 2004 Jan 15;112(1):65-8.</reference_text>
+        <pubmed_id>14687742</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Valle RF, Sciarra JJ: Endometriosis: treatment strategies.  Ann N Y Acad Sci. 2003 Nov;997:229-39.</reference_text>
+        <pubmed_id>14644830</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Batzer FR: GnRH analogs: options for endometriosis-associated pain treatment.  J Minim Invasive Gynecol. 2006 Nov-Dec;13(6):539-45.</reference_text>
+        <pubmed_id>17097577</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hugues JN, Cedrin Durnerin IC: Revisiting gonadotrophin-releasing hormone agonist protocols and management of poor ovarian responses to gonadotrophins. Hum Reprod Update. 1998 Jan-Feb;4(1):83-101.</reference_text>
+        <pubmed_id>9622415</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Garner C: Uses of GnRH agonists.  J Obstet Gynecol Neonatal Nurs. 1994 Sep;23(7):563-70.</reference_text>
+        <pubmed_id>7996307</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Saltiel E, Garabedian-Ruffalo SM: Pharmacologic management of endometriosis.  Clin Pharm. 1991 Jul;10(7):518-31.</reference_text>
+        <pubmed_id>1830521</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chrisp P, Goa KL: Nafarelin. A review of its pharmacodynamic and pharmacokinetic properties, and clinical potential in sex hormone-related conditions. Drugs. 1990 Apr;39(4):523-51.</reference_text>
+        <pubmed_id>2140979</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Letassy NA, Thompson DF, Britton ML, Suda RR Sr: Nafarelin acetate: a gonadotropin-releasing hormone agonist for the treatment of endometriosis. DICP. 1990 Dec;24(12):1204-9.</reference_text>
+        <pubmed_id>2151003</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nafarelin</name>
+        <accession>HMDB14804</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Degarelix</name>
+        <accession>HMDB15645</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Steinberg M: Degarelix: a gonadotropin-releasing hormone antagonist for the management of prostate cancer. Clin Ther. 2009;31 Pt 2:2312-31.</reference_text>
+        <pubmed_id>20110043</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Degarelix</name>
+        <accession>HMDB15645</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kirby RS, Fitzpatrick JM, Clarke N: Abarelix and other gonadotrophin-releasing hormone antagonists in prostate cancer. BJU Int. 2009 Dec;104(11):1580-4.</reference_text>
+        <pubmed_id>20053189</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Degarelix</name>
+        <accession>HMDB15645</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Anderson J: Degarelix: a novel gonadotropin-releasing hormone blocker for the treatment of prostate cancer. Future Oncol. 2009 May;5(4):433-43.</reference_text>
+        <pubmed_id>19450172</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Degarelix</name>
+        <accession>HMDB15645</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Samant MP, Miller C, Hong DJ, Koerber SC, Croston G, Rivier CL, Rivier JE: Synthesis and biological activity of GnRH antagonists modified at position 3 with 3-(2-methoxy-5-pyridyl)-alanine. J Pept Res. 2005 Feb;65(2):284-91.</reference_text>
+        <pubmed_id>15705170</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:47 -0700</creation_date>
+  <update_date>2013-01-15 20:20:47 -0700</update_date>
+  <accession>HMDBP09235</accession>
+  <secondary_accessions>
+    <accession>15052</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>BGnT-8</synonym>
+    <synonym>Beta-1,3-Gn-T8</synonym>
+    <synonym>Beta-1,3-N-acetylglucosaminyltransferase 8</synonym>
+    <synonym>Beta3Gn-T8</synonym>
+  </synonyms>
+  <gene_name>B3GNT8</gene_name>
+  <general_function>Involved in galactosyltransferase activity</general_function>
+  <specific_function>Beta-1,3-N-acetylglucosaminyltransferase that plays a role in the elongation of specific branch structures of multiantennary N-glycans. Has strong activity towards tetraantennary N-glycans and 2,6 triantennary glycans</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB06583</accession>
+      <name>Poly-N-acetyllactosamine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>galactosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid glycosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>19q13.2</locus>
+    <gene_sequence>&gt;1194 bp
+ATGCGCTGCCCCAAGTGCCTTCTCTGCCTGTCAGCACTGCTCACACTCCTGGGCCTCAAA
+GTGTACATCGAGTGGACATCCGAGTCCCGGCTCAGCAAGGCCTACCCCAGCCCTCGGGGC
+ACCCCGCCAAGCCCCACGCCAGCCAACCCTGAGCCCACCCTACCTGCCAACCTCTCCACC
+CGCCTGGGCCAGACTATCCCGCTGCCCTTTGCTTACTGGAACCAGCAGCAGTGGCGGCTG
+GGGTCCCTGCCCAGTGGGGACAGCACTGAAACGGGGGGCTGCCAGGCTTGGGGGGCCGCC
+GCCGCCACCGAGATCCCTGACTTCGCCTCCTACCCCAAGGACCTCCGCCGCTTCTTGCTG
+TCAGCAGCCTGCCGGAGCTTCCCACAGTGGCTGCCTGGAGGTGGTGGCAGCCAAGTCTCC
+AGCTGCTCAGATACTGATGTCCCCTACCTGCTGTTGGCCGTCAAGTCAGAACCAGGGCGC
+TTTGCAGAACGACAGGCCGTGAGAGAGACGTGGGGCAGTCCAGCTCCAGGGATCCGGCTG
+CTCTTCCTGCTAGGGTCTCCGGTGGGTGAGGCGGGGCCTGACCTAGACTCACTAGTGGCC
+TGGGAGAGCCGTCGCTACAGTGACCTGCTGCTCTGGGACTTCCTCGACGTCCCATTCAAC
+CAGACGCTCAAAGACCTGCTGCTGCTGGCCTGGCTGGGCCGCCACTGCCCCACCGTGAGT
+TTTGTCTTGCGAGCTCAGGACGATGCCTTTGTACACACCCCTGCCCTGCTGGCTCACCTG
+CGGGCCCTGCCACCTGCCTCGGCCCGAAGCCTCTACCTGGGTGAGGTCTTTACCCAGGCC
+ATGCCTCTCCGGAAGCCAGGAGGACCCTTCTATGTGCCCGAGTCCTTCTTCGAAGGTGGC
+TACCCAGCCTATGCAAGCGGGGGTGGCTACGTCATTGCCGGGCGCCTGGCACCCTGGCTG
+CTGCGGGCGGCAGCCCGTGTGGCACCCTTCCCCTTTGAGGACGTCTACACTGGCCTTTGC
+ATCCGAGCCCTGGGCCTGGTGCCCCAGGCCCACCCAGGCTTCCTCACAGCCTGGCCAGCA
+GACCGCACTGCGGACCACTGTGCTTTCCGCAACCTGCTGCTGGTACGGCCCCTGGGCCCC
+CAGGCCAGCATTCGGCTCTGGAAACAACTGCAAGACCCAAGGCTCCAGTGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>397</residue_number>
+    <molecular_weight>43395.4</molecular_weight>
+    <theoretical_pi>8.4</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Galactosyl_T</name>
+        <pfam_id>PF01762</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>7-23</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8
+MRCPKCLLCLSALLTLLGLKVYIEWTSESRLSKAYPSPRGTPPSPTPANPEPTLPANLST
+RLGQTIPLPFAYWNQQQWRLGSLPSGDSTETGGCQAWGAAAATEIPDFASYPKDLRRFLL
+SAACRSFPQWLPGGGGSQVSSCSDTDVPYLLLAVKSEPGRFAERQAVRETWGSPAPGIRL
+LFLLGSPVGEAGPDLDSLVAWESRRYSDLLLWDFLDVPFNQTLKDLLLLAWLGRHCPTVS
+FVLRAQDDAFVHTPALLAHLRALPPASARSLYLGEVFTQAMPLRKPGGPFYVPESFFEGG
+YPAYASGGGYVIAGRLAPWLLRAAARVAPFPFEDVYTGLCIRALGLVPQAHPGFLTAWPA
+DRTADHCAFRNLLLVRPLGPQASIRLWKQLQDPRLQC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>57207880</genbank_protein_id>
+  <uniprot_id>Q7Z7M8</uniprot_id>
+  <uniprot_name>B3GN8_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB175895</genbank_gene_id>
+  <genecard_id>B3GNT8</genecard_id>
+  <geneatlas_id>B3GNT8</geneatlas_id>
+  <hgnc_id>HGNC:24139</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Huang C, Zhou J, Wu S, Shan Y, Teng S, Yu L: Cloning and tissue distribution of the human B3GALT7 gene, a member of the beta1,3-Glycosyltransferase family. Glycoconj J. 2004;21(5):267-73.</reference_text>
+      <pubmed_id>15486459</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ishida H, Togayachi A, Sakai T, Iwai T, Hiruma T, Sato T, Okubo R, Inaba N, Kudo T, Gotoh M, Shoda J, Tanaka N, Narimatsu H: A novel beta1,3-N-acetylglucosaminyltransferase (beta3Gn-T8), which synthesizes poly-N-acetyllactosamine, is dramatically upregulated in colon cancer. FEBS Lett. 2005 Jan 3;579(1):71-8.</reference_text>
+      <pubmed_id>15620693</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seko A, Yamashita K: Characterization of a novel galactose beta1,3-N-acetylglucosaminyltransferase (beta3Gn-T8): the complex formation of beta3Gn-T2 and beta3Gn-T8 enhances enzymatic activity. Glycobiology. 2005 Oct;15(10):943-51. Epub 2005 May 25.</reference_text>
+      <pubmed_id>15917431</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

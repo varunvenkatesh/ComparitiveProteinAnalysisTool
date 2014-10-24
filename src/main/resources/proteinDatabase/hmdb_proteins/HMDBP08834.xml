@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:03 -0700</creation_date>
+  <update_date>2013-05-27 11:41:21 -0600</update_date>
+  <accession>HMDBP08834</accession>
+  <secondary_accessions>
+    <accession>14559</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DNA helicase, RecQ-like type 3</synonym>
+    <synonym>Exonuclease WRN</synonym>
+    <synonym>RecQ protein-like 2</synonym>
+    <synonym>RecQ3</synonym>
+  </synonyms>
+  <gene_name>WRN</gene_name>
+  <general_function>Involved in nucleic acid binding</general_function>
+  <specific_function>Multifunctional enzyme that has both magnesium and ATP-dependent DNA-helicase activity and 3'-&gt;5' exonuclease activity towards double-stranded DNA with a 5'-overhang. Has no nuclease activity towards single-stranded DNA or blunt-ended double-stranded DNA. Binds preferentially to DNA substrates containing alternate secondary structures, such as replication forks and Holliday junctions. May play an important role in the dissociation of joint DNA molecules that can arise as products of homologous recombination, at stalled replication forks or during DNA repair. Alleviates stalling of DNA polymerases at the site of DNA lesions. Important for genomic integrity. Plays a role in the formation of DNA replication focal centers; stably associates with foci elements generating binding sites for RP-A (By similarity).
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent 3'-5' dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity, coupled</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nuclease activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>exonuclease activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3'-5' exonuclease activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna recombination</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>centrosome</description>
+      <go_id>GO:0005813</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3'-5' DNA helicase activity</description>
+      <go_id>GO:0043138</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3'-5' exonuclease activity</description>
+      <go_id>GO:0008408</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent 3'-5' DNA helicase activity</description>
+      <go_id>GO:0043140</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent DNA helicase activity</description>
+      <go_id>GO:0004003</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>bubble DNA binding</description>
+      <go_id>GO:0000405</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>four-way junction helicase activity</description>
+      <go_id>GO:0009378</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>G-quadruplex DNA binding</description>
+      <go_id>GO:0051880</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>magnesium ion binding</description>
+      <go_id>GO:0000287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>manganese ion binding</description>
+      <go_id>GO:0030145</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein complex binding</description>
+      <go_id>GO:0032403</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>Y-form DNA binding</description>
+      <go_id>GO:0000403</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>base-excision repair</description>
+      <go_id>GO:0006284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell aging</description>
+      <go_id>GO:0007569</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to starvation</description>
+      <go_id>GO:0009267</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA recombination</description>
+      <go_id>GO:0006310</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA synthesis involved in DNA repair</description>
+      <go_id>GO:0000731</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organismal aging</description>
+      <go_id>GO:0010259</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleolus to nucleoplasm transport</description>
+      <go_id>GO:0032066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of hydrolase activity</description>
+      <go_id>GO:0051345</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of apoptotic process</description>
+      <go_id>GO:0042981</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of growth rate</description>
+      <go_id>GO:0040009</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>replication fork processing</description>
+      <go_id>GO:0031297</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>replicative cell aging</description>
+      <go_id>GO:0001302</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to UV-C</description>
+      <go_id>GO:0010225</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance</description>
+      <go_id>GO:0000723</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleolus</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8p12</locus>
+    <gene_sequence>&gt;4299 bp
+ATGAGTGAAAAAAAATTGGAAACAACTGCACAGCAGCGGAAATGTCCTGAATGGATGAAT
+GTGCAGAATAAAAGATGTGCTGTAGAAGAAAGAAAGGCATGTGTTCGGAAGAGTGTTTTT
+GAAGATGACCTCCCCTTCTTAGAATTCACTGGATCCATTGTGTATAGTTACGATGCTAGT
+GATTGCTCTTTCCTGTCAGAAGATATTAGCATGAGTCTATCAGATGGGGATGTGGTGGGA
+TTTGACATGGAGTGGCCACCATTATACAATAGAGGGAAACTTGGCAAAGTTGCACTAATT
+CAGTTGTGTGTTTCTGAGAGCAAATGTTACTTGTTCCACGTTTCTTCCATGTCAGTTTTT
+CCCCAGGGATTAAAAATGTTGCTTGAAAATAAAGCAGTTAAAAAGGCAGGTGTAGGAATT
+GAAGGAGATCAGTGGAAACTTCTACGTGACTTTGATATCAAATTGAAGAATTTTGTGGAG
+TTGACAGATGTTGCCAATAAAAAGCTGAAATGTACAGAGACCTGGAGCCTTAACAGTCTG
+GTTAAACACCTCTTAGGTAAACAGCTCCTGAAAGACAAGTCTATCCGCTGTAGCAATTGG
+AGTAAATTTCCTCTCACTGAGGACCAGAAACTGTATGCAGCCACTGATGCTTATGCTGGT
+TTTATTATTTACCGAAATTTAGAGATTTTGGATGATACTGTGCAAAGGTTTGCTATAAAT
+AAAGAGGAAGAAATCCTACTTAGCGACATGAACAAACAGTTGACTTCAATCTCTGAGGAA
+GTGATGGATCTGGCTAAGCATCTTCCTCATGCTTTCAGTAAATTGGAAAACCCACGGAGG
+GTTTCTATCTTACTAAAGGATATTTCAGAAAATCTATATTCACTGAGGAGGATGATAATT
+GGGTCTACTAACATTGAGACTGAACTGAGGCCCAGCAATAATTTAAACTTATTATCCTTT
+GAAGATTCAACTACTGGGGGAGTACAACAGAAACAAATTAGAGAACATGAAGTTTTAATT
+CACGTTGAAGATGAAACATGGGACCCAACACTTGATCATTTAGCTAAACATGATGGAGAA
+GATGTACTTGGAAATAAAGTGGAACGAAAAGAAGATGGATTTGAAGATGGAGTAGAAGAC
+AACAAATTGAAAGAGAATATGGAAAGAGCTTGTTTGATGTCGTTAGATATTACAGAACAT
+GAACTCCAAATTTTGGAACAGCAGTCTCAGGAAGAATATCTTAGTGATATTGCTTATAAA
+TCTACTGAGCATTTATCTCCCAATGATAATGAAAACGATACGTCCTATGTAATTGAGAGT
+GATGAAGATTTAGAAATGGAGATGCTTAAGCATTTATCTCCCAATGATAATGAAAACGAT
+ACGTCCTATGTAATTGAGAGTGATGAAGATTTAGAAATGGAGATGCTTAAGTCTTTAGAA
+AACCTCAATAGTGGCACGGTAGAACCAACTCATTCTAAATGCTTAAAAATGGAAAGAAAT
+CTGGGTCTTCCTACTAAAGAAGAAGAAGAAGATGATGAAAATGAAGCTAATGAAGGGGAA
+GAAGATGATGATAAGGACTTTTTGTGGCCAGCACCCAATGAAGAGCAAGTTACTTGCCTC
+AAGATGTACTTTGGCCATTCCAGTTTTAAACCAGTTCAGTGGAAAGTGATTCATTCAGTA
+TTAGAAGAAAGAAGAGATAATGTTGCTGTCATGGCAACTGGATATGGAAAGAGTTTGTGC
+TTCCAGTATCCACCTGTTTATGTAGGCAAGATTGGCCTTGTTATCTCTCCCCTTATTTCT
+CTGATGGAAGACCAAGTGCTACAGCTTAAAATGTCCAACATCCCAGCTTGCTTCCTTGGA
+TCAGCACAGTCAGAAAATGTTCTAACAGATATTAAATTAGGTAAATACCGGATTGTATAC
+GTAACTCCAGAATACTGTTCAGGTAACATGGGCCTGCTCCAGCAACTTGAGGCTGATATT
+GGTATCACGCTCATTGCTGTGGATGAGGCTCACTGTATTTCTGAGTGGGGGCATGATTTT
+AGGGATTCATTCAGGAAGTTGGGCTCCCTAAAGACAGCACTGCCAATGGTTCCAATCGTT
+GCACTTACTGCTACTGCAAGTTCTTCAATCCGGGAAGACATTGTACGTTGCTTAAATCTG
+AGAAATCCTCAGATCACCTGTACTGGTTTTGATCGACCAAACCTGTATTTAGAAGTTAGG
+CGAAAAACAGGGAATATCCTTCAGGATCTGCAGCCATTTCTTGTCAAAACAAGTTCCCAC
+TGGGAATTTGAAGGTCCAACAATCATCTACTGTCCTTCTAGAAAAATGACACAACAAGTT
+ACAGGTGAACTTAGGAAACTTAATCTATCCTGTGGAACATACCATGCGGGCATGAGTTTT
+AGCACAAGGAAAGACATTCATCATAGGTTTGTAAGAGATGAAATTCAGTGTGTCATAGCT
+ACCATAGCTTTTGGAATGGGCATTAATAAAGCTGACATTCGCCAAGTCATTCATTACGGT
+GCTCCTAAGGACATGGAATCATATTATCAGGAGATTGGTAGAGCTGGTCGTGATGGACTT
+CAAAGTTCTTGTCACGTCCTCTGGGCTCCTGCAGACATTAACTTAAATAGGCACCTTCTT
+ACTGAGATACGTAATGAGAAGTTTCGATTATACAAATTAAAGATGATGGCAAAGATGGAA
+AAATATCTTCATTCTAGCAGATGTAGGAGACAAATCATCTTGTCTCATTTTGAGGACAAA
+CAAGTACAAAAAGCCTCCTTGGGAATTATGGGAACTGAAAAATGCTGTGATAATTGCAGG
+TCCAGATTGGATCATTGCTATTCCATGGATGACTCAGAGGATACATCCTGGGACTTTGGT
+CCACAAGCATTTAAGCTTTTGTCTGCTGTGGACATCTTAGGCGAAAAATTTGGAATTGGG
+CTTCCAATTTTATTTCTCCGAGGATCTAATTCTCAGCGTCTTGCCGATCAATATCGCAGG
+CACAGTTTATTTGGCACTGGCAAGGATCAAACAGAGAGTTGGTGGAAGGCTTTTTCCCGT
+CAGCTGATCACTGAGGGATTCTTGGTAGAAGTTTCTCGGTATAACAAATTTATGAAGATT
+TGCGCCCTTACGAAAAAGGGTAGAAATTGGCTTCATAAAGCTAATACAGAATCTCAGAGC
+CTCATCCTTCAAGCTAATGAAGAATTGTGTCCAAAGAAGTTTCTTCTGCCTAGTTCGAAA
+ACTGTATCTTCGGGCACCAAAGAGCATTGTTATAATCAAGTACCAGTTGAATTAAGTACA
+GAGAAGAAGTCTAACTTGGAGAAGTTATATTCTTATAAACCATGTGATAAGATTTCTTCT
+GGGAGTAACATTTCTAAAAAAAGTATCATGGTACAGTCACCAGAAAAAGCTTACAGTTCC
+TCACAGCCTGTTATTTCGGCACAAGAGCAGGAGACTCAGATTGTGTTATATGGCAAATTG
+GTAGAAGCTAGGCAGAAACATGCCAATAAAATGGATGTTCCCCCAGCTATTCTGGCAACA
+AACAAGATACTGGTGGATATGGCCAAAATGAGACCAACTACGGTTGAAAACGTAAAAAGG
+ATTGATGGTGTTTCTGAAGGCAAAGCTGCCATGTTGGCCCCTCTGTTGGAAGTCATCAAA
+CATTTCTGCCAAACAAATAGTGTTCAGACAGACCTCTTTTCAAGTACAAAACCTCAAGAA
+GAACAGAAGACGAGTCTGGTAGCAAAAAATAAAATATGCACACTTTCACAGTCTATGGCC
+ATCACATACTCTTTATTCCAAGAAAAGAAGATGCCTTTGAAGAGCATAGCTGAGAGCAGG
+ATTCTGCCTCTCATGACAATTGGCATGCACTTATCCCAAGCGGTGAAAGCTGGCTGCCCC
+CTTGATTTGGAGCGAGCAGGCCTGACTCCAGAGGTTCAGAAGATTATTGCTGATGTTATC
+CGAAACCCTCCCGTCAACTCAGATATGAGTAAAATTAGCCTAATCAGAATGTTAGTTCCT
+GAAAACATTGACACGTACCTTATCCACATGGCAATTGAGATCCTTAAACATGGTCCTGAC
+AGCGGACTTCAACCTTCATGTGATGTCAACAAAAGGAGATGTTTTCCCGGTTCTGAAGAG
+ATCTGTTCAAGTTCTAAGAGAAGCAAGGAAGAAGTAGGCATCAATACTGAGACTTCATCT
+GCAGAGAGAAAGAGACGATTACCTGTGTGGTTTGCCAAAGGAAGTGATACCAGCAAGAAA
+TTAATGGACAAAACGAAAAGGGGAGGTCTTTTTAGTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1432</residue_number>
+    <molecular_weight>162459.405</molecular_weight>
+    <theoretical_pi>6.345</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>3_5_exonuc</name>
+        <pfam_id>PF01612</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DEAD;</name>
+        <pfam_id>PF00270</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Helicase_C;</name>
+        <pfam_id>PF00271</pfam_id>
+      </pfam>
+      <pfam>
+        <name>HRDC</name>
+        <pfam_id>PF00570</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RQC</name>
+        <pfam_id>PF09382</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Werner syndrome ATP-dependent helicase
+MSEKKLETTAQQRKCPEWMNVQNKRCAVEERKACVRKSVFEDDLPFLEFTGSIVYSYDAS
+DCSFLSEDISMSLSDGDVVGFDMEWPPLYNRGKLGKVALIQLCVSESKCYLFHVSSMSVF
+PQGLKMLLENKAVKKAGVGIEGDQWKLLRDFDIKLKNFVELTDVANKKLKCTETWSLNSL
+VKHLLGKQLLKDKSIRCSNWSKFPLTEDQKLYAATDAYAGFIIYRNLEILDDTVQRFAIN
+KEEEILLSDMNKQLTSISEEVMDLAKHLPHAFSKLENPRRVSILLKDISENLYSLRRMII
+GSTNIETELRPSNNLNLLSFEDSTTGGVQQKQIREHEVLIHVEDETWDPTLDHLAKHDGE
+DVLGNKVERKEDGFEDGVEDNKLKENMERACLMSLDITEHELQILEQQSQEEYLSDIAYK
+STEHLSPNDNENDTSYVIESDEDLEMEMLKHLSPNDNENDTSYVIESDEDLEMEMLKSLE
+NLNSGTVEPTHSKCLKMERNLGLPTKEEEEDDENEANEGEEDDDKDFLWPAPNEEQVTCL
+KMYFGHSSFKPVQWKVIHSVLEERRDNVAVMATGYGKSLCFQYPPVYVGKIGLVISPLIS
+LMEDQVLQLKMSNIPACFLGSAQSENVLTDIKLGKYRIVYVTPEYCSGNMGLLQQLEADI
+GITLIAVDEAHCISEWGHDFRDSFRKLGSLKTALPMVPIVALTATASSSIREDIVRCLNL
+RNPQITCTGFDRPNLYLEVRRKTGNILQDLQPFLVKTSSHWEFEGPTIIYCPSRKMTQQV
+TGELRKLNLSCGTYHAGMSFSTRKDIHHRFVRDEIQCVIATIAFGMGINKADIRQVIHYG
+APKDMESYYQEIGRAGRDGLQSSCHVLWAPADINLNRHLLTEIRNEKFRLYKLKMMAKME
+KYLHSSRCRRQIILSHFEDKQVQKASLGIMGTEKCCDNCRSRLDHCYSMDDSEDTSWDFG
+PQAFKLLSAVDILGEKFGIGLPILFLRGSNSQRLADQYRRHSLFGTGKDQTESWWKAFSR
+QLITEGFLVEVSRYNKFMKICALTKKGRNWLHKANTESQSLILQANEELCPKKFLLPSSK
+TVSSGTKEHCYNQVPVELSTEKKSNLEKLYSYKPCDKISSGSNISKKSIMVQSPEKAYSS
+SQPVISAQEQETQIVLYGKLVEARQKHANKMDVPPAILATNKILVDMAKMRPTTVENVKR
+IDGVSEGKAAMLAPLLEVIKHFCQTNSVQTDLFSSTKPQEEQKTSLVAKNKICTLSQSMA
+ITYSLFQEKKMPLKSIAESRILPLMTIGMHLSQAVKAGCPLDLERAGLTPEVQKIIADVI
+RNPPVNSDMSKISLIRMLVPENIDTYLIHMAIEILKHGPDSGLQPSCDVNKRRCFPGSEE
+ICSSSKRSKEEVGINTETSSAERKRRLPVWFAKGSDTSKKLMDKTKRGGLFS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3719421</genbank_protein_id>
+  <uniprot_id>Q14191</uniprot_id>
+  <uniprot_name>WRN_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2AXL</pdb_id>
+    <pdb_id>2DGZ</pdb_id>
+    <pdb_id>2E1E</pdb_id>
+    <pdb_id>2E1F</pdb_id>
+    <pdb_id>2FBT</pdb_id>
+    <pdb_id>2FBV</pdb_id>
+    <pdb_id>2FBX</pdb_id>
+    <pdb_id>2FBY</pdb_id>
+    <pdb_id>2FC0</pdb_id>
+    <pdb_id>3AAF</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF091214</genbank_gene_id>
+  <genecard_id>WRN</genecard_id>
+  <geneatlas_id>WRN</geneatlas_id>
+  <hgnc_id>HGNC:12791</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yu CE, Oshima J, Fu YH, Wijsman EM, Hisama F, Alisch R, Matthews S, Nakura J, Miki T, Ouais S, Martin GM, Mulligan J, Schellenberg GD: Positional cloning of the Werner's syndrome gene.  Science. 1996 Apr 12;272(5259):258-62.</reference_text>
+      <pubmed_id>8602509</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Agrelo R, Cheng WH, Setien F, Ropero S, Espada J, Fraga MF, Herranz M, Paz MF, Sanchez-Cespedes M, Artiga MJ, Guerrero D, Castells A, von Kobbe C, Bohr VA, Esteller M: Epigenetic inactivation of the premature aging Werner syndrome gene in human cancer. Proc Natl Acad Sci U S A. 2006 Jun 6;103(23):8822-7. Epub 2006 May 24.</reference_text>
+      <pubmed_id>16723399</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marciniak RA, Lombard DB, Johnson FB, Guarente L: Nucleolar localization of the Werner syndrome protein in human cells.  Proc Natl Acad Sci U S A. 1998 Jun 9;95(12):6887-92.</reference_text>
+      <pubmed_id>9618508</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kusano K, Berres ME, Engels WR: Evolution of the RECQ family of helicases: A drosophila homolog, Dmblm, is similar to the human bloom syndrome gene. Genetics. 1999 Mar;151(3):1027-39.</reference_text>
+      <pubmed_id>10049920</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xue Y, Ratcliff GC, Wang H, Davis-Searles PR, Gray MD, Erie DA, Redinbo MR: A minimal exonuclease domain of WRN forms a hexamer on DNA and possesses both 3'- 5' exonuclease and 5'-protruding strand endonuclease activities. Biochemistry. 2002 Mar 5;41(9):2901-12.</reference_text>
+      <pubmed_id>11863428</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karmakar P, Piotrowski J, Brosh RM Jr, Sommers JA, Miller SP, Cheng WH, Snowden CM, Ramsden DA, Bohr VA: Werner protein is a target of DNA-dependent protein kinase in vivo and in vitro, and its catalytic activities are regulated by phosphorylation. J Biol Chem. 2002 May 24;277(21):18291-302. Epub 2002 Mar 11.</reference_text>
+      <pubmed_id>11889123</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sharma S, Sommers JA, Driscoll HC, Uzdilla L, Wilson TM, Brosh RM Jr: The exonucleolytic and endonucleolytic cleavage activities of human exonuclease 1 are stimulated by an interaction with the carboxyl-terminal region of the Werner syndrome protein. J Biol Chem. 2003 Jun 27;278(26):23487-96. Epub 2003 Apr 18.</reference_text>
+      <pubmed_id>12704184</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kamath-Loeb AS, Lan L, Nakajima S, Yasui A, Loeb LA: Werner syndrome protein interacts functionally with translesion DNA polymerases. Proc Natl Acad Sci U S A. 2007 Jun 19;104(25):10394-9. Epub 2007 Jun 11.</reference_text>
+      <pubmed_id>17563354</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Compton SA, Tolun G, Kamath-Loeb AS, Loeb LA, Griffith JD: The Werner syndrome protein binds replication fork and holliday junction DNAs as an oligomer. J Biol Chem. 2008 Sep 5;283(36):24478-83. Epub 2008 Jul 2.</reference_text>
+      <pubmed_id>18596042</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zecevic A, Menard H, Gurel V, Hagan E, DeCaro R, Zhitkovich A: WRN helicase promotes repair of DNA double-strand breaks caused by aberrant mismatch repair of chromium-DNA adducts. Cell Cycle. 2009 Sep 1;8(17):2769-78. Epub 2009 Sep 2.</reference_text>
+      <pubmed_id>19652551</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Opresko PL, Sowd G, Wang H: The Werner syndrome helicase/exonuclease processes mobile D-loops through branch migration and degradation. PLoS One. 2009;4(3):e4825. Epub 2009 Mar 13.</reference_text>
+      <pubmed_id>19283071</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu JS, Feng H, Zeng W, Lin GX, Xi XG: Solution structure of a multifunctional DNA- and protein-binding motif of human Werner syndrome protein. Proc Natl Acad Sci U S A. 2005 Dec 20;102(51):18379-84. Epub 2005 Dec 9.</reference_text>
+      <pubmed_id>16339893</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perry JJ, Yannone SM, Holden LG, Hitomi C, Asaithamby A, Han S, Cooper PK, Chen DJ, Tainer JA: WRN exonuclease structure and molecular mechanism imply an editing role in DNA end processing. Nat Struct Mol Biol. 2006 May;13(5):414-22. Epub 2006 Apr 23.</reference_text>
+      <pubmed_id>16622405</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moser MJ, Oshima J, Monnat RJ Jr: WRN mutations in Werner syndrome.  Hum Mutat. 1999;13(4):271-9.</reference_text>
+      <pubmed_id>10220139</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kitano K, Yoshihara N, Hakoshima T: Crystal structure of the HRDC domain of human Werner syndrome protein, WRN. J Biol Chem. 2007 Jan 26;282(4):2717-28. Epub 2006 Dec 4.</reference_text>
+      <pubmed_id>17148451</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kitano K, Kim SY, Hakoshima T: Structural basis for DNA strand separation by the unconventional winged-helix domain of RecQ helicase WRN. Structure. 2010 Feb 10;18(2):177-87.</reference_text>
+      <pubmed_id>20159463</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ye L, Miki T, Nakura J, Oshima J, Kamino K, Rakugi H, Ikegami H, Higaki J, Edland SD, Martin GM, Ogihara T: Association of a polymorphic variant of the Werner helicase gene with myocardial infarction in a Japanese population. Am J Med Genet. 1997 Feb 11;68(4):494-8.</reference_text>
+      <pubmed_id>9021029</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meisslitzer C, Ruppitsch W, Weirich-Schwaiger H, Weirich HG, Jabkowsky J, Klein G, Schweiger M, Hirsch-Kauffmann M: Werner syndrome: characterization of mutations in the WRN gene in an affected family. Eur J Hum Genet. 1997 Nov-Dec;5(6):364-70.</reference_text>
+      <pubmed_id>9450180</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vidal V, Bay JO, Champomier F, Grancho M, Beauville L, Glowaczower C, Lemery D, Ferrara M, Bignon YJ: The 1396del A mutation and a missense mutation or a rare polymorphism of the WRN gene detected in a French Werner family with a severe phenotype and a case of an unusual vulvar cancer. Mutations in brief no. 136. Online. Hum Mutat. 1998;11(5):413-4.</reference_text>
+      <pubmed_id>10206685</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Castro E, Ogburn CE, Hunt KE, Tilvis R, Louhija J, Penttinen R, Erkkola R, Panduro A, Riestra R, Piussan C, Deeb SS, Wang L, Edland SD, Martin GM, Oshima J: Polymorphisms at the Werner locus: I. Newly identified polymorphisms, ethnic variability of 1367Cys/Arg, and its stability in a population of Finnish centenarians. Am J Med Genet. 1999 Feb 19;82(5):399-403.</reference_text>
+      <pubmed_id>10069711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Passarino G, Shen P, Van Kirk JB, Lin AA, De Benedictis G, Cavalli Sforza LL, Oefner PJ, Underhill PA: The Werner syndrome gene and global sequence variation.  Genomics. 2001 Jan 1;71(1):118-22.</reference_text>
+      <pubmed_id>11161804</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang S, Lee L, Hanson NB, Lenaerts C, Hoehn H, Poot M, Rubin CD, Chen DF, Yang CC, Juch H, Dorn T, Spiegel R, Oral EA, Abid M, Battisti C, Lucci-Cordisco E, Neri G, Steed EH, Kidd A, Isley W, Showalter D, Vittone JL, Konstantinow A, Ring J, Meyer P, Wenger SL, von Herbay A, Wollina U, Schuelke M, Huizenga CR, Leistritz DF, Martin GM, Mian IS, Oshima J: The spectrum of WRN mutations in Werner syndrome patients.  Hum Mutat. 2006 Jun;27(6):558-67.</reference_text>
+      <pubmed_id>16673358</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ley TJ, Mardis ER, Ding L, Fulton B, McLellan MD, Chen K, Dooling D, Dunford-Shore BH, McGrath S, Hickenbotham M, Cook L, Abbott R, Larson DE, Koboldt DC, Pohl C, Smith S, Hawkins A, Abbott S, Locke D, Hillier LW, Miner T, Fulton L, Magrini V, Wylie T, Glasscock J, Conyers J, Sander N, Shi X, Osborne JR, Minx P, Gordon D, Chinwalla A, Zhao Y, Ries RE, Payton JE, Westervelt P, Tomasson MH, Watson M, Baty J, Ivanovich J, Heath S, Shannon WD, Nagarajan R, Walter MJ, Link DC, Graubert TA, DiPersio JF, Wilson RK: DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome.  Nature. 2008 Nov 6;456(7218):66-72.</reference_text>
+      <pubmed_id>18987736</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:37 -0700</creation_date>
+  <update_date>2013-05-27 11:25:50 -0600</update_date>
+  <accession>HMDBP02017</accession>
+  <secondary_accessions>
+    <accession>7473</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Adenylyltransferase MOCS3</synonym>
+    <synonym>MPT synthase sulfurylase</synonym>
+    <synonym>Molybdenum cofactor synthesis protein 3</synonym>
+    <synonym>Molybdopterin synthase sulfurylase</synonym>
+    <synonym>Sulfur carrier protein MOCS2A adenylyltransferase</synonym>
+    <synonym>Sulfur carrier protein MOCS2A sulfurtransferase</synonym>
+    <synonym>Sulfurtransferase MOCS3</synonym>
+  </synonyms>
+  <gene_name>MOCS3</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). Also essential during biosynthesis of the molybdenum cofactor. Acts by mediating the C-terminal thiocarboxylation of sulfur carriers URM1 and MOCS2A. Its N-terminus first activates URM1 and MOCS2A as acyl-adenylates (-COAMP), then the persulfide sulfur on the catalytic cysteine is transferred to URM1 and MOCS2A to form thiocarboxylation (-COSH) of their C-terminus. The reaction probably involves hydrogen sulfide that is generated from the persulfide intermediate and that acts as nucleophile towards URM1 and MOCS2A. Subsequently, a transient disulfide bond is formed. Does not use thiosulfate as sulfur donor; NFS1 probably acting as a sulfur donor for thiocarboxylation reactions.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>molybdopterin biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>5-methoxycarbonylmethyl-2-thiouridine-tRNA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Sulfur relay system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04122</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02206</accession>
+      <name>Molybdopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id>GO:0016779</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>thiosulfate sulfurtransferase activity</description>
+      <go_id>GO:0004792</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>URM1 activating enzyme activity</description>
+      <go_id>GO:0042292</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>enzyme active site formation via L-cysteine persulfide</description>
+      <go_id>GO:0018192</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Mo-molybdopterin cofactor biosynthetic process</description>
+      <go_id>GO:0006777</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA thio-modification</description>
+      <go_id>GO:0034227</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA wobble uridine modification</description>
+      <go_id>GO:0002098</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>water-soluble vitamin metabolic process</description>
+      <go_id>GO:0006767</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q13.13</locus>
+    <gene_sequence>&gt;1383 bp
+ATGGCTTCCCGGGAGGAGGTACTCGCCTTACAAGCTGAAGTTGCCCAACGTGAGGAGGAA
+TTGAATTCGCTGAAGCAGAAGCTGGCGTCGGCTCTTTTGGCTGAGCAGGAACCGCAGCCA
+GAACGGCTGGTTCCGGTGTCGCCGCTGCCGCCGAAGGCCGCTCTGTCCCGAGATGAGATT
+CTGCGCTATAGCCGGCAGCTAGTGCTGCCCGAGCTGGGCGTGCACGGACAGCTGCGCCTG
+GGGACCGCGTGCGTGCTAATCGTGGGCTGCGGTGGGCTCGGCTGTCCACTAGCGCAGTAC
+TTGGCAGCGGCCGGCGTGGGCCGCCTTGGCCTTGTGGACTATGACGTGGTAGAGATGAGC
+AACCTGGCCCGCCAAGTGCTGCATGGCGAGGCACTGGCTGGCCAGGCCAAGGCCTTTTCG
+GCCGCCGCCTCGCTGCGCCGCCTCAATTCGGCAGTGGAATGCGTGCCGTACACTCAGGCC
+CTTACGCCAGCCACTGCCCTAGACCTGGTCCGCCGATATGATGTGGTGGCTGACTGCTCG
+GACAACGTGCCCACTCGCTACCTGGTTAATGACGCATGTGTGCTGGCGGGTCGGCCCCTC
+GTGTCTGCCAGTGCCTTGCGCTTCGAGGGCCAAATCACAGTCTACCATTATGACGGTGGC
+CCTTGCTATCGCTGCATATTCCCCCAACCACCCCCAGCGGAGACAGTGACCAACTGCGCG
+GACGGCGGGGTGCTCGGTGTCGTTACCGGGGTCCTGGGCTGCCTGCAGGCCTTGGAAGTG
+CTGAAAATCGCTGCGGGTCTGGGCCCCTCTTACAGTGGCAGCTTGTTGCTCTTTGATGCC
+CTGAGAGGGCATTTCCGCTCTATTCGGCTGCGGAGCCGCAGGCTCGACTGTGCAGCTTGC
+GGGGAACGGCCCACTGTGACTGATCTGCTGGACTATGAAGCCTTCTGTGGCTCCTCAGCC
+ACTGATAAATGCCGCTCCCTGCAACTACTGAGCCCAGAGGAGCGTGTTTCTGTCACCGAC
+TATAAGCGACTGCTGGATTCTGGGGCATTCCACCTGTTGCTGGACGTCAGGCCTCAGGTG
+GAGGTGGACATTTGTCGTTTGCCTCATGCCCTACACATCCCTCTGAAACATTTGGAACGC
+AGGGATGCGGAGAGCCTGAAACTCTTAAAAGAAGCAATCTGGGAAGAGAAGCAGGGCACA
+CAAGAAGGGGCTGCTGTCCCCATTTATGTGATTTGCAAACTGGGAAATGACTCACAGAAA
+GCCGTGAAGATCCTCCAGTCCTTATCAGCAGCTCAAGAGTTAGACCCTTTAACAGTTCGG
+GATGTTGTGGGGGGCCTCATGGCCTGGGCTGCCAAAATCGATGGAACATTTCCACAGTAC
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>460</residue_number>
+    <molecular_weight>49668.685</molecular_weight>
+    <theoretical_pi>6.209</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MoeZ_MoeB</name>
+        <pfam_id>PF05237</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Rhodanese</name>
+        <pfam_id>PF00581</pfam_id>
+      </pfam>
+      <pfam>
+        <name>ThiF</name>
+        <pfam_id>PF00899</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Adenylyltransferase and sulfurtransferase MOCS3
+MASREEVLALQAEVAQREEELNSLKQKLASALLAEQEPQPERLVPVSPLPPKAALSRDEI
+LRYSRQLVLPELGVHGQLRLGTACVLIVGCGGLGCPLAQYLAAAGVGRLGLVDYDVVEMS
+NLARQVLHGEALAGQAKAFSAAASLRRLNSAVECVPYTQALTPATALDLVRRYDVVADCS
+DNVPTRYLVNDACVLAGRPLVSASALRFEGQITVYHYDGGPCYRCIFPQPPPAETVTNCA
+DGGVLGVVTGVLGCLQALEVLKIAAGLGPSYSGSLLLFDALRGHFRSIRLRSRRLDCAAC
+GERPTVTDLLDYEAFCGSSATDKCRSLQLLSPEERVSVTDYKRLLDSGAFHLLLDVRPQV
+EVDICRLPHALHIPLKHLERRDAESLKLLKEAIWEEKQGTQEGAAVPIYVICKLGNDSQK
+AVKILQSLSAAQELDPLTVRDVVGGLMAWAAKIDGTFPQY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3851719</genbank_protein_id>
+  <uniprot_id>O95396</uniprot_id>
+  <uniprot_name>MOCS3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3I2V</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF102544</genbank_gene_id>
+  <genecard_id>MOCS3</genecard_id>
+  <geneatlas_id>MOCS3</geneatlas_id>
+  <hgnc_id>HGNC:15765</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Matthies A, Rajagopalan KV, Mendel RR, Leimkuhler S: Evidence for the physiological role of a rhodanese-like protein for the biosynthesis of the molybdenum cofactor in humans. Proc Natl Acad Sci U S A. 2004 Apr 20;101(16):5946-51. Epub 2004 Apr 8.</reference_text>
+      <pubmed_id>15073332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matthies A, Nimtz M, Leimkuhler S: Molybdenum cofactor biosynthesis in humans: identification of a persulfide group in the rhodanese-like domain of MOCS3 by mass spectrometry. Biochemistry. 2005 May 31;44(21):7912-20.</reference_text>
+      <pubmed_id>15910006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Krepinsky K, Leimkuhler S: Site-directed mutagenesis of the active site loop of the rhodanese-like domain of the human molybdopterin synthase sulfurase MOCS3. Major differences in substrate specificity between eukaryotic and bacterial homologs. FEBS J. 2007 Jun;274(11):2778-87. Epub 2007 Apr 25.</reference_text>
+      <pubmed_id>17459099</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marelja Z, Stocklein W, Nimtz M, Leimkuhler S: A novel role for human Nfs1 in the cytoplasm: Nfs1 acts as a sulfur donor for MOCS3, a protein involved in molybdenum cofactor biosynthesis. J Biol Chem. 2008 Sep 12;283(37):25178-85. Epub 2008 Jul 23.</reference_text>
+      <pubmed_id>18650437</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schlieker CD, Van der Veen AG, Damon JR, Spooner E, Ploegh HL: A functional proteomics approach links the ubiquitin-related modifier Urm1 to a tRNA modification pathway. Proc Natl Acad Sci U S A. 2008 Nov 25;105(47):18255-60. Epub 2008 Nov 18.</reference_text>
+      <pubmed_id>19017811</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

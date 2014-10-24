@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:06:21 -0700</creation_date>
+  <update_date>2013-05-27 11:39:11 -0600</update_date>
+  <accession>HMDBP02576</accession>
+  <secondary_accessions>
+    <accession>8075</accession>
+    <accession>HMDBP03370</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Cytidine monophosphokinase 2</synonym>
+    <synonym>Testis-specific protein TSA903</synonym>
+    <synonym>UCK 2</synonym>
+    <synonym>Uridine monophosphokinase 2</synonym>
+  </synonyms>
+  <gene_name>UCK2</gene_name>
+  <general_function>Involved in ATP binding</general_function>
+  <specific_function>Phosphorylates uridine and cytidine to uridine monophosphate and cytidine monophosphate. Does not phosphorylate deoxyribonucleosides or purine ribonucleosides. Can use ATP or GTP as a phosphate donor. Can also phosphorylate cytidine and uridine nucleoside analogs such as 6-azauridine, 5-fluorouridine, 4-thiouridine, 5-bromouridine, N(4)-acetylcytidine, N(4)-benzoylcytidine, 5-fluorocytidine, 2-thiocytidine, 5-methylcytidine, and N(4)-anisoylcytidine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>UMP biosynthesis via salvage pathway</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>CTP biosynthesis via salvage pathway</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - other enzymes</name>
+      <smpdb_id/>
+      <kegg_map_id>map00983</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00089</accession>
+      <name>Cytidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00095</accession>
+      <name>Cytidine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00189</accession>
+      <name>Inosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00285</accession>
+      <name>Uridine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00288</accession>
+      <name>Uridine 5'-monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00296</accession>
+      <name>Uridine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00998</accession>
+      <name>dCTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01191</accession>
+      <name>Deoxyuridine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01245</accession>
+      <name>dCDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01274</accession>
+      <name>dTDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01342</accession>
+      <name>Thymidine 5'-triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01440</accession>
+      <name>dGTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01508</accession>
+      <name>dADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01532</accession>
+      <name>Deoxyadenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03335</accession>
+      <name>IDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00082</accession>
+      <name>Cytidine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00094</accession>
+      <name>Citric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00960</accession>
+      <name>dGDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01000</accession>
+      <name>dUDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60396</accession>
+      <name>5-Fluorouridine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60397</accession>
+      <name>5-Fluorouridine monophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleoside kinase activity</description>
+      <go_id>GO:0019206</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id>GO:0016773</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>uridine kinase activity</description>
+      <go_id>GO:0004849</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to oxygen levels</description>
+      <go_id>GO:0071453</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>CTP salvage</description>
+      <go_id>GO:0044211</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>feeding behavior</description>
+      <go_id>GO:0007631</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleobase metabolic process</description>
+      <go_id>GO:0006206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleoside salvage</description>
+      <go_id>GO:0043097</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to axon injury</description>
+      <go_id>GO:0048678</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>UMP salvage</description>
+      <go_id>GO:0044206</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q23</locus>
+    <gene_sequence>&gt;786 bp
+ATGGCCGGGGACAGCGAGCAGACCCTGCAGAACCACCAGCAGCCCAACGGCGGCGAGCCC
+TTCCTTATAGGCGTCAGCGGGGGAACAGCTAGCGGCAAGTCTTCCGTGTGTGCTAAGATC
+GTGCAGCTCCTGGGGCAGAATGAGGTGGACTATCGCCAGAAGCAGGTGGTCATCCTGAGC
+CAGGATAGCTTCTACCGTGTCCTTACCTCGGAGCAGAAGGCCAAAGCCCTGAAGGGCCAG
+TTCAACTTTGACCACCCGGATGCCTTTGACAATGAACTCATTCTCAAAACACTCAAAGAA
+ATCACTGAAGGGAAAACAGTCCAGATCCCCGTGTATGACTTTGTCTCCCATTCCCGGAAG
+GAGGAGACAGTTACTGTCTATCCCGCAGACGTGGTGCTCTTTGAAGGGATCCTGGCCTTC
+TACTCCCAGGAGGTACGAGACCTGTTCCAGATGAAGCTTTTTGTGGATACAGATGCGGAC
+ACCCGGCTCTCACGCAGAGTATTAAGGGACATCAGCGAGAGAGGCAGGGATCTTGAGCAG
+ATTTTATCTCAGTACATTACGTTCGTCAAGCCTGCCTTTGAGGAATTCTGCTTGCCAACA
+AAGAAGTATGCTGATGTGATCATCCCTAGAGGTGCAGATAATCTGGTGGCCATCAACCTC
+ATCGTGCAGCACATCCAGGACATCCTGAATGGAGGGCCCTCCAAACGGCAGACCAATGGC
+TGTCTCAACGGCTACACCCCTTCACGCAAGAGGCAGGCATCGGAGTCCAGCAGCAGGCCG
+CATTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>261</residue_number>
+    <molecular_weight>29298.92</molecular_weight>
+    <theoretical_pi>6.698</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PRK</name>
+        <pfam_id>PF00485</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Uridine-cytidine kinase 2
+MAGDSEQTLQNHQQPNGGEPFLIGVSGGTASGKSSVCAKIVQLLGQNEVDYRQKQVVILS
+QDSFYRVLTSEQKAKALKGQFNFDHPDAFDNELILKTLKEITEGKTVQIPVYDFVSHSRK
+EETVTVYPADVVLFEGILAFYSQEVRDLFQMKLFVDTDADTRLSRRVLRDISERGRDLEQ
+ILSQYITFVKPAFEEFCLPTKKYADVIIPRGADNLVAINLIVQHIQDILNGGPSKRQTNG
+CLNGYTPSRKRQASESSSRPH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>18699734</genbank_protein_id>
+  <uniprot_id>Q9BZX2</uniprot_id>
+  <uniprot_name>UCK2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1UDW</pdb_id>
+    <pdb_id>1UEI</pdb_id>
+    <pdb_id>1UEJ</pdb_id>
+    <pdb_id>1UFQ</pdb_id>
+    <pdb_id>1UJ2</pdb_id>
+    <pdb_id>1XRJ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_012474.3</genbank_gene_id>
+  <genecard_id>UCK2</genecard_id>
+  <geneatlas_id>UCK2</geneatlas_id>
+  <hgnc_id>HGNC:12562</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ozaki K, Kuroki T, Hayashi S, Nakamura Y: Isolation of three testis-specific genes (TSA303, TSA806, TSA903) by a differential mRNA display method. Genomics. 1996 Sep 1;36(2):316-9.</reference_text>
+      <pubmed_id>8812458</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Van Rompay AR, Norda A, Linden K, Johansson M, Karlsson A: Phosphorylation of uridine and cytidine nucleoside analogs by two human uridine-cytidine kinases. Mol Pharmacol. 2001 May;59(5):1181-6.</reference_text>
+      <pubmed_id>11306702</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Koizumi K, Shimamoto Y, Azuma A, Wataya Y, Matsuda A, Sasaki T, Fukushima M: Cloning and expression of uridine/cytidine kinase cDNA from human fibrosarcoma cells. Int J Mol Med. 2001 Sep;8(3):273-8.</reference_text>
+      <pubmed_id>11494055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Suzuki NN, Koizumi K, Fukushima M, Matsuda A, Inagaki F: Structural basis for the specificity, catalysis, and regulation of human uridine-cytidine kinase. Structure. 2004 May;12(5):751-64.</reference_text>
+      <pubmed_id>15130468</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Appleby TC, Larson G, Cheney IW, Walker H, Wu JZ, Zhong W, Hong Z, Yao N: Structure of human uridine-cytidine kinase 2 determined by SIRAS using a rotating-anode X-ray generator and a single samarium derivative. Acta Crystallogr D Biol Crystallogr. 2005 Mar;61(Pt 3):278-84. Epub 2005       Feb 24.</reference_text>
+      <pubmed_id>15735337</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytidine triphosphate</name>
+        <accession>HMDB00082</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytidine triphosphate</name>
+        <accession>HMDB00082</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citric acid</name>
+        <accession>HMDB00094</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citric acid</name>
+        <accession>HMDB00094</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

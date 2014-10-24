@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:45 -0700</creation_date>
+  <update_date>2013-05-27 11:32:24 -0600</update_date>
+  <accession>HMDBP01576</accession>
+  <secondary_accessions>
+    <accession>6872</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Beta-trace protein</synonym>
+    <synonym>Cerebrin-28</synonym>
+    <synonym>Glutathione-independent PGD synthase</synonym>
+    <synonym>Lipocalin-type prostaglandin-D synthase</synonym>
+    <synonym>PGD2 synthase</synonym>
+    <synonym>PGDS</synonym>
+    <synonym>PGDS2</synonym>
+    <synonym>Prostaglandin-D2 synthase</synonym>
+  </synonyms>
+  <gene_name>PTGDS</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Catalyzes the conversion of PGH2 to PGD2, a prostaglandin involved in smooth muscle contraction/relaxation and a potent inhibitor of platelet aggregation. Involved in a variety of CNS functions, such as sedation, NREM sleep and PGE2-induced allodynia, and may have an anti-apoptotic role in oligodendrocytes. Binds small non-substrate lipophilic molecules, including biliverdin, bilirubin, retinal, retinoic acid and thyroid hormone, and may act as a scavenger for harmful hydrophopic molecules and as a secretory retinoid and thyroid hormone transporter. Possibly involved in development and maintenance of the blood-brain, blood-retina, blood-aqueous humor and blood-testis barrier. It is likely to play important roles in both maturation and maintenance of the central nervous system and male reproductive system.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Arachidonic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00590</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01381</accession>
+      <name>Prostaglandin H2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01403</accession>
+      <name>Prostaglandin D2</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi apparatus</description>
+      <go_id>GO:0005794</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear membrane</description>
+      <go_id>GO:0031965</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>rough endoplasmic reticulum</description>
+      <go_id>GO:0005791</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>fatty acid binding</description>
+      <go_id>GO:0005504</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>prostaglandin-D synthase activity</description>
+      <go_id>GO:0004667</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>retinoid binding</description>
+      <go_id>GO:0005501</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>small molecule binding</description>
+      <go_id>GO:0036094</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transporter activity</description>
+      <go_id>GO:0005215</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>prostaglandin biosynthetic process</description>
+      <go_id>GO:0001516</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of circadian sleep/wake cycle, sleep</description>
+      <go_id>GO:0045187</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to glucocorticoid stimulus</description>
+      <go_id>GO:0051384</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Rough endoplasmic reticulum</subcellular_location>
+    <subcellular_location>Nucleus membrane</subcellular_location>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>perinuclear region</subcellular_location>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q34.2-q34.3</locus>
+    <gene_sequence>&gt;573 bp
+ATGGCTACTCATCACACGCTGTGGATGGGACTGGCCCTGCTGGGGGTGCTGGGCGACCTG
+CAGGCAGCACCGGAGGCCCAGGTCTCCGTGCAGCCCAACTTCCAGCAGGACAAGTTCCTG
+GGGCGCTGGTTCAGCGCGGGCCTCGCCTCCAACTCGAGCTGGCTCCGGGAGAAGAAGGCG
+GCGTTGTCCATGTGCAAGTCTGTGGTGGCCCCTGCCACGGATGGTGGCCTCAACCTGACC
+TCCACCTTCCTCAGGAAAAACCAGTGTGAGACCCGAACCATGCTGCTGCAGCCCGCGGGG
+TCCCTCGGCTCCTACAGCTACCGGAGTCCCCACTGGGGCAGCACCTACTCCGTGTCAGTG
+GTGGAGACCGACTACGACCAGTACGCGCTGCTGTACAGCCAGGGCAGCAAGGGCCCTGGC
+GAGGACTTCCGCATGGCCACCCTCTACAGCCGAACCCAGACCCCCAGGGCTGAGTTAAAG
+GAGAAATTCACCGCCTTCTGCAAGGCCCAGGGCTTCACAGAGGATACCATTGTCTTCCTG
+CCCCAAACCGATAAGTGCATGACGGAACAATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>190</residue_number>
+    <molecular_weight>21028.665</molecular_weight>
+    <theoretical_pi>7.796</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Lipocalin</name>
+        <pfam_id>PF00061</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Prostaglandin-H2 D-isomerase
+MATHHTLWMGLALLGVLGDLQAAPEAQVSVQPNFQQDKFLGRWFSAGLASNSSWLREKKA
+ALSMCKSVVAPATDGGLNLTSTFLRKNQCETRTMLLQPAGSLGSYSYRSPHWGSTYSVSV
+VETDYDQYALLYSQGSKGPGEDFRMATLYSRTQTPRAELKEKFTAFCKAQGFTEDTIVFL
+PQTDKCMTEQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P41222</uniprot_id>
+  <uniprot_name>PTGDS_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2WWP</pdb_id>
+    <pdb_id>3O19</pdb_id>
+    <pdb_id>3O22</pdb_id>
+    <pdb_id>3O2Y</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M61900</genbank_gene_id>
+  <genecard_id>PTGDS</genecard_id>
+  <geneatlas_id>PTGDS</geneatlas_id>
+  <hgnc_id>HGNC:9592</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Nagata A, Suzuki Y, Igarashi M, Eguchi N, Toh H, Urade Y, Hayaishi O: Human brain prostaglandin D synthase has been evolutionarily differentiated from lipophilic-ligand carrier proteins. Proc Natl Acad Sci U S A. 1991 May 1;88(9):4020-4.</reference_text>
+      <pubmed_id>1902577</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>White DM, Mikol DD, Espinosa R, Weimer B, Le Beau MM, Stefansson K: Structure and chromosomal localization of the human gene for a brain form of prostaglandin D2 synthase. J Biol Chem. 1992 Nov 15;267(32):23202-8.</reference_text>
+      <pubmed_id>1385416</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Otsuki T, Ota T, Nishikawa T, Hayashi K, Suzuki Y, Yamamoto J, Wakamatsu A, Kimura K, Sakamoto K, Hatano N, Kawai Y, Ishii S, Saito K, Kojima S, Sugiyama T, Ono T, Okano K, Yoshikawa Y, Aotsuka S, Sasaki N, Hattori A, Okumura K, Nagai K, Sugano S, Isogai T: Signal sequence and keyword trap in silico for selection of full-length human cDNAs encoding secretion or membrane proteins from oligo-capped cDNA libraries. DNA Res. 2005;12(2):117-26.</reference_text>
+      <pubmed_id>16303743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoffmann A, Conradt HS, Gross G, Nimtz M, Lottspeich F, Wurster U: Purification and chemical characterization of beta-trace protein from human cerebrospinal fluid: its identification as prostaglandin D synthase. J Neurochem. 1993 Aug;61(2):451-6.</reference_text>
+      <pubmed_id>8336134</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Harrington MG, Aebersold R, Martin BM, Merril CR, Hood L: Identification of a brain-specific human cerebrospinal fluid glycoprotein, beta-trace protein. Appl Theor Electrophor. 1993;3(5):229-34.</reference_text>
+      <pubmed_id>7692978</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zahn M, Mader M, Schmidt B, Bollensen E, Felgenhauer K: Purification and N-terminal sequence of beta-trace, a protein abundant in human cerebrospinal fluid. Neurosci Lett. 1993 May 14;154(1-2):93-5.</reference_text>
+      <pubmed_id>7689714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuruvilla AP, Hochwald GM, Ghiso J, Castano EM, Pizzolato M, Frangione B: Isolation and amino terminal sequence of beta-trace, a novel protein from human cerebrospinal fluid. Brain Res. 1991 Nov 29;565(2):337-40.</reference_text>
+      <pubmed_id>1726844</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tokugawa Y, Kunishige I, Kubota Y, Shimoya K, Nobunaga T, Kimura T, Saji F, Murata Y, Eguchi N, Oda H, Urade Y, Hayaishi O: Lipocalin-type prostaglandin D synthase in human male reproductive organs and seminal plasma. Biol Reprod. 1998 Feb;58(2):600-7.</reference_text>
+      <pubmed_id>9475419</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saso L, Leone MG, Sorrentino C, Giacomelli S, Silvestrini B, Grima J, Li JC, Samy E, Mruk D, Cheng CY: Quantification of prostaglandin D synthetase in cerebrospinal fluid: a potential marker for brain tumor. Biochem Mol Biol Int. 1998 Nov;46(4):643-56.</reference_text>
+      <pubmed_id>9844724</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leone MG, Saso L, Del Vecchio A, Mo MY, Silvestrini B, Cheng CY: Micropurification of two human cerebrospinal fluid proteins by high performance electrophoresis chromatography. J Neurochem. 1993 Aug;61(2):533-40.</reference_text>
+      <pubmed_id>8336140</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Melegos DN, Yu H, Diamandis EP: Prostaglandin D2 synthase: a component of human amniotic fluid and its association with fetal abnormalities. Clin Chem. 1996 Jul;42(7):1042-50.</reference_text>
+      <pubmed_id>8674187</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giacomelli S, Leone MG, Grima J, Silvestrini B, Cheng CY: Astrocytes synthesize and secrete prostaglandin D synthetase in vitro.  Biochim Biophys Acta. 1996 Feb 29;1310(3):269-76.</reference_text>
+      <pubmed_id>8599604</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamashima T, Sakuda K, Tohma Y, Yamashita J, Oda H, Irikura D, Eguchi N, Beuckmann CT, Kanaoka Y, Urade Y, Hayaishi O: Prostaglandin D synthase (beta-trace) in human arachnoid and meningioma cells: roles as a cell marker or in cerebrospinal fluid absorption, tumorigenesis, and calcification process. J Neurosci. 1997 Apr 1;17(7):2376-82.</reference_text>
+      <pubmed_id>9065498</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blodorn B, Mader M, Urade Y, Hayaishi O, Felgenhauer K, Bruck W: Choroid plexus: the major site of mRNA expression for the beta-trace protein (prostaglandin D synthase) in human brain. Neurosci Lett. 1996 May 10;209(2):117-20.</reference_text>
+      <pubmed_id>8761996</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eguchi Y, Eguchi N, Oda H, Seiki K, Kijima Y, Matsu-ura Y, Urade Y, Hayaishi O: Expression of lipocalin-type prostaglandin D synthase (beta-trace) in human heart and its accumulation in the coronary circulation of angina patients. Proc Natl Acad Sci U S A. 1997 Dec 23;94(26):14689-94.</reference_text>
+      <pubmed_id>9405674</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blodorn B, Bruck W, Tumani H, Michel U, Rieckmann P, Althans N, Mader M: Expression of the beta-trace protein in human pachymeninx as revealed by in situ hybridization and immunocytochemistry. J Neurosci Res. 1999 Sep 1;57(5):730-4.</reference_text>
+      <pubmed_id>10462696</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hirawa N, Uehara Y, Yamakado M, Toya Y, Gomi T, Ikeda T, Eguchi Y, Takagi M, Oda H, Seiki K, Urade Y, Umemura S: Lipocalin-type prostaglandin d synthase in essential hypertension.  Hypertension. 2002 Feb;39(2 Pt 2):449-54.</reference_text>
+      <pubmed_id>11882588</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>White DM, Takeda T, DeGroot LJ, Stefansson K, Arnason BG: Beta-trace gene expression is regulated by a core promoter and a distal thyroid hormone response element. J Biol Chem. 1997 May 30;272(22):14387-93.</reference_text>
+      <pubmed_id>9162076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hiraoka A, Seiki K, Oda H, Eguchi N, Urade Y, Tominaga I, Baba K: Charge microheterogeneity of the beta-trace proteins (lipocalin-type prostaglandin D synthase) in the cerebrospinal fluid of patients with neurological disorders analyzed by capillary isoelectrofocusing. Electrophoresis. 2001 Oct;22(16):3433-7.</reference_text>
+      <pubmed_id>11669522</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hirawa N, Uehara Y, Ikeda T, Gomi T, Hamano K, Totsuka Y, Yamakado M, Takagi M, Eguchi N, Oda H, Seiki K, Nakajima H, Urade Y: Urinary prostaglandin D synthase (beta-trace) excretion increases in the early stage of diabetes mellitus. Nephron. 2001 Apr;87(4):321-7.</reference_text>
+      <pubmed_id>11287775</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nilsson J, Ruetschi U, Halim A, Hesse C, Carlsohn E, Brinkmalm G, Larson G: Enrichment of glycopeptides for glycan structure and attachment site identification. Nat Methods. 2009 Nov;6(11):809-11. Epub 2009 Oct 18.</reference_text>
+      <pubmed_id>19838169</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

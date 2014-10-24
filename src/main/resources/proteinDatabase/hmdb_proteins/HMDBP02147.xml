@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:03:00 -0700</creation_date>
+  <update_date>2013-01-15 19:03:00 -0700</update_date>
+  <accession>HMDBP02147</accession>
+  <secondary_accessions>
+    <accession>7630</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CD11 antigen-like family member A</synonym>
+    <synonym>CD11a antigen</synonym>
+    <synonym>LFA-1A</synonym>
+    <synonym>Leukocyte adhesion glycoprotein LFA-1 alpha chain</synonym>
+    <synonym>Leukocyte function-associated molecule 1 alpha chain</synonym>
+  </synonyms>
+  <gene_name>ITGAL</gene_name>
+  <general_function>Involved in cell adhesion</general_function>
+  <specific_function>Integrin alpha-L/beta-2 is a receptor for ICAM1, ICAM2, ICAM3 and ICAM4. It is involved in a variety of immune phenomena including leukocyte-endothelial cell interaction, cytotoxic T-cell mediated killing, and antibody dependent killing by granulocytes and monocytes</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB14372</accession>
+      <name>Lovastatin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell adhesion</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>receptor complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integrin complex</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16p11.2</locus>
+    <gene_sequence>&gt;3513 bp
+ATGAAGGATTCCTGCATCACTGTGATGGCCATGGCGCTGCTGTCTGGGTTCTTTTTCTTC
+GCGCCGGCCTCGAGCTACAACCTGGACGTGCGGGGCGCGCGGAGCTTCTCCCCACCGCGC
+GCCGGGAGGCACTTTGGATACCGCGTCCTGCAGGTCGGAAACGGGGTCATCGTGGGAGCT
+CCAGGGGAGGGGAACAGCACAGGAAGCCTCTATCAGTGCCAGTCGGGCACAGGACACTGC
+CTGCCAGTCACCCTGAGAGGTTCCAACTATACCTCCAAGTACTTGGGAATGACCTTGGCA
+ACAGACCCCACAGATGGAAGCATTTTGGCCTGTGACCCTGGGCTGTCTCGAACGTGTGAC
+CAGAACACCTATCTGAGTGGCCTGTGTTACCTCTTCCGCCAGAATCTGCAGGGTCCCATG
+CTGCAGGGGCGCCCTGGTTTTCAGGAATGTATCAAGGGCAACGTAGACCTGGTATTTCTG
+TTTGATGGTTCGATGAGCTTGCAGCCAGATGAATTTCAGAAAATTCTGGACTTCATGAAG
+GATGTGATGAAGAAACTCAGCAACACTTCGTACCAGTTTGCTGCTGTTCAGTTTTCCACA
+AGCTACAAAACAGAATTTGATTTCTCAGATTATGTTAAATGGAAGGACCCTGATGCTCTG
+CTGAAGCATGTAAAGCACATGTTGCTGTTGACCAATACCTTTGGTGCCATCAATTATGTC
+GCGACAGAGGTGTTCCGGGAGGAGCTGGGGGCCCGGCCAGATGCCACCAAAGTGCTTATC
+ATCATCACGGATGGGGAGGCCACTGACAGTGGCAACATCGATGCGGCCAAAGACATCATC
+CGCTACATCATCGGGATTGGAAAGCATTTTCAGACCAAGGAGAGTCAGGAGACCCTCCAC
+AAATTTGCATCAAAACCCGCGAGCGAGTTTGTGAAAATTCTGGACACATTTGAGAAGCTG
+AAAGATCTATTCACTGAGCTGCAGAAGAAGATCTATGTCATTGAGGGCACAAGCAAACAG
+GACCTGACTTCCTTCAACATGGAGCTGTCCTCCAGCGGCATCAGTGCTGACCTCAGCAGG
+GGCCATGCAGTCGTGGGGGCAGTAGGAGCCAAGGACTGGGCTGGGGGCTTTCTTGACCTG
+AAGGCAGACCTGCAGGATGACACATTTATTGGGAATGAACCATTGACACCAGAAGTGAGA
+GCAGGCTATTTGGGTTACACCGTGACCTGGCTGCCCTCCCGGCAAAAGACTTCGTTGCTG
+GCCTCGGGAGCCCCTCGATACCAGCACATGGGCCGAGTGCTGCTGTTCCAAGAGCCACAG
+GGCGGAGGACACTGGAGCCAGGTCCAGACAATCCATGGGACCCAGATTGGCTCTTATTTC
+GGTGGGGAGCTGTGTGGCGTCGACGTGGACCAAGATGGGGAGACAGAGCTGCTGCTGATT
+GGTGCCCCACTGTTCTATGGGGAGCAGAGAGGAGGCCGGGTGTTTATCTACCAGAGAAGA
+CAGTTGGGGTTTGAAGAAGTCTCAGAGCTGCAGGGGGACCCCGGCTACCCACTCGGGCGG
+TTTGGAGAAGCCATCACTGCTCTGACAGACATCAACGGCGATGGGCTGGTAGACGTGGCT
+GTGGGGGCCCCTCTGGAGGAGCAGGGGGCTGTGTACATCTTCAATGGGAGGCACGGGGGG
+CTTAGTCCCCAGCCAAGTCAGCGGATAGAAGGGACCCAAGTGCTCTCAGGAATTCAGTGG
+TTTGGACGCTCCATCCATGGGGTGAAGGACCTTGAAGGGGATGGCTTGGCAGATGTGGCT
+GTGGGGGCTGAGAGCCAGATGATCGTGCTGAGCTCCCGGCCCGTGGTGGATATGGTCACC
+CTGATGTCCTTCTCTCCAGCTGAGATCCCAGTGCATGAAGTGGAGTGCTCCTATTCAACC
+AGTAACAAGATGAAAGAAGGAGTTAATATCACAATCTGTTTCCAGATCAAGTCTCTCTAC
+CCCCAGTTCCAAGGCCGCCTGGTTGCCAATCTCACTTACACTCTGCAGCTGGATGGCCAC
+CGGACCAGAAGACGGGGGTTGTTCCCAGGAGGGAGACATGAACTCAGAAGGAATATAGCT
+GTCACCACCAGCATGTCATGCACTGACTTCTCATTTCATTTCCCGGTATGTGTTCAAGAC
+CTCATCTCCCCCATCAATGTTTCCCTGAATTTCTCTCTTTGGGAGGAGGAAGGGACACCG
+AGGGACCAAAGGGCGCAGGGCAAGGACATACCGCCCATCCTGAGACCCTCCCTGCACTCG
+GAAACCTGGGAGATCCCTTTTGAGAAGAACTGTGGGGAGGACAAGAAGTGTGAGGCAAAC
+TTGAGAGTGTCCTTCTCTCCTGCAAGATCCAGAGCCCTGCGTCTAACTGCTTTTGCCAGC
+CTCTCTGTGGAGCTGAGCCTGAGTAACTTGGAAGAAGATGCTTACTGGGTCCAGCTGGAC
+CTGCACTTCCCCCCGGGACTCTCCTTCCGCAAGGTGGAGATGCTGAAGCCCCATAGCCAG
+ATACCTGTGAGCTGCGAGGAGCTTCCTGAAGAGTCCAGGCTTCTGTCCAGGGCATTATCT
+TGCAATGTGAGCTCTCCCATCTTCAAAGCAGGCCACTCGGTTGCTCTGCAGATGATGTTT
+AATACACTGGTAAACAGCTCCTGGGGGGACTCGGTTGAATTGCACGCCAATGTGACCTGT
+AACAATGAGGACTCAGACCTCCTGGAGGACAACTCAGCCACTACCATCATCCCCATCCTG
+TACCCCATCAACATCCTCATCCAGGACCAAGAAGACTCCACACTCTATGTCAGTTTCACC
+CCCAAAGGCCCCAAGATCCACCAAGTCAAGCACATGTACCAGGTGAGGATCCAGCCTTCC
+ATCCACGACCACAACATACCCACCCTGGAGGCTGTGGTTGGGGTGCCACAGCCTCCCAGC
+GAGGGGCCCATCACACACCAGTGGAGCGTGCAGATGGAGCCTCCCGTGCCCTGCCACTAT
+GAGGATCTGGAGAGGCTCCCGGATGCAGCTGAGCCTTGTCTCCCCGGAGCCCTGTTCCGC
+TGCCCTGTTGTCTTCAGGCAGGAGATCCTCGTCCAAGTGATCGGGACTCTGGAGCTGGTG
+GGAGAGATCGAGGCCTCTTCCATGTTCAGCCTCTGCAGCTCCCTCTCCATCTCCTTCAAC
+AGCAGCAAGCATTTCCACCTCTATGGCAGCAACGCCTCCCTGGCCCAGGTTGTCATGAAG
+GTTGACGTGGTGTATGAGAAGCAGATGCTCTACCTCTACGTGCTGAGCGGCATCGGGGGG
+CTGCTGCTGCTGCTGCTCATTTTCATAGTGCTGTACAAGGTTGGTTTCTTCAAACGGAAC
+CTGAAGGAGAAGATGGAGGCTGGCAGAGGTGTCCCGAATGGAATCCCTGCAGAAGACTCT
+GAGCAGCTGGCATCTGGGCAAGAGGCTGGGGATCCCGGCTGCCTGAAGCCCCTCCATGAG
+AAGGACTCTGAGAGTGGTGGTGGCAAGGACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1170</residue_number>
+    <molecular_weight>128768.5</molecular_weight>
+    <theoretical_pi>5.35</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FG-GAP</name>
+        <pfam_id>PF01839</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Integrin_alpha</name>
+        <pfam_id>PF00357</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Integrin_alpha2</name>
+        <pfam_id>PF08441</pfam_id>
+      </pfam>
+      <pfam>
+        <name>VWA</name>
+        <pfam_id>PF00092</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>1091-1111</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-25</region>
+    </signal_regions>
+    <protein_sequence>&gt;Integrin alpha-L
+MKDSCITVMAMALLSGFFFFAPASSYNLDVRGARSFSPPRAGRHFGYRVLQVGNGVIVGA
+PGEGNSTGSLYQCQSGTGHCLPVTLRGSNYTSKYLGMTLATDPTDGSILACDPGLSRTCD
+QNTYLSGLCYLFRQNLQGPMLQGRPGFQECIKGNVDLVFLFDGSMSLQPDEFQKILDFMK
+DVMKKLSNTSYQFAAVQFSTSYKTEFDFSDYVKRKDPDALLKHVKHMLLLTNTFGAINYV
+ATEVFREELGARPDATKVLIIITDGEATDSGNIDAAKDIIRYIIGIGKHFQTKESQETLH
+KFASKPASEFVKILDTFEKLKDLFTELQKKIYVIEGTSKQDLTSFNMELSSSGISADLSR
+GHAVVGAVGAKDWAGGFLDLKADLQDDTFIGNEPLTPEVRAGYLGYTVTWLPSRQKTSLL
+ASGAPRYQHMGRVLLFQEPQGGGHWSQVQTIHGTQIGSYFGGELCGVDVDQDGETELLLI
+GAPLFYGEQRGGRVFIYQRRQLGFEEVSELQGDPGYPLGRFGEAITALTDINGDGLVDVA
+VGAPLEEQGAVYIFNGRHGGLSPQPSQRIEGTQVLSGIQWFGRSIHGVKDLEGDGLADVA
+VGAESQMIVLSSRPVVDMVTLMSFSPAEIPVHEVECSYSTSNKMKEGVNITICFQIKSLI
+PQFQGRLVANLTYTLQLDGHRTRRRGLFPGGRHELRRNIAVTTSMSCTDFSFHFPVCVQD
+LISPINVSLNFSLWEEEGTPRDQRAQGKDIPPILRPSLHSETWEIPFEKNCGEDKKCEAN
+LRVSFSPARSRALRLTAFASLSVELSLSNLEEDAYWVQLDLHFPPGLSFRKVEMLKPHSQ
+IPVSCEELPEESRLLSRALSCNVSSPIFKAGHSVALQMMFNTLVNSSWGDSVELHANVTC
+NNEDSDLLEDNSATTIIPILYPINILIQDQEDSTLYVSFTPKGPKIHQVKHMYQVRIQPS
+IHDHNIPTLEAVVGVPQPPSEGPITHQWSVQMEPPVPCHYEDLERLPDAAEPCLPGALFR
+CPVVFRQEILVQVIGTLELVGEIEASSMFSLCSSLSISFNSSKHFHLYGSNASLAQVVMK
+VDVVYEKQMLYLYVLSGIGGLLLLLLIFIVLYKVGFFKRNLKEKMEAGRGVPNGIPAEDS
+EQLASGQEAGDPGCLKPLHEKDSESGGGKD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>31422</genbank_protein_id>
+  <uniprot_id>P20701</uniprot_id>
+  <uniprot_name>ITAL_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1RD4</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>Y00796</genbank_gene_id>
+  <genecard_id>ITGAL</genecard_id>
+  <geneatlas_id>ITGAL</geneatlas_id>
+  <hgnc_id>HGNC:6148</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Larson RS, Corbi AL, Berman L, Springer T: Primary structure of the leukocyte function-associated molecule-1 alpha subunit: an integrin with an embedded domain defining a protein superfamily. J Cell Biol. 1989 Feb;108(2):703-12.</reference_text>
+      <pubmed_id>2537322</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Loftus BJ, Kim UJ, Sneddon VP, Kalush F, Brandon R, Fuhrmann J, Mason T, Crosby ML, Barnstead M, Cronin L, Deslattes Mays A, Cao Y, Xu RX, Kang HL, Mitchell S, Eichler EE, Harris PC, Venter JC, Adams MD: Genome duplications and other features in 12 Mb of DNA sequence from human chromosome 16p and 16q. Genomics. 1999 Sep 15;60(3):295-308.</reference_text>
+      <pubmed_id>10493829</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shelley CS, Farokhzad OC, Arnaout MA: Identification of cell-specific and developmentally regulated nuclear factors that direct myeloid and lymphoid expression of the CD11a gene. Proc Natl Acad Sci U S A. 1993 Jun 1;90(11):5364-8.</reference_text>
+      <pubmed_id>8099450</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nueda A, Lopez-Cabrera M, Vara A, Corbi AL: Characterization of the CD11a (alpha L, LFA-1 alpha) integrin gene promoter. J Biol Chem. 1993 Sep 15;268(26):19305-11.</reference_text>
+      <pubmed_id>8103515</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cornwell RD, Gollahon KA, Hickstein DD: Description of the leukocyte function-associated antigen 1 (LFA-1 or CD11a) promoter. Proc Natl Acad Sci U S A. 1993 May 1;90(9):4221-5.</reference_text>
+      <pubmed_id>8097887</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wollscheid B, Bausch-Fluck D, Henderson C, O'Brien R, Bibel M, Schiess R, Aebersold R, Watts JD: Mass-spectrometric identification and relative quantification of N-linked cell surface glycoproteins. Nat Biotechnol. 2009 Apr;27(4):378-86. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Qu A, Leahy DJ: Crystal structure of the I-domain from the CD11a/CD18 (LFA-1, alpha L beta 2) integrin. Proc Natl Acad Sci U S A. 1995 Oct 24;92(22):10277-81.</reference_text>
+      <pubmed_id>7479767</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Qu A, Leahy DJ: The role of the divalent cation in the structure of the I domain from the CD11a/CD18 integrin. Structure. 1996 Aug 15;4(8):931-42.</reference_text>
+      <pubmed_id>8805579</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kallen J, Welzenbach K, Ramage P, Geyl D, Kriwacki R, Legge G, Cottens S, Weitz-Schmidt G, Hommel U: Structural basis for LFA-1 inhibition upon lovastatin binding to the CD11a I-domain. J Mol Biol. 1999 Sep 10;292(1):1-9.</reference_text>
+      <pubmed_id>10493852</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shimaoka M, Xiao T, Liu JH, Yang Y, Dong Y, Jun CD, McCormack A, Zhang R, Joachimiak A, Takagi J, Wang JH, Springer TA: Structures of the alpha L I domain and its complex with ICAM-1 reveal a shape-shifting pathway for integrin regulation. Cell. 2003 Jan 10;112(1):99-111.</reference_text>
+      <pubmed_id>12526797</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lovastatin</name>
+        <accession>HMDB14372</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kallen J, Welzenbach K, Ramage P, Geyl D, Kriwacki R, Legge G, Cottens S, Weitz-Schmidt G, Hommel U: Structural basis for LFA-1 inhibition upon lovastatin binding to the CD11a I-domain. J Mol Biol. 1999 Sep 10;292(1):1-9.</reference_text>
+        <pubmed_id>10493852</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

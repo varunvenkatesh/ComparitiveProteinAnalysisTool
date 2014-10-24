@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:11 -0700</creation_date>
+  <update_date>2013-05-27 11:26:31 -0600</update_date>
+  <accession>HMDBP00433</accession>
+  <secondary_accessions>
+    <accession>5670</accession>
+    <accession>HMDBP05294</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Alpha-galactosidase B</synonym>
+  </synonyms>
+  <gene_name>NAGA</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Removes terminal alpha-N-acetylgalactosamine residues from glycolipids and glycopeptides. Required for the breakdown of glycolipids.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycosphingolipid biosynthesis - globo series</name>
+      <smpdb_id/>
+      <kegg_map_id>map00603</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04958</accession>
+      <name>Tetrahexosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00131</accession>
+      <name>Glycerol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00853</accession>
+      <name>N-Acetyl-b-D-galactosamine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on glycosyl bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, hydrolyzing o-glycosyl compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosome</description>
+      <go_id>GO:0005764</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alpha-galactosidase activity</description>
+      <go_id>GO:0004557</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alpha-N-acetylgalactosaminidase activity</description>
+      <go_id>GO:0008456</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cation binding</description>
+      <go_id>GO:0043169</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate catabolic process</description>
+      <go_id>GO:0016052</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycoside catabolic process</description>
+      <go_id>GO:0016139</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosylceramide catabolic process</description>
+      <go_id>GO:0046477</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oligosaccharide metabolic process</description>
+      <go_id>GO:0009311</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;1236 bp
+ATGCTGCTGAAGACAGTGCTCTTGCTGGGACATGTGGCCCAGGTGCTGATGCTGGACAAT
+GGGCTCCTGCAGACACCACCCATGGGCTGGCTGGCCTGGGAACGCTTCCGCTGCAACATT
+AACTGTGATGAGGACCCAAAGAACTGCATAAGTGAACAGCTCTTCATGGAGATGGCTGAC
+CGGATGGCACAGGATGGATGGCGGGACATGGGCTACACATACCTAAACATTGATGACTGC
+TGGATCGGCGGTCGCGATGCCAGTGGCCGCCTGATGCCAGATCCCAAGCGCTTCCCTCAT
+GGCATTCCTTTCCTGGCTGACTACGTTCACTCCCTGGGCCTGAAGTTGGGTATCTACGCG
+GACATGGGCAACTTCACCTGCATGGGTTACCCAGGCACCACACTGGACAAGGTGGTCCAG
+GATGCTCAGACCTTCGCCGAGTGGAAGGTAGACATGCTCAAGCTGGATGGCTGCTTCTCC
+ACCCCCGAGGAGCGGGCCCAGGGGTACCCCAAGATGGCTGCTGCCCTGAATGCCACAGGC
+CGCCCCATCGCCTTCTCCTGCAGCTGGCCAGCCTATGAAGGCGGCCTCCCCCCAAGGGTG
+AACTACAGTCTGCTGGCGGACATCTGCAACCTCTGGCGTAACTATGATGACATCCAGGAC
+TCCTGGTGGAGCGTGCTCTCCATCCTGAATTGGTTCGTGGAGCACCAGGACATACTGCAG
+CCAGTGGCCGGCCCTGGGCACTGGAATGACCCTGACATGCTGCTCATTGGGAACTTTGGT
+CTCAGCTTAGAGCAATCCCGGGCCCAGATGGCCCTGTGGACGGTGCTGGCAGCCCCCCTC
+TTGATGTCCACAGACCTGCGTACCATCTCCGCCCAGAACATGGACATTCTGCAGAATCCA
+CTCATGATCAAAATCAACCAGGATCCCTTAGGCATCCAGGGACGCAGGATTCACAAGGAA
+AAATCTCTCATCGAAGTGTACATGCGGCCTCTGTCCAACAAGGCTAGCGCCTTAGTCTTC
+TTCAGCTGCAGGACCGATATGCCTTATCGCTACCACTCCTCCCTTGGCCAGCTGAACTTC
+ACCGGGTCTGTGATATATGAGGCCCAGGACGTCTACTCAGGTGACATCATCAGTGGCCTC
+CGAGATGAAACCAACTTCACAGTGATCATCAACCCTTCAGGGGTAGTGATGTGGTACCTG
+TATCCCATCAAGAACCTGGAGATGTCCCAGCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>411</residue_number>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+      <pfam>
+        <name>Melibiase</name>
+        <pfam_id>PF02065</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alpha-N-acetylgalactosaminidase
+MLLKTVLLLGHVAQVLMLDNGLLQTPPMGWLAWERFRCNINCDEDPKNCISEQLFMEMAD
+RMAQDGWRDMGYTYLNIDDCWIGGRDASGRLMPDPKRFPHGIPFLADYVHSLGLKLGIYA
+DMGNFTCMGYPGTTLDKVVQDAQTFAEWKVDMLKLDGCFSTPEERAQGYPKMAAALNATG
+RPIAFSCSWPAYEGGLPPRVNYSLLADICNLWRNYDDIQDSWWSVLSILNWFVEHQDILQ
+PVAGPGHWNDPDMLLIGNFGLSLEQSRAQMALWTVLAAPLLMSTDLRTISAQNMDILQNP
+LMIKINQDPLGIQGRRIHKEKSLIEVYMRPLSNKASALVFFSCRTDMPYRYHSSLGQLNF
+TGSVIYEAQDVYSGDIISGLRDETNFTVIINPSGVVMWYLYPIKNLEMSQQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>178248</genbank_protein_id>
+  <uniprot_id>P17050</uniprot_id>
+  <uniprot_name>NAGAB_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3H53</pdb_id>
+    <pdb_id>3H54</pdb_id>
+    <pdb_id>3H55</pdb_id>
+    <pdb_id>3IGU</pdb_id>
+    <pdb_id>4DO4</pdb_id>
+    <pdb_id>4DO5</pdb_id>
+    <pdb_id>4DO6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M62783</genbank_gene_id>
+  <genecard_id>NAGA</genecard_id>
+  <geneatlas_id>NAGA</geneatlas_id>
+  <hgnc_id>HGNC:7631</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wang AM, Bishop DF, Desnick RJ: Human alpha-N-acetylgalactosaminidase-molecular cloning, nucleotide sequence, and expression of a full-length cDNA. Homology with human alpha-galactosidase A suggests evolution from a common ancestral gene. J Biol Chem. 1990 Dec 15;265(35):21859-66.</reference_text>
+      <pubmed_id>2174888</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang AM, Desnick RJ: Structural organization and complete sequence of the human alpha-N-acetylgalactosaminidase gene: homology with the alpha-galactosidase A gene provides evidence for evolution from a common ancestral gene. Genomics. 1991 May;10(1):133-42.</reference_text>
+      <pubmed_id>1646157</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsuji S, Yamauchi T, Hiraiwa M, Isobe T, Okuyama T, Sakimura K, Takahashi Y, Nishizawa M, Uda Y, Miyatake T: Molecular cloning of a full-length cDNA for human alpha-N-acetylgalactosaminidase (alpha-galactosidase B). Biochem Biophys Res Commun. 1989 Sep 29;163(3):1498-504.</reference_text>
+      <pubmed_id>2551294</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamauchi T, Hiraiwa M, Kobayashi H, Uda Y, Miyatake T, Tsuji S: Molecular cloning of two species of cDNAs for human alpha-N-acetylgalactosaminidase and expression in mammalian cells. Biochem Biophys Res Commun. 1990 Jul 16;170(1):231-7.</reference_text>
+      <pubmed_id>2372288</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG, Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM, Dunham I: A genome annotation-driven approach to cloning the human ORFeome.  Genome Biol. 2004;5(10):R84. Epub 2004 Sep 30.</reference_text>
+      <pubmed_id>15461802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Warner TG, Louie A, Potier M: Photolabeling of the alpha-neuraminidase/beta-galactosidase complex from human placenta with a photoreactive neuraminidase inhibitor. Biochem Biophys Res Commun. 1990 Nov 30;173(1):13-9.</reference_text>
+      <pubmed_id>2256909</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Asfaw B, Schindler D, Ledvinova J, Cerny B, Smid F, Conzelmann E: Degradation of blood group A glycolipid A-6-2 by normal and mutant human skin fibroblasts. J Lipid Res. 1998 Sep;39(9):1768-80.</reference_text>
+      <pubmed_id>9741689</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang LY, Deng N, Wang LS, Dai J, Wang ZL, Jiang XS, Li SJ, Li L, Sheng QH, Wu DQ, Li L, Zeng R: Quantitative phosphoproteome profiling of Wnt3a-mediated signaling network: indicating the involvement of ribonucleoside-diphosphate reductase M2 subunit phosphorylation at residue serine 20 in canonical Wnt signal transduction. Mol Cell Proteomics. 2007 Nov;6(11):1952-67. Epub 2007 Aug 12.</reference_text>
+      <pubmed_id>17693683</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clark NE, Garman SC: The 1.9 a structure of human alpha-N-acetylgalactosaminidase: The molecular basis of Schindler and Kanzaki diseases. J Mol Biol. 2009 Oct 23;393(2):435-47. Epub 2009 Aug 14.</reference_text>
+      <pubmed_id>19683538</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang AM, Schindler D, Desnick R: Schindler disease: the molecular lesion in the alpha-N-acetylgalactosaminidase gene that causes an infantile neuroaxonal dystrophy. J Clin Invest. 1990 Nov;86(5):1752-6.</reference_text>
+      <pubmed_id>2243144</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang AM, Kanzaki T, Desnick RJ: The molecular lesion in the alpha-N-acetylgalactosaminidase gene that causes angiokeratoma corporis diffusum with glycopeptiduria. J Clin Invest. 1994 Aug;94(2):839-45.</reference_text>
+      <pubmed_id>8040340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Keulemans JL, Reuser AJ, Kroos MA, Willemsen R, Hermans MM, van den Ouweland AM, de Jong JG, Wevers RA, Renier WO, Schindler D, Coll MJ, Chabas A, Sakuraba H, Suzuki Y, van Diggelen OP: Human alpha-N-acetylgalactosaminidase (alpha-NAGA) deficiency: new mutations and the paradox between genotype and phenotype. J Med Genet. 1996 Jun;33(6):458-64.</reference_text>
+      <pubmed_id>8782044</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kodama K, Kobayashi H, Abe R, Ohkawara A, Yoshii N, Yotsumoto S, Fukushige T, Nagatsuka Y, Hirabayashi Y, Kanzaki T: A new case of alpha-N-acetylgalactosaminidase deficiency with angiokeratoma corporis diffusum, with Meniere's syndrome and without mental retardation. Br J Dermatol. 2001 Feb;144(2):363-8.</reference_text>
+      <pubmed_id>11251574</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycerol</name>
+        <accession>HMDB00131</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycerol</name>
+        <accession>HMDB00131</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycerol</name>
+        <accession>HMDB00131</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

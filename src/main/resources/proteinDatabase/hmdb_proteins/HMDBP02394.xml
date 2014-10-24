@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:04:55 -0700</creation_date>
+  <update_date>2013-01-15 19:04:55 -0700</update_date>
+  <accession>HMDBP02394</accession>
+  <secondary_accessions>
+    <accession>7886</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CD62 antigen-like family member L</synonym>
+    <synonym>CD62L antigen</synonym>
+    <synonym>LAM-1</synonym>
+    <synonym>LECAM1</synonym>
+    <synonym>Leukocyte adhesion molecule 1</synonym>
+    <synonym>Leukocyte surface antigen Leu-8</synonym>
+    <synonym>Leukocyte-endothelial cell adhesion molecule 1</synonym>
+    <synonym>Lymph node homing receptor</synonym>
+    <synonym>TQ1</synonym>
+    <synonym>gp90-MEL</synonym>
+  </synonyms>
+  <gene_name>SELL</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Cell surface adhesion protein. Mediates the adherence of lymphocytes to endothelial cells of high endothelial venules in peripheral lymph nodes. Promotes initial tethering and rolling of leukocytes in endothelia</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00024</accession>
+      <name>3-O-Sulfogalactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell adhesion</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1q23-q25</locus>
+    <gene_sequence>&gt;1119 bp
+ATGATATTTCCATGGAAATGTCAGAGCACCCAGAGGGACTTATGGAACATCTTCAAGTTG
+TGGGGGTGGACAATGCTCTGTTGTGATTTCCTGGCACATCATGGAACCGACTGCTGGACT
+TACCATTATTCTGAAAAACCCATGAACTGGCAAAGGGCTAGAAGATTCTGCCGAGACAAT
+TACACAGATTTAGTTGCCATACAAAACAAGGCGGAAATTGAGTATCTGGAGAAGACTCTG
+CCTTTCAGTCGTTCTTACTACTGGATAGGAATCCGGAAGATAGGAGGAATATGGACGTGG
+GTGGGAACCAACAAATCTCTTACTGAAGAAGCAGAGAACTGGGGAGATGGTGAGCCCAAC
+AACAAGAAGAACAAGGAGGACTGCGTGGAGATCTATATCAAGAGAAACAAAGATGCAGGC
+AAATGGAACGATGACGCCTGCCACAAACTAAAGGCAGCCCTCTGTTACACAGCTTCTTGC
+CAGCCCTGGTCATGCAGTGGCCATGGAGAATGTGTAGAAATCATCAATAATTACACCTGC
+AACTGTGATGTGGGGTACTATGGGCCCCAGTGTCAGTTTGTGATTCAGTGTGAGCCTTTG
+GAGGCCCCAGAGCTGGGTACCATGGACTGTACTCACCCTTTGGGAAACTTCAGCTTCAGC
+TCACAGTGTGCCTTCAGCTGCTCTGAAGGAACAAACTTAACTGGGATTGAAGAAACCACC
+TGTGGACCATTTGGAAACTGGTCATCTCCAGAACCAACCTGTCAAGTGATTCAGTGTGAG
+CCTCTATCAGCACCAGATTTGGGGATCATGAACTGTAGCCATCCCCTGGCCAGCTTCAGC
+TTTACCTCTGCATGTACCTTCATCTGCTCAGAAGGAACTGAGTTAATTGGGAAGAAGAAA
+ACCATTTGTGAATCATCTGGAATCTGGTCAAATCCTAGTCCAATATGTCAAAAATTGGAC
+AAAAGTTTCTCAATGATTAAGGAGGGTGATTATAACCCCCTCTTCATTCCAGTGGCAGTC
+ATGGTTACTGCATTCTCTGGGTTGGCATTTATCATTTGGCTGGCAAGGAGATTAAAAAAA
+GGCAAGAAATCCAAGAGAAGTATGAATGACCCATATTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>372</residue_number>
+    <molecular_weight>42186.7</molecular_weight>
+    <theoretical_pi>6.57</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>EGF</name>
+        <pfam_id>PF00008</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Lectin_C</name>
+        <pfam_id>PF00059</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Sushi</name>
+        <pfam_id>PF00084</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>333-355</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-28</region>
+    </signal_regions>
+    <protein_sequence>&gt;L-selectin
+MIFPWKCQSTQRDLWNIFKLWGWTMLCCDFLAHHGTDCWTYHYSEKPMNWQRARRFCRDN
+YTDLVAIQNKAEIEYLEKTLPFSRSYYWIGIRKIGGIWTWVGTNKSLTEEAENWGDGEPN
+NKKNKEDCVEIYIKRNKDAGKWNDDACHKLKAALCYTASCQPWSCSGHGECVEIINNYTC
+NCDVGYYGPQCQFVIQCEPLEAPELGTMDCTHPLGNFSFSSQCAFSCSEGTNLTGIEETT
+CGPFGNWSSPEPTCQVIQCEPLSAPDLGIMNCSHPLASFSFTSACTFICSEGTELIGKKK
+TICESSGIWSNPSPICQKLDKSFSMIKEGDYNPLFIPVAVMVTAFSGLAFIIWLARRLKK
+GKKSKRSMNDPY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>189069217</genbank_protein_id>
+  <uniprot_id>P14151</uniprot_id>
+  <uniprot_name>LYAM1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AK312673</genbank_gene_id>
+  <genecard_id>SELL</genecard_id>
+  <geneatlas_id>SELL</geneatlas_id>
+  <hgnc_id>HGNC:10720</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Siegelman MH, Weissman IL: Human homologue of mouse lymph node homing receptor: evolutionary conservation at tandem cell interaction domains. Proc Natl Acad Sci U S A. 1989 Jul;86(14):5562-6.</reference_text>
+      <pubmed_id>2664786</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tedder TF, Isaacs CM, Ernst TJ, Demetri GD, Adler DA, Disteche CM: Isolation and chromosomal localization of cDNAs encoding a novel human lymphocyte cell surface molecule, LAM-1. Homology with the mouse lymphocyte homing receptor and other human adhesion proteins. J Exp Med. 1989 Jul 1;170(1):123-33.</reference_text>
+      <pubmed_id>2473156</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Camerini D, James SP, Stamenkovic I, Seed B: Leu-8/TQ1 is the human equivalent of the Mel-14 lymph node homing receptor. Nature. 1989 Nov 2;342(6245):78-82.</reference_text>
+      <pubmed_id>2509939</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bowen BR, Nguyen T, Lasky LA: Characterization of a human homologue of the murine peripheral lymph node homing receptor. J Cell Biol. 1989 Jul;109(1):421-7.</reference_text>
+      <pubmed_id>2663882</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ord DC, Ernst TJ, Zhou LJ, Rambaldi A, Spertini O, Griffin J, Tedder TF: Structure of the gene encoding the human leukocyte adhesion molecule-1 (TQ1, Leu-8) of lymphocytes and neutrophils. J Biol Chem. 1990 May 15;265(14):7760-7.</reference_text>
+      <pubmed_id>1692315</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bernimoulin MP, Zeng XL, Abbal C, Giraud S, Martinez M, Michielin O, Schapira M, Spertini O: Molecular basis of leukocyte rolling on PSGL-1. Predominant role of core-2 O-glycans and of tyrosine sulfate residue 51. J Biol Chem. 2003 Jan 3;278(1):37-47. Epub 2002 Oct 25.</reference_text>
+      <pubmed_id>12403782</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leppanen A, Yago T, Otto VI, McEver RP, Cummings RD: Model glycosulfopeptides from P-selectin glycoprotein ligand-1 require tyrosine sulfation and a core 2-branched O-glycan to bind to L-selectin. J Biol Chem. 2003 Jul 18;278(29):26391-400. Epub 2003 May 7.</reference_text>
+      <pubmed_id>12736247</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wollscheid B, Bausch-Fluck D, Henderson C, O'Brien R, Bibel M, Schiess R, Aebersold R, Watts JD: Mass-spectrometric identification and relative quantification of N-linked cell surface glycoproteins. Nat Biotechnol. 2009 Apr;27(4):378-86. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bajorath J, Aruffo A: A template for generation and comparison of three-dimensional selectin models. Biochem Biophys Res Commun. 1995 Nov 22;216(3):1018-23.</reference_text>
+      <pubmed_id>7488174</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>3-O-Sulfogalactosylceramide (d18:1/24:0)</name>
+        <accession>HMDB00024</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kajihara J, Guoji Y, Kato K, Suzuki Y: Sulfatide, a specific sugar ligand for L-selectin, blocks CCl4-induced liver inflammation in rats. Biosci Biotechnol Biochem. 1995 Jan;59(1):155-7.</reference_text>
+        <pubmed_id>7534512</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

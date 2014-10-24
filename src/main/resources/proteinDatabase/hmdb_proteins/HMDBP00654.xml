@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:06 -0700</creation_date>
+  <update_date>2013-05-27 11:39:00 -0600</update_date>
+  <accession>HMDBP00654</accession>
+  <secondary_accessions>
+    <accession>5926</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Bendless-like ubiquitin-conjugating enzyme</synonym>
+    <synonym>Ubc13</synonym>
+    <synonym>Ubiquitin carrier protein N</synonym>
+    <synonym>Ubiquitin-protein ligase N</synonym>
+    <synonym>UbcH13</synonym>
+  </synonyms>
+  <gene_name>UBE2N</gene_name>
+  <general_function>Involved in acid-amino acid ligase activity</general_function>
+  <specific_function>The UBE2V1-UBE2N and UBE2V2-UBE2N heterodimers catalyze the synthesis of non-canonical 'Lys-63'-linked polyubiquitin chains. This type of polyubiquitination does not lead to protein degradation by the proteasome. Mediates transcriptional activation of target genes. Plays a role in the control of progress through the cell cycle and differentiation. Plays a role in the error-free DNA repair pathway and contributes to the survival of cells after DNA damage. Acts together with the E3 ligases, HLTF and SHPRH, in the 'Lys-63'-linked poly-ubiquitination of PCNA upon genotoxic stress, which is required for DNA repair. Appears to act together with E3 ligase RNF5 in the 'Lys-63'-linked polyubiquitination of JKAMP thereby regulating JKAMP function by decreasing its association with components of the proteasome and ERAD. Promotes TRIM5 capsid-specific restriction activity and the UBE2V1-UBE2N heterodimer acts in concert with TRIM5 to generate 'Lys-63'-linked polyubiquitin chains which activate the MAP3K7/TAK1 complex which in turn results in the induction and expression of NF-kappa-B and MAPK-responsive inflammatory genes (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein ubiquitination</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Ubiquitin mediated proteolysis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04120</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acid-amino acid ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>small conjugating protein ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>UBC13-MMS2 complex</description>
+      <go_id>GO:0031372</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>UBC13-UEV1A complex</description>
+      <go_id>GO:0035370</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ubiquitin ligase complex</description>
+      <go_id>GO:0000151</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ubiquitin binding</description>
+      <go_id>GO:0043130</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ubiquitin-protein ligase activity</description>
+      <go_id>GO:0004842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cytokine-mediated signaling pathway</description>
+      <go_id>GO:0019221</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA double-strand break processing</description>
+      <go_id>GO:0000729</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>double-strand break repair via homologous recombination</description>
+      <go_id>GO:0000724</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone ubiquitination</description>
+      <go_id>GO:0016574</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>MyD88-dependent toll-like receptor signaling pathway</description>
+      <go_id>GO:0002755</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-binding oligomerization domain containing signaling pathway</description>
+      <go_id>GO:0070423</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of DNA repair</description>
+      <go_id>GO:0045739</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of histone modification</description>
+      <go_id>GO:0031058</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of I-kappaB kinase/NF-kappaB cascade</description>
+      <go_id>GO:0043123</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of NF-kappaB transcription factor activity</description>
+      <go_id>GO:0051092</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of ubiquitin-protein ligase activity</description>
+      <go_id>GO:0051443</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>postreplication repair</description>
+      <go_id>GO:0006301</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein K63-linked ubiquitination</description>
+      <go_id>GO:0070534</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proteolysis</description>
+      <go_id>GO:0006508</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of histone ubiquitination</description>
+      <go_id>GO:0033182</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>T cell receptor signaling pathway</description>
+      <go_id>GO:0050852</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Toll signaling pathway</description>
+      <go_id>GO:0008063</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>toll-like receptor 1 signaling pathway</description>
+      <go_id>GO:0034130</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>toll-like receptor 2 signaling pathway</description>
+      <go_id>GO:0034134</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>toll-like receptor 4 signaling pathway</description>
+      <go_id>GO:0034142</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q22</locus>
+    <gene_sequence>&gt;459 bp
+ATGGCCGGGCTGCCCCGCAGGATCATCAAGGAAACCCAGCGTTTGCTGGCAGAACCAGTT
+CCTGGCATCAAAGCCGAACCAGATGAGAGCAACGCCCGTTATTTTCATGTGGTCATTGCT
+GGCCCTCAGGATTCCCCCTTTGAGGGAGGGACTTTTAAACTTGAACTATTCCTTCCAGAA
+GAATACCCAATGGCAGCCCCTAAAGTACGTTTCATGACCAAAATTTATCATCCTAATGTA
+GACAAGTTGGGAAGAATATGTTTAGATATTTTGAAAGATAAGTGGTCCCCAGCACTGCAG
+ATCCGCACAGTTCTGCTATCGATCCAGGCCTTGTTAAGTGCTCCCAATCCAGATGATCCA
+TTAGCAAATGATGTAGCGGAGCAGTGGAAGACCAACGAAGCCCAAGCCATAGAAACAGCT
+AGAGCATGGACTAGGCTATATGCCATGAATAATATTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>152</residue_number>
+    <molecular_weight>17137.625</molecular_weight>
+    <theoretical_pi>6.567</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UQ_con</name>
+        <pfam_id>PF00179</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ubiquitin-conjugating enzyme E2 N
+MAGLPRRIIKETQRLLAEPVPGIKAEPDESNARYFHVVIAGPQDSPFEGGTFKLELFLPE
+EYPMAAPKVRFMTKIYHPNVDKLGRICLDILKDKWSPALQIRTVLLSIQALLSAPNPDDP
+LANDVAEQWKTNEAQAIETARAWTRLYAMNNI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>12653255</genbank_protein_id>
+  <uniprot_id>P61088</uniprot_id>
+  <uniprot_name>UBE2N_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1J7D</pdb_id>
+    <pdb_id>2C2V</pdb_id>
+    <pdb_id>3HCT</pdb_id>
+    <pdb_id>3HCU</pdb_id>
+    <pdb_id>3VON</pdb_id>
+    <pdb_id>4DHI</pdb_id>
+    <pdb_id>4DHJ</pdb_id>
+    <pdb_id>4DHZ</pdb_id>
+    <pdb_id>4EPO</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>BC000396</genbank_gene_id>
+  <genecard_id>UBE2N</genecard_id>
+  <geneatlas_id>UBE2N</geneatlas_id>
+  <hgnc_id>HGNC:12492</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yamaguchi T, Kim NS, Sekine S, Seino H, Osaka F, Yamao F, Kato S: Cloning and expression of cDNA encoding a human ubiquitin-conjugating enzyme similar to the Drosophila bendless gene product. J Biochem (Tokyo). 1996 Sep;120(3):494-97.</reference_text>
+      <pubmed_id>8902611</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zou W, Papov V, Malakhova O, Kim KI, Dao C, Li J, Zhang DE: ISG15 modification of ubiquitin E2 Ubc13 disrupts its ability to form thioester bond with ubiquitin. Biochem Biophys Res Commun. 2005 Oct 14;336(1):61-8.</reference_text>
+      <pubmed_id>16122702</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hofmann RM, Pickart CM: Noncanonical MMS2-encoded ubiquitin-conjugating enzyme functions in assembly of novel polyubiquitin chains for DNA repair. Cell. 1999 Mar 5;96(5):645-53.</reference_text>
+      <pubmed_id>10089880</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bothos J, Summers MK, Venere M, Scolnick DM, Halazonetis TD: The Chfr mitotic checkpoint protein functions with Ubc13-Mms2 to form Lys63-linked polyubiquitin chains. Oncogene. 2003 Oct 16;22(46):7101-7.</reference_text>
+      <pubmed_id>14562038</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeuchi T, Yokosawa H: ISG15 modification of Ubc13 suppresses its ubiquitin-conjugating activity.  Biochem Biophys Res Commun. 2005 Oct 14;336(1):9-13.</reference_text>
+      <pubmed_id>16112642</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Motegi A, Sood R, Moinova H, Markowitz SD, Liu PP, Myung K: Human SHPRH suppresses genomic instability through proliferating cell nuclear antigen polyubiquitination. J Cell Biol. 2006 Dec 4;175(5):703-8. Epub 2006 Nov 27.</reference_text>
+      <pubmed_id>17130289</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Plans V, Scheper J, Soler M, Loukili N, Okano Y, Thomson TM: The RING finger protein RNF8 recruits UBC13 for lysine 63-based self polyubiquitylation. J Cell Biochem. 2006 Feb 15;97(3):572-82.</reference_text>
+      <pubmed_id>16215985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Unk I, Hajdu I, Fatyol K, Szakal B, Blastyak A, Bermudez V, Hurwitz J, Prakash L, Prakash S, Haracska L: Human SHPRH is a ubiquitin ligase for Mms2-Ubc13-dependent polyubiquitylation of proliferating cell nuclear antigen. Proc Natl Acad Sci U S A. 2006 Nov 28;103(48):18107-12. Epub 2006 Nov 15.</reference_text>
+      <pubmed_id>17108083</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lamothe B, Besse A, Campos AD, Webster WK, Wu H, Darnay BG: Site-specific Lys-63-linked tumor necrosis factor receptor-associated factor 6 auto-ubiquitination is a critical determinant of I kappa B kinase activation. J Biol Chem. 2007 Feb 9;282(6):4102-12. Epub 2006 Nov 29.</reference_text>
+      <pubmed_id>17135271</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Unk I, Hajdu I, Fatyol K, Hurwitz J, Yoon JH, Prakash L, Prakash S, Haracska L: Human HLTF functions as a ubiquitin ligase for proliferating cell nuclear antigen polyubiquitination. Proc Natl Acad Sci U S A. 2008 Mar 11;105(10):3768-73. Epub 2008 Mar 3.</reference_text>
+      <pubmed_id>18316726</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Motegi A, Liaw HJ, Lee KY, Roest HP, Maas A, Wu X, Moinova H, Markowitz SD, Ding H, Hoeijmakers JH, Myung K: Polyubiquitination of proliferating cell nuclear antigen by HLTF and SHPRH prevents genomic instability from stalled replication forks. Proc Natl Acad Sci U S A. 2008 Aug 26;105(34):12411-6. Epub 2008 Aug 21.</reference_text>
+      <pubmed_id>18719106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stewart GS, Panier S, Townsend K, Al-Hakim AK, Kolas NK, Miller ES, Nakada S, Ylanko J, Olivarius S, Mendez M, Oldreive C, Wildenhain J, Tagliaferro A, Pelletier L, Taubenheim N, Durandy A, Byrd PJ, Stankovic T, Taylor AM, Durocher D: The RIDDLE syndrome protein mediates a ubiquitin-dependent signaling cascade at sites of DNA damage. Cell. 2009 Feb 6;136(3):420-34.</reference_text>
+      <pubmed_id>19203578</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tcherpakov M, Delaunay A, Toth J, Kadoya T, Petroski MD, Ronai ZA: Regulation of endoplasmic reticulum-associated degradation by RNF5-dependent ubiquitination of JNK-associated membrane protein (JAMP). J Biol Chem. 2009 May 1;284(18):12099-109. Epub 2009 Mar 6.</reference_text>
+      <pubmed_id>19269966</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marteijn JA, van der Meer LT, Smit JJ, Noordermeer SM, Wissink W, Jansen P, Swarts HG, Hibbert RG, de Witte T, Sixma TK, Jansen JH, van der Reijden BA: The ubiquitin ligase Triad1 inhibits myelopoiesis through UbcH7 and Ubc13 interacting domains. Leukemia. 2009 Aug;23(8):1480-9. Epub 2009 Apr 2.</reference_text>
+      <pubmed_id>19340006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scheper J, Oliva B, Villa-Freixa J, Thomson TM: Analysis of electrostatic contributions to the selectivity of interactions between RING-finger domains and ubiquitin-conjugating enzymes. Proteins. 2009 Jan;74(1):92-103.</reference_text>
+      <pubmed_id>18615712</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>David Y, Ziv T, Admon A, Navon A: The E2 ubiquitin-conjugating enzymes direct polyubiquitination to preferred lysines. J Biol Chem. 2010 Mar 19;285(12):8595-604. Epub 2010 Jan 8.</reference_text>
+      <pubmed_id>20061386</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moraes TF, Edwards RA, McKenna S, Pastushok L, Xiao W, Glover JN, Ellison MJ: Crystal structure of the human ubiquitin conjugating enzyme complex, hMms2-hUbc13. Nat Struct Biol. 2001 Aug;8(8):669-73.</reference_text>
+      <pubmed_id>11473255</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

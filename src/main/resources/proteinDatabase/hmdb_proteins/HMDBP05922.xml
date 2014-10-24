@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:43:28 -0700</creation_date>
+  <update_date>2013-05-27 11:15:09 -0600</update_date>
+  <accession>HMDBP05922</accession>
+  <secondary_accessions>
+    <accession>11524</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Fucosyltransferase 8</synonym>
+    <synonym>GDP-L-Fuc:N-acetyl-beta-D-glucosaminide alpha1,6-fucosyltransferase</synonym>
+    <synonym>GDP-fucose--glycoprotein fucosyltransferase</synonym>
+    <synonym>Glycoprotein 6-alpha-L-fucosyltransferase</synonym>
+    <synonym>alpha1-6FucT</synonym>
+  </synonyms>
+  <gene_name>FUT8</gene_name>
+  <general_function>Involved in glycoprotein 6-alpha-L-fucosyltransferase activity</general_function>
+  <specific_function>Catalyzes the addition of fucose in alpha 1-6 linkage to the first GlcNAc residue, next to the peptide chains in N-glycans.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>N-Glycan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00510</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycosaminoglycan biosynthesis - keratan sulfate</name>
+      <smpdb_id/>
+      <kegg_map_id>map00533</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Transcriptional misregulation in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05202</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01095</accession>
+      <name>GDP-L-fucose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fucosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>alpha(1,6)-fucosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glycoprotein 6-alpha-l-fucosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid glycosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid glycosylation in golgi</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>golgi membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>golgi cisterna membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi cisterna membrane</description>
+      <go_id>GO:0032580</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glycoprotein 6-alpha-L-fucosyltransferase activity</description>
+      <go_id>GO:0008424</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell migration</description>
+      <go_id>GO:0016477</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>integrin-mediated signaling pathway</description>
+      <go_id>GO:0007229</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-fucose catabolic process</description>
+      <go_id>GO:0042355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>N-glycan processing</description>
+      <go_id>GO:0006491</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oligosaccharide biosynthetic process</description>
+      <go_id>GO:0009312</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-translational protein modification</description>
+      <go_id>GO:0043687</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein glycosylation in Golgi</description>
+      <go_id>GO:0033578</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein N-linked glycosylation via asparagine</description>
+      <go_id>GO:0018279</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>receptor metabolic process</description>
+      <go_id>GO:0043112</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>respiratory gaseous exchange</description>
+      <go_id>GO:0007585</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transforming growth factor beta receptor signaling pathway</description>
+      <go_id>GO:0007179</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Golgi stack membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>14</chromosome_location>
+    <locus>14q24.3</locus>
+    <gene_sequence>&gt;1728 bp
+ATGCGGCCATGGACTGGTTCCTGGCGTTGGATTATGCTCATTCTTTTTGCCTGGGGGACC
+TTGCTGTTTTATATAGGTGGTCACTTGGTACGAGATAATGACCATCCTGATCACTCTAGC
+CGAGAACTGTCCAAGATTCTGGCAAAGCTTGAACGCTTAAAACAACAGAATGAAGACTTG
+AGGCGAATGGCCGAATCTCTCCGGATACCAGAAGGCCCTATTGATCAGGGGCCAGCTATA
+GGAAGAGTACGCGTTTTAGAAGAGCAGCTTGTTAAGGCCAAAGAACAGATTGAAAATTAC
+AAGAAACAGACCAGAAATGGTCTGGGGAAGGATCATGAAATCCTGAGGAGGAGGATTGAA
+AATGGAGCTAAAGAGCTCTGGTTTTTCCTACAGAGTGAATTGAAGAAATTAAAGAACTTA
+GAAGGAAATGAACTCCAAAGACATGCAGATGAATTTCTTTTGGATTTAGGACATCATGAA
+AGGTCTATAATGACGGATCTATACTACCTCAGTCAGACAGATGGAGCAGGTGATTGGCGG
+GAAAAAGAGGCCAAAGATCTGACAGAACTGGTTCAGCGGAGAATAACATATCTTCAGAAT
+CCCAAGGACTGCAGCAAAGCCAAAAAGCTGGTGTGTAATATCAACAAAGGCTGTGGCTAT
+GGCTGTCAGCTCCATCATGTGGTCTACTGCTTCATGATTGCATATGGCACCCAGCGAACA
+CTCATCTTGGAATCTCAGAATTGGCGCTATGCTACTGGTGGATGGGAGACTGTATTTAGG
+CCTGTAAGTGAGACATGCACAGACAGATCTGGCATCTCCACTGGACACTGGTCAGGTGAA
+GTGAAGGACAAAAATGTTCAAGTGGTCGAGCTTCCCATTGTAGACAGTCTTCATCCCCGT
+CCTCCATATTTACCCTTGGCTGTACCAGAAGACCTCGCAGATCGACTTGTACGAGTGCAT
+GGTGACCCTGCAGTGTGGTGGGTGTCTCAGTTTGTCAAATACTTGATCCGCCCACAGCCT
+TGGCTAGAAAAAGAAATAGAAGAAGCCACCAAGAAGCTTGGCTTCAAACATCCAGTTATT
+GGAGTCCATGTCAGACGCACAGACAAAGTGGGAACAGAAGCTGCCTTCCATCCCATTGAA
+GAGTACATGGTGCATGTTGAAGAACATTTTCAGCTTCTTGCACGCAGAATGCAAGTGGAC
+AAAAAAAGAGTGTATTTGGCCACAGATGACCCTTCTTTATTAAAGGAGGCAAAAACAAAG
+TACCCCAATTATGAATTTATTAGTGATAACTCTATTTCCTGGTCAGCTGGACTGCACAAT
+CGATACACAGAAAATTCACTTCGTGGAGTGATCCTGGATATACATTTTCTCTCTCAGGCA
+GACTTCCTAGTGTGTACTTTTTCATCCCAGGTCTGTCGAGTTGCTTATGAAATTATGCAA
+ACACTACATCCTGATGCCTCTGCAAACTTCCATTCTTTAGATGACATCTACTATTTTGGG
+GGCCAGAATGCCCACAATCAAATTGCCATTTATGCTCACCAACCCCGAACTGCAGATGAA
+ATTCCCATGGAACCTGGAGATATCATTGGTGTGGCTGGAAATCATTGGGATGGCTATTCT
+AAAGGTGTCAACAGGAAATTGGGAAGGACGGGCCTATATCCCTCCTACAAAGTTCGAGAG
+AAGATAGAAACGGTCAAGTACCCCACATATCCTGAGGCTGAGAAATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>575</residue_number>
+    <molecular_weight>66515.32</molecular_weight>
+    <theoretical_pi>7.657</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alpha-(1,6)-fucosyltransferase
+MRPWTGSWRWIMLILFAWGTLLFYIGGHLVRDNDHPDHSSRELSKILAKLERLKQQNEDL
+RRMAESLRIPEGPIDQGPAIGRVRVLEEQLVKAKEQIENYKKQTRNGLGKDHEILRRRIE
+NGAKELWFFLQSELKKLKNLEGNELQRHADEFLLDLGHHERSIMTDLYYLSQTDGAGDWR
+EKEAKDLTELVQRRITYLQNPKDCSKAKKLVCNINKGCGYGCQLHHVVYCFMIAYGTQRT
+LILESQNWRYATGGWETVFRPVSETCTDRSGISTGHWSGEVKDKNVQVVELPIVDSLHPR
+PPYLPLAVPEDLADRLVRVHGDPAVWWVSQFVKYLIRPQPWLEKEIEEATKKLGFKHPVI
+GVHVRRTDKVGTEAAFHPIEEYMVHVEEHFQLLARRMQVDKKRVYLATDDPSLLKEAKTK
+YPNYEFISDNSISWSAGLHNRYTENSLRGVILDIHFLSQADFLVCTFSSQVCRVAYEIMQ
+TLHPDASANFHSLDDIYYFGGQNAHNQIAIYAHQPRTADEIPMEPGDIIGVAGNHWDGYS
+KGVNRKLGRTGLYPSYKVREKIETVKYPTYPEAEK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>30410724</genbank_protein_id>
+  <uniprot_id>Q9BYC5</uniprot_id>
+  <uniprot_name>FUT8_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2DE0</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_178154.1</genbank_gene_id>
+  <genecard_id>FUT8</genecard_id>
+  <geneatlas_id>FUT8</geneatlas_id>
+  <hgnc_id>HGNC:4019</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yanagidani S, Uozumi N, Ihara Y, Miyoshi E, Yamaguchi N, Taniguchi N: Purification and cDNA cloning of GDP-L-Fuc:N-acetyl-beta-D-glucosaminide:alpha1-6 fucosyltransferase (alpha1-6 FucT) from human gastric cancer MKN45 cells. J Biochem. 1997 Mar;121(3):626-32.</reference_text>
+      <pubmed_id>9133635</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamaguchi Y, Ikeda Y, Takahashi T, Ihara H, Tanaka T, Sasho C, Uozumi N, Yanagidani S, Inoue S, Fujii J, Taniguchi N: Genomic structure and promoter analysis of the human alpha1, 6-fucosyltransferase gene (FUT8). Glycobiology. 2000 Jun;10(6):637-43.</reference_text>
+      <pubmed_id>10814706</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takahashi T, Ikeda Y, Tateishi A, Yamaguchi Y, Ishikawa M, Taniguchi N: A sequence motif involved in the donor substrate binding by alpha1,6-fucosyltransferase: the role of the conserved arginine residues. Glycobiology. 2000 May;10(5):503-10.</reference_text>
+      <pubmed_id>10764839</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

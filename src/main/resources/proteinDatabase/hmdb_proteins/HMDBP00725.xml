@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:26 -0700</creation_date>
+  <update_date>2013-05-27 10:58:11 -0600</update_date>
+  <accession>HMDBP00725</accession>
+  <secondary_accessions>
+    <accession>6000</accession>
+    <accession>HMDBP06648</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Aconitase</synonym>
+    <synonym>Citrate hydro-lyase</synonym>
+  </synonyms>
+  <gene_name>ACO2</gene_name>
+  <general_function>Involved in metabolic process</general_function>
+  <specific_function>Catalyzes the isomerization of citrate to isocitrate via cis-aconitate (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Citric Acid Cycle</name>
+      <smpdb_id>SMP00057</smpdb_id>
+      <kegg_map_id>map00020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>tricarboxylic acid cycle</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Citrate cycle (TCA cycle)</name>
+      <smpdb_id/>
+      <kegg_map_id>map00020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00300</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glyoxylate and dicarboxylate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00630</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>2-Oxocarboxylic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map01210</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00072</accession>
+      <name>cis-Aconitic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00094</accession>
+      <name>Citric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00193</accession>
+      <name>Isocitric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00598</accession>
+      <name>Sulfide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB31193</accession>
+      <name>1,2,3-Propanetricarboxylic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03518</accession>
+      <name>Homocitric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60320</accession>
+      <name>(Z)-But-1-ene-1,2,4-tricarboxylate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal cluster binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron-sulfur cluster binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>4 iron, 4 sulfur cluster binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbon-oxygen lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydro-lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>aconitate hydratase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cofactor metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>coenzyme metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>acetyl-coa metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>acetyl-coa catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>tricarboxylic acid cycle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3 iron, 4 sulfur cluster binding</description>
+      <go_id>GO:0051538</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>4 iron, 4 sulfur cluster binding</description>
+      <go_id>GO:0051539</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>citrate hydro-lyase (cis-aconitate-forming) activity</description>
+      <go_id>GO:0052632</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>isocitrate hydro-lyase (cis-aconitate-forming) activity</description>
+      <go_id>GO:0052633</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell death</description>
+      <go_id>GO:0008219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>citrate metabolic process</description>
+      <go_id>GO:0006101</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>isocitrate metabolic process</description>
+      <go_id>GO:0006102</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tricarboxylic acid cycle</description>
+      <go_id>GO:0006099</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>22</chromosome_location>
+    <locus>22q13.2</locus>
+    <gene_sequence>&gt;2343 bp
+ATGGCGCCCTACAGCCTACTGGTGACTCGGCTGCAGAAAGCTCTGGGTGTGCGGCAGTAC
+CATGTGGCCTCAGTCCTGTGCCAACGGGCCAAGGTGGCGATGAGCCACTTTGAGCCCAAC
+GAGTACATCCATTATGACCTGCTAGAGAAGAACATTAACATTGTTCGCAAACGACTGAAC
+CGGCCGCTGACACTCTCGGAGAAGATTGTGTATGGACACCTGGATGACCCCGCCAGCCAG
+GAAATTGAGCGAGGCAAGTCGTACCTGCGGCTGCGGCCGGACCGTGTGGCCATGCAGGAT
+GCGACGGCCCAGATGGCCATGCTCCAGTTCATCAGCAGCGGGCTGTCCAAGGTGGCTGTG
+CCATCCACCATCCACTGTGACCATCTGATTGAAGCCCAGGTTGGGGGCGAGAAAGACCTG
+CGCCGGGCCAAGGACATCAACCAGGAAGTTTATAATTTCCTGGCAACTGCAGGTGCCAAA
+TATGGCGTGGGCTTCTGGAAGCCTGGATCTGGAATCATTCACCAGATTATTCTGGAAAAC
+TATGCGTACCCTGGTGTTCTTCTGATTGGCACTGACTCCCACACCCCCAATGGTGGCGGC
+CTTGGGGGCATCTGCATTGGAGTTGGGGGTGCCGATGCTGTGGATGTCATGGCTGGGATC
+CCCTGGGAGCTGAAGTGCCCCAAGGTGATTGGCGTGAAGCTGACGGGCTCTCTCTCCGGT
+TGGTCCTCACCCAAAGATGTGATCCTGAAGGTGGCAGGCATCCTCACGGTGAAAGGTGGC
+ACAGGTGCAATCGTGGAATACCACGGGCCTGGTGTAGACTCCATCTCCTGCACTGGCATG
+GCGACAATCTGCAACATGGGTGCAGAAATTGGGGCCACCACTTCCGTGTTCCCTTACAAC
+CACAGGATGAAGAAGTACCTGAGCAAGACCGGCCGGGAAGACATTGCCAATCTAGCTGAT
+GAATTCAAGGATCACTTGGTGCCTGACCCTGGCTGCCATTATGACCAACTAATTGAAATT
+AACCTCAGTGAGCTGAAGCCACACATCAATGGGCCCTTCACCCCTGACCTGGCTCACCCT
+GTGGCAGAAGTGGGCAAGGTGGCAGAGAAGGAAGGATGGCCTCTGGACATCCGAGTGGGT
+CTAATTGGTAGCTGCACCAATTCAAGCTATGAAGATATGGGGCGCTCAGCAGCTGTGGCC
+AAGCAGGCACTGGCCCATGGCCTCAAGTGCAAGTCCCAGTTCACCATCACTCCAGGTTCC
+GAGCAGATCCGCGCCACCATTGAGCGGGACGGCTATGCACAGATCTTGAGGGATCTGGGT
+GGCATTGTCCTGGCCAATGCTTGTGGCCCCTGCATTGGCCAGTGGGACAGGAAGGACATC
+AAGAAGGGGGAGAAGAACACAATCGTCACCTCCTACAACAGGAACTTCACGGGCCGCAAC
+GACGCAAACCCCGAGACCCATGCCTTTGTCACGTCCCCAGAGATTGTCACAGCCCTGGCC
+ATTGCGGGAACCCTCAAGTTCAACCCAGAGACCGACTACCTGACGGGCACGGATGGCAAG
+AAGTTCAGGCTGGAGGCTCCGGATGCAGATGAGCTTCCCAAAGGGGAGTTTGACCCAGGG
+CAGGACACCTACCAGCACCCACCCAAGGACAGCAGCGGGCAGCATGTGGACGTGAGCCCC
+ACCAGCCAGCGCCTGCAGCTCCTGGAGCCTTTTGACAAGTGGGATGGCAAGGACCTGGAG
+GACCTGCAGATCCTCATCAAGGTCAAAGGGAAGTGTACCACTGACCACATCTCAGCTGCT
+GGCCCCTGGCTCAAGTTCCGTGGGCACTTGGATAACATCTCCAACAACCTGCTCATTGGT
+GCCATCAACATTGAAAACGGCAAGGCCAACTCCGTGCGCAATGCCGTCACTCAGGAGTTT
+GGCCCCGTCCCTGACACTGCCCGCTACTACAAGAAACATGGCATCAGGTGGGTGGTGATC
+GGAGACGAGAACTACGGCGAGGGCTCGAGCCGGGAGCATGCAGCTCTGGAGCCTCGCCAC
+CTTGGGGGCCGGGCCATCATCACCAAGAGCTTTGCCAGGATCCACGAGACCAACCTGAAG
+AAACAGGGCCTGCTGCCTCTGACCTTCGCTGACCCGGCTGACTACAACAAGATTCACCCT
+GTGGACAAGCTGACCATTCAGGGCCTGAAGGACTTCACCCCTGGCAAGCCCCTGAAGTGC
+ATCATCAAGCACCCCAACGGGACCCAGGAGACCATCCTCCTGAACCACACCTTCAACGAG
+ACGCAGATTGAGTGGTTCCGCGCTGGCAGTGCCCTCAACAGAATGAAGGAACTGCAACAG
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>780</residue_number>
+    <molecular_weight>85424.745</molecular_weight>
+    <theoretical_pi>7.599</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aconitase</name>
+        <pfam_id>PF00330</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Aconitase_C</name>
+        <pfam_id>PF00694</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Aconitate hydratase, mitochondrial
+MAPYSLLVTRLQKALGVRQYHVASVLCQRAKVAMSHFEPNEYIHYDLLEKNINIVRKRLN
+RPLTLSEKIVYGHLDDPASQEIERGKSYLRLRPDRVAMQDATAQMAMLQFISSGLSKVAV
+PSTIHCDHLIEAQVGGEKDLRRAKDINQEVYNFLATAGAKYGVGFWKPGSGIIHQIILEN
+YAYPGVLLIGTDSHTPNGGGLGGICIGVGGADAVDVMAGIPWELKCPKVIGVKLTGSLSG
+WSSPKDVILKVAGILTVKGGTGAIVEYHGPGVDSISCTGMATICNMGAEIGATTSVFPYN
+HRMKKYLSKTGREDIANLADEFKDHLVPDPGCHYDQLIEINLSELKPHINGPFTPDLAHP
+VAEVGKVAEKEGWPLDIRVGLIGSCTNSSYEDMGRSAAVAKQALAHGLKCKSQFTITPGS
+EQIRATIERDGYAQILRDLGGIVLANACGPCIGQWDRKDIKKGEKNTIVTSYNRNFTGRN
+DANPETHAFVTSPEIVTALAIAGTLKFNPETDYLTGTDGKKFRLEAPDADELPKGEFDPG
+QDTYQHPPKDSSGQHVDVSPTSQRLQLLEPFDKWDGKDLEDLQILIKVKGKCTTDHISAA
+GPWLKFRGHLDNISNNLLIGAINIENGKANSVRNAVTQEFGPVPDTARYYKKHGIRWVVI
+GDENYGEGSSREHAALEPRHLGGRAIITKSFARIHETNLKKQGLLPLTFADPADYNKIHP
+VDKLTIQGLKDFTPGKPLKCIIKHPNGTQETILLNHTFNETQIEWFRAGSALNRMKELQQ
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>55957148</genbank_protein_id>
+  <uniprot_id>Q99798</uniprot_id>
+  <uniprot_name>ACON_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL008582</genbank_gene_id>
+  <genecard_id>ACO2</genecard_id>
+  <geneatlas_id>ACO2</geneatlas_id>
+  <hgnc_id>HGNC:118</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mirel DB, Marder K, Graziano J, Freyer G, Zhao Q, Mayeux R, Wilhelmsen KC: Characterization of the human mitochondrial aconitase gene (ACO2).  Gene. 1998 Jun 15;213(1-2):205-18.</reference_text>
+      <pubmed_id>9630632</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG, Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM, Dunham I: A genome annotation-driven approach to cloning the human ORFeome.  Genome Biol. 2004;5(10):R84. Epub 2004 Sep 30.</reference_text>
+      <pubmed_id>15461802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baldwin GS, Seet KL, Callaghan J, Toncich G, Toh BH, Moritz RL, Rubira MR, Simpson R: Purification and partial amino acid sequence of human aconitase.  Protein Seq Data Anal. 1991 Aug;4(2):63-7.</reference_text>
+      <pubmed_id>1946331</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>1,2,3-Propanetricarboxylic acid</name>
+        <accession>HMDB31193</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>1,2,3-Propanetricarboxylic acid</name>
+        <accession>HMDB31193</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>1,2,3-Propanetricarboxylic acid</name>
+        <accession>HMDB31193</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:10:49 -0700</creation_date>
+  <update_date>2013-05-27 11:40:59 -0600</update_date>
+  <accession>HMDBP03150</accession>
+  <secondary_accessions>
+    <accession>8701</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>UDP-glucuronate decarboxylase 1</synonym>
+    <synonym>UGD</synonym>
+    <synonym>UXS-1</synonym>
+  </synonyms>
+  <gene_name>UXS1</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Catalyzes the NAD-dependent decarboxylation of UDP-glucuronic acid to UDP-xylose. Necessary for the biosynthesis of the core tetrasaccharide in glycosaminoglycan biosynthesis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>UDP-alpha-D-xylose biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Starch and sucrose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00500</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Amino sugar and nucleotide sugar metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00520</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00935</accession>
+      <name>Uridine diphosphate glucuronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01018</accession>
+      <name>UDP-D-Xylose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cofactor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>coenzyme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi cisterna membrane</description>
+      <go_id>GO:0032580</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>coenzyme binding</description>
+      <go_id>GO:0050662</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>UDP-glucuronate decarboxylase activity</description>
+      <go_id>GO:0048040</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>UDP-D-xylose biosynthetic process</description>
+      <go_id>GO:0033320</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus</subcellular_location>
+    <subcellular_location>Golgi stack membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q12.2</locus>
+    <gene_sequence>&gt;1263 bp
+ATGGTGAGCAAGGCGCTGCTGCGCCTCGTGTCTGCCGTCAACCGCAGGAGGATGAAGCTG
+CTGCTGGGCATCGCCTTGCTGGCCTACGTCGCCTCTGTTTGGGGCAACTTCGTTAATATG
+AGGTCTATCCAGGAAAATGGTGAACTAAAAATTGAAAGCAAGATTGAAGAGATGGTTGAA
+CCACTAAGAGAGAAAATCAGAGATTTAGAAAAAAGCTTTACCCAGAAATACCCACCAGTA
+AAGTTTTTATCAGAAAAGGATCGGAAAAGAATTTTGATAACAGGAGGCGCAGGGTTCGTG
+GGCTCCCATCTAACTGACAAACTCATGATGGACGGCCACGAGGTGACCGTGGTGGACAAT
+TTCTTCACGGGCAGGAAGAGAAACGTGGAGCACTGGATCGGACATGAGAACTTCGAGTTG
+ATTAACCACGACGTGGTGGAGCCCCTCTACATCGAGGTTGACCAGATATACCATCTGGCA
+TCTCCAGCCTCCCCTCCAAACTACATGTATAATCCTATCAAGACATTAAAGACCAATACG
+ATTGGGACATTAAACATGTTGGGGCTGGCAAAACGAGTCGGTGCCCGTCTGCTCCTGGCC
+TCCACATCGGAGGTGTATGGAGATCCTGAAGTCCACCCTCAAAGTGAGGATTACTGGGGC
+CACGTGAATCCAATAGGACCTCGGGCCTGCTACGATGAAGGCAAACGTGTTGCAGAGACC
+ATGTGCTATGCCTACATGAAGCAGGAAGGCGTGGAAGTGCGAGTGGCCAGAATCTTCAAC
+ACCTTTGGGCCACGCATGCACATGAACGATGGGCGAGTAGTCAGCAACTTCATCCTGCAG
+GCGCTCCAGGGGGAGCCACTCACGGTATACGGATCCGGGTCTCAGACAAGGGCGTTCCAG
+TACGTCAGCGATCTAGTGAATGGCCTCGTGGCTCTCATGAACAGCAACGTCAGCAGCCCG
+GTCAACCTGGGGAACCCAGAAGAACACACAATCCTAGAATTTGCTCAGTTAATTAAAAAC
+CTTGTTGGTAGCGGAAGTGAAATTCAGTTTCTCTCCGAAGCCCAGGATGACCCACAGAAA
+AGAAAACCAGACATCAAAAAAGCAAAGCTGATGCTGGGGTGGGAGCCCGTGGTCCCGCTG
+GAGGAAGGTTTAAACAAAGCAATTCACTACTTCCGTAAAGAACTCGAGTACCAGGCAAAT
+AATCAGTACATCCCCAAACCAAAGCCTGCCAGAATAAAGAAAGGACGGACTCGCCACAGC
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>420</residue_number>
+    <molecular_weight>48151.17</molecular_weight>
+    <theoretical_pi>8.946</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Epimerase</name>
+        <pfam_id>PF01370</pfam_id>
+      </pfam>
+      <pfam>
+        <name>UXS1_N</name>
+        <pfam_id>PF11803</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;UDP-glucuronic acid decarboxylase 1
+MVSKALLRLVSAVNRRRMKLLLGIALLAYVASVWGNFVNMRSIQENGELKIESKIEEMVE
+PLREKIRDLEKSFTQKYPPVKFLSEKDRKRILITGGAGFVGSHLTDKLMMDGHEVTVVDN
+FFTGRKRNVEHWIGHENFELINHDVVEPLYIEVDQIYHLASPASPPNYMYNPIKTLKTNT
+IGTLNMLGLAKRVGARLLLASTSEVYGDPEVHPQSEDYWGHVNPIGPRACYDEGKRVAET
+MCYAYMKQEGVEVRVARIFNTFGPRMHMNDGRVVSNFILQALQGEPLTVYGSGSQTRAFQ
+YVSDLVNGLVALMNSNVSSPVNLGNPEEHTILEFAQLIKNLVGSGSEIQFLSEAQDDPQK
+RKPDIKKAKLMLGWEPVVPLEEGLNKAIHYFRKELEYQANNQYIPKPKPARIKKGRTRHS
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>42516563</genbank_protein_id>
+  <uniprot_id>Q8NBZ7</uniprot_id>
+  <uniprot_name>UXS1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2B69</pdb_id>
+    <pdb_id>4GLL</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_025076.3</genbank_gene_id>
+  <genecard_id>UXS1</genecard_id>
+  <geneatlas_id>UXS1</geneatlas_id>
+  <hgnc_id>HGNC:17729</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hwang HY, Horvitz HR: The SQV-1 UDP-glucuronic acid decarboxylase and the SQV-7 nucleotide-sugar transporter may act in the Golgi apparatus to affect Caenorhabditis elegans vulval morphogenesis and embryonic development. Proc Natl Acad Sci U S A. 2002 Oct 29;99(22):14218-23. Epub 2002 Oct 21.</reference_text>
+      <pubmed_id>12391314</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J, Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D, Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS, Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M, Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J, Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard A, Wood WI, Godowski P, Gray A: The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment. Genome Res. 2003 Oct;13(10):2265-70. Epub 2003 Sep 15.</reference_text>
+      <pubmed_id>12975309</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

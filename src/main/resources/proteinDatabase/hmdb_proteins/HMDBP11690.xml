@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:09:57 -0600</creation_date>
+  <update_date>2013-05-27 11:09:57 -0600</update_date>
+  <accession>HMDBP11690</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DEAD box protein 5</synonym>
+    <synonym>RNA helicase p68</synonym>
+  </synonyms>
+  <gene_name>DDX5</gene_name>
+  <general_function/>
+  <specific_function>Involved in the alternative regulation of pre-mRNA splicing; its RNA helicase activity is necessary for increasing tau exon 10 inclusion and occurs in a RBM4-dependent manner. Binds to the tau pre-mRNA in the stem-loop region downstream of exon 10. The rate of ATP hydrolysis is highly stimulated by single-stranded RNA. Involved in transcriptional regulation; the function is independent of the RNA helicase activity. Transcriptional coactivator for estrogen receptor ESR1 and androgen receptor AR. Increases ESR1 AF-1 domain-mediated transactivation and ESR1 AF-1 and AF-2 domains transcriptional synergistic activity. Synergizes with DDX17 and SRA1 RNA to activate MYOD1 transcriptional activity and involved in skeletal muscle differentiation. Transcriptional coactivator for p53/TP53 and involved in p53/TP53 transcriptional response to DNA damage and p53/TP53-dependent apoptosis. Transcriptional coactivator for RUNX2 and involved in regulation of osteoblast differentiation. Acts as transcriptional repressor in a promoter-specicic manner; the function probbaly involves association with histone deacetylases, such as HDAC1.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Spliceosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map03040</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Transcriptional misregulation in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05202</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Proteoglycans in cancer</name>
+      <smpdb_id/>
+      <kegg_map_id>map05205</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>estrogen receptor binding</description>
+      <go_id>GO:0030331</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription coactivator activity</description>
+      <go_id>GO:0003713</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of androgen receptor signaling pathway</description>
+      <go_id>GO:0060765</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA helicase activity</description>
+      <go_id>GO:0003724</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of intracellular estrogen receptor signaling pathway</description>
+      <go_id>GO:0033148</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of skeletal muscle cell differentiation</description>
+      <go_id>GO:2001014</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent RNA helicase activity</description>
+      <go_id>GO:0004004</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>catalytic step 2 spliceosome</description>
+      <go_id>GO:0071013</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mRNA splicing, via spliceosome</description>
+      <go_id>GO:0000398</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>androgen receptor binding</description>
+      <go_id>GO:0050681</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pre-mRNA binding</description>
+      <go_id>GO:0036002</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell growth</description>
+      <go_id>GO:0016049</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intrinsic apoptotic signaling pathway by p53 class mediator</description>
+      <go_id>GO:0072332</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of DNA damage response, signal transduction by p53 class mediator</description>
+      <go_id>GO:0043517</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of alternative mRNA splicing, via spliceosome</description>
+      <go_id>GO:0000381</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of osteoblast differentiation</description>
+      <go_id>GO:0045667</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of viral genome replication</description>
+      <go_id>GO:0045069</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q21</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>69147.585</molecular_weight>
+    <theoretical_pi>8.924</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>P68HR</name>
+        <pfam_id>PF08061</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|4758138|ref|NP_004387.1| probable ATP-dependent RNA helicase DDX5 [Homo sapiens]
+MSGYSSDRDRGRDRGFGAPRFGGSRAGPLSGKKFGNPGEKLVKKKWNLDELPKFEKNFYQ
+EHPDLARRTA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P17844</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>3FE2</pdb_id>
+    <pdb_id>4A4D</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:2746</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

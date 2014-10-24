@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:17:54 -0700</creation_date>
+  <update_date>2013-05-27 11:36:02 -0600</update_date>
+  <accession>HMDBP08974</accession>
+  <secondary_accessions>
+    <accession>14708</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>LCB 3</synonym>
+    <synonym>LCB2b</synonym>
+    <synonym>Long chain base biosynthesis protein 2b</synonym>
+    <synonym>Long chain base biosynthesis protein 3</synonym>
+    <synonym>SPT 3</synonym>
+    <synonym>Serine-palmitoyl-CoA transferase 3</synonym>
+  </synonyms>
+  <gene_name>SPTLC3</gene_name>
+  <general_function>Involved in transferase activity</general_function>
+  <specific_function>Serine palmitoyltransferase (SPT). The heterodimer formed with LCB1/SPTLC1 constitutes the catalytic core. The composition of the serine palmitoyltransferase (SPT) complex determines the substrate preference. The SPTLC1-SPTLC3-SPTSSA isozyme uses both C14-CoA and C16-CoA as substrates, while the SPTLC1-SPTLC3-SPTSSB has the ability to use a broader range of acyl-CoAs without apparent preference.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>sphingolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00600</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00187</accession>
+      <name>L-Serine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59623</accession>
+      <name>hexadecanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01480</accession>
+      <name>3-Dehydrosphinganine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cofactor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring nitrogenous groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>serine C-palmitoyltransferase complex</description>
+      <go_id>GO:0017059</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id>GO:0030170</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>serine C-palmitoyltransferase activity</description>
+      <go_id>GO:0004758</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phospholipid metabolic process</description>
+      <go_id>GO:0006644</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sphingoid biosynthetic process</description>
+      <go_id>GO:0046520</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20p12.1</locus>
+    <gene_sequence>&gt;1659 bp
+ATGGCTAACCCTGGAGGTGGTGCTGTTTGCAACGGGAAACTTCACAATCACAAGAAACAG
+AGCAATGGCTCACAAAGCAGAAACTGCACAAAGAATGGAATAGTGAAGGAAGCCCAGCAA
+AATGGGAAGCCACATTTTTATGATAAGCTCATTGTTGAATCGTTTGAGGAAGCACCCCTT
+CATGTTATGGTTTTCACTTACATGGGATATGGAATTGGAACCCTGTTTGGCTATCTCAGA
+GACTTTTTAAGAAACTGGGGAATAGAAAAATGCAACGCAGCTGTGGAACGAAAAGAACAA
+AAAGATTTTGTGCCACTGTATCAAGACTTTGAAAATTTTTATACAAGAAACCTTTACATG
+CGAATCAGAGACAACTGGAACCGGCCCATCTGCAGTGCCCCAGGGCCTCTGTTTGATTTG
+ATGGAGAGGGTATCAGACGACTATAACTGGACGTTTAGGTTTACTGGAAGAGTCATCAAA
+GATGTCATCAACATGGGCTCCTATAACTTCCTTGGTCTTGCAGCCAAGTATGATGAGTCT
+ATGAGGACAATAAAGGATGTTTTAGAGGTGTATGGCACAGGCGTGGCCAGCACCAGGCAT
+GAAATGGGCACCTTGGATAAGCACAAGGAGTTGGAGGACCTTGTGGCTAAGTTCCTGAAT
+GTGGAAGCAGCTATGGTCTTTGGGATGGGATTCGCAACTAACTCAATGAATATCCCAGCA
+TTAGTTGGAAAGGGATGCCTCATTTTAAGTGATGAGTTAAACCACACATCGCTTGTGCTT
+GGGGCCCGACTCTCAGGTGCAACCATAAGAATCTTCAAACACAACAACACACAAAGCCTA
+GAGAAGCTCCTGAGAGATGCTGTCATCTATGGCCAGCCTCGAACCCGCAGAGCTTGGAAA
+AAGATTCTCATCCTGGTGGAGGGTGTCTACAGCATGGAAGGTTCCATCGTGCATCTGCCC
+CAGATCATAGCTCTAAAGAAGAAATACAAGGCTTACCTCTACATAGATGAAGCTCACAGT
+ATTGGGGCCGTGGGCCCAACCGGCCGGGGTGTCACGGAGTTCTTTGGACTAGACCCTCAT
+GAAGTTGATGTGCTCATGGGCACATTCACCAAAAGTTTTGGAGCTTCAGGAGGTTACATA
+GCTGGAAGGAAGGACCTCGTGGATTATTTACGGGTTCACTCGCATAGTGCTGTTTATGCT
+TCATCCATGAGCCCACCGATAGCAGAGCAAATCATCAGATCACTAAAACTTATCATGGGA
+CTGGATGGGACCACTCAAGGGCTGCAGAGAGTACAGCAACTTGCGAAAAACACAAGATAC
+TTCAGACAAAGACTGCAGGAAATGGGATTCATTATCTATGGCAATGAGAATGCTTCTGTT
+GTTCCTCTGCTTCTTTATATGCCTGGTAAAGTAGCGGCTTTTGCAAGGCATATGCTAGAG
+AAAAAAATTGGAGTGGTGGTCGTGGGATTTCCAGCCACTCCCCTCGCAGAAGCTCGGGCT
+CGGTTTTGTGTTTCAGCGGCACATACCCGGGAGATGTTAGACACGGTTTTAGAAGCTCTT
+GATGAAATGGGTGATCTCTTGCAACTGAAATATTCCCGGCACAAGAAGTCAGCACGTCCT
+GAGCTCTATGATGAGACGAGCTTTGAACTCGAAGATTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>552</residue_number>
+    <molecular_weight>62049.035</molecular_weight>
+    <theoretical_pi>8.773</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aminotran_1_2</name>
+        <pfam_id>PF00155</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Serine palmitoyltransferase 3
+MANPGGGAVCNGKLHNHKKQSNGSQSRNCTKNGIVKEAQQNGKPHFYDKLIVESFEEAPL
+HVMVFTYMGYGIGTLFGYLRDFLRNWGIEKCNAAVERKEQKDFVPLYQDFENFYTRNLYM
+RIRDNWNRPICSAPGPLFDLMERVSDDYNWTFRFTGRVIKDVINMGSYNFLGLAAKYDES
+MRTIKDVLEVYGTGVASTRHEMGTLDKHKELEDLVAKFLNVEAAMVFGMGFATNSMNIPA
+LVGKGCLILSDELNHTSLVLGARLSGATIRIFKHNNTQSLEKLLRDAVIYGQPRTRRAWK
+KILILVEGVYSMEGSIVHLPQIIALKKKYKAYLYIDEAHSIGAVGPTGRGVTEFFGLDPH
+EVDVLMGTFTKSFGASGGYIAGRKDLVDYLRVHSHSAVYASSMSPPIAEQIIRSLKLIMG
+LDGTTQGLQRVQQLAKNTRYFRQRLQEMGFIIYGNENASVVPLLLYMPGKVAAFARHMLE
+KKIGVVVVGFPATPLAEARARFCVSAAHTREMLDTVLEALDEMGDLLQLKYSRHKKSARP
+ELYDETSFELED</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>119220554</genbank_protein_id>
+  <uniprot_id>Q9NUV7</uniprot_id>
+  <uniprot_name>SPTC3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_018327.2</genbank_gene_id>
+  <genecard_id>SPTLC3</genecard_id>
+  <geneatlas_id>SPTLC3</geneatlas_id>
+  <hgnc_id>HGNC:16253</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hornemann T, Richard S, Rutti MF, Wei Y, von Eckardstein A: Cloning and initial characterization of a new subunit for mammalian serine-palmitoyltransferase. J Biol Chem. 2006 Dec 8;281(49):37275-81. Epub 2006 Oct 4.</reference_text>
+      <pubmed_id>17023427</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Han G, Gupta SD, Gable K, Niranjanakumari S, Moitra P, Eichler F, Brown RH Jr, Harmon JM, Dunn TM: Identification of small subunits of mammalian serine palmitoyltransferase that confer distinct acyl-CoA substrate specificities. Proc Natl Acad Sci U S A. 2009 May 19;106(20):8186-91. Epub 2009 May 5.</reference_text>
+      <pubmed_id>19416851</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

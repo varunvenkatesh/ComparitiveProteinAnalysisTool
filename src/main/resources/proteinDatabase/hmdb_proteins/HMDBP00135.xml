@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:06 -0700</creation_date>
+  <update_date>2013-05-27 11:34:57 -0600</update_date>
+  <accession>HMDBP00135</accession>
+  <secondary_accessions>
+    <accession>5367</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>C-5 sterol desaturase</synonym>
+    <synonym>Delta(7)-sterol 5-desaturase</synonym>
+    <synonym>Lathosterol 5-desaturase</synonym>
+    <synonym>Sterol-C5-desaturase</synonym>
+  </synonyms>
+  <gene_name>SC5DL</gene_name>
+  <general_function>Involved in iron ion binding</general_function>
+  <specific_function>Catalyzes a dehydrogenation to introduce C5-6 double bond into lathosterol.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Steroid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00100</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01170</accession>
+      <name>Lathosterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00032</accession>
+      <name>7-Dehydrocholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06847</accession>
+      <name>Episterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06848</accession>
+      <name>5-Dehydroepisterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06851</accession>
+      <name>Delta7-Avenasterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06852</accession>
+      <name>5-Dehydroavenasterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01520</accession>
+      <name>Flavin Mononucleotide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60404</accession>
+      <name>5,7,24(28)-Ergostatrienol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>endoplasmic reticulum</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>C-5 sterol desaturase activity</description>
+      <go_id>GO:0000248</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>lathosterol oxidase activity</description>
+      <go_id>GO:0050046</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process via lathosterol</description>
+      <go_id>GO:0033490</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid biosynthetic process</description>
+      <go_id>GO:0006633</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q23.3</locus>
+    <gene_sequence>&gt;900 bp
+ATGGATCTTGTACTCCGTGTTGCAGATTACTATTTTTTTACACCATACGTGTATCCAGCC
+ACATGGCCAGAAGATGACATCTTCCGACAAGCTATTAGTCTTCTGATTGTAACAAATGTT
+GGTGCTTACATCCTTTATTTCTTCTGTGCAACACTGAGCTATTATTTTGTCTTCGATCAT
+GCATTAATGAAACATCCACAATTTTTAAAGAATCAAGTCCGTCGAGAGATTAAGTTTACT
+GTCCAGGCATTGCCATGGATAAGTATTCTTACTGTTGCACTGTTCTTGCTGGAGATAAGA
+GGTTACAGCAAATTACATGATGACCTAGGAGAGTTTCCATATGGATTGTTTGAACTTGTC
+GTTAGTATAATATCTTTCCTCTTTTTCACTGACATGTTCATCTACTGGATTCACAGAGGC
+CTTCATCATAGACTGGTATATAAGCGCCTACATAAACCTCACCATATTTGGAAGATTCCT
+ACTCCATTTGCAAGTCATGCTTTTCACCCTATTGATGGCTTTCTTCAGAGTCTACCTTAC
+CATATATACCCTTTTATCTTTCCATTACACAAGGTGGTTTATTTAAGTCTGTACATCTTG
+GTTAATATCTGGACAATTTCCATTCATGACGGTGATTTTCGTGTCCCCCAAATCTTACAG
+CCATTTATTAATGGCTCAGCTCATCATACAGACCACCATATGTTCTTTGACTATAATTAT
+GGACAATATTTCACTTTGTGGGATAGGATTGGCGGCTCATTCAAAAATCCTTCATCCTTT
+GAGGGGAAGGGACCGCTCAGTTATGTGAAGGAGATGACAGAGGGAAAGCGCAGCAGCCCT
+TCAGGAAATGGCTGTAAGAATGAAAAATTATTCAATGGAGAGTTTACAAAGACTGAATAG
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>299</residue_number>
+    <molecular_weight>35300.55</molecular_weight>
+    <theoretical_pi>8.074</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FA_hydroxylase</name>
+        <pfam_id>PF04116</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Lathosterol oxidase
+MDLVLRVADYYFFTPYVYPATWPEDDIFRQAISLLIVTNVGAYILYFFCATLSYYFVFDH
+ALMKHPQFLKNQVRREIKFTVQALPWISILTVALFLLEIRGYSKLHDDLGEFPYGLFELV
+VSIISFLFFTDMFIYWIHRGLHHRLVYKRLHKPHHIWKIPTPFASHAFHPIDGFLQSLPY
+HIYPFIFPLHKVVYLSLYILVNIWTISIHDGDFRVPQILQPFINGSAHHTDHHMFFDYNY
+GQYFTLWDRIGGSFKNPSSFEGKGPLSYVKEMTEGKRSSHSGNGCKNEKLFNGEFTKTE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3721882</genbank_protein_id>
+  <uniprot_id>O75845</uniprot_id>
+  <uniprot_name>SC5D_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB016247</genbank_gene_id>
+  <genecard_id>SC5DL</genecard_id>
+  <geneatlas_id>SC5DL</geneatlas_id>
+  <hgnc_id>HGNC:10547</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Matsushima M, Inazawa J, Takahashi E, Suzumori K, Nakamura Y: Molecular cloning and mapping of a human cDNA (SC5DL) encoding a protein homologous to fungal sterol-C5-desaturase. Cytogenet Cell Genet. 1996;74(4):252-4.</reference_text>
+      <pubmed_id>8976377</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Husselstein T, Schaller H, Gachotte D, Benveniste P: Delta7-sterol-C5-desaturase: molecular characterization and functional expression of wild-type and mutant alleles. Plant Mol Biol. 1999 Mar;39(5):891-906.</reference_text>
+      <pubmed_id>10344195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nishi S, Nishino H, Ishibashi T: cDNA cloning of the mammalian sterol C5-desaturase and the expression in yeast mutant. Biochim Biophys Acta. 2000 Jan 31;1490(1-2):106-8.</reference_text>
+      <pubmed_id>10786622</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brunetti-Pierri N, Corso G, Rossi M, Ferrari P, Balli F, Rivasi F, Annunziata I, Ballabio A, Russo AD, Andria G, Parenti G: Lathosterolosis, a novel multiple-malformation/mental retardation syndrome due to deficiency of 3beta-hydroxysteroid-delta5-desaturase. Am J Hum Genet. 2002 Oct;71(4):952-8. Epub 2002 Aug 20.</reference_text>
+      <pubmed_id>12189593</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Krakowiak PA, Wassif CA, Kratz L, Cozma D, Kovarova M, Harris G, Grinberg A, Yang Y, Hunter AG, Tsokos M, Kelley RI, Porter FD: Lathosterolosis: an inborn error of human and murine cholesterol synthesis due to lathosterol 5-desaturase deficiency. Hum Mol Genet. 2003 Jul 1;12(13):1631-41.</reference_text>
+      <pubmed_id>12812989</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Dehydrocholesterol</name>
+        <accession>HMDB00032</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sugawara T, Fujimoto Y, Ishibashi T: Molecular cloning and structural analysis of human sterol C5 desaturase.  Biochim Biophys Acta. 2001 Oct 31;1533(3):277-84.</reference_text>
+        <pubmed_id>11731337</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

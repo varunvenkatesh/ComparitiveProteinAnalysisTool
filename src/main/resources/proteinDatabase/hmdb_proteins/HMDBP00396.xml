@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:02 -0700</creation_date>
+  <update_date>2013-05-27 11:00:42 -0600</update_date>
+  <accession>HMDBP00396</accession>
+  <secondary_accessions>
+    <accession>5633</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>(R)-3-amino-2-methylpropionate--pyruvate transaminase</synonym>
+    <synonym>AGT 2</synonym>
+    <synonym>Beta-ALAAT II</synonym>
+    <synonym>Beta-alanine-pyruvate aminotransferase</synonym>
+    <synonym>D-AIBAT</synonym>
+  </synonyms>
+  <gene_name>AGXT2</gene_name>
+  <general_function>Involved in transaminase activity</general_function>
+  <specific_function>Can metabolize asymmetric dimethylarginine (ADMA) via transamination to alpha-keto-delta-(NN-dimethylguanidino) valeric acid (DMGV). ADMA is a potent inhibitor of nitric-oxide (NO) synthase, and this activity provides mechanism through which the kidney regulates blood pressure.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Alanine, aspartate and glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycine, serine and threonine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00260</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00119</accession>
+      <name>Glyoxylic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00123</accession>
+      <name>Glycine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00161</accession>
+      <name>L-Alanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00243</accession>
+      <name>Pyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01172</accession>
+      <name>2-Methyl-3-oxopropanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02299</accession>
+      <name>(R)-b-aminoisobutyric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cofactor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring nitrogenous groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>(R)-3-amino-2-methylpropionate-pyruvate transaminase activity</description>
+      <go_id>GO:0047305</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alanine-glyoxylate transaminase activity</description>
+      <go_id>GO:0008453</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyridoxal phosphate binding</description>
+      <go_id>GO:0030170</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycine biosynthetic process, by transamination of glyoxylate</description>
+      <go_id>GO:0019265</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glyoxylate catabolic process</description>
+      <go_id>GO:0009436</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-alanine catabolic process, by transamination</description>
+      <go_id>GO:0019481</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of nitric oxide biosynthetic process</description>
+      <go_id>GO:0045429</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleobase metabolic process</description>
+      <go_id>GO:0006206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleoside catabolic process</description>
+      <go_id>GO:0046135</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5p13</locus>
+    <gene_sequence>&gt;1545 bp
+ATGACTCTAATCTGGAGACATTTGCTGAGACCCTTGTGCCTGGTCACTTCCGCTCCCAGG
+ATCCTTGAGATGCATCCTTTCCTGAGCCTAGGTACTTCCCGGACATCAGTAACCAAGCTC
+AGTCTTCATACAAAGCCCAGAATGCCTCCATGTGACTTCATGCCTGAAAGATACCAGTCC
+CTTGGCTACAACCGTGTCCTGGAAATCCACAAGGAACATCTTTCTCCTGTGGTGACGGCA
+TATTTCCAGAAACCCCTGCTGCTCCACCAGGGGCACATGGAGTGGCTCTTTGATGCTGAA
+GGAAGCAGATACCTGGATTTCTTTTCCGGGATTGTTACTGTCAGTGTTGGCCATTGCCAC
+CCAAAGGTGAATGCAGTGGCACAAAAGCAGCTCGGCCGCCTGTGGCATACAAGCACCGTC
+TTCTTCCACCCTCCAATGCATGAATATGCAGAGAAGCTTGCCGCACTTCTTCCTGAGCCT
+CTTAAGGTCATTTTCTTGGTGAACAGTGGCTCAGAAGCCAATGAGCTGGCCATGCTGATG
+GCCAGGGCGCACTCAAACAACATAGACATCATTTCTTTCAGAGGAGCCTACCATGGATGC
+AGTCCTTACACACTTGGCTTGACAAACGTAGGGACCTACAAGATGGAACTCCCTGGTGGG
+ACAGGTTGCCAACCAACAATGTGTCCAGATGTTTTTCGTGGCCCTTGGGGAGGAAGCCAC
+TGTCGAGATTCTCCAGTGCAAACAATCAGGAAGTGCAGCTGTGCACCAGACTGCTGCCAA
+GCTAAAGATCAGTATATTGAGCAATTCAAAGATACGCTGAGCACATCTGTGGCCAAGTCA
+ATTGCTGGATTTTTCGCAGAACCTATTCAAGGTGTGAATGGAGTTGTCCAGTACCCAAAG
+GGGTTTCTAAAGGAAGCCTTTGAGCTGGTGCGAGCAAGGGGAGGCGTGTGCATTGCAGAT
+GAAGTGCAGACAGGATTTGGAAGGTTGGGCTCTCACTTCTGGGGCTTCCAAACCCACGAT
+GTCCTGCCTGACATTGTCACCATGGCTAAAGGGATTGGGAATGGCTTTCCCATGGCAGCA
+GTCATAACCACTCCAGAGATTGCCAAATCTTTGGCGAAATGCCTGCAGCACTTCAACACC
+TTTGGAGGGAACCCCATGGCCTGTGCCATTGGATCTGCTGTGCTTGAGGTGATTAAAGAA
+GAAAATCTACAGGAAAACAGTCAAGAAGTTGGGACCTACATGTTACTAAAGTTTGCTAAG
+CTGCGGGATGAATTTGAAATTGTTGGAGACGTCCGAGGCAAAGGTCTCATGATAGGCATA
+GAAATGGTGCAGGATAAGATAAGCTGTCGGCCTCTTCCCCGTGAAGAAGTAAATCAGATC
+CATGAGGACTGCAAGCACATGGGACTCCTCGTTGGCAGAGGCAGCATTTTTTCTCAGACA
+TTTCGCATTGCGCCCTCAATGTGCATCACTAAACCAGAAGTTGATTTTGCAGTAGAAGTA
+TTTCGTTCTGCCTTAACCCAACACATGGAAAGAAGAGCTAAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>514</residue_number>
+    <molecular_weight>57155.905</molecular_weight>
+    <theoretical_pi>7.864</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aminotran_3</name>
+        <pfam_id>PF00202</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Alanine--glyoxylate aminotransferase 2, mitochondrial
+MTLIWRHLLRPLCLVTSAPRILEMHPFLSLGTSRTSVTKLSLHTKPRMPPCDFMPERYQS
+LGYNRVLEIHKEHLSPVVTAYFQKPLLLHQGHMEWLFDAEGSRYLDFFSGIVTVSVGHCH
+PKVNAVAQKQLGRLWHTSTVFFHPPMHEYAEKLAALLPEPLKVIFLVNSGSEANELAMLM
+ARAHSNNIDIISFRGAYHGCSPYTLGLTNVGTYKMELPGGTGCQPTMCPDVFRGPWGGSH
+CRDSPVQTIRKCSCAPDCCQAKDQYIEQFKDTLSTSVAKSIAGFFAEPIQGVNGVVQYPK
+GFLKEAFELVRARGGVCIADEVQTGFGRLGSHFWGFQTHDVLPDIVTMAKGIGNGFPMAA
+VITTPEIAKSLAKCLQHFNTFGGNPMACAIGSAVLEVIKEENLQENSQEVGTYMLLKFAK
+LRDEFEIVGDVRGKGLMIGIEMVQDKISCRPLPREEVNQIHEDCKHMGLLVGRGSIFSQT
+FRIAPSMCITKPEVDFAVEVFRSALTQHMERRAK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>12406973</genbank_protein_id>
+  <uniprot_id>Q9BYV1</uniprot_id>
+  <uniprot_name>AGT2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AJ292204</genbank_gene_id>
+  <genecard_id>AGXT2</genecard_id>
+  <geneatlas_id>AGXT2</geneatlas_id>
+  <hgnc_id>HGNC:14412</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycine</name>
+        <accession>HMDB00123</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycine</name>
+        <accession>HMDB00123</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycine</name>
+        <accession>HMDB00123</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Baker PR, Cramer SD, Kennedy M, Assimos DG, Holmes RP: Glycolate and glyoxylate metabolism in HepG2 cells.  Am J Physiol Cell Physiol. 2004 Nov;287(5):C1359-65. Epub 2004 Jul 7.</reference_text>
+        <pubmed_id>15240345</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glycine</name>
+        <accession>HMDB00123</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takada Y, Mori T, Noguchi T: The effect of vitamin B6 deficiency on alanine: glyoxylate aminotransferase isoenzymes in rat liver. Arch Biochem Biophys. 1984 Feb 15;229(1):1-6.</reference_text>
+        <pubmed_id>6703688</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Okuno E, Ishikawa T, Kawai J, Kido R: Alanine:glyoxylate aminotransferase activities in liver of Suncus murinus (insectivora). Comp Biochem Physiol B. 1988;90(4):773-8.</reference_text>
+        <pubmed_id>2907870</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Alanine</name>
+        <accession>HMDB00161</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takada Y, Mori T, Noguchi T: The effect of vitamin B6 deficiency on alanine: glyoxylate aminotransferase isoenzymes in rat liver. Arch Biochem Biophys. 1984 Feb 15;229(1):1-6.</reference_text>
+        <pubmed_id>6703688</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tamaki N, Fujimoto S, Mizota C, Kaneko M, Kikugawa M: Inhibitory effect of 6-azauracil on beta-alanine metabolism in rat.  J Nutr Sci Vitaminol (Tokyo). 1989 Oct;35(5):451-61.</reference_text>
+        <pubmed_id>2632679</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

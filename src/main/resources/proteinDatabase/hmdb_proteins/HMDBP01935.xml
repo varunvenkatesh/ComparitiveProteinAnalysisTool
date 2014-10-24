@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:00:47 -0700</creation_date>
+  <update_date>2013-05-27 11:10:37 -0600</update_date>
+  <accession>HMDBP01935</accession>
+  <secondary_accessions>
+    <accession>7345</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>3-beta-hydroxysterol delta-24-reductase</synonym>
+    <synonym>Diminuto/dwarf1 homolog</synonym>
+    <synonym>Seladin-1</synonym>
+    <synonym>24-dehydrocholesterol reductase</synonym>
+  </synonyms>
+  <gene_name>DHCR24</gene_name>
+  <general_function>Energy production and conversion</general_function>
+  <specific_function>Catalyzes the reduction of the delta-24 double bond of sterol intermediates. Protects cells from oxidative stress by reducing caspase 3 activity during apoptosis induced by oxidative stress. Also protects against amyloid-beta peptide-induced apoptosis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>cholesterol biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Steroid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00100</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01251</accession>
+      <name>Lanosterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01286</accession>
+      <name>4,4-Dimethyl-5a-cholesta-8,24-dien-3-b-ol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06839</accession>
+      <name>24,25-Dihydrolanosterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06840</accession>
+      <name>4,4-Dimethyl-5a-cholesta-8-en-3b-ol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06271</accession>
+      <name>Zymosterol intermediate 2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06841</accession>
+      <name>5a-Cholest-8-en-3b-ol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01170</accession>
+      <name>Lathosterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06842</accession>
+      <name>5a-Cholesta-7,24-dien-3b-ol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03896</accession>
+      <name>7-Dehydrodesmosterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00032</accession>
+      <name>7-Dehydrocholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02719</accession>
+      <name>Desmosterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00067</accession>
+      <name>Cholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06849</accession>
+      <name>24-Methylenecholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02869</accession>
+      <name>Campesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02374</accession>
+      <name>Avenasterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00852</accession>
+      <name>Beta-Sitosterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00937</accession>
+      <name>Stigmasterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59615</accession>
+      <name>5-alpha-Cholesta-7,24-dien-3-beta-ol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fad or fadh2 binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoskeleton</description>
+      <go_id>GO:0005856</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>delta24-sterol reductase activity</description>
+      <go_id>GO:0050614</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavin adenine dinucleotide binding</description>
+      <go_id>GO:0050660</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor</description>
+      <go_id>GO:0016628</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptide antigen binding</description>
+      <go_id>GO:0042605</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>UDP-N-acetylmuramate dehydrogenase activity</description>
+      <go_id>GO:0008762</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>amyloid precursor protein catabolic process</description>
+      <go_id>GO:0042987</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell cycle arrest</description>
+      <go_id>GO:0007050</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular membrane organization</description>
+      <go_id>GO:0016044</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>male genitalia development</description>
+      <go_id>GO:0030539</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell proliferation</description>
+      <go_id>GO:0008285</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+      <go_id>GO:0043154</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>plasminogen activation</description>
+      <go_id>GO:0031639</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein localization</description>
+      <go_id>GO:0008104</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Ras protein signal transduction</description>
+      <go_id>GO:0007265</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of neuron death</description>
+      <go_id>GO:1901214</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>skin development</description>
+      <go_id>GO:0043588</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p32.3</locus>
+    <gene_sequence>&gt;1551 bp
+ATGGAGCCCGCCGTGTCGCTGGCCGTGTGCGCGCTGCTCTTCCTGCTGTGGGTGCGCCTG
+AAGGGGCTGGAGTTCGTGCTCATCCACCAGCGCTGGGTGTTCGTGTGCCTCTTCCTCCTG
+CCGCTCTCGCTTATCTTCGATATCTACTACTACGTGCGCGCCTGGGTGGTGTTCAAGCTC
+AGCAGCGCTCCGCGCCTGCACGAGCAGCGCGTGCGGGACATCCAGAAGCAGGTGCGGGAA
+TGGAAGGAGCAGGGTAGCAAGACCTTCATGTGCACGGGGCGCCCTGGCTGGCTCACTGTC
+TCACTACGTGTCGGGAAGTACAAGAAGACACACAAAAACATCATGATCAACCTGATGGAC
+ATTCTGGAAGTGGACACCAAGAAACAGATTGTCCGTGTGGAGCCCTTGGTGACCATGGGC
+CAGGTGACTGCCCTGCTGACCTCCATTGGCTGGACTCTCCCCGTGTTGCCTGAGCTTGAT
+GACCTCACAGTGGGGGGCTTGATCATGGGCACAGGCATCGAGTCATCATCCCACAAGTAC
+GGCCTGTTCCAACACATCTGCACTGCTTACGAGCTGGTCCTGGCTGATGGCAGCTTTGTG
+CGATGCACTCCGTCCGAAAACTCAGACCTGTTCTATGCCGTACCCTGGTCCTGTGGGACG
+CTGGGTTTCCTGGTGGCCGCTGAGATCCGCATCATCCCTGCCAAGAAGTACGTCAAGCTG
+CGTTTCGAGCCAGTGCGGGGCCTGGAGGCTATCTGTGCCAAGTTCACCCACGAGTCCCAG
+CGGCAGGAGAACCACTTCGTGGAAGGGCTGCTCTACTCCCTGGATGAGGCTGTCATTATG
+ACAGGGGTCATGACAGATGAGGCAGAGCCCAGCAAGCTGAATAGCATTGGCAATTACTAC
+AAGCCGTGGTTCTTTAAGCATGTGGAGAACTATCTGAAGACAAACCGAGAGGGCCTGGAG
+TACATTCCCTTGAGACACTACTACCACCGCCACACGCGCAGCATCTTCTGGGAGCTCCAG
+GACATCATCCCCTTTGGCAACAACCCCATCTTCCGCTACCTCTTTGGCTGGATGGTGCCT
+CCCAAGATCTCCCTCCTGAAGCTGACCCAGGGTGAGACCCTGCGCAAGCTGTACGAGCAG
+CACCACGTGGTGCAGGACATGCTGGTGCCCATGAAGTGCCTGCAGCAGGCCCTGCACACC
+TTCCAAAACGACATCCACGTCTACCCCATCTGGCTGTGTCCGTTCATCCTGCCCAGCCAG
+CCAGGCCTAGTGCACCCCAAAGGAAATGAGGCAGAGCTCTACATCGACATTGGAGCATAT
+GGGGAGCCGCGTGTGAAACACTTTGAAGCCAGGTCCTGCATGAGGCAGCTGGAGAAGTTT
+GTCCGCAGCGTGCATGGCTTCCAGATGCTGTATGCCGACTGCTACATGAACCGGGAGGAG
+TTCTGGGAGATGTTTGATGGCTCCTTGTACCACAAGCTGCGAGAGAAGCTGGGTTGCCAG
+GACGCCTTCCCCGAGGTGTACGACAAGATCTGCAAGGCCGCCAGGCACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>516</residue_number>
+    <molecular_weight>60100.805</molecular_weight>
+    <theoretical_pi>8.158</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAD_binding_4</name>
+        <pfam_id>PF01565</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;24-dehydrocholesterol reductase
+MEPAVSLAVCALLFLLWVRLKGLEFVLIHQRWVFVCLFLLPLSLIFDIYYYVRAWVVFKL
+SSAPRLHEQRVRDIQKQVREWKEQGSKTFMCTGRPGWLTVSLRVGKYKKTHKNIMINLMD
+ILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIESSSHKY
+GLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIPAKKYVKL
+RFEPVRGLEAICAKFTHESQRQENHFVEGLLYSLDEAVIMTGVMTDEAEPSKLNSIGNYY
+KPWFFKHVENYLKTNREGLEYIPLRHYYHRHTRSIFWELQDIIPFGNNPIFRYLFGWMVP
+PKISLLKLTQGETLRKLYEQHHVVQDMLVPMKCLQQALHTFQNDIHVYPIWLCPFILPSQ
+PGLVHPKGNEAELYIDIGAYGEPRVKHFEARSCMRQLEKFVRSVHGFQMLYADCYMNREE
+FWEMFDGSLYHKLREKLGCQDAFPEVYDKICKAARH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>10442025</genbank_protein_id>
+  <uniprot_id>Q15392</uniprot_id>
+  <uniprot_name>DHC24_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF261758</genbank_gene_id>
+  <genecard_id>DHCR24</genecard_id>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:2859</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Greeve I, Hermans-Borgmeyer I, Brellinger C, Kasper D, Gomez-Isla T, Behl C, Levkau B, Nitsch RM: The human DIMINUTO/DWARF1 homolog seladin-1 confers resistance to Alzheimer's disease-associated neurodegeneration and oxidative stress. J Neurosci. 2000 Oct 1;20(19):7345-52.</reference_text>
+      <pubmed_id>11007892</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Waterham HR, Koster J, Romeijn GJ, Hennekam RC, Vreken P, Andersson HC, FitzPatrick DR, Kelley RI, Wanders RJ: Mutations in the 3beta-hydroxysterol Delta24-reductase gene cause desmosterolosis, an autosomal recessive disorder of cholesterol biosynthesis. Am J Hum Genet. 2001 Oct;69(4):685-94. Epub 2001 Aug 22.</reference_text>
+      <pubmed_id>11519011</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nomura N, Miyajima N, Sazuka T, Tanaka A, Kawarabayasi Y, Sato S, Nagase T, Seki N, Ishikawa K, Tabata S: Prediction of the coding sequences of unidentified human genes. I. The coding sequences of 40 new genes (KIAA0001-KIAA0040) deduced by analysis of randomly sampled cDNA clones from human immature myeloid cell line KG-1. DNA Res. 1994;1(1):27-35.</reference_text>
+      <pubmed_id>7584026</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

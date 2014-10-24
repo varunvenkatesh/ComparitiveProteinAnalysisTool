@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:18 -0700</creation_date>
+  <update_date>2013-05-27 11:15:15 -0600</update_date>
+  <accession>HMDBP00695</accession>
+  <secondary_accessions>
+    <accession>5968</accession>
+    <accession>HMDBP06429</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>GAPDH</synonym>
+    <synonym>Peptidyl-cysteine S-nitrosylase GAPDH</synonym>
+  </synonyms>
+  <gene_name>GAPDH</gene_name>
+  <general_function>Involved in glyceraldehyde-3-phosphate dehydrogenase activity</general_function>
+  <specific_function>Has both glyceraldehyde-3-phosphate dehydrogenase and nitrosylase activities, thereby playing a role in glycolysis and nuclear functions, respectively. Participates in nuclear events including transcription, RNA transport, DNA replication and apoptosis. Nuclear functions are probably due to the nitrosylase activity that mediates cysteine S-nitrosylation of nuclear target proteins such as SIRT1, HDAC2 and PRKDC. Modulates the organization and assembly of the cytoskeleton. Facilitates the CHP1-dependent microtubule and membrane associations through its ability to stimulate the binding of CHP1 to microtubules (By similarity). Glyceraldehyde-3-phosphate dehydrogenase is a key enzyme in glycolysis that catalyzes the first step of the pathway by converting D-glyceraldehyde 3-phosphate (G3P) into 3-phospho-D-glyceroyl phosphate. Component of the GAIT (gamma interferon-activated inhibitor of translation) complex which mediates interferon-gamma-induced transcript-selective translation inhibition in inflammation processes. Upon interferon-gamma treatment assembles into the GAIT complex which binds to stem loop-containing GAIT elements in the 3'-UTR of diverse inflammatory mRNAs (such as ceruplasmin) and suppresses their translation.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Gluconeogenesis</name>
+      <smpdb_id>SMP00128</smpdb_id>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycerol Phosphate Shuttle</name>
+      <smpdb_id>SMP00124</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycolysis</name>
+      <smpdb_id>SMP00040</smpdb_id>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Mitochondrial Electron Transport Chain</name>
+      <smpdb_id>SMP00355</smpdb_id>
+      <kegg_map_id>map00190</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>glycolysis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycolysis / Gluconeogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alzheimer's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05010</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01112</accession>
+      <name>D-Glyceraldehyde 3-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01270</accession>
+      <name>Glyceric acid 1,3-biphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad or nadh binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glyceraldehyde-3-phosphate dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular vesicular exosome</description>
+      <go_id>GO:0070062</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lipid particle</description>
+      <go_id>GO:0005811</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>microtubule cytoskeleton</description>
+      <go_id>GO:0015630</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ribonucleoprotein complex</description>
+      <go_id>GO:0030529</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity</description>
+      <go_id>GO:0004365</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>microtubule binding</description>
+      <go_id>GO:0008017</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD binding</description>
+      <go_id>GO:0051287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADP binding</description>
+      <go_id>GO:0050661</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptidyl-cysteine S-nitrosylase activity</description>
+      <go_id>GO:0035605</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to interferon-gamma</description>
+      <go_id>GO:0071346</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gluconeogenesis</description>
+      <go_id>GO:0006094</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolysis</description>
+      <go_id>GO:0006096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>microtubule cytoskeleton organization</description>
+      <go_id>GO:0000226</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of translation</description>
+      <go_id>GO:0017148</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neuron apoptotic process</description>
+      <go_id>GO:0051402</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-cysteine S-trans-nitrosylation</description>
+      <go_id>GO:0035606</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein stabilization</description>
+      <go_id>GO:0050821</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>perinuclear region</subcellular_location>
+    <subcellular_location>Membrane</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p13</locus>
+    <gene_sequence>&gt;1008 bp
+ATGGGGAAGGTGAAGGTCGGAGTCAACGGATTTGGTCGTATTGGGCGCCTGGTCACCAGG
+GCTGCTTTTAACTCTGGTAAAGTGGATATTGTTGCCATCAATGACCCCTTCATTGACCTC
+AACTACATGGTTTACATGTTCCAATATGATTCCACCCATGGCAAATTCCATGGCACCGTC
+AAGGCTGAGAACGGGAAGCTTGTCATCAATGGAAATCCCATCACCATCTTCCAGGAGCGA
+GATCCCTCCAAAATCAAGTGGGGCGATGCTGGCGCTGAGTACGTCGTGGAGTCCACTGGC
+GTCTTCACCACCATGGAGAAGGCTGGGGCTCATTTGCAGGGGGGAGCCAAAAGGGTCATC
+ATCTCTGCCCCCTCTGCTGATGCCCCCATGTTCGTCATGGGTGTGAACCATGAGAAGTAT
+GACAACAGCCTCAAGATCATCAGCAATGCCTCCTGCACCACCAACTGCTTAGCACCCCTG
+GCCAAGGTCATCCATGACAACTTTGGTATCGTGGAAGGACTCATGACCACAGTCCATGCC
+ATCACTGCCACCCAGAAGACTGTGGATGGCCCCTCCGGGAAACTGTGGCGTGATGGCCGC
+GGGGCTCTCCAGAACATCATCCCTGCCTCTACTGGCGCTGCCAAGGCTGTGGGCAAGGTC
+ATCCCTGAGCTGAACGGGAAGCTCACTGGCATGGCCTTCCGTGTCCCCACTGCCAACGTG
+TCAGTGGTGGACCTGACCTGCCGTCTAGAAAAACCTGCCAAATATGATGACATCAAGAAG
+GTGGTGAAGCAGGCGTCGGAGGGCCCCCTCAAGGGCATCCTGGGCTACACTGAGCACCAG
+GTGGTCTCCTCTGACTTCAACAGCGACACCCACTCCTCCACCTTTGACGCTGGGGCTGGC
+ATTGCCCTCAACGACCACTTTGTCAAGCTCATTTCCTGGTATGACAACGAATTTGGCTAC
+AGCAACAGGGTGGTGGACCTCATGGCCCACATGGCCTCCAAGGAGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>335</residue_number>
+    <molecular_weight>31547.76</molecular_weight>
+    <theoretical_pi>7.604</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Gp_dh_C</name>
+        <pfam_id>PF02800</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Gp_dh_N</name>
+        <pfam_id>PF00044</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glyceraldehyde-3-phosphate dehydrogenase
+MGKVKVGVNGFGRIGRLVTRAAFNSGKVDIVAINDPFIDLNYMVYMFQYDSTHGKFHGTV
+KAENGKLVINGNPITIFQERDPSKIKWGDAGAEYVVESTGVFTTMEKAGAHLQGGAKRVI
+ISAPSADAPMFVMGVNHEKYDNSLKIISNASCTTNCLAPLAKVIHDNFGIVEGLMTTVHA
+ITATQKTVDGPSGKLWRDGRGALQNIIPASTGAAKAVGKVIPELNGKLTGMAFRVPTANV
+SVVDLTCRLEKPAKYDDIKKVVKQASEGPLKGILGYTEHQVVSSDFNSDTHSSTFDAGAG
+IALNDHFVKLISWYDNEFGYSNRVVDLMAHMASKE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>21104392</genbank_protein_id>
+  <uniprot_id>P04406</uniprot_id>
+  <uniprot_name>G3P_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1U8F</pdb_id>
+    <pdb_id>1ZNQ</pdb_id>
+    <pdb_id>2FEH</pdb_id>
+    <pdb_id>3GPD</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB062273</genbank_gene_id>
+  <genecard_id>GAPDH</genecard_id>
+  <geneatlas_id>GAPDH</geneatlas_id>
+  <hgnc_id>HGNC:4141</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hanauer A, Mandel JL: The glyceraldehyde 3 phosphate dehydrogenase gene family: structure of a human cDNA and of an X chromosome linked pseudogene; amazing complexity of the gene family in mouse. EMBO J. 1984 Nov;3(11):2627-33.</reference_text>
+      <pubmed_id>6096136</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arcari P, Martinelli R, Salvatore F: The complete sequence of a full length cDNA for human liver glyceraldehyde-3-phosphate dehydrogenase: evidence for multiple mRNA species. Nucleic Acids Res. 1984 Dec 11;12(23):9179-89.</reference_text>
+      <pubmed_id>6096821</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tso JY, Sun XH, Kao TH, Reece KS, Wu R: Isolation and characterization of rat and human glyceraldehyde-3-phosphate dehydrogenase cDNAs: genomic complexity and molecular evolution of the gene. Nucleic Acids Res. 1985 Apr 11;13(7):2485-502.</reference_text>
+      <pubmed_id>2987855</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tokunaga K, Nakamura Y, Sakata K, Fujimori K, Ohkubo M, Sawada K, Sakiyama S: Enhanced expression of a glyceraldehyde-3-phosphate dehydrogenase gene in human lung cancers. Cancer Res. 1987 Nov 1;47(21):5616-9.</reference_text>
+      <pubmed_id>3664468</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Allen RW, Trach KA, Hoch JA: Identification of the 37-kDa protein displaying a variable interaction with the erythroid cell membrane as glyceraldehyde-3-phosphate dehydrogenase. J Biol Chem. 1987 Jan 15;262(2):649-53.</reference_text>
+      <pubmed_id>3027061</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ercolani L, Florence B, Denaro M, Alexander M: Isolation and complete sequence of a functional human glyceraldehyde-3-phosphate dehydrogenase gene. J Biol Chem. 1988 Oct 25;263(30):15335-41.</reference_text>
+      <pubmed_id>3170585</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meyer-Siegler K, Mauro DJ, Seal G, Wurzer J, deRiel JK, Sirover MA: A human nuclear uracil DNA glycosylase is the 37-kDa subunit of glyceraldehyde-3-phosphate dehydrogenase. Proc Natl Acad Sci U S A. 1991 Oct 1;88(19):8460-4.</reference_text>
+      <pubmed_id>1924305</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ye Z, Connor JR: cDNA cloning by amplification of circularized first strand cDNAs reveals non-IRE-regulated iron-responsive mRNAs. Biochem Biophys Res Commun. 2000 Aug 18;275(1):223-7.</reference_text>
+      <pubmed_id>10944468</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nowak K, Wolny M, Banas T: The complete amino acid sequence of human muscle glyceraldehyde 3-phosphate dehydrogenase. FEBS Lett. 1981 Nov 16;134(2):143-6.</reference_text>
+      <pubmed_id>7030790</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kovalyov LI, Shishkin SS, Efimochkin AS, Kovalyova MA, Ershova ES, Egorov TA, Musalyamov AK: The major protein expression profile and two-dimensional protein database of human heart. Electrophoresis. 1995 Jul;16(7):1160-9.</reference_text>
+      <pubmed_id>7498159</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nowak K, Kuczek M, Ostropolska L, Malarska A, Wolny M, Baranowski T: The covalent structure of glyceraldehyde-phosphate dehydrogenase from human muscles. Isolation and amino acid sequences of peptides from tryptic digest. Hoppe Seylers Z Physiol Chem. 1975 Jul;356(7):1181-3.</reference_text>
+      <pubmed_id>1193541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tisdale EJ: Glyceraldehyde-3-phosphate dehydrogenase is phosphorylated by protein kinase Ciota /lambda and plays a role in microtubule dynamics in the early secretory pathway. J Biol Chem. 2002 Feb 1;277(5):3334-41. Epub 2001 Nov 27.</reference_text>
+      <pubmed_id>11724794</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mazzola JL, Sirover MA: Subcellular localization of human glyceraldehyde-3-phosphate dehydrogenase is independent of its glycolytic function. Biochim Biophys Acta. 2003 Jun 20;1622(1):50-6.</reference_text>
+      <pubmed_id>12829261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wakasugi K, Nakano T, Morishima I: Oxidative stress-responsive intracellular regulation specific for the angiostatic form of human tryptophanyl-tRNA synthetase. Biochemistry. 2005 Jan 11;44(1):225-32.</reference_text>
+      <pubmed_id>15628863</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bosch-Comas A, Lindsten K, Gonzalez-Duarte R, Masucci MG, Marfany G: The ubiquitin-specific protease USP25 interacts with three sarcomeric proteins. Cell Mol Life Sci. 2006 Mar;63(6):723-34.</reference_text>
+      <pubmed_id>16501887</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wong JJ, Pung YF, Sze NS, Chin KC: HERC5 is an IFN-induced HECT-type E3 protein ligase that mediates type I IFN-induced ISGylation of protein targets. Proc Natl Acad Sci U S A. 2006 Jul 11;103(28):10735-40. Epub 2006 Jun 30.</reference_text>
+      <pubmed_id>16815975</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seo J, Jeong J, Kim YM, Hwang N, Paek E, Lee KJ: Strategy for comprehensive identification of post-translational modifications in cellular proteins, including low abundant modifications: application to glyceraldehyde-3-phosphate dehydrogenase. J Proteome Res. 2008 Feb;7(2):587-602.</reference_text>
+      <pubmed_id>18183946</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heibeck TH, Ding SJ, Opresko LK, Zhao R, Schepmoes AA, Yang F, Tolmachev AV, Monroe ME, Camp DG 2nd, Smith RD, Wiley HS, Qian WJ: An extensive survey of tyrosine phosphorylation revealing new sites in human mammary epithelial cells. J Proteome Res. 2009 Aug;8(8):3852-61.</reference_text>
+      <pubmed_id>19534553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mercer WD, Winn SI, Watson HC: Twinning in crystals of human skeletal muscle D-glyceraldehyde-3-phosphate dehydrogenase. J Mol Biol. 1976 Jun 14;104(1):277-83.</reference_text>
+      <pubmed_id>957435</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ismail SA, Park HW: Structural analysis of human liver glyceraldehyde-3-phosphate dehydrogenase. Acta Crystallogr D Biol Crystallogr. 2005 Nov;61(Pt 11):1508-13. Epub 2005       Oct 19.</reference_text>
+      <pubmed_id>16239728</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jenkins JL, Tanner JJ: High-resolution structure of human D-glyceraldehyde-3-phosphate dehydrogenase. Acta Crystallogr D Biol Crystallogr. 2006 Mar;62(Pt 3):290-301. Epub 2006       Feb 22.</reference_text>
+      <pubmed_id>16510976</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

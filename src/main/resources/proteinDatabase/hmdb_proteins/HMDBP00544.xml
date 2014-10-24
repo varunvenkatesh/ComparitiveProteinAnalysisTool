@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:34 -0700</creation_date>
+  <update_date>2013-05-27 11:05:57 -0600</update_date>
+  <accession>HMDBP00544</accession>
+  <secondary_accessions>
+    <accession>5815</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>BUP-1</synonym>
+    <synonym>Beta-alanine synthase</synonym>
+    <synonym>N-carbamoyl-beta-alanine amidohydrolase</synonym>
+  </synonyms>
+  <gene_name>UPB1</gene_name>
+  <general_function>Involved in hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds</general_function>
+  <specific_function>Converts N-carbamyl-beta-aminoisobutyric acid and N-carbamyl-beta-alanine to, respectively, beta-aminoisobutyric acid and beta-alanine, ammonia and carbon dioxide.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>beta-alanine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>beta-Alanine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00410</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pantothenate and CoA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00770</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - other enzymes</name>
+      <smpdb_id/>
+      <kegg_map_id>map00983</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00026</accession>
+      <name>Ureidopropionic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00056</accession>
+      <name>Beta-Alanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02031</accession>
+      <name>Ureidoisobutyric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03911</accession>
+      <name>3-Aminoisobutanoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60435</accession>
+      <name>alpha-Fluoro-beta-ureidopropionic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60434</accession>
+      <name>alpha-Fluoro-beta-alanine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>beta-ureidopropionase activity</description>
+      <go_id>GO:0003837</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>beta-alanine biosynthetic process</description>
+      <go_id>GO:0019483</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleobase metabolic process</description>
+      <go_id>GO:0006206</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine nucleoside catabolic process</description>
+      <go_id>GO:0046135</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>22</chromosome_location>
+    <locus>22q11.2</locus>
+    <gene_sequence>&gt;1155 bp
+ATGGCGGGCGCTGAGTGGAAGTCGCTGGAGGAATGCTTGGAGAAGCACCTGCCGCTCCCC
+GACTTGCAGGAAGTGAAGCGCGTTCTCTATGGCAAGGAACTCAGGAAGCTTGATCTGCCC
+AGGGAAGCTTTCGAAGCTGCCTCCAGAGAAGACTTTGAACTGCAGGGATATGCCTTTGAA
+GCAGCGGAGGAGCAGCTGAGACGACCCCGCATTGTGCACGTGGGGCTGGTTCAGAACAGA
+ATCCCCCTCCCCGCAAATGCCCCTGTGGCAGAACAGGTCTCTGCCCTTCATAGACGCATA
+AAGGCTATCGTAGAGGTGGCTGCAATGTGTGGAGTCAACATCATCTGTTTCCAGGAAGCA
+TGGACTATGCCCTTTGCCTTCTGTACGAGAGAGAAGCTTCCTTGGACAGAATTTGCTGAG
+TCAGCAGAGGATGGGCCCACCACCAGATTCTGTCAGAAGCTGGCGAAGAACCATGACATG
+GTGGTGGTGTCTCCCATCCTGGAACGAGACAGCGAGCATGGGGATGTTTTGTGGAATACA
+GCCGTGGTGATCTCCAATTCCGGAGCAGTCCTGGGAAAGACCAGGAAAAACCACATCCCC
+AGAGTGGGTGATTTCAACGAGTCAACTTACTACATGGAGGGAAACCTGGGCCACCCCGTG
+TTCCAGACGCAGTTCGGAAGGATCGCGGTGAACATTTGCTACGGGCGGCACCACCCCCTC
+AACTGGCTTATGTACAGCATCAACGGGGCTGAGATCATCTTCAACCCCTCGGCCACGATA
+GGAGCACTCAGCGAGTCCCTGTGGCCCATCGAGGCCAGAAACGCAGCCATTGCCAATCAC
+TGCTTCACCTGCGCCATCAATCGAGTGGGCACCGAGCACTTCCCGAACGAGTTTACCTCG
+GGAGATGGAAAGAAAGCTCACCAGGACTTTGGCTACTTTTATGGCTCGAGCTATGTGGCA
+GCCCCTGACAGCAGCCGGACTCCTGGGCTGTCCCGTAGCCGGGATGGACTGCTAGTTGCT
+AAGCTCGACCTAAACCTCTGCCAGCAGGTGAATGATGTCTGGAACTTCAAGATGACGGGC
+AGGTATGAGATGTACGCACGGGAGCTCGCCGAAGCTGTCAAGTCCAACTACAGCCCCACC
+ATCGTGAAAGAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>384</residue_number>
+    <molecular_weight>43165.705</molecular_weight>
+    <theoretical_pi>6.53</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CN_hydrolase</name>
+        <pfam_id>PF00795</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Beta-ureidopropionase
+MAGAEWKSLEECLEKHLPLPDLQEVKRVLYGKELRKLDLPREAFEAASREDFELQGYAFE
+AAEEQLRRPRIVHVGLVQNRIPLPANAPVAEQVSALHRRIKAIVEVAAMCGVNIICFQEA
+WTMPFAFCTREKLPWTEFAESAEDGPTTRFCQKLAKNHDMVVVSPILERDSEHGDVLWNT
+AVVISNSGAVLGKTRKNHIPRVGDFNESTYYMEGNLGHPVFQTQFGRIAVNICYGRHHPL
+NWLMYSINGAEIIFNPSATIGALSESLWPIEARNAAIANHCFTCAINRVGTEHFPNEFTS
+GDGKKAHQDFGYFYGSSYVAAPDSSRTPGLSRSRDGLLVAKLDLNLCQQVNDVWNFKMTG
+RYEMYARELAEAVKSNYSPTIVKE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>6635205</genbank_protein_id>
+  <uniprot_id>Q9UBR1</uniprot_id>
+  <uniprot_name>BUP1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB013885</genbank_gene_id>
+  <genecard_id>UPB1</genecard_id>
+  <geneatlas_id>UPB1</geneatlas_id>
+  <hgnc_id>HGNC:16297</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Vreken P, van Kuilenburg AB, Hamajima N, Meinsma R, van Lenthe H, Gohlich-Ratmann G, Assmann BE, Wevers RA, van Gennip AH: cDNA cloning, genomic structure and chromosomal localization of the human BUP-1 gene encoding beta-ureidopropionase. Biochim Biophys Acta. 1999 Oct 28;1447(2-3):251-7.</reference_text>
+      <pubmed_id>10542323</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sakamoto T, Sakata SF, Matsuda K, Horikawa Y, Tamaki N: Expression and properties of human liver beta-ureidopropionase.  J Nutr Sci Vitaminol (Tokyo). 2001 Apr;47(2):132-8.</reference_text>
+      <pubmed_id>11508704</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG, Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM, Dunham I: A genome annotation-driven approach to cloning the human ORFeome.  Genome Biol. 2004;5(10):R84. Epub 2004 Sep 30.</reference_text>
+      <pubmed_id>15461802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Kuilenburg AB, Meinsma R, Beke E, Assmann B, Ribes A, Lorente I, Busch R, Mayatepek E, Abeling NG, van Cruchten A, Stroomer AE, van Lenthe H, Zoetekouw L, Kulik W, Hoffmann GF, Voit T, Wevers RA, Rutsch F, van Gennip AH: beta-Ureidopropionase deficiency: an inborn error of pyrimidine degradation associated with neurological abnormalities. Hum Mol Genet. 2004 Nov 15;13(22):2793-801. Epub 2004 Sep 22.</reference_text>
+      <pubmed_id>15385443</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ureidopropionic acid</name>
+        <accession>HMDB00026</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Moolenaar SH, Gohlich-Ratmann G, Engelke UF, Spraul M, Humpfer E, Dvortsak P, Voit T, Hoffmann GF, Brautigam C, van Kuilenburg AB, van Gennip A, Vreken P, Wevers RA: beta-Ureidopropionase deficiency: a novel inborn error of metabolism discovered using NMR spectroscopy on urine. Magn Reson Med. 2001 Nov;46(5):1014-7.</reference_text>
+        <pubmed_id>11675655</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:37:20 -0600</creation_date>
+  <update_date>2013-05-27 11:37:20 -0600</update_date>
+  <accession>HMDBP11975</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CLL-associated antigen KW-2</synonym>
+    <synonym>Cap-specific guanine-N2 methyltransferase</synonym>
+    <synonym>Hepatocellular carcinoma-associated antigen 137</synonym>
+    <synonym>Nuclear receptor coactivator 6-interacting protein</synonym>
+    <synonym>PRIP-interacting protein with methyltransferase motif</synonym>
+    <synonym>PIMT</synonym>
+    <synonym>PIPMT</synonym>
+  </synonyms>
+  <gene_name>TGS1</gene_name>
+  <general_function/>
+  <specific_function>Catalyzes the 2 serial methylation steps for the conversion of the 7-monomethylguanosine (m(7)G) caps of snRNAs and snoRNAs to a 2,2,7-trimethylguanosine (m(2,2,7)G) cap structure. The enzyme is specific for guanine, and N7 methylation must precede N2 methylation. Hypermethylation of the m7G cap of U snRNAs leads to their concentration in nuclear foci, their colocalization with coilin and the formation of canonical Cajal bodies (CBs). Plays a role in transcriptional regulation.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RNA transport</name>
+      <smpdb_id/>
+      <kegg_map_id>map03013</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id>GO:0044255</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0006355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ncRNA metabolic process</description>
+      <go_id>GO:0034660</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spliceosomal snRNP assembly</description>
+      <go_id>GO:0000387</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Cajal body</description>
+      <go_id>GO:0015030</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>small nuclear ribonucleoprotein complex</description>
+      <go_id>GO:0030532</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA trimethylguanosine synthase activity</description>
+      <go_id>GO:0071164</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>7-methylguanosine RNA capping</description>
+      <go_id>GO:0009452</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ribonucleoprotein complex import into nucleus</description>
+      <go_id>GO:0071167</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q11</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>96619.02</molecular_weight>
+    <theoretical_pi>4.948</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Methyltransf_15</name>
+        <pfam_id>PF09445</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|151301096|ref|NP_079107.6| trimethylguanosine synthase [Homo sapiens]
+MCCEKWSRVAEMFLFIEEREDCKILCLCSRAFVEDRKLYNLGLKGYYIRDSGNNSGDQAT
+EEEEGGYSCG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q96RS0</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>3EGI</pdb_id>
+    <pdb_id>3GDH</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:17843</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

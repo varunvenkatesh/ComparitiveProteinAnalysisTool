@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:41 -0700</creation_date>
+  <update_date>2013-05-27 10:57:34 -0600</update_date>
+  <accession>HMDBP00018</accession>
+  <secondary_accessions>
+    <accession>5247</accession>
+    <accession>HMDBP03860</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ACC-beta</synonym>
+    <synonym>Biotin carboxylase</synonym>
+  </synonyms>
+  <gene_name>ACACB</gene_name>
+  <general_function>Involved in acetyl-CoA carboxylase activity</general_function>
+  <specific_function>ACC-beta may be involved in the provision of malonyl-CoA or in the regulation of fatty acid oxidation, rather than fatty acid biosynthesis. Carries out three functions: biotin carboxyl carrier protein, biotin carboxylase and carboxyltransferase.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>malonyl-CoA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Fatty acid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00061</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyruvate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00620</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Propanoate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00640</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Insulin signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04910</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Adipocytokine signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04920</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00030</accession>
+      <name>Biotin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01175</accession>
+      <name>Malonyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03538</accession>
+      <name>Carbonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>vitamin binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>biotin binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-carbon bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>coa carboxylase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetyl-coa carboxylase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endomembrane system</description>
+      <go_id>GO:0012505</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane</description>
+      <go_id>GO:0016020</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>acetyl-CoA carboxylase activity</description>
+      <go_id>GO:0003989</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>biotin carboxylase activity</description>
+      <go_id>GO:0004075</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>acetyl-CoA metabolic process</description>
+      <go_id>GO:0006084</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carnitine shuttle</description>
+      <go_id>GO:0006853</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id>GO:0044255</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>energy reserve metabolic process</description>
+      <go_id>GO:0006112</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid biosynthetic process</description>
+      <go_id>GO:0006633</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>malonyl-CoA biosynthetic process</description>
+      <go_id>GO:2001295</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of cellular metabolic process</description>
+      <go_id>GO:0031325</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotetramerization</description>
+      <go_id>GO:0051289</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of fatty acid oxidation</description>
+      <go_id>GO:0046320</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endomembrane system</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q24.11</locus>
+    <gene_sequence>&gt;7377 bp
+ATGGTCTTGCTTCTTTGTCTATCTTGTCTGATTTTCTCCTGTCTGACCTTTTCCTGGTTA
+AAAATCTGGGGGAAAATGACGGACTCCAAGCCGATCACCAAGAGTAAATCAGAAGCAAAC
+CTCATCCCGAGCCAGGAGCCCTTTCCAGCCTCTGATAACTCAGGGGAGACACCGCAGAGA
+AATGGGGAGGGCCACACTCTGCCCAAGACACCCAGCCAGGCCGAGCCAGCCTCCCACAAA
+GGCCCCAAAGATGCCGGTCGGCGGAGAAACTCCCTACCACCCTCCCACCAGAAGCCCCCA
+AGAAACCCCCTTTCTTCCAGTGACGCAGCACCCTCCCCAGAGCTTCAAGCCAACGGGACT
+GGGACACAAGGTCTGGAGGCCACAGATACCAATGGCCTGTCCTCCTCAGCCAGGCCCCAG
+GGCCAGCAAGCTGGCTCCCCCTCCAAAGAAGACAAGAAGCAGGCAAACATCAAGAGGCAG
+CTGATGACCAACTTCATCCTGGGCTCTTTTGATGACTACTCCTCCGACGAGGACTCTGTT
+GCTGGCTCATCTCGTGAGTCTACCCGGAAGGGCAGCCGGGCCAGCTTGGGGGCCCTGTCC
+CTGGAGGCTTATCTGACCACAGGTGAAGCTGAGACCCGCGTCCCCACTATGAGGCCGAGC
+ATGTCGGGACTCCACCTGGTGAAGAGGGGACGGGAACACAAGAAGCTGGACCTGCACAGA
+GACTTTACCGTGGCTTCTCCCGCTGAGTTTGTCACACGCTTTGGGGGGGATCGGGTCATC
+GAGAAGGTGCTTATTGCCAACAACGGGATTGCCGCCGTGAAGTGCATGCGCTCCATCCGC
+AGGTGGGCCTATGAGATGTTCCGCAACGAGCGGGCCATCCGGTTTGTTGTGATGGTGACC
+CCCGAGGACCTTAAGGCCAACGCAGAGTACATCAAGATGGCGGATCATTACGTCCCCGTC
+CCAGGAGGGCCCAATAACAACAACTATGCCAACGTGGAGCTGATTGTGGACATTGCCAAG
+AGAATCCCCGTGCAGGCGGTGTGGGCTGGCTGGGGCCATGCTTCAGAAAACCCTAAACTT
+CCGGAGCTGCTGTGCAAGAATGGAGTTGCTTTCTTAGGCCCTCCCAGTGAGGCCATGTGG
+GCCTTAGGAGATAAGATCGCCTCCACCGTTGTCGCCCAGACGCTACAGGTCCCAACCCTG
+CCCTGGAGTGGAAGCGGCCTGACAGTGGAGTGGACAGAAGATGATCTGCAGCAGGGAAAA
+AGAATCAGTGTCCCAGAAGATGTTTATGACAAGGGTTGCGTGAAAGACGTAGATGAGGGC
+TTGGAGGCAGCAGAAAGAATTGGTTTTCCATTGATGATCAAAGCTTCTGAAGGTGGCGGA
+GGGAAGGGAATCCGGAAGGCTGAGAGTGCGGAGGACTTCCCGATCCTTTTCAGACAAGTA
+CAGAGTGAGATCCCAGGCTCGCCCATCTTTCTCATGAAGCTGGCCCAGCACGCCCGTCAC
+CTGGAAGTTCAGATCCTCGCTGACCAGTATGGGAATGCTGTGTCTCTGTTTGGTCGCGAC
+TGCTCCATCCAGCGGCGGCATCAGAAGATCGTTGAGGAAGCACCGGCCACCATCGCCCCG
+CTGGCCATATTCGAGTTCATGGAGCAGTGTGCCATCCGCCTGGCCAAGACCGTGGGCTAT
+GTGAGTGCAGGGACAGTGGAATACCTCTATAGTCAGGATGGCAGCTTCCACTTCTTGGAG
+CTGAATCCTCGCTTGCAGGTGGAACATCCCTGCACAGAAATGATTGCTGATGTTAATCTG
+CCGGCCGCCCAGCTACAGATCGCCATGGGCGTGCCACTGCACCGGCTGAAGGATATCCGG
+CTTCTGTATGGAGAGTCACCATGGGGAGTGACTCCCATTTCTTTTGAAACCCCCTCAAAC
+CCTCCCCTCGCCCGAGGCCACGTCATTGCCGCCAGAATCACCAGCGAAAACCCAGACGAG
+GGTTTTAAGCCGAGCTCCGGGACTGTCCAGGAACTGAATTTCCGGAGCAGCAAGAACGTG
+TGGGGTTACTTCAGCGTGGCCGCTACTGGAGGCCTGCACGAGTTTGCGGATTCCCAATTT
+GGGCACTGCTTCTCCTGGGGAGAGAACCGGGAAGAGGCCATTTCGAACATGGTGGTGGCT
+TTGAAGGAACTGTCCATCCGAGGCGACTTTAGGACTACCGTGGAATACCTCATTAACCTC
+CTGGAGACCGAGAGCTTCCAGAACAACGACATCGACACCGGGTGGTTGGACTACCTCATT
+GCTGAGAAAGTGCAGGCGGAGAAACCGGATATCATGCTTGGGGTGGTATGCGGGGCCTTG
+AACGTGGCCGATGCGATGTTCAGAACGTGCATGACAGATTTCTTACACTCCCTGGAAAGG
+GGCCAGGTCCTCCCAGCGGATTCACTACTGAACCTCGTAGATGTGGAATTAATTTACGGA
+GGTGTTAAGTACATTCTCAAGGTGGCCCGGCAGTCTCTGACCATGTTCGTTCTCATCATG
+AATGGCTGCCACATCGAGATTGATGCCCACCGGCTGAATGATGGGGGGCTCCTGCTCTCC
+TACAATGGGAACAGCTACACCACCTACATGAAGGAAGAGGTTGACAGTTACCGAATTACC
+ATCGGCAATAAGACGTGTGTGTTTGAGAAGGAGAACGATCCTACAGTCCTGAGATCCCCC
+TCGGCTGGGAAGCTGACACAGTACACAGTGGAGGATGGGGGCCACGTTGAGGCTGGGAGC
+AGCTACGCTGAGATGGAGGTGATGAAGATGATCATGACCCTGAACGTTCAGGAAAGAGGC
+CGGGTGAAGTACATCAAGCGTCCAGGTGCCGTGCTGGAAGCAGGCTGCGTGGTGGCCAGG
+CTGGAGCTCGATGACCCTTCTAAAGTCCACCCGGCTGAACCGTTCACAGGAGAACTCCCT
+GCCCAGCAGACACTGCCCATCCTCGGAGAGAAACTGCACCAGGTCTTCCACAGCGTCCTG
+GAAAACCTCACCAACGTCATGAGTGGCTTTTGTCTGCCAGAGCCCGTTTTTAGCATAAAG
+CTGAAGGAGTGGGTGCAGAAGCTCATGATGACCCTCCGGCACCCGTCACTGCCGCTGCTG
+GAGCTGCAGGAGATCATGACCAGCGTGGCAGGCCGCATCCCCGCCCCTGTGGAGAAGTCT
+GTCCGCAGGGTGATGGCCCAGTATGCCAGCAACATCACCTCGGTGCTGTGCCAGTTCCCC
+AGCCAGCAGATAGCCACCATCCTGGACTGCCATGCAGCCACCCTGCAGCGGAAGGCTGAT
+CGAGAGGTCTTCTTCATCAACACCCAGAGCATCGTGCAGTTGGTCCAGAGATACCGCAGC
+GGGATCCGCGGCTATATGAAAACAGTGGTGTTGGATCTCCTGAGAAGATACTTGCGTGTT
+GAGCACCATTTTCAGCAAGCCCACTACGACAAGTGTGTGATAAACCTCAGGGAGCAGTTC
+AAGCCAGACATGTCCCAGGTGCTGGACTGCATCTTCTCCCACGCACAGGTGGCCAAGAAG
+AACCAGCTGGTGATCATGTTGATCGATGAGCTGTGTGGCCCAGACCCTTCCCTGTCGGAC
+GAGCTGATCTCCATCCTCAACGAGCTCACTCAGCTGAGCAAAAGCGAGCACTGCAAAGTG
+GCCCTCAGAGCCCGGCAGATCCTGATTGCCTCCCACCTCCCCTCCTACGAGCTGCGGCAT
+AACCAGGTGGAGTCCATTTTCCTGTCTGCCATTGACATGTACGGCCACCAGTTCTGCCCC
+GAGAACCTCAAGAAATTAATACTTTCGGAAACAACCATCTTCGACGTCCTGCCTACTTTC
+TTCTATCACGCAAACAAAGTCGTGTGCATGGCGTCCTTGGAGGTTTACGTGCGGAGGGGC
+TACATCGCCTATGAGTTAAACAGCCTGCAGCACCGGCAGCTCCCGGACGGCACCTGCGTG
+GTAGAATTCCAGTTCATGCTGCCGTCCTCCCACCCAAACCGGATGACCGTGCCCATCAGC
+ATCACCAACCCTGACCTGCTGAGGCACAGCACAGAGCTCTTCATGGACAGCGGCTTCTCC
+CCACTGTGCCAGCGCATGGGAGCCATGGTAGCCTTCAGGAGATTCGAGGACTTCACCAGA
+AATTTTGATGAAGTCATCTCTTGCTTCGCCAACGTGCCCAAAGACACCCCCCTCTTCAGC
+GAGGCCCGCACCTCCCTATACTCCGAGGATGACTGCAAGAGCCTCAGAGAAGAGCCCATC
+CACATTCTGAATGTGTCCATCCAGTGTGCAGACCACCTGGAGGATGAGGCACTGGTGCCG
+ATTTTACGGACATTCGTACAGTCCAAGAAAAATATCCTTGTGGATTATGGACTCCGACGA
+ATCACATTCTTGATTGCCCAAGAGAAAGAATTTCCCAAGTTTTTCACATTCAGAGCAAGA
+GATGAGTTTGCAGAAGATCGCATTTACCGTCACTTGGAACCTGCCCTGGCCTTCCAGCTG
+GAACTTAACCGGATGCGTAACTTCGATCTGACCGCCGTGCCCTGTGCCAACCACAAGATG
+CACCTTTACCTGGGTGCTGCCAAGGTGAAGGAAGGTGTGGAAGTGACGGACCATAGGTTC
+TTCATCCGCGCCATCATCAGGCACTCTGACCTGATCACAAAGGAAGCCTCCTTCGAATAC
+CTGCAGAACGAGGGTGAGCGGCTGCTCCTGGAGGCCATGGACGAGCTGGAGGTGGCGTTC
+AATAACACCAGCGTGCGCACCGACTGCAACCACATCTTCCTCAACTTCGTGCCCACTGTC
+ATCATGGACCCCTTCAAGATCGAGGAGTCCGTGCGCTACATGGTTATGCGCTACGGCAGC
+CGGCTGTGGAAACTCCGTGTGCTACAGGCTGAGGTCAAGATCAACATCCGCCAGACCACC
+ACCGGCAGTGCCGTTCCCATCCGCCTGTTCATCACCAATGAGTCGGGCTACTACCTGGAC
+ATCAGCCTCTACAAAGAAGTGACTGACTCCAGATCTGGAAATATCATGTTTCACTCCTTC
+GGCAACAAGCAAGGGCCCCAGCACGGGATGCTGATCAATACTCCCTACGTCACCAAGGAT
+CTGCTCCAGGCCAAGCGATTCCAGGCCCAGACCCTGGGAACCACCTACATCTATGACTTC
+CCGGAAATGTTCAGGCAGGCTCTCTTTAAACTGTGGGGCTCCCCAGACAAGTATCCCAAA
+GACATCCTGACATACACTGAATTAGTGTTGGACTCTCAGGGCCAGCTGGTGGAGATGAAC
+CGACTTCCTGGTGGAAATGAGGTGGGCATGGTGGCCTTCAAAATGAGGTTTAAGACCCAG
+GAGTACCCGGAAGGACGGGATGTGATCGTCATCGGCAATGACATCACCTTTCGCATTGGA
+TCCTTTGGCCCTGGAGAGGACCTTCTGTACCTGCGGGCATCCGAGATGGCCCGGGCAGAG
+GGCATTCCCAAAATTTACGTGGCAGCCAACAGTGGCGCCCGTATTGGCATGGCAGAGGAG
+ATCAAACACATGTTCCACGTGGCTTGGGTGGACCCAGAAGACCCCCACAAAGGATTTAAA
+TACCTGTACCTGACTCCCCAAGACTACACCAGAATCAGCTCCCTGAACTCCGTCCACTGT
+AAACACATCGAGGAAGGAGGAGAGTCCAGATACATGATCACGGATATCATCGGGAAGGAT
+GATGGCTTGGGCGTGGAGAATCTGAGGGGCTCAGGCATGATTGCTGGGGAGTCCTCTCTG
+GCTTACGAAGAGATCGTCACCATTAGCTTGGTGACCTGCCGAGCCATTGGGATTGGGGCC
+TACTTGGTGAGGCTGGGCCAGCGAGTGATCCAGGTGGAGAATTCCCACATCATCCTCACA
+GGAGCAAGTGCTCTCAACAAGGTCCTGGGAAGAGAGGTCTACACATCCAACAACCAGCTG
+GGTGGCGTTCAGATCATGCATTACAATGGTGTCTCCCACATCACCGTGCCAGATGACTTT
+GAGGGGGTTTATACCATCCTGGAGTGGCTGTCCTATATGCCAAAGGATAATCACAGCCCT
+GTCCCTATCATCACACCCACTGACCCCATTGACAGAGAAATTGAATTCCTCCCATCCAGA
+GCTCCCTACGACCCCCGGTGGATGCTTGCAGGAAGGCCTCACCCAACTCTGAAGGGAACG
+TGGCAGAGCGGATTCTTTGACCACGGCAGTTTCAAGGAAATCATGGCACCCTGGGCGCAG
+ACCGTGGTGACAGGACGAGCAAGGCTTGGGGGGATTCCCGTGGGAGTGATTGCTGTGGAG
+ACACGGACTGTGGAGGTGGCAGTCCCTGCAGACCCTGCCAACCTGGATTCTGAGGCCAAG
+ATAATTCAGCAGGCAGGACAGGTGTGGTTCCCAGACTCAGCCTACAAAACCGCCCAGGCC
+GTCAAGGACTTCAACCGGGAGAAGTTGCCCCTGATGATCTTTGCCAACTGGAGGGGGTTC
+TCCGGTGGCATGAAAGACATGTATGACCAGGTGCTGAAGTTTGGAGCCTACATCGTGGAC
+GGCCTTAGACAATACAAACAGCCCATCCTGATCTATATCCCGCCCTATGCGGAGCTCCGG
+GGAGGCTCCTGGGTGGTCATAGATGCCACCATCAACCCGCTGTGCATAGAAATGTATGCA
+GACAAAGAGAGCAGGGGTGGTGTTCTGGAACCAGAGGGGACAGTGGAGATTAAGTTCCGA
+AAGAAAGATCTGATAAAGTCCATGAGAAGGATCGATCCAGCTTACAAGAAGCTCATGGAA
+CAGCTAGGGGAACCTGATCTCTCCGACAAGGACCGAAAGGACCTGGAGGGCCGGCTAAAG
+GCTCGCGAGGACCTGCTGCTCCCCATCTACCACCAGGTGGCGGTGCAGTTCGCCGACTTC
+CATGACACACCCGGCCGGATGCTGGAGAAGGGCGTCATATCTGACATCCTGGAGTGGAAG
+ACCGCACGCACCTTCCTGTATTGGCGTCTGCGCCGCCTCCTCCTGGAGGACCAGGTCAAG
+CAGGAGATCCTGCAGGCCAGCGGGGAGCTGAGTCACGTGCATATCCAGTCCATGCTGCGT
+CGCTGGTTCGTGGAGACGGAGGGGGCTGTCAAGGCCTACTTGTGGGACAACAACCAGGTG
+GTTGTGCAGTGGCTGGAACAGCACTGGCAGGCAGGGGATGGCCCGCGCTCCACCATCCGT
+GAGAACATCACGTACCTGAAGCACGACTCTGTCCTCAAGACCATCCGAGGCCTGGTTGAA
+GAAAACCCCGAGGTGGCCGTGGACTGTGTGATATACCTGAGCCAGCACATCAGCCCAGCT
+GAGCGGGCGCAGGTCGTTCACCTGCTGTCTACCATGGACAGCCCGGCCTCCACCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2458</residue_number>
+    <molecular_weight>276538.575</molecular_weight>
+    <theoretical_pi>6.488</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ACC_central</name>
+        <pfam_id>PF08326</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Biotin_carb_C</name>
+        <pfam_id>PF02785</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Biotin_lipoyl</name>
+        <pfam_id>PF00364</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Carboxyl_trans</name>
+        <pfam_id>PF01039</pfam_id>
+      </pfam>
+      <pfam>
+        <name>CPSase_L_chain</name>
+        <pfam_id>PF00289</pfam_id>
+      </pfam>
+      <pfam>
+        <name>CPSase_L_D2</name>
+        <pfam_id>PF02786</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Acetyl-CoA carboxylase 2
+MVLLLCLSCLIFSCLTFSWLKIWGKMTDSKPITKSKSEANLIPSQEPFPASDNSGETPQR
+NGEGHTLPKTPSQAEPASHKGPKDAGRRRNSLPPSHQKPPRNPLSSSDAAPSPELQANGT
+GTQGLEATDTNGLSSSARPQGQQAGSPSKEDKKQANIKRQLMTNFILGSFDDYSSDEDSV
+AGSSRESTRKGSRASLGALSLEAYLTTGEAETRVPTMRPSMSGLHLVKRGREHKKLDLHR
+DFTVASPAEFVTRFGGDRVIEKVLIANNGIAAVKCMRSIRRWAYEMFRNERAIRFVVMVT
+PEDLKANAEYIKMADHYVPVPGGPNNNNYANVELIVDIAKRIPVQAVWAGWGHASENPKL
+PELLCKNGVAFLGPPSEAMWALGDKIASTVVAQTLQVPTLPWSGSGLTVEWTEDDLQQGK
+RISVPEDVYDKGCVKDVDEGLEAAERIGFPLMIKASEGGGGKGIRKAESAEDFPILFRQV
+QSEIPGSPIFLMKLAQHARHLEVQILADQYGNAVSLFGRDCSIQRRHQKIVEEAPATIAP
+LAIFEFMEQCAIRLAKTVGYVSAGTVEYLYSQDGSFHFLELNPRLQVEHPCTEMIADVNL
+PAAQLQIAMGVPLHRLKDIRLLYGESPWGVTPISFETPSNPPLARGHVIAARITSENPDE
+GFKPSSGTVQELNFRSSKNVWGYFSVAATGGLHEFADSQFGHCFSWGENREEAISNMVVA
+LKELSIRGDFRTTVEYLINLLETESFQNNDIDTGWLDYLIAEKVQAEKPDIMLGVVCGAL
+NVADAMFRTCMTDFLHSLERGQVLPADSLLNLVDVELIYGGVKYILKVARQSLTMFVLIM
+NGCHIEIDAHRLNDGGLLLSYNGNSYTTYMKEEVDSYRITIGNKTCVFEKENDPTVLRSP
+SAGKLTQYTVEDGGHVEAGSSYAEMEVMKMIMTLNVQERGRVKYIKRPGAVLEAGCVVAR
+LELDDPSKVHPAEPFTGELPAQQTLPILGEKLHQVFHSVLENLTNVMSGFCLPEPVFSIK
+LKEWVQKLMMTLRHPSLPLLELQEIMTSVAGRIPAPVEKSVRRVMAQYASNITSVLCQFP
+SQQIATILDCHAATLQRKADREVFFINTQSIVQLVQRYRSGIRGYMKTVVLDLLRRYLRV
+EHHFQQAHYDKCVINLREQFKPDMSQVLDCIFSHAQVAKKNQLVIMLIDELCGPDPSLSD
+ELISILNELTQLSKSEHCKVALRARQILIASHLPSYELRHNQVESIFLSAIDMYGHQFCP
+ENLKKLILSETTIFDVLPTFFYHANKVVCMASLEVYVRRGYIAYELNSLQHRQLPDGTCV
+VEFQFMLPSSHPNRMTVPISITNPDLLRHSTELFMDSGFSPLCQRMGAMVAFRRFEDFTR
+NFDEVISCFANVPKDTPLFSEARTSLYSEDDCKSLREEPIHILNVSIQCADHLEDEALVP
+ILRTFVQSKKNILVDYGLRRITFLIAQEKEFPKFFTFRARDEFAEDRIYRHLEPALAFQL
+ELNRMRNFDLTAVPCANHKMHLYLGAAKVKEGVEVTDHRFFIRAIIRHSDLITKEASFEY
+LQNEGERLLLEAMDELEVAFNNTSVRTDCNHIFLNFVPTVIMDPFKIEESVRYMVMRYGS
+RLWKLRVLQAEVKINIRQTTTGSAVPIRLFITNESGYYLDISLYKEVTDSRSGNIMFHSF
+GNKQGPQHGMLINTPYVTKDLLQAKRFQAQTLGTTYIYDFPEMFRQALFKLWGSPDKYPK
+DILTYTELVLDSQGQLVEMNRLPGGNEVGMVAFKMRFKTQEYPEGRDVIVIGNDITFRIG
+SFGPGEDLLYLRASEMARAEGIPKIYVAANSGARIGMAEEIKHMFHVAWVDPEDPHKGFK
+YLYLTPQDYTRISSLNSVHCKHIEEGGESRYMITDIIGKDDGLGVENLRGSGMIAGESSL
+AYEEIVTISLVTCRAIGIGAYLVRLGQRVIQVENSHIILTGASALNKVLGREVYTSNNQL
+GGVQIMHYNGVSHITVPDDFEGVYTILEWLSYMPKDNHSPVPIITPTDPIDREIEFLPSR
+APYDPRWMLAGRPHPTLKGTWQSGFFDHGSFKEIMAPWAQTVVTGRARLGGIPVGVIAVE
+TRTVEVAVPADPANLDSEAKIIQQAGQVWFPDSAYKTAQAVKDFNREKLPLMIFANWRGF
+SGGMKDMYDQVLKFGAYIVDGLRQYKQPILIYIPPYAELRGGSWVVIDATINPLCIEMYA
+DKESRGGVLEPEGTVEIKFRKKDLIKSMRRIDPAYKKLMEQLGEPDLSDKDRKDLEGRLK
+AREDLLLPIYHQVAVQFADFHDTPGRMLEKGVISDILEWKTARTFLYWRLRRLLLEDQVK
+QEILQASGELSHVHIQSMLRRWFVETEGAVKAYLWDNNQVVVQWLEQHWQAGDGPRSTIR
+ENITYLKHDSVLKTIRGLVEENPEVAVDCVIYLSQHISPAERAQVVHLLSTMDSPAST</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>134142062</genbank_protein_id>
+  <uniprot_id>O00763</uniprot_id>
+  <uniprot_name>ACACB_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2DN8</pdb_id>
+    <pdb_id>2HJW</pdb_id>
+    <pdb_id>2KCC</pdb_id>
+    <pdb_id>3FF6</pdb_id>
+    <pdb_id>3GID</pdb_id>
+    <pdb_id>3GLK</pdb_id>
+    <pdb_id>3JRW</pdb_id>
+    <pdb_id>3JRX</pdb_id>
+    <pdb_id>3TDC</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_001093.3</genbank_gene_id>
+  <genecard_id>ACACB</genecard_id>
+  <geneatlas_id>ACACB</geneatlas_id>
+  <hgnc_id>HGNC:85</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Abu-Elheiga L, Almarza-Ortega DB, Baldini A, Wakil SJ: Human acetyl-CoA carboxylase 2. Molecular cloning, characterization, chromosomal mapping, and evidence for two isoforms. J Biol Chem. 1997 Apr 18;272(16):10669-77.</reference_text>
+      <pubmed_id>9099716</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cheng D, Chu CH, Chen L, Feder JN, Mintier GA, Wu Y, Cook JW, Harpel MR, Locke GA, An Y, Tamura JK: Expression, purification, and characterization of human and rat acetyl coenzyme A carboxylase (ACC) isozymes. Protein Expr Purif. 2007 Jan;51(1):11-21. Epub 2006 Jun 10.</reference_text>
+      <pubmed_id>16854592</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Widmer J, Fassihi KS, Schlichter SC, Wheeler KS, Crute BE, King N, Nutile-McMenemy N, Noll WW, Daniel S, Ha J, Kim KH, Witters LA: Identification of a second human acetyl-CoA carboxylase gene.  Biochem J. 1996 Jun 15;316 ( Pt 3):915-22.</reference_text>
+      <pubmed_id>8670171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cho YS, Lee JI, Shin D, Kim HT, Cheon YH, Seo CI, Kim YE, Hyun YL, Lee YS, Sugiyama K, Park SY, Ro S, Cho JM, Lee TG, Heo YS: Crystal structure of the biotin carboxylase domain of human acetyl-CoA carboxylase 2. Proteins. 2008 Jan 1;70(1):268-72.</reference_text>
+      <pubmed_id>17876819</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jones S, Zhang X, Parsons DW, Lin JC, Leary RJ, Angenendt P, Mankoo P, Carter H, Kamiyama H, Jimeno A, Hong SM, Fu B, Lin MT, Calhoun ES, Kamiyama M, Walter K, Nikolskaya T, Nikolsky Y, Hartigan J, Smith DR, Hidalgo M, Leach SD, Klein AP, Jaffee EM, Goggins M, Maitra A, Iacobuzio-Donahue C, Eshleman JR, Kern SE, Hruban RH, Karchin R, Papadopoulos N, Parmigiani G, Vogelstein B, Velculescu VE, Kinzler KW: Core signaling pathways in human pancreatic cancers revealed by global genomic analyses. Science. 2008 Sep 26;321(5897):1801-6. Epub 2008 Sep 4.</reference_text>
+      <pubmed_id>18772397</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Biotin</name>
+        <accession>HMDB00030</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Liu Y, Zalameda L, Kim KW, Wang M, McCarter JD: Discovery of acetyl-coenzyme A carboxylase 2 inhibitors: comparison of a fluorescence intensity-based phosphate assay and a fluorescence polarization-based ADP Assay for high-throughput screening. Assay Drug Dev Technol. 2007 Apr;5(2):225-35.</reference_text>
+        <pubmed_id>17477831</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

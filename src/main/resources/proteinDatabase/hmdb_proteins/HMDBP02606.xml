@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:06:35 -0700</creation_date>
+  <update_date>2013-05-27 11:23:11 -0600</update_date>
+  <accession>HMDBP02606</accession>
+  <secondary_accessions>
+    <accession>8105</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Kynurenine 3-hydroxylase</synonym>
+  </synonyms>
+  <gene_name>KMO</gene_name>
+  <general_function>Involved in monooxygenase activity</general_function>
+  <specific_function>Catalyzes the hydroxylation of L-kynurenine (L-Kyn) to form 3-hydroxy-L-kynurenine (L-3OHKyn). Required for synthesis of quinolinic acid, a neurotoxic NMDA receptor antagonist and potential endogenous inhibitor of NMDA receptor signaling in axonal targeting, synaptogenesis and apoptosis during brain development. Quinolinic acid may also affect NMDA receptor signaling in pancreatic beta cells, osteoblasts, myocardial cells, and the gastrointestinal tract.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>NAD(+) biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tryptophan metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00380</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00684</accession>
+      <name>L-Kynurenine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00732</accession>
+      <name>Hydroxykynurenine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00232</accession>
+      <name>Quinolinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11631</accession>
+      <name>L-3-Hydroxykynurenine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial outer membrane</description>
+      <go_id>GO:0005741</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavin adenine dinucleotide binding</description>
+      <go_id>GO:0050660</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>kynurenine 3-monooxygenase activity</description>
+      <go_id>GO:0004502</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD(P)H oxidase activity</description>
+      <go_id>GO:0016174</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>kynurenine metabolic process</description>
+      <go_id>GO:0070189</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>NAD biosynthetic process</description>
+      <go_id>GO:0009435</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to salt stress</description>
+      <go_id>GO:0009651</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tryptophan catabolic process</description>
+      <go_id>GO:0006569</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tryptophan catabolic process to kynurenine</description>
+      <go_id>GO:0019441</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion outer membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q42-q44</locus>
+    <gene_sequence>&gt;1461 bp
+ATGGACTCATCTGTCATTCAAAGGAAAAAAGTAGCTGTCATTGGTGGTGGCTTGGTTGGC
+TCATTACAAGCATGCTTTCTTGCAAAGAGGAATTTCCAGATTGATGTATATGAAGCTAGG
+GAAGATACTCGAGTGGCTACCTTCACACGTGGAAGAAGCATTAACTTAGCCCTTTCTCAT
+AGAGGACGACAAGCCTTGAAAGCTGTTGGCCTGGAAGATCAGATTGTATCCCAAGGTATT
+CCCATGAGAGCAAGAATGATCCACTCTCTTTCAGGAAAAAAGTCTGCAATTCCCTATGGG
+ACAAAGTCTCAGTATATTCTTTCTGTAAGCAGAGAAAATCTAAACAAGGATCTATTGACT
+GCTGCTGAGAAATACCCCAATGTGAAAATGCACTTTAACCACAGGCTGTTGAAATGTAAT
+CCAGAGGAAGGAATGATCACAGTGCTTGGATCTGACAAAGTTCCCAAAGATGTCACTTGT
+GACCTCATTGTAGGATGTGATGGAGCCTATTCAACTGTCAGATCTCACCTGATGAAGAAA
+CCTCGCTTTGATTACAGTCAGCAGTACATTCCTCATGGGTACATGGAGTTGACTATTCCA
+CCTAAGAACGGAGATTATGCCATGGAACCTAATTATCTGCATATTTGGCCTAGAAATACC
+TTTATGATGATTGCACTTCCTAACATGAACAAATCATTCACATGTACTTTGTTCATGCCC
+TTTGAAGAGTTTGAAAAACTTCTAACCAGTAATGATGTGGTAGATTTCTTCCAGAAATAC
+TTTCCGGATGCCATCCCTCTAATTGGAGAGAAACTCCTAGTGCAAGATTTCTTCCTGTTG
+CCTGCCCAGCCCATGATATCTGTAAAGTGCTCTTCATTTCACTTTAAATCTCACTGTGTA
+CTGCTGGGAGATGCAGCTCATGCTATAGTGCCGTTTTTTGGGCAAGGAATGAATGCGGGC
+TTTGAAGACTGCTTGGTATTTGATGAGTTAATGGATAAATTCAGTAACGACCTTAGTTTG
+TGTCTTCCTGTGTTCTCAAGATTGAGAATCCCAGATGATCACGCGATTTCAGACCTATCC
+ATGTACAATTACATAGAGATGCGAGCACATGTCAACTCAAGCTGGTTCATTTTTCAGAAG
+AACATGGAGAGATTTCTTCATGCGATTATGCCATCGACCTTTATCCCTCTCTATACAATG
+GTCACTTTTTCCAGAATAAGATACCATGAGGCTGTGCAGCGTTGGCATTGGCAAAAAAAG
+GTGATAAACAAAGGACTCTTTTTCTTGGGATCACTGATAGCCATCAGCAGTACCTACCTA
+CTTATACACTACATGTCACCACGATCTTTCCTCTGCTTGAGAAGACCATGGAACTGGATA
+GCTCACTTCCGGAATACAACATGTTTCCCCGCAAAGGCCGTGGACTCCCTAGAACAAATT
+TCCAATCTCATTAGCAGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>486</residue_number>
+    <molecular_weight>55809.445</molecular_weight>
+    <theoretical_pi>9.032</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAD_binding_3</name>
+        <pfam_id>PF01494</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Kynurenine 3-monooxygenase
+MDSSVIQRKKVAVIGGGLVGSLQACFLAKRNFQIDVYEAREDTRVATFTRGRSINLALSH
+RGRQALKAVGLEDQIVSQGIPMRARMIHSLSGKKSAIPYGTKSQYILSVSRENLNKDLLT
+AAEKYPNVKMHFNHRLLKCNPEEGMITVLGSDKVPKDVTCDLIVGCDGAYSTVRSHLMKK
+PRFDYSQQYIPHGYMELTIPPKNGDYAMEPNYLHIWPRNTFMMIALPNMNKSFTCTLFMP
+FEEFEKLLTSNDVVDFFQKYFPDAIPLIGEKLLVQDFFLLPAQPMISVKCSSFHFKSHCV
+LLGDAAHAIVPFFGQGMNAGFEDCLVFDELMDKFSNDLSLCLPVFSRLRIPDDHAISDLS
+MYNYIEMRAHVNSSWFIFQKNMERFLHAIMPSTFIPLYTMVTFSRIRYHEAVQRWHWQKK
+VINKGLFFLGSLIAISSTYLLIHYMSPRSFLRLRRPWNWIAHFRNTTCFPAKAVDSLEQI
+SNLISR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2239124</genbank_protein_id>
+  <uniprot_id>O15229</uniprot_id>
+  <uniprot_name>KMO_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>Y13153</genbank_gene_id>
+  <genecard_id>KMO</genecard_id>
+  <geneatlas_id>KMO</geneatlas_id>
+  <hgnc_id>HGNC:6381</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Alberati-Giani D, Cesura AM, Broger C, Warren WD, Rover S, Malherbe P: Cloning and functional expression of human kynurenine 3-monooxygenase.  FEBS Lett. 1997 Jun 30;410(2-3):407-12.</reference_text>
+      <pubmed_id>9237672</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Breton J, Avanzi N, Magagnin S, Covini N, Magistrelli G, Cozzi L, Isacchi A: Functional characterization and mechanism of action of recombinant human kynurenine 3-hydroxylase. Eur J Biochem. 2000 Feb;267(4):1092-9.</reference_text>
+      <pubmed_id>10672018</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stone TW, Darlington LG: Endogenous kynurenines as targets for drug discovery and development.  Nat Rev Drug Discov. 2002 Aug;1(8):609-20.</reference_text>
+      <pubmed_id>12402501</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

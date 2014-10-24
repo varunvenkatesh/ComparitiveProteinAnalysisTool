@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:04:16 -0700</creation_date>
+  <update_date>2013-01-15 20:04:16 -0700</update_date>
+  <accession>HMDBP07938</accession>
+  <secondary_accessions>
+    <accession>13649</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>PGE receptor EP3 subtype</synonym>
+    <synonym>PGE2 receptor EP3 subtype</synonym>
+    <synonym>PGE2-R</synonym>
+    <synonym>Prostanoid EP3 receptor</synonym>
+  </synonyms>
+  <gene_name>PTGER3</gene_name>
+  <general_function>Involved in G-protein coupled receptor protein signaling pathway</general_function>
+  <specific_function>Receptor for prostaglandin E2 (PGE2); the EP3 receptor may be involved in inhibition of gastric acid secretion, modulation of neurotransmitter release in central and peripheral neurons, inhibition of sodium and water reabsorption in kidney tubulus and contraction in uterine smooth muscle. The activity of this receptor can couple to both the inhibition of adenylate cyclase mediated by G-I proteins, and to an elevation of intracellular calcium. The various isoforms have identical ligand binding properties but can interact with different second messenger systems</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01220</accession>
+      <name>Prostaglandin E2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15041</accession>
+      <name>Bimatoprost</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15064</accession>
+      <name>Misoprostol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>g-protein coupled receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>icosanoid receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>prostanoid receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>prostaglandin receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>prostaglandin e receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell surface receptor linked signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>g-protein coupled receptor protein signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1p31.2</locus>
+    <gene_sequence>&gt;1173 bp
+ATGAAGGAGACCCGGGGCTACGGAGGGGATGCCCCCTTCTGCACCCGCCTCAACCACTCC
+TACACAGGCATGTGGGCGCCCGAGCGTTCCGCCGAGGCGCGGGGCAACCTCACGCGCCCT
+CCAGGGTCTGGCGAGGATTGCGGATCGGTGTCCGTGGCCTTCCCGATCACCATGCTGCTC
+ACTGGTTTCGTGGGCAACGCACTGGCCATGCTGCTCGTGTCGCGCAGCTACCGGCGCCGG
+GAGAGCAAGCGCAAGAAGTCCTTCCTGCTGTGCATCGGCTGGCTGGCGCTCACCGACCTG
+GTCGGGCAGCTTCTCACCACCCCGGTCGTCATCGTCGTGTACCTGTCCAAGCAGCGTTGG
+GAGCACATCGACCCGTCGGGGCGGCTCTGCACCTTTTTCGGGCTGACCATGACTGTTTTC
+GGGCTCTCCTCGTTGTTCATCGCCAGCGCCATGGCCGTCGAGCGGGCGCTGGCCATCAGG
+GCGCCGCACTGGTATGCGAGCCACATGAAGACGCGTGCCACCCGCGCTGTGCTGCTCGGC
+GTGTGGCTGGCCGTGCTCGCCTTCGCCCTGCTGCCGGTGCTGGGCGTGGGCCAGTACACC
+GTCCAGTGGCCCGGGACGTGGTGCTTCATCAGCACCGGGCGAGGGGGCAACGGGACTAGC
+TCTTCGCATAACTGGGGCAACCTTTTCTTCGCCTCTGCCTTTGCCTTCCTGGGGCTCTTG
+GCGCTGACAGTCACCTTTTCCTGCAACCTGGCCACCATTAAGGCCCTGGTGTCCCGCTGC
+CGGGCCAAGGCCACGGCATCTCAGTCCAGTGCCCAGTGGGGCCGCATCACGACCGAGACG
+GCCATTCAGCTTATGGGGATCATGTGCGTGCTGTCGGTCTGCTGGTCTCCGCTCCTGATA
+ATGATGTTGAAAATGATCTTCAATCAGACATCAGTTGAGCACTGCAAGACACACACGGAG
+AAGCAGAAAGAATGCAACTTCTTCTTAATAGCTGTTCGCCTGGCTTCACTGAACCAGATC
+TTGGATCCTTGGGTTTACCTGCTGTTAAGAAAGATCCTTCTTCGAAAGTTTTGCCAGATC
+AGGTACCACACAAACAACTATGCATCCAGCTCCACCTCCTTACCCTGCCAGTGTTCCTCA
+ACCTTGATGTGGAGCGACCATTTGGAAAGATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>390</residue_number>
+    <molecular_weight>43309.3</molecular_weight>
+    <theoretical_pi>10.05</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>7tm_1</name>
+        <pfam_id>PF00001</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>54-78</region>
+      <region>92-112</region>
+      <region>132-153</region>
+      <region>176-197</region>
+      <region>228-253</region>
+      <region>284-307</region>
+      <region>328-349</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Prostaglandin E2 receptor EP3 subtype
+MKETRGYGGDAPFCTRLNHSYTGMWAPERSAEARGNLTRPPGSGEDCGSVSVAFPITMLL
+TGFVGNALAMLLVSRSYRRRESKRKKSFLLCIGWLALTDLVGQLLTTPVVIVVYLSKQRW
+EHIDPSGRLCTFFGLTMTVFGLSSLFIASAMAVERALAIRAPHWYASHMKTRATRAVLLG
+VWLAVLAFALLPVLGVGQYTVQWPGTWCFISTGRGGNGTSSSHNWGNLFFASAFAFLGLL
+ALTVTFSCNLATIKALVSRCRAKATASQSSAQWGRITTETAIQLMGIMCVLSVCWSPLLI
+MMLKMIFNQTSVEHCKTHTEKQKECNFFLIAVRLASLNQILDPWVYLLLRKILLRKFCQI
+RYHTNNYASSSTSLPCQCSSTLMWSDHLER</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>186659506</genbank_protein_id>
+  <uniprot_id>P43115</uniprot_id>
+  <uniprot_name>PE2R3_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001126044.1</genbank_gene_id>
+  <genecard_id>PTGER3</genecard_id>
+  <geneatlas_id>PTGER3</geneatlas_id>
+  <hgnc_id>HGNC:9595</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Adam M, Boie Y, Rushmore TH, Muller G, Bastien L, McKee KT, Metters KM, Abramovitz M: Cloning and expression of three isoforms of the human EP3 prostanoid receptor. FEBS Lett. 1994 Jan 31;338(2):170-4.</reference_text>
+      <pubmed_id>8307176</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schmid A, Thierauch KH, Schleuning WD, Dinter H: Splice variants of the human EP3 receptor for prostaglandin E2.  Eur J Biochem. 1995 Feb 15;228(1):23-30.</reference_text>
+      <pubmed_id>7883006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang J, Xia M, Goetzl EJ, An S: Cloning and expression of the EP3-subtype of human receptors for prostaglandin E2. Biochem Biophys Res Commun. 1994 Feb 15;198(3):999-1006.</reference_text>
+      <pubmed_id>8117308</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kunapuli SP, Fen Mao G, Bastepe M, Liu-Chen LY, Li S, Cheung PP, DeRiel JK, Ashby B: Cloning and expression of a prostaglandin E receptor EP3 subtype from human erythroleukaemia cells. Biochem J. 1994 Mar 1;298 ( Pt 2):263-7.</reference_text>
+      <pubmed_id>8135729</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>An S, Yang J, So SW, Zeng L, Goetzl EJ: Isoforms of the EP3 subtype of human prostaglandin E2 receptor transduce both intracellular calcium and cAMP signals. Biochemistry. 1994 Dec 6;33(48):14496-502.</reference_text>
+      <pubmed_id>7981210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kotani M, Tanaka I, Ogawa Y, Usui T, Mori K, Ichikawa A, Narumiya S, Yoshimi T, Nakao K: Molecular cloning and expression of multiple isoforms of human prostaglandin E receptor EP3 subtype generated by alternative messenger RNA splicing: multiple second messenger systems and tissue-specific distributions. Mol Pharmacol. 1995 Nov;48(5):869-79.</reference_text>
+      <pubmed_id>7476918</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Regan JW, Bailey TJ, Donello JE, Pierce KL, Pepperl DJ, Zhang D, Kedzie KM, Fairbairn CE, Bogardus AM, Woodward DF, et al.: Molecular cloning and expression of human EP3 receptors: evidence of three variants with differing carboxyl termini. Br J Pharmacol. 1994 Jun;112(2):377-85.</reference_text>
+      <pubmed_id>8075855</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kotani M, Tanaka I, Ogawa Y, Usui T, Tamura N, Mori K, Narumiya S, Yoshimi T, Nakao K: Structural organization of the human prostaglandin EP3 receptor subtype gene (PTGER3). Genomics. 1997 Mar 15;40(3):425-34.</reference_text>
+      <pubmed_id>9073510</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goshima N, Kawamura Y, Fukumoto A, Miura A, Honma R, Satoh R, Wakamatsu A, Yamamoto J, Kimura K, Nishikawa T, Andoh T, Iida Y, Ishikawa K, Ito E, Kagawa N, Kaminaga C, Kanehori K, Kawakami B, Kenmochi K, Kimura R, Kobayashi M, Kuroita T, Kuwayama H, Maruyama Y, Matsuo K, Minami K, Mitsubori M, Mori M, Morishita R, Murase A, Nishikawa A, Nishikawa S, Okamoto T, Sakagami N, Sakamoto Y, Sasaki Y, Seki T, Sono S, Sugiyama A, Sumiya T, Takayama T, Takayama Y, Takeda H, Togashi T, Yahata K, Yamada H, Yanagisawa Y, Endo Y, Imamoto F, Kisu Y, Tanaka S, Isogai T, Imai J, Watanabe S, Nomura N: Human protein factory for converting the transcriptome into an in vitro-expressed proteome,. Nat Methods. 2008 Dec;5(12):1011-7.</reference_text>
+      <pubmed_id>19054851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kotelevets L, Foudi N, Louedec L, Couvelard A, Chastre E, Norel X: A new mRNA splice variant coding for the human EP3-I receptor isoform.  Prostaglandins Leukot Essent Fatty Acids. 2007 Oct-Nov;77(3-4):195-201.       Epub 2007 Nov 19.</reference_text>
+      <pubmed_id>18023986</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bimatoprost</name>
+        <accession>HMDB15041</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sharif NA, Kelly CR, Crider JY, Williams GW, Xu SX: Ocular hypotensive FP prostaglandin (PG) analogs: PG receptor subtype binding affinities and selectivities, and agonist potencies at FP and other PG receptors in cultured cells. J Ocul Pharmacol Ther. 2003 Dec;19(6):501-15.</reference_text>
+        <pubmed_id>14733708</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bimatoprost</name>
+        <accession>HMDB15041</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gabelt BT, Hennes EA, Bendel MA, Constant CE, Okka M, Kaufman PL: Prostaglandin subtype-selective and non-selective IOP-lowering comparison in monkeys. J Ocul Pharmacol Ther. 2009 Feb;25(1):1-8.</reference_text>
+        <pubmed_id>19232013</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bimatoprost</name>
+        <accession>HMDB15041</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ota T, Aihara M, Saeki T, Narumiya S, Araie M: The effects of prostaglandin analogues on prostanoid EP1, EP2, and EP3 receptor-deficient mice. Invest Ophthalmol Vis Sci. 2006 Aug;47(8):3395-9.</reference_text>
+        <pubmed_id>16877408</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Misoprostol</name>
+        <accession>HMDB15064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nakae K, Hayashi F, Hayashi M, Yamamoto N, Iino T, Yoshikawa S, Gupta J: Functional role of prostacyclin receptor in rat dorsal root ganglion neurons.  Neurosci Lett. 2005 Nov 18;388(3):132-7.</reference_text>
+        <pubmed_id>16039053</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Misoprostol</name>
+        <accession>HMDB15064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Li J, Liang X, Wang Q, Breyer RM, McCullough L, Andreasson K: Misoprostol, an anti-ulcer agent and PGE2 receptor agonist, protects against cerebral ischemia. Neurosci Lett. 2008 Jun 20;438(2):210-5. Epub 2008 Apr 20.</reference_text>
+        <pubmed_id>18472336</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Misoprostol</name>
+        <accession>HMDB15064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Guan Y, Stillman BA, Zhang Y, Schneider A, Saito O, Davis LS, Redha R, Breyer RM, Breyer MD: Cloning and expression of the rabbit prostaglandin EP2 receptor.  BMC Pharmacol. 2002 Jun 27;2:14.</reference_text>
+        <pubmed_id>12097143</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Misoprostol</name>
+        <accession>HMDB15064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kiriyama M, Ushikubi F, Kobayashi T, Hirata M, Sugimoto Y, Narumiya S: Ligand binding specificities of the eight types and subtypes of the mouse prostanoid receptors expressed in Chinese hamster ovary cells. Br J Pharmacol. 1997 Sep;122(2):217-24.</reference_text>
+        <pubmed_id>9313928</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Misoprostol</name>
+        <accession>HMDB15064</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nataraj C, Thomas DW, Tilley SL, Nguyen MT, Mannon R, Koller BH, Coffman TM: Receptors for prostaglandin E(2) that regulate cellular immune responses in the mouse. J Clin Invest. 2001 Oct;108(8):1229-35.</reference_text>
+        <pubmed_id>11602631</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:37:14 -0600</creation_date>
+  <update_date>2013-05-27 11:37:14 -0600</update_date>
+  <accession>HMDBP11971</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>TER ATPase</synonym>
+    <synonym>15S Mg(2+)-ATPase p97 subunit</synonym>
+    <synonym>Valosin-containing protein</synonym>
+    <synonym>VCP</synonym>
+  </synonyms>
+  <gene_name>VCP</gene_name>
+  <general_function/>
+  <specific_function>Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. The ternary complex containing UFD1L, VCP and NPLOC4 binds ubiquitinated proteins and is necessary for the export of misfolded proteins from the ER to the cytoplasm, where they are degraded by the proteasome. The NPLOC4-UFD1L-VCP complex regulates spindle disassembly at the end of mitosis and is necessary for the formation of a closed nuclear envelope. Regulates E3 ubiquitin-protein ligase activity of RNF19A (By similarity). Component of the VCP/p97-AMFR/gp78 complex that participates in the final step of the sterol-mediated ubiquitination and endoplasmic reticulum-associated degradation (ERAD) of HMGCR. Also involved in DNA damage response: recruited to double-strand breaks (DSBs) sites in a RNF8- and RNF168-dependent manner and promotes the recruitment of TP53BP1 at DNA damage sites. Recruited to stalled replication forks by SPRTN: may act by mediating extraction of DNA polymerase eta (POLH) to prevent excessive translesion DNA synthesis and limit the incidence of mutations induced by DNA damage.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Protein processing in endoplasmic reticulum</name>
+      <smpdb_id/>
+      <kegg_map_id>map04141</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Legionellosis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05134</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum</description>
+      <go_id>GO:0005783</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>activation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+      <go_id>GO:0006919</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein N-linked glycosylation via asparagine</description>
+      <go_id>GO:0018279</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homooligomerization</description>
+      <go_id>GO:0051260</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATPase activity</description>
+      <go_id>GO:0016887</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>endoplasmic reticulum unfolded protein response</description>
+      <go_id>GO:0030968</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>double-strand break repair</description>
+      <go_id>GO:0006302</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>translesion synthesis</description>
+      <go_id>GO:0019985</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of proteasomal ubiquitin-dependent protein catabolic process</description>
+      <go_id>GO:0032436</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>lipid binding</description>
+      <go_id>GO:0008289</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ER-associated protein catabolic process</description>
+      <go_id>GO:0030433</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein ubiquitination</description>
+      <go_id>GO:0016567</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>site of double-strand break</description>
+      <go_id>GO:0035861</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ER to Golgi vesicle-mediated transport</description>
+      <go_id>GO:0006888</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>proteasome complex</description>
+      <go_id>GO:0000502</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>polyubiquitin binding</description>
+      <go_id>GO:0031593</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>aggresome assembly</description>
+      <go_id>GO:0070842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of protein complex assembly</description>
+      <go_id>GO:0031334</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retrograde protein transport, ER to cytosol</description>
+      <go_id>GO:0030970</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9p13.3</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>89320.885</molecular_weight>
+    <theoretical_pi>5.267</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|6005942|ref|NP_009057.1| transitional endoplasmic reticulum ATPase [Homo sapiens]
+MASGADSKGDDLSTAILKQKNRPNRLIVDEAINEDNSVVSLSQPKMDELQLFRGDTVLLK
+GKKRREAVCI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P55072</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>3EBB</pdb_id>
+    <pdb_id>3HU1</pdb_id>
+    <pdb_id>3HU2</pdb_id>
+    <pdb_id>3HU3</pdb_id>
+    <pdb_id>3QC8</pdb_id>
+    <pdb_id>3QQ7</pdb_id>
+    <pdb_id>3QQ8</pdb_id>
+    <pdb_id>3QWZ</pdb_id>
+    <pdb_id>3TIW</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:12666</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

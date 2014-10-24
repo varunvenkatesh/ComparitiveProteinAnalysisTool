@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:52 -0700</creation_date>
+  <update_date>2013-05-27 11:06:26 -0600</update_date>
+  <accession>HMDBP00077</accession>
+  <secondary_accessions>
+    <accession>5306</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>NADPH-dependent carbonyl reductase 3</synonym>
+  </synonyms>
+  <gene_name>CBR3</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Has low NADPH-dependent oxidoreductase activity towards 4-benzoylpyridine and menadione (in vitro).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Arachidonic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00590</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Metabolism of xenobiotics by cytochrome P450</name>
+      <smpdb_id/>
+      <kegg_map_id>map00980</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01139</accession>
+      <name>Prostaglandin F2a</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01220</accession>
+      <name>Prostaglandin E2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11603</accession>
+      <name>4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone </name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41809</accession>
+      <name>4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3-keto sterol reductase activity</description>
+      <go_id>GO:0000253</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carbonyl reductase (NADPH) activity</description>
+      <go_id>GO:0004090</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NADPH binding</description>
+      <go_id>GO:0070402</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phylloquinone catabolic process</description>
+      <go_id>GO:0042376</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>21</chromosome_location>
+    <locus>21q22.2</locus>
+    <gene_sequence>&gt;834 bp
+ATGTCGTCCGGCATCCATGTAGCGCTGGTGACTGGAGGCAACAAGGGCATCGGCTTGGCC
+ATCGTGCGCGACCTGTGCCGGCTGTTCTCGGGGGACGTGGTGCTCACGGCGCGGGACGTG
+ACGCGGGGCCAGGCGGCCGTACAGCAGCTGCAGGCGGAGGGCCTGAGCCCGCGCTTCCAC
+CAGCTGGACATCGACGATCTGCAGAGCATCCGCGCCCTGCGCGACTTCCTGCGCAAGGAG
+TACGGGGGCCTGGACGTGCTGGTCAACAACGCGGGCATCGCCTTCAAGGTTGCTGATCCC
+ACACCCTTTCATATTCAAGCTGAAGTGACGATGAAAACAAATTTCTTTGGTACCCGAGAT
+GTGTGCACAGAATTACTCCCTCTAATAAAACCCCAAGGGAGAGTGGTGAACGTATCTAGC
+ATCATGAGCGTCAGAGCCCTTAAAAGCTGCAGCCCAGAGCTGCAGCAGAAGTTCCGCAGT
+GAGACCATCACTGAGGAGGAGCTGGTGGGGCTCATGAACAAGTTTGTGGAGGATACAAAG
+AAGGGAGTGCACCAGAAGGAGGGCTGGCCCAGCAGCGCATACGGGGTGACGAAGATTGGC
+GTCACCGTTCTGTCCAGGATCCACGCCAGGAAACTGAGTGAGCAGAGGAAAGGGGACAAG
+ATCCTCCTGAATGCCTGCTGCCCAGGGTGGGTGAGAACTGACATGGCGGGACCCAAGGCC
+ACCAAGAGCCCAGAAGAAGGTGCAGAGACCCCTGTGTACTTGGCCCTTTTGCCCCCAGAT
+GCTGAGGGTCCCCATGGACAATTTGTTTCAGAGAAGAGAGTTGAACAGTGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>277</residue_number>
+    <molecular_weight>30849.97</molecular_weight>
+    <theoretical_pi>6.172</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>adh_short</name>
+        <pfam_id>PF00106</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Carbonyl reductase [NADPH] 3
+MSSCSRVALVTGANRGIGLAIARELCRQFSGDVVLTARDVARGQAAVQQLQAEGLSPRFH
+QLDIDDLQSIRALRDFLRKEYGGLNVLVNNAAVAFKSDDPMPFDIKAEMTLKTNFFATRN
+MCNELLPIMKPHGRVVNISSLQCLRAFENCSEDLQERFHSETLTEGDLVDLMKKFVEDTK
+NEVHEREGWPNSPYGVSKLGVTVLSRILARRLDEKRKADRILVNACCPGPVKTDMDGKDS
+IRTVEEGAETPVYLALLPPDATEPQGQLVHDKVVQNW</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3702679</genbank_protein_id>
+  <uniprot_id>O75828</uniprot_id>
+  <uniprot_name>CBR3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2HRB</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB003151</genbank_gene_id>
+  <genecard_id>CBR3</genecard_id>
+  <geneatlas_id>CBR3</geneatlas_id>
+  <hgnc_id>HGNC:1549</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Watanabe K, Sugawara C, Ono A, Fukuzumi Y, Itakura S, Yamazaki M, Tashiro H, Osoegawa K, Soeda E, Nomura T: Mapping of a novel human carbonyl reductase, CBR3, and ribosomal pseudogenes to human chromosome 21q22.2. Genomics. 1998 Aug 15;52(1):95-100.</reference_text>
+      <pubmed_id>9740676</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hattori M, Fujiyama A, Taylor TD, Watanabe H, Yada T, Park HS, Toyoda A, Ishii K, Totoki Y, Choi DK, Groner Y, Soeda E, Ohki M, Takagi T, Sakaki Y, Taudien S, Blechschmidt K, Polley A, Menzel U, Delabar J, Kumpf K, Lehmann R, Patterson D, Reichwald K, Rump A, Schillhabel M, Schudy A, Zimmermann W, Rosenthal A, Kudoh J, Schibuya K, Kawasaki K, Asakawa S, Shintani A, Sasaki T, Nagamine K, Mitsuyama S, Antonarakis SE, Minoshima S, Shimizu N, Nordsiek G, Hornischer K, Brant P, Scharfe M, Schon O, Desario A, Reichelt J, Kauer G, Blocker H, Ramser J, Beck A, Klages S, Hennig S, Riesselmann L, Dagand E, Haaf T, Wehrmeyer S, Borzym K, Gardiner K, Nizetic D, Francis F, Lehrach H, Reinhardt R, Yaspo ML: The DNA sequence of human chromosome 21.  Nature. 2000 May 18;405(6784):311-9.</reference_text>
+      <pubmed_id>10830953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Miura T, Nishinaka T, Terada T: Different functions between human monomeric carbonyl reductase 3 and carbonyl reductase 1. Mol Cell Biochem. 2008 Aug;315(1-2):113-21. Epub 2008 May 21.</reference_text>
+      <pubmed_id>18493841</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lakhman SS, Ghosh D, Blanco JG: Functional significance of a natural allelic variant of human carbonyl reductase 3 (CBR3). Drug Metab Dispos. 2005 Feb;33(2):254-7. Epub 2004 Nov 10.</reference_text>
+      <pubmed_id>15537833</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

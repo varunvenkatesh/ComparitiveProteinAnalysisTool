@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:53 -0700</creation_date>
+  <update_date>2013-05-27 11:29:49 -0600</update_date>
+  <accession>HMDBP00609</accession>
+  <secondary_accessions>
+    <accession>5881</accession>
+    <accession>HMDBP04374</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DPDE4</synonym>
+    <synonym>PDE32</synonym>
+  </synonyms>
+  <gene_name>PDE4B</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>3',5'-cyclic AMP degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Morphine addiction</name>
+      <smpdb_id/>
+      <kegg_map_id>map05032</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01314</accession>
+      <name>Cyclic GMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01847</accession>
+      <name>Caffeine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01889</accession>
+      <name>Theophylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14789</accession>
+      <name>Dyphylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14944</accession>
+      <name>Pentoxifylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14962</accession>
+      <name>Enprofylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15056</accession>
+      <name>Ketotifen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15220</accession>
+      <name>Iloprost</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15245</accession>
+      <name>Papaverine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02825</accession>
+      <name>Theobromine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15496</accession>
+      <name>Amrinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15614</accession>
+      <name>Ibudilast</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric diester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3',5'-cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3',5'-cyclic-AMP phosphodiesterase activity</description>
+      <go_id>GO:0004115</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cAMP catabolic process</description>
+      <go_id>GO:0006198</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>signal transduction</description>
+      <go_id>GO:0007165</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p31</locus>
+    <gene_sequence>&gt;2211 bp
+ATGAAGAAAAGCAGGAGTGTGATGACGGTGATGGCTGATGATAATGTTAAAGATTATTTT
+GAATGTAGCTTGAGTAAATCCTACAGTTCTTCCAGTAACACACTTGGGATCGACCTCTGG
+AGAGGGAGAAGGTGTTGCTCAGGAAACTTACAGTTACCACCACTGTCTCAAAGACAGAGT
+GAAAGGGCAAGGACTCCTGAGGGAGATGGTATTTCCAGGCCGACCACACTGCCTTTGACA
+ACGCTTCCAAGCATTGCTATTACAACTGTAAGCCAGGAGTGCTTTGATGTGGAAAATGGC
+CCTTCCCCAGGTCGGAGTCCACTGGATCCCCAGGCCAGCTCTTCCGCTGGGCTGGTACTT
+CACGCCACCTTTCCTGGGCACAGCCAGCGCAGAGAGTCATTTCTCTACAGATCAGACAGC
+GACTATGACTTGTCACCAAAGGCGATGTCGAGAAACTCTTCTCTTCCAAGCGAGCAACAC
+GGCGATGACTTGATTGTAACTCCTTTTGCCCAGGTCCTTGCCAGCTTGCGAAGTGTGAGA
+AACAACTTCACTATACTGACAAACCTTCATGGTACATCTAACAAGAGGTCCCCAGCTGCT
+AGTCAGCCTCCTGTCTCCAGAGTCAACCCACAAGAAGAATCTTATCAAAAATTAGCAATG
+GAAACGCTGGAGGAATTAGACTGGTGTTTAGACCAGCTAGAGACCATACAGACCTACCGG
+TCTGTCAGTGAGATGGCTTCTAACAAGTTCAAAAGAATGCTGAACCGGGAGCTGACACAC
+CTCTCAGAGATGAGCCGATCAGGGAACCAGGTGTCTGAATACATTTCAAATACTTTCTTA
+GACAAGCAGAATGATGTGGAGATCCCATCTCCTACCCAGAAAGACAGGGAGAAAAAGAAA
+AAGCAGCAGCTCATGACCCAGATAAGTGGAGTGAAGAAATTAATGCATAGTTCAAGCCTA
+AACAATACAAGCATCTCACGCTTTGGAGTCAACACTGAAAATGAAGATCACCTGGCCAAG
+GAGCTGGAAGACCTGAACAAATGGGGTCTTAACATCTTTAATGTGGCTGGATATTCTCAC
+AATAGACCCCTAACATGCATCATGTATGCTATATTCCAGGAAAGAGACCTCCTAAAGACA
+TTCAGAATCTCATCTGACACATTTATAACCTACATGATGACTTTAGAAGACCATTACCAT
+TCTGACGTGGCATATCACAACAGCCTGCACGCTGCTGATGTAGCCCAGTCGACCCATGTT
+CTCCTTTCTACACCAGCATTAGACGCTGTCTTCACAGATTTGGAGATCCTGGCTGCCATT
+TTTGCAGCTGCCATCCATGACGTTGATCATCCTGGAGTCTCCAATCAGTTTCTCATCAAC
+ACAAATTCAGAACTTGCTTTGATGTATAATGATGAATCTGTGTTGGAAAATCATCACCTT
+GCTGTGGGTTTCAAACTGCTGCAAGAAGAACACTGTGACATCTTCATGAATCTCACCAAG
+AAGCAGCGTCAGACACTCAGGAAGATGGTTATTGACATGGTGTTAGCAACTGATATGTCT
+AAACATATGAGCCTGCTGGCAGACCTGAAGACAATGGTAGAAACGAAGAAAGTTACAAGT
+TCAGGCGTTCTTCTCCTAGACAACTATACCGATCGCATTCAGGTCCTTCGCAACATGGTA
+CACTGTGCAGACCTGAGCAACCCCACCAAGTCCTTGGAATTGTATCGGCAATGGACAGAC
+CGCATCATGGAGGAATTTTTCCAGCAGGGAGACAAAGAGCGGGAGAGGGGAATGGAAATT
+AGCCCAATGTGTGATAAACACACAGCTTCTGTGGAAAAATCCCAGGTTGGTTTCATCGAC
+TACATTGTCCATCCATTGTGGGAGACATGGGCAGATTTGGTACAGCCTGATGCTCAGGAC
+ATTCTCGATACCTTAGAAGATAACAGGAACTGGTATCAGAGCATGATACCTCAAAGTCCC
+TCACCACCACTGGACGAGCAGAACAGGGACTGCCAGGGTCTGATGGAGAAGTTTCAGTTT
+GAACTGACTCTCGATGAGGAAGATTCTGAAGGACCTGAGAAGGAGGGAGAGGGACACAGC
+TATTTCAGCAGCACAAAGACGCTTTGTGTGATTGATCCAGAAAACAGAGATTCCCTGGGA
+GAGACTGACATAGACATTGCAACAGAAGACAAGTCCCCCGTGGATACATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>736</residue_number>
+    <molecular_weight>64351.765</molecular_weight>
+    <theoretical_pi>4.916</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PDEase_I</name>
+        <pfam_id>PF00233</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;cAMP-specific 3',5'-cyclic phosphodiesterase 4B
+MKKSRSVMTVMADDNVKDYFECSLSKSYSSSSNTLGIDLWRGRRCCSGNLQLPPLSQRQS
+ERARTPEGDGISRPTTLPLTTLPSIAITTVSQECFDVENGPSPGRSPLDPQASSSAGLVL
+HATFPGHSQRRESFLYRSDSDYDLSPKAMSRNSSLPSEQHGDDLIVTPFAQVLASLRSVR
+NNFTILTNLHGTSNKRSPAASQPPVSRVNPQEESYQKLAMETLEELDWCLDQLETIQTYR
+SVSEMASNKFKRMLNRELTHLSEMSRSGNQVSEYISNTFLDKQNDVEIPSPTQKDREKKK
+KQQLMTQISGVKKLMHSSSLNNTSISRFGVNTENEDHLAKELEDLNKWGLNIFNVAGYSH
+NRPLTCIMYAIFQERDLLKTFRISSDTFITYMMTLEDHYHSDVAYHNSLHAADVAQSTHV
+LLSTPALDAVFTDLEILAAIFAAAIHDVDHPGVSNQFLINTNSELALMYNDESVLENHHL
+AVGFKLLQEEHCDIFMNLTKKQRQTLRKMVIDMVLATDMSKHMSLLADLKTMVETKKVTS
+SGVLLLDNYTDRIQVLRNMVHCADLSNPTKSLELYRQWTDRIMEEFFQQGDKERERGMEI
+SPMCDKHTASVEKSQVGFIDYIVHPLWETWADLVQPDAQDILDTLEDNRNWYQSMIPQSP
+SPPLDEQNRDCQGLMEKFQFELTLDEEDSEGPEKEGEGHSYFSSTKTLCVIDPENRDSLG
+ETDIDIATEDKSPVDT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q07343</uniprot_id>
+  <uniprot_name>PDE4B_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1F0J</pdb_id>
+    <pdb_id>1JP1</pdb_id>
+    <pdb_id>1JP2</pdb_id>
+    <pdb_id>1RO6</pdb_id>
+    <pdb_id>1RO9</pdb_id>
+    <pdb_id>1ROR</pdb_id>
+    <pdb_id>1TB5</pdb_id>
+    <pdb_id>1XLX</pdb_id>
+    <pdb_id>1XLZ</pdb_id>
+    <pdb_id>1XM4</pdb_id>
+    <pdb_id>1XM6</pdb_id>
+    <pdb_id>1XMU</pdb_id>
+    <pdb_id>1XMY</pdb_id>
+    <pdb_id>1XN0</pdb_id>
+    <pdb_id>1XOS</pdb_id>
+    <pdb_id>1XOT</pdb_id>
+    <pdb_id>1Y2H</pdb_id>
+    <pdb_id>1Y2J</pdb_id>
+    <pdb_id>2CHM</pdb_id>
+    <pdb_id>2QYL</pdb_id>
+    <pdb_id>3D3P</pdb_id>
+    <pdb_id>3FRG</pdb_id>
+    <pdb_id>3G45</pdb_id>
+    <pdb_id>3GWT</pdb_id>
+    <pdb_id>3HC8</pdb_id>
+    <pdb_id>3HDZ</pdb_id>
+    <pdb_id>3HMV</pdb_id>
+    <pdb_id>3KKT</pdb_id>
+    <pdb_id>3LY2</pdb_id>
+    <pdb_id>3O0J</pdb_id>
+    <pdb_id>3O56</pdb_id>
+    <pdb_id>3O57</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>L20966</genbank_gene_id>
+  <genecard_id>PDE4B</genecard_id>
+  <geneatlas_id>PDE4B</geneatlas_id>
+  <hgnc_id>HGNC:8781</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Bolger G, Michaeli T, Martins T, St John T, Steiner B, Rodgers L, Riggs M, Wigler M, Ferguson K: A family of human phosphodiesterases homologous to the dunce learning and memory gene product of Drosophila melanogaster are potential targets for antidepressant drugs. Mol Cell Biol. 1993 Oct;13(10):6558-71.</reference_text>
+      <pubmed_id>8413254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huston E, Lumb S, Russell A, Catterall C, Ross AH, Steele MR, Bolger GB, Perry MJ, Owens RJ, Houslay MD: Molecular cloning and transient expression in COS7 cells of a novel human PDE4B cAMP-specific phosphodiesterase, HSPDE4B3. Biochem J. 1997 Dec 1;328 ( Pt 2):549-58.</reference_text>
+      <pubmed_id>9371714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McLaughlin MM, Cieslinski LB, Burman M, Torphy TJ, Livi GP: A low-Km, rolipram-sensitive, cAMP-specific phosphodiesterase from human brain. Cloning and expression of cDNA, biochemical characterization of recombinant protein, and tissue distribution of mRNA. J Biol Chem. 1993 Mar 25;268(9):6470-6.</reference_text>
+      <pubmed_id>8384210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu RX, Hassell AM, Vanderwall D, Lambert MH, Holmes WD, Luther MA, Rocque WJ, Milburn MV, Zhao Y, Ke H, Nolte RT: Atomic structure of PDE4: insights into phosphodiesterase mechanism and specificity. Science. 2000 Jun 9;288(5472):1822-5.</reference_text>
+      <pubmed_id>10846163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu RX, Rocque WJ, Lambert MH, Vanderwall DE, Luther MA, Nolte RT: Crystal structures of the catalytic domain of phosphodiesterase 4B complexed with AMP, 8-Br-AMP, and rolipram. J Mol Biol. 2004 Mar 19;337(2):355-65.</reference_text>
+      <pubmed_id>15003452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang KY, Card GL, Suzuki Y, Artis DR, Fong D, Gillette S, Hsieh D, Neiman J, West BL, Zhang C, Milburn MV, Kim SH, Schlessinger J, Bollag G: A glutamine switch mechanism for nucleotide selectivity by phosphodiesterases. Mol Cell. 2004 Jul 23;15(2):279-86.</reference_text>
+      <pubmed_id>15260978</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Card GL, England BP, Suzuki Y, Fong D, Powell B, Lee B, Luu C, Tabrizizad M, Gillette S, Ibrahim PN, Artis DR, Bollag G, Milburn MV, Kim SH, Schlessinger J, Zhang KY: Structural basis for the activity of drugs that inhibit phosphodiesterases. Structure. 2004 Dec;12(12):2233-47.</reference_text>
+      <pubmed_id>15576036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Card GL, Blasdel L, England BP, Zhang C, Suzuki Y, Gillette S, Fong D, Ibrahim PN, Artis DR, Bollag G, Milburn MV, Kim SH, Schlessinger J, Zhang KY: A family of phosphodiesterase inhibitors discovered by cocrystallography and scaffold-based drug design. Nat Biotechnol. 2005 Feb;23(2):201-7. Epub 2005 Jan 30.</reference_text>
+      <pubmed_id>15685167</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang H, Peng MS, Chen Y, Geng J, Robinson H, Houslay MD, Cai J, Ke H: Structures of the four subfamilies of phosphodiesterase-4 provide insight into the selectivity of their inhibitors. Biochem J. 2007 Dec 1;408(2):193-201.</reference_text>
+      <pubmed_id>17727341</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hamblin JN, Angell TD, Ballantine SP, Cook CM, Cooper AW, Dawson J, Delves CJ, Jones PS, Lindvall M, Lucas FS, Mitchell CJ, Neu MY, Ranshaw LE, Solanke YE, Somers DO, Wiseman JO: Pyrazolopyridines as a novel structural class of potent and selective PDE4 inhibitors. Bioorg Med Chem Lett. 2008 Jul 15;18(14):4237-41. Epub 2008 May 17.</reference_text>
+      <pubmed_id>18539455</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Daly JW: Caffeine analogs: biomedical impact.  Cell Mol Life Sci. 2007 Aug;64(16):2153-69.</reference_text>
+        <pubmed_id>17514358</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lipworth BJ: Phosphodiesterase-4 inhibitors for asthma and chronic obstructive pulmonary disease. Lancet. 2005 Jan 8-14;365(9454):167-75.</reference_text>
+        <pubmed_id>15639300</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dyphylline</name>
+        <accession>HMDB14789</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dyphylline</name>
+        <accession>HMDB14789</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dyphylline</name>
+        <accession>HMDB14789</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Iancu L, Shneur A, Cohen H: Trials with xanthine derivatives in systemic treatment of psoriasis.  Dermatologica. 1979;159(1):55-61.</reference_text>
+        <pubmed_id>225216</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dyphylline</name>
+        <accession>HMDB14789</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hariton C: Ocular hypotension induced by topical dopaminergic drugs and phosphodiesterase inhibitors. Eur J Pharmacol. 1994 Jun 2;258(1-2):85-94.</reference_text>
+        <pubmed_id>7925603</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pentoxifylline</name>
+        <accession>HMDB14944</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pentoxifylline</name>
+        <accession>HMDB14944</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enprofylline</name>
+        <accession>HMDB14962</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enprofylline</name>
+        <accession>HMDB14962</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ketotifen</name>
+        <accession>HMDB15056</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Castillo JG, Gamboa PM, Garcia BE, Oehling A: Effect of ketotifen on phosphodiesterase activity from asthmatic individuals.  Allergol Immunopathol (Madr). 1990 Jul-Aug;18(4):197-201.</reference_text>
+        <pubmed_id>1702263</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ketotifen</name>
+        <accession>HMDB15056</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Huang Z, Liu S, Zhang L, Salem M, Greig GM, Chan CC, Natsumeda Y, Noguchi K: Preferential inhibition of human phosphodiesterase 4 by ibudilast.  Life Sci. 2006 May 1;78(23):2663-8. Epub 2005 Nov 28.</reference_text>
+        <pubmed_id>16313925</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Iloprost</name>
+        <accession>HMDB15220</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wilkens H, Guth A, Konig J, Forestier N, Cremers B, Hennen B, Bohm M, Sybrecht GW: Effect of inhaled iloprost plus oral sildenafil in patients with primary pulmonary hypertension. Circulation. 2001 Sep 11;104(11):1218-22.</reference_text>
+        <pubmed_id>11551870</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Iloprost</name>
+        <accession>HMDB15220</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ghofrani HA, Rose F, Schermuly RT, Olschewski H, Wiedemann R, Weissmann N, Schudt C, Tenor H, Seeger W, Grimminger F: Amplification of the pulmonary vasodilatory response to inhaled iloprost by subthreshold phosphodiesterase types 3 and 4 inhibition in severe pulmonary hypertension. Crit Care Med. 2002 Nov;30(11):2489-92.</reference_text>
+        <pubmed_id>12441759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Iloprost</name>
+        <accession>HMDB15220</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schermuly RT, Leuchte H, Ghofrani HA, Weissmann N, Rose F, Kohstall M, Olschewski H, Schudt C, Grimminger F, Seeger W, Walmrath D: Zardaverine and aerosolised iloprost in a model of acute respiratory failure.  Eur Respir J. 2003 Aug;22(2):342-7.</reference_text>
+        <pubmed_id>12952271</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Iloprost</name>
+        <accession>HMDB15220</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Grant PG, Mannarino AF, Colman RW: cAMP-mediated phosphorylation of the low-Km cAMP phosphodiesterase markedly stimulates its catalytic activity. Proc Natl Acad Sci U S A. 1988 Dec;85(23):9071-5.</reference_text>
+        <pubmed_id>2461561</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Papaverine</name>
+        <accession>HMDB15245</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Papaverine</name>
+        <accession>HMDB15245</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Papaverine</name>
+        <accession>HMDB15245</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Xin ZC, Kim EK, Lin CS, Liu WJ, Tian L, Yuan YM, Fu J: Effects of icariin on cGMP-specific PDE5 and cAMP-specific PDE4 activities.  Asian J Androl. 2003 Mar;5(1):15-8.</reference_text>
+        <pubmed_id>12646997</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Papaverine</name>
+        <accession>HMDB15245</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhu S, Gan Z, Li Z, Liu Y, Yang X, Deng P, Xie Y, Yu M, Liao H, Zhao Y, Zhao L, Liao F: The measurement of cyclic nucleotide phosphodiesterase 4 activities via the quantification of inorganic phosphate with malachite green. Anal Chim Acta. 2009 Mar 16;636(1):105-10. Epub 2009 Jan 22.</reference_text>
+        <pubmed_id>19231363</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theobromine</name>
+        <accession>HMDB02825</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Essayan DM: Cyclic nucleotide phosphodiesterases.  J Allergy Clin Immunol. 2001 Nov;108(5):671-80.</reference_text>
+        <pubmed_id>11692087</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theobromine</name>
+        <accession>HMDB02825</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Fisone G, Borgkvist A, Usiello A: Caffeine as a psychomotor stimulant: mechanism of action.  Cell Mol Life Sci. 2004 Apr;61(7-8):857-72.</reference_text>
+        <pubmed_id>15095008</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theobromine</name>
+        <accession>HMDB02825</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Daly JW: Caffeine analogs: biomedical impact.  Cell Mol Life Sci. 2007 Aug;64(16):2153-69.</reference_text>
+        <pubmed_id>17514358</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theobromine</name>
+        <accession>HMDB02825</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Deree J, Martins JO, Melbostad H, Loomis WH, Coimbra R: Insights into the regulation of TNF-alpha production in human mononuclear cells: the effects of non-specific phosphodiesterase inhibition. Clinics (Sao Paulo). 2008 Jun;63(3):321-8.</reference_text>
+        <pubmed_id>18568240</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amrinone</name>
+        <accession>HMDB15496</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Amrinone</name>
+        <accession>HMDB15496</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ibudilast</name>
+        <accession>HMDB15614</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Huang Z, Liu S, Zhang L, Salem M, Greig GM, Chan CC, Natsumeda Y, Noguchi K: Preferential inhibition of human phosphodiesterase 4 by ibudilast.  Life Sci. 2006 May 1;78(23):2663-8. Epub 2005 Nov 28.</reference_text>
+        <pubmed_id>16313925</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

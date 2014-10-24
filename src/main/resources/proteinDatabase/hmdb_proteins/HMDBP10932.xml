@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:39:37 -0700</creation_date>
+  <update_date>2013-01-15 20:39:37 -0700</update_date>
+  <accession>HMDBP10932</accession>
+  <secondary_accessions>
+    <accession>17237</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DDB p127 subunit</synonym>
+    <synonym>DDBa</synonym>
+    <synonym>DNA damage-binding protein a</synonym>
+    <synonym>Damage-specific DNA-binding protein 1</synonym>
+    <synonym>HBV X-associated protein 1</synonym>
+    <synonym>UV-DDB 1</synonym>
+    <synonym>UV-damaged DNA-binding factor</synonym>
+    <synonym>UV-damaged DNA-binding protein 1</synonym>
+    <synonym>XAP-1</synonym>
+    <synonym>XPCe</synonym>
+    <synonym>XPE-BF</synonym>
+    <synonym>XPE-binding factor</synonym>
+    <synonym>Xeroderma pigmentosum group E-complementing protein</synonym>
+  </synonyms>
+  <gene_name>DDB1</gene_name>
+  <general_function>Involved in nucleic acid binding</general_function>
+  <specific_function>Required for DNA repair. Binds to DDB2 to form the UV- damaged DNA-binding protein complex (the UV-DDB complex). The UV- DDB complex may recognize UV-induced DNA damage and recruit proteins of the nucleotide excision repair pathway (the NER pathway) to initiate DNA repair. The UV-DDB complex preferentially binds to cyclobutane pyrimidine dimers (CPD), 6-4 photoproducts (6-4 PP), apurinic sites and short mismatches. Also appears to function as a component of numerous distinct DCX (DDB1-CUL4-X-box) E3 ubiquitin-protein ligase complexes which mediate the ubiquitination and subsequent proteasomal degradation of target proteins. The functional specificity of the DCX E3 ubiquitin- protein ligase complex is determined by the variable substrate recognition component recruited by DDB1. DCX(DDB2) (also known as DDB1-CUL4-ROC1, CUL4-DDB-ROC1 and CUL4-DDB-RBX1) may ubiquitinate histone H2A, histone H3 and histone H4 at sites of UV-induced DNA damage. The ubiquitination of histones may facilitate their removal from the nucleosome and promote subsequent DNA repair. DCX(DDB2) also ubiquitinates XPC, which may enhance DNA-binding by XPC and promote NER. DCX(DTL) plays a role in PCNA-dependent polyubiquitination of CDT1 and MDM2-dependent ubiquitination of TP53 in response to radiation-induced DNA damage and during DNA replication. DCX(ERCC8) (the CSA complex) plays a role in transcription-coupled repair (TCR). May also play a role in ubiquitination of CDKN1B/p27kip when associated with CUL4 and SKP2</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03361</accession>
+      <name>Pyrimidine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q12-q13</locus>
+    <gene_sequence>&gt;3423 bp
+ATGTCGTACAACTACGTGGTAACGGCCCAGAAGCCCACCGCCGTGAACGGCTGCGTGACC
+GGACACTTTACTTCGGCCGAAGACTTAAACCTGTTGATTGCCAAAAACACGAGATTAGAG
+ATCTATGTGGTCACCGCCGAGGGGCTTCGGCCCGTCAAAGAGGTGGGCATGTATGGGAAG
+ATTGCGGTCATGGAGCTTTTCAGGCCCAAGGGGGAGAGCAAGGACCTGCTGTTTATCTTG
+ACAGCGAAGTACAATGCCTGCATCCTGGAGTATAAACAGAGTGGCGAGAGCATTGATATC
+ATTACGCGAGCCCATGGCAATGTCCAGGACCGCATTGGCCGCCCCTCAGAGACCGGCATT
+ATTGGCATCATTGACCCTGAGTGCCGGATGATTGGCCTGCGTCTCTATGATGGCCTTTTC
+AAGGTTATTCCACTAGATCGCGATAATAAAGAACTCAAGGCCTTCAACATCCGCCTGGAG
+GAGCTGCATGTCATTGATGTCAAGTTCCTATATGGTTGCCAAGCACCTACTATTTGCTTT
+GTCTACCAGGACCCTCAGGGGCGGCACGTAAAAACCTATGAGGTGTCTCTCCGAGAAAAG
+GAATTCAATAAGGGCCCTTGGAAACAGGAAAATGTCGAAGCTGAAGCTTCCATGGTGATC
+GCAGTCCCAGAGCCCTTTGGGGGGGCCATCATCATTGGACAGGAGTCAATCACCTATCAC
+AATGGTGACAAATACCTGGCTATTGCCCCTCCTATCATCAAGCAAAGCACGATTGTGTGC
+CACAATCGAGTGGACCCTAATGGCTCAAGATACCTGCTGGGAGACATGGAAGGCCGGCTC
+TTCATGCTGCTTTTGGAGAAGGAGGAACAGATGGATGGCACCGTCACTCTCAAGGATCTC
+CGTGTAGAACTCCTTGGAGAGACCTCTATTGCTGAGTGCTTGACATACCTTGATAATGGT
+GTTGTGTTTGTCGGGTCTCGCCTGGGTGACTCCCAGCTTGTGAAGCTCAACGTTGACAGT
+AATGAACAAGGCTCCTATGTAGTGGCCATGGAAACCTTTACCAACTTAGGACCCATTGTC
+GATATGTGCGTGGTGGACCTGGAGAGGCAGGGGCAGGGGCAGCTGGTCACTTGCTCTGGG
+GCTTTCAAGGAAGGTTCTTTGCGGATCATCCGGAATGGAATTGGAATCCACGAGCATGCC
+AGCATTGACTTACCAGGCATCAAAGGATTATGGCCACTGCGGTCTGACCCTAATCGTGAG
+ACTGATGACACTTTGGTGCTCTCTTTTGTGGGCCAGACAAGAGTTCTCATGTTAAATGGA
+GAGGAGGTAGAAGAAACCGAACTGATGGGTTTCGTGGATGATCAGCAGACTTTCTTCTGT
+GGCAACGTGGCTCATCAGCAGCTTATCCAGATCACTTCAGCATCGGTGAGGTTGGTCTCT
+CAAGAACCCAAAGCTCTGGTCAGTGAATGGAAGGAGCCTCAGGCCAAGAACATCAGTGTG
+GCCTCCTGCAATAGCAGCCAGGTGGTGGTGGCTGTAGGCAGGGCCCTCTACTATCTGCAG
+ATCCATCCTCAGGAGCTCCGGCAGATCAGCCACACAGGGATGGAACATGAAGTGGCTTGC
+TTGGACATCACCCCATTAGGAGACAGCAATGGACTGTCCCCTCTTTGTGCCATTGGCCTC
+TGGACGGACATCTCGGCTCGTATCTTGAAGTTGCCCTCTTTTGAACTACTGCACAAGGAG
+ATGCTGGGTGGAGAGATCATTCCTCGCTCCATCCTGATGACCACCTTTGAGAGTAGCCAT
+TACCTCCTTTGTGCCTTGGGAGATGGAGCGCTTTTCTACTTTGGGCTCAACATTGAGACA
+GGTCTGTTGAGCGACCGTAAGAAGGTGACTTTGGGCACCCAGCCCACCGTATTGAGGACT
+TTTCGTTCTCTTTCTACCACCAACGTCTTTGCTTGTTCTGACCGCCCCACTGTCATCTAT
+AGCAGCAACCACAAATTGGTCTTCTCAAATGTCAACCTCAAGGAAGTGAACTACATGTGT
+CCCCTCAATTCAGATGGCTATCCTGACAGCCTGGCGCTGGCCAACAATAGCACCCTCACC
+ATTGGCACCATCGATGAGATCCAGAAGCTGCACATTCGCACAGTTCCCCTCTATGAGTCT
+CCAAGGAAGATCTGCTACCAGGAAGTGTCCCAGTGTTTCGGGGTCCTCTCCAGCCGCATT
+GAAGTCCAAGACACGAGTGGGGGCACGACAGCCTTGAGGCCCAGCGCTAGCACCCAGGCT
+CTGTCCAGCAGTGTAAGCTCCAGCAAGCTGTTCTCCAGCAGCACTGCTCCTCATGAGACC
+TCCTTTGGAGAAGAGGTGGAGGTGCATAACCTACTTATCATTGACCAACACACCTTTGAA
+GTGCTTCATGCCCACCAGTTTCTGCAGAATGAATATGCCCTCAGTCTGGTTTCCTGCAAG
+CTGGGCAAAGACCCCAACACTTACTTCATTGTGGGCACAGCAATGGTGTATCCTGAAGAG
+GCAGAGCCCAAGCAGGGTCGCATTGTGGTCTTTCAGTATTCGGATGGAAAACTACAGACT
+GTGGCTGAAAAGGAAGTGAAAGGGGACGTGTACTCTATGGTGGAATTTAACGGGAAGCTG
+TTAGCCAGCATCAATAGCACGGTGCGGCTCTATGAGTGGACAACAGAGAAGGACGTGCGC
+ACTGAGTGCAACCACTACAACAACATCATGGCCCTCTACCTGAAGACCAAGGGCGACTTC
+ATCCTGGTGGGCGACCTTATGCGCTCAGTGCTGCTGCTTGCCTACAAGCCCATGGAAGGA
+AACTTTGAAGAGATTGCTCGAGACTTTAATCCCAACTGGATGAGTGCTGTGGAAATCTTG
+GATGATGACAATTTTCTGGGGGCTGAAAATGCCTTTAACTTGTTTGTGTGTCAAAAGGAT
+AGCGCTGCCACCACTGACGAGGAGCGGCAGCACCTCCAGGAGGTTGGTCTTTTCCACCTG
+GGCGAGTTTGTCAATGTCTTTTGCCACGGCTCTCTGGTAATGCAGAATCTGGGTGAGACT
+TCCACCCCCACACAAGGCTCGGTGCTCTTCGGCACGGTCAACGGCATGATAGGGCTGGTG
+ACCTCACTGTCAGAGAGCTGGTACAACCTCCTGCTGGACATGCAGAATCGACTCAATAAA
+GTCATCAAAAGTGTGGGGAAGATCGAGCACTCCTTCTGGAGATCCTTTCACACCGAGCGG
+AAGACAGAACCAGCCACAGGTTTCATCGACGGTGACTTGATTGAGAGTTTCCTGGATATT
+AGCCGCCCCAAGATGCAGGAGGTGGTGGCAAACCTACAGTATGACGATGGCAGCGGTATG
+AAGCGAGAGGCCACTGCAGACGACCTCATCAAGGTTGTGGAGGAGCTAACTCGGATCCAT
+TAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1140</residue_number>
+    <molecular_weight>126966.9</molecular_weight>
+    <theoretical_pi>4.92</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CPSF_A</name>
+        <pfam_id>PF03178</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;DNA damage-binding protein 1
+MSYNYVVTAQKPTAVNGCVTGHFTSAEDLNLLIAKNTRLEIYVVTAEGLRPVKEVGMYGK
+IAVMELFRPKGESKDLLFILTAKYNACILEYKQSGESIDIITRAHGNVQDRIGRPSETGI
+IGIIDPECRMIGLRLYDGLFKVIPLDRDNKELKAFNIRLEELHVIDVKFLYGCQAPTICF
+VYQDPQGRHVKTYEVSLREKEFNKGPWKQENVEAEASMVIAVPEPFGGAIIIGQESITYH
+NGDKYLAIAPPIIKQSTIVCHNRVDPNGSRYLLGDMEGRLFMLLLEKEEQMDGTVTLKDL
+RVELLGETSIAECLTYLDNGVVFVGSRLGDSQLVKLNVDSNEQGSYVVAMETFTNLGPIV
+DMCVVDLERQGQGQLVTCSGAFKEGSLRIIRNGIGIHEHASIDLPGIKGLWPLRSDPNRE
+TDDTLVLSFVGQTRVLMLNGEEVEETELMGFVDDQQTFFCGNVAHQQLIQITSASVRLVS
+QEPKALVSEWKEPQAKNISVASCNSSQVVVAVGRALYYLQIHPQELRQISHTEMEHEVAC
+LDITPLGDSNGLSPLCAIGLWTDISARILKLPSFELLHKEMLGGEIIPRSILMTTFESSH
+YLLCALGDGALFYFGLNIETGLLSDRKKVTLGTQPTVLRTFRSLSTTNVFACSDRPTVIY
+SSNHKLVFSNVNLKEVNYMCPLNSDGYPDSLALANNSTLTIGTIDEIQKLHIRTVPLYES
+PRKICYQEVSQCFGVLSSRIEVQDTSGGTTALRPSASTQALSSSVSSSKLFSSSTAPHET
+SFGEEVEVHNLLIIDQHTFEVLHAHQFLQNEYALSLVSCKLGKDPNTYFIVGTAMVYPEE
+AEPKQGRIVVFQYSDGKLQTVAEKEVKGAVYSMVEFNGKLLASINSTVRLYEWTTEKELR
+TECNHYNNIMALYLKTKGDFILVGDLMRSVLLLAYKPMEGNFEEIARDFNPNWMSAVEIL
+DDDNFLGAENAFNLFVCQKDSAATTDEERQHLQEVGLFHLGEFVNVFCHGSLVMQNLGET
+STPTQGSVLFGTVNGMIGLVTSLSESWYNLLLDMQNRLNKVIKSVGKIEHSFWRSFHTER
+KTEPATGFIDGDLIESFLDISRPKMQEVVANLQYDDGSGMKREATADDLIKVVEELTRIH
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2632123</genbank_protein_id>
+  <uniprot_id>Q16531</uniprot_id>
+  <uniprot_name>DDB1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AJ002955</genbank_gene_id>
+  <genecard_id>DDB1</genecard_id>
+  <geneatlas_id>DDB1</geneatlas_id>
+  <hgnc_id>HGNC:2717</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Dualan R, Brody T, Keeney S, Nichols AF, Admon A, Linn S: Chromosomal localization and cDNA cloning of the genes (DDB1 and DDB2) for the p127 and p48 subunits of a human damage-specific DNA binding protein. Genomics. 1995 Sep 1;29(1):62-9.</reference_text>
+      <pubmed_id>8530102</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee TH, Elledge SJ, Butel JS: Hepatitis B virus X protein interacts with a probable cellular DNA repair protein. J Virol. 1995 Feb;69(2):1107-14.</reference_text>
+      <pubmed_id>7815490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hwang BJ, Liao JC, Chu G: Isolation of a cDNA encoding a UV-damaged DNA binding factor defective in xeroderma pigmentosum group E cells. Mutat Res. 1996 Jan 2;362(1):105-17.</reference_text>
+      <pubmed_id>8538642</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hwang BJ, Toering S, Francke U, Chu G: p48 Activates a UV-damaged-DNA binding factor and is defective in xeroderma pigmentosum group E cells that lack binding activity. Mol Cell Biol. 1998 Jul;18(7):4391-9.</reference_text>
+      <pubmed_id>9632823</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu W, Nichols AF, Graham JA, Dualan R, Abbas A, Linn S: Nuclear transport of human DDB protein induced by ultraviolet light.  J Biol Chem. 2000 Jul 14;275(28):21429-34.</reference_text>
+      <pubmed_id>10777491</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen X, Zhang Y, Douglas L, Zhou P: UV-damaged DNA-binding proteins are targets of CUL-4A-mediated ubiquitination and degradation. J Biol Chem. 2001 Dec 21;276(51):48175-82. Epub 2001 Oct 22.</reference_text>
+      <pubmed_id>11673459</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin-Marq N, Bontron S, Leupin O, Strubin M: Hepatitis B virus X protein interferes with cell viability through interaction with the p127-kDa UV-damaged DNA-binding protein. Virology. 2001 Sep 1;287(2):266-74.</reference_text>
+      <pubmed_id>11531405</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Groisman R, Polanowska J, Kuraoka I, Sawada J, Saijo M, Drapkin R, Kisselev AF, Tanaka K, Nakatani Y: The ubiquitin ligase activity in the DDB2 and CSA complexes is differentially regulated by the COP9 signalosome in response to DNA damage. Cell. 2003 May 2;113(3):357-67.</reference_text>
+      <pubmed_id>12732143</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leupin O, Bontron S, Strubin M: Hepatitis B virus X protein and simian virus 5 V protein exhibit similar UV-DDB1 binding properties to mediate distinct activities. J Virol. 2003 Jun;77(11):6274-83.</reference_text>
+      <pubmed_id>12743284</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu J, McCall CM, Ohta T, Xiong Y: Targeted ubiquitination of CDT1 by the DDB1-CUL4A-ROC1 ligase in response to DNA damage. Nat Cell Biol. 2004 Oct;6(10):1003-9. Epub 2004 Sep 26.</reference_text>
+      <pubmed_id>15448697</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wertz IE, O'Rourke KM, Zhang Z, Dornan D, Arnott D, Deshaies RJ, Dixit VM: Human De-etiolated-1 regulates c-Jun by assembling a CUL4A ubiquitin ligase. Science. 2004 Feb 27;303(5662):1371-4. Epub 2004 Jan 22.</reference_text>
+      <pubmed_id>14739464</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sugasawa K, Okuda Y, Saijo M, Nishi R, Matsuda N, Chu G, Mori T, Iwai S, Tanaka K, Tanaka K, Hanaoka F: UV-induced ubiquitylation of XPC protein mediated by UV-DDB-ubiquitin ligase complex. Cell. 2005 May 6;121(3):387-400.</reference_text>
+      <pubmed_id>15882621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wittschieben BO, Iwai S, Wood RD: DDB1-DDB2 (xeroderma pigmentosum group E) protein complex recognizes a cyclobutane pyrimidine dimer, mismatches, apurinic/apyrimidinic sites, and compound lesions in DNA. J Biol Chem. 2005 Dec 2;280(48):39982-9. Epub 2005 Aug 24.</reference_text>
+      <pubmed_id>16223728</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Precious B, Childs K, Fitzpatrick-Swallow V, Goodbourn S, Randall RE: Simian virus 5 V protein acts as an adaptor, linking DDB1 to STAT2, to facilitate the ubiquitination of STAT1. J Virol. 2005 Nov;79(21):13434-41.</reference_text>
+      <pubmed_id>16227264</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kulaksiz G, Reardon JT, Sancar A: Xeroderma pigmentosum complementation group E protein (XPE/DDB2): purification of various complexes of XPE and analyses of their damaged DNA binding and putative DNA repair properties. Mol Cell Biol. 2005 Nov;25(22):9784-92.</reference_text>
+      <pubmed_id>16260596</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nishitani H, Sugimoto N, Roukos V, Nakanishi Y, Saijo M, Obuse C, Tsurimoto T, Nakayama KI, Nakayama K, Fujita M, Lygerou Z, Nishimoto T: Two E3 ubiquitin ligases, SCF-Skp2 and DDB1-Cul4, target human Cdt1 for proteolysis. EMBO J. 2006 Mar 8;25(5):1126-36. Epub 2006 Feb 16.</reference_text>
+      <pubmed_id>16482215</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>He YJ, McCall CM, Hu J, Zeng Y, Xiong Y: DDB1 functions as a linker to recruit receptor WD40 proteins to CUL4-ROC1 ubiquitin ligases. Genes Dev. 2006 Nov 1;20(21):2949-54.</reference_text>
+      <pubmed_id>17079684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu J, Xiong Y: An evolutionarily conserved function of proliferating cell nuclear antigen for Cdt1 degradation by the Cul4-Ddb1 ubiquitin ligase in response to DNA damage. J Biol Chem. 2006 Feb 17;281(7):3753-6. Epub 2006 Jan 3.</reference_text>
+      <pubmed_id>16407242</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Senga T, Sivaprasad U, Zhu W, Park JH, Arias EE, Walter JC, Dutta A: PCNA is a cofactor for Cdt1 degradation by CUL4/DDB1-mediated N-terminal ubiquitination. J Biol Chem. 2006 Mar 10;281(10):6246-52. Epub 2006 Jan 9.</reference_text>
+      <pubmed_id>16407252</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>El-Mahdy MA, Zhu Q, Wang QE, Wani G, Praetorius-Ibba M, Wani AA: Cullin 4A-mediated proteolysis of DDB2 protein at DNA damage sites regulates in vivo lesion recognition by XPC. J Biol Chem. 2006 May 12;281(19):13404-11. Epub 2006 Mar 8.</reference_text>
+      <pubmed_id>16527807</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang H, Zhai L, Xu J, Joo HY, Jackson S, Erdjument-Bromage H, Tempst P, Xiong Y, Zhang Y: Histone H3 and H4 ubiquitylation by the CUL4-DDB-ROC1 ubiquitin ligase facilitates cellular response to DNA damage. Mol Cell. 2006 May 5;22(3):383-94.</reference_text>
+      <pubmed_id>16678110</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jin J, Arias EE, Chen J, Harper JW, Walter JC: A family of diverse Cul4-Ddb1-interacting proteins includes Cdt2, which is required for S phase destruction of the replication factor Cdt1. Mol Cell. 2006 Sep 1;23(5):709-21.</reference_text>
+      <pubmed_id>16949367</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lovejoy CA, Lock K, Yenamandra A, Cortez D: DDB1 maintains genome integrity through regulation of Cdt1.  Mol Cell Biol. 2006 Nov;26(21):7977-90. Epub 2006 Aug 28.</reference_text>
+      <pubmed_id>16940174</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Higa LA, Wu M, Ye T, Kobayashi R, Sun H, Zhang H: CUL4-DDB1 ubiquitin ligase interacts with multiple WD40-repeat proteins and regulates histone methylation. Nat Cell Biol. 2006 Nov;8(11):1277-83. Epub 2006 Oct 15.</reference_text>
+      <pubmed_id>17041588</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kapetanaki MG, Guerrero-Santoro J, Bisi DC, Hsieh CL, Rapic-Otrin V, Levine AS: The DDB1-CUL4ADDB2 ubiquitin ligase is deficient in xeroderma pigmentosum group E and targets histone H2A at UV-damaged DNA sites. Proc Natl Acad Sci U S A. 2006 Feb 21;103(8):2588-93. Epub 2006 Feb 10.</reference_text>
+      <pubmed_id>16473935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guerrero-Santoro J, Kapetanaki MG, Hsieh CL, Gorbachinsky I, Levine AS, Rapic-Otrin V: The cullin 4B-based UV-damaged DNA-binding protein ligase binds to UV-damaged chromatin and ubiquitinates histone H2A. Cancer Res. 2008 Jul 1;68(13):5014-22.</reference_text>
+      <pubmed_id>18593899</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu J, Zacharek S, He YJ, Lee H, Shumway S, Duronio RJ, Xiong Y: WD40 protein FBW5 promotes ubiquitination of tumor suppressor TSC2 by DDB1-CUL4-ROC1 ligase. Genes Dev. 2008 Apr 1;22(7):866-71.</reference_text>
+      <pubmed_id>18381890</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McCall CM, Miliani de Marval PL, Chastain PD 2nd, Jackson SC, He YJ, Kotake Y, Cook JG, Xiong Y: Human immunodeficiency virus type 1 Vpr-binding protein VprBP, a WD40 protein associated with the DDB1-CUL4 E3 ubiquitin ligase, is essential for DNA replication and embryonic development. Mol Cell Biol. 2008 Sep;28(18):5621-33. Epub 2008 Jul 7.</reference_text>
+      <pubmed_id>18606781</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang J, Chen J: VprBP targets Merlin to the Roc1-Cul4A-DDB1 E3 ligase complex for degradation. Oncogene. 2008 Jul 3;27(29):4056-64. Epub 2008 Mar 10.</reference_text>
+      <pubmed_id>18332868</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li T, Chen X, Garbutt KC, Zhou P, Zheng N: Structure of DDB1 in complex with a paramyxovirus V protein: viral hijack of a propeller cluster in ubiquitin ligase. Cell. 2006 Jan 13;124(1):105-17.</reference_text>
+      <pubmed_id>16413485</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Angers S, Li T, Yi X, MacCoss MJ, Moon RT, Zheng N: Molecular architecture and assembly of the DDB1-CUL4A ubiquitin ligase machinery. Nature. 2006 Oct 5;443(7111):590-3.</reference_text>
+      <pubmed_id>16964240</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

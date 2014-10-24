@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:13 -0700</creation_date>
+  <update_date>2013-05-27 11:07:50 -0600</update_date>
+  <accession>HMDBP01630</accession>
+  <secondary_accessions>
+    <accession>6953</accession>
+    <accession>HMDBP07046</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Cytochrome c oxidase polypeptide I</synonym>
+  </synonyms>
+  <gene_name>MT-CO1</gene_name>
+  <general_function>Involved in iron ion binding</general_function>
+  <specific_function>Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Subunits 1-3 form the functional core of the enzyme complex. CO I is the catalytic subunit of the enzyme. Electrons originating in cytochrome c are transferred via the copper A center of subunit 2 and heme A of subunit 1 to the bimetallic center formed by heme A3 and copper B.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Oxidative phosphorylation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00190</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cardiac muscle contraction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04260</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alzheimer's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Parkinson's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05012</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Huntington's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05016</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00657</accession>
+      <name>Copper</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00619</accession>
+      <name>Cholic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>generation of precursor metabolites and energy</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>energy derivation by oxidation of organic compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular respiration</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>aerobic respiration</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>respiratory chain</description>
+      <go_id>GO:0070469</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cytochrome-c oxidase activity</description>
+      <go_id>GO:0004129</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>aerobic respiration</description>
+      <go_id>GO:0009060</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>aging</description>
+      <go_id>GO:0007568</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cerebellum development</description>
+      <go_id>GO:0021549</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrial electron transport, cytochrome c to oxygen</description>
+      <go_id>GO:0006123</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to copper ion</description>
+      <go_id>GO:0046688</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to electrical stimulus</description>
+      <go_id>GO:0051602</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion inner membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;1542 bp
+ATGTTCGCCGACCGTTGACTATTCTCTACAAACCACAAAGACATTGGAACACTATACCTA
+TTATTCGGCGCATGAGCTGGAGTCCTAGGCACAGCTCTAAGCCTCCTTATTCGAGCCGAG
+CTGGGCCAGCCAGGCAACCTTCTAGGTAACGACCACATCTACAACGTTATCGTCACAGCC
+CATGCATTTGTAATAATCTTCTTCATAGTAATACCCATCATAATCGGAGGCTTTGGCAAC
+TGACTAGTTCCCCTAATAATCGGTGCCCCCGATATGGCGTTTCCCCGCATAAACAACATA
+AGCTTCTGACTCTTACCTCCCTCTCTCCTACTCCTGCTCGCATCTGCTATAGTGGAGGCC
+GGAGCAGGAACAGGTTGAACAGTCTACCCTCCCTTAGCAGGGAACTACTCCCACCCTGGA
+GCCTCCGTAGACCTAACCATCTTCTCCTTACACCTAGCAGGTGTCTCCTCTATCTTAGGG
+GCCATCAATTTCATCACAACAATTATCAATATAAAACCCCCTGCCATAACCCAATACCAA
+ACGCCCCTCTTCGTCTGATCCGTCCTAATCACAGCAGTCCTACTTCTCCTATCTCTCCCA
+GTCCTAGCTGCTGGCATCACTATACTACTAACAGACCGCAACCTCAACACCACCTTCTTC
+GACCCCGCCGGAGGAGGAGACCCCATTCTATACCAACACCTATTCTGATTTTTCGGTCAC
+CCTGAAGTTTATATTCTTATCCTACCAGGCTTCGGAATAATCTCCCATATTGTAACTTAC
+TACTCCGGAAAAAAAGAACCATTTGGATACATAGGTATGGTCTGAGCTATGATATCAATT
+GGCTTCCTAGGGTTTATCGTGTGAGCACACCATATATTTACAGTAGGAATAGACGTAGAC
+ACACGAGCATATTTCACCTCCGCTACCATAATCATCGCTATCCCCACCGGCGTCAAAGTA
+TTTAGCTGACTCGCCACACTCCACGGAAGCAATATGAAATGATCTGCTGCAGTGCTCTGA
+GCCCTAGGATTCATCTTTCTTTTCACCGTAGGTGGCCTGACTGGCATTGTATTAGCAAAC
+TCATCACTAGACATCGTACTACACGACACGTACTACGTTGTAGCCCACTTCCACTATGTC
+CTATCAATAGGAGCTGTATTTGCCATCATAGGAGGCTTCATTCACTGATTTCCCCTATTC
+TCAGGCTACACCCTAGACCAAACCTACGCCAAAATCCATTTCACTATCATATTCATCGGC
+GTAAATCTAACTTTCTTCCCACAACACTTTCTCGGCCTATCCGGAATGCCCCGACGTTAC
+TCGGACTACCCCGATGCATACACCACATGAAACATCCTATCATCTGTAGGCTCATTCATT
+TCTCTAACAGCAGTAATATTAATAATTTTCATGATTTGAGAAGCCTTCGCTTCGAAGCGA
+AAAGTCCTAATAGTAGAAGAACCCTCCATAAACCTGGAGTGACTATATGGATGCCCCCCA
+CCCTACCACACATTCGAAGAACCCGTATACATAAAATCTAGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>513</residue_number>
+    <molecular_weight>57040.91</molecular_weight>
+    <theoretical_pi>6.701</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>COX1</name>
+        <pfam_id>PF00115</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Cytochrome c oxidase subunit 1
+MFADRWLFSTNHKDIGTLYLLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTA
+HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEA
+GAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQ
+TPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGH
+PEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWAMMSIGFLGFIVWAHHMFTVGMDVD
+TRAYFTSATMIIAIPTGVKVFSWLATLHGSNMKWSAAVLWALGFIFLFTVGGLTGIVLAN
+SSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQTYAKIHFTIMFIG
+VNLTFFPQHFLGLSGMPRRYSDYPDAYTTWNILSSVGSFISLTAVMLMIFMIWEAFASKR
+KVLMVEEPSMNLEWLYGCPPPYHTFEEPVYMKS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>13006</genbank_protein_id>
+  <uniprot_id>P00395</uniprot_id>
+  <uniprot_name>COX1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>V00662</genbank_gene_id>
+  <genecard_id>MT-CO1</genecard_id>
+  <geneatlas_id>MT-CO1</geneatlas_id>
+  <hgnc_id>HGNC:7419</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Anderson S, Bankier AT, Barrell BG, de Bruijn MH, Coulson AR, Drouin J, Eperon IC, Nierlich DP, Roe BA, Sanger F, Schreier PH, Smith AJ, Staden R, Young IG: Sequence and organization of the human mitochondrial genome.  Nature. 1981 Apr 9;290(5806):457-65.</reference_text>
+      <pubmed_id>7219534</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Horai S, Hayasaka K, Kondo R, Tsugane K, Takahata N: Recent African origin of modern humans revealed by complete sequences of hominoid mitochondrial DNAs. Proc Natl Acad Sci U S A. 1995 Jan 17;92(2):532-6.</reference_text>
+      <pubmed_id>7530363</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moilanen JS, Finnila S, Majamaa K: Lineage-specific selection in human mtDNA: lack of polymorphisms in a segment of MTND5 gene in haplogroup J. Mol Biol Evol. 2003 Dec;20(12):2132-42. Epub 2003 Aug 29.</reference_text>
+      <pubmed_id>12949126</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ingman M, Kaessmann H, Paabo S, Gyllensten U: Mitochondrial genome variation and the origin of modern humans.  Nature. 2000 Dec 7;408(6813):708-13.</reference_text>
+      <pubmed_id>11130070</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ingman M, Gyllensten U: Mitochondrial genome variation and evolutionary history of Australian and New Guinean aborigines. Genome Res. 2003 Jul;13(7):1600-6.</reference_text>
+      <pubmed_id>12840039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Coble MD, Just RS, O'Callaghan JE, Letmanyi IH, Peterson CT, Irwin JA, Parsons TJ: Single nucleotide polymorphisms over the entire mtDNA genome that increase the power of forensic testing in Caucasians. Int J Legal Med. 2004 Jun;118(3):137-46. Epub 2004 Feb 4.</reference_text>
+      <pubmed_id>14760490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sanger F, Coulson AR, Barrell BG, Smith AJ, Roe BA: Cloning in single-stranded bacteriophage as an aid to rapid DNA sequencing. J Mol Biol. 1980 Oct 25;143(2):161-78.</reference_text>
+      <pubmed_id>6260957</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marzuki S, Noer AS, Lertrit P, Thyagarajan D, Kapsa R, Utthanaphol P, Byrne E: Normal variants of human mitochondrial DNA and translation products: the building of a reference data base. Hum Genet. 1991 Dec;88(2):139-45.</reference_text>
+      <pubmed_id>1757091</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brown MD, Yang CC, Trounce I, Torroni A, Lott MT, Wallace DC: A mitochondrial DNA variant, identified in Leber hereditary optic neuropathy patients, which extends the amino acid sequence of cytochrome c oxidase subunit I. Am J Hum Genet. 1992 Aug;51(2):378-85.</reference_text>
+      <pubmed_id>1322638</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gattermann N, Retzlaff S, Wang YL, Hofhaus G, Heinisch J, Aul C, Schneider W: Heteroplasmic point mutations of mitochondrial DNA affecting subunit I of cytochrome c oxidase in two patients with acquired idiopathic sideroblastic anemia. Blood. 1997 Dec 15;90(12):4961-72.</reference_text>
+      <pubmed_id>9389715</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broker S, Meunier B, Rich P, Gattermann N, Hofhaus G: MtDNA mutations associated with sideroblastic anaemia cause a defect of mitochondrial cytochrome c oxidase. Eur J Biochem. 1998 Nov 15;258(1):132-8.</reference_text>
+      <pubmed_id>9851701</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karadimas CL, Greenstein P, Sue CM, Joseph JT, Tanji K, Haller RG, Taivassalo T, Davidson MM, Shanske S, Bonilla E, DiMauro S: Recurrent myoglobinuria due to a nonsense mutation in the COX I gene of mitochondrial DNA. Neurology. 2000 Sep 12;55(5):644-9.</reference_text>
+      <pubmed_id>10980727</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Varlamov DA, Kudin AP, Vielhaber S, Schroder R, Sassen R, Becker A, Kunz D, Haug K, Rebstock J, Heils A, Elger CE, Kunz WS: Metabolic consequences of a novel missense mutation of the mtDNA CO I gene. Hum Mol Genet. 2002 Aug 1;11(16):1797-805.</reference_text>
+      <pubmed_id>12140182</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lucioli S, Hoffmeier K, Carrozzo R, Tessa A, Ludwig B, Santorelli FM: Introducing a novel human mtDNA mutation into the Paracoccus denitrificans COX I gene explains functional deficits in a patient. Neurogenetics. 2006 Mar;7(1):51-7. Epub 2005 Nov 12.</reference_text>
+      <pubmed_id>16284789</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cholic acid</name>
+        <accession>HMDB00619</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

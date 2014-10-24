@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:58:32 -0700</creation_date>
+  <update_date>2013-05-27 11:36:37 -0600</update_date>
+  <accession>HMDBP07382</accession>
+  <secondary_accessions>
+    <accession>13041</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>GluRS</synonym>
+    <synonym>Glutamate--tRNA ligase</synonym>
+    <synonym>Glutamyl-tRNA synthetase</synonym>
+  </synonyms>
+  <gene_name>EARS2</gene_name>
+  <general_function>Involved in nucleotide binding</general_function>
+  <specific_function>Catalyzes the attachment of glutamate to tRNA(Glu) in a two-step reaction: glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu) (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glutamate Metabolism</name>
+      <smpdb_id>SMP00072</smpdb_id>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Porphyrin and chlorophyll metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00860</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Aminoacyl-tRNA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00970</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00112</accession>
+      <name>Gamma-Aminobutyric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>glutamate-trna ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-oxygen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming aminoacyl-trna and related compounds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>aminoacyl-trna ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamyl-trna aminoacylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>rna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ncrna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna aminoacylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>trna aminoacylation for protein translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>translation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate-tRNA ligase activity</description>
+      <go_id>GO:0004818</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate-tRNA(Gln) ligase activity</description>
+      <go_id>GO:0050561</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamyl-tRNA aminoacylation</description>
+      <go_id>GO:0006424</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>tRNA aminoacylation for mitochondrial protein translation</description>
+      <go_id>GO:0070127</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16p12.2</locus>
+    <gene_sequence>&gt;1572 bp
+ATGGCGGCGCTCCTGAGGAGACTGCTGCAGCGCGAGAGGCCTTCGGCGGCCTCTGGCCGC
+CCCGTAGGACGGCGCGAGGCCAACCTGGGCACTGATGCCGGGGTTGCGGTGCGAGTGCGG
+TTCGCTCCCAGCCCCACAGGCTTCTTGCACCTGGGTGGCCTCCGCACTGCCTTGTACAAC
+TACATCTTTGCTAAGAAGTACCAGGGGAGCTTCATCCTGAGGCTAGAGGACACAGATCAG
+ACTCGCGTTGTGCCTGGGGCAGCGGAGAATATTGAGGACATGCTGGAGTGGGCAGGCATC
+CCGCCTGATGAGAGCCCCCGCCGGGGCGGTCCTGCTGGGCCCTACCAGCAATCTCAGCGG
+TTGGAGCTGTATGCCCAGGCCACAGAAGCGCTGCTGAAGACCGGAGCTGCTTACCCCTGT
+TTCTGCTCACCCCAGCGGCTGGAGCTCCTGAAGAAGGAGGCCTTGCGGAACCACCAGACG
+CCCCGGTATGACAATCGGTGCAGGAACATGAGCCAGGAGCAGGTGGCCCAGAAGCTGGCC
+AAGGACCCCAAGCCTGCGATCCGCTTCCGCCTGGAGCAGGTGGTGCCAGCCTTCCAGGAC
+CTGGTCTATGGCTGGAATAGGCATGAAGTGGCCAGCGTGGAGGGAGACCCAGTCATCATG
+AAGAGCGACGGCTTCCCCACATACCACCTGGCCTGCGTGGTGGACGACCACCACATGGGC
+ATCAGCCACGTGCTGCGAGGCTCTGAGTGGCTCGTCTCCACTGCCAAGCACCTGCTCCTC
+TACCAGGCCCTGGGCTGGCAGCCACCCCACTTCGCCCACCTGCCCCTGCTCCTCAACAGG
+GATGGCAGCAAGCTCTCCAAGAGGCAAGGGGACGTTTTCCTGGAGCACTTTGCTGCTGAT
+GGCTTCCTGCCCGATTCCTTGTTGGACATCATCACCAACTGTGGCTCAGGTTTTGCAGAG
+AACCAAATGGGCAGGACCCTGCCGGAGCTGATCACACAGTTCAACCTGACACAGGTCACC
+TGTCACTCAGCCCTGCTGGACCTGGAGAAGCTCCCAGAATTCAACAGACTGCACCTCCAG
+CGGCTGGTGAGCAATGAGAGCCAGAGGCGCCAGCTGGTGGGGAAGCTGCAGGTCCTTGTG
+GAGGAGGCCTTTGGTTGCCAGCTGCAAAACAGGGATGTCCTCAACCCAGTCTACGTGGAG
+AGGATCCTCCTGCTGAGACAGGGTCACATTTGCCGCCTGCAGGACTTGGTGTCCCCAGTA
+TACTCTTACCTGTGGACTCGCCCTGCAGTAGGTCGAGCACAGCTGGACGCCATCTCGGAG
+AAGGTGGATGTGATTGCCAAGCGTGTGCTGGGGCTTCTAGAAAGATCTAGTATGAGCTTA
+ACTCAGGATATGCTGAATGGAGAACTGAAGAAGCTATCAGAAGGTCTGGAAGGCACCAAG
+TACAGTAATGTGATGAAACTCCTTCGGATGGCCCTCAGTGGACAGCAGCAAGGACCTCCT
+GTAGCTGAGATGATGTTGGCCTTGGGACCAAAGGAAGTACGGGAACGGATCCAGAAGGTG
+GTTTCCAGCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>523</residue_number>
+    <molecular_weight>58688.1</molecular_weight>
+    <theoretical_pi>8.769</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>tRNA-synt_1c</name>
+        <pfam_id>PF00749</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Probable glutamyl-tRNA synthetase, mitochondrial
+MAALLRRLLQRERPSAASGRPVGRREANLGTDAGVAVRVRFAPSPTGFLHLGGLRTALYN
+YIFAKKYQGSFILRLEDTDQTRVVPGAAENIEDMLEWAGIPPDESPRRGGPAGPYQQSQR
+LELYAQATEALLKTGAAYPCFCSPQRLELLKKEALRNHQTPRYDNRCRNMSQEQVAQKLA
+KDPKPAIRFRLEQVVPAFQDLVYGWNRHEVASVEGDPVIMKSDGFPTYHLACVVDDHHMG
+ISHVLRGSEWLVSTAKHLLLYQALGWQPPHFAHLPLLLNRDGSKLSKRQGDVFLEHFAAD
+GFLPDSLLDIITNCGSGFAENQMGRTLPELITQFNLTQVTCHSALLDLEKLPEFNRLHLQ
+RLVSNESQRRQLVGKLQVLVEEAFGCQLQNRDVLNPVYVERILLLRQGHICRLQDLVSPV
+YSYLWTRPAVGRAQLDAISEKVDVIAKRVLGLLERSSMSLTQDMLNGELKKLSEGLEGTK
+YSNVMKLLRMALSGQQQGPPVAEMMLALGPKEVRERIQKVVSS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>134288884</genbank_protein_id>
+  <uniprot_id>Q5JPH6</uniprot_id>
+  <uniprot_name>SYEM_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001083614.1</genbank_gene_id>
+  <genecard_id>EARS2</genecard_id>
+  <geneatlas_id>EARS2</geneatlas_id>
+  <hgnc_id>HGNC:29419</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Kikuno R, Ohara O: Prediction of the coding sequences of unidentified human genes. XXII. The complete sequences of 50 new cDNA clones which code for large proteins. DNA Res. 2001 Dec 31;8(6):319-27.</reference_text>
+      <pubmed_id>11853319</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bonnefond L, Fender A, Rudinger-Thirion J, Giege R, Florentz C, Sissler M: Toward the full set of human mitochondrial aminoacyl-tRNA synthetases: characterization of AspRS and TyrRS. Biochemistry. 2005 Mar 29;44(12):4805-16.</reference_text>
+      <pubmed_id>15779907</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sekine S, Shichiri M, Bernier S, Chenevert R, Lapointe J, Yokoyama S: Structural bases of transfer RNA-dependent amino acid recognition and activation by glutamyl-tRNA synthetase. Structure. 2006 Dec;14(12):1791-9.</reference_text>
+        <pubmed_id>17161369</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

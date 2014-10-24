@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:54 -0700</creation_date>
+  <update_date>2013-05-27 11:09:09 -0600</update_date>
+  <accession>HMDBP00359</accession>
+  <secondary_accessions>
+    <accession>5595</accession>
+    <accession>HMDBP04249</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CPSase I</synonym>
+    <synonym>Carbamoyl-phosphate synthetase I</synonym>
+  </synonyms>
+  <gene_name>CPS1</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Involved in the urea cycle of ureotelic animals where the enzyme plays an important role in removing excess ammonia from the cell.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Ammonia Recycling</name>
+      <smpdb_id>SMP00009</smpdb_id>
+      <kegg_map_id>map00910</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Arginine and Proline Metabolism</name>
+      <smpdb_id>SMP00020</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Urea Cycle</name>
+      <smpdb_id>SMP00059</smpdb_id>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Alanine, aspartate and glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01096</accession>
+      <name>Carbamoyl phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00766</accession>
+      <name>N-Acetyl-L-alanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01138</accession>
+      <name>N-Acetylglutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15673</accession>
+      <name>Carglumic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbamoyl-phosphate synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial nucleoid</description>
+      <go_id>GO:0042645</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>protein complex</description>
+      <go_id>GO:0043234</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>calcium ion binding</description>
+      <go_id>GO:0005509</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carbamoyl-phosphate synthase (ammonia) activity</description>
+      <go_id>GO:0004087</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>endopeptidase activity</description>
+      <go_id>GO:0004175</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate binding</description>
+      <go_id>GO:0016595</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>modified amino acid binding</description>
+      <go_id>GO:0072341</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phospholipid binding</description>
+      <go_id>GO:0005543</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>anion homeostasis</description>
+      <go_id>GO:0055081</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbamoyl phosphate biosynthetic process</description>
+      <go_id>GO:0070409</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to cAMP</description>
+      <go_id>GO:0071320</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to fibroblast growth factor stimulus</description>
+      <go_id>GO:0044344</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to glucagon stimulus</description>
+      <go_id>GO:0071377</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to oleic acid</description>
+      <go_id>GO:0071400</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>citrulline biosynthetic process</description>
+      <go_id>GO:0019240</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamine catabolic process</description>
+      <go_id>GO:0006543</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycogen catabolic process</description>
+      <go_id>GO:0005980</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hepatocyte differentiation</description>
+      <go_id>GO:0070365</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>homocysteine metabolic process</description>
+      <go_id>GO:0050667</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>midgut development</description>
+      <go_id>GO:0007494</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nitric oxide metabolic process</description>
+      <go_id>GO:0046209</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of vasodilation</description>
+      <go_id>GO:0045909</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amine stimulus</description>
+      <go_id>GO:0014075</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to amino acid stimulus</description>
+      <go_id>GO:0043200</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to dexamethasone stimulus</description>
+      <go_id>GO:0071548</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to food</description>
+      <go_id>GO:0032094</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to growth hormone stimulus</description>
+      <go_id>GO:0060416</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to lipopolysaccharide</description>
+      <go_id>GO:0032496</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to starvation</description>
+      <go_id>GO:0042594</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to zinc ion</description>
+      <go_id>GO:0010043</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>triglyceride catabolic process</description>
+      <go_id>GO:0019433</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>urea cycle</description>
+      <go_id>GO:0000050</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2q35</locus>
+    <gene_sequence>&gt;4503 bp
+ATGACGAGGATTTTGACAGCTTTCAAAGTGGTGAGGACACTGAAGACTGGTTTTGGCTTT
+ACCAATGTGACTGCACACCAAAAATGGAAATTTTCAAGACCTGGCATCAGGCTCCTTTCT
+GTCAAGGCACAGACAGCACACATTGTCCTGGAAGATGGAACTAAGATGAAAGGTTACTCC
+TTTGGCCATCCATCCTCTGTTGCTGGTGAAGTGGTTTTTAATACTGGCCTGGGAGGGTAC
+CCAGAAGCTATTACTGACCCTGCCTACAAAGGACAGATTCTCACAATGGCCAACCCTATT
+ATTGGGAATGGTGGAGCTCCTGATACTACTGCTCTGGATGAACTGGGACTTAGCAAATAT
+TTGGAGTCTAATGGAATCAAGGTTTCAGGTTTGCTGGTGCTGGATTATAGTAAAGACTAC
+AACCACTGGCTGGCTACCAAGAGTTTAGGGCAATGGCTACAGGAAGAAAAGGTTCCTGCA
+ATTTATGGAGTGGACACAAGAATGCTGACTAAAATAATTCGGGATAAGGGTACCATGCTT
+GGGAAGATTGAATTTGAAGGTCAGCCTGTGGATTTTGTGGATCCAAATAAACAGAATTTG
+ATTGCTGAGGTTTCAACCAAGGATGTCAAAGTGTACGGCAAAGGAAACCCCACAAAAGTG
+GTAGCTGTAGACTGTGGGATTAAAAACAATGTAATCCGCCTGCTAGTAAAGCGAGGAGCT
+GAAGTGCACTTAGTTCCCTGGAACCATGATTTCACCAAGATGGAGTATGATGGGATTTTG
+ATCGCGGGAGGACCGGGGAACCCAGCTCTTGCAGAACCACTAATTCAGAATGTCAGAAAG
+ATTTTGGAGAGTGATCGCAAGGAGCCATTGTTTGGAATCAGTACAGGAAACTTAATAACA
+GGATTGGCTGCTGGTGCCAAAACCTACAAGATGTCCATGGCCAACAGAGGGCAGAATCAG
+CCTGTTTTGAATATCACAAACAAACAGGCTTTCATTACTGCTCAGAATCATGGCTATGCC
+TTGGACAACACCCTCCCTGCTGGCTGGAAACCACTTTTTGTGAATGTCAACGATCAAACA
+AATGAGGGGATTATGCATGAGAGCAAACCCTTCTTCGCTGTGCAGTTCCACCCAGAGGTC
+ACCCCGGGGCCAATAGACACTGAGTACCTGTTTGATTCCTTTTTCTCACTGATAAAGAAA
+GGAAAAGCTACCACCATTACATCAGTCTTACCGAAGCCAGCACTAGTTGCATCTCGGGTT
+GAGGTTTCCAAAGTCCTTATTCTAGGATCAGGAGGTCTGTCCATTGGTCAGGCTGGAGAA
+TTTGATTACTCAGGATCTCAAGCTGTAAAAGCCATGAAGGAAGAAAATGTCAAAACTGTT
+CTGATGAACCCAAACATTGCATCAGTCCAGACCAATGAGGTGGGCTTAAAGCAAGCGGAT
+ACTGTCTACTTTCTTCCCATCACCCCTCAGTTTGTCACAGAGGTCATCAAGGCAGAACAG
+CCAGATGGGTTAATTCTGGGCATGGGTGGCCAGACAGCTCTGAACTGTGGAGTGGAACTA
+TTCAAGAGAGGTGTGCTCAAGGAATATGGTGTGAAAGTCCTGGGAACTTCAGTTGAGTCC
+ATTATGGCTACGGAAGACAGGCAGCTGTTTTCAGATAAACTAAATGAGATCAATGAAAAG
+ATTGCTCCAAGTTTTGCAGTGGAATCGATTGAGGATGCACTGAAGGCAGCAGACACCATT
+GGCTACCCAGTGATGATCCGTTCCGCCTATGCACTGGGTGGGTTAGGCTCAGGCATCTGT
+CCCAACAGAGAGACTTTGATGGACCTCAGCACAAAGGCCTTTGCTATGACCAACCAAATT
+CTGGTGGAGAAGTCAGTGACAGGTTGGAAAGAAATAGAATATGAAGTGGTTCGAGATGCT
+GATGACAATTGTGTCACTGTCTGTAACATGGAAAATGTTGATGCCATGGGTGTTCACACA
+GGTGACTCAGTTGTTGTGGCTCCTGCCCAGACACTCTCCAATGCCGAGTTTCAGATGTTG
+AGACGTACTTCAATCAATGTTGTTCGCCACTTGGGCATTGTGGGTGAATGCAACATTCAG
+TTTGCCCTTCATCCTACCTCAATGGAATACTGCATCATTGAAGTGAATGCCAGACTGTCC
+CGAAGCTCTGCTCTGGCCTCAAAAGCCACTGGCTACCCATTGGCATTCATTGCTGCAAAG
+ATTGCCCTAGGAATCCCACTTCCAGAAATTAAGAACGTCGTATCCGGGAAGACATCAGCC
+TGTTTTGAACCTAGCCTGGATTACATGGTCACCAAGATTCCCCGCTGGGATCTTGACCGT
+TTTCATGGAACATCTAGCCGAATTGGTAGCTCTATGAAAAGTGTAGGAGAGGTCATGGCT
+ATTGGTCGTACCTTTGAGGAGAGTTTCCAGAAAGCTTTACGGATGTGCCACCCATCTATA
+GAAGGTTTCACTCCCCGTCTCCCAATGAACAAAGAATGGCCATCTAATTTAGATCTTAGA
+AAAGAGTTGTCTGAACCAAGCAGCACGCGTATCTATGCCATTGCCAAGGCCATTGATGAC
+AACATGTCCCTTGATGAGATTGAGAAGCTCACATACATTGACAAGTGGTTTTTGTATAAG
+ATGCGTGATATTTTAAACATGGAAAAGACACTGAAAGGGCTCAACAGTGAGTCCATGACA
+GAAGAAACCCTGAAAAGGGCAAAGGAGATTGGGTTCTCAGATAAGCAGATTTCAAAATGC
+CTTGGGCTCACTGAGGCCCAGACAAGGGAGCTGAGGTTAAAGAAAAACATCCACCCTTGG
+GTTAAACAGATTGATACACTGGCTGCAGAATACCCATCAGTAACAAACTATCTCTATGTT
+ACCTACAATGGTCAGGAGCATGATGTCAATTTTGATGACCATGGAATGATGGTGCTAGGC
+TGTGGTCCATATCACATTGGCAGCAGTGTGGAATTTGATTGGTGTGCTGTCTCTAGTATC
+CGCACACTGCGTCAACTTGGCAAGAAGACGGTGGTGGTGAATTGCAATCCTGAGACTGTG
+AGCACAGACTTTGATGAGTGTGACAAACTGTACTTTGAAGAGTTGTCCTTGGAGAGAATC
+CTAGACATCTACCATCAGGAGGCATGTGGTGGCTGCATCATATCAGTTGGAGGCCAGATT
+CCAAACAACCTGGCAGTTCCTCTATACAAGAATGGTGTCAAGATCATGGGCACAAGCCCC
+CTGCAGATCGACAGGGCTGAGGATCGCTCCATCTTCTCAGCTGTCTTGGATGAGCTGAAG
+GTGGCTCAGGCACCTTGGAAAGCTGTTAATACTTTGAATGAAGCACTGGAATTTGCAAAG
+TCTGTGGACTACCCCTGCTTGTTGAGGCCTTCCTATGTTTTGAGTGGGTCTGCTATGAAT
+GTGGTATTCTCTGAGGATGAGATGAAAAAATTCCTAGAAGAGGCGACTAGAGTTTCTCAG
+GAGCACCCAGTGGTCCTGACAAAATTTGTTGAAGGGGCCCGAGAAGTAGAAATGGACGCT
+GTTGGCAAAGATGGAAGGGTTATCTCTCATGCCATCTCTGAACATGTTGAAGATGCAGGT
+GTCCACTCGGGAGATGCCACTCTGATGCTGCCCACACAAACCATCAGCCAAGGGGCCATT
+GAAAAGGTGAAGGATGCTACCCGGAAGATTGCAAAGGCTTTTGCCATCTCTGGTCCATTC
+AACGTCCAATTTCTTGTCAAAGGAAATGATGTCTTGGTGATTGAGTGTAACTTGAGAGCT
+TCTCGATCCTTCCCCTTTGTTTCCAAGACTCTTGGGGTTGACTTCATTGATGTGGCCACC
+AAGGTGATGATTGGAGAGAATGTTGATGAGAAACATCTTCCAACATTGGACCATCCCATA
+ATTCCTGCTGACTATGTTGCAATTAAGGCTCCCATGTTTTCCTGGCCCCGGTTGAGGGAT
+GCTGACCCCATTCTGAGATGTGAGATGGCTTCCACTGGAGAGGTGGCTTGCTTTGGTGAA
+GGTATTCATACAGCCTTCCTAAAGGCAATGCTTTCCACAGGATTTAAGATACCCCAGAAA
+GGCATCCTGATAGGCATCCAGCAATCATTCCGGCCAAGATTCCTTGGTGTGGCTGAACAA
+TTACACAATGAAGGTTTCAAGCTGTTTGCCACGGAAGCCACATCAGACTGGCTCAACGCC
+AACAATGTCCCTGCCACCCCAGTGGCATGGCCGTCTCAAGAAGGACAGAATCCCAGCCTC
+TCTTCCATCAGAAAATTGATTAGAGATGGCAGCATTGACCTAGTGATTAACCTTCCCAAC
+AACAACACTAAATTTGTCCATGATAATTATGTGATTCGGAGGACAGCTGTTGATAGTGGA
+ATCCCTCTCCTCACTAATTTTCAGGTGACCAAACTTTTTGCTGAAGCTGTGCAGAAATCT
+CGCAAGGTGGACTCCAAGAGTCTTTTCCACTACAGGCAGTACAGTGCTGGAAAAGCAGCA
+TAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1500</residue_number>
+    <molecular_weight>165649.075</molecular_weight>
+    <theoretical_pi>6.79</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CPSase_L_chain</name>
+        <pfam_id>PF00289</pfam_id>
+      </pfam>
+      <pfam>
+        <name>CPSase_L_D2</name>
+        <pfam_id>PF02786</pfam_id>
+      </pfam>
+      <pfam>
+        <name>CPSase_L_D3</name>
+        <pfam_id>PF02787</pfam_id>
+      </pfam>
+      <pfam>
+        <name>CPSase_sm_chain</name>
+        <pfam_id>PF00988</pfam_id>
+      </pfam>
+      <pfam>
+        <name>GATase</name>
+        <pfam_id>PF00117</pfam_id>
+      </pfam>
+      <pfam>
+        <name>MGS</name>
+        <pfam_id>PF02142</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Carbamoyl-phosphate synthase [ammonia], mitochondrial
+MTRILTAFKVVRTLKTGFGFTNVTAHQKWKFSRPGIRLLSVKAQTAHIVLEDGTKMKGYS
+FGHPSSVAGEVVFNTGLGGYPEAITDPAYKGQILTMANPIIGNGGAPDTTALDELGLSKY
+LESNGIKVSGLLVLDYSKDYNHWLATKSLGQWLQEEKVPAIYGVDTRMLTKIIRDKGTML
+GKIEFEGQPVDFVDPNKQNLIAEVSTKDVKVYGKGNPTKVVAVDCGIKNNVIRLLVKRGA
+EVHLVPWNHDFTKMEYDGILIAGGPGNPALAEPLIQNVRKILESDRKEPLFGISTGNLIT
+GLAAGAKTYKMSMANRGQNQPVLNITNKQAFITAQNHGYALDNTLPAGWKPLFVNVNDQT
+NEGIMHESKPFFAVQFHPEVTPGPIDTEYLFDSFFSLIKKGKATTITSVLPKPALVASRV
+EVSKVLILGSGGLSIGQAGEFDYSGSQAVKAMKEENVKTVLMNPNIASVQTNEVGLKQAD
+TVYFLPITPQFVTEVIKAEQPDGLILGMGGQTALNCGVELFKRGVLKEYGVKVLGTSVES
+IMATEDRQLFSDKLNEINEKIAPSFAVESIEDALKAADTIGYPVMIRSAYALGGLGSGIC
+PNRETLMDLSTKAFAMTNQILVEKSVTGWKEIEYEVVRDADDNCVTVCNMENVDAMGVHT
+GDSVVVAPAQTLSNAEFQMLRRTSINVVRHLGIVGECNIQFALHPTSMEYCIIEVNARLS
+RSSALASKATGYPLAFIAAKIALGIPLPEIKNVVSGKTSACFEPSLDYMVTKIPRWDLDR
+FHGTSSRIGSSMKSVGEVMAIGRTFEESFQKALRMCHPSIEGFTPRLPMNKEWPSNLDLR
+KELSEPSSTRIYAIAKAIDDNMSLDEIEKLTYIDKWFLYKMRDILNMEKTLKGLNSESMT
+EETLKRAKEIGFSDKQISKCLGLTEAQTRELRLKKNIHPWVKQIDTLAAEYPSVTNYLYV
+TYNGQEHDVNFDDHGMMVLGCGPYHIGSSVEFDWCAVSSIRTLRQLGKKTVVVNCNPETV
+STDFDECDKLYFEELSLERILDIYHQEACGGCIISVGGQIPNNLAVPLYKNGVKIMGTSP
+LQIDRAEDRSIFSAVLDELKVAQAPWKAVNTLNEALEFAKSVDYPCLLRPSYVLSGSAMN
+VVFSEDEMKKFLEEATRVSQEHPVVLTKFVEGAREVEMDAVGKDGRVISHAISEHVEDAG
+VHSGDATLMLPTQTISQGAIEKVKDATRKIAKAFAISGPFNVQFLVKGNDVLVIECNLRA
+SRSFPFVSKTLGVDFIDVATKVMIGENVDEKHLPTLDHPIIPADYVAIKAPMFSWPRLRD
+ADPILRCEMASTGEVACFGEGIHTAFLKAMLSTGFKIPQKGILIGIQQSFRPRFLGVAEQ
+LHNEGFKLFATEATSDWLNANNVPATPVAWPSQEGQNPSLSSIRKLIRDGSIDLVINLPN
+NNTKFVHDNYVIRRTAVDSGIPLLTNFQVTKLFAEAVQKSRKVDSKSLFHYRQYSAGKAA
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>5020420</genbank_protein_id>
+  <uniprot_id>P31327</uniprot_id>
+  <uniprot_name>CPSM_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2YVQ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF154830</genbank_gene_id>
+  <genecard_id>CPS1</genecard_id>
+  <geneatlas_id>CPS1</geneatlas_id>
+  <hgnc_id>HGNC:2323</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Haraguchi Y, Uchino T, Takiguchi M, Endo F, Mori M, Matsuda I: Cloning and sequence of a cDNA encoding human carbamyl phosphate synthetase I: molecular analysis of hyperammonemia. Gene. 1991 Nov 15;107(2):335-40.</reference_text>
+      <pubmed_id>1840546</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Finckh U, Kohlschutter A, Schafer H, Sperhake K, Colombo JP, Gal A: Prenatal diagnosis of carbamoyl phosphate synthetase I deficiency by identification of a missense mutation in CPS1. Hum Mutat. 1998;12(3):206-11.</reference_text>
+      <pubmed_id>9711878</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Summar ML, Hall LD, Eeds AM, Hutcheson HB, Kuo AN, Willis AS, Rubio V, Arvin MK, Schofield JP, Dawson EP: Characterization of genomic structure and polymorphisms in the human carbamyl phosphate synthetase I gene. Gene. 2003 Jun 5;311:51-7.</reference_text>
+      <pubmed_id>12853138</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Funghini S, Donati MA, Pasquini E, Zammarchi E, Morrone A: Structural organization of the human carbamyl phosphate synthetase I gene (CPS1) and identification of two novel genetic lesions. Hum Mutat. 2003 Oct;22(4):340-1.</reference_text>
+      <pubmed_id>12955727</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haberle J, Schmidt E, Pauli S, Rapp B, Christensen E, Wermuth B, Koch HG: Gene structure of human carbamylphosphate synthetase 1 and novel mutations in patients with neonatal onset. Hum Mutat. 2003 Apr;21(4):444.</reference_text>
+      <pubmed_id>12655559</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aoshima T, Kajita M, Sekido Y, Kikuchi S, Yasuda I, Saheki T, Watanabe K, Shimokata K, Niwa T: Novel mutations (H337R and 238-362del) in the CPS1 gene cause carbamoyl phosphate synthetase I deficiency. Hum Hered. 2001;52(2):99-101.</reference_text>
+      <pubmed_id>11474210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pearson DL, Dawling S, Walsh WF, Haines JL, Christman BW, Bazyk A, Scott N, Summar ML: Neonatal pulmonary hypertension--urea-cycle intermediates, nitric oxide production, and carbamoyl-phosphate synthetase function. N Engl J Med. 2001 Jun 14;344(24):1832-8.</reference_text>
+      <pubmed_id>11407344</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wakutani Y, Nakayasu H, Takeshima T, Adachi M, Kawataki M, Kihira K, Sawada H, Bonno M, Yamamoto H, Nakashima K: Mutational analysis of carbamoylphosphate synthetase I deficiency in three Japanese patients. J Inherit Metab Dis. 2004;27(6):787-8.</reference_text>
+      <pubmed_id>15617192</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haberle J, Koch HG: Genetic approach to prenatal diagnosis in urea cycle defects.  Prenat Diagn. 2004 May;24(5):378-83.</reference_text>
+      <pubmed_id>15164414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kurokawa K, Yorifuji T, Kawai M, Momoi T, Nagasaka H, Takayanagi M, Kobayashi K, Yoshino M, Kosho T, Adachi M, Otsuka H, Yamamoto S, Murata T, Suenaga A, Ishii T, Terada K, Shimura N, Kiwaki K, Shintaku H, Yamakawa M, Nakabayashi H, Wakutani Y, Nakahata T: Molecular and clinical analyses of Japanese patients with carbamoylphosphate synthetase 1 (CPS1) deficiency. J Hum Genet. 2007;52(4):349-54. Epub 2007 Feb 20.</reference_text>
+      <pubmed_id>17310273</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moonen RM, Reyes I, Cavallaro G, Gonzalez-Luis G, Bakker JA, Villamor E: The T1405N carbamoyl phosphate synthetase polymorphism does not affect plasma arginine concentrations in preterm infants. PLoS One. 2010 May 25;5(5):e10792.</reference_text>
+      <pubmed_id>20520828</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carglumic acid</name>
+        <accession>HMDB15673</accession>
+      </metabolite>
+      <reference>
+        <reference_text>[No authors listed]Carglumic acid: a second look. Confirmed progress in a rare urea cycle disorder.  Prescrire Int. 2008 Apr;17(94):50-1.</reference_text>
+        <pubmed_id>18516804</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carglumic acid</name>
+        <accession>HMDB15673</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hart EJ, Powers-Lee SG: Role of Cys-1327 and Cys-1337 in redox sensitivity and allosteric monitoring in human carbamoyl phosphate synthetase. J Biol Chem. 2009 Feb 27;284(9):5977-85. Epub 2008 Dec 23.</reference_text>
+        <pubmed_id>19106093</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carglumic acid</name>
+        <accession>HMDB15673</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kasapkara CS, Ezgu FS, Okur I, Tumer L, Biberoglu G, Hasanoglu A: N-carbamylglutamate treatment for acute neonatal hyperammonemia in isovaleric acidemia. Eur J Pediatr. 2011 Jun;170(6):799-801. Epub 2011 Jan 5.</reference_text>
+        <pubmed_id>21207059</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

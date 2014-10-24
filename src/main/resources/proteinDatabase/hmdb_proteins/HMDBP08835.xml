@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:06 -0700</creation_date>
+  <update_date>2013-01-15 20:16:06 -0700</update_date>
+  <accession>HMDBP08835</accession>
+  <secondary_accessions>
+    <accession>14560</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DNA excision repair protein ERCC-4</synonym>
+    <synonym>DNA repair protein complementing XP-F cells</synonym>
+    <synonym>Xeroderma pigmentosum group F-complementing protein</synonym>
+  </synonyms>
+  <gene_name>ERCC4</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Structure-specific DNA repair endonuclease responsible for the 5-prime incision during DNA repair. Involved in homologous recombination that assists in removing interstrand cross-link</specific_function>
+  <pathways>
+    <pathway>
+      <name>Nucleotide Excision Repair</name>
+      <smpdb_id>SMP00478</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>endonuclease activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nuclease activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16p13.12</locus>
+    <gene_sequence>&gt;2751 bp
+ATGGAGTCAGGGCAGCCGGCTCGACGGATTGCCATGGCGCCGCTGCTGGAGTACGAGCGA
+CAGCTGGTGCTGGAACTGCTCGACACTGACGGGCTAGTAGTGTGCGCCCGCGGGCTCGGC
+GCGGACCGGCTCCTCTACCACTTTCTCCAGCTGCACTGCCACCCAGCCTGCCTGGTGCTG
+GTGCTCAACACGCAGCCGGCCGAGGAGGAGTATTTTATCAATCAGCTGAAGATAGAAGGA
+GTTGAACACCTCCCTCGCCGTGTAACAAATGAAATCACAAGCAACAGTCGCTATGAAGTT
+TACACACAAGGTGGTGTTATATTTGCGACAAGTAGGATACTTGTGGTTGACTTCTTGACT
+GATAGAATACCTTCAGATTTAATTACTGGCATCTTGGTGTATAGAGCCCACAGAATAATC
+GAGTCTTGTCAAGAAGCATTCATCTTGCGCCTCTTTCGCCAGAAAAACAAACGTGGTTTT
+ATTAAAGCTTTCACAGACAATGCTGTTGCCTTTGATACTGGTTTTTGTCATGTGGAAAGA
+GTGATGAGAAATCTTTTTGTGAGGAAACTGTATCTGTGGCCAAGGTTCCATGTAGCAGTA
+AACTCATTTTTAGAACAGCACAAACCTGAAGTTGTAGAAATCCATGTTTCTATGACACCT
+ACCATGCTTGCTATACAGACTGCTATACTGGACATTTTAAATGCATGTCTAAAGGAACTA
+AAATGCCATAACCCATCGCTTGAAGTGGAAGATTTATCTTTAGAAAATGCTATTGGAAAA
+CCTTTTGACAAGACAATCCGCCATTATCTGGATCCTTTGTGGCACCAGCTTGGAGCCAAG
+ACTAAATCCTTAGTTCAGGATTTGAAGATATTACGAACTTTGCTGCAGTATCTCTCTCAG
+TATGATTGTGTCACATTTCTTAATCTTCTGGAATCTCTGAGAGCAACGGAAAAAGCTTTT
+GGTCAGAATTCAGGTTGGCTGTTTCTTGACTCCAGCACCTCGATGTTTATAAATGCTCGA
+GCAAGGGTTTATCATCTTCCAGATGCCAAAATGAGTAAAAAAGAAAAAATATCTGAAAAA
+ATGGAAATTAAAGAAGGGGAAGAAACAAAAAAGGAACTGGTCCTAGAAAGCAACCCAAAG
+TGGGAGGCACTGACTGAAGTATTAAAAGAAATTGAGGCAGAAAATAAGGAGAGTGAAGCT
+CTTGGTGGTCCAGGTCAAGTACTGATTTGTGCAAGTGATGACCGAACATGTTCCCAGCTG
+AGAGACTATATCACTCTTGGAGCGGAGGCCTTCTTATTGAGGCTCTACAGGAAAACCTTT
+GAGAAGGATAGCAAAGCTGAAGAAGTCTGGATGAAATTTAGGAAGGAAGACAGTTCAAAG
+AGAATTAGGAAATCTCACAAAAGACCTAAAGACCCCCAAAACAAAGAACGGGCTTCTACC
+AAAGAAAGAACCCTCAAAAAGAAAAAACGGAAGTTGACCTTAACTCAAATGGTAGGAAAA
+CCTGAAGAACTGGAAGAGGAAGGAGATGTCGAGGAAGGATATCGTCGAGAAATAAGCAGT
+AGCCCAGAAAGCTGCCCGGAAGAAATTAAGCATGAAGAATTTGATGTAAATTTGTCATCG
+GATGCTGCTTTCGGAATCCTGAAAGAACCCCTCACTATCATCCATCCGCTTCTGGGTTGC
+AGCGACCCCTATGCTCTGACAAGGGTACTACATGAAGTGGAGCCAAGATACGTGGTTCTT
+TATGACGCAGAGCTAACCTTTGTTCGGCAGCTTGAAATTTACAGGGCGAGTAGGCCTGGG
+AAACCTCTGAGGGTTTACTTTCTTATATACGGAGGTTCAACTGAGGAACAACGCTATCTC
+ACTGCTTTGCGGAAAGAAAAGGAAGCTTTTGAAAAACTCATAAGGGAAAAAGCAAGCATG
+GTTGTCCCTGAAGAAAGAGAAGGCAGAGATGAAACAAACTTAGACCTAGTAAGAGGCACA
+GCATCTGCAGATGTTTCCACTGACACTCGGAAAGCCGGTGGCCAGGAACAGAATGGTACA
+CAGCAAAGCATAGTTGTGGATATGCGTGAATTTCGAAGTGAGCTTCCATCTCTGATCCAT
+CGTCGGGGCATTGACATTGAACCCGTGACTTTAGAGGTTGGAGATTACATCCTCACTCCA
+GAAATGTGCGTGGAGCGCAAGAGTATCAGTGATTTAATCGGCTCTTTAAATAACGGCCGC
+CTCTACAGCCAGTGCATCTCCATGTCCCGCTACTACAAGCGTCCCGTGCTTCTGATTGAG
+TTTGACCCTAGCAAGCCTTTCTCTCTCACTTCCCGAGGTGCCTTGTTTCAGGAGATCTCC
+AGCAATGACATTAGTTCCAAACTCACTCTTCTTACACTTCACTTCCCCAGACTACGGATT
+CTCTGGTGCCCCTCTCCTCATGCAACGGCGGAGTTGTTTGAGGAGCTGAAACAAAGCAAG
+CCACAGCCTGATGCGGCGACAGCACTGGCCATTACAGCAGATTCTGAAACCCTTCCCGAG
+TCAGAGAAGTATAATCCTGGTCCCCAAGACTTCTTGTTAAAAATGCCAGGGGTGAATGCC
+AAAAACTGCCGCTCCTTGATGCACCACGTTAAGAACATCGCAGAATTAGCAGCCCTGTCA
+CAAGACGAGCTCACGAGTATTCTGGGGAATGCTGCAAATGCCAAACAGCTTTATGATTTC
+ATTCACACCTCTTTTGCAGAAGTCGTATCAAAAGGAAAAGGGAAAAAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>916</residue_number>
+    <molecular_weight>104484.9</molecular_weight>
+    <theoretical_pi>6.92</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ERCC4</name>
+        <pfam_id>PF02732</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;DNA repair endonuclease XPF
+MESGQPARRIAMAPLLEYERQLVLELLDTDGLVVCARGLGADRLLYHFLQLHCHPACLVL
+VLNTQPAEEEYFINQLKIEGVEHLPRRVTNEITSNSRYEVYTQGGVIFATSRILVVDFLT
+DRIPSDLITGILVYRAHRIIESCQEAFILRLFRQKNKRGFIKAFTDNAVAFDTGFCHVER
+VMRNLFVRKLYLWPRFHVAVNSFLEQHKPEVVEIHVSMTPTMLAIQTAILDILNACLKEL
+KCHNPSLEVEDLSLENAIGKPFDKTIRHYLDPLWHQLGAKTKSLVQDLKILRTLLQYLSQ
+YDCVTFLNLLESLRATEKAFGQNSGWLFLDSSTSMFINARARVYHLPDAKMSKKEKISEK
+MEIKEGEETKKELVLESNPKWEALTEVLKEIEAENKESEALGGPGQVLICASDDRTCSQL
+RDYITLGAEAFLLRLYRKTFEKDSKAEEVWMKFRKEDSSKRIRKSHKRPKDPQNKERAST
+KERTLKKKKRKLTLTQMVGKPEELEEEGDVEEGYRREISSSPESCPEEIKHEEFDVNLSS
+DAAFGILKEPLTIIHPLLGCSDPYALTRVLHEVEPRYVVLYDAELTFVRQLEIYRASRPG
+KPLRVYFLIYGGSTEEQRYLTALRKEKEAFEKLIREKASMVVPEEREGRDETNLDLVRGT
+ASADVSTDTRKAGGQEQNGTQQSIVVDMREFRSELPSLIHRRGIDIEPVTLEVGDYILTP
+EMCVERKSISDLIGSLNNGRLYSQCISMSRYYKRPVLLIEFDPSKPFSLTSRGALFQEIS
+SNDISSKLTLLTLHFPRLRILWCPSPHATAELFEELKQSKPQPDAATALAITADSETLPE
+SEKYNPGPQDFLLKMPGVNAKNCRSLMHHVKNIAELAALSQDELTSILGNAANAKQLYDF
+IHTSFAEVVSKGKGKK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>19550957</genbank_protein_id>
+  <uniprot_id>Q92889</uniprot_id>
+  <uniprot_name>XPF_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF491814</genbank_gene_id>
+  <genecard_id>ERCC4</genecard_id>
+  <geneatlas_id>ERCC4</geneatlas_id>
+  <hgnc_id>HGNC:3436</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Brookman KW, Lamerdin JE, Thelen MP, Hwang M, Reardon JT, Sancar A, Zhou ZQ, Walter CA, Parris CN, Thompson LH: ERCC4 (XPF) encodes a human nucleotide excision repair protein with eukaryotic recombination homologs. Mol Cell Biol. 1996 Nov;16(11):6553-62.</reference_text>
+      <pubmed_id>8887684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sijbers AM, de Laat WL, Ariza RR, Biggerstaff M, Wei YF, Moggs JG, Carter KC, Shell BK, Evans E, de Jong MC, Rademakers S, de Rooij J, Jaspers NG, Hoeijmakers JH, Wood RD: Xeroderma pigmentosum group F caused by a defect in a structure-specific DNA repair endonuclease. Cell. 1996 Sep 6;86(5):811-22.</reference_text>
+      <pubmed_id>8797827</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cleaver JE, Thompson LH, Richardson AS, States JC: A summary of mutations in the UV-sensitive disorders: xeroderma pigmentosum, Cockayne syndrome, and trichothiodystrophy. Hum Mutat. 1999;14(1):9-22.</reference_text>
+      <pubmed_id>10447254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ciccia A, Ling C, Coulthard R, Yan Z, Xue Y, Meetei AR, Laghmani el H, Joenje H, McDonald N, de Winter JP, Wang W, West SC: Identification of FAAP24, a Fanconi anemia core complex protein that interacts with FANCM. Mol Cell. 2007 Feb 9;25(3):331-43.</reference_text>
+      <pubmed_id>17289582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Svendsen JM, Smogorzewska A, Sowa ME, O'Connell BC, Gygi SP, Elledge SJ, Harper JW: Mammalian BTBD12/SLX4 assembles a Holliday junction resolvase and is required for DNA repair. Cell. 2009 Jul 10;138(1):63-77.</reference_text>
+      <pubmed_id>19596235</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fekairi S, Scaglione S, Chahwan C, Taylor ER, Tissier A, Coulon S, Dong MQ, Ruse C, Yates JR 3rd, Russell P, Fuchs RP, McGowan CH, Gaillard PH: Human SLX4 is a Holliday junction resolvase subunit that binds multiple DNA repair/recombination endonucleases. Cell. 2009 Jul 10;138(1):78-89.</reference_text>
+      <pubmed_id>19596236</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Munoz IM, Hain K, Declais AC, Gardiner M, Toh GW, Sanchez-Pulido L, Heuckmann JM, Toth R, Macartney T, Eppink B, Kanaar R, Ponting CP, Lilley DM, Rouse J: Coordination of structure-specific nucleases by human SLX4/BTBD12 is required for DNA repair. Mol Cell. 2009 Jul 10;35(1):116-27.</reference_text>
+      <pubmed_id>19595721</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Andersen SL, Bergstralh DT, Kohl KP, LaRocque JR, Moore CB, Sekelsky J: Drosophila MUS312 and the vertebrate ortholog BTBD12 interact with DNA structure-specific endonucleases in DNA repair and recombination. Mol Cell. 2009 Jul 10;35(1):128-35.</reference_text>
+      <pubmed_id>19595722</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shen MR, Jones IM, Mohrenweiser H: Nonconservative amino acid substitution variants exist at polymorphic frequency in DNA repair genes in healthy humans. Cancer Res. 1998 Feb 15;58(4):604-8.</reference_text>
+      <pubmed_id>9485007</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsumura Y, Nishigori C, Yagi T, Imamura S, Takebe H: Characterization of molecular defects in xeroderma pigmentosum group F in relation to its clinically mild symptoms. Hum Mol Genet. 1998 Jun;7(6):969-74.</reference_text>
+      <pubmed_id>9580660</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sijbers AM, van Voorst Vader PC, Snoek JW, Raams A, Jaspers NG, Kleijer WJ: Homozygous R788W point mutation in the XPF gene of a patient with xeroderma pigmentosum and late-onset neurologic disease. J Invest Dermatol. 1998 May;110(5):832-6.</reference_text>
+      <pubmed_id>9579555</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fan F, Liu C, Tavare S, Arnheim N: Polymorphisms in the human DNA repair gene XPF.  Mutat Res. 1999 Aug;406(2-4):115-20.</reference_text>
+      <pubmed_id>10479728</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Niedernhofer LJ, Garinis GA, Raams A, Lalai AS, Robinson AR, Appeldoorn E, Odijk H, Oostendorp R, Ahmad A, van Leeuwen W, Theil AF, Vermeulen W, van der Horst GT, Meinecke P, Kleijer WJ, Vijg J, Jaspers NG, Hoeijmakers JH: A new progeroid syndrome reveals that genotoxic stress suppresses the somatotroph axis. Nature. 2006 Dec 21;444(7122):1038-43.</reference_text>
+      <pubmed_id>17183314</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

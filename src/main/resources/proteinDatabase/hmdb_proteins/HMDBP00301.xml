@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:41 -0700</creation_date>
+  <update_date>2013-05-27 11:05:27 -0600</update_date>
+  <accession>HMDBP00301</accession>
+  <secondary_accessions>
+    <accession>5536</accession>
+    <accession>HMDBP03660</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>BCAT(c)</synonym>
+    <synonym>Protein ECA39</synonym>
+  </synonyms>
+  <gene_name>BCAT1</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Catalyzes the first reaction in the catabolism of the essential branched chain amino acids leucine, isoleucine, and valine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Valine, leucine and isoleucine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00280</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Valine, leucine and isoleucine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00290</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pantothenate and CoA biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00770</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>2-Oxocarboxylic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map01210</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00019</accession>
+      <name>Alpha-ketoisovaleric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00883</accession>
+      <name>L-Valine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00491</accession>
+      <name>3-Methyl-2-oxovaleric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00172</accession>
+      <name>L-Isoleucine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00695</accession>
+      <name>Ketoleucine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00687</accession>
+      <name>L-Leucine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01491</accession>
+      <name>Pyridoxal 5'-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05015</accession>
+      <name>Gabapentin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring nitrogenous groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>branched-chain-amino-acid transaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>branched chain family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>branched-chain-amino-acid transaminase activity</description>
+      <go_id>GO:0004084</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-isoleucine transaminase activity</description>
+      <go_id>GO:0052656</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-leucine transaminase activity</description>
+      <go_id>GO:0052654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-valine transaminase activity</description>
+      <go_id>GO:0052655</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>branched-chain amino acid biosynthetic process</description>
+      <go_id>GO:0009082</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>branched-chain amino acid catabolic process</description>
+      <go_id>GO:0009083</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>G1/S transition of mitotic cell cycle</description>
+      <go_id>GO:0000082</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p12.1</locus>
+    <gene_sequence>&gt;1161 bp
+ATGAAGGATTGCAGTAACGGATGCTCCGCAGAGTGTACCGGAGAAGGAGGATCAAAAGAG
+GTGGTGGGGACTTTTAAGGCTAAAGACCTAATAGTCACACCAGCTACCATTTTAAAGGAA
+AAACCAGACCCCAATAATCTGGTTTTTGGAACTGTGTTCACGGATCATATGCTGACGGTG
+GAGTGGTCCTCAGAGTTTGGATGGGAGAAACCTCATATCAAGCCTCTTCAGAACCTGTCA
+TTGCACCCTGGCTCATCAGCTTTGCACTATGCAGTGGAATTATTTGAAGGATTGAAGGCA
+TTTCGAGGAGTAGATAATAAAATTCGACTGTTTCAGCCAAACCTCAACATGGATAGAATG
+TATCGCTCTGCTGTGAGGGCAACTCTGCCGGTATTTGACAAAGAAGAGCTCTTAGAGTGT
+ATTCAACAGCTTGTGAAATTGGATCAAGAATGGGTCCCATATTCAACATCTGCTAGTCTG
+TATATTCGTCCTACATTCATTGGAACTGAGCCTTCTCTTGGAGTCAAGAAGCCTACCAAA
+GCCCTGCTCTTTGTACTCTTGAGCCCAGTGGGACCTTATTTTTCAAGTGGAACCTTTAAT
+CCAGTGTCCCTGTGGGCCAATCCCAAGTATGTAAGAGCCTGGAAAGGTGGAACTGGGGAC
+TGCAAGATGGGAGGGAATTACGGCTCATCTCTTTTTGCCCAATGTGAAGCAGTAGATAAT
+GGGTGTCAGCAGGTCCTGTGGCTCTATGGAGAGGACCATCAGATCACTGAAGTGGGAACT
+ATGAATCTTTTTCTTTACTGGATAAATGAAGATGGAGAAGAAGAACTGGCAACTCCTCCA
+CTAGATGGCATCATTCTTCCAGGAGTGACAAGGCGGTGCATTCTGGACCTGGCACATCAG
+TGGGGTGAATTTAAGGTGTCAGAGAGATACCTCACCATGGATGACTTGACAACAGCCCTG
+GAGGGGAACAGAGTGAGAGAGATGTTTGGCTCTGGTACAGCCTGTGTTGTTTGCCCAGTT
+TCTGATATACTGTACAAAGGCGAGACAATACACATTCCAACTATGGAGAATGGTCCTAAG
+CTGGCAAGCCGCATCTTGAGCAAATTAACTGATATCCAGTATGGAAGAGAAGAGAGCGAC
+TGGACAATTGTGCTATCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>386</residue_number>
+    <molecular_weight>38644.77</molecular_weight>
+    <theoretical_pi>4.99</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aminotran_4</name>
+        <pfam_id>PF01063</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Branched-chain-amino-acid aminotransferase, cytosolic
+MKDCSNGCSAECTGEGGSKEVVGTFKAKDLIVTPATILKEKPDPNNLVFGTVFTDHMLTV
+EWSSEFGWEKPHIKPLQNLSLHPGSSALHYAVELFEGLKAFRGVDNKIRLFQPNLNMDRM
+YRSAVRATLPVFDKEELLECIQQLVKLDQEWVPYSTSASLYIRPTFIGTEPSLGVKKPTK
+ALLFVLLSPVGPYFSSGTFNPVSLWANPKYVRAWKGGTGDCKMGGNYGSSLFAQCEAVDN
+GCQQVLWLYGEDHQITEVGTMNLFLYWINEDGEEELATPPLDGIILPGVTRRCILDLAHQ
+WGEFKVSERYLTMDDLTTALEGNRVREMFGSGTACVVCPVSDILYKGETIHIPTMENGPK
+LASRILSKLTDIQYGREESDWTIVLS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>38176287</genbank_protein_id>
+  <uniprot_id>P54687</uniprot_id>
+  <uniprot_name>BCAT1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2ABJ</pdb_id>
+    <pdb_id>2COG</pdb_id>
+    <pdb_id>2COI</pdb_id>
+    <pdb_id>2COJ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_005504.6</genbank_gene_id>
+  <genecard_id>BCAT1</genecard_id>
+  <geneatlas_id>BCAT1</geneatlas_id>
+  <hgnc_id>HGNC:976</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Schuldiner O, Eden A, Ben-Yosef T, Yanuka O, Simchen G, Benvenisty N: ECA39, a conserved gene regulated by c-Myc in mice, is involved in G1/S cell cycle regulation in yeast. Proc Natl Acad Sci U S A. 1996 Jul 9;93(14):7143-8.</reference_text>
+      <pubmed_id>8692959</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goto M, Miyahara I, Hirotsu K, Conway M, Yennawar N, Islam MM, Hutson SM: Structural determinants for branched-chain aminotransferase isozyme-specific inhibition by the anticonvulsant drug gabapentin. J Biol Chem. 2005 Nov 4;280(44):37246-56. Epub 2005 Sep 1.</reference_text>
+      <pubmed_id>16141215</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Valine</name>
+        <accession>HMDB00883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen CD, Huang TF, Lin CH, Guan HH, Hsieh YC, Lin YH, Huang YC, Liu MY, Chang WC, Chen CJ: Purification, crystallization and preliminary X-ray crystallographic analysis of branched-chain aminotransferase from Deinococcus radiodurans. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2007 Jun 1;63(Pt 6):492-4. Epub       2007 May 5.</reference_text>
+        <pubmed_id>17554170</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Valine</name>
+        <accession>HMDB00883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Beck HC: Branched-chain fatty acid biosynthesis in a branched-chain amino acid aminotransferase mutant of Staphylococcus carnosus. FEMS Microbiol Lett. 2005 Feb 1;243(1):37-44.</reference_text>
+        <pubmed_id>15667998</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Valine</name>
+        <accession>HMDB00883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Saito M, Nishimura K, Wakabayashi S, Kurihara T, Nagata Y: Purification of branched-chain amino acid aminotransferase from Helicobacter pylori NCTC 11637. Amino Acids. 2007 Sep;33(3):445-9. Epub 2006 Nov 2.</reference_text>
+        <pubmed_id>17077963</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Isoleucine</name>
+        <accession>HMDB00172</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Goto M, Miyahara I, Hayashi H, Kagamiyama H, Hirotsu K: Crystal structures of branched-chain amino acid aminotransferase complexed with glutamate and glutarate: true reaction intermediate and double substrate recognition of the enzyme. Biochemistry. 2003 Apr 8;42(13):3725-33.</reference_text>
+        <pubmed_id>12667063</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Isoleucine</name>
+        <accession>HMDB00172</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen CD, Huang TF, Lin CH, Guan HH, Hsieh YC, Lin YH, Huang YC, Liu MY, Chang WC, Chen CJ: Purification, crystallization and preliminary X-ray crystallographic analysis of branched-chain aminotransferase from Deinococcus radiodurans. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2007 Jun 1;63(Pt 6):492-4. Epub       2007 May 5.</reference_text>
+        <pubmed_id>17554170</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Isoleucine</name>
+        <accession>HMDB00172</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Beck HC: Branched-chain fatty acid biosynthesis in a branched-chain amino acid aminotransferase mutant of Staphylococcus carnosus. FEMS Microbiol Lett. 2005 Feb 1;243(1):37-44.</reference_text>
+        <pubmed_id>15667998</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Isoleucine</name>
+        <accession>HMDB00172</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Thage BV, Rattray FP, Laustsen MW, Ardo Y, Barkholt V, Houlberg U: Purification and characterization of a branched-chain amino acid aminotransferase from Lactobacillus paracasei subsp. paracasei CHCC 2115. J Appl Microbiol. 2004;96(3):593-602.</reference_text>
+        <pubmed_id>14962140</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Isoleucine</name>
+        <accession>HMDB00172</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Madsen SM, Beck HC, Ravn P, Vrang A, Hansen AM, Israelsen H: Cloning and inactivation of a branched-chain-amino-acid aminotransferase gene from Staphylococcus carnosus and characterization of the enzyme. Appl Environ Microbiol. 2002 Aug;68(8):4007-14.</reference_text>
+        <pubmed_id>12147502</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Smirnov SV, Samsonova NN, Novikova AE, Matrosov NG, Rushkevich NY, Kodera T, Ogawa J, Yamanaka H, Shimizu S: A novel strategy for enzymatic synthesis of 4-hydroxyisoleucine: identification of an enzyme possessing HMKP (4-hydroxy-3-methyl-2-keto-pentanoate) aldolase activity. FEMS Microbiol Lett. 2007 Aug;273(1):70-7. Epub 2007 Jun 6.</reference_text>
+        <pubmed_id>17559390</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

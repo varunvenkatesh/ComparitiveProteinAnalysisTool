@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:50:03 -0700</creation_date>
+  <update_date>2013-01-15 20:50:03 -0700</update_date>
+  <accession>HMDBP11453</accession>
+  <secondary_accessions>
+    <accession>17798</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Activator of G-protein signaling 3</synonym>
+  </synonyms>
+  <gene_name>GPSM1</gene_name>
+  <general_function>Involved in GTPase activator activity</general_function>
+  <specific_function>Guanine nucleotide dissociation inhibitor (GDI) which functions as a receptor-independent activator of heterotrimeric G- protein signaling. Keeps G(i/o) alpha subunit in its GDP-bound form thus uncoupling heterotrimeric G-proteins signaling from G protein-coupled receptors. Controls spindle orientation and asymmetric cell fate of cerebral cortical progenitors. May also be involved in macroautophagy in intestinal cells. May play a role in drug addiction</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>enzyme activator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>gtpase activator activity</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol</subcellular_location>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasmic side</subcellular_location>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasmic side</subcellular_location>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasmic side</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:9</chromosome_location>
+    <locus>9q34.3</locus>
+    <gene_sequence>&gt;2028 bp
+ATGGCGGGCCCGGCCCCGCCCGTGGCCGACGAGCTCCCGGGCCCGGCCGCCAGGCGCCTC
+TACTCCAGGATGGAGGCGTCCTGCCTAGAGCTGGCGCTGGAGGGCGAGCGTCTGTGCAAG
+GCGGGCGACTTCAAGACAGGCGTGGCCTTCTTTGAGGCTGCTGTGCAGGTGGGCACCGAG
+GACCTGAAGACACTGAGTGCCATCTACAGCCAGCTGGGCAACGCCTACTTCTACCTGAAG
+GAGCACGGCCGGGCGCTGGAATACCACAAGCATGACCTCCTGCTGGCGCGGACCATCGGT
+GACCGCATGGGGGAGGCCAAGGCCAGTGGAAACCTGGGAAACACACTCAAGGTCCTGGGG
+CGCTTCGACGAGGCTGCCGTCTGCTGCCAGCGGCATCTGAGCATCGCCCAAGAGCAGGGA
+GACAAGGTTGGGGAGGCGAGGGCCCTCTACAACATCGGGAACGTGTACCACGCCAAAGGC
+AAGCAACTGTCCTGGAACGCCGCAAACGCCACGCAGGACCCCGGGCACCTGCCGCCCGAT
+GTCCGAGAGACCCTGTGCAAGGCCTCCGAGTTCTACGAGAGGAACCTGTCCCTGGTGAAG
+GAGCTGGGCGACCGTGCGGCGCAGGGCAGGGCCTACGGCAACCTGGGCAACACCCACTAT
+TTGTTGGGGAACTTCACAGAGGCCACGACCTTCCACAAGGAGCGCCTGGCCATTGCTAAG
+GAGTTTGGAGACAAGGCAGCCGAGAGGAGGGCCTACAGCAACCTGGGGAACGCCCACGTC
+TTCCTGGGGCGCTTTGACGTGGCCGCCGAGTACTACAAGAAGACGCTGCAACTGTCTCGG
+CAGCTCAGGGACCAGGCAGTGGAGGCGCAGGCCTGCTACAGTCTGGGCAACACCTACACG
+CTGCTGCAGGACTACGAGCGCGCGGCCGAGTACCACCTGCGGCACCTGCTCATTGCCCAG
+GAGCTGGCCGACAGAGTGGGCGAGGGCCGGGCGTGCTGGAGCCTGGGAAATGCCTACGTG
+TCCATGGGGCGCCCAGCGCAGGCCCTGACCTTCGCCAAGAAGCACCTGCAGATCTCCCAG
+GAGATCGGGGACCGCCATGGGGAGCTCACGGCCCGCATGAACGTGGCGCAGCTGCAGCTG
+GTGCTCGGCCGCCTGACCAGCCCGGCAGCCTCAGAGAAGCCTGACCTGGCCGGCTATGAG
+GCCCAGGGGGCCAGACCCAAGAGGACGCAGAGGCTGAGCGCGGAGACCTGGGACCTGCTG
+AGACTCCCCCTGGAGCGGGAGCAGAATGGAGACAGCCACCATTCAGGGGACTGGCGGGGG
+CCCAGCAGGGACTCGCTACCCCTCCCCGTGAGGAGCAGGAAGTACCAGGAAGGCCCGGAC
+GCTGAGAGGAGGCCCCGGGAGGGCAGCCACTCCCCGCTGGACAGCGCCGACGTCCGGGTG
+CACGTGCCACGCACGAGCATCCCGAGGGCCCCGTCTTCGGACGAGGAGTGCTTCTTTGAC
+CTGTTGACCAAGTTCCAGAGCAGCCGCATGGACGACCAGCGTTGTCCCCTGGACGATGGC
+CAGGCCGGGGCTGCCGAGGCCACGGCCGCCCCCACCCTGGAGGACAGGATCGCCCAGCCC
+TCGATGACGGCCTCGCCCCAGACCGAGGAATTCTTCGACCTCATCGCCAGCTCCCAGAGC
+CGCCGGCTGGACGACCAGCGGGCCAGCGTGGGCAGCCTGCCGGGGCTGCGAATCACCCAC
+AGCAATGCAGGGCACCTCCGAGGCCACGGCGAGCCCCAGGAGCCGGGGGACGACTTCTTC
+AACATGCTCATCAAGTACCAGTCCTCCAGGATCGATGACCAGCGCTGCCCGCCACCTGAC
+GTACTGCCCCGGGGCCCTACCATGCCGGACGAGGACTTCTTCAGCCTCATTCAGAGGGTG
+CAGGCTAAGCGCATGGACGAGCAGCGGGTGGACCTCGCCGGGGGCCCGGAGCAGGGGGCA
+GGCGGCCCGCCCGAGCCCCAGCAGCAGTGCCAGCCTGGTGCGAGCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>675</residue_number>
+    <molecular_weight>74509.5</molecular_weight>
+    <theoretical_pi>6.51</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GoLoco</name>
+        <pfam_id>PF02188</pfam_id>
+      </pfam>
+      <pfam>
+        <name>TPR_1</name>
+        <pfam_id>PF00515</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;G-protein-signaling modulator 1
+MAGPAPPVADELPGPAARRLYSRMEASCLELALEGERLCKAGDFKTGVAFFEAAVQVGTE
+DLKTLSAIYSQLGNAYFYLKEHGRALEYHKHDLLLARTIGDRMGEAKASGNLGNTLKVLG
+RFDEAAVCCQRHLSIAQEQGDKVGEARALYNIGNVYHAKGKQLSWNAANATQDPGHLPPD
+VRETLCKASEFYERNLSLVKELGDRAAQGRAYGNLGNTHYLLGNFTEATTFHKERLAIAK
+EFGDKAAERRAYSNLGNAHVFLGRFDVAAEYYKKTLQLSRQLRDQAVEAQACYSLGNTYT
+LLQDYERAAEYHLRHLLIAQELADRVGEGRACWSLGNAYVSMGRPAQALTFAKKHLQISQ
+EIGDRHGELTARMNVAQLQLVLGRLTSPAASEKPDLAGYEAQGARPKRTQRLSAETWDLL
+RLPLEREQNGDSHHSGDWRGPSRDSLPLPVRSRKYQEGPDAERRPREGSHSPLDSADVRV
+HVPRTSIPRAPSSDEECFFDLLTKFQSSRMDDQRCPLDDGQAGAAEATAAPTLEDRIAQP
+SMTASPQTEEFFDLIASSQSRRLDDQRASVGSLPGLRITHSNAGHLRGHGEPQEPGDDFF
+NMLIKYQSSRIDDQRCPPPDVLPRGPTMPDEDFFSLIQRVQAKRMDEQRVDLAGGPEQGA
+GGPPEPQQQCQPGAS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>224548927</genbank_protein_id>
+  <uniprot_id>Q86YR5</uniprot_id>
+  <uniprot_name>GPSM1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001145638.1</genbank_gene_id>
+  <genecard_id>GPSM1</genecard_id>
+  <geneatlas_id>GPSM1</geneatlas_id>
+  <hgnc_id>HGNC:17858</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Natochin M, Lester B, Peterson YK, Bernard ML, Lanier SM, Artemyev NO: AGS3 inhibits GDP dissociation from galpha subunits of the Gi family and rhodopsin-dependent activation of transducin. J Biol Chem. 2000 Dec 29;275(52):40981-5.</reference_text>
+      <pubmed_id>11024022</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pattingre S, De Vries L, Bauvy C, Chantret I, Cluzeaud F, Ogier-Denis E, Vandewalle A, Codogno P: The G-protein regulator AGS3 controls an early event during macroautophagy in human intestinal HT-29 cells. J Biol Chem. 2003 Jun 6;278(23):20995-1002. Epub 2003 Mar 17.</reference_text>
+      <pubmed_id>12642577</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Izaki T, Kamakura S, Kohjima M, Sumimoto H: Two forms of human Inscuteable-related protein that links Par3 to the Pins homologues LGN and AGS3. Biochem Biophys Res Commun. 2006 Mar 24;341(4):1001-6. Epub 2006 Jan 24.</reference_text>
+      <pubmed_id>16458856</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>An N, Blumer JB, Bernard ML, Lanier SM: The PDZ and band 4.1 containing protein Frmpd1 regulates the subcellular location of activator of G-protein signaling 3 and its interaction with G-proteins. J Biol Chem. 2008 Sep 5;283(36):24718-28. Epub 2008 Jun 19.</reference_text>
+      <pubmed_id>18566450</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:14:48 -0700</creation_date>
+  <update_date>2013-01-15 20:14:48 -0700</update_date>
+  <accession>HMDBP08747</accession>
+  <secondary_accessions>
+    <accession>14470</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Mixed lineage kinase 3</synonym>
+    <synonym>Src-homology 3 domain-containing proline-rich kinase</synonym>
+  </synonyms>
+  <gene_name>MAP3K11</gene_name>
+  <general_function>Involved in protein kinase activity</general_function>
+  <specific_function>Activates the JUN N-terminal pathway. Required for serum-stimulated cell proliferation and for mitogen and cytokine activation of MAPK14 (p38), MAPK3 (ERK) and MAPK8 (JNK1). Plays a role in mitogen-stimulated phosphorylation and activation of BRAF, but does not phosphorylate BRAF directly. Influences microtubule organization during the cell cycle</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein serine/threonine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid phosphorylation</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytoskeleton</subcellular_location>
+    <subcellular_location>centrosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q13.1-q13.3</locus>
+    <gene_sequence>&gt;2544 bp
+ATGGAGCCCTTGAAGAGCCTCTTCCTCAAGAGCCCTCTAGGGTCATGGAATGGCAGTGGC
+AGCGGGGGTGGTGGGGGCGGTGGAGGAGGCCGGCCTGAGGGGTCTCCAAAGGCAGCGGGT
+TATGCCAACCCGGTGTGGACAGCCCTGTTCGACTACGAGCCCAGTGGGCAGGATGAGCTG
+GCCCTGAGGAAGGGTGACCGTGTGGAGGTGCTGTCCCGGGACGCAGCCATCTCAGGAGAC
+GAGGGCTGGTGGGCGGGCCAGGTGGGTGGCCAGGTGGGCATCTTCCCGTCCAACTATGTG
+TCTCGGGGTGGCGGCCCGCCCCCCTGCGAGGTGGCCAGCTTCCAGGAGCTGCGGCTGGAG
+GAGGTGATCGGCATTGGAGGCTTTGGCAAGGTGTACAGGGGCAGCTGGCGAGGTGAGCTG
+GTGGCTGTGAAGGCAGCTCGCCAGGACCCCGATGAGGACATCAGTGTGACAGCCGAGAGC
+GTTCGCCAGGAGGCCCGGCTCTTCGCCATGCTGGCACACCCCAACATCATTGCCCTCAAG
+GCTGTGTGCCTGGAGGAGCCCAACCTGTGCCTGGTGATGGAGTATGCAGCCGGTGGGCCC
+CTCAGCCGAGCTCTGGCCGGGCGGCGCGTGCCTCCCCATGTGCTGGTCAACTGGGCTGTG
+CAGATTGCCCGTGGGATGCACTACCTGCACTGCGAGGCCCTGGTGCCCGTCATCCACCGT
+GATCTCAAGTCCAACAACATTTTGCTGCTGCAGCCCATTGAGAGTGACGACATGGAGCAC
+AAGACCCTGAAGATCACCGACTTTGGCCTGGCCCGAGAGTGGCACAAAACCACACAAATG
+AGTGCCGCGGGCACCTACGCCTGGATGGCTCCTGAGGTTATCAAGGCCTCCACCTTCTCT
+AAGGGCAGTGACGTCTGGAGTTTTGGGGTGCTGCTGTGGGAACTGCTGACCGGGGAGGTG
+CCATACCGTGGCATTGACTGCCTTGCTGTGGCCTATGGCGTAGCTGTTAACAAGCTCACA
+CTGCCCATCCCATCCACCTGCCCCGAGCCCTTCGCACAGCTTATGGCCGACTGCTGGGCG
+CAGGACCCCCACCGCAGGCCCGACTTCGCCTCCATCCTGCAGCAGTTGGAGGCGCTGGAG
+GCACAGGTCCTACGGGAAATGCCGCGGGACTCCTTCCATTCCATGCAGGAAGGCTGGAAG
+CGCGAGATCCAGGGTCTCTTCGACGAGCTGCGAGCCAAGGAAAAGGAACTACTGAGCCGC
+GAGGAGGAGCTGACGCGAGCGGCGCGCGAGCAGCGGTCACAGGCGGAGCAGCTGCGGCGG
+CGCGAGCACCTGCTGGCCCAGTGGGAGCTAGAGGTGTTCGAGCGCGAGCTGACGCTGCTG
+CTGCAGCAGGTGGACCGCGAGCGACCGCACGTGCGCCGCCGCCGCGGGACATTCAAGCGC
+AGCAAGCTCCGGGCGCGCGACGGCGGCGAGCGTATCAGCATGCCACTCGACTTCAAGCAC
+CGCATCACCGTGCAGGCCTCACCCGGCCTTGACCGGAGGAGAAACGTCTTCGAGGTCGGG
+CCTGGGGATTCGCCCACCTTTCCCCGGTTCCGAGCCATCCAGTTGGAGCCTGCAGAGCCA
+GGCCAGGCATGGGGCCGCCAGTCCCCCCGACGTCTGGAGGACTCAAGCAATGGAGAGCGG
+CGAGCATGCTGGGCTTGGGGTCCCAGTTCCCCCAAGCCTGGGGAAGCCCAGAATGGGAGG
+AGAAGGTCCCGCATGGACGAAGCCACATGGTACCTGGATTCAGATGACTCATCCCCCTTA
+GGATCTCCTTCCACACCCCCAGCACTCAATGGTAACCCCCCGCGGCCTAGCCTGGAGCCC
+GAGGAGCCCAAGAGGCCTGTCCCCGCAGAGCGCGGTAGCAGCTCTGGGACGCCCAAGCTG
+ATCCAGCGGGCGCTGCTGCGCGGCACCGCCCTGCTCGCCTCGCTGGGCCTTGGCCGCGAC
+CTGCAGCCGCCGGGAGGCCCAGGACGCGAGCGCGGGGAGTCCCCGACAACACCCCCCACG
+CCAACGCCCGCGCCCTGCCCGACCGAGCCGCCCCCTTCCCCGCTCATCTGCTTCTCGCTC
+AAGACGCCCGACTCCCCGCCCACTCCTGCACCCCTGTTGCTGGACCTGGGTATCCCTGTG
+GGCCAGCGGTCAGCCAAGAGCCCCCGACGTGAGGAGGAGCCCCGCGGAGGCACTGTCTCA
+CCCCCACCGGGGACATCACGCTCTGCTCCTGGCACCCCAGGCACCCCACGTTCACCACCC
+CTGGGCCTCATCAGCCGACCTCGGCCCTCGCCCCTTCGCAGCCGCATTGATCCCTGGAGC
+TTTGTGTCAGCTGGGCCACGGCCTTCTCCCCTGCCATCACCACAGCCTGCACCCCGCCGA
+GCACCCTGGACCTTGTTCCCGGACTCAGACCCCTTCTGGGACTCCCCACCTGCCAACCCC
+TTCCAGGGGGGCCCCCAGGACTGCAGGGCACAGACCAAAGACATGGGTGCCCAGGCCCCG
+TGGGTGCCGGAAGCGGGGCCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>847</residue_number>
+    <molecular_weight>92687.0</molecular_weight>
+    <theoretical_pi>8.21</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pkinase_Tyr</name>
+        <pfam_id>PF07714</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SH3_2</name>
+        <pfam_id>PF07653</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Mitogen-activated protein kinase kinase kinase 11
+MEPLKSLFLKSPLGSWNGSGSGGGGGGGGGRPEGSPKAAGYANPVWTALFDYEPSGQDEL
+ALRKGDRVEVLSRDAAISGDEGWWAGQVGGQVGIFPSNYVSRGGGPPPCEVASFQELRLE
+EVIGIGGFGKVYRGSWRGELVAVKAARQDPDEDISVTAESVRQEARLFAMLAHPNIIALK
+AVCLEEPNLCLVMEYAAGGPLSRALAGRRVPPHVLVNWAVQIARGMHYLHCEALVPVIHR
+DLKSNNILLLQPIESDDMEHKTLKITDFGLAREWHKTTQMSAAGTYAWMAPEVIKASTFS
+KGSDVWSFGVLLWELLTGEVPYRGIDCLAVAYGVAVNKLTLPIPSTCPEPFAQLMADCWA
+QDPHRRPDFASILQQLEALEAQVLREMPRDSFHSMQEGWKREIQGLFDELRAKEKELLSR
+EEELTRAAREQRSQAEQLRRREHLLAQWELEVFERELTLLLQQVDRERPHVRRRRGTFKR
+SKLRARDGGERISMPLDFKHRITVQASPGLDRRRNVFEVGPGDSPTFPRFRAIQLEPAEP
+GQAWGRQSPRRLEDSSNGERRACWAWGPSSPKPGEAQNGRRRSRMDEATWYLDSDDSSPL
+GSPSTPPALNGNPPRPSLEPEEPKRPVPAERGSSSGTPKLIQRALLRGTALLASLGLGRD
+LQPPGGPGRERGESPTTPPTPTPAPCPTEPPPSPLICFSLKTPDSPPTPAPLLLDLGIPV
+GQRSAKSPRREEEPRGGTVSPPPGTSRSAPGTPGTPRSPPLGLISRPRPSPLRSRIDPWS
+FVSAGPRPSPLPSPQPAPRRAPWTLFPDSDPFWDSPPANPFQGGPQDCRAQTKDMGAQAP
+WVPEAGP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4505195</genbank_protein_id>
+  <uniprot_id>Q16584</uniprot_id>
+  <uniprot_name>M3K11_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_002419.3</genbank_gene_id>
+  <genecard_id>MAP3K11</genecard_id>
+  <geneatlas_id>MAP3K11</geneatlas_id>
+  <hgnc_id>HGNC:6850</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Gallo KA, Mark MR, Scadden DT, Wang Z, Gu Q, Godowski PJ: Identification and characterization of SPRK, a novel src-homology 3 domain-containing proline-rich kinase with serine/threonine kinase activity. J Biol Chem. 1994 May 27;269(21):15092-100.</reference_text>
+      <pubmed_id>8195146</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ing YL, Leung IW, Heng HH, Tsui LC, Lassam NJ: MLK-3: identification of a widely-expressed protein kinase bearing an SH3 domain and a leucine zipper-basic region domain. Oncogene. 1994 Jun;9(6):1745-50.</reference_text>
+      <pubmed_id>8183572</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leung IW, Lassam N: Dimerization via tandem leucine zippers is essential for the activation of the mitogen-activated protein kinase kinase kinase, MLK-3. J Biol Chem. 1998 Dec 4;273(49):32408-15.</reference_text>
+      <pubmed_id>9829970</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leung IW, Lassam N: The kinase activation loop is the key to mixed lineage kinase-3 activation via both autophosphorylation and hematopoietic progenitor kinase 1 phosphorylation. J Biol Chem. 2001 Jan 19;276(3):1961-7. Epub 2000 Oct 26.</reference_text>
+      <pubmed_id>11053428</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vacratsis PO, Phinney BS, Gage DA, Gallo KA: Identification of in vivo phosphorylation sites of MLK3 by mass spectrometry and phosphopeptide mapping. Biochemistry. 2002 Apr 30;41(17):5613-24.</reference_text>
+      <pubmed_id>11969422</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Swenson KI, Winkler KE, Means AR: A new identity for MLK3 as an NIMA-related, cell cycle-regulated kinase that is localized near centrosomes and influences microtubule organization. Mol Biol Cell. 2003 Jan;14(1):156-72.</reference_text>
+      <pubmed_id>12529434</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chadee DN, Kyriakis JM: MLK3 is required for mitogen activation of B-Raf, ERK and cell proliferation. Nat Cell Biol. 2004 Aug;6(8):770-6. Epub 2004 Jul 18.</reference_text>
+      <pubmed_id>15258589</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wissing J, Jansch L, Nimtz M, Dieterich G, Hornberger R, Keri G, Wehland J, Daub H: Proteomics analysis of protein kinases by target class-selective prefractionation and tandem mass spectrometry. Mol Cell Proteomics. 2007 Mar;6(3):537-47. Epub 2006 Dec 27.</reference_text>
+      <pubmed_id>17192257</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

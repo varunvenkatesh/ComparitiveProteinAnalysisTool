@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:16 -0700</creation_date>
+  <update_date>2013-05-27 11:13:25 -0600</update_date>
+  <accession>HMDBP01086</accession>
+  <secondary_accessions>
+    <accession>6375</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>2-phospho-D-glycerate hydro-lyase</synonym>
+    <synonym>Enolase 2</synonym>
+    <synonym>NSE</synonym>
+    <synonym>Neural enolase</synonym>
+    <synonym>Neuron-specific enolase</synonym>
+  </synonyms>
+  <gene_name>ENO2</gene_name>
+  <general_function>Involved in magnesium ion binding</general_function>
+  <specific_function>Has neurotrophic and neuroprotective properties on a broad spectrum of central nervous system (CNS) neurons. Binds, in a calcium-dependent manner, to cultured neocortical neurons and promotes cell survival (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>glycolysis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycolysis / Gluconeogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>RNA degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map03018</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00263</accession>
+      <name>Phosphoenolpyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03391</accession>
+      <name>2-Phospho-D-glyceric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12710</accession>
+      <name>3-Dehydroquinate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbon-oxygen lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydro-lyase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphopyruvate hydratase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>magnesium ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>small molecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>alcohol metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monosaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>hexose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glucose catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycolysis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>phosphopyruvate hydratase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perikaryon</description>
+      <go_id>GO:0043204</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>phosphopyruvate hydratase complex</description>
+      <go_id>GO:0000015</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>photoreceptor inner segment</description>
+      <go_id>GO:0001917</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>magnesium ion binding</description>
+      <go_id>GO:0000287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphopyruvate hydratase activity</description>
+      <go_id>GO:0004634</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gluconeogenesis</description>
+      <go_id>GO:0006094</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolysis</description>
+      <go_id>GO:0006096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to estradiol stimulus</description>
+      <go_id>GO:0032355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Cell membrane</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12p13</locus>
+    <gene_sequence>&gt;1299 bp
+TCCATACAGAAGATCTGGGCCCGGGAGATCCTGGACTCCCGTGGGAACCCCACAGTGGAG
+GTGGATCTCTATACTGCCAAAGGTCTTTTCCGGGCTGCAGTGCCCAGTGGAGCCTCTACG
+GGCATCTATGAGGCCCTGGAGCTGAGGGATGGAGACAAACAGCGTTACTTAGGCAAAGGT
+GTCCTGAAGGCAGTGGACCACATCAACTCCACCATCGCGCCAGCCCTCATCAGCTCAGGT
+CTCTCTGTGGTGGAGCAAGAGAAGCTGGACAACCTGATGCTGGAGTTGGATGGGACTGAG
+AACAAATCCAAGTTTGGGGCCAATGCCATCCTGGGTGTGTCTCTGGCCGTGTGTAAGGCA
+GGGGCAGCTGAGCGGGAACTGCCCCTGTATCGCCACATTGCTCAGCTGGCCGGGAACTCA
+GACCTCATCCTGCCTGTGCCGGCCTTCAACGTGATCAATGGTGGCTCTCATGCTGGCAAC
+AAGCTGGCCATGCAGGAGTTCATGATCCTCCCAGTGGGAGCTGAGAGCTTTCGGGATGCC
+ATGCGACTAGGTGCAGAGGTCTACCATACTCTCAAGGGAGTCATCAAGGACAAATACGGC
+AAGGATGCCACCAATGTGGGGGATGAAGGTGGCTTTGCCCCCAATATCCTGGAGAACAGT
+GAAGCCTTGGAGCTGGTTAAGGAAGCCATCGACAAGGCTGGCTACACGGAAAAAATGGTT
+ATTGGCATGGATGTTGCTGCCTCAGAGTTTTATCGTGATGGCAAATATGACTTGGACTTC
+AAGTCTCCCACTGATCCTTCCCGATACATCACTGGGGACCAGCTGGGGGCACTCTACCAG
+GACTTTGTCAGGGACTATCCTGTGGTCTCCATTGAGGACCCATTTGACCAGGATGATTGG
+GCTGCCTGGTCCAAGTTCACAGCCAATGTAGGGATCCAGATTGTGGGTGATGACCTGACA
+GTGACCAACCCAAAACGTATTGAGCGGGCAGTGGAAGAAAAGGCCTGCAACTGTCTGCTG
+CTCAAGGTCAACCAGATCGGCTCGGTCACTGAAGCCATCCAAGCGTGCAAGCTGGCCCAG
+GAGAATGGCTGGGGGGTCATGGTGAGTCATCGCTCAGGAGAGACTGAGGACACATTCATT
+GCTGACCTGGTGGTGGGGCTGTGCACAGGCCAGATCAAGACTGGTGCCCCGTGCCGTTCT
+GAACGTCTGGCTAAATACAATCAGCTCATGAGAATTGAGGAAGAGCTGGGGGATGAAGCT
+CGCTTTGCCGGACATAACTTCCGTAATCCCAGTGTGCTG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>434</residue_number>
+    <molecular_weight>47268.125</molecular_weight>
+    <theoretical_pi>5.029</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Enolase_C</name>
+        <pfam_id>PF00113</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Enolase_N</name>
+        <pfam_id>PF03952</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Gamma-enolase
+MSIEKIWAREILDSRGNPTVEVDLYTAKGLFRAAVPSGASTGIYEALELRDGDKQRYLGK
+GVLKAVDHINSTIAPALISSGLSVVEQEKLDNLMLELDGTENKSKFGANAILGVSLAVCK
+AGAAERELPLYRHIAQLAGNSDLILPVPAFNVINGGSHAGNKLAMQEFMILPVGAESFRD
+AMRLGAEVYHTLKGVIKDKYGKDATNVGDEGGFAPNILENSEALELVKEAIDKAGYTEKI
+VIGMDVAASEFYRDGKYDLDFKSPTDPSRYITGDQLGALYQDFVRDYPVVSIEDPFDQDD
+WAAWSKFTANVGIQIVGDDLTVTNPKRIERAVEEKACNCLLLKVNQIGSVTEAIQACKLA
+QENGWGVMVSHRSGETEDTFIADLVVGLCTGQIKTGAPCRSERLAKYNQLMRIEEELGDE
+ARFAGHNFRNPSVL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>930063</genbank_protein_id>
+  <uniprot_id>P09104</uniprot_id>
+  <uniprot_name>ENOG_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1TE6</pdb_id>
+    <pdb_id>2AKM</pdb_id>
+    <pdb_id>2AKZ</pdb_id>
+    <pdb_id>3UCC</pdb_id>
+    <pdb_id>3UCD</pdb_id>
+    <pdb_id>3UJE</pdb_id>
+    <pdb_id>3UJF</pdb_id>
+    <pdb_id>3UJR</pdb_id>
+    <pdb_id>3UJS</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X13120</genbank_gene_id>
+  <genecard_id>ENO2</genecard_id>
+  <geneatlas_id>ENO2</geneatlas_id>
+  <hgnc_id>HGNC:3353</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>McAleese SM, Dunbar B, Fothergill JE, Hinks LJ, Day IN: Complete amino acid sequence of the neurone-specific gamma isozyme of enolase (NSE) from human brain and comparison with the non-neuronal alpha form (NNE). Eur J Biochem. 1988 Dec 15;178(2):413-7.</reference_text>
+      <pubmed_id>3208766</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Van Obberghen E, Kamholz J, Bishop JG 3rd, Zomzely-Neurath C, Lazzarini RA, Lazzarini RA: Human gamma enolase: isolation of a cDNA clone and expression in normal and tumor tissues of human origin. J Neurosci Res. 1988 Apr;19(4):450-6.</reference_text>
+      <pubmed_id>3385803</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oliva D, Barba G, Barbieri G, Giallongo A, Feo S: Cloning, expression and sequence homologies of cDNA for human gamma enolase. Gene. 1989 Jul 15;79(2):355-60.</reference_text>
+      <pubmed_id>2792767</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oliva D, Cali L, Feo S, Giallongo A: Complete structure of the human gene encoding neuron-specific enolase.  Genomics. 1991 May;10(1):157-65.</reference_text>
+      <pubmed_id>2045099</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ansari-Lari MA, Shen Y, Muzny DM, Lee W, Gibbs RA: Large-scale sequencing in human chromosome 12p13: experimental and computational gene structure determination. Genome Res. 1997 Mar;7(3):268-80.</reference_text>
+      <pubmed_id>9074930</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Day IN, Allsopp MT, Moore DC, Thompson RJ: Sequence conservation in the 3'-untranslated regions of neurone-specific enolase, lymphokine and protooncogene mRNAs. FEBS Lett. 1987 Sep 28;222(1):139-43.</reference_text>
+      <pubmed_id>3653393</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Y, Wolf-Yadlin A, Ross PL, Pappin DJ, Rush J, Lauffenburger DA, White FM: Time-resolved mass spectrometry of tyrosine phosphorylation sites in the epidermal growth factor receptor signaling network reveals dynamic modules. Mol Cell Proteomics. 2005 Sep;4(9):1240-50. Epub 2005 Jun 11.</reference_text>
+      <pubmed_id>15951569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush J, Moritz A, Lee KA, Guo A, Goss VL, Spek EJ, Zhang H, Zha XM, Polakiewicz RD, Comb MJ: Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.  Nat Biotechnol. 2005 Jan;23(1):94-101. Epub 2004 Dec 12.</reference_text>
+      <pubmed_id>15592455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heibeck TH, Ding SJ, Opresko LK, Zhao R, Schepmoes AA, Yang F, Tolmachev AV, Monroe ME, Camp DG 2nd, Smith RD, Wiley HS, Qian WJ: An extensive survey of tyrosine phosphorylation revealing new sites in human mammary epithelial cells. J Proteome Res. 2009 Aug;8(8):3852-61.</reference_text>
+      <pubmed_id>19534553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chai G, Brewer JM, Lovelace LL, Aoki T, Minor W, Lebioda L: Expression, purification and the 1.8 angstroms resolution crystal structure of human neuron specific enolase. J Mol Biol. 2004 Aug 20;341(4):1015-21.</reference_text>
+      <pubmed_id>15289101</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:01 -0700</creation_date>
+  <update_date>2013-05-27 11:14:52 -0600</update_date>
+  <accession>HMDBP00849</accession>
+  <secondary_accessions>
+    <accession>6130</accession>
+    <accession>HMDBP03851</accession>
+    <accession>HMDBP07374</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>FPGS</synonym>
+    <synonym>Folylpoly-gamma-glutamate synthetase</synonym>
+    <synonym>Tetrahydrofolate synthase</synonym>
+    <synonym>Tetrahydrofolylpolyglutamate synthase</synonym>
+  </synonyms>
+  <gene_name>FPGS</gene_name>
+  <general_function>Involved in tetrahydrofolylpolyglutamate synthase activity</general_function>
+  <specific_function>Catalyzes conversion of folates to polyglutamate derivatives allowing concentration of folate compounds in the cell and the intracellular retention of these cofactors, which are important substrates for most of the folate-dependent enzymes that are involved in one-carbon transfer reactions involved in purine, pyrimidine and amino acid synthesis. Unsubstitued reduced folates are the preferred substrates. Metabolizes methotrexate (MTX) to polyglutamates.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Pterine Biosynthesis</name>
+      <smpdb_id>SMP00005</smpdb_id>
+      <kegg_map_id>map00790</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>tetrahydrofolylpolyglutamate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Folate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00790</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01056</accession>
+      <name>Dihydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01412</accession>
+      <name>7,8-Dihydropteroic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01846</accession>
+      <name>Tetrahydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06825</accession>
+      <name>Tetrahydrofolyl-[Glu](2)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06826</accession>
+      <name>Tetrahydrofolyl-[Glu](n)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14438</accession>
+      <name>Raltitrexed</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14703</accession>
+      <name>Methotrexate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acid-amino acid ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>tetrahydrofolylpolyglutamate synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular aromatic compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>folic acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>folic acid and derivative biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>tetrahydrofolylpolyglutamate synthase activity</description>
+      <go_id>GO:0004326</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>folic acid metabolic process</description>
+      <go_id>GO:0046655</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleobase-containing compound metabolic process</description>
+      <go_id>GO:0006139</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>one-carbon metabolic process</description>
+      <go_id>GO:0006730</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q34.1</locus>
+    <gene_sequence>&gt;1764 bp
+ATGTCGCGGGCGCGGAGCCACCTGCGCGCCGCTCTATTCCTGGCAGCGGCGTCTGCGCGC
+GGCGTAACGACCCAGGTCGCGGCGCGGCGGGGCTTGAGCGCGTGGCCGGTGCCGCAGGAG
+CCGAGCATGGAGTACCAGGATGCCGTGCGCATGCTCAATACCCTGCAGACCAATGCCGGC
+TACCTGGAGCAGGTGAAGCGCCAGCGGGGTGACCCTCAGACACAGTTGGAAGCCATGGAA
+CTGTACCTGGCACGGAGTGGGCTGCAGGTGGAGGACTTGGACCGGCTGAACATCATCCAC
+GTCACTGGGACGAAGGGGAAGGGCTCCACCTGTGCCTTCACGGAATGTATCCTCCGAAGC
+TATGGCCTGAAGACGGGATTCTTTAGCTCTCCCCACCTGGTGCAGGTTCGGGAGCGGATC
+CGCATCAATGGGCAGCCCATCAGTCCTGAGCTCTTCACCAAGTACTTCTGGCGCCTCTAC
+CACCGGCTGGAGGAGACCAAGGATGGCAGCTGTGTCTCCATGCCCCCCTACTTCCGCTTC
+CTGACACTCATGGCCTTCCACGTCTTCCTCCAAGAGAAGGTGGACCTGGCAGTGGTGGAG
+GTGGGCATTGGCGGGGCTTATGACTGCACCAACATCATCAGGAAGCCTGTGGTGTGCGGA
+GTCTCCTCTCTTGGCATCGACCACACCAGCCTCCTGGGGGATACGGTGGAGAAGATCGCA
+TGGCAGAAAGGGGGCATCTTTAAGCAAGGTGTCCCTGCCTTCACTGTGCTCCAACCTGAA
+GGTCCCCTGGCAGTGCTGAGGGACCGAGCCCAGCAGATCTCATGTCCTCTATACCTGTGT
+CCGATGCTGGAGGCCCTCGAGGAAGGGGGGCCGCCGCTGACCCTGGGCCTGGAGGGGGAG
+CACCAGCGGTCCAACGCCGCCTTGGCCTTGCAGCTGGCCCACTGCTGGCTGCAGCGGCAG
+GACCGCCATGGTGCTGGGGAGCCAAAGGCATCCAGGCCAGGGCTCCTGTGGCAGCTGCCC
+CTGGCACCTGTGTTCCAGCCCACATCCCACATGCGGCTCGGGCTTCGGAACACGGAGTGG
+CCGGGCCGGACGCAGGTGCTGCGGCGCGGGCCCCTCACCTGGTACCTGGACGGTGCGCAC
+ACCGCCAGCAGCGCGCAGGCCTGCGTGCGCTGGTTCCGCCAGGCGCTGCAGGGCCGCGAG
+AGGCCGAGCGGTGGCCCCGAGGTTCGAGTCTTGCTCTTCAATGCTACCGGGGACCGGGAC
+CCGGCGGCCCTGCTGAAGCTGCTGCAGCCCTGCCAGTTTGACTATGCCGTCTTCTGCCCT
+AACCTGACAGAGGTGTCATCCACAGGCAACGCAGACCAACAGAACTTCACAGTGACACTG
+GACCAGGTCCTGCTCCGCTGCCTGGAACACCAGCAGCACTGGAACCACCTGGACGAAGAG
+CAGGCCAGCCCGGACCTCTGGAGTGTCCCCAGCCCAGAGCCCGGTGGGTCCGCATCCCTG
+CTTCTGGCGCCCCACCCACCCCACACCTGCAGTGCCAGCTCCCTCGTCTTCAGCTGCATT
+TCACATGCCTTGCAATGGATCAGCCAAGGCCGAGACCCCATCTTCCAGCCACCTAGTCCC
+CCAAAGGGCCTCCTCACCCACCCTGTGGCTCACAGTGGGGCCAGCATACTCCGTGAGGCT
+GCTGCCATCCATGTGCTAGTCACTGGCAGCCTGCACCTGGTGGGTGGTGTCCTGAAGCTG
+CTGGAGCCCGCACTGTCCCAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>587</residue_number>
+    <molecular_weight>59173.37</molecular_weight>
+    <theoretical_pi>7.399</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Folylpolyglutamate synthase, mitochondrial
+MSRARSHLRAALFLAAASARGITTQVAARRGLSAWPVPQEPSMEYQDAVRMLNTLQTNAG
+YLEQVKRQRGDPQTQLEAMELYLARSGLQVEDLDRLNIIHVTGTKGKGSTCAFTECILRS
+YGLKTGFFSSPHLVQVRERIRINGQPISPELFTKYFWRLYHRLEETKDGSCVSMPPYFRF
+LTLMAFHVFLQEKVDLAVVEVGIGGAYDCTNIIRKPVVCGVSSLGIDHTSLLGDTVEKIA
+WQKGGIFKQGVPAFTVLQPEGPLAVLRDRAQQISCPLYLCPMLEALEEGGPPLTLGLEGE
+HQRSNAALALQLAHCWLQRQDRHGAGEPKASRPGLLWQLPLAPVFQPTSHMRLGLRNTEW
+PGRTQVLRRGPLTWYLDGAHTASSAQACVRWFRQALQGRERPSGGPEVRVLLFNATGDRD
+PAALLKLLQPCQFDYAVFCPNLTEVSSTGNADQQNFTVTLDQVLLRCLEHQQHWNHLDEE
+QASPDLWSAPSPEPGGSASLLLAPHPPHTCSASSLVFSCISHALQWISQGRDPIFQPPSP
+PKGLLTHPVAHSGASILREAAAIHVLVTGSLHLVGGVLKLLEPALSQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>39992602</genbank_protein_id>
+  <uniprot_id>Q05932</uniprot_id>
+  <uniprot_name>FOLC_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC064393</genbank_gene_id>
+  <genecard_id>FPGS</genecard_id>
+  <geneatlas_id>FPGS</geneatlas_id>
+  <hgnc_id>HGNC:3824</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Garrow TA, Admon A, Shane B: Expression cloning of a human cDNA encoding folylpoly(gamma-glutamate) synthetase and determination of its primary structure. Proc Natl Acad Sci U S A. 1992 Oct 1;89(19):9151-5.</reference_text>
+      <pubmed_id>1409616</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Freemantle SJ, Taylor SM, Krystal G, Moran RG: Upstream organization of and multiple transcripts from the human folylpoly-gamma-glutamate synthetase gene. J Biol Chem. 1995 Apr 21;270(16):9579-84.</reference_text>
+      <pubmed_id>7721888</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor SM, Freemantle SJ, Moran RG: Structural organization of the human folypoly-gamma-glutamate synthetase gene: evidence for a single genomic locus. Cancer Res. 1995 Dec 15;55(24):6030-4.</reference_text>
+      <pubmed_id>8521387</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cichowicz DJ, Shane B: Mammalian folylpoly-gamma-glutamate synthetase. 1. Purification and general properties of the hog liver enzyme. Biochemistry. 1987 Jan 27;26(2):504-12.</reference_text>
+      <pubmed_id>3828320</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>DeMartino JK, Hwang I, Xu L, Wilson IA, Boger DL: Discovery of a potent, nonpolyglutamatable inhibitor of glycinamide ribonucleotide transformylase. J Med Chem. 2006 May 18;49(10):2998-3002.</reference_text>
+        <pubmed_id>16686541</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gangjee A, Yang J, McGuire JJ, Kisliuk RL: Synthesis and evaluation of a classical 2,4-diamino-5-substituted-furo[2,3-d]pyrimidine and a 2-amino-4-oxo-6-substituted-pyrrolo[2,3-d]pyrimidine as antifolates. Bioorg Med Chem. 2006 Dec 15;14(24):8590-8. Epub 2006 Sep 20.</reference_text>
+        <pubmed_id>16990006</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Raltitrexed</name>
+        <accession>HMDB14438</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Innocenti F, Ratain MJ: Update on pharmacogenetics in cancer chemotherapy.  Eur J Cancer. 2002 Mar;38(5):639-44.</reference_text>
+        <pubmed_id>11916544</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methotrexate</name>
+        <accession>HMDB14703</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hider SL, Bruce IN, Thomson W: The pharmacogenetics of methotrexate.  Rheumatology (Oxford). 2007 Oct;46(10):1520-4. Epub 2007 Jun 24.</reference_text>
+        <pubmed_id>17586865</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

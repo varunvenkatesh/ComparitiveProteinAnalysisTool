@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:10 -0700</creation_date>
+  <update_date>2013-05-27 11:37:19 -0600</update_date>
+  <accession>HMDBP00665</accession>
+  <secondary_accessions>
+    <accession>5938</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Protein-glutamine gamma-glutamyltransferase E 27 kDa catalytic chain</synonym>
+    <synonym>Protein-glutamine gamma-glutamyltransferase E 50 kDa non-catalytic chain</synonym>
+    <synonym>TG(E)</synonym>
+    <synonym>TGE</synonym>
+    <synonym>TGase E</synonym>
+    <synonym>TGase-3</synonym>
+    <synonym>Transglutaminase E</synonym>
+    <synonym>Transglutaminase-3</synonym>
+  </synonyms>
+  <gene_name>TGM3</gene_name>
+  <general_function>Involved in protein-glutamine gamma-glutamyltransferase activity</general_function>
+  <specific_function>Catalyzes the calcium-dependent formation of isopeptide cross-links between glutamine and lysine residues in various proteins, as well as the conjugation of polyamines to proteins. Involved in the formation of the cornified envelope (CE), a specialized component consisting of covalent cross-links of proteins beneath the plasma membrane of terminally differentiated keratinocytes. Catalyzes small proline-rich proteins (SPRR1 and SPRR2) and LOR cross-linking to form small interchain oligomers, which are further cross-linked by TGM1 onto the growing CE scaffold (By similarity). In hair follicles, involved in cross-linking structural proteins to hardening the inner root sheath.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00051</accession>
+      <name>Ammonia</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00641</accession>
+      <name>L-Glutamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein-glutamine gamma-glutamyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>peptide cross-linking</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extrinsic to internal side of plasma membrane</description>
+      <go_id>GO:0031234</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>calcium ion binding</description>
+      <go_id>GO:0005509</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GDP binding</description>
+      <go_id>GO:0019003</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GTP binding</description>
+      <go_id>GO:0005525</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>GTPase activity</description>
+      <go_id>GO:0003924</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>magnesium ion binding</description>
+      <go_id>GO:0000287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein-glutamine gamma-glutamyltransferase activity</description>
+      <go_id>GO:0003810</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell envelope organization</description>
+      <go_id>GO:0043163</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hair follicle morphogenesis</description>
+      <go_id>GO:0031069</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>keratinization</description>
+      <go_id>GO:0031424</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>keratinocyte differentiation</description>
+      <go_id>GO:0030216</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptide cross-linking</description>
+      <go_id>GO:0018149</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein tetramerization</description>
+      <go_id>GO:0051262</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q11.2</locus>
+    <gene_sequence>&gt;2082 bp
+ATGGCTGCTCTAGGAGTCCAGAGTATCAACTGGCAGAAGGCCTTCAACCGACAAGCGCAT
+CACACAGACAAGTTCTCCAGCCAGGAGCTCATCTTGCGGAGAGGCCAAAACTTCCAGGTC
+TTAATGATCATGAACAAAGGCCTTGGCTCTAACGAAAGACTGGAGTTCATTGACACCACA
+GGGCCTTACCCCTCAGAGTCGGCCATGACGAAGGCTGTGTTTCCACTCTCCAATGGCAGT
+AGTGGTGGCTGGAGTGCGGTGCTTCAGGCCAGCAATGGCAATACTCTGACTATCAGCATC
+TCCAGTCCTGCCAGCGCACCCATAGGACGGTACACAATGGCCCTCCAGATCTTCTCCCAG
+GGCGGCATCTCCTCTGTGAAACTTGGGACGTTCATACTGCTTTTTAACCCCTGGCTGAAT
+GTGGATAGCGTCTTTATGGGTAACCATGCTGAGAGAGAAGAGTATGTTCAGGAAGATGCC
+GGCATCATCTTTGTGGGAAGCACAAACCGAATTGGCATGATTGGCTGGAACTTTGGACAG
+TTTGAAGAAGACATTCTCAGCATCTGCCTCTCAATCTTGGATAGGAGTCTGAATTTCCGC
+CGTGACGCTGCTACTGATGTGGCCAGCAGAAATGACCCCAAATACGTTGGCCGGGTGCTG
+AGTGCCATGATCAATAGCAATGATGACAATGGTGTGCTTGCTGGGAATTGGAGCGGCACT
+TACACCGGTGGCCGGGACCCAAGGAGCTGGGACGGCAGCGTGGAGATCCTCAAAAATTGG
+AAAAAATCTGGCTTCAGCCCAGTCCGATATGGCCAGTGCTGGGTCTTTGCTGGGACCCTC
+AACACAGCGCTGCGGTCTTTGGGGATTCCTTCCCGGGTGATCACCAACTTCAACTCAGCT
+CATGACACAGACCGAAATCTCAGTGTGGATGTGTACTACGACCCCATGGGAAACCCCCTG
+GACAAGGGTAGTGATAGCGTATGGAATTTCCATGTCTGGAATGAAGGCTGGTTTGTGAGG
+TCTGACCTGGGCCCCCCGTACGGTGGATGGCAGGTGTTGGATGCTACCCCGCAGGAAAGA
+AGCCAAGGGGTGTTCCAGTGCGGCCCCGCTTCGGTCATTGGTGTTCGAGAGGGTGATGTG
+CAGCTGAACTTCGACATGCCCTTTATCTTCGCGGAGGTTAATGCCGACCGCATCACCTGG
+CTGTACGACAACACCACTGGCAAACAGTGGAAGAATTCCGTGAACAGTCACACCATTGGC
+AGGTACATCAGCACCAAGGCGGTGGGCAGCAATGCTCGCATGGACGTCACGGACAAGTAC
+AAGTACCCAGAAGGCTCTGACCAGGAAAGACAAGTGTTCCAAAAGGCTTTGGGGAAACTT
+AAACCCAACACGCCATTTGCCGCGACGTCTTCGATGGGTTTGGAAACAGAGGAACAGGAG
+CCCAGCATCATCGGGAAGCTGAAGGTCGCTGGCATGCTGGCAGTAGGCAAAGAAGTCAAC
+CTGGTCCTACTGCTCAAAAACCTGAGCAGGGATACGAAGACAGTGACAGTGAACATGACA
+GCCTGGACCATCATCTACAACGGCACGCTTGTACATGAAGTGTGGAAGGACTCTGCCACA
+ATGTCCCTGGACCCTGAGGAAGAGGCAGAACATCCCATAAAGATCTCGTACGCTCAGTAT
+GAGAGGTACCTGAAGTCAGACAACATGATCCGGATCACAGCGGTGTGCAAGGTCCCAGAT
+GAGTCTGAGGTGGTGGTGGAGCGGGACATCATCCTGGACAACCCCACCTTGACCCTGGAG
+GTGCTGAACGAGGCTCGTGTGCGGAAGCCTGTGAACGTGCAGATGCTCTTCTCCAATCCA
+CTGGATGAGCCGGTGAGGGACTGCGTGCTGATGGTGGAGGGAAGCGGCCTGCTGTTGGGT
+AACCTGAAGATCGACGTGCCGACCCTAGGGCCCAAGGAGCGGTCCCGGGTCCGTTTTGAT
+ATCCTGCCCTCCCGGAGTGGCACCAAGCAACTGCTCGCCGACTTCTCCTGCAACAAGTTC
+CCTGCAATCAAGGCCATGTTGTCCATCGACGTAGCCGAATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>693</residue_number>
+    <molecular_weight>76631.26</molecular_weight>
+    <theoretical_pi>5.864</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Transglut_C</name>
+        <pfam_id>PF00927</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Transglut_core</name>
+        <pfam_id>PF01841</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Transglut_N</name>
+        <pfam_id>PF00868</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Protein-glutamine gamma-glutamyltransferase E
+MAALGVQSINWQTAFNRQAHHTDKFSSQELILRRGQNFQVLMIMNKGLGSNERLEFIVST
+GPYPSESAMTKAVFPLSNGSSGGWSAVLQASNGNTLTISISSPASAPIGRYTMALQIFSQ
+GGISSVKLGTFILLFNPWLNVDSVFMGNHAEREEYVQEDAGIIFVGSTNRIGMIGWNFGQ
+FEEDILSICLSILDRSLNFRRDAATDVASRNDPKYVGRVLSAMINSNDDNGVLAGNWSGT
+YTGGRDPRSWNGSVEILKNWKKSGFSPVRYGQCWVFAGTLNTALRSLGIPSRVITNFNSA
+HDTDRNLSVDVYYDPMGNPLDKGSDSVWNFHVWNEGWFVRSDLGPSYGGWQVLDATPQER
+SQGVFQCGPASVIGVREGDVQLNFDMPFIFAEVNADRITWLYDNTTGKQWKNSVNSHTIG
+RYISTKAVGSNARMDVTDKYKYPEGSDQERQVFQKALGKLKPNTPFAATSSMGLETEEQE
+PSIIGKLKVAGMLAVGKEVNLVLLLKNLSRDTKTVTVNMTAWTIIYNGTLVHEVWKDSAT
+MSLDPEEEAEHPIKISYAQYEKYLKSDNMIRITAVCKVPDESEVVVERDIILDNPTLTLE
+VLNEARVRKPVNVQMLFSNPLDEPVRDCVLMVEGSGLLLGNLKIDVPTLGPKEGSRVRFD
+ILPSRSGTKQLLADFSCNKFPAIKAMLSIDVAE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>307504</genbank_protein_id>
+  <uniprot_id>Q08188</uniprot_id>
+  <uniprot_name>TGM3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1L9M</pdb_id>
+    <pdb_id>1L9N</pdb_id>
+    <pdb_id>1NUD</pdb_id>
+    <pdb_id>1NUF</pdb_id>
+    <pdb_id>1NUG</pdb_id>
+    <pdb_id>1RLE</pdb_id>
+    <pdb_id>1SGX</pdb_id>
+    <pdb_id>1VJJ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>L10386</genbank_gene_id>
+  <genecard_id>TGM3</genecard_id>
+  <geneatlas_id>TGM3</geneatlas_id>
+  <hgnc_id>HGNC:11779</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kim IG, Gorman JJ, Park SC, Chung SI, Steinert PM: The deduced sequence of the novel protransglutaminase E (TGase3) of human and mouse. J Biol Chem. 1993 Jun 15;268(17):12682-90.</reference_text>
+      <pubmed_id>8099584</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen BS, Wang MR, Xu X, Cai Y, Xu ZX, Han YL, Wu M: Transglutaminase-3, an esophageal cancer-related gene.  Int J Cancer. 2000 Dec 15;88(6):862-5.</reference_text>
+        <pubmed_id>11093806</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ikura K, Yu C, Nagao M, Sasaki R, Furuyoshi S, Kawabata N: Site-directed mutation in conserved anionic regions of guinea pig liver transglutaminase. Arch Biochem Biophys. 1995 Apr 20;318(2):307-13.</reference_text>
+        <pubmed_id>7733658</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ahvazi B, Steinert PM: A model for the reaction mechanism of the transglutaminase 3 enzyme.  Exp Mol Med. 2003 Aug 31;35(4):228-42.</reference_text>
+        <pubmed_id>14508061</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanosine monophosphate</name>
+        <accession>HMDB01397</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanosine monophosphate</name>
+        <accession>HMDB01397</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:11:06 -0600</creation_date>
+  <update_date>2013-05-27 11:11:06 -0600</update_date>
+  <accession>HMDBP11705</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Probable ATP-dependent helicase LGP2</synonym>
+    <synonym>Protein D11Lgp2 homolog</synonym>
+    <synonym>RIG-I-like receptor 3</synonym>
+    <synonym>RIG-I-like receptor LGP2</synonym>
+    <synonym>RLR-3</synonym>
+    <synonym>RLR</synonym>
+  </synonyms>
+  <gene_name>DHX58</gene_name>
+  <general_function/>
+  <specific_function>Acts as a regulator of DDX58/RIG-I and IFIH1/MDA5 mediated antiviral signaling. Cannot initiate antiviral signaling as it lacks the CARD domain required for activating MAVS/IPS1-dependent signaling events. Can have both negative and positive regulatory functions related to DDX58/RIG-I and IFIH1/MDA5 signaling and this role in regulating signaling may be complex and could probably depend on characteristics of the infecting virus or target cells, or both. Its inhibitory action on DDX58/RIG-I signaling may involve the following mechanisms: competition with DDX58/RIG-I for binding to the viral RNA, binding to DDX58/RIG-I and inhibiting its dimerization and interaction with MAVS/IPS1, competing with IKBKE in its binding to MAVS/IPS1 thereby inhibiting activation of interferon regulatory factor 3 (IRF3). Its positive regulatory role may involve unwinding or stripping nucleoproteins of viral RNA thereby facilitating their recognition by DDX58/RIG-I and IFIH1/MDA5. Involved in the innate immune response to various RNA viruses and some DNA viruses such as poxviruses, and also to the bacterial pathogen Listeria monocytogenes. Can bind both ssRNA and dsRNA, with a higher affinity for dsRNA. Shows a preference to 5'-triphosphorylated RNA, although it can recognize RNA lacking a 5'-triphosphate.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RIG-I-like receptor signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04622</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>defense response to virus</description>
+      <go_id>GO:0051607</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>innate immune response</description>
+      <go_id>GO:0045087</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>helicase activity</description>
+      <go_id>GO:0004386</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to virus</description>
+      <go_id>GO:0009615</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>double-stranded RNA binding</description>
+      <go_id>GO:0003725</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>single-stranded RNA binding</description>
+      <go_id>GO:0003727</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of type I interferon production</description>
+      <go_id>GO:0032480</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of MDA-5 signaling pathway</description>
+      <go_id>GO:1900245</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of RIG-I signaling pathway</description>
+      <go_id>GO:1900246</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of innate immune response</description>
+      <go_id>GO:0045824</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of MDA-5 signaling pathway</description>
+      <go_id>GO:0039534</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of RIG-I signaling pathway</description>
+      <go_id>GO:0039536</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of type I interferon production</description>
+      <go_id>GO:0032481</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q21.2</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>76612.365</molecular_weight>
+    <theoretical_pi>7.371</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|149408122|ref|NP_077024.2| probable ATP-dependent RNA helicase DHX58 [Homo sapiens]
+MELRSYQWEVIMPALEGKNIIIWLPTGAGKTRAAAYVAKRHLETVDGAKVVVLVNRVHLV
+TQHGEEFRRM</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q96C10</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2RQA</pdb_id>
+    <pdb_id>2W4R</pdb_id>
+    <pdb_id>3EQT</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:29517</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:25 -0700</creation_date>
+  <update_date>2013-05-27 11:33:06 -0600</update_date>
+  <accession>HMDBP00495</accession>
+  <secondary_accessions>
+    <accession>5742</accession>
+    <accession>HMDBP05437</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>11-cis RDH</synonym>
+    <synonym>11-cis RoDH</synonym>
+    <synonym>9-cis retinol dehydrogenase</synonym>
+    <synonym>9cRDH</synonym>
+  </synonyms>
+  <gene_name>RDH5</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Stereospecific 11-cis retinol dehydrogenase, which catalyzes the final step in the biosynthesis of 11-cis retinaldehyde, the universal chromophore of visual pigments. Also able to oxidize 9-cis-retinol and 13-cis-retinol, but not all-trans-retinol. Active in the presence of NAD as cofactor but not in the presence of NADP.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Retinol metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00830</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02152</accession>
+      <name>11-cis-Retinaldehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01358</accession>
+      <name>Retinal</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06216</accession>
+      <name>11-cis-Retinol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00305</accession>
+      <name>Vitamin A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum lumen</description>
+      <go_id>GO:0005788</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane</description>
+      <go_id>GO:0016020</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>retinol dehydrogenase activity</description>
+      <go_id>GO:0004745</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to stimulus</description>
+      <go_id>GO:0050896</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retinol metabolic process</description>
+      <go_id>GO:0042572</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>visual perception</description>
+      <go_id>GO:0007601</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q13-q14</locus>
+    <gene_sequence>&gt;957 bp
+ATGTGGCTGCCTCTTCTGCTGGGTGCCTTACTCTGGGCAGTGCTGTGGTTGCTCAGGGAC
+CGGCAGAGCCTGCCCGCCAGCAATGCCTTTGTCTTCATCACCGGCTGTGACTCAGGCTTT
+GGGCGCCTTCTGGCACTGCAGCTGGACCAGAGAGGCTTCCGAGTCCTGGCCAGCTGCCTG
+ACCCCCTCCGGGGCCGAGGACCTGCAGCGGGTGGCCTCCTCCCGCCTCCACACCACCCTG
+TTGGATATCACTGATCCCCAGAGCGTCCAGCAGGCAGCCAAGTGGGTGGAGATGCACGTT
+AAGGAAGCAGGGCTTTTTGGTCTGGTGAATAATGCTGGTGTGGCTGGTATCATCGGACCC
+ACACCATGGCTGACCCGGGACGATTTCCAGCGGGTGCTGAATGTGAACACAATGGGTCCC
+ATCGGGGTCACCCTTGCCCTGCTGCCTCTGCTGCAGCAAGCCCGGGGCCGGGTGATCAAC
+ATCACCAGCGTCCTGGGTCGCCTGGCAGCCAATGGTGGGGGCTACTGTGTCTCCAAATTT
+GGCCTGGAGGCCTTCTCTGACAGCCTGAGGCGGGATGTAGCTCATTTTGGGATACGAGTC
+TCCATCGTGGAGCCTGGCTTCTTCCGAACCCCTGTGACCAACCTGGAGAGTCTGGAGAAA
+ACCCTGCAGGCCTGCTGGGCACGGCTGCCTCCTGCCACACAGGCCCACTATGGGGGGGCC
+TTCCTCACCAAGTACCTGAAAATGCAACAGCGCATCATGAACCTGATCTGTGACCCGGAC
+CTAACCAAGGTGAGCCGATGCCTGGAGCATGCCCTGACTGCTCGACACCCCCGAACCCGC
+TACAGCCCAGGTTGGGATGCCAAGCTGCTCTGGCTGCCTGCCTCCTACCTGCCAGCCAGC
+CTGGTGGATGCTGTGCTCACCTGGGTCCTTCCCAAGCCTGCCCAAGCAGTCTACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>318</residue_number>
+    <molecular_weight>34978.425</molecular_weight>
+    <theoretical_pi>9.35</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>adh_short</name>
+        <pfam_id>PF00106</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;11-cis retinol dehydrogenase
+MWLPLLLGALLWAVLWLLRDRQSLPASNAFVFITGCDSGFGRLLALQLDQRGFRVLASCL
+TPSGAEDLQRVASSRLHTTLLDITDPQSVQQAAKWVEMHVKEAGLFGLVNNAGVAGIIGP
+TPWLTRDDFQRVLNVNTMGPIGVTLALLPLLQQARGRVINITSVLGRLAANGGGYCVSKF
+GLEAFSDSLRRDVAHFGIRVSIVEPGFFRTPVTNLESLEKTLQACWARLPPATQAHYGGA
+FLTKYLKMQQRIMNLICDPDLTKVSRCLEHALTARHPRTRYSPGWDAKLLWLPASYLPAS
+LVDAVLTWVLPKPAQAVY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q92781</uniprot_id>
+  <uniprot_name>RDH1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U43559</genbank_gene_id>
+  <genecard_id>RDH5</genecard_id>
+  <geneatlas_id>RDH5</geneatlas_id>
+  <hgnc_id>HGNC:9940</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Simon A, Lagercrantz J, Bajalica-Lagercrantz S, Eriksson U: Primary structure of human 11-cis retinol dehydrogenase and organization and chromosomal localization of the corresponding gene. Genomics. 1996 Sep 15;36(3):424-30.</reference_text>
+      <pubmed_id>8884265</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gonzalez-Fernandez F, Kurz D, Bao Y, Newman S, Conway BP, Young JE, Han DP, Khani SC: 11-cis retinol dehydrogenase mutations as a major cause of the congenital night-blindness disorder known as fundus albipunctatus. Mol Vis. 1999 Dec 30;5:41.</reference_text>
+      <pubmed_id>10617778</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamamoto H, Simon A, Eriksson U, Harris E, Berson EL, Dryja TP: Mutations in the gene encoding 11-cis retinol dehydrogenase cause delayed dark adaptation and fundus albipunctatus. Nat Genet. 1999 Jun;22(2):188-91.</reference_text>
+      <pubmed_id>10369264</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuroiwa S, Kikuchi T, Yoshimura N: A novel compound heterozygous mutation in the RDH5 gene in a patient with fundus albipunctatus. Am J Ophthalmol. 2000 Nov;130(5):672-5.</reference_text>
+      <pubmed_id>11078852</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakamura M, Hotta Y, Tanikawa A, Terasaki H, Miyake Y: A high association with cone dystrophy in Fundus albipunctatus caused by mutations of the RDH5 gene. Invest Ophthalmol Vis Sci. 2000 Nov;41(12):3925-32.</reference_text>
+      <pubmed_id>11053295</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Driessen CA, Janssen BP, Winkens HJ, Kuhlmann LD, Van Vugt AH, Pinckers AJ, Deutman AF, Janssen JJ: Null mutation in the human 11-cis retinol dehydrogenase gene associated with fundus albipunctatus. Ophthalmology. 2001 Aug;108(8):1479-84.</reference_text>
+      <pubmed_id>11470705</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hotta K, Nakamura M, Kondo M, Ito S, Terasaki H, Miyake Y, Hida T: Macular dystrophy in a Japanese family with fundus albipunctatus.  Am J Ophthalmol. 2003 Jun;135(6):917-9.</reference_text>
+      <pubmed_id>12788147</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yamamoto H, Yakushijin K, Kusuhara S, Escano MF, Nagai A, Negi A: A novel RDH5 gene mutation in a patient with fundus albipunctatus presenting with macular atrophy and fading white dots. Am J Ophthalmol. 2003 Sep;136(3):572-4.</reference_text>
+      <pubmed_id>12967826</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

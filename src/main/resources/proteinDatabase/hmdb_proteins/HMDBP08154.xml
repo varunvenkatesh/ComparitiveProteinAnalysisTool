@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:06:59 -0700</creation_date>
+  <update_date>2013-01-15 20:06:59 -0700</update_date>
+  <accession>HMDBP08154</accession>
+  <secondary_accessions>
+    <accession>13865</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>54 kDa nuclear RNA- and DNA-binding protein</synonym>
+    <synonym>55 kDa nuclear protein</synonym>
+    <synonym>DNA-binding p52/p100 complex, 52 kDa subunit</synonym>
+    <synonym>NMT55</synonym>
+    <synonym>NonO protein</synonym>
+    <synonym>p54(nrb)</synonym>
+    <synonym>p54nrb</synonym>
+  </synonyms>
+  <gene_name>NONO</gene_name>
+  <general_function>Involved in nucleotide binding</general_function>
+  <specific_function>DNA- and RNA binding protein, involved in several nuclear processes. Binds the conventional octamer sequence in double stranded DNA. Also binds single-stranded DNA and RNA at a site independent of the duplex site. Involved in pre-mRNA splicing, probably as an heterodimer with SFPQ. Interacts with U5 snRNA, probably by binding to a purine-rich sequence located on the 3' side of U5 snRNA stem 1b. The SFPQ-NONO heteromer associated with MATR3 may play a role in nuclear retention of defective RNAs. The SFPQ-NONO heteromer may be involved in DNA unwinding by modulating the function of topoisomerase I/TOP1. The SFPQ-NONO heteromer may be involved in DNA nonhomologous end joining (NHEJ) required for double-strand break repair and V(D)J recombination and may stabilize paired DNA ends. In vitro, the complex strongly stimulates DNA end joining, binds directly to the DNA substrates and cooperates with the Ku70/G22P1-Ku80/XRCC5 (Ku) dimer to establish a functional preligation complex. Nono is involved in transcriptional regulation. The SFPQ-NONO-NR5A1 complex binds to the CYP17 promoter and regulates basal and cAMP-dependent transcriptional avtivity. NONO binds to an enhancer element in long terminal repeats of endogenous intracisternal A particles (IAPs) and activates transcription</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location/>
+    <locus/>
+    <gene_sequence>&gt;1416 bp
+ATGCAGAGTAATAAAACTTTTAACTTGGAGAAGCAAAACCATACTCCAAGAAAGCATCAT
+CAACATCACCACCAGCAGCAGCACCACCAGCAGCAACAGCAGCAGCCGCCACCACCGCCA
+ATACCTGCAAATGGGCAACAGGCCAGCAGCCAAAATGAAGGCTTGACTATTGACCTGAAG
+AATTTTAGAAAACCAGGAGAGAAGACCTTCACCCAACGAAGCCGTCTTTTTGTGGGAAAT
+CTTCCTCCCGACATCACTGAGGAAGAAATGAGGAAACTATTTGAGAAATATGGAAAGGCA
+GGCGAAGTCTTCATTCATAAGGATAAAGGATTTGGCTTTATCCGCTTGGAAACCCGAACC
+CTAGCGGAGATTGCCAAAGTGGAGCTGGACAATATGCCACTCCGTGGAAAGCAGCTGCGT
+GTGCGCTTTGCCTGCCATAGTGCATCCCTTACAGTTCGAAACCTTCCTCAGTATGTGTCC
+AACGAACTGCTGGAAGAAGCCTTTTCTGTGTTTGGCCAGGTAGAGAGGGCTGTAGTCATT
+GTGGATGATCGAGGAAGGCCCTCAGGAAAAGGCATTGTTGAGTTCTCAGGGAAGCCAGCT
+GCTCGGAAAGCTCTGGACAGATGCAGTGAAGGCTCCTTCCTGCTAACCACATTTCCTCGT
+CCTGTGACTGTGGAGCCCATGGACCAGTTAGATGATGAAGAGGGACTTCCAGAGAAGCTG
+GTTATAAAAAACCAGCAATTTCACAAGGAACGAGAGCAGCCACCCAGATTTGCACAGCCT
+GGCTCCTTTGAGTATGAATATGCCATGCGCTGGAAGGCACTCATTGAGATGGAGAAGCAG
+CAGCAGGACCAAGTGGACCGCAACATCAAGGAGGCTCGTGAGAAGCTGGAGATGGAGATG
+GAAGCTGCACGCCATGAGCACCAGGTCATGCTAATGAGACAGGATTTGATGAGGCGCCAA
+GAAGAACTTCGGAGGATGGAAGAGCTGCACAACCAAGAGGTGCAAAAACGAAAGCAACTG
+GAGCTCAGGCAGGAGGAAGAGCGCAGGCGCCGTGAAGAAGAGATGCGGCGGCAGCAAGAA
+GAAATGATGCGGCGACAGCAGGAAGGATTCAAGGGAACCTTCCCTGATGCGAGAGAGCAG
+GAGATTCGGATGGGTCAGATGGCTATGGGAGGTGCTATGGGCATAAACAACAGAGGTGCC
+ATGCCCCCTGCTCCTGTGCCAGCTGGTACCCCAGCTCCTCCAGGACCTGCCACTATGATG
+CCGGATGGAACTTTGGGATTGACCCCACCAACAACTGAACGCTTTGGTCAGGCTGCTACA
+ATGGAAGGAATTGGGGCAATTGGTGGAACTCCTCCTGCATTCAACCGTGCAGCTCCTGGA
+GCTGAATTTGCCCCAAACAAACGTCGCCGATACTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>471</residue_number>
+    <molecular_weight>54231.3</molecular_weight>
+    <theoretical_pi>9.49</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>NOPS</name>
+        <pfam_id>PF08075</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RRM_1</name>
+        <pfam_id>PF00076</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Non-POU domain-containing octamer-binding protein
+MQSNKTFNLEKQNHTPRKHHQHHHQQQHHQQQQQQPPPPPIPANGQQASSQNEGLTIDLK
+NFRKPGEKTFTQRSRLFVGNLPPDITEEEMRKLFEKYGKAGEVFIHKDKGFGFIRLETRT
+LAEIAKVELDNMPLRGKQLRVRFACHSASLTVRNLPQYVSNELLEEAFSVFGQVERAVVI
+VDDRGRPSGKGIVEFSGKPAARKALDRCSEGSFLLTTFPRPVTVEPMDQLDDEEGLPEKL
+VIKNQQFHKEREQPPRFAQPGSFEYEYAMRWKALIEMEKQQQDQVDRNIKEAREKLEMEM
+EAARHEHQVMLMRQDLMRRQEELRRMEELHNQEVQKRKQLELRQEEERRRREEEMRRQQE
+EMMRRQQEGFKGTFPDAREQEIRMGQMAMGGAMGINNRGAMPPAPVPAGTPAPPGPATMM
+PDGTLGLTPPTTERFGQAATMEGIGAIGGTPPAFNRAAPGAEFAPNKRRRY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>12803121</genbank_protein_id>
+  <uniprot_id>Q15233</uniprot_id>
+  <uniprot_name>NONO_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC002364</genbank_gene_id>
+  <genecard_id>NONO</genecard_id>
+  <geneatlas_id>NONO</geneatlas_id>
+  <hgnc_id>HGNC:7871</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Dong B, Horowitz DS, Kobayashi R, Krainer AR: Purification and cDNA cloning of HeLa cell p54nrb, a nuclear protein with two RNA recognition motifs and extensive homology to human splicing factor PSF and Drosophila NONA/BJ6. Nucleic Acids Res. 1993 Aug 25;21(17):4085-92.</reference_text>
+      <pubmed_id>8371983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Traish AM, Huang YH, Ashba J, Pronovost M, Pavao M, McAneny DB, Moreland RB: Loss of expression of a 55 kDa nuclear protein (nmt55) in estrogen receptor-negative human breast cancer. Diagn Mol Pathol. 1997 Aug;6(4):209-21.</reference_text>
+      <pubmed_id>9360842</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Peters U, Haberhausen G, Kostrzewa M, Nolte D, Muller U: AFX1 and p54nrb: fine mapping, genomic structure, and exclusion as candidate genes of X-linked dystonia parkinsonism. Hum Genet. 1997 Oct;100(5-6):569-72.</reference_text>
+      <pubmed_id>9341872</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang WW, Zhang LX, Busch RK, Farres J, Busch H: Purification and characterization of a DNA-binding heterodimer of 52 and 100 kDa from HeLa cells. Biochem J. 1993 Feb 15;290 ( Pt 1):267-72.</reference_text>
+      <pubmed_id>8439294</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clark J, Lu YJ, Sidhar SK, Parker C, Gill S, Smedley D, Hamoudi R, Linehan WM, Shipley J, Cooper CS: Fusion of splicing factor genes PSF and NonO (p54nrb) to the TFE3 gene in papillary renal cell carcinoma. Oncogene. 1997 Oct;15(18):2233-9.</reference_text>
+      <pubmed_id>9393982</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Straub T, Grue P, Uhse A, Lisby M, Knudsen BR, Tange TO, Westergaard O, Boege F: The RNA-splicing factor PSF/p54 controls DNA-topoisomerase I activity by a direct interaction. J Biol Chem. 1998 Oct 9;273(41):26261-4.</reference_text>
+      <pubmed_id>9756848</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Straub T, Knudsen BR, Boege F: PSF/p54(nrb) stimulates &amp;quot;jumping&amp;quot; of DNA topoisomerase I between separate DNA helices. Biochemistry. 2000 Jun 27;39(25):7552-8.</reference_text>
+      <pubmed_id>10858305</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Z, Carmichael GG: The fate of dsRNA in the nucleus: a p54(nrb)-containing complex mediates the nuclear retention of promiscuously A-to-I edited RNAs. Cell. 2001 Aug 24;106(4):465-75.</reference_text>
+      <pubmed_id>11525732</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sewer MB, Nguyen VQ, Huang CJ, Tucker PW, Kagawa N, Waterman MR: Transcriptional activation of human CYP17 in H295R adrenocortical cells depends on complex formation among p54(nrb)/NonO, protein-associated splicing factor, and SF-1, a complex that also participates in repression of transcription. Endocrinology. 2002 Apr;143(4):1280-90.</reference_text>
+      <pubmed_id>11897684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Peng R, Dye BT, Perez I, Barnard DC, Thompson AB, Patton JG: PSF and p54nrb bind a conserved stem in U5 snRNA.  RNA. 2002 Oct;8(10):1334-47.</reference_text>
+      <pubmed_id>12403470</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bladen CL, Udayakumar D, Takeda Y, Dynan WS: Identification of the polypyrimidine tract binding protein-associated splicing factor.p54(nrb) complex as a candidate DNA double-strand break rejoining factor. J Biol Chem. 2005 Feb 18;280(7):5205-10. Epub 2004 Dec 7.</reference_text>
+      <pubmed_id>15590677</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fox AH, Bond CS, Lamond AI: P54nrb forms a heterodimer with PSP1 that localizes to paraspeckles in an RNA-dependent manner. Mol Biol Cell. 2005 Nov;16(11):5304-15. Epub 2005 Sep 7.</reference_text>
+      <pubmed_id>16148043</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang LY, Deng N, Wang LS, Dai J, Wang ZL, Jiang XS, Li SJ, Li L, Sheng QH, Wu DQ, Li L, Zeng R: Quantitative phosphoproteome profiling of Wnt3a-mediated signaling network: indicating the involvement of ribonucleoside-diphosphate reductase M2 subunit phosphorylation at residue serine 20 in canonical Wnt signal transduction. Mol Cell Proteomics. 2007 Nov;6(11):1952-67. Epub 2007 Aug 12.</reference_text>
+      <pubmed_id>17693683</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Molina H, Horn DM, Tang N, Mathivanan S, Pandey A: Global proteomic profiling of phosphopeptides using electron transfer dissociation tandem mass spectrometry. Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2199-204. Epub 2007 Feb 7.</reference_text>
+      <pubmed_id>17287340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Miyamoto K, Sakurai H, Sugiura T: Proteomic identification of a PSF/p54nrb heterodimer as RNF43 oncoprotein-interacting proteins. Proteomics. 2008 Jul;8(14):2907-10.</reference_text>
+      <pubmed_id>18655028</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:32 -0700</creation_date>
+  <update_date>2013-05-27 11:11:39 -0600</update_date>
+  <accession>HMDBP00951</accession>
+  <secondary_accessions>
+    <accession>6239</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>DNA polymerase alpha catalytic subunit p180</synonym>
+  </synonyms>
+  <gene_name>POLA1</gene_name>
+  <general_function>Involved in nucleotide binding</general_function>
+  <specific_function>Plays an essential role in the initiation of DNA replication. During the S phase of the cell cycle, the DNA polymerase alpha complex (composed of a catalytic subunit POLA1/p180, a regulatory subunit POLA2/p70 and two primase subunits PRIM1/p49 and PRIM2/p58) is recruited to DNA at the replicative forks via direct interactions with MCM10 and WDHD1. The primase subunit of the polymerase alpha complex initiates DNA synthesis by oligomerising short RNA primers on both leading and lagging strands. These primers are initially extended by the polymerase alpha catalytic subunit and subsequently transferred to polymerase delta and polymerase epsilon for processive synthesis on the lagging and leading strand, respectively. The reason this transfer occurs is because the polymerase alpha has limited processivity and lacks intrinsic 3' exonuclease activity for proofreading error, and therefore is not well suited for replicating long complexes.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>DNA replication</name>
+      <smpdb_id/>
+      <kegg_map_id>map03030</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00998</accession>
+      <name>dCTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01342</accession>
+      <name>Thymidine 5'-triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01440</accession>
+      <name>dGTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01532</accession>
+      <name>Deoxyadenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14387</accession>
+      <name>Cladribine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14769</accession>
+      <name>Clofarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15206</accession>
+      <name>Fludarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15401</accession>
+      <name>Nelarabine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna-directed dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>alpha DNA polymerase:primase complex</description>
+      <go_id>GO:0005658</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear envelope</description>
+      <go_id>GO:0005635</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear matrix</description>
+      <go_id>GO:0016363</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3'-5' exonuclease activity</description>
+      <go_id>GO:0008408</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>4 iron, 4 sulfur cluster binding</description>
+      <go_id>GO:0051539</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chromatin binding</description>
+      <go_id>GO:0003682</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed DNA polymerase activity</description>
+      <go_id>GO:0003887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>double-stranded DNA binding</description>
+      <go_id>GO:0003690</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleoside binding</description>
+      <go_id>GO:0001882</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>purine nucleotide binding</description>
+      <go_id>GO:0017076</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>pyrimidine nucleotide binding</description>
+      <go_id>GO:0019103</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication initiation</description>
+      <go_id>GO:0006270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication, synthesis of RNA primer</description>
+      <go_id>GO:0006269</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>double-strand break repair via nonhomologous end joining</description>
+      <go_id>GO:0006303</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lagging strand elongation</description>
+      <go_id>GO:0006273</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>leading strand elongation</description>
+      <go_id>GO:0006272</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>M/G1 transition of mitotic cell cycle</description>
+      <go_id>GO:0000216</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription involved in G1/S phase of mitotic cell cycle</description>
+      <go_id>GO:0000083</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>S phase of mitotic cell cycle</description>
+      <go_id>GO:0000084</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via recombination</description>
+      <go_id>GO:0000722</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance via semi-conservative replication</description>
+      <go_id>GO:0032201</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>translesion synthesis</description>
+      <go_id>GO:0019985</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xp22.1-p21.3</locus>
+    <gene_sequence>&gt;4389 bp
+ATGGCACCTGTGCACGGCGACGACTCTCTGTCAGATTCAGGGAGTTTTGTATCTTCTCGA
+GCCCGGCGAGAAAAAAAATCAAAGAAGGGGCGCCAAGAAGCCCTAGAAAGACTGAAAAAG
+GCTAAAGCTGGTGAGAAGTATAAATATGAAGTCGAGGACTTCACAGGTGTTTATGAAGAA
+GTTGATGAAGAACAGTATTCGAAGCTGGTTCAGGCACGCCAGGATGATGACTGGATTGTG
+GATGATGATGGTATTGGCTATGTGGAAGATGGCCGAGAGATTTTTGATGATGACCTTGAA
+GATGATGCCCTTGATGCTGATGAGAAAGGAAAAGATGGTAAAGCACGCAATAAAGACAAG
+AGGAATGTAAAGAAGCTCGCAGTGACAAAACCGAACAACATTAAGTCAATGTTCATTGCT
+TGTGCTGGAAAGAAAACTGCAGATAAAGCTGTAGACTTGTCCAAGGATGGTCTGCTAGGT
+GACATTCTACAGGATCTTAACACTGAGACACCTCAAATAACTCCACCACCTGTAATGATA
+CTGAAGAAGAAAAGATCCATTGGAGCTTCACCGAATCCTTTCTCTGTGCACACCGCCACG
+GCAGTTCCTTCAGGAAAAATTGCTTCCCCTGTCTCCAGAAAGGAGCCTCCATTAACTCCT
+GTTCCTCTTAAACGTGCTGAATTTGCTGGCGATGATGTACAGGTCGAGAGTACAGAAGAA
+GAGCAGGAGTCAGGGGCAATGGAGTTTGAAGATGGTGACTTTGATGAGCCCATGGAAGTT
+GAAGAGGTGGACCTGGAGCCTATGGCTGCCAAGGCTTGGGACAAAGAGAGTGAGCCAGCA
+GAGGAAGTGAAACAAGAGGCGGATTCTGGGAAAGGGACCGTGTCCTACTTAGGAAGTTTT
+CTCCCGGATGTCTCTTGTTGGGACATTGATCAAGAAGGTGATAGCAGTTTCTCAGTGCAA
+GAAGTTCAAGTGGATTCCAGTCACCTCCCATTGGTAAAAGGGGCAGATGAGGAACAAGTA
+TTCCACTTTTATTGGTTGGATGCTTATGAGGATCAGTACAACCAACCAGGTGTGGTATTT
+CTGTTTGGGAAAGTTTGGATTGAATCAGCCGAGACCCATGTGAGCTGTTGTGTCATGGTG
+AAAAATATCGAGCGAACGCTTTACTTCCTTCCCCGTGAAATGAAAATTGATCTAAATACG
+GGGAAAGAAACAGGAACTCCAATTTCAATGAAGGATGTTTATGAGGAATTTGATGAGAAA
+ATAGCAACAAAATATAAAATTATGAAGTTCAAGTCTAAGCCAGTGGAAAAGAACTATGCT
+TTTGAGATACCTGATGTTCCAGAAAAATCTGAGTACTTGGAAGTTAAATACTCGGCTGAA
+ATGCCACAGCTTCCTCAAGATTTGAAAGGAGAAACTTTTTCTCATGTATTTGGGACCAAC
+ACATCTAGCCTGGAACTGTTCTTGATGAACAGAAAGATCAAAGGACCTTGTTGGCTTGAA
+GTAAAAAAGTCCACAGCTCTTAATCAGCCAGTCAGTTGGTGTAAAGTTGAGGCAATGGCT
+TTGAAACCAGACCTGGTGAATGTAATTAAGGATGTCAGTCCACCACCGCTTGTCGTGATG
+GCTTTCAGCATGAAGACAATGCAGAATGCAAAGAACCATCAAAATGAGATTATTGCTATG
+GCAGCTTTGGTCCATCACAGTTTTGCATTGGATAAAGCAGCCCCAAAGCCTCCCTTTCAG
+TCACACTTCTGTGTTGTGTCTAAACCAAAGGACTGTATTTTTCCATATGCTTTCAAAGAA
+GTCATTGAGAAAAAGAATGTGAAGGTTGAGGTTGCTGCAACAGAAAGAACACTGCTAGGT
+TTTTTCCTTGCAAAAGTTCACAAAATTGATCCTGATATCATTGTGGGTCATAATATTTAT
+GGGTTTGAACTGGAAGTACTACTGCAGAGAATTAATGTGTGCAAAGCTCCTCACTGGTCC
+AAGATAGGTCGACTGAAGCGATCCAACATGCCAAAGCTTGGGGGCCGGAGTGGATTTGGT
+GAAAGAAATGCTACCTGTGGTCGAATGATCTGTGATGTGGAAATTTCAGCAAAGGAATTG
+ATTCGTTGTAAAAGCTACCATCTGTCTGAACTTGTTCAGCAGATTCTAAAAACTGAAAGG
+GTTGTAATCCCAATGGAAAATATACAAAATATGTACAGTGAATCTTCTCAACTGTTATAC
+CTGTTGGAACACACCTGGAAAGATGCCAAGTTCATTTTGCAGATCATGTGTGAGCTAAAT
+GTTCTTCCATTAGCATTGCAGATCACTAACATCGCTGGGAACATTATGTCCAGGACGCTG
+ATGGGTGGACGATCCGAGCGTAACGAGTTCTTGTTGCTTCATGCATTTTACGAAAACAAC
+TATATTGTGCCTGACAAGCAGATTTTCAGAAAGCCTCAGCAAAAACTGGGAGATGAAGAT
+GAAGAAATTGATGGAGATACCAATAAATACAAGAAAGGACGTAAGAAAGGAGCTTATGCT
+GGAGGCTTGGTTTTGGACCCCAAAGTTGGTTTTTATGATAAGTTCATTTTGCTTCTGGAC
+TTCAACAGTCTATATCCTTCCATCATTCAGGAATTTAACATTTGTTTTACAACAGTACAA
+AGAGTTGCTTCAGAGGCACAGAAAGTTACAGAGGATGGAGAACAAGAACAGATCCCTGAG
+TTGCCAGATCCAAGCTTAGAAATGGGCATTTTGCCCAGAGAGATCCGGAAACTGGTAGAA
+CGGAGAAAACAAGTCAAACAGCTAATGAAACAGCAAGACTTAAATCCAGACCTTATTCTT
+CAGTATGACATTCGACAGAAGGCTTTGAAGCTCACAGCGAACAGTATGTATGGTTGCCTG
+GGATTTTCCTATAGCAGATTTTACGCCAAACCACTGGCTGCCTTGGTGACATACAAAGGA
+AGGGAGATTTTGATGCATACGAAAGAGATGGTACAAAAGATGAATCTTGAAGTTATTTAT
+GGAGATACAGATTCAATTATGATAAACACCAATAGCACCAATCTGGAAGAAGTATTTAAG
+TTGGGAAACAAGGTAAAAAGTGAAGTGAATAAGTTGTACAAACTGCTTGAAATAGACATT
+GATGGGGTTTTCAAGTCTCTGCTACTGCTGAAAAAAAAGAAGTACGCTGCTCTGGTTGTT
+GAGCCAACGTCGGATGGGAATTATGTCACCAAACAGGAGCTCAAAGGATTAGATATAGTT
+AGAAGAGATTGGTGTGATCTTGCTAAAGACACTGGAAACTTTGTGATTGGCCAGATTCTT
+TCTGATCAAAGCCGGGACACTATAGTGGAAAACATTCAGAAGAGGCTGATAGAAATTGGA
+GAAAATGTGCTAAATGGCAGTGTCCCAGTGAGCCAGTTTGAAATTAACAAGGCATTGACA
+AAGGATCCCCAGGATTACCCTGATAAAAAAAGCCTACCTCATGTACATGTTGCCCTCTGG
+ATAAATTCTCAAGGAGGCAGAAAGGTGAAAGCTGGAGATACTGTGTCATATGTCATCTGT
+CAGGATGGATCAAACCTCACTGCAAGTCAGAGGGCCTATGCGCCTGAGCAGCTGCAGAAA
+CAGGATAATCTAACCATTGACACCCAGTACTACCTGGCCCAGCAGATCCACCCAGTCGTG
+GCTCGGATCTGTGAACCAATAGACGGAATTGATGCTGTCCTCATTGCAACGTGGTTGGGA
+CTTGACCCCACCCAATTTAGAGTTCATCATTATCATAAAGATGAAGAGAATGATGCTCTA
+CTTGGTGGCCCAGCACAGCTCACTGATGAAGAGAAATACAGGGACTGTGAAAGATTCAAA
+TGTCCATGCCCTACATGTGGAACTGAGAATATTTATGATAATGTCTTTGATGGTTCGGGA
+ACAGATATGGAGCCCAGCTTGTATCGTTGCAGTAACATCGATTGTAAGGCTTCACCTCTG
+ACCTTTACAGTACAACTGAGCAACAAATTGATCATGGACATTAGACGTTTCATTAAAAAG
+TACTATGATGGCTGGTTGATATGTGAAGAGCCAACCTGTCGCAATCGAACTCGTCACCTT
+CCCCTTCAATTCTCCCGAACTGGGCCTCTTTGCCCAGCCTGCATGAAAGCTACACTTCAA
+CCAGAGTATTCTGACAAGTCCCTGTACACCCAGCTGTGCTTTTACCGGTACATTTTTGAT
+GCGGAGTGTGCACTGGAGAAACTTACTACCGATCATGAGAAAGATAAATTGAAGAAGCAA
+TTTTTTACCCCCAAAGTTCTGCAGGACTACAGAAAACTCAAGAACACAGCAGAGCAATTC
+TTGTCCCGAAGTGGCTACTCCGAAGTGAATCTGAGCAAACTCTTCGCTGGTTGTGCCGTG
+AAATCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1462</residue_number>
+    <molecular_weight>165911.405</molecular_weight>
+    <theoretical_pi>5.848</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DNA_pol_B</name>
+        <pfam_id>PF00136</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DNA_pol_B_exo</name>
+        <pfam_id>PF03104</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-DNA_Pol</name>
+        <pfam_id>PF08996</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DNA_pol_alpha_N</name>
+        <pfam_id>PF12254</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA polymerase alpha catalytic subunit
+MAPVHGDDSLSDSGSFVSSRARREKKSKKGRQEALERLKKAKAGEKYKYEVEDFTGVYEE
+VDEEQYSKLVQARQDDDWIVDDDGIGYVEDGREIFDDDLEDDALDADEKGKDGKARNKDK
+RNVKKLAVTKPNNIKSMFIACAGKKTADKAVDLSKDGLLGDILQDLNTETPQITPPPVMI
+LKKKRSIGASPNPFSVHTATAVPSGKIASPVSRKEPPLTPVPLKRAEFAGDDVQVESTEE
+EQESGAMEFEDGDFDEPMEVEEVDLEPMAAKAWDKESEPAEEVKQEADSGKGTVSYLGSF
+LPDVSCWDIDQEGDSSFSVQEVQVDSSHLPLVKGADEEQVFHFYWLDAYEDQYNQPGVVF
+LFGKVWIESAETHVSCCVMVKNIERTLYFLPREMKIDLNTGKETGTPISMKDVYEEFDEK
+IATKYKIMKFKSKPVEKNYAFEIPDVPEKSEYLEVKYSAEMPQLPQDLKGETFSHVFGTN
+TSSLELFLMNRKIKGPCWLEVKSPQLLNQPVSWCKVEAMALKPDLVNVIKDVSPPPLVVM
+AFSMKTMQNAKNHQNEIIAMAALVHHSFALDKAAPKPPFQSHFCVVSKPKDCIFPYAFKE
+VIEKKNVKVEVAATERTLLGFFLAKVHKIDPDIIVGHNIYGFELEVLLQRINVCKAPHWS
+KIGRLKRSNMPKLGGRSGFGERNATCGRMICDVEISAKELIRCKSYHLSELVQQILKTER
+VVIPMENIQNMYSESSQLLYLLEHTWKDAKFILQIMCELNVLPLALQITNIAGNIMSRTL
+MGGRSERNEFLLLHAFYENNYIVPDKQIFRKPQQKLGDEDEEIDGDTNKYKKGRKKAAYA
+GGLVLDPKVGFYDKFILLLDFNSLYPSIIQEFNICFTTVQRVASEAQKVTEDGEQEQIPE
+LPDPSLEMGILPREIRKLVERRKQVKQLMKQQDLNPDLILQYDIRQKALKLTANSMYGCL
+GFSYSRFYAKPLAALVTYKGREILMHTKEMVQKMNLEVIYGDTDSIMINTNSTNLEEVFK
+LGNKVKSEVNKLYKLLEIDIDGVFKSLLLLKKKKYAALVVEPTSDGNYVTKQELKGLDIV
+RRDWCDLAKDTGNFVIGQILSDQSRDTIVENIQKRLIEIGENVLNGSVPVSQFEINKALT
+KDPQDYPDKKSLPHVHVALWINSQGGRKVKAGDTVSYVICQDGSNLTASQRAYAPEQLQK
+QDNLTIDTQYYLAQQIHPVVARICEPIDGIDAVLIATWLGLDPTQFRVHHYHKDEENDAL
+LGGPAQLTDEEKYRDCERFKCPCPTCGTENIYDNVFDGSGTDMEPSLYRCSNIDCKASPL
+TFTVQLSNKLIMDIRRFIKKYYDGWLICEEPTCRNRTRHLPLQFSRTGPLCPACMKATLQ
+PEYSDKSLYTQLCFYRYIFDAECALEKLTTDHEKDKLKKQFFTPKVLQDYRKLKNTAEQF
+LSRSGYSEVNLSKLFAGCAVKS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>35568</genbank_protein_id>
+  <uniprot_id>P09884</uniprot_id>
+  <uniprot_name>DPOLA_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1K0P</pdb_id>
+    <pdb_id>1K18</pdb_id>
+    <pdb_id>1N5G</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X06745</genbank_gene_id>
+  <genecard_id>POLA1</genecard_id>
+  <geneatlas_id>POLA1</geneatlas_id>
+  <hgnc_id>HGNC:9173</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wong SW, Wahl AF, Yuan PM, Arai N, Pearson BE, Arai K, Korn D, Hunkapiller MW, Wang TS: Human DNA polymerase alpha gene expression is cell proliferation dependent and its primary structure is similar to both prokaryotic and eukaryotic replicative DNA polymerases. EMBO J. 1988 Jan;7(1):37-47.</reference_text>
+      <pubmed_id>3359994</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pearson BE, Nasheuer HP, Wang TS: Human DNA polymerase alpha gene: sequences controlling expression in cycling and serum-stimulated cells. Mol Cell Biol. 1991 Apr;11(4):2081-95.</reference_text>
+      <pubmed_id>2005899</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hsi KL, Copeland WC, Wang TS: Human DNA polymerase alpha catalytic polypeptide binds ConA and RCA and contains a specific labile site in the N-terminus. Nucleic Acids Res. 1990 Nov 11;18(21):6231-7.</reference_text>
+      <pubmed_id>2243771</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Smale ST, Tjian R: T-antigen-DNA polymerase alpha complex implicated in simian virus 40 DNA replication. Mol Cell Biol. 1986 Nov;6(11):4077-87.</reference_text>
+      <pubmed_id>3025630</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee SS, Dong Q, Wang TS, Lehman IR: Interaction of herpes simplex virus 1 origin-binding protein with DNA polymerase alpha. Proc Natl Acad Sci U S A. 1995 Aug 15;92(17):7882-6.</reference_text>
+      <pubmed_id>7644508</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Braun KA, Lao Y, He Z, Ingles CJ, Wold MS: Role of protein-protein interactions in the function of replication protein A (RPA): RPA modulates the activity of DNA polymerase alpha by multiple mechanisms. Biochemistry. 1997 Jul 15;36(28):8443-54.</reference_text>
+      <pubmed_id>9214288</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dantzer F, Nasheuer HP, Vonesch JL, de Murcia G, Menissier-de Murcia J: Functional association of poly(ADP-ribose) polymerase with DNA polymerase alpha-primase complex: a link between DNA strand break detection and DNA replication. Nucleic Acids Res. 1998 Apr 15;26(8):1891-8.</reference_text>
+      <pubmed_id>9518481</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Warren EM, Huang H, Fanning E, Chazin WJ, Eichman BF: Physical interactions between Mcm10, DNA, and DNA polymerase alpha.  J Biol Chem. 2009 Sep 4;284(36):24662-72. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608746</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Evanics F, Maurmann L, Yang WW, Bose RN: Nuclear magnetic resonance structures of the zinc finger domain of human DNA polymerase-alpha. Biochim Biophys Acta. 2003 Sep 23;1651(1-2):163-71.</reference_text>
+      <pubmed_id>14499601</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kline JP, Larson RA: Clofarabine in the treatment of acute myeloid leukaemia and acute lymphoblastic leukaemia: a review. Expert Opin Pharmacother. 2005 Dec;6(15):2711-8.</reference_text>
+        <pubmed_id>16316309</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takahashi T, Kanazawa J, Akinaga S, Tamaoki T, Okabe M: Antitumor activity of 2-chloro-9-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl) adenine, a novel deoxyadenosine analog, against human colon tumor xenografts by oral administration. Cancer Chemother Pharmacol. 1999;43(3):233-40.</reference_text>
+        <pubmed_id>9923554</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hartman WR, Hentosh P: The antileukemia drug 2-chloro-2'-deoxyadenosine: an intrinsic transcriptional antagonist. Mol Pharmacol. 2004 Jan;65(1):227-34.</reference_text>
+        <pubmed_id>14722255</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pession A, Masetti R, Kleinschmidt K, Martoni A: Use of clofarabine for acute childhood leukemia.  Biologics. 2010 Jun 24;4:111-8.</reference_text>
+        <pubmed_id>20631817</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>[No authors listed]Clofarabine.  Drugs R D. 2004;5(4):213-7.</reference_text>
+        <pubmed_id>15230627</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Musto P, Ferrara F: Clofarabine: in search of combinations for the treatment of patients with high-risk acute myeloid leukemia. Cancer. 2008 Oct 15;113(8):1995-8.</reference_text>
+        <pubmed_id>18780321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Harned TM, Gaynon PS: Treating refractory leukemias in childhood, role of clofarabine.  Ther Clin Risk Manag. 2008 Apr;4(2):327-36.</reference_text>
+        <pubmed_id>18728851</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kantarjian HM, Jeha S, Gandhi V, Wess M, Faderl S: Clofarabine: past, present, and future.  Leuk Lymphoma. 2007 Oct;48(10):1922-30.</reference_text>
+        <pubmed_id>17852710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lech-Maranda E, Korycka A, Robak T: Clofarabine as a novel nucleoside analogue approved to treat patients with haematological malignancies: mechanism of action and clinical activity. Mini Rev Med Chem. 2009 Jun;9(7):805-12.</reference_text>
+        <pubmed_id>19519505</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lech-Maranda E, Korycka A, Robak T: Clofarabine as a novel nucleoside analogue approved to treat patients with haematological malignancies: mechanism of action and clinical activity. Mini Rev Med Chem. 2009 Jun;9(7):805-12.</reference_text>
+        <pubmed_id>19519505</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Robak T, Korycka A, Lech-Maranda E, Robak P: Current status of older and new purine nucleoside analogues in the treatment of lymphoproliferative diseases. Molecules. 2009 Mar 23;14(3):1183-226.</reference_text>
+        <pubmed_id>19325518</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Robak T, Lech-Maranda E, Korycka A, Robak E: Purine nucleoside analogs as immunosuppressive and antineoplastic agents: mechanism of action and clinical activity. Curr Med Chem. 2006;13(26):3165-89.</reference_text>
+        <pubmed_id>17168705</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ono K, Ohashi A, Yamamoto A, Matsukage A, Takahasi T, Saneyoshi M, Ueda T: Inhibitory effects of 9-beta-D-arabinofuranosylguanine 5'-triphosphate and 9-beta-D-arabinofuranosyladenine 5'-triphosphate on DNA polymerases from murine cells and oncornavirus. Cancer Res. 1979 Nov;39(11):4673-80.</reference_text>
+        <pubmed_id>91427</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Buie LW, Epstein SS, Lindley CM: Nelarabine: a novel purine antimetabolite antineoplastic agent.  Clin Ther. 2007 Sep;29(9):1887-99.</reference_text>
+        <pubmed_id>18035189</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Curbo S, Karlsson A: Nelarabine: a new purine analog in the treatment of hematologic malignancies.  Rev Recent Clin Trials. 2006 Sep;1(3):185-92.</reference_text>
+        <pubmed_id>18473971</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelarabine</name>
+        <accession>HMDB15401</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rodriguez CO Jr, Stellrecht CM, Gandhi V: Mechanisms for T-cell selective cytotoxicity of arabinosylguanine.  Blood. 2003 Sep 1;102(5):1842-8. Epub 2003 May 15.</reference_text>
+        <pubmed_id>12750168</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:59 -0700</creation_date>
+  <update_date>2013-05-27 11:11:23 -0600</update_date>
+  <accession>HMDBP00384</accession>
+  <secondary_accessions>
+    <accession>5621</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>DPM synthase</synonym>
+    <synonym>Dolichol-phosphate mannose synthase</synonym>
+    <synonym>Dolichyl-phosphate beta-D-mannosyltransferase</synonym>
+    <synonym>MPD synthase</synonym>
+    <synonym>Mannose-P-dolichol synthase</synonym>
+  </synonyms>
+  <gene_name>DPM1</gene_name>
+  <general_function>Cell wall/membrane/envelope biogenesis</general_function>
+  <specific_function>Transfers mannose from GDP-mannose to dolichol monophosphate to form dolichol phosphate mannose (Dol-P-Man) which is the mannosyl donor in pathways leading to N-glycosylation, glycosyl phosphatidylinositol membrane anchoring, and O-mannosylation of proteins.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein glycosylation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>N-Glycan biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00510</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB06353</accession>
+      <name>Dolichol phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05176</accession>
+      <name>Dolichol-20</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00994</accession>
+      <name>Dolichyl phosphate D-mannose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01163</accession>
+      <name>Guanosine diphosphate mannose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12218</accession>
+      <name>Dolichyl beta-D-mannosyl phosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>dolichol-phosphate-mannose synthase complex</description>
+      <go_id>GO:0033185</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>alcohol binding</description>
+      <go_id>GO:0043178</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dolichyl-phosphate beta-D-mannosyltransferase activity</description>
+      <go_id>GO:0004582</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dolichyl-phosphate-mannose-protein mannosyltransferase activity</description>
+      <go_id>GO:0004169</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>mannose binding</description>
+      <go_id>GO:0005537</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>C-terminal protein lipidation</description>
+      <go_id>GO:0006501</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dolichol metabolic process</description>
+      <go_id>GO:0019348</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dolichol-linked oligosaccharide biosynthetic process</description>
+      <go_id>GO:0006488</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>GDP-mannose metabolic process</description>
+      <go_id>GO:0019673</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>GPI anchor biosynthetic process</description>
+      <go_id>GO:0006506</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein N-linked glycosylation via asparagine</description>
+      <go_id>GO:0018279</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein O-linked mannosylation</description>
+      <go_id>GO:0035269</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q13.13</locus>
+    <gene_sequence>&gt;783 bp
+ATGGCCTCCTTGGAAGTCAGTCGTAGTCCTCGCAGGTCTCGGCGGGAGCTGGAAGTGCGC
+AGTCCACGACAGAACAAATATTCGGTGCTTTTACCTACCTACAACGAGCGCGAGAACCTG
+CCGCTCATCGTGTGGCTGCTGGTGAAAAGCTTCTCCGAGAGTGGAATCAACTATGAAATT
+ATAATCATAGATGATGGAAGCCCAGATGGAACAAGGGATGTTGCTGAACAGTTGGAGAAG
+ATCTATGGGTCAGACAGAATTCTTCTAAGACCACGAGAGAAAAAGTTGGGACTAGGAACT
+GCATATATTCATGGAATGAAACATGCCACAGGAAACTACATCATTATTATGGATGCTGAT
+CTCTCACACCATCCAAAATTTATTCCTGAATTTATTAGGAAGCAAAAGGAGGGTAATTTT
+GATATTGTCTCTGGAACTCGCTACAAAGGAAATGGAGGTGTATATGGCTGGGATTTGAAA
+AGAAAAATAATCAGCCGTGGGGCCAATTTTTTAACTCAGATCTTGCTGAGACCAGGAGCA
+TCTGATTTAACAGGAAGTTTCAGATTATACCGAAAAGAAGTTCTAGAGAAATTAATAGAA
+AAATGTGTTTCTAAAGGCTACGTCTTCCAGATGGAGATGATTGTTCGGGCAAGACAGTTG
+AATTATACTATTGGCGAGGTTCCAATATCATTTGTGGATCGTGTTTATGGTGAATCCAAG
+TTGGGAGGAAATGAAATAGTATCTTTCTTGAAAGGATTATTGACTCTTTTTGCTACTACA
+TAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>260</residue_number>
+    <molecular_weight>29633.995</molecular_weight>
+    <theoretical_pi>9.563</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glycos_transf_2</name>
+        <pfam_id>PF00535</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Dolichol-phosphate mannosyltransferase
+MASLEVSRSPRRSRRELEVRSPRQNKYSVLLPTYNERENLPLIVWLLVKSFSESGINYEI
+IIIDDGSPDGTRDVAEQLEKIYGSDRILLRPREKKLGLGTAYIHGMKHATGNYIIIMDAD
+LSHHPKFIPEFIRKQKEGNFDIVSGTRYKGNGGVYGWDLKRKIISRGANFLTQILLRPGA
+SDLTGSFRLYRKEVLEKLIEKCVSKGYVFQMEMIVRARQLNYTIGEVPISFVDRVYGESK
+LGGNEIVSFLKGLLTLFATT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4503363</genbank_protein_id>
+  <uniprot_id>O60762</uniprot_id>
+  <uniprot_name>DPM1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_003859.1</genbank_gene_id>
+  <genecard_id>DPM1</genecard_id>
+  <geneatlas_id>DPM1</geneatlas_id>
+  <hgnc_id>HGNC:3005</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tomita S, Inoue N, Maeda Y, Ohishi K, Takeda J, Kinoshita T: A homologue of Saccharomyces cerevisiae Dpm1p is not sufficient for synthesis of dolichol-phosphate-mannose in mammalian cells. J Biol Chem. 1998 Apr 10;273(15):9249-54.</reference_text>
+      <pubmed_id>9535917</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Colussi PA, Taron CH, Mack JC, Orlean P: Human and Saccharomyces cerevisiae dolichol phosphate mannose synthases represent two classes of the enzyme, but both function in Schizosaccharomyces pombe. Proc Natl Acad Sci U S A. 1997 Jul 22;94(15):7873-8.</reference_text>
+      <pubmed_id>9223280</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim S, Westphal V, Srikrishna G, Mehta DP, Peterson S, Filiano J, Karnes PS, Patterson MC, Freeze HH: Dolichol phosphate mannose synthase (DPM1) mutations define congenital disorder of glycosylation Ie (CDG-Ie) J Clin Invest. 2000 Jan;105(2):191-8.</reference_text>
+      <pubmed_id>10642597</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imbach T, Schenk B, Schollen E, Burda P, Stutz A, Grunewald S, Bailie NM, King MD, Jaeken J, Matthijs G, Berger EG, Aebi M, Hennet T: Deficiency of dolichol-phosphate-mannose synthase-1 causes congenital disorder of glycosylation type Ie. J Clin Invest. 2000 Jan;105(2):233-9.</reference_text>
+      <pubmed_id>10642602</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Garcia-Silva MT, Matthijs G, Schollen E, Cabrera JC, Sanchez del Pozo J, Marti Herreros M, Simon R, Maties M, Martin Hernandez E, Hennet T, Briones P: Congenital disorder of glycosylation (CDG) type Ie. A new patient.  J Inherit Metab Dis. 2004;27(5):591-600.</reference_text>
+      <pubmed_id>15669674</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

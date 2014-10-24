@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:34:12 -0600</creation_date>
+  <update_date>2013-05-27 11:34:12 -0600</update_date>
+  <accession>HMDBP11929</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>49 kDa TATA box-binding protein-interacting protein</synonym>
+    <synonym>54 kDa erythrocyte cytosolic protein</synonym>
+    <synonym>INO80 complex subunit H</synonym>
+    <synonym>Nuclear matrix protein 238</synonym>
+    <synonym>Pontin 52</synonym>
+    <synonym>TIP49a</synonym>
+    <synonym>TIP60-associated protein 54-alpha</synonym>
+    <synonym>49 kDa TBP-interacting protein</synonym>
+    <synonym>ECP-54</synonym>
+    <synonym>NMP 238</synonym>
+    <synonym>TAP54-alpha</synonym>
+  </synonyms>
+  <gene_name>RUVBL1</gene_name>
+  <general_function/>
+  <specific_function>Possesses single-stranded DNA-stimulated ATPase and ATP-dependent DNA helicase (3' to 5') activity; hexamerization is thought to be critical for ATP hydrolysis and adjacent subunits in the ring-like structure contribute to the ATPase activity.
+Component of the NuA4 histone acetyltransferase complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. This complex may be required for the activation of transcriptional programs associated with oncogene and proto-oncogene mediated growth induction, tumor suppressor mediated growth arrest and replicative senescence, apoptosis, and DNA repair. The NuA4 complex ATPase and helicase activities seem to be, at least in part, contributed by the association of RUVBL1 and RUVBL2 with EP400. NuA4 may also play a direct role in DNA repair when recruited to sites of DNA damage.
+Proposed core component of the chromatin remodeling INO80 complex which is involved in transcriptional regulation, DNA replication and probably DNA repair.
+Plays an essential role in oncogenic transformation by MYC and also modulates transcriptional activation by the LEF1/TCF1-CTNNB1 complex. Essential for cell proliferation.
+May be able to bind plasminogen at cell surface and enhance plasminogen activation.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Wnt signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA repair</description>
+      <go_id>GO:0006281</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane</description>
+      <go_id>GO:0016020</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spermatogenesis</description>
+      <go_id>GO:0007283</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi apparatus</description>
+      <go_id>GO:0005794</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA helicase activity</description>
+      <go_id>GO:0003678</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA recombination</description>
+      <go_id>GO:0006310</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear matrix</description>
+      <go_id>GO:0016363</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell division</description>
+      <go_id>GO:0051301</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0006357</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>MLL1 complex</description>
+      <go_id>GO:0071339</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitosis</description>
+      <go_id>GO:0007067</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H4 acetylation</description>
+      <go_id>GO:0043967</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Ino80 complex</description>
+      <go_id>GO:0031011</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of growth</description>
+      <go_id>GO:0040008</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>microtubule organizing center</description>
+      <go_id>GO:0005815</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>NuA4 histone acetyltransferase complex</description>
+      <go_id>GO:0035267</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>CENP-A containing nucleosome assembly at centromere</description>
+      <go_id>GO:0034080</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H2A acetylation</description>
+      <go_id>GO:0043968</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3q21</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>50227.605</molecular_weight>
+    <theoretical_pi>6.418</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|4506753|ref|NP_003698.1| ruvB-like 1 [Homo sapiens]
+MKIEEVKSTTKTQRIASHSHVKGLGLDESGLAKQAASGLVGQENAREACGVIVELIKSKK
+MAGRAVLLAG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9Y265</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2C9O</pdb_id>
+    <pdb_id>2XSZ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:10474</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

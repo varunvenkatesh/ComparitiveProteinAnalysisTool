@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:03:52 -0700</creation_date>
+  <update_date>2013-01-15 19:03:52 -0700</update_date>
+  <accession>HMDBP02250</accession>
+  <secondary_accessions>
+    <accession>7735</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DMTase</synonym>
+    <synonym>Demethylase</synonym>
+    <synonym>Methyl-CpG-binding protein MBD2</synonym>
+  </synonyms>
+  <gene_name>MBD2</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Binds CpG islands in promoters where the DNA is methylated at position 5 of cytosine within CpG dinucleotides. Binds hemi-methylated DNA as well. Recruits histone deacetylases and DNA methyltransferases. Acts as transcriptional repressor and plays a role in gene silencing. Isoform 1 may enhance the activation of some unmethylated cAMP-responsive promoters. Reports about DNA demethylase activity of isoform 2 are contradictory</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00630</accession>
+      <name>Cytosine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>18q21</locus>
+    <gene_sequence>&gt;1236 bp
+ATGCGCGCGCACCCGGGGGGAGGCCGCTGCTGCCCGGAGCAGGAGGAGGGGGAGAGTGCG
+GCGGGCGGCAGCGGCGCTGGCGGCGACTCCGCCATAGAGCAGGGGGGCCAGGGCAGCGCG
+CTCGCCCCGTCCCCGGTGAGCGGCGTGCGCAGGGAAGGCGCTCGGGGCGGCGGCCGTGGC
+CGGGGGCGGTGGAAGCAGGCGGGCCGGGGCGGCGGCGTCTGTGGCCGTGGCCGGGGCCGG
+GGCCGTGGCCGGGGACGGGGACGGGGCCGGGGCCGGGGCCGCGGCCGTCCCCCGAGTGGC
+GGCAGCGGCCTTGGCGGCGACGGCGGCGGCTGCGGCGGCGGCGGCAGCGGTGGCGGCGGC
+GCCCCCCGGCGGGAGCCGGTCCCTTTCCCGTCGGGGAGCGCGGGGCCGGGGCCCAGGGGA
+CCCCGGGCCACGGAGAGCGGGAAGAGGATGGATTGCCCGGCCCTCCCCCCCGGATGGAAG
+AAGGAGGAAGTGATCCGAAAATCTGGGCTAAGTGCTGGCAAGAGCGATGTCTACTACTTC
+AGTCCAAGTGGTAAGAAGTTCAGAAGCAAGCCTCAGTTGGCAAGGTACCTGGGAAATACT
+GTTGATCTCAGCAGTTTTGACTTCAGAACTGGAAAGATGATGCCTAGTAAATTACAGAAG
+AACAAACAGAGACTGCGAAACGATCCTCTCAATCAAAATAAGGGTAAACCAGACTTGAAT
+ACAACATTGCCAATTAGACAAACAGCATCAATTTTCAAACAACCGGTAACCAAAGTCACA
+AATCATCCTAGTAATAAAGTGAAATCAGACCCACAACGAATGAATGAACAGCCACGTCAG
+CTTTTCTGGGAGAAGAGGCTACAAGGACTTAGTGCATCAGATGTAACAGAACAAATTATA
+AAAACCATGGAACTACCCAAAGGTCTTCAAGGAGTTGGTCCAGGTAGCAATGATGAGACC
+CTTTTATCTGCTGTTGCCAGTGCTTTGCACACAAGCTCTGCGCCAATCACAGGGCAAGTC
+TCCGCTGCTGTGGAAAAGAACCCTGCTGTTTGGCTTAACACATCTCAACCCCTCTGCAAA
+GCTTTTATTGTCACAGATGAAGACATCAGGAAACAGGAAGAGCGAGTACAGCAAGTACGC
+AAGAAATTGGAAGAAGCACTGATGGCAGACATCTTGTCGCGAGCTGCTGATACAGAAGAG
+ATGGATATTGAAATGGACAGTGGAGATGAAGCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>411</residue_number>
+    <molecular_weight>43254.3</molecular_weight>
+    <theoretical_pi>10.76</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MBD</name>
+        <pfam_id>PF01429</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Methyl-CpG-binding domain protein 2
+MRAHPGGGRCCPEQEEGESAAGGSGAGGDSAIEQGGQGSALAPSPVSGVRREGARGGGRG
+RGRWKQAGRGGGVCGRGRGRGRGRGRGRGRGRGRGRPPSGGSGLGGDGGGCGGGGSGGGG
+APRREPVPFPSGSAGPGPRGPRATESGKRMDCPALPPGWKKEEVIRKSGLSAGKSDVYYF
+SPSGKKFRSKPQLARYLGNTVDLSSFDFRTGKMMPSKLQKNKQRLRNDPLNQNKGKPDLN
+TTLPIRQTASIFKQPVTKVTNHPSNKVKSDPQRMNEQPRQLFWEKRLQGLSASDVTEQII
+KTMELPKGLQGVGPGSNDETLLSAVASALHTSSAPITGQVSAAVEKNPAVWLNTSQPLCK
+AFIVTDEDIRKQEERVQQVRKKLEEALMADILSRAADTEEMDIEMDSGDEA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3800793</genbank_protein_id>
+  <uniprot_id>Q9UBB5</uniprot_id>
+  <uniprot_name>MBD2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF072242</genbank_gene_id>
+  <genecard_id>MBD2</genecard_id>
+  <geneatlas_id>MBD2</geneatlas_id>
+  <hgnc_id>HGNC:6917</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hendrich B, Bird A: Identification and characterization of a family of mammalian methyl-CpG binding proteins. Mol Cell Biol. 1998 Nov;18(11):6538-47.</reference_text>
+      <pubmed_id>9774669</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hendrich B, Abbott C, McQueen H, Chambers D, Cross S, Bird A: Genomic structure and chromosomal mapping of the murine and human Mbd1, Mbd2, Mbd3, and Mbd4 genes. Mamm Genome. 1999 Sep;10(9):906-12.</reference_text>
+      <pubmed_id>10441743</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bhattacharya SK, Ramchandani S, Cervoni N, Szyf M: A mammalian protein with specific demethylase activity for mCpG DNA.  Nature. 1999 Feb 18;397(6720):579-83.</reference_text>
+      <pubmed_id>10050851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ng HH, Zhang Y, Hendrich B, Johnson CA, Turner BM, Erdjument-Bromage H, Tempst P, Reinberg D, Bird A: MBD2 is a transcriptional repressor belonging to the MeCP1 histone deacetylase complex. Nat Genet. 1999 Sep;23(1):58-61.</reference_text>
+      <pubmed_id>10471499</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tatematsu KI, Yamazaki T, Ishikawa F: MBD2-MBD3 complex binds to hemi-methylated DNA and forms a complex containing DNMT1 at the replication foci in late S phase. Genes Cells. 2000 Aug;5(8):677-88.</reference_text>
+      <pubmed_id>10947852</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Boeke J, Ammerpohl O, Kegel S, Moehren U, Renkawitz R: The minimal repression domain of MBD2b overlaps with the methyl-CpG-binding domain and binds directly to Sin3A. J Biol Chem. 2000 Nov 10;275(45):34963-7.</reference_text>
+      <pubmed_id>10950960</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphrey GW, Wang Y, Russanova VR, Hirai T, Qin J, Nakatani Y, Howard BH: Stable histone deacetylase complexes distinguished by the presence of SANT domain proteins CoREST/kiaa0071 and Mta-L1. J Biol Chem. 2001 Mar 2;276(9):6817-24. Epub 2000 Dec 1.</reference_text>
+      <pubmed_id>11102443</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sekimata M, Takahashi A, Murakami-Sekimata A, Homma Y: Involvement of a novel zinc finger protein, MIZF, in transcriptional repression by interacting with a methyl-CpG-binding protein, MBD2. J Biol Chem. 2001 Nov 16;276(46):42632-8. Epub 2001 Sep 11.</reference_text>
+      <pubmed_id>11553631</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brackertz M, Boeke J, Zhang R, Renkawitz R: Two highly related p66 proteins comprise a new family of potent transcriptional repressors interacting with MBD2 and MBD3. J Biol Chem. 2002 Oct 25;277(43):40958-66. Epub 2002 Aug 14.</reference_text>
+      <pubmed_id>12183469</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lembo F, Pero R, Angrisano T, Vitiello C, Iuliano R, Bruni CB, Chiariotti L: MBDin, a novel MBD2-interacting protein, relieves MBD2 repression potential and reactivates transcription from methylated promoters. Mol Cell Biol. 2003 Mar;23(5):1656-65.</reference_text>
+      <pubmed_id>12588985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujita H, Fujii R, Aratani S, Amano T, Fukamizu A, Nakajima T: Antithetic effects of MBD2a on gene regulation.  Mol Cell Biol. 2003 Apr;23(8):2645-57.</reference_text>
+      <pubmed_id>12665568</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

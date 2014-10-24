@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:33:26 -0600</creation_date>
+  <update_date>2013-05-27 11:33:26 -0600</update_date>
+  <accession>HMDBP11911</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>RNA polymerases I, II, and III subunit ABC1</synonym>
+    <synonym>DNA-directed RNA polymerase II 23 kDa polypeptide</synonym>
+    <synonym>DNA-directed RNA polymerase II subunit E</synonym>
+    <synonym>RPB5 homolog</synonym>
+    <synonym>XAP4</synonym>
+  </synonyms>
+  <gene_name>POLR2E</gene_name>
+  <general_function/>
+  <specific_function>DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, POLR2E/RPB5 is part of the lower jaw surrounding the central large cleft and thought to grab the incoming DNA template. Seems to be the major component in this process (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>RNA polymerase</name>
+      <smpdb_id/>
+      <kegg_map_id>map03020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cytosolic DNA-sensing pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04623</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Huntington's disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05016</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Epstein-Barr virus infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05169</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00082</accession>
+      <name>Cytidine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00285</accession>
+      <name>Uridine triphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>viral reproduction</description>
+      <go_id>GO:0016032</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase II promoter</description>
+      <go_id>GO:0006367</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed RNA polymerase activity</description>
+      <go_id>GO:0003899</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of viral transcription</description>
+      <go_id>GO:0050434</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase II promoter</description>
+      <go_id>GO:0006368</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mRNA splicing, via spliceosome</description>
+      <go_id>GO:0000398</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein phosphorylation</description>
+      <go_id>GO:0006468</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription-coupled nucleotide-excision repair</description>
+      <go_id>GO:0006283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>7-methylguanosine mRNA capping</description>
+      <go_id>GO:0006370</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>DNA-directed RNA polymerase II, core complex</description>
+      <go_id>GO:0005665</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>termination of RNA polymerase III transcription</description>
+      <go_id>GO:0006386</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase III promoter</description>
+      <go_id>GO:0006385</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19p13.3</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>24611.175</molecular_weight>
+    <theoretical_pi>5.953</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|14589951|ref|NP_002686.2| DNA-directed RNA polymerases I, II, and III subunit RPABC1 [Homo sapiens]
+MDDEEETYRLWKIRKTIMQLCHDRGYLVTQDELDQTLEEFKAQFGDKPSEGRPRRTDLTV
+LVAHNDDPTD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P19388</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:9192</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

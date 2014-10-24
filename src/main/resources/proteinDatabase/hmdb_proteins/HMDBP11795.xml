@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:22:11 -0600</creation_date>
+  <update_date>2013-05-27 11:22:11 -0600</update_date>
+  <accession>HMDBP11795</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>eIF-4A-III</synonym>
+    <synonym>eIF4A-III</synonym>
+    <synonym>ATP-dependent RNA helicase DDX48</synonym>
+    <synonym>ATP-dependent RNA helicase eIF4A-3</synonym>
+    <synonym>DEAD box protein 48</synonym>
+    <synonym>Eukaryotic initiation factor 4A-like NUK-34</synonym>
+    <synonym>Eukaryotic translation initiation factor 4A isoform 3</synonym>
+    <synonym>Nuclear matrix protein 265</synonym>
+    <synonym>NMP 265</synonym>
+    <synonym>hNMP 265</synonym>
+  </synonyms>
+  <gene_name>EIF4A3</gene_name>
+  <general_function/>
+  <specific_function>ATP-dependent RNA helicase. Component of a splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junction on mRNAs. The EJC is a dynamic structure consisting of a few core proteins and several more peripheral nuclear and cytoplasmic associated factors that join the complex only transiently either during EJC assembly or during subsequent mRNA metabolism. Core components of the EJC, that remains bound to spliced mRNAs throughout all stages of mRNA metabolism, functions to mark the position of the exon-exon junction in the mature mRNA and thereby influences downstream processes of gene expression including mRNA splicing, nuclear mRNA export, subcellular mRNA localization, translation efficiency and nonsense-mediated mRNA decay (NMD). Constitutes at least part of the platform anchoring other EJC proteins to spliced mRNAs. Its RNA-dependent ATPase and RNA-helicase activities are induced by CASC3, but abolished in presence of the MAGOH/RBM8A heterodimer, thereby trapping the ATP-bound EJC core onto spliced mRNA in a stable conformation. The inhibition of ATPase activity by the MAGOH/RBM8A heterodimer increases the RNA-binding affinity of the EJC. Involved in translational enhancement of spliced mRNAs after formation of the 80S ribosome complex. Binds spliced mRNA in sequence-independent manner, 20-24 nucleotides upstream of mRNA exon-exon junctions. Shows higher affinity for single-stranded RNA in an ATP-bound core EJC complex than after the ATP is hydrolyzed.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>RNA transport</name>
+      <smpdb_id/>
+      <kegg_map_id>map03013</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>mRNA surveillance pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03015</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Spliceosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map03040</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nuclear-transcribed mRNA catabolic process, nonsense-mediated decay</description>
+      <go_id>GO:0000184</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mRNA transport</description>
+      <go_id>GO:0051028</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent RNA helicase activity</description>
+      <go_id>GO:0004004</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>poly(A) RNA binding</description>
+      <go_id>GO:0008143</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>catalytic step 2 spliceosome</description>
+      <go_id>GO:0071013</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear speck</description>
+      <go_id>GO:0016607</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of translation</description>
+      <go_id>GO:0017148</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mRNA splicing, via spliceosome</description>
+      <go_id>GO:0000398</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>rRNA processing</description>
+      <go_id>GO:0006364</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cytokine-mediated signaling pathway</description>
+      <go_id>GO:0019221</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nuclear-transcribed mRNA poly(A) tail shortening</description>
+      <go_id>GO:0000289</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>exon-exon junction complex</description>
+      <go_id>GO:0035145</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of translation</description>
+      <go_id>GO:0045727</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q25.3</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>46870.62</molecular_weight>
+    <theoretical_pi>6.72</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|7661920|ref|NP_055555.1| eukaryotic initiation factor 4A-III [Homo sapiens]
+MATTATMATSGSARKRLLKEEDMTKVEFETSEEVDVTPTFDTMGLREDLLRGIYAYGFEK
+PSAIQQRAIK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P38919</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>2HXY</pdb_id>
+    <pdb_id>2HYI</pdb_id>
+    <pdb_id>2J0Q</pdb_id>
+    <pdb_id>2J0S</pdb_id>
+    <pdb_id>2J0U</pdb_id>
+    <pdb_id>2XB2</pdb_id>
+    <pdb_id>3EX7</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:18683</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

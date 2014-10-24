@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:43 -0700</creation_date>
+  <update_date>2013-05-27 11:35:38 -0600</update_date>
+  <accession>HMDBP00030</accession>
+  <secondary_accessions>
+    <accession>5259</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>AA-NAT</synonym>
+    <synonym>Aralkylamine N-acetyltransferase</synonym>
+    <synonym>Serotonin acetylase</synonym>
+  </synonyms>
+  <gene_name>AANAT</gene_name>
+  <general_function>Involved in N-acetyltransferase activity</general_function>
+  <specific_function>Controls the night/day rhythm of melatonin production in the pineal gland. Catalyzes the N-acetylation of serotonin into N-acetylserotonin, the penultimate step in the synthesis of melatonin.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>melatonin biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tryptophan metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00380</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00259</accession>
+      <name>Serotonin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01238</accession>
+      <name>N-Acetylserotonin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00303</accession>
+      <name>Tryptamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04095</accession>
+      <name>5-Methoxytryptamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12275</accession>
+      <name>Phenylethylamine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>n-acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>aralkylamine N-acetyltransferase activity</description>
+      <go_id>GO:0004059</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arylamine N-acetyltransferase activity</description>
+      <go_id>GO:0004060</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to cAMP</description>
+      <go_id>GO:0071320</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>circadian rhythm</description>
+      <go_id>GO:0007623</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>indolalkylamine biosynthetic process</description>
+      <go_id>GO:0046219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>melatonin biosynthetic process</description>
+      <go_id>GO:0030187</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>N-terminal protein amino acid acetylation</description>
+      <go_id>GO:0006474</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to calcium ion</description>
+      <go_id>GO:0051592</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to copper ion</description>
+      <go_id>GO:0046688</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to corticosterone stimulus</description>
+      <go_id>GO:0051412</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cytokine stimulus</description>
+      <go_id>GO:0034097</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to insulin stimulus</description>
+      <go_id>GO:0032868</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to light stimulus</description>
+      <go_id>GO:0009416</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to prostaglandin E stimulus</description>
+      <go_id>GO:0034695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to zinc ion</description>
+      <go_id>GO:0010043</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17q25</locus>
+    <gene_sequence>&gt;624 bp
+ATGTCCACGCAGAGCACCCACCCCCTGAAACCTGAGGCCCCACGTCTGCCACCTGGGATC
+CCCGAGTCCCCGAGCTGTCAGCGGCGCCACACACTCCCTGCCAGTGAGTTTCGCTGCCTC
+ACCCCGGAGGACGCTGTCAGCGCCTTTGAGATCGAGCGTGAAGCCTTCATCTCCGTCTTG
+GGCGTCTGCCCCCTGTACCTGGATGAGATCCGGCACTTCCTGACCCTATGTCCAGAGCTG
+TCCCTGGGCTGGTTCGAGGAGGGCTGCCTTGTGGCCTTCATCATCGGCTCGCTCTGGGAC
+AAGGAGAGACTCATGCAGGAGTCACTGACGCTGCACAGGTCTGGGGGCCACATAGCCCAC
+CTGCATGTGCTGGCCGTGCACCGCGCCTTCCGGCAGCAGGGCAGGGGCCCCATCCTGCTG
+TGGCGCTACCTGCACCACCTGGGCAGCCAGCCGGCCGTGCGCCGGGCCGCGCTCATGTGC
+GAGGACGCGCTGGTACCCTTCTATGAGAGGTTCAGCTTCCACGCCGTGGGCCCCTGCGCC
+ATCACCGTGGGCTCCCTCACCTTCATGGAGCTCCACTGCTCCCTGCGGGGCCACCCCTTC
+CTGCGCAGGAACAGCGGCTGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>207</residue_number>
+    <molecular_weight>23343.8</molecular_weight>
+    <theoretical_pi>7.526</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Acetyltransf_1</name>
+        <pfam_id>PF00583</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Serotonin N-acetyltransferase
+MSTQSTHPLKPEAPRLPPGIPESPSCQRRHTLPASEFRCLTPEDAVSAFEIEREAFISVL
+GVCPLYLDEIRHFLTLCPELSLGWFEEGCLVAFIIGSLWDKERLMQESLTLHRSGGHIAH
+LHVLAVHRAFRQQGRGPILLWRYLHHLGSQPAVRRAALMCEDALVPFYERFSFHAVGPCA
+ITVGSLTFMELHCSLRGHPFLRRNSGC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q16613</uniprot_id>
+  <uniprot_name>SNAT_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U40347</genbank_gene_id>
+  <genecard_id>AANAT</genecard_id>
+  <geneatlas_id>AANAT</geneatlas_id>
+  <hgnc_id>HGNC:19</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Coon SL, Mazuruk K, Bernard M, Roseboom PH, Klein DC, Rodriguez IR: The human serotonin N-acetyltransferase (EC 2.3.1.87) gene (AANAT): structure, chromosomal localization, and tissue expression. Genomics. 1996 May 15;34(1):76-84.</reference_text>
+      <pubmed_id>8661026</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Coon SL, Weller JL, Korf HW, Namboodiri MA, Rollag M, Klein DC: cAmp regulation of arylalkylamine N-acetyltransferase (AANAT, EC 2.3.1.87): a new cell line (1E7) provides evidence of intracellular AANAT activation. J Biol Chem. 2001 Jun 29;276(26):24097-107. Epub 2001 Apr 19.</reference_text>
+      <pubmed_id>11313340</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Konturek SJ, Konturek PC, Brzozowski T, Bubenik GA: Role of melatonin in upper gastrointestinal tract.  J Physiol Pharmacol. 2007 Dec;58 Suppl 6:23-52.</reference_text>
+      <pubmed_id>18212399</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hohjoh H, Takasu M, Shishikura K, Takahashi Y, Honda Y, Tokunaga K: Significant association of the arylalkylamine N-acetyltransferase ( AA-NAT) gene with delayed sleep phase syndrome. Neurogenetics. 2003 Apr;4(3):151-3. Epub 2002 Nov 29.</reference_text>
+      <pubmed_id>12736803</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

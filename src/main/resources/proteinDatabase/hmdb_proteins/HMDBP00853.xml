@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:02 -0700</creation_date>
+  <update_date>2013-05-27 11:32:48 -0600</update_date>
+  <accession>HMDBP00853</accession>
+  <secondary_accessions>
+    <accession>6134</accession>
+    <accession>HMDBP03966</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>FGAM synthase</synonym>
+    <synonym>FGAMS</synonym>
+    <synonym>FGARAT</synonym>
+    <synonym>Formylglycinamide ribotide amidotransferase</synonym>
+    <synonym>Formylglycinamide ribotide synthetase</synonym>
+  </synonyms>
+  <gene_name>PFAS</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>IMP biosynthesis via de novo pathway</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01308</accession>
+      <name>5'-Phosphoribosyl-N-formylglycinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00999</accession>
+      <name>Phosphoribosylformylglycineamidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00641</accession>
+      <name>L-Glutamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbon-nitrogen ligase activity, with glutamine as amido-n-donor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoribosylformylglycinamidine synthase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside and nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleoside phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine nucleotide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine nucleotide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine nucleoside monophosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>purine ribonucleoside monophosphate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>imp biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>'de novo' imp biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphoribosylformylglycinamidine synthase activity</description>
+      <go_id>GO:0004642</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>'de novo' IMP biosynthetic process</description>
+      <go_id>GO:0006189</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamine metabolic process</description>
+      <go_id>GO:0006541</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>purine nucleobase metabolic process</description>
+      <go_id>GO:0006144</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>17</chromosome_location>
+    <locus>17p13.1</locus>
+    <gene_sequence>&gt;4017 bp
+ATGTCCCCAGTCCTTCACTTCTATGTTCGTCCCTCTGGCCATGAGGGGGCAGCCTCTGGA
+CACACTCGGAGGAAACTGCAAGGGAAACTGCCAGAGCTGCAGGGCGTCGAGACTGAACTG
+TGCTACAACGTGAACTGGACAGCTGAGGCCCTCCCCAGTGCTGAGGAGACAAAGAAGCTG
+ATGTGGCTGTTTGGTTGCCCCTTACTGCTGGATGATGTTGCTCGGGAGTCCTGGCTCCTT
+CCTGGCTCCAATGACCTGCTGCTGGAGGTCGGGCCCAGGCTGAACTTCTCCACCCCAACA
+TCCACCAACATCGTGTCAGTGTGCCGCGCCACTGGGCTGGGGCCTGTGGATCGTGTGGAG
+ACCACCCGGCGCTACCGGCTCTCGTTTGCCCACCCCCCGTCAGCTGAGGTGGAAGCCATT
+GCTCTGGCTACCCTGCACGACCGGATGACAGAGCAGCACTTCCCCCATCCCATCCAGAGT
+TTCTCCCCTGAGAGCATGCCGGAACCCCTCAATGGCCCTATCAATATACTGGGTGAGGGC
+CGGCTTGCGCTGGAGAAGGCCAACCAGGAGCTTGGTCTGGCTTTAGACTCTTGGGACCTA
+GACTTCTACACCAAGCGCTTCCAGGAGCTACAGCGGAACCCGAGCACTGTGGAGGCCTTT
+GACTTGGCGCAGTCCAATAGCGAGCACAGCCGACACTGGTTCTTCAAGGGCCAGCTCCAC
+GTGGATGGGCAGAAGCTGGTGCACTCACTGTTTGAGTCCATCATGAGCACCCAGGAATCC
+TCGAACCCCAACAACGTCCTCAAATTCTGTGATAACAGCAGTGCAATCCAGGGAAAGGAA
+GTCCGATTCCTACGGCCTGAGGACCCCACACGGCCAAGCCGCTTCCAGCAACAGCAAGGG
+CTGAGACATGTTGTCTTCACAGCAGAGACTCACAACTTTCCCACAGGAGTATGCCCCTTT
+AGTGGTGCAACCACTGGCACAGGGGGCCGGATTCGAGATGTCCAGTGCACAGGCCGCGGG
+GCCCACGTGGTGGCTGGCACTGCCGGCTATTGCTTTGGAAATCTGCATATTCCAGGTTAC
+AATCTGCCCTGGGAGGATCTAAGCTTCCAGTATCCTGGGAATTTTGCCCGGCCCCTGGAG
+GTTGCCATTGAAGCCAGTAATGGAGCTTCTGACTATGGCAACAAGTTTGGGGAACCAGTG
+CTGGCTGGCTTCGCCCGCTCCTTGGGCCTCCAGCTCCCAGACGGCCAGCGGCGTGAGTGG
+ATCAAGCCCATCATGTTTAGTGGGGGCATTGGGTCCATGGAAGCTGACCACATAAGCAAG
+GAGGCCCCAGAGCCAGGCATGGAAGTTGTAAAGGTTGGAGGTCCCGTCTACAGGATTGGA
+GTTGGAGGTGGAGCTGCTTCATCTGTGCAGGTGCAGGGAGATAACACCAGTGACCTGGAC
+TTTGGGGCTGTGCAGCGAGGAGACCCGGAGATGGAACAGAAGATGAACCGTGTGATCAGG
+GCTTGTGTGGAGGCCCCCAAGGGAAACCCCATCTGCAGCCTTCATGATCAGGGCGCTGGT
+GGCAATGGCAATGTCCTAAAAGAGCTGAGTGACCCAGCTGGAGCCATCATTTACACCAGC
+CGCTTCCAGCTTGGGGACCCAACCCTGAATGCCCTGGAAATCTGGGGGGCTGAGTACCAG
+GAATCAAATGCTCTTCTGCTGAGGTCCCCCAACCGGGACTTCCTGACTCATGTCAGTGCC
+CGTGAACGTTGCCCGGCTTGCTTCGTGGGCACCATCACTGGAGACCGGAGAATAGTGCTG
+GTGGACGATCGGGAGTGTCCTGTCAGAAGAAATGGCCAGGGGGATGCCCCCCCGACACCC
+CCGCCAACCCCTGTGGACCTGGAGCTCGAATGGGTGCTGGGCAAGATGCCTCGGAAGGAG
+TTCTTCCTGCAGAGGAAGCCCCCCATGCTGCAGCCTCTGGCCTTGCCCCCAGGGCTGAGC
+GTGCACCAGGCTCTGGAGAGGGTTCTGAGGCTGCCCGCCGTGGCCAGCAAGCGCTACCTC
+ACCAATAAGGTGGACCGCTCCGTGGGAGGCCTGGTGGCCCAGCAGCAGTGCGTGGGGCCC
+CTGCAAACTCCTCTGGCAGATGTAGCGGTTGTGGCACTGAGCCATGAGGAGCTCATAGGG
+GCTGCCACAGCCTTGGGAGAACAGCCAGTCAAGAGCCTGCTGGACCCAAAAGTCGCCGCC
+CGGCTGGCCGTGGCCGAAGCCCTCACCAACCTGGTGTTTGCTCTGGTCACTGACCTCCGG
+GATGTGAAGTGTAGCGGGAACTGGATGTGGGCAGCCAAGCTCCCAGGGGAGGGCGCAGCT
+TTGGCGGATGCCTGTGAGGCTATGGTGGCAGTGATGGCAGCCCTGGGTGTGGCAGTGGAT
+GGTGGCAAGGACTCCCTCAGCATGGCTGCTCGGGTTGGCACTGAGACCGTGCGGGCTCCT
+GGGTCACTGGTCATCTCAGCCTATGCCGTCTGCCCAGACATCACAGCCACTGTGACCCCA
+GACCTCAAGCATCCTGAAGGGAGAGGCCATCTGCTCTATGTGGCTCTGAGCCCTGGGCAG
+CACCGGCTCGGGGGCACAGCTCTGGCCCAGTGCTTCTCCCAGCTTGGGGAACACCCTCCA
+GACCTGGACCTTCCTGAGAACTTGGTGCGGGCCTTCAGCATCACTCAGGGGCTGCTGAAA
+GACCGCCTCCTCTGCTCAGGCCACGATGTCAGTGACGGAGGCCTCGTCACATGCCTGCTG
+GAGATGGCCTTTGCTGGAAATTGCGGGCTACAGGTGGATGTGCCTGTCCCCAGGGTTGAT
+GTCCTGTCTGTGCTGTTCGCTGAGGAGCCAGGCCTCGTGCTGGAGGTGCAGGAGCCAGAC
+CTGGCCCAGGTGCTGAAGCGTTACCGGGATGCTGGCCTCCATTGCCTGGAGCTGGGCCAC
+ACAGGCGAGGCCGGGCCCCACGCCATGGTCCGGGTGTCAGTGAACGGGGCTGTGGTTCTG
+GAGGAGCCTGTTGGGGAGCTGCGAGCCCTCTGGGAGGAGACGAGTTTCCAGCTGGACCGG
+CTACAGGCAGAGCCTCGCTGTGTGGCAGAGGAGGAACGGGGCCTGAGGGAGCGGATGGGG
+CCCAGCTATTGCCTGCCCCCCACCTTTCCCAAAGCCTCCGTGCCCCGTGAGCCTGGTGGT
+CCCAGCCCCCGAGTCGCCATCTTGCGAGAGGAGGGCAGTAATGGAGACCGGGAGATGGCC
+GATGCCTTCCACTTAGCTGGGTTTGAGGTATGGGACGTGACCATGCAGGACCTCTGCTCT
+GGGGCAATTGGGCTGGACACTTTCCGTGGCGTGGCCTTCGTGGGCGGCTTCAGCTATGCA
+GATGTCCTGGGCTCTGCCAAAGGGTGGGCAGCTGCTGTGACCTTTCATCCCAGGGCTGGG
+GCTGAGCTGAGGCGCTTCCGGAAGCGGCCAGACACCTTCAGCCTGGGCGTGTGTAATGGC
+TGTCAACTGCTGGCTCTGCTCGGCTGGGTGGGAGGCGACCCCAATGAGGATGCTGCAGAG
+ATGGGCCCTGACTCCCAGCCAGCCCGGCCAGGCCTTCTGCTACGCCACAACCTGTCTGGG
+CGCTACGAGTCTCGCTGGGCCAGCGTGCGTGTGGGGCCTGGGCCAGCCCTGATGCTGCGA
+GGGATGGAGGGCGCCGTGCTGCCCGTGTGGAGTGCGCACGGGGAAGGTTACGTAGCATTT
+TCTTCTCCGGAACTCCAAGCTCAGATTGAGGCCAGGGGCTTGGCTCCACTGCACTGGGCT
+GATGATGACGGGAACCCCACAGAGCAGTACCCTCTGAATCCCAATGGGTCCCCAGGGGGC
+GTGGCTGGCATCTGCTCCTGTGATGGCCGCCACCTGGCTGTCATGCCTCACCCTGAGCGG
+GCCGTTAGGCCTTGGCAGTGGGCATGGCGACCCCCTCCATTTGATACTCTGACCACCTCC
+CCCTGGCTCCAGCTCTCTATCAATGCCCGAAACTGGACCCTGGAAGGGAGCTGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1338</residue_number>
+    <molecular_weight>144733.165</molecular_weight>
+    <theoretical_pi>5.763</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AIRS</name>
+        <pfam_id>PF00586</pfam_id>
+      </pfam>
+      <pfam>
+        <name>AIRS_C</name>
+        <pfam_id>PF02769</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Phosphoribosylformylglycinamidine synthase
+MSPVLHFYVRPSGHEGAASGHTRRKLQGKLPELQGVETELCYNVNWTAEALPSAEETKKL
+MWLFGCPLLLDDVARESWLLPGSNDLLLEVGPRLNFSTPTSTNIVSVCRATGLGPVDRVE
+TTRRYRLSFAHPPSAEVEAIALATLHDRMTEQHFPHPIQSFSPESMPEPLNGPINILGEG
+RLALEKANQELGLALDSWDLDFYTKRFQELQRNPSTVEAFDLAQSNSEHSRHWFFKGQLH
+VDGQKLVHSLFESIMSTQESSNPNNVLKFCDNSSAIQGKEVRFLRPEDPTRPSRFQQQQG
+LRHVVFTAETHNFPTGVCPFSGATTGTGGRIRDVQCTGRGAHVVAGTAGYCFGNLHIPGY
+NLPWEDPSFQYPGNFARPLEVAIEASNGASDYGNKFGEPVLAGFARSLGLQLPDGQRREW
+IKPIMFSGGIGSMEADHISKEAPEPGMEVVKVGGPVYRIGVGGGAASSVQVQGDNTSDLD
+FGAVQRGDPEMEQKMNRVIRACVEAPKGNPICSLHDQGAGGNGNVLKELSDPAGAIIYTS
+RFQLGDPTLNALEIWGAEYQESNALLLRSPNRDFLTHVSARERCPACFVGTITGDRRIVL
+VDDRECPVRRNGQGDAPPTPLPTPVDLELEWVLGKMPRKEFFLQRKPPMLQPLALPPGLS
+VHQALERVLRLPAVASKRYLTNKVDRSVGGLVAQQQCVGPLQTPLADVAVVALSHEELIG
+AATALGEQPVKSLLDPKVAARLAVAEALTNLVFALVTDLRDVKCSGNWMWAAKLPGEGAA
+LADACEAMVAVMAALGVAVDGGKDSLSMAARVGTETVRAPGSLVISAYAVCPDITATVTP
+DLKHPEGRGHLLYVALSPGQHRLGGTALAQCFSQLGEHPPDLDLPENLVRAFSITQGLLK
+DRLLCSGHDVSDGGLVTCLLEMAFAGNCGLQVDVPVPRVDVLSVLFAEEPGLVLEVQEPD
+LAQVLKRYRDAGLHCLELGHTGEAGPHAMVRVSVNGAVVLEEPVGELRALWEETSFQLDR
+LQAEPRCVAEEERGLRERMGPSYCLPPTFPKASVPREPGGPSPRVAILREEGSNGDREMA
+DAFHLAGFEVWDVTMQDLCSGAIGLDTFRGVAFVGGFSYADVLGSAKGWAAAVTFHPRAG
+AELRRFRKRPDTFSLGVCNGCQLLALLGWVGGDPNEDAAEMGPDSQPARPGLLLRHNLSG
+RYESRWASVRVGPGPALMLRGMEGAVLPVWSAHGEGYVAFSSPELQAQIEARGLAPLHWA
+DDDGNPTEQYPLNPNGSPGGVAGICSCDGRHLAVMPHPERAVRPWQWAWRPPPFDTLTTS
+PWLQLFINARNWTLEGSC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>148922280</genbank_protein_id>
+  <uniprot_id>O15067</uniprot_id>
+  <uniprot_name>PUR4_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC146768</genbank_gene_id>
+  <genecard_id>PFAS</genecard_id>
+  <geneatlas_id>PFAS</geneatlas_id>
+  <hgnc_id>HGNC:8863</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Patterson D, Bleskan J, Gardiner K, Bowersox J: Human phosphoribosylformylglycineamide amidotransferase (FGARAT): regional mapping, complete coding sequence, isolation of a functional genomic clone, and DNA sequence analysis. Gene. 1999 Nov 1;239(2):381-91.</reference_text>
+      <pubmed_id>10548741</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Nakajima D, Ohira M, Seki N, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. VII. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro. DNA Res. 1997 Apr 28;4(2):141-50.</reference_text>
+      <pubmed_id>9205841</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zody MC, Garber M, Adams DJ, Sharpe T, Harrow J, Lupski JR, Nicholson C, Searle SM, Wilming L, Young SK, Abouelleil A, Allen NR, Bi W, Bloom T, Borowsky ML, Bugalter BE, Butler J, Chang JL, Chen CK, Cook A, Corum B, Cuomo CA, de Jong PJ, DeCaprio D, Dewar K, FitzGerald M, Gilbert J, Gibson R, Gnerre S, Goldstein S, Grafham DV, Grocock R, Hafez N, Hagopian DS, Hart E, Norman CH, Humphray S, Jaffe DB, Jones M, Kamal M, Khodiyar VK, LaButti K, Laird G, Lehoczky J, Liu X, Lokyitsang T, Loveland J, Lui A, Macdonald P, Major JE, Matthews L, Mauceli E, McCarroll SA, Mihalev AH, Mudge J, Nguyen C, Nicol R, O'Leary SB, Osoegawa K, Schwartz DC, Shaw-Smith C, Stankiewicz P, Steward C, Swarbreck D, Venkataraman V, Whittaker CA, Yang X, Zimmer AR, Bradley A, Hubbard T, Birren BW, Rogers J, Lander ES, Nusbaum C: DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage. Nature. 2006 Apr 20;440(7087):1045-9.</reference_text>
+      <pubmed_id>16625196</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jayaram HN, Lui MS, Plowman J, Pillwein K, Reardon MA, Elliott WL, Weber G: Oncolytic activity and mechanism of action of a novel L-cysteine derivative, L-cysteine, ethyl ester, S-(N-methylcarbamate) monohydrochloride. Cancer Chemother Pharmacol. 1990;26(2):88-92.</reference_text>
+        <pubmed_id>2347042</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Prajda N, Natsumeda Y, Ikegami T, Reardon MA, Szondy S, Hashimoto Y, Emrani J, Weber G: Enzymic programs of rat bone marrow and the impact of acivicin and tiazofurin.  Biochem Pharmacol. 1988 Mar 1;37(5):875-80.</reference_text>
+        <pubmed_id>3345200</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jayaram HN, Lui MS, Plowman J, Pillwein K, Reardon MA, Elliott WL, Weber G: Oncolytic activity and mechanism of action of a novel L-cysteine derivative, L-cysteine, ethyl ester, S-(N-methylcarbamate) monohydrochloride. Cancer Chemother Pharmacol. 1990;26(2):88-92.</reference_text>
+        <pubmed_id>2347042</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

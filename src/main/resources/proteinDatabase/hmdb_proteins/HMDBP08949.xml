@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:17:34 -0700</creation_date>
+  <update_date>2013-05-27 11:32:41 -0600</update_date>
+  <accession>HMDBP08949</accession>
+  <secondary_accessions>
+    <accession>14678</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Ch-1PTPase</synonym>
+    <synonym>NC-PTPCOM1</synonym>
+    <synonym>Protein-tyrosine phosphatase PCPTP1</synonym>
+    <synonym>R-PTP-R</synonym>
+  </synonyms>
+  <gene_name>PTPRR</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Sequesters mitogen-activated protein kinases (MAPKs) such as MAPK1, MAPK3 and MAPK14 in the cytoplasm in an inactive form. The MAPKs bind to a dephosphorylated kinase interacting motif, phosphorylation of which by the protein kinase A complex releases the MAPKs for activation and translocation into the nucleus (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>MAPK signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04010</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cell surface</description>
+      <go_id>GO:0009986</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein kinase binding</description>
+      <go_id>GO:0019901</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transmembrane receptor protein tyrosine phosphatase activity</description>
+      <go_id>GO:0005001</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neuron differentiation</description>
+      <go_id>GO:0030182</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform Gamma:Cytoplasm</subcellular_location>
+    <subcellular_location>perinuclear region</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>12</chromosome_location>
+    <locus>12q15</locus>
+    <gene_sequence>&gt;1974 bp
+ATGCGGAGAGCAGTCTGCTTCCCTGCGCTGTGCCTGCTCCTTAATCTTCACGCTGCAGGG
+TGCTTTTCAGGAAACAATGATCATTTTTTGGCAATTAATCAGAAGAAGAGTGGGAAGCCG
+GTATTCATTTATAAGCATTCACAAGACATTGAGAAGAGCCTGGATATAGCCCCACAAAAA
+ATCTACAGACATAGCTACCATTCCTCTTCCGAAGCTCAAGTAAGCAAACGCCACCAGATT
+GTCAATTCAGCATTTCCTAGACCCGCATATGACCCGTCTCTCAATCTGCTGGCCATGGAT
+GGTCAAGATCTTGAAGTGGAAAATCTCCCAATCCCAGCAGCAAATGTAATTGTGGTGACA
+CTGCAAATGGATGTAAACAAGCTGAACATAACCTTGCTTCGGATCTTCCGCCAAGGAGTG
+GCTGCAGCTTTAGGACTCTTACCCCAGCAAGTGCACATCAATCGCCTCATTGGAAAGAAG
+AACAGTATTGAACTGTTTGTGTCTCCCATAAACCGAAAAACAGGAATTTCTGATGCTCTG
+CCCTCTGAGGAAGTTCTTCGTTCACTTAATATCAATGTTTTGCATCAAAGTTTATCCCAG
+TTTGGAATTACAGAAGTCTCTCCTGAGAAAAATGTTTTACAAGGGCAGCATGAAGCGGAC
+AAAATCTGGAGCAAAGAAGGATTTTATGCTGTTGTCATTTTTCTCAGCATCTTTGTTATT
+ATAGTAACGTGTTTGATGATTCTTTACAGATTAAAAGAAAGATTTCAGCTTTCCTTAAGA
+CAAGACAAAGAGAAAAACCAGGAGATCCACCTATCGCCCATCACATTACAGCCAGCACTG
+TCCGAGGCAAAGACAGTCCACAGCATGGTCCAACCTGAGCAGGCCCCAAAGGTACTGAAT
+GTTGTCGTGGACCCTCAAGGCCGAGGTGCTCCTGAGATCAGAGCTACCACCGCTACCTCT
+GTTTGCCCTTCTCCTTTCAAAATGAAGCCCATAGGACTTCAAGAGAGAAGAGGGTCCAAC
+GTATCTCTTACATTGGACATGAGTAGCTTGGGGAACATTGAACCCTTTGTGTCTATACCA
+ACACCACGGGAGAAGGTAGCAATGGAGTATCTGCAGTCAGCCAGCCGAATTCTCACAAGG
+TCTCAGCTGAGGGACGTCGTGGCAAGTTCACATTTACTCCAAAGTGAATTCATGGAAATA
+CCAATGAACTTTGTGGATCCCAAAGAAATTGATATTCCGCGTCATGGAACTAAAAATCGC
+TATAAGACCATTTTACCAAATCCCCTCAGCAGAGTGTGTTTAAGACCAAAAAATGTAACC
+GATTCATTGAGCACCTACATTAATGCTAATTATATTAGGGGCTACAGTGGCAAGGAGAAA
+GCCTTCATTGCCACGCAGGGCCCCATGATCAACACCGTGGATGATTTCTGGCAGATGGTT
+TGGCAGGAAGACAGCCCTGTGATTGTTATGATCACAAAACTCAAAGAAAAAAATGAGAAA
+TGTGTGCTATACTGGCCGGAAAAGAGAGGGATATATGGAAAAGTTGAGGTTCTGGTTATC
+AGTGTAAATGAATGTGATAACTACACCATTCGAAACCTTGTCTTAAAGCAAGGAAGCCAC
+ACCCAACATGTGAAGCATTACTGGTACACCTCATGGCCTGATCACAAGACTCCAGACAGT
+GCCCAGCCCCTCCTACAGCTCATGCTGGATGTAGAAGAAGACAGACTTGCTTCCCAGGGC
+CGAGGGCCTGTGGTTGTCCACTGCAGTGCAGGAATAGGTAGAACAGGGTGTTTTATTGCT
+ACATCCATTGGCTGTCAACAGCTGAAAGAAGAAGGAGTTGTGGATGCACTAAGCATTGTC
+TGCCAGCTTCGTATGGATAGAGGTGGAATGGTGCAAACCAGTGAGCAGTATGAATTTGTG
+CACCATGCTCTGTGCCTGTATGAGAGCAGACTTTCAGCAGAGACTGTCCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>657</residue_number>
+    <molecular_weight>51045.62</molecular_weight>
+    <theoretical_pi>8.009</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Y_phosphatase</name>
+        <pfam_id>PF00102</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Receptor-type tyrosine-protein phosphatase R
+MRRAVCFPALCLLLNLHAAGCFSGNNDHFLAINQKKSGKPVFIYKHSQDIEKSLDIAPQK
+IYRHSYHSSSEAQVSKRHQIVNSAFPRPAYDPSLNLLAMDGQDLEVENLPIPAANVIVVT
+LQMDVNKLNITLLRIFRQGVAAALGLLPQQVHINRLIGKKNSIELFVSPINRKTGISDAL
+PSEEVLRSLNINVLHQSLSQFGITEVSPEKNVLQGQHEADKIWSKEGFYAVVIFLSIFVI
+IVTCLMILYRLKERFQLSLRQDKEKNQEIHLSPITLQPALSEAKTVHSMVQPEQAPKVLN
+VVVDPQGRGAPEIKATTATSVCPSPFKMKPIGLQERRGSNVSLTLDMSSLGNIEPFVSIP
+TPREKVAMEYLQSASRILTRSQLRDVVASSHLLQSEFMEIPMNFVDPKEIDIPRHGTKNR
+YKTILPNPLSRVCLRPKNVTDSLSTYINANYIRGYSGKEKAFIATQGPMINTVDDFWQMV
+WQEDSPVIVMITKLKEKNEKCVLYWPEKRGIYGKVEVLVISVNECDNYTIRNLVLKQGSH
+TQHVKHYWYTSWPDHKTPDSAQPLLQLMLDVEEDRLASQGRGPVVVHCSAGIGRTGCFIA
+TSIGCQQLKEEGVVDALSIVCQLRMDRGGMVQTSEQYEFVHHALCLYESRLSAETVQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4506325</genbank_protein_id>
+  <uniprot_id>Q15256</uniprot_id>
+  <uniprot_name>PTPRR_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2A8B</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_002849.2</genbank_gene_id>
+  <genecard_id>PTPRR</genecard_id>
+  <geneatlas_id>PTPRR</geneatlas_id>
+  <hgnc_id>HGNC:9680</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Shiozuka K, Watanabe Y, Ikeda T, Hashimoto S, Kawashima H: Cloning and expression of PCPTP1 encoding protein tyrosine phosphatase.  Gene. 1995 Sep 11;162(2):279-84.</reference_text>
+      <pubmed_id>7557444</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Augustine KA, Silbiger SM, Bucay N, Ulias L, Boynton A, Trebasky LD, Medlock ES: Protein tyrosine phosphatase (PC12, Br7,S1) family: expression characterization in the adult human and mouse. Anat Rec. 2000 Mar 1;258(3):221-34.</reference_text>
+      <pubmed_id>10705342</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bektas A, Hughes JN, Warram JH, Krolewski AS, Doria A: Type 2 diabetes locus on 12q15. Further mapping and mutation screening of two candidate genes. Diabetes. 2001 Jan;50(1):204-8.</reference_text>
+      <pubmed_id>11147789</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eswaran J, von Kries JP, Marsden B, Longman E, Debreczeni JE, Ugochukwu E, Turnbull A, Lee WH, Knapp S, Barr AJ: Crystal structures and inhibitor identification for PTPN5, PTPRR and PTPN7: a family of human MAPK-specific protein tyrosine phosphatases. Biochem J. 2006 May 1;395(3):483-91.</reference_text>
+      <pubmed_id>16441242</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

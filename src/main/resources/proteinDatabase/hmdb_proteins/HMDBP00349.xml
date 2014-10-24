@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:52 -0700</creation_date>
+  <update_date>2013-05-27 11:21:21 -0600</update_date>
+  <accession>HMDBP00349</accession>
+  <secondary_accessions>
+    <accession>5585</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>3-OST-4</synonym>
+    <synonym>Heparan sulfate 3-O-sulfotransferase 4</synonym>
+    <synonym>Heparan sulfate D-glucosaminyl 3-O-sulfotransferase 4</synonym>
+    <synonym>h3-OST-4</synonym>
+  </synonyms>
+  <gene_name>HS3ST4</gene_name>
+  <general_function>Involved in sulfotransferase activity</general_function>
+  <specific_function>Sulfotransferase that utilizes 3'-phospho-5'-adenylyl sulfate (PAPS) to catalyze the transfer of a sulfo group to an N-unsubstituted glucosamine linked to a 2-O-sulfo iduronic acid unit on heparan sulfate. Unlike 3-OST-1, does not convert non-anticoagulant heparan sulfate to anticoagulant heparan sulfate (By similarity).
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02704</accession>
+      <name>Iduronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01134</accession>
+      <name>Phosphoadenosine phosphosulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00061</accession>
+      <name>Adenosine 3',5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring sulfur-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sulfotransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular region</description>
+      <go_id>GO:0005576</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>[heparan sulfate]-glucosamine 3-sulfotransferase 1 activity</description>
+      <go_id>GO:0008467</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heparan sulfate proteoglycan metabolic process</description>
+      <go_id>GO:0030201</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16p11.2</locus>
+    <gene_sequence>&gt;1371 bp
+ATGGCCCGGTGGCCCGCACCTCCTCCGCCTCCGCCTCCGCCTCCACCTCTGGCCGCGCCG
+CCGCCGCCCGGCGCCTCTGCTAAGGGGCCGCCGGCGCGCAAGCTGCTTTTTATGTGCACC
+TTGTCCCTGTCTGTCACCTACCTGTGCTACAGCCTCCTGGGCGGCTCGGGCTCCCTGCAA
+TTCCCTCTGGCGCTGCAGGAGTCGCCGGGCGCCGCCGCCGAGCCCCCGCCGAGCCCGCCG
+CCACCCTCTCTGCTGCCTACCCCCGTGCGCCTCGGCGCCCCCTCGCAGCCGCCCGCGCCG
+CCGCCGCTGGACAACGCGAGCCACGGGGAGCCGCCCGAGCCCCCAGAGCAGCCAGCCGCC
+CCCGGGACCGACGGCTGGGGGCTGCCGAGCGGCGGCGGAGGCGCCCGGGACGCCTGGCTC
+CGGACCCCGCTGGCCCCCAGCGAGATGATCACGGCTCAGAGCGCGCTGCCGGAGAGGGAA
+GCGCAGGAGTCCAGCACCACCGACGAGGATCTCGCAGGCCGGAGAGCGGCCAACGGGAGC
+AGCGAGAGGGGCGGCGCCGTCAGCACCCCCGACTATGGGGAGAAGAAGCTGCCACAGGCG
+CTCATCATCGGGGTCAAGAAAGGAGGGACCCGCGCGCTGCTGGAGGCGATCCGCGTGCAC
+CCGGACGTGCGGGCGGTGGGCGTAGAGCCGCACTTCTTCGACAGGAACTACGAAAAGGGG
+TTGGAGTGGTACAGAAATGTGATGCCCAAGACTTTGGATGGGCAAATAACCATGGAGAAG
+ACTCCAAGTTACTTTGTGACAAATGAGGCTCCCAAGCGCATTCACTCCATGGCCAAGGAC
+ATCAAACTGATTGTGGTGGTGAGAAACCCCGTGACCAGGGCCATCTCTGACTACACGCAG
+ACACTGTCAAAGAAACCCGAGATCCCCACCTTTGAGGTGCTGGCCTTCAAAAACCGGACC
+CTCGGGCTGATCGATGCTTCCTGGAGTGCCATTCGAATAGGGATCTATGCGCTGCATCTG
+GAAAACTGGCTCCAGTATTTCCCCCTCTCCCAGATCCTCTTTGTCAGTGGTGAGCGACTC
+ATTGTGGACCCCGCCGGGGAAATGGCCAAAGTACAGGATTTTCTAGGCCTCAAACGTGTT
+GTGACTAAGAAGCATTTCTATTTCAACAAAACCAAGGGGTTCCCTTGCCTAAAGAAGCCA
+GAAGACAGCAGTGCCCCGAGGTGCTTAGGCAAGAGCAAAGGTCGGACTCATCCTCGCATT
+GACCCAGATGTCATCCACAGACTGAGGAAATTCTACAAACCCTTCAACTTGATGTTTTAC
+CAAATGACTGGTCAAGATTTTCAGTGGGAACAGGAAGAGGGTGATAAATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>456</residue_number>
+    <molecular_weight>49798.645</molecular_weight>
+    <theoretical_pi>8.684</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sulfotransfer_1</name>
+        <pfam_id>PF00685</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Heparan sulfate glucosamine 3-O-sulfotransferase 4
+MARWPAPPPPPPPPPPLAAPPPPGASAKGPPARKLLFMCTLSLSVTYLCYSLLGGSGSLQ
+FPLALQESPGAAAEPPPSPPPPSLLPTPVRLGAPSQPPAPPPLDNASHGEPPEPPEQPAA
+PGTDGWGLPSGGGGARDAWLRTPLAPSEMITAQSALPEREAQESSTTDEDLAGRRAANGS
+SERGGAVSTPDYGEKKLPQALIIGVKKGGTRALLEAIRVHPDVRAVGVEPHFFDRNYEKG
+LEWYRNVMPKTLDGQITMEKTPSYFVTNEAPKRIHSMAKDIKLIVVVRNPVTRAISDYTQ
+TLSKKPEIPTFEVLAFKNRTLGLIDASWSAIRIGIYALHLENWLQYFPLSQILFVSGERL
+IVDPAGEMAKVQDFLGLKRVVTKKHFYFNKTKGFPCLKKPEDSSAPRCLGKSKGRTHPRI
+DPDVIHRLRKFYKPFNLMFYQMTGQDFQWEQEEGDK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>46398191</genbank_protein_id>
+  <uniprot_id>Q9Y661</uniprot_id>
+  <uniprot_name>HS3S4_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF105378</genbank_gene_id>
+  <genecard_id>HS3ST4</genecard_id>
+  <geneatlas_id>HS3ST4</geneatlas_id>
+  <hgnc_id>HGNC:5200</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Shworak NW, Liu J, Petros LM, Zhang L, Kobayashi M, Copeland NG, Jenkins NA, Rosenberg RD: Multiple isoforms of heparan sulfate D-glucosaminyl 3-O-sulfotransferase. Isolation, characterization, and expression of human cdnas and identification of distinct genomic loci. J Biol Chem. 1999 Feb 19;274(8):5170-84.</reference_text>
+      <pubmed_id>9988767</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

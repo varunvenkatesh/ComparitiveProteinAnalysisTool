@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:06 -0700</creation_date>
+  <update_date>2013-01-15 20:20:06 -0700</update_date>
+  <accession>HMDBP09167</accession>
+  <secondary_accessions>
+    <accession>14923</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Heparin/heparan sulfate:glucuronic acid C5-epimerase</synonym>
+  </synonyms>
+  <gene_name>GLCE</gene_name>
+  <general_function>Involved in racemase and epimerase activity, acting on carbohydrates and derivatives</general_function>
+  <specific_function>Converts D-glucuronic acid residues adjacent to N- sulfate sugar residues to L-iduronic acids</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB06355</accession>
+      <name>D-Glucurono-6,3-lactone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>isomerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>racemase and epimerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>racemase and epimerase activity, acting on carbohydrates and derivatives</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>polysaccharide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>polysaccharide biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>aminoglycan biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glycosaminoglycan biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>15q23</locus>
+    <gene_sequence>&gt;1854 bp
+ATGCGTTGCTTGGCAGCTCGGGTCAACTATAAGACTTTGATTATTATCTGCGCACTCTTC
+ACTTTGGTCACAGTACTTTTGTGGAATAAGTGTTCCAGTGACAAAGCAATCCAGTTTCCA
+CGGCGTTCGAGTAGTGGCTTCAGAGTGGATGGGTTTGAAAAAAGAGCAGCAGCATCTGAG
+AGTAACAACTATATGAACCACGTGGCCAAACAACAGTCTGAGGAAGCATTCCCTCAGGAA
+CAGCAGAAAGCACCCCCTGTTGTTGGGGGCTTCAATAGCAATGTGGGAAGTAAGGTGTTA
+GGGCTCAAATATGAAGAAATTGACTGTCTCATAAATGATGAACACACAATTAAAGGGAGA
+CGAGAGGGGAACGAAGTCTTTCTTCCATTCACTTGGGTTGAGAAATATTTTGATGTTTAT
+GGAAAGGTGGTTCAGTATGATGGCTATGATCGGTTTGAATTCTCTCATAGCTATTCCAAA
+GTCTATGCACAGAGAGCCCCCTATCACCCCGATGGTGTGTTTATGTCTTTTGAAGGCTAC
+AATGTGGAAGTCCGAGACAGAGTCAAGTGCATAAGTGGGGTTGAAGGTGTGCCATTATCT
+ACACAATGGGGACCTCAAGGCTATTTCTATCCAATCCAGATTGCACAGTATGGATTAAGT
+CATTACAGCAAGAATCTAACTGAGAAACCTCCTCACATAGAGGTATATGAAACAGCAGAA
+GACAGAGACAAAAACAAGCCTAATGACTGGACTGTGCCAAAGGGCTGCTTTATGGCGAAT
+GTGGCTGATAAGTCTAGATTCACCAATGTCAAACAGTTTATTGCACCAGAAACCAGTGAA
+GGTGTATCCTTGCAACTGGGAAACACAAAAGATTTTATTATTTCATTTGACCTCAAGTTC
+TTGACAAATGGAAGTGTGTCCGTGGTTCTAGAGACCACAGAAAAGAATCAGCTCTTCACT
+ATACATTATGTCTCAAATGCTCAGCTAATTGCTTTTAAAGAAAGAGATATATACTATGGC
+ATTGGGCCCAGAACTTCATGGAGCACAGTTACCAGGGACCTGGTCACTGACCTCAGGAAA
+GGAGTGGGTCTTTCAAACACAAAAGCTGTCAAGCCAACCAAAATAATGCCCAAGAAGGTG
+GTTAGGTTGATTGCAAAAGGTAAGGGATTCCTCGACAACATTACCATCTCTACCACAGCC
+CACATGGCTGCATTTTTTGCTGCTAGTGATTGGCTAGTAAGGAACCAGGATGAGAAAGGT
+GGCTGGCCAATTATGGTGACCCGTAAGTTAGGGGAAGGGTTCAAGTCTTTAGAGCCAGGA
+TGGTATTCTGCCATGGCCCAAGGGCAAGCCATTTCTACATTAGTCAGGGCCTATCTGTTA
+ACAAAAGACCATATATTCCTCAATTCAGCTTTAAGGGCAACAGCCCCTTATAAGTTTCTA
+TCTGAGCAGCATGGAGTTAAAGCTGTGTTTATGAATAAACATGACTGGTATGAAGAATAT
+CCAACCACACCTAGCTCTTTTGTTTTAAATGGCTTTATGTATTCTTTAATTGGGCTGTAT
+GACTTAAAAGAAACTGCAGGGGAAAAACTCGGAAAAGAAGCAAGGTCCTTGTATGAGCGT
+GGCATGGAATCTCTTAAAGCCATGCTGCCCTTGTATGACACTGGCTCAGGAACCATCTAT
+GACCTCCGTCACTTCATGCTTGGCATCGCTCCTAACCTGGCTCGCTGGGACTATCATACC
+ACCCACATCAATCAGTTGCAGCTACTCAGTACCATTGATGAGTCCCCAGTCTTCAAAGAA
+TTTGTCAAGAGGTGGAAAAGCTACCTTAAAGGCAGCAGGGCAAAGCACAACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>617</residue_number>
+    <molecular_weight>70100.5</molecular_weight>
+    <theoretical_pi>9.32</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>C5-epim_C</name>
+        <pfam_id>PF06662</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>12-28</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;D-glucuronyl C5-epimerase
+MRCLAARVNYKTLIIICALFTLVTVLLWNKCSSDKAIQFPRRSSSGFRVDGFEKRAAASE
+SNNYMNHVAKQQSEEAFPQEQQKAPPVVGGFNSNVGSKVLGLKYEEIDCLINDEHTIKGR
+REGNEVFLPFTWVEKYFDVYGKVVQYDGYDRFEFSHSYSKVYAQRAPYHPDGVFMSFEGY
+NVEVRDRVKCISGVEGVPLSTQWGPQGYFYPIQIAQYGLSHYSKNLTEKPPHIEVYETAE
+DRDKNKPNDWTVPKGCFMANVADKSRFTNVKQFIAPETSEGVSLQLGNTKDFIISFDLKF
+LTNGSVSVVLETTEKNQLFTIHYVSNAQLIAFKERDIYYGIGPRTSWSTVTRDLVTDLRK
+GVGLSNTKAVKPTKIMPKKVVRLIAKGKGFLDNITISTTAHMAAFFAASDWLVRNQDEKG
+GWPIMVTRKLGEGFKSLEPGWYSAMAQGQAISTLVRAYLLTKDHIFLNSALRATAPYKFL
+SEQHGVKAVFMNKHDWYEEYPTTPSSFVLNGFMYSLIGLYDLKETAGEKLGKEARSLYER
+GMESLKAMLPLYDTGSGTIYDLRHFMLGIAPNLARWDYHTTHINQLQLLSTIDESPVFKE
+FVKRWKSYLKGSRAKHN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>51317380</genbank_protein_id>
+  <uniprot_id>O94923</uniprot_id>
+  <uniprot_name>GLCE_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_015554.1</genbank_gene_id>
+  <genecard_id>GLCE</genecard_id>
+  <geneatlas_id>GLCE</geneatlas_id>
+  <hgnc_id>HGNC:17855</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Zody MC, Garber M, Sharpe T, Young SK, Rowen L, O'Neill K, Whittaker CA, Kamal M, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Kodira CD, Madan A, Qin S, Yang X, Abbasi N, Abouelleil A, Arachchi HM, Baradarani L, Birditt B, Bloom S, Bloom T, Borowsky ML, Burke J, Butler J, Cook A, DeArellano K, DeCaprio D, Dorris L 3rd, Dors M, Eichler EE, Engels R, Fahey J, Fleetwood P, Friedman C, Gearin G, Hall JL, Hensley G, Johnson E, Jones C, Kamat A, Kaur A, Locke DP, Madan A, Munson G, Jaffe DB, Lui A, Macdonald P, Mauceli E, Naylor JW, Nesbitt R, Nicol R, O'Leary SB, Ratcliffe A, Rounsley S, She X, Sneddon KM, Stewart S, Sougnez C, Stone SM, Topham K, Vincent D, Wang S, Zimmer AR, Birren BW, Hood L, Lander ES, Nusbaum C: Analysis of the DNA sequence and duplication history of human chromosome 15. Nature. 2006 Mar 30;440(7084):671-5.</reference_text>
+      <pubmed_id>16572171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Suyama M, Kikuno R, Hirosawa M, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. XII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1998 Dec 31;5(6):355-64.</reference_text>
+      <pubmed_id>10048485</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

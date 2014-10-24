@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:23:40 -0700</creation_date>
+  <update_date>2013-05-27 10:56:49 -0600</update_date>
+  <accession>HMDBP04404</accession>
+  <secondary_accessions>
+    <accession>9995</accession>
+    <accession>HMDBP09116</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>3 beta-hydroxysteroid dehydrogenase/Delta 5--&gt;4-isomerase type II</synonym>
+    <synonym>3-beta-HSD II</synonym>
+    <synonym>3-beta-hydroxy-5-ene steroid dehydrogenase</synonym>
+    <synonym>3-beta-hydroxy-Delta(5)-steroid dehydrogenase</synonym>
+    <synonym>Delta-5-3-ketosteroid isomerase</synonym>
+    <synonym>Progesterone reductase</synonym>
+    <synonym>Steroid Delta-isomerase</synonym>
+    <synonym>Hydroxy-delta-5-steroid dehydrogenase, 3 beta-and steroid delta-isomerase 2, isoform CRA_a</synonym>
+    <synonym>3-beta-HSD adrenal and gonadal type</synonym>
+  </synonyms>
+  <gene_name>HSD3B2</gene_name>
+  <general_function>Involved in 3-beta-hydroxy-delta5-steroid dehydrogenase activity</general_function>
+  <specific_function>3-beta-HSD is a bifunctional enzyme, that catalyzes the oxidative conversion of Delta(5)-ene-3-beta-hydroxy steroid, and the oxidative conversion of ketosteroids. The 3-beta-HSD enzymatic system plays a crucial role in the biosynthesis of all classes of hormonal steroids.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>steroid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Steroid hormone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00140</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB15240</accession>
+      <name>Trilostane</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00053</accession>
+      <name>Androstenedione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00015</accession>
+      <name>Cortexolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00016</accession>
+      <name>Deoxycorticosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00063</accession>
+      <name>Cortisol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00077</accession>
+      <name>Dehydroepiandrosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00234</accession>
+      <name>Testosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00253</accession>
+      <name>Pregnenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00352</accession>
+      <name>16a-Hydroxydehydroisoandrosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00363</accession>
+      <name>17a-Hydroxypregnenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00374</accession>
+      <name>17-Hydroxyprogesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01830</accession>
+      <name>Progesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02833</accession>
+      <name>Testosterone sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02869</accession>
+      <name>Campesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03818</accession>
+      <name>5-Androstenediol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04026</accession>
+      <name>21-Hydroxypregnenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06760</accession>
+      <name>11b,17a,21-Trihydroxypreg-nenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06762</accession>
+      <name>17a,21-Dihydroxypreg-nenolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06774</accession>
+      <name>16a-Hydroxyandrost-4-ene-3,17-dione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14879</accession>
+      <name>Hydrocortisone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid dehydrogenase activity, acting on the ch-oh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3-beta-hydroxy-delta5-steroid dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>steroid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>steroid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on ch-oh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>isomerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid delta-isomerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>intramolecular oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-oh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>intramolecular oxidoreductase activity, transposing c=c bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular lipid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>physiological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>steroid metabolism</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>steroid biosynthesis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial intermembrane space</description>
+      <go_id>GO:0005758</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>smooth endoplasmic reticulum membrane</description>
+      <go_id>GO:0030868</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3-beta-hydroxy-delta5-steroid dehydrogenase activity</description>
+      <go_id>GO:0003854</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>steroid delta-isomerase activity</description>
+      <go_id>GO:0004769</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>androgen biosynthetic process</description>
+      <go_id>GO:0006702</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucocorticoid biosynthetic process</description>
+      <go_id>GO:0006704</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mineralocorticoid biosynthetic process</description>
+      <go_id>GO:0006705</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+    <subcellular_location>Mitochondrion membrane</subcellular_location>
+    <subcellular_location>Single-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1p13.1</locus>
+    <gene_sequence>&gt;1119 bp
+ATGGGCTGGAGCTGCCTTGTGACAGGAGCAGGAGGGCTTCTGGGTCAGAGGATCGTCCGC
+CTGTTGGTGGAAGAGAAGGAACTGAAGGAGATCAGGGCCTTGGACAAGGCCTTCAGACCA
+GAATTGAGAGAGGAATTTTCTAAGCTCCAGAACAGGACCAAGCTGACTGTACTTGAAGGA
+GACATTCTGGATGAGCCATTCCTGAAAAGAGCCTGCCAGGACGTCTCGGTCGTCATCCAC
+ACCGCCTGTATCATTGATGTCTTTGGTGTCACTCACAGAGAGTCCATCATGAATGTCAAT
+GTGAAAGGTACCCAGCTACTGTTGGAGGCCTGTGTCCAAGCCAGTGTGCCAGTCTTCATC
+TACACCAGTAGCATAGAGGTAGCCGGGCCCAACTCCTACAAGGAAATCATCCAGAACGGC
+CACGAAGAAGAGCCTCTGGAAAACACATGGCCCACTCCATACCCGTACAGCAAAAAGCTT
+GCTGAGAAGGCTGTGCTGGCGGCTAATGGGTGGAATCTAAAAAATGGTGATACCTTGTAC
+ACTTGTGCGTTAAGACCCACATATATCTATGGGGAAGGAGGCCCATTCCTTTCTGCCAGT
+ATAAATGAGGCCCTGAACAACAATGGGATCCTGTCAAGTGTTGGAAAGTTCTCTACAGTC
+AACCCAGTCTATGTTGGCAACGTGGCCTGGGCCCACATTCTGGCCTTGAGGGCTCTGCGG
+GACCCCAAGAAGGCCCCAAGTGTCCGAGGTCAATTCTATTACATCTCAGATGACACGCCT
+CACCAAAGCTATGATAACCTTAATTACATCCTGAGCAAAGAGTTTGGCCTCCGCCTTGAT
+TCCAGATGGAGCCTTCCTTTAACCCTGATGTACTGGATTGGCTTCCTGCTGGAAGTAGTG
+AGCTTCCTACTCAGCCCAATTTACTCCTATCAACCCCCCTTCAACCGCCACACAGTCACA
+TTATCAAATAGTGTGTTCACCTTCTCTTACAAGAAGGCTCAGCGAGATCTGGCGTATAAG
+CCACTCTACAGCTGGGAGGAAGCCAAGCAGAAAACCGTGGAGTGGGTTGGTTCCCTTGTG
+GACCGGCACAAGGAGACCCTGAAGTCCAAGACTCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>372</residue_number>
+    <molecular_weight>42051.845</molecular_weight>
+    <theoretical_pi>8.025</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>3Beta_HSD</name>
+        <pfam_id>PF01073</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;3 beta-hydroxysteroid dehydrogenase/Delta 5--&gt;4-isomerase type 2
+MGWSCLVTGAGGLLGQRIVRLLVEEKELKEIRALDKAFRPELREEFSKLQNRTKLTVLEG
+DILDEPFLKRACQDVSVVIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVFI
+YTSSIEVAGPNSYKEIIQNGHEEEPLENTWPTPYPYSKKLAEKAVLAANGWNLKNGDTLY
+TCALRPTYIYGEGGPFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRALR
+DPKKAPSVRGQFYYISDDTPHQSYDNLNYILSKEFGLRLDSRWSLPLTLMYWIGFLLEVV
+SFLLSPIYSYQPPFNRHTVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSLV
+DRHKETLKSKTQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>124297709</genbank_protein_id>
+  <uniprot_id>P26439</uniprot_id>
+  <uniprot_name>3BHS2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M67466</genbank_gene_id>
+  <genecard_id>HSD3B2</genecard_id>
+  <geneatlas_id>HSD3B2</geneatlas_id>
+  <hgnc_id>HGNC:5218</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Lachance Y, Luu-The V, Verreault H, Dumont M, Rheaume E, Leblanc G, Labrie F: Structure of the human type II 3 beta-hydroxysteroid dehydrogenase/delta 5-delta 4 isomerase (3 beta-HSD) gene: adrenal and gonadal specificity. DNA Cell Biol. 1991 Dec;10(10):701-11.</reference_text>
+      <pubmed_id>1741954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rheaume E, Lachance Y, Zhao HF, Breton N, Dumont M, de Launoit Y, Trudel C, Luu-The V, Simard J, Labrie F: Structure and expression of a new complementary DNA encoding the almost exclusive 3 beta-hydroxysteroid dehydrogenase/delta 5-delta 4-isomerase in human adrenals and gonads. Mol Endocrinol. 1991 Aug;5(8):1147-57.</reference_text>
+      <pubmed_id>1944309</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Russell AJ, McCartin S, Corcao G, Burridge SM, McBride MW, McNicol AM, Hawes CS, Mason JI, Sutcliffe RG: Variation in the expression of human 3 beta-hydroxysteroid dehydrogenase.  Endocr Res. 1995 Feb-May;21(1-2):485-94.</reference_text>
+      <pubmed_id>7588414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rheaume E, Simard J, Morel Y, Mebarki F, Zachmann M, Forest MG, New MI, Labrie F: Congenital adrenal hyperplasia due to point mutations in the type II 3 beta-hydroxysteroid dehydrogenase gene. Nat Genet. 1992 Jul;1(4):239-45.</reference_text>
+      <pubmed_id>1363812</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Carbunaru G, Prasad P, Scoccia B, Shea P, Hopwood N, Ziai F, Chang YT, Myers SE, Mason JI, Pang S: The hormonal phenotype of Nonclassic 3 beta-hydroxysteroid dehydrogenase (HSD3B) deficiency in hyperandrogenic females is associated with insulin-resistant polycystic ovary syndrome and is not a variant of inherited HSD3B2 deficiency. J Clin Endocrinol Metab. 2004 Feb;89(2):783-94.</reference_text>
+      <pubmed_id>14764797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simard J, Rheaume E, Sanchez R, Laflamme N, de Launoit Y, Luu-The V, van Seters AP, Gordon RD, Bettendorf M, Heinrich U, et al.: Molecular basis of congenital adrenal hyperplasia due to 3 beta-hydroxysteroid dehydrogenase deficiency. Mol Endocrinol. 1993 May;7(5):716-28.</reference_text>
+      <pubmed_id>8316254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sanchez R, Mebarki F, Rheaume E, Laflamme N, Forest MG, Bey-Omard F, David M, Morel Y, Labrie F, Simard J: Functional characterization of the novel L108W and P186L mutations detected in the type II 3 beta-hydroxysteroid dehydrogenase gene of a male pseudohermaphrodite with congenital adrenal hyperplasia. Hum Mol Genet. 1994 Sep;3(9):1639-45.</reference_text>
+      <pubmed_id>7833923</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sanchez R, Rheaume E, Laflamme N, Rosenfield RL, Labrie F, Simard J: Detection and functional characterization of the novel missense mutation Y254D in type II 3 beta-hydroxysteroid dehydrogenase (3 beta HSD) gene of a female patient with nonsalt-losing 3 beta HSD deficiency. J Clin Endocrinol Metab. 1994 Mar;78(3):561-7.</reference_text>
+      <pubmed_id>8126127</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rheaume E, Sanchez R, Simard J, Chang YT, Wang J, Pang S, Labrie F: Molecular basis of congenital adrenal hyperplasia in two siblings with classical nonsalt-losing 3 beta-hydroxysteroid dehydrogenase deficiency. J Clin Endocrinol Metab. 1994 Oct;79(4):1012-8.</reference_text>
+      <pubmed_id>7962268</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mendonca BB, Russell AJ, Vasconcelos-Leite M, Arnhold IJ, Bloise W, Wajchenberg BL, Nicolau W, Sutcliffe RG, Wallace AM: Mutation in 3 beta-hydroxysteroid dehydrogenase type II associated with pseudohermaphroditism in males and premature pubarche or cryptic expression in females. J Mol Endocrinol. 1994 Feb;12(1):119-22.</reference_text>
+      <pubmed_id>8185809</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Russell AJ, Wallace AM, Forest MG, Donaldson MD, Edwards CR, Sutcliffe RG: Mutation in the human gene for 3 beta-hydroxysteroid dehydrogenase type II leading to male pseudohermaphroditism without salt loss. J Mol Endocrinol. 1994 Apr;12(2):225-37.</reference_text>
+      <pubmed_id>8060486</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rheaume E, Sanchez R, Mebarki F, Gagnon E, Carel JC, Chaussain JL, Morel Y, Labrie F, Simard J: Identification and characterization of the G15D mutation found in a male patient with 3 beta-hydroxysteroid dehydrogenase (3 beta-HSD) deficiency: alteration of the putative NAD-binding domain of type II 3 beta-HSD. Biochemistry. 1995 Mar 7;34(9):2893-900.</reference_text>
+      <pubmed_id>7893703</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Katsumata N, Tanae A, Yasunaga T, Horikawa R, Tanaka T, Hibi I: A novel missense mutation in the type II 3 beta-hydroxysteroid dehydrogenase gene in a family with classical salt-wasting congenital adrenal hyperplasia due to 3 beta-hydroxysteroid dehydrogenase deficiency. Hum Mol Genet. 1995 Apr;4(4):745-6.</reference_text>
+      <pubmed_id>7633426</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tajima T, Fujieda K, Nakae J, Shinohara N, Yoshimoto M, Baba T, Kinoshita E, Igarashi Y, Oomura T: Molecular analysis of type II 3 beta-hydroxysteroid dehydrogenase gene in Japanese patients with classical 3 beta-hydroxysteroid dehydrogenase deficiency. Hum Mol Genet. 1995 May;4(5):969-71.</reference_text>
+      <pubmed_id>7633460</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mebarki F, Sanchez R, Rheaume E, Laflamme N, Simard J, Forest MG, Bey-Omar F, David M, Labrie F, Morel Y: Nonsalt-losing male pseudohermaphroditism due to the novel homozygous N100S mutation in the type II 3 beta-hydroxysteroid dehydrogenase gene. J Clin Endocrinol Metab. 1995 Jul;80(7):2127-34.</reference_text>
+      <pubmed_id>7608265</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nayak S, Lee PA, Witchel SF: Variants of the type II 3beta-hydroxysteroid dehydrogenase gene in children with premature pubic hair and hyperandrogenic adolescents. Mol Genet Metab. 1998 Jul;64(3):184-92.</reference_text>
+      <pubmed_id>9719627</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moisan AM, Ricketts ML, Tardy V, Desrochers M, Mebarki F, Chaussain JL, Cabrol S, Raux-Demay MC, Forest MG, Sippell WG, Peter M, Morel Y, Simard J: New insight into the molecular basis of 3beta-hydroxysteroid dehydrogenase deficiency: identification of eight mutations in the HSD3B2 gene eleven patients from seven new families and comparison of the functional properties of twenty-five mutant enzymes. J Clin Endocrinol Metab. 1999 Dec;84(12):4410-25.</reference_text>
+      <pubmed_id>10599696</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marui S, Castro M, Latronico AC, Elias LL, Arnhold IJ, Moreira AC, Mendonca BB: Mutations in the type II 3beta-hydroxysteroid dehydrogenase (HSD3B2) gene can cause premature pubarche in girls. Clin Endocrinol (Oxf). 2000 Jan;52(1):67-75.</reference_text>
+      <pubmed_id>10651755</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Alos N, Moisan AM, Ward L, Desrochers M, Legault L, Leboeuf G, Van Vliet G, Simard J: A novel A10E homozygous mutation in the HSD3B2 gene causing severe salt-wasting 3beta-hydroxysteroid dehydrogenase deficiency in 46,XX and 46,XY French-Canadians: evaluation of gonadal function after puberty. J Clin Endocrinol Metab. 2000 May;85(5):1968-74.</reference_text>
+      <pubmed_id>10843183</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pang S, Wang W, Rich B, David R, Chang YT, Carbunaru G, Myers SE, Howie AF, Smillie KJ, Mason JI: A novel nonstop mutation in the stop codon and a novel missense mutation in the type II 3beta-hydroxysteroid dehydrogenase (3beta-HSD) gene causing, respectively, nonclassic and classic 3beta-HSD deficiency congenital adrenal hyperplasia. J Clin Endocrinol Metab. 2002 Jun;87(6):2556-63.</reference_text>
+      <pubmed_id>12050213</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Strausberg RL, Feingold EA, Grouse LH, Derge JG, Klausner RD, Collins FS, Wagner L, Shenmen CM, Schuler GD, Altschul SF, Zeeberg B, Buetow KH, Schaefer CF, Bhat NK, Hopkins RF, Jordan H, Moore T, Max SI, Wang J, Hsieh F, Diatchenko L, Marusina K, Farmer AA, Rubin GM, Hong L, Stapleton M, Soares MB, Bonaldo MF, Casavant TL, Scheetz TE, Brownstein MJ, Usdin TB, Toshiyuki S, Carninci P, Prange C, Raha SS, Loquellano NA, Peters GJ, Abramson RD, Mullahy SJ, Bosak SA, McEwan PJ, McKernan KJ, Malek JA, Gunaratne PH, Richards S, Worley KC, Hale S, Garcia AM, Gay LJ, Hulyk SW, Villalon DK, Muzny DM, Sodergren EJ, Lu X, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madan A, Young AC, Shevchenko Y, Bouffard GG, Blakesley RW, Touchman JW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Krzywinski MI, Skalska U, Smailus DE, Schnerch A, Schein JE, Jones SJ, Marra MA: Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences. Proc Natl Acad Sci U S A. 2002 Dec 24;99(26):16899-903. Epub 2002 Dec 11.</reference_text>
+      <pubmed_id>12477932</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Naville D, Keeney DS, Jenkin G, Murry BA, Head JR, Mason JI: Regulation of expression of male-specific rat liver microsomal 3 beta-hydroxysteroid dehydrogenase. Mol Endocrinol. 1991 Aug;5(8):1090-100.</reference_text>
+        <pubmed_id>1944305</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cooke GM: Differential effects of trilostane and cyanoketone on the 3 beta-hydroxysteroid dehydrogenase-isomerase reactions in androgen and 16-androstene biosynthetic pathways in the pig testis. J Steroid Biochem Mol Biol. 1996 Apr;58(1):95-101.</reference_text>
+        <pubmed_id>8809191</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takahashi M, Luu-The V, Labrie F: Inhibitory effect of synthetic progestins, 4-MA and cyanoketone on human placental 3 beta-hydroxysteroid dehydrogenase/5----4-ene-isomerase activity. J Steroid Biochem Mol Biol. 1990 Oct;37(2):231-6.</reference_text>
+        <pubmed_id>2268554</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Suzuki S, Endo Y, Tanaka S, Iizuka R: Indirect immunofluorescence studies on the steroid-producing activity of hamster ova. Am J Obstet Gynecol. 1984 Jan 1;148(1):76-85.</reference_text>
+        <pubmed_id>6362415</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Duffy DM, Hess DL, Stouffer RL: Acute administration of a 3 beta-hydroxysteroid dehydrogenase inhibitor to rhesus monkeys at the midluteal phase of the menstrual cycle: evidence for possible autocrine regulation of the primate corpus luteum by progesterone. J Clin Endocrinol Metab. 1994 Dec;79(6):1587-94.</reference_text>
+        <pubmed_id>7989460</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mensah-Nyagan AG, Feuilloley M, Dupont E, Do-Rego JL, Leboulenger F, Pelletier G, Vaudry H: Immunocytochemical localization and biological activity of 3 beta-hydroxysteroid dehydrogenase in the central nervous system of the frog. J Neurosci. 1994 Dec;14(12):7306-18.</reference_text>
+        <pubmed_id>7996177</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trilostane</name>
+        <accession>HMDB15240</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Igaz P, Tombol Z, Szabo PM, Liko I, Racz K: Steroid biosynthesis inhibitors in the therapy of hypercortisolism: theory and practice. Curr Med Chem. 2008;15(26):2734-47.</reference_text>
+        <pubmed_id>18991633</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:30 -0700</creation_date>
+  <update_date>2013-05-27 11:36:05 -0600</update_date>
+  <accession>HMDBP00249</accession>
+  <secondary_accessions>
+    <accession>5481</accession>
+    <accession>HMDBP03836</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Aldehyde dehydrogenase family 5 member A1</synonym>
+    <synonym>NAD(+)-dependent succinic semialdehyde dehydrogenase</synonym>
+  </synonyms>
+  <gene_name>ALDH5A1</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Catalyzes one step in the degradation of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>4-aminobutanoate degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Alanine, aspartate and glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Butanoate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00650</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01259</accession>
+      <name>Succinic acid semialdehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14674</accession>
+      <name>Chlormerodrin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carboxylic acid binding</description>
+      <go_id>GO:0031406</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD binding</description>
+      <go_id>GO:0051287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>succinate-semialdehyde dehydrogenase (NAD+) activity</description>
+      <go_id>GO:0004777</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>succinate-semialdehyde dehydrogenase [NAD(P)+] activity</description>
+      <go_id>GO:0009013</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>acetate metabolic process</description>
+      <go_id>GO:0006083</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>central nervous system development</description>
+      <go_id>GO:0007417</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>galactosylceramide metabolic process</description>
+      <go_id>GO:0006681</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gamma-aminobutyric acid catabolic process</description>
+      <go_id>GO:0009450</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose metabolic process</description>
+      <go_id>GO:0006006</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucosylceramide metabolic process</description>
+      <go_id>GO:0006678</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate metabolic process</description>
+      <go_id>GO:0006536</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamine metabolic process</description>
+      <go_id>GO:0006541</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutathione metabolic process</description>
+      <go_id>GO:0006749</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycerophospholipid metabolic process</description>
+      <go_id>GO:0006650</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter catabolic process</description>
+      <go_id>GO:0042135</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neurotransmitter secretion</description>
+      <go_id>GO:0007269</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-embryonic development</description>
+      <go_id>GO:0009791</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homotetramerization</description>
+      <go_id>GO:0051289</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>respiratory electron transport chain</description>
+      <go_id>GO:0022904</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>succinate metabolic process</description>
+      <go_id>GO:0006105</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6p22</locus>
+    <gene_sequence>&gt;1608 bp
+ATGGCGACCTGCATTTGGCTGCGGAGCTGTGGGGCCCGGCGCCTCGGGTCGACGTTTCCA
+GGCTGCCGCCTCCGCCCCCGCGCCGGCGGCCTGGTCCCTGCCTCCGGGCCTGCGCCCGGC
+CCGGCCCAGCTCCGCTGCTACGCTGGGCGCCTGGCGGGCCTCTCTGCGGCGCTGCTGCGC
+ACCGACAGCTTCGTGGGCGGCCGCTGGCTCCCGGCCGCCGCCACCTTCCCCGTGCAAGAC
+CCGGCCAGCGGCGCCGCTCTGGGCATGGTAGCCGACTGCGGGGTGCGAGAGGCCCGCGCC
+GCCGTGCGCGCTGCCTACGAGGCTTTCTGCCGCTGGAGGGAGGTCTCCGCCAAGGAGAGG
+AGTTCATTACTTCGGAAGTGGTACAATTTAATGATACAAAATAAGGATGACCTTGCCAGA
+ATAATCACAGCTGAAAGTGGAAAGCCACTGAAGGAGGCACATGGAGAAATTCTCTATTCC
+GCCTTTTTCCTAGAGTGGTTCTCTGAGGAAGCCCGCCGTGTTTACGGAGACATTATCCAC
+ACCCCGGCAAAGGACAGGCGGGCCCTGGTCCTCAAGCAGCCCATAGGCGTGGCTGCAGTC
+ATCACCCCGTGGAATTTCCCCAGTGCCATGATCACCCGGAAGGTGGGGGCCGCCCTGGCA
+GCCGGCTGTACTGTCGTGGTGAAGCCTGCCGAAGACACGCCCTTCTCCGCCCTGGCCCTG
+GCTGAGCTTGCAAGCCAGGCTGGGATTCCTTCAGGTGTATACAATGTTATTCCCTGTTCT
+CGAAAGAATGCCAAGGAAGTAGGGGAGGCAATTTGTACTGATCCTCTGGTGTCCAAAATT
+TCCTTTACTGGTTCAACAACTACAGGAAAGATCCTGTTGCACCACGCAGCAAACTCTGTG
+AAAAGGGTCTCTATGGAGCTGGGCGGCCTTGCTCCATTTATAGTATTTGACAGTGCCAAC
+GTGGACCAGGCTGTAGCAGGGGCCATGGCATCTAAATTTAGGAACACTGGACAGACTTGT
+GTTTGCTCAAACCAATTCTTGGTGCAAAGGGGCATCCATGATGCCTTTGTAAAAGCATTC
+GCCGAGGCCATGAAGAAGAACCTGCGCGTAGGTAATGGATTTGAGGAAGGAACTACTCAG
+GGCCCATTAATTAATGAAAAAGCGGTAGAAAAGGTGGAGAAACAGGTGAATGATGCCGTT
+TCTAAAGGTGCCACCGTTGTGACAGGTGGAAAACGACACCAACTTGGAAAAAATTTCTTT
+GAGCCTACCCTGCTGTGCAATGTCACCCAGGACATGCTGTGCACTCATGAAGAGACTTTC
+GGGCCTCTGGCACCAGTTATCAAGTTCGATACAGAGGAGGAGGCTATAGCAATCGCTAAC
+GCAGCTGATGTTGGGTTAGCAGGTTATTTTTACTCTCAAGACCCAGCCCAGATCTGGAGA
+GTGGCAGAGCAGCTGGAAGTGGGCATGGTTGGCGTCAACGAAGGATTAATTTCCTCTGTG
+GAGTGCCCTTTTGGTGGAGTGAAGCAGTCCGGCCTTGGGCGAGAGGGGTCCAAGTATGGC
+ATTGATGAGTATCTGGAACTCAAGTATGTGTGTTACGGGGGCTTGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>535</residue_number>
+    <molecular_weight>57214.23</molecular_weight>
+    <theoretical_pi>8.287</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Aldedh</name>
+        <pfam_id>PF00171</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Succinate-semialdehyde dehydrogenase, mitochondrial
+MATCIWLRSCGARRLGSTFPGCRLRPRAGGLVPASGPAPGPAQLRCYAGRLAGLSAALLR
+TDSFVGGRWLPAAATFPVQDPASGAALGMVADCGVREARAAVRAAYEAFCRWREVSAKER
+SSLLRKWYNLMIQNKDDLARIITAESGKPLKEAHGEILYSAFFLEWFSEEARRVYGDIIH
+TPAKDRRALVLKQPIGVAAVITPWNFPSAMITRKVGAALAAGCTVVVKPAEDTPFSALAL
+AELASQAGIPSGVYNVIPCSRKNAKEVGEAICTDPLVSKISFTGSTTTGKILLHHAANSV
+KRVSMELGGLAPFIVFDSANVDQAVAGAMASKFRNTGQTCVCSNQFLVQRGIHDAFVKAF
+AEAMKKNLRVGNGFEEGTTQGPLINEKAVEKVEKQVNDAVSKGATVVTGGKRHQLGKNFF
+EPTLLCNVTQDMLCTHEETFGPLAPVIKFDTEEEAIAIANAADVGLAGYFYSQDPAQIWR
+VAEQLEVGMVGVNEGLISSVECPFGGVKQSGLGREGSKYGIDEYLELKYVCYGGL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3766467</genbank_protein_id>
+  <uniprot_id>P51649</uniprot_id>
+  <uniprot_name>SSDH_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2W8N</pdb_id>
+    <pdb_id>2W8O</pdb_id>
+    <pdb_id>2W8P</pdb_id>
+    <pdb_id>2W8Q</pdb_id>
+    <pdb_id>2W8R</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>Y11192</genbank_gene_id>
+  <genecard_id>ALDH5A1</genecard_id>
+  <geneatlas_id>ALDH5A1</geneatlas_id>
+  <hgnc_id>HGNC:408</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Chambliss KL, Hinson DD, Trettel F, Malaspina P, Novelletto A, Jakobs C, Gibson KM: Two exon-skipping mutations as the molecular basis of succinic semialdehyde dehydrogenase deficiency (4-hydroxybutyric aciduria). Am J Hum Genet. 1998 Aug;63(2):399-408.</reference_text>
+      <pubmed_id>9683595</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chambliss KL, Caudle DL, Hinson DD, Moomaw CR, Slaughter CA, Jakobs C, Gibson KM: Molecular cloning of the mature NAD(+)-dependent succinic semialdehyde dehydrogenase from rat and human. cDNA isolation, evolutionary homology, and tissue expression. J Biol Chem. 1995 Jan 6;270(1):461-7.</reference_text>
+      <pubmed_id>7814412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Trettel F, Malaspina P, Jodice C, Novelletto A, Slaughter CA, Caudle DL, Hinson DD, Chambliss KL, Gibson KM: Human succinic semialdehyde dehydrogenase. Molecular cloning and chromosomal localization. Adv Exp Med Biol. 1997;414:253-60.</reference_text>
+      <pubmed_id>9059628</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim YG, Lee S, Kwon OS, Park SY, Lee SJ, Park BJ, Kim KJ: Redox-switch modulation of human SSADH by dynamic catalytic loop.  EMBO J. 2009 Apr 8;28(7):959-68. Epub 2009 Mar 19.</reference_text>
+      <pubmed_id>19300440</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hogema BM, Akaboshi S, Taylor M, Salomons GS, Jakobs C, Schutgens RB, Wilcken B, Worthington S, Maropoulos G, Grompe M, Gibson KM: Prenatal diagnosis of succinic semialdehyde dehydrogenase deficiency: increased accuracy employing DNA, enzyme, and metabolite analyses. Mol Genet Metab. 2001 Mar;72(3):218-22.</reference_text>
+      <pubmed_id>11243727</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aoshima T, Kajita M, Sekido Y, Ishiguro Y, Tsuge I, Kimura M, Yamaguchi S, Watanabe K, Shimokata K, Niwa T: Mutation analysis in a patient with succinic semialdehyde dehydrogenase deficiency: a compound heterozygote with 103-121del and 1460T &amp;gt; A of the ALDH5A1 gene. Hum Hered. 2002;53(1):42-4.</reference_text>
+      <pubmed_id>11901270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Akaboshi S, Hogema BM, Novelletto A, Malaspina P, Salomons GS, Maropoulos GD, Jakobs C, Grompe M, Gibson KM: Mutational spectrum of the succinate semialdehyde dehydrogenase (ALDH5A1) gene and functional analysis of 27 novel disease-causing mutations in patients with SSADH deficiency. Hum Mutat. 2003 Dec;22(6):442-50.</reference_text>
+      <pubmed_id>14635103</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yogeeswari P, Sriram D, Vaigundaragavendran J: The GABA shunt: an attractive and potential therapeutic target in the treatment of epileptic disorders. Curr Drug Metab. 2005 Apr;6(2):127-39.</reference_text>
+        <pubmed_id>15853764</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Popov VN, Eprintsev AT, Fedorin DN, Fomenko OIu, Igamberdiev AU: [Role of transamination in the mobilization of respiratory substrates in germinating seeds of castor oil plants]. Prikl Biokhim Mikrobiol. 2007 May-Jun;43(3):376-81.</reference_text>
+        <pubmed_id>17619587</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang C, Zhang HB, Wang LH, Zhang LH: Succinic semialdehyde couples stress response to quorum-sensing signal decay in Agrobacterium tumefaciens. Mol Microbiol. 2006 Oct;62(1):45-56. Epub 2006 Aug 30.</reference_text>
+        <pubmed_id>16942602</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ahn SJ, Yang CH, Cooksey DA: Pseudomonas putida 06909 genes expressed during colonization on mycelial surfaces and phenotypic characterization of mutants. J Appl Microbiol. 2007 Jul;103(1):120-32.</reference_text>
+        <pubmed_id>17584458</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chiribau CB, Mihasan M, Ganas P, Igloi GL, Artenie V, Brandsch R: Final steps in the catabolism of nicotine.  FEBS J. 2006 Apr;273(7):1528-36.</reference_text>
+        <pubmed_id>16689938</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Succinic acid</name>
+        <accession>HMDB00254</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlormerodrin</name>
+        <accession>HMDB14674</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlormerodrin</name>
+        <accession>HMDB14674</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlormerodrin</name>
+        <accession>HMDB14674</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Oda Y: [Experimental study on renal succinic dehydrogenase. 2. Age differences in renal succinic dehydrogenase in rats administered diuretics]. Nihon Shonika Gakkai Zasshi. 1968 Apr 1;72(4):370-80.</reference_text>
+        <pubmed_id>5692397</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlormerodrin</name>
+        <accession>HMDB14674</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

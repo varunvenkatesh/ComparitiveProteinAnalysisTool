@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:11:21 -0700</creation_date>
+  <update_date>2013-05-27 11:15:58 -0600</update_date>
+  <accession>HMDBP03236</accession>
+  <secondary_accessions>
+    <accession>8804</accession>
+    <accession>HMDBP04399</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Conjugase</synonym>
+    <synonym>GH</synonym>
+    <synonym>Gamma-Glu-X carboxypeptidase</synonym>
+  </synonyms>
+  <gene_name>GGH</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Hydrolyzes the polyglutamate sidechains of pteroylpolyglutamates. Progressively removes gamma-glutamyl residues from pteroylpoly-gamma-glutamate to yield pteroyl-alpha-glutamate (folic acid) and free glutamate. May play an important role in the bioavailability of dietary pteroylpolyglutamates and in the metabolism of pteroylpolyglutamates and antifolates.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Folate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00790</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01846</accession>
+      <name>Tetrahydrofolic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06826</accession>
+      <name>Tetrahydrofolyl-[Glu](n)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00121</accession>
+      <name>Folic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14703</accession>
+      <name>Methotrexate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06825</accession>
+      <name>Tetrahydrofolyl-[Glu](2)</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity, acting on l-amino acid peptides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>exopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>omega peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosome</description>
+      <go_id>GO:0005764</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>melanosome</description>
+      <go_id>GO:0042470</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>gamma-glutamyl-peptidase activity</description>
+      <go_id>GO:0034722</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamine metabolic process</description>
+      <go_id>GO:0006541</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to drug</description>
+      <go_id>GO:0042493</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ethanol</description>
+      <go_id>GO:0045471</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to insulin stimulus</description>
+      <go_id>GO:0032868</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to zinc ion</description>
+      <go_id>GO:0010043</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+    <subcellular_location>extracellular space</subcellular_location>
+    <subcellular_location>Lysosome</subcellular_location>
+    <subcellular_location>Melanosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q12.3</locus>
+    <gene_sequence>&gt;957 bp
+ATGGCCAGTCCGGGCTGCCTGCTGTGCGTGCTGGGCCTGCTACTCTGCGGGGCGGCGAGC
+CTCGAGCTGTCTAGACCCCACGGCGACACCGCCAAGAAGCCCATCATCGGAATATTAATG
+CAAAAATGCCGTAATAAAGTCATGAAAAACTATGGAAGATACTATATTGCTGCGTCCTAT
+GTAAAGTACTTGGAGTCTGCAGGTGCGAGAGTTGTACCAGTAAGGCTGGATCTTACAGAG
+AAAGACTATGAAATACTTTTCAAATCTATTAATGGAATCCTTTTCCCTGGAGGAAGTGTT
+GACCTCAGACGCTCAGATTATGCTAAAGTGGCCAAAATATTTTATAACTTGTCCATACAG
+AGTTTTGATGATGGAGACTATTTTCCTGTGTGGGGCACATGCCTTGGATTTGAAGAGCTT
+TCACTGCTGATTAGTGGAGAGTGCTTATTAACTGCCACAGATACTGTTGACGTGGCAATG
+CCGCTGAACTTCACTGGAGGTCAATTGCACAGCAGAATGTTCCAGAATTTTCCTACTGAG
+TTGTTGCTGTCATTAGCAGTAGAACCTCTGACTGCCAATTTCCATAAGTGGAGCCTCTCC
+GTGAAGAATTTTACAATGAATGAAAAGTTAAAGAAGTTTTTCAATGTCTTAACTACAAAT
+ACAGATGGCAAGATTGAGTTTATTTCAACAATGGAAGGATATAAGTATCCAGTATATGGT
+GTCCAGTGGCATCCAGAGAAAGCACCTTATGAGTGGAAGAATTTGGATGGCATTTCCCAT
+GCACCTAATGCTGTGAAAACCGCATTTTATTTAGCAGAGTTTTTTGTTAATGAAGCTCGG
+AAAAACAACCATCATTTTAAATCTGAATCTGAAGAGGAGAAAGCATTGATTTATCAGTTC
+AGTCCAATTTATACTGGAAATATTTCTTCATTTCAGCAATGTTACATATTTGATTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>318</residue_number>
+    <molecular_weight>35964.045</molecular_weight>
+    <theoretical_pi>7.111</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Peptidase_C26</name>
+        <pfam_id>PF07722</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Gamma-glutamyl hydrolase
+MASPGCLLCVLGLLLCGAASLELSRPHGDTAKKPIIGILMQKCRNKVMKNYGRYYIAASY
+VKYLESAGARVVPVRLDLTEKDYEILFKSINGILFPGGSVDLRRSDYAKVAKIFYNLSIQ
+SFDDGDYFPVWGTCLGFEELSLLISGECLLTATDTVDVAMPLNFTGGQLHSRMFQNFPTE
+LLLSLAVEPLTANFHKWSLSVKNFTMNEKLKKFFNVLTTNTDGKIEFISTMEGYKYPVYG
+VQWHPEKAPYEWKNLDGISHAPNAVKTAFYLAEFFVNEARKNNHHFKSESEEEKALIYQF
+SPIYTGNISSFQQCYIFD</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q92820</uniprot_id>
+  <uniprot_name>GGH_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1L9X</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>U55206</genbank_gene_id>
+  <genecard_id>GGH</genecard_id>
+  <geneatlas_id>GGH</geneatlas_id>
+  <hgnc_id>HGNC:4248</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yao R, Schneider E, Ryan TJ, Galivan J: Human gamma-glutamyl hydrolase: cloning and characterization of the enzyme expressed in vitro. Proc Natl Acad Sci U S A. 1996 Sep 17;93(19):10134-8.</reference_text>
+      <pubmed_id>8816764</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yin D, Chave KJ, Macaluso CR, Galivan J, Yao R: Structural organization of the human gamma-glutamyl hydrolase gene.  Gene. 1999 Oct 1;238(2):463-70.</reference_text>
+      <pubmed_id>10570974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chave KJ, Galivan J, Ryan TJ: Site-directed mutagenesis establishes cysteine-110 as essential for enzyme activity in human gamma-glutamyl hydrolase. Biochem J. 1999 Nov 1;343 Pt 3:551-5.</reference_text>
+      <pubmed_id>10527932</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chave KJ, Auger IE, Galivan J, Ryan TJ: Molecular modeling and site-directed mutagenesis define the catalytic motif in human gamma -glutamyl hydrolase. J Biol Chem. 2000 Dec 22;275(51):40365-70.</reference_text>
+      <pubmed_id>11005824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Basrur V, Yang F, Kushimoto T, Higashimoto Y, Yasumoto K, Valencia J, Muller J, Vieira WD, Watabe H, Shabanowitz J, Hearing VJ, Hunt DF, Appella E: Proteomic analysis of early melanosomes: identification of novel melanosomal proteins. J Proteome Res. 2003 Jan-Feb;2(1):69-79.</reference_text>
+      <pubmed_id>12643545</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chi A, Valencia JC, Hu ZZ, Watabe H, Yamaguchi H, Mangini NJ, Huang H, Canfield VA, Cheng KC, Yang F, Abe R, Yamagishi S, Shabanowitz J, Hearing VJ, Wu C, Appella E, Hunt DF: Proteomic and bioinformatic characterization of the biogenesis and function of melanosomes. J Proteome Res. 2006 Nov;5(11):3135-44.</reference_text>
+      <pubmed_id>17081065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li H, Ryan TJ, Chave KJ, Van Roey P: Three-dimensional structure of human gamma -glutamyl hydrolase. A class I glatamine amidotransferase adapted for a complex substate. J Biol Chem. 2002 Jul 5;277(27):24522-9. Epub 2002 Apr 12.</reference_text>
+      <pubmed_id>11953431</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Folic acid</name>
+        <accession>HMDB00121</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schneider E, Ryan TJ: Gamma-glutamyl hydrolase and drug resistance.  Clin Chim Acta. 2006 Dec;374(1-2):25-32. Epub 2006 Jun 10.</reference_text>
+        <pubmed_id>16859665</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Folic acid</name>
+        <accession>HMDB00121</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Eisele LE, Chave KJ, Lehning AC, Ryan TJ: Characterization of Human gamma-glutamyl hydrolase in solution demonstrates that the enzyme is a non-dissociating homodimer. Biochim Biophys Acta. 2006 Sep;1764(9):1479-86. Epub 2006 Jul 12.</reference_text>
+        <pubmed_id>16945597</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Folic acid</name>
+        <accession>HMDB00121</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen L, Eitenmiller RR: Optimization of the trienzyme extraction for the microbiological assay of folate in vegetables. J Agric Food Chem. 2007 May 16;55(10):3884-8. Epub 2007 Apr 17.</reference_text>
+        <pubmed_id>17439143</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methotrexate</name>
+        <accession>HMDB14703</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hider SL, Bruce IN, Thomson W: The pharmacogenetics of methotrexate.  Rheumatology (Oxford). 2007 Oct;46(10):1520-4. Epub 2007 Jun 24.</reference_text>
+        <pubmed_id>17586865</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

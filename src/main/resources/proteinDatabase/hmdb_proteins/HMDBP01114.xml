@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:24 -0700</creation_date>
+  <update_date>2013-01-15 18:53:24 -0700</update_date>
+  <accession>HMDBP01114</accession>
+  <secondary_accessions>
+    <accession>6407</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MCT 4</synonym>
+    <synonym>MCT 5</synonym>
+    <synonym>Monocarboxylate transporter 4</synonym>
+    <synonym>Solute carrier family 16 member 4</synonym>
+  </synonyms>
+  <gene_name>SLC16A4</gene_name>
+  <general_function>Involved in transmembrane transport</general_function>
+  <specific_function>Proton-linked monocarboxylate transporter. Catalyzes the rapid transport across the plasma membrane of many monocarboxylates such as lactate, pyruvate, branched-chain oxo acids derived from leucine, valine and isoleucine, and the ketone bodies acetoacetate, beta-hydroxybutyrate and acetate</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00243</accession>
+      <name>Pyruvic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>1p13.3</locus>
+    <gene_sequence>&gt;1464 bp
+ATGCTGAAGAGGGAGGGGAAGGTCCAACCTTACACTAAAACCCTGGATGGAGGATGGGGA
+TGGATGATTGTGATTCATTTTTTCCTGGTGAATGTGTTTGTGATGGGGATGACCAAGACT
+TTTGCAATTTTCTTTGTGGTCTTTCAAGAAGAGTTTGAAGGCACCTCAGAGCAAATTGGT
+TGGATTGGATCCATCATGTCATCTCTTCGTTTTTGTGCAGGTCCCCTGGTTGCTATTATT
+TGTGACATACTTGGAGAGAAAACTACCTCCATTCTTGGGGCTTTCGTTGTTACTGGTGGA
+TATCTGATCAGCAGCTGGGCCACAAGTATTCCTTTTCTTTGTGTGACTATGGGACTTCTA
+CCCGGTTTGGGTTCTGCTTTCTTATACCAAGTGGCTGCTGTGGTAACTACCAAATACTTC
+AAAAAACGATTGGCTCTTTCTACAGCTATTGCCCGTTCTGGGATGGGACTGACTTTTCTT
+TTGGCACCCTTTACAAAATTCCTGATAGATCTGTATGACTGGACAGGAGCCCTTATATTA
+TTTGGAGCTATCGCATTGAATTTGGTGCCTTCTAGTATGCTCTTAAGACCCATCCATATC
+AAAAGTGAGAACAATTCTGGTATTAAAGATAAAGGCAGCAGTTTGTCTGCACATGGTCCA
+GAGGCACATGCAACAGAAACACACTGCCATGAGACAGAAGAGTCTACCATCAAGGACAGT
+ACTACGCAGAAGGCTGGACTACCTAGCAAAAATTTAACAGTCTCACAAAATCAAAGTGAA
+GAGTTCTACAATGGGCCTAACAGGAACAGACTGTTATTAAAGAGTGATGAAGAAAGTGAT
+AAGGTTATTTCGTGGAGCTGCAAACAACTGTTTGACATTTCTCTCTTTAGAAATCCTTTC
+TTCTACATATTTACTTGGTCTTTTCTCCTCAGTCAGTTAGCATACTTCATCCCTACCTTT
+CACCTGGTAGCCAGAGCCAAAACACTGGGGATTGACATCATGGATGCCTCTTACCTTGTT
+TCTGTAGCAGGTATCCTTGAGACGGTCAGTCAGATTATTTCTGGATGGGTTGCTGATCAA
+AACTGGATTAAGAAGTATCATTACCACAAGTCTTACCTCATCCTCTGCGGCATCACTAAC
+CTGCTTGCTCCTTTAGCCACCACATTTCCACTACTTATGACCTACACCATCTGCTTTGCC
+ATCTTTGCTGGTGGTTACCTGGCATTGATACTGCCTGTACTGGTTGATCTGTGTAGGAAT
+TCTACAGTAAACAGGTTTTTGGGACTTGCCAGTTTCTTTGCTGGGATGGCTGTCCTTTCT
+GGACCACCTATAGCAGGCTGGTTATATGATTATACCCAGACATACAATGGCTCTTTCTAC
+TTCTCTGGCATATGCTATCTCCTCTCTTCAGTTTCCTTTTTTTTTGTACCATTGGCCGAA
+AGATGGAAAAACAGTCTGACCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>487</residue_number>
+    <molecular_weight>54021.4</molecular_weight>
+    <theoretical_pi>8.13</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MFS_1</name>
+        <pfam_id>PF07690</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>17-37</region>
+      <region>60-80</region>
+      <region>88-108</region>
+      <region>110-129</region>
+      <region>144-164</region>
+      <region>175-195</region>
+      <region>300-320</region>
+      <region>338-358</region>
+      <region>373-393</region>
+      <region>395-415</region>
+      <region>426-446</region>
+      <region>459-479</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Monocarboxylate transporter 5
+MLKREGKVQPYTKTLDGGWGWMIVIHFFLVNVFVMGMTKTFAIFFVVFQEEFEGTSEQIG
+WIGSIMSSLRFCAGPLVAIICDILGEKTTSILGAFVVTGGYLISSWATSIPFLCVTMGLL
+PGLGSAFLYQVAAVVTTKYFKKRLALSTAIARSGMGLTFLLAPFTKFLIDLYDWTGALIL
+FGAIALNLVPSSMLLRPIHIKSENNSGIKDKGSSLSAHGPEAHATETHCHETEESTIKDS
+TTQKAGLPSKNLTVSQNQSEEFYNGPNRNRLLLKSDEESDKVISWSCKQLFDISLFRNPF
+FYIFTWSFLLSQLAYFIPTFHLVARAKTLGIDIMDASYLVSVAGILETVSQIISGWVADQ
+NWIKKYHYHKSYLILCGITNLLAPLATTFPLLMTYTICFAIFAGGYLALILPVLVDLCRN
+STVNRFLGLASFFAGMAVLSGPPIAGWLYDYTQTYNGSFYFSGICYLLSSVSFFFVPLAE
+RWKNSLT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O15374</uniprot_id>
+  <uniprot_name>MOT5_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U59185</genbank_gene_id>
+  <genecard_id>SLC16A4</genecard_id>
+  <geneatlas_id>SLC16A4</geneatlas_id>
+  <hgnc_id>HGNC:10925</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Price NT, Jackson VN, Halestrap AP: Cloning and sequencing of four new mammalian monocarboxylate transporter (MCT) homologues confirms the existence of a transporter family with an ancient past. Biochem J. 1998 Jan 15;329 ( Pt 2):321-8.</reference_text>
+      <pubmed_id>9425115</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kay HH, Zhu S, Tsoi S: Hypoxia and lactate production in trophoblast cells.  Placenta. 2007 Aug-Sep;28(8-9):854-60. Epub 2007 Feb 2.</reference_text>
+        <pubmed_id>17275903</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Han M, Trotta P, Coleman C, Linask KK: MCT-4, A511/Basigin and EF5 expression patterns during early chick cardiomyogenesis indicate cardiac cell differentiation occurs in a hypoxic environment. Dev Dyn. 2006 Jan;235(1):124-31.</reference_text>
+        <pubmed_id>16110503</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bonen A, Heynen M, Hatta H: Distribution of monocarboxylate transporters MCT1-MCT8 in rat tissues and human skeletal muscle. Appl Physiol Nutr Metab. 2006 Feb;31(1):31-9.</reference_text>
+        <pubmed_id>16604139</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pierre K, Pellerin L: Monocarboxylate transporters in the central nervous system: distribution, regulation and function. J Neurochem. 2005 Jul;94(1):1-14.</reference_text>
+        <pubmed_id>15953344</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyruvic acid</name>
+        <accession>HMDB00243</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shimada A, Nakagawa Y, Morishige H, Yamamoto A, Fujita T: Functional characteristics of H+ -dependent nicotinate transport in primary cultures of astrocytes from rat cerebral cortex. Neurosci Lett. 2006 Jan 16;392(3):207-12. Epub 2005 Oct 5.</reference_text>
+        <pubmed_id>16213084</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

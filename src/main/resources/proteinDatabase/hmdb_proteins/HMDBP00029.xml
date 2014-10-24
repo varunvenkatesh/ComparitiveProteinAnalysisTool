@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:43 -0700</creation_date>
+  <update_date>2013-05-27 11:34:50 -0600</update_date>
+  <accession>HMDBP00029</accession>
+  <secondary_accessions>
+    <accession>5258</accession>
+    <accession>HMDBP04672</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Polyamine N-acetyltransferase 1</synonym>
+    <synonym>Putrescine acetyltransferase</synonym>
+    <synonym>SSAT</synonym>
+    <synonym>SSAT-1</synonym>
+    <synonym>Spermidine/spermine N(1)-acetyltransferase 1</synonym>
+  </synonyms>
+  <gene_name>SAT1</gene_name>
+  <general_function>Involved in N-acetyltransferase activity</general_function>
+  <specific_function>Enzyme which catalyzes the acetylation of polyamines. Substrate specificity: norspermidine = spermidine &gt;&gt; spermine &gt; N(1)-acetylspermine &gt; putrescine. This highly regulated enzyme allows a fine attenuation of the intracellular concentration of polyamines. Also involved in the regulation of polyamine transport out of cells. Acts on 1,3-diaminopropane, 1,5-diaminopentane, putrescine, spermidine (forming N(1)- and N(8)-acetylspermidine), spermine, N(1)-acetylspermidine and N(8)-acetylspermidine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>putrescine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01186</accession>
+      <name>N1-Acetylspermine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01414</accession>
+      <name>Putrescine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02064</accession>
+      <name>N-Acetylputrescine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01256</accession>
+      <name>Spermine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01257</accession>
+      <name>Spermidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11634</accession>
+      <name>Norspermidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01276</accession>
+      <name>N1-Acetylspermidine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>n-acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>diamine N-acetyltransferase activity</description>
+      <go_id>GO:0004145</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>spermidine binding</description>
+      <go_id>GO:0019809</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>angiogenesis</description>
+      <go_id>GO:0001525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>polyamine biosynthetic process</description>
+      <go_id>GO:0006596</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>putrescine catabolic process</description>
+      <go_id>GO:0009447</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cell proliferation</description>
+      <go_id>GO:0042127</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xp22.1</locus>
+    <gene_sequence>&gt;516 bp
+ATGGCTAAATTCGTGATCCGCCCAGCCACTGCCGCCGACTGCAGTGACATACTGCGGCTG
+ATCAAGGAGCTGGCTAAATATGAATACATGGAAGAACAAGTAATCTTAACTGAAAAAGAT
+CTGCTAGAAGATGGTTTTGGAGAGCACCCCTTTTACCACTGCCTGGTTGCAGAAGTGCCG
+AAAGAGCACTGGACTCCGGAAGGACACAGCATTGTTGGTTTTGCCATGTACTATTTTACC
+TATGACCCGTGGATTGGCAAGTTATTGTATCTTGAGGACTTCTTCGTGATGAGTGATTAT
+AGAGGCTTTGGCATAGGATCAGAAATTCTGAAGAATCTAAGCCAGGTTGCAATGAGGTGT
+CGCTGCAGCAGCATGCACTTCTTGGTAGCAGAATGGAATGAACCATCCATCAACTTCTAT
+AAAAGAAGAGGTGCTTCTGATCTGTCCAGTGAAGAGGGTTGGAGACTGTTCAAGATCGAC
+AAGGAGTACTTGCTAAAAATGGCAACAGAGGAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>171</residue_number>
+    <molecular_weight>20023.8</molecular_weight>
+    <theoretical_pi>5.152</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Acetyltransf_1</name>
+        <pfam_id>PF00583</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Diamine acetyltransferase 1
+MAKFVIRPATAADCSDILRLIKELAKYEYMEEQVILTEKDLLEDGFGEHPFYHCLVAEVP
+KEHWTPEGHSIVGFAMYYFTYDPWIGKLLYLEDFFVMSDYRGFGIGSEILKNLSQVAMRC
+RCSSMHFLVAEWNEPSINFYKRRGASDLSSEEGWRLFKIDKEYLLKMATEE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P21673</uniprot_id>
+  <uniprot_name>SAT1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2B3U</pdb_id>
+    <pdb_id>2B3V</pdb_id>
+    <pdb_id>2B4B</pdb_id>
+    <pdb_id>2B4D</pdb_id>
+    <pdb_id>2B58</pdb_id>
+    <pdb_id>2B5G</pdb_id>
+    <pdb_id>2F5I</pdb_id>
+    <pdb_id>2FXF</pdb_id>
+    <pdb_id>2G3T</pdb_id>
+    <pdb_id>2JEV</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M77693</genbank_gene_id>
+  <genecard_id>SAT1</genecard_id>
+  <geneatlas_id>SAT1</geneatlas_id>
+  <hgnc_id>HGNC:10540</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Casero RA Jr, Celano P, Ervin SJ, Applegren NB, Wiest L, Pegg AE: Isolation and characterization of a cDNA clone that codes for human spermidine/spermine N1-acetyltransferase. J Biol Chem. 1991 Jan 15;266(2):810-4.</reference_text>
+      <pubmed_id>1985966</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xiao L, Celano P, Mank AR, Pegg AE, Casero RA Jr: Characterization of a full-length cDNA which codes for the human spermidine/spermine N1-acetyltransferase. Biochem Biophys Res Commun. 1991 Aug 30;179(1):407-15.</reference_text>
+      <pubmed_id>1652956</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xiao L, Celano P, Mank AR, Griffin C, Jabs EW, Hawkins AL, Casero RA Jr: Structure of the human spermidine/spermine N1-acetyltransferase gene (exon/intron gene organization and localization to Xp22.1). Biochem Biophys Res Commun. 1992 Sep 30;187(3):1493-502.</reference_text>
+      <pubmed_id>1417826</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xiao L, Casero RA Jr: Differential transcription of the human spermidine/spermine N1-acetyltransferase (SSAT) gene in human lung carcinoma cells. Biochem J. 1996 Jan 15;313 ( Pt 2):691-6.</reference_text>
+      <pubmed_id>8573111</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Casero RA Jr, Celano P, Ervin SJ, Wiest L, Pegg AE: High specific induction of spermidine/spermine N1-acetyltransferase in a human large cell lung carcinoma. Biochem J. 1990 Sep 15;270(3):615-20.</reference_text>
+      <pubmed_id>2241897</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bewley MC, Graziano V, Jiang J, Matz E, Studier FW, Pegg AE, Coleman CS, Flanagan JM: Structures of wild-type and mutant human spermidine/spermine N1-acetyltransferase, a potential therapeutic drug target. Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2063-8. Epub 2006 Feb 2.</reference_text>
+      <pubmed_id>16455797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hegde SS, Chandler J, Vetting MW, Yu M, Blanchard JS: Mechanistic and structural analysis of human spermidine/spermine N1-acetyltransferase. Biochemistry. 2007 Jun 19;46(24):7187-95. Epub 2007 May 22.</reference_text>
+      <pubmed_id>17516632</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhu YQ, Zhu DY, Yin L, Zhang Y, Vonrhein C, Wang DC: Crystal structure of human spermidine/spermine N1-acetyltransferase (hSSAT): the first structure of a new sequence family of transferase homologous superfamily. Proteins. 2006 Jun 1;63(4):1127-31.</reference_text>
+      <pubmed_id>16544326</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oosterwijk JC, Richard G, van der Wielen MJ, van de Vosse E, Harth W, Sandkuijl LA, Bakker E, van Ommen GJ: Molecular genetic analysis of two families with keratosis follicularis spinulosa decalvans: refinement of gene localization and evidence for genetic heterogeneity. Hum Genet. 1997 Oct;100(5-6):520-4.</reference_text>
+      <pubmed_id>9341865</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gimelli G, Giglio S, Zuffardi O, Alhonen L, Suppola S, Cusano R, Lo Nigro C, Gatti R, Ravazzolo R, Seri M: Gene dosage of the spermidine/spermine N(1)-acetyltransferase ( SSAT) gene with putrescine accumulation in a patient with a Xp21.1p22.12 duplication and keratosis follicularis spinulosa decalvans (KFSD). Hum Genet. 2002 Sep;111(3):235-41. Epub 2002 Aug 1.</reference_text>
+      <pubmed_id>12215835</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vujcic S, Halmekyto M, Diegelman P, Gan G, Kramer DL, Janne J, Porter CW: Effects of conditional overexpression of spermidine/spermine N1-acetyltransferase on polyamine pool dynamics, cell growth, and sensitivity to polyamine analogs. J Biol Chem. 2000 Dec 8;275(49):38319-28.</reference_text>
+        <pubmed_id>10978316</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hegardt C, Andersson G, Oredsson SM: Changes in polyamine metabolism during glucocorticoid-induced programmed cell death in mouse thymus. Cell Biol Int. 2000;24(12):871-80.</reference_text>
+        <pubmed_id>11114236</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Marverti G, Bettuzzi S, Astancolle S, Pinna C, Monti MG, Moruzzi MS: Differential induction of spermidine/spermine N1-acetyltransferase activity in cisplatin-sensitive and -resistant ovarian cancer cells in response to N1,N12-bis(ethyl)spermine involves transcriptional and post-transcriptional regulation. Eur J Cancer. 2001 Jan;37(2):281-9.</reference_text>
+        <pubmed_id>11166157</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Scorcioni F, Corti A, Davalli P, Astancolle S, Bettuzzi S: Manipulation of the expression of regulatory genes of polyamine metabolism results in specific alterations of the cell-cycle progression. Biochem J. 2001 Feb 15;354(Pt 1):217-23.</reference_text>
+        <pubmed_id>11171097</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Min SH, Simmen RC, Alhonen L, Halmekyto M, Porter CW, Janne J, Simmen FA: Altered levels of growth-related and novel gene transcripts in reproductive and other tissues of female mice overexpressing spermidine/spermine N1-acetyltransferase (SSAT). J Biol Chem. 2002 Feb 1;277(5):3647-57. Epub 2001 Nov 14.</reference_text>
+        <pubmed_id>11709547</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Spermine</name>
+        <accession>HMDB01256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Limsuwun K, Jones PG: Spermidine acetyltransferase is required to prevent spermidine toxicity at low temperatures in Escherichia coli. J Bacteriol. 2000 Oct;182(19):5373-80.</reference_text>
+        <pubmed_id>10986239</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

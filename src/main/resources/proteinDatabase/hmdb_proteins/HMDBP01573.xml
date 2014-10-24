@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:44 -0700</creation_date>
+  <update_date>2013-05-27 11:36:53 -0600</update_date>
+  <accession>HMDBP01573</accession>
+  <secondary_accessions>
+    <accession>6869</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Synaptic inositol-1,4,5-trisphosphate 5-phosphatase 1</synonym>
+    <synonym>Synaptic inositol 1,4,5-trisphosphate 5-phosphatase 1</synonym>
+  </synonyms>
+  <gene_name>SYNJ1</gene_name>
+  <general_function>Cell cycle control, cell division, chromosome partitioning</general_function>
+  <specific_function>Inositol 5-phosphatase which has a role in clathrin-mediated endocytosis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Inositol phosphate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00562</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phosphatidylinositol signaling system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04070</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06953</accession>
+      <name>1-Phosphatidyl-D-myo-inositol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inositol or phosphatidylinositol phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatidylinositol bisphosphate phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane coat</description>
+      <go_id>GO:0030117</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>inositol-polyphosphate 5-phosphatase activity</description>
+      <go_id>GO:0004445</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity</description>
+      <go_id>GO:0004439</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>RNA binding</description>
+      <go_id>GO:0003723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>brain development</description>
+      <go_id>GO:0007420</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inositol phosphate dephosphorylation</description>
+      <go_id>GO:0046855</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>learning</description>
+      <go_id>GO:0007612</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol biosynthetic process</description>
+      <go_id>GO:0006661</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol dephosphorylation</description>
+      <go_id>GO:0046856</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol phosphorylation</description>
+      <go_id>GO:0046854</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of gliogenesis</description>
+      <go_id>GO:0014015</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of receptor-mediated endocytosis</description>
+      <go_id>GO:0048260</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cytokine stimulus</description>
+      <go_id>GO:0034097</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to retinoic acid</description>
+      <go_id>GO:0032526</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>synaptic vesicle endocytosis</description>
+      <go_id>GO:0048488</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>synaptic vesicle priming</description>
+      <go_id>GO:0016082</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>synaptic vesicle uncoating</description>
+      <go_id>GO:0016191</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>21</chromosome_location>
+    <locus>21q22.2</locus>
+    <gene_sequence>&gt;4839 bp
+ATGCGGAAGAGATGGGCCTGCTGGAGCGGAAGTGACGCTCCCGGCGGCTGTGGCGGCGGC
+TGCGGGAGAAGGAGGAGGAGGAGCCGGAGGAAGAGGGCTGCCTCCGAAGAAAGGAGAATG
+GCGTTCAGTAAAGGATTCCGGATCTATCACAAATTGGATCCCCCACCTTTCAGCCTCATA
+GTGGAAACTAGGCATAAGGAAGAATGTCTCATGTTCGAGTCTGGGGCTGTCGCTGTGCTC
+TCATCTGCAGAAAAAGAGGCAATCAAGGGTACATACTCCAAAGTACTGGATGCATATGGA
+CTCTTAGGTGTTCTGCGGTTAAATCTTGGTGATACTATGTTACATTATCTGGTCCTAGTC
+ACTGGATGTATGTCTGTTGGAAAAATTCAAGAATCTGAAGTTTTCCGAGTTACTTCCACT
+GAGTTTATATCACTGCGAATCGATTCTTCAGATGAGGATCGCATTTCAGAAGTGCGGAAA
+GTTTTGAATTCAGGAAACTTTTATTTTGCATGGTCTGCATCTGGCATCAGTTTAGATTTG
+AGTCTTAATGCGCATCGTAGCATGCAAGAACAGACAACTGATAATAGATTTTTCTGGAAT
+CAGTCTTTGCATTTGCATCTCAAACACTATGGCGTGAATTGTGATGACTGGTTATTACGT
+CTTATGTGTGGAGGAGTAGAAATCAGAACAATTTATGCTGCTCATAAACAGGCGAAGGCT
+TGCCTCATTTCAAGATTAAGCTGTGAACGAGCTGGGACCAGGTTTAATGTCCGGGGAACA
+AATGATGATGGTCATGTTGCCAATTTTGTAGAAACAGAACAGGTTGTGTACTTAGATGAC
+TCAGTTTCTTCCTTCATACAAATCCGAGGATCTGTTCCATTGTTCTGGGAGCAACCAGGG
+TTGCAAGTGGGATCTCATCGTGTCCGTATGTCAAGGGGATTTGAAGCCAATGCACCTGCT
+TTTGACAGGCATTTTAGAACACTTAAGAACTTATATGGTAAACAAATAATAGTAAATTTG
+CTTGGATCTAAGGAAGGTGAACATATGCTAAGTAAAGCTTTCCAGAGTCATTTGAAAGCT
+TCTGAACATGCTGCTGATATCCAGATGGTGAATTTTGACTATCATCAAATGGTTAAGGGA
+GGAAAGGCAGAAAAATTACATAGTGTTCTTAAACCTCAAGTCCAGAAGTTTCTAGATTAT
+GGATTTTTTTATTTCAATGGAAGTGAAGTTCAAAGATGCCAGAGTGGTACAGTTCGAACA
+AACTGCTTGGATTGTCTTGATAGAACAAATAGTGTGCAGGCATTTCTTGGCTTAGAGATG
+CTAGCTAAACAGTTGGAAGCTCTTGGTTTAGCTGAAAAGCCTCAGTTGGTGACTCGCTTT
+CAAGAAGTTTTTCGGTCAATGTGGTCCGTGAATGGTGATTCAATCAGTAAGATATATGCA
+GGAACTGGAGCTCTTGAAGGGAAAGCGAAGTTAAAAGATGGTGCTCGCTCTGTTACCCGA
+ACAATTCAGAATAACTTCTTTGACAGCTCCAAGCAAGAGGCCATTGATGTTTTGCTACTG
+GGAAATACTCTGAATAGTGATTTAGCTGACAAAGCTCGAGCACTTTTAACTACTGGAAGT
+TTGCGTGTTTCTGAGCAGACATTACAGTCAGCATCTTCTAAAGTACTAAAGAGCATGTGT
+GAGAATTTCTACAAATATTCAAAGCCTAAGAAAATTCGAGTATGTGTCGGAACCTGGAAT
+GTGAATGGTGGGAAGCAATTTCGCAGCATAGCTTTTAAGAATCAGACACTCACTGACTGG
+CTTCTTGATGCACCCAAGTTAGCTGGCATCCAGGAGTTTCAAGATAAAAGAAGTAAGCCA
+ACTGATATATTTGCAATTGGTTTTGAAGAAATGGTAGAATTGAATGCTGGAAACATTGTG
+AGTGCAAGCACAACAAATCAGAAGCTCTGGGCTGTAGAACTTCAGAAGACAATCTCCAGA
+GACAACAAGTATGTGCTGCTGGCTTCTGAACAGTTGGTGGGCGTCTGTTTGTTTGTTTTT
+ATCAGACCACAGCATGCTCCTTTTATCAGGGATGTTGCAGTTGATACTGTGAAGACTGGA
+ATGGGAGGTGCAACTGGAAATAAGGGAGCAGTTGCAATCCGAATGCTCTTCCATACAACC
+AGCCTTTGCTTCGTCTGTAGCCACTTTGCTGCAGGGCAGTCACAAGTCAAAGAAAGAAAT
+GAAGATTTTATAGAAATAGCACGAAAATTGAGTTTTCCTATGGGAAGGATGCTATTTTCC
+CATGACTATGTATTTTGGTGTGGTGATTTCAACTATCGAATCGATCTCCCTAACGAAGAA
+GTTAAAGAGCTCATAAGACAGCAAAATTGGGATTCTCTTATAGCAGGAGATCAACTTATC
+AATCAGAAAAATGCTGGACAGGTTTTTAGAGGATTTTTAGAAGGAAAGGTAACCTTTGCT
+CCGACATATAAGTATGACTTGTTTTCTGACGACTATGACACCAGTGAAAAGTGCCGCACC
+CCTGCCTGGACAGACCGTGTCCTTTGGAGAAGGAGGAAATGGCCTTTTGATAGATCAGCT
+GAAGATCTAGATCTTCTAAATGCTAGTTTTCAAGATGAAAGCAAAATTCTGTACACGTGG
+ACTCCAGGCACTTTGCTGCACTATGGAAGAGCTGAGCTGAAGACTTCTGACCACAGGCCT
+GTCGTTGCCCTGATTGATATAGATATATTTGAAGTTGAAGCTGAAGAGAGGCAAAACATT
+TATAAAGAAGTAATTGCAGTTCAGGGTCCACCAGATGGTACAGTATTGGTCTCAATCAAA
+AGTTCTTTACCAGAAAATAATTTTTTTGATGATGCCTTGATTGATGAGCTTCTGCAGCAG
+TTTGCAAGTTTTGGTGAAGTTATACTTATAAGATTTGTAGAAGATAAAATGTGGGTTACA
+TTTTTGGAGGGAAGCTCTGCCTTGAATGTTCTGAGCCTAAATGGTAAAGAGTTATTGAAT
+CGGACTATAACTATTGCTTTAAAAAGTCCAGACTGGATCAAAAATTTGGAAGAAGAAATG
+AGTTTAGAGAAAATTAGCATTGCATTGCCATCATCAACAAGCTCTACCCTGCTTGGTGAA
+GATGCAGAGGTTGCAGCAGATTTTGATATGGAAGGTGATGTTGATGACTATAGTGCTGAA
+GTGGAGGAACTTCTTCCTCAGCATCTCCAGCCATCTTCAAGTTCCGGCCTTGGTACTTCC
+CCCAGCTCTTCACCCCGAACTAGTCCCTGCCAGTCACCTACAATATCAGAGGGTCCTGTA
+CCTTCCCTTCCCATCAGACCAAGCCGAGCACCGTCAAGAACTCCTGGGCCTCCCAGTGCA
+CAGAGTTCTCCTATTGACGCGCAGCCAGCAACGCCGCTGCCGCAGAAAGACCCCGCCCAG
+CCCTTGGAGCCCAAGCGGCCGCCGCCGCCCCGCCCGGTCGCCCCTCCCACACGCCCGGCT
+CCCCCACAGAGACCTCCTCCGCCTTCAGGGGCTAGGAGTCCTGCACCCACTAGAAAGGAA
+TTTGGAGGTATTGGAGCCCCTCCCAGTCCTGGGGTAGCTAGGAGAGAGATGGAAGCACCC
+AAAAGCCCTGGAACAACAAGGAAAGATAATATAGGACGCAGTCAGCCTTCACCTCAAGCA
+GGACTTGCAGGCCCAGGACCTGCTGGATACAGTACAGCCAGACCGACGATTCCTCCTCGT
+GCTGGAGTTATCAGTGCCCCACAGAGCCACGCGCGGGCATCTGCTGGAAGACTGACTCCT
+GAAAGCCAAAGCAAAACATCAGAAACGTCGAAAGGTTCAACTTTCCTTCCTGAACCACTG
+AAGCCTCAGGCTGCTTTTCCTCCGCAGTCTTCTTTGCCCCCGCCTGCTCAAAGGTTGCAA
+GAGCCTCTTGTCCCTGTGGCAGCACCTATGCCTCAGTCTGGCCCCCAGCCAAATTTGGAA
+ACCCCACCACAACCACCACCTCGAAGCAGGTCATCCCATAGCTTGCCTTCAGAAGCTTCC
+TCACAACCGCAAGTAAAAACAAATGGAATCTCTGATGGCAAAAGAGAATCACCATTAAAG
+ATTGACCCATTTGAAGATCTGTCATTTAATCTGCTTGCTGTATCAAAGGCTCAGCTATCT
+GTTCAAACGTCACCTGTTCCCACCCCAGACCCAAAGAGGTTGATTCAGTTGCCTTCTGCA
+ACGCAAAGTAATGTTTTGAGTTCTGTAAGTTGCATGCCAACAATGCCTCCAATTCCAGCT
+CGGAGTCAATCCCAGGAAAATATGCGAAGTTCTCCAAACCCATTTATTACTGGCTTGACC
+AGGACAAATCCTTTCAGTGACAGGACTGCTGCTCCTGGAAACCCATTTAGAGCCAAGTCT
+GAAGAATCAGAGGCAACTTCATGGTTCTCCAAAGAAGAGCCCGTTACTATCAGTCCTTTC
+CCTTCTCTGCAGCCTCTTGGTCATAACAAAAGCAGGGCTTCATCTTCACTTGATGGCTTT
+AAGGACAGTTTTGATCTACAGGGCCAGTCTACATTAAAAATTAGCAACCCGAAAGGATGG
+GTAACCTTCGAGGAAGAAGAGGATTTTGGTGTGAAAGGGAAGTCAAAGTCAGCTTGTTCA
+GACTTACTGGGTAATCAGCCAAGTTCATTTTCTGGCTCCAACCTGACATTGAATGATGAC
+TGGAATAAAGGTACAAATGTCTCCTTCTGTGTGTTGCCGTCAAGAAGACCTCCTCCACCT
+CCTGTCCCTCTGCTCCCGCCCGGCACCAGCCCTCCAGTAGATCCTTTCACGACCTTGGCC
+TCTAAGGCTTCACCCACACTGGACTTTACAGAAAGATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1573</residue_number>
+    <molecular_weight>143252.18</molecular_weight>
+    <theoretical_pi>7.323</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DUF1866</name>
+        <pfam_id>PF08952</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Exo_endo_phos</name>
+        <pfam_id>PF03372</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Syja_N</name>
+        <pfam_id>PF02383</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Synaptojanin-1
+MAFSKGFRIYHKLDPPPFSLIVETRHKEECLMFESGAVAVLSSAEKEAIKGTYSKVLDAY
+GLLGVLRLNLGDTMLHYLVLVTGCMSVGKIQESEVFRVTSTEFISLRIDSSDEDRISEVR
+KVLNSGNFYFAWSASGISLDLSLNAHRSMQEQTTDNRFFWNQSLHLHLKHYGVNCDDWLL
+RLMCGGVEIRTIYAAHKQAKACLISRLSCERAGTRFNVRGTNDDGHVANFVETEQVVYLD
+DSVSSFIQIRGSVPLFWEQPGLQVGSHRVRMSRGFEANAPAFDRHFRTLKNLYGKQIIVN
+LLGSKEGEHMLSKAFQSHLKASEHAADIQMVNFDYHQMVKGGKAEKLHSVLKPQVQKFLD
+YGFFYFNGSEVQRCQSGTVRTNCLDCLDRTNSVQAFLGLEMLAKQLEALGLAEKPQLVTR
+FQEVFRSMWSVNGDSISKIYAGTGALEGKAKLKDGARSVTRTIQNNFFDSSKQEAIDVLL
+LGNTLNSDLADKARALLTTGSLRVSEQTLQSASSKVLKSMCENFYKYSKPKKIRVCVGTW
+NVNGGKQFRSIAFKNQTLTDWLLDAPKLAGIQEFQDKRSKPTDIFAIGFEEMVELNAGNI
+VSASTTNQKLWAVELQKTISRDNKYVLLASEQLVGVCLFVFIRPQHAPFIRDVAVDTVKT
+GMGGATGNKGAVAIRMLFHTTSLCFVCSHFAAGQSQVKERNEDFIEIARKLSFPMGRMLF
+SHDYVFWCGDFNYRIDLPNEEVKELIRQQNWDSLIAGDQLINQKNAGQVFRGFLEGKVTF
+APTYKYDLFSDDYDTSEKCRTPAWTDRVLWRRRKWPFDRSAEDLDLLNASFQDESKILYT
+WTPGTLLHYGRAELKTSDHRPVVALIDIDIFEVEAEERQNIYKEVIAVQGPPDGTVLVSI
+KSSLPENNFFDDALIDELLQQFASFGEVILIRFVEDKMWVTFLEGSSALNVLSLNGKELL
+NRTITIALKSPDWIKNLEEEMSLEKISIALPSSTSSTLLGEDAEVAADFDMEGDVDDYSA
+EVEELLPQHLQPSSSSGLGTSPSSSPRTSPCQSPTISEGPVPSLPIRPSRAPSRTPGPPS
+AQSSPIDAQPATPLPQKDPAQPLEPKRPPPPRPVAPPTRPAPPQRPPPPSGARSPAPTRK
+EFGGIGAPPSPGVARREMEAPKSPGTTRKDNIGRSQPSPQAGLAGPGPAGYSTARPTIPP
+RAGVISAPQSHARASAGRLTPESQSKTSETSKGSTFLPEPLKPQAAFPPQSSLPPPAQRL
+QEPLVPVAAPMPQSGPQPNLETPPQPPPRSRSSHSLPSEASSQPQVKTNGISDGKRESPL
+KIDPFEDLSFNLLAVSKAQLSVQTSPVPTPDPKRLIQLPSATQSNVLSSVSCMPTMPPIP
+ARSQSQENMRSSPNPFITGLTRTNPFSDRTAAPGNPFRAKSEESEATSWFSKEEPVTISP
+FPSLQPLGHNKSRASSSLDGFKDSFDLQGQSTLKISNPKGWVTFEEEEDFGVKGKSKSAC
+SDLLGNQPSSFSGSNLTLNDDWNKGTNVSFCVLPSRRPPPPPVPLLPPGTSPPVDPFTTL
+ASKASPTLDFTER</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>237757310</genbank_protein_id>
+  <uniprot_id>O43426</uniprot_id>
+  <uniprot_name>SYNJ1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1W80</pdb_id>
+    <pdb_id>2DNR</pdb_id>
+    <pdb_id>2VJ0</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_003895</genbank_gene_id>
+  <genecard_id>SYNJ1</genecard_id>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:11503</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Haffner C, Takei K, Chen H, Ringstad N, Hudson A, Butler MH, Salcini AE, Di Fiore PP, De Camilli P: Synaptojanin 1: localization on coated endocytic intermediates in nerve terminals and interaction of its 170 kDa isoform with Eps15. FEBS Lett. 1997 Dec 15;419(2-3):175-80.</reference_text>
+      <pubmed_id>9428629</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Suyama M, Kikuno R, Hirosawa M, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. XII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1998 Dec 31;5(6):355-64.</reference_text>
+      <pubmed_id>10048485</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakajima D, Okazaki N, Yamakawa H, Kikuno R, Ohara O, Nagase T: Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones. DNA Res. 2002 Jun 30;9(3):99-106.</reference_text>
+      <pubmed_id>12168954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hattori M, Fujiyama A, Taylor TD, Watanabe H, Yada T, Park HS, Toyoda A, Ishii K, Totoki Y, Choi DK, Groner Y, Soeda E, Ohki M, Takagi T, Sakaki Y, Taudien S, Blechschmidt K, Polley A, Menzel U, Delabar J, Kumpf K, Lehmann R, Patterson D, Reichwald K, Rump A, Schillhabel M, Schudy A, Zimmermann W, Rosenthal A, Kudoh J, Schibuya K, Kawasaki K, Asakawa S, Shintani A, Sasaki T, Nagamine K, Mitsuyama S, Antonarakis SE, Minoshima S, Shimizu N, Nordsiek G, Hornischer K, Brant P, Scharfe M, Schon O, Desario A, Reichelt J, Kauer G, Blocker H, Ramser J, Beck A, Klages S, Hennig S, Riesselmann L, Dagand E, Haaf T, Wehrmeyer S, Borzym K, Gardiner K, Nizetic D, Francis F, Lehrach H, Reinhardt R, Yaspo ML: The DNA sequence of human chromosome 21.  Nature. 2000 May 18;405(6784):311-9.</reference_text>
+      <pubmed_id>10830953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cestra G, Castagnoli L, Dente L, Minenkova O, Petrelli A, Migone N, Hoffmuller U, Schneider-Mergener J, Cesareni G: The SH3 domains of endophilin and amphiphysin bind to the proline-rich region of synaptojanin 1 at distinct sites that display an unconventional binding specificity. J Biol Chem. 1999 Nov 5;274(45):32001-7.</reference_text>
+      <pubmed_id>10542231</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

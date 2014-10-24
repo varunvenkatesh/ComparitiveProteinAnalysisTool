@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:05 -0700</creation_date>
+  <update_date>2013-05-27 11:27:47 -0600</update_date>
+  <accession>HMDBP00410</accession>
+  <secondary_accessions>
+    <accession>5647</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Androgen receptor coactivator 267 kDa protein</synonym>
+    <synonym>Androgen receptor-associated protein of 267 kDa</synonym>
+    <synonym>H3-K36-HMTase</synonym>
+    <synonym>H4-K20-HMTase</synonym>
+    <synonym>Lysine N-methyltransferase 3B</synonym>
+    <synonym>NR-binding SET domain-containing protein</synonym>
+    <synonym>Nuclear receptor-binding SET domain-containing protein 1</synonym>
+  </synonyms>
+  <gene_name>NSD1</gene_name>
+  <general_function>Involved in histone-lysine N-methyltransferase activity</general_function>
+  <specific_function>Histone methyltransferase. Preferentially methylates 'Lys-36' of histone H3 and 'Lys-20' of histone H4 (in vitro). Transcriptional intermediary factor capable of both negatively or positively influencing transcription, depending on the cellular context.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00182</accession>
+      <name>L-Lysine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>histone-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>chromosome</description>
+      <go_id>GO:0005694</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>androgen receptor binding</description>
+      <go_id>GO:0050681</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chromatin binding</description>
+      <go_id>GO:0003682</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>estrogen receptor binding</description>
+      <go_id>GO:0030331</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone methyltransferase activity (H3-K36 specific)</description>
+      <go_id>GO:0046975</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone methyltransferase activity (H4-K20 specific)</description>
+      <go_id>GO:0042799</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ligand-dependent nuclear receptor binding</description>
+      <go_id>GO:0016922</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>retinoid X receptor binding</description>
+      <go_id>GO:0046965</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>thyroid hormone receptor binding</description>
+      <go_id>GO:0046966</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription corepressor activity</description>
+      <go_id>GO:0003714</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>gastrulation with mouth forming second</description>
+      <go_id>GO:0001702</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045893</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Chromosome (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q35</locus>
+    <gene_sequence>&gt;8091 bp
+ATGGATCAGACCTGTGAACTACCCAGAAGAAATTGTCTGCTGCCCTTTTCCAATCCAGTG
+AATTTAGATGCCCCTGAAGACAAGGACAGCCCTTTCGGTAATGGTCAATCCAATTTTTCT
+GAGCCACTTAATGGGTGTACTATGCAGTTATCGACTGTCAGTGGAACATCCCAAAATGCT
+TATGGACAAGATTCTCCATCTTGTTACATTCCACTGCGGAGACTACAGGATTTGGCCTCC
+ATGATCAATGTAGAGTATTTAAATGGGTCTGCTGATGGATCAGAATCCTTTCAAGACCCT
+GAAAAAAGTGATTCAAGAGCTCAGACGCCAATTGTTTGCACTTCCTTGAGTCCTGGTGGT
+CCTACAGCACTTGCTATGAAACAGGAACCCTCTTGTAATAACTCCCCTGAACTCCAGGTA
+AAAGTAACAAAGACTATCAAGAATGGCTTTCTGCACTTTGAGAATTTTACTTGTGTGGAC
+GATGCAGATGTAGATTCTGAAATGGACCCAGAACAGCCAGTCACAGAGGATGAGAGTATA
+GAGGAGATCTTTGAGGAAACTCAGACCAATGCCACCTGCAATTATGAGACTAAATCAGAG
+AATGGTGTAAAAGTGGCCATGGGAAGTGAACAAGACAGCACACCAGAGAGTAGACACGGT
+GCAGTCAAATCGCCATTCTTGCCATTAGCTCCTCAGACTGAAACACAGAAAAATAAGCAA
+AGAAATGAAGTGGACGGCAGCAATGAAAAAGCAGCCCTTCTCCCAGCCCCCTTTTCACTA
+GGAGACACAAACATTACAATAGAAGAGCAATTAAACTCAATAAATTTATCTTTTCAGGAT
+GATCCAGATTCCAGTACCAGTACATTAGGAAACATGCTAGAATTACCTGGAACTTCATCA
+TCATCTACTTCACAGGAATTGCCATTTTGTCAACCTAAGAAAAAGTCTACGCCACTGAAG
+TATGAAGTTGGAGATCTCATCTGGGCAAAATTCAAGAGACGCCCATGGTGGCCCTGCAGG
+ATTTGTTCTGATCCGTTGATTAACACACATTCAAAAATGAAAGTTTCCAACCGGAGGCCC
+TATCGGCAGTACTACGTGGAGGCTTTTGGAGATCCTTCTGAGAGAGCCTGGGTGGCTGGA
+AAAGCAATCGTCATGTTTGAAGGCAGACATCAATTCGAAGAGCTACCTGTCCTTAGGAGA
+AGAGGGAAACAGAAAGAAAAAGGATATAGGCATAAGGTTCCTCAGAAAATTTTGAGTAAA
+TGGGAAGCCAGTGTTGGACTTGCAGAACAGTATGATGTTCCCAAGGGGTCAAAGAACCGA
+AAATGTATTCCTGGTTCAATCAAGTTGGACAGTGAAGAAGATATGCCATTTGAAGACTGC
+ACAAATGATCCTGAGTCAGAACATGACCTGTTGCTTAATGGCTGTTTGAAATCACTGGCT
+TTTGATTCTGAACATTCTGCAGATGAGAAGGAAAAGCCTTGCGCTAAATCTCGAGCCAGA
+AAGAGCTCTGATAATCCAAAAAGGACTAGTGTGAAAAAGGGCCACATACAATTTGAAGCA
+CATAAAGATGAACGGAGGGGAAAGATTCCAGAGAACCTTGGCCTAAACTTTATCTCTGGG
+GATATATCTGATACGCAGGCCTCTAATGAACTTTCCAGGATAGCAAATAGCCTCACAGGG
+TCCAACACTGCCCCAGGAAGTTTTCTGTTTTCTTCCTGTGGAAAAAACACTGCAAAGAAA
+GAATTTGAGACTTCAAATGGTGACTCTTTATTGGGCTTGCCTGAGGGTGCTTTGATCTCA
+AAGTGTTCTCGAGAGAAGAATAAACCCCAACGAAGCCTGGTGTGTGGTTCAAAAGTGAAG
+CTCTGCTATATTGGAGCAGGTGATGAGGAAAAGCGAAGTGATTCCATTAGTATCTGTACC
+ACTTCTGATGATGGAAGCAGTGACCTGGATCCCATAGAACACAGCTCAGAGTCTGATAAC
+AGTGTCCTTGAAATTCCAGATGCTTTCGATAGAACAGAGAACATGTTATCTATGCAGAAA
+AATGAAAAGATAAAGTATTCTAGGTTTGCTGCCACAAACACTAGGGTAAAAGCAAAACAG
+AAGCCTCTCATTAGTAACTCACATACAGACCACTTAATGGGTTGTACTAAGAGTGCAGAG
+CCTGGAACCGAGACGTCTCAGGTTAATCTCTCTGATCTGAAGGCATCTACTCTTGTTCAC
+AAACCCCAGTCAGATTTTACAAATGATGCTCTCTCTCCAAAATTCAACCTGTCATCAAGC
+ATATCCAGTGAGAACTCGTTAATAAAGGGTGGGGCAGCAAATCAAGCTCTATTACATTCG
+AAAAGCAAACAGCCCAAGTTCCGAAGTATAAAGTGCAAACACAAAGAAAATCCAGTTATG
+GCAGAACCCCCAGTTATAAATGAGGAGTGCAGTTTGAAATGCTGCTCTTCTGATACCAAA
+GGCTCTCCTTTGGCCAGCATTTCTAAAAGTGGGAAAGTGGATGGTCTAAAACTACTGAAC
+AATATGCATGAGAAAACCAGGGATTCAAGTGACATAGAAACAGCAGTGGTGAAACATGTT
+TTATCCGAGTTGAAGGAACTCTCTTACAGATCCTTAGGTGAGGATGTCAGTGACTCTGGA
+ACATCAAAGCCATCAAAACCATTACTTTTCTCTTCTGCTTCTAGTCAGAATCACATACCT
+ATTGAACCAGACTACAAATTCAGTACATTGCTAATGATGTTGAAAGATATGCATGATAGT
+AAGACGAAGGAGCAGCGGTTGATGACTGCTCAAAACCTGGTCTCTTACCGGAGTCCTGGT
+CGTGGGGACTGTTCTACTAATAGTCCTGTAGGAGTCTCTAAGGTTTTGGTTTCAGGAGGC
+TCCACACACAATTCAGAGAAAAAGGGAGATGGCACTCAGAACTCCGCCAATCCTAGCCCT
+AGTGGGGGTGACTCTGCATTATCTGGCGAGTTGTCTGCTTCCCTACCTGGCTTACTGTCC
+GACAAGAGAGACCTCCCTGCTTCTGGTAAAAGTCGTTCAGACTGTGTTACTAGGCGCAAC
+TGTGGACGATCAAAGCCTTCATCCAAATTGCGAGATGCTTTTTCAGCCCAAATGGTAAAG
+AACACAGTGAACCGTAAAGCCTTAAAGACCGAGCGCAAAAGAAAACTGAATCAGCTTCCA
+AGTGTGACTCTTGATGCTGTACTGCAGGGAGACCGAGAACGTGGAGGTTCATTGAGAGGT
+GGGGCAGAAGATCCTAGTAAAGAGGATCCCCTTCAGATAATGGGCCACTTAACAAGTGAA
+GATGGTGACCATTTTTCTGATGTGCATTTCGATAGCAAGGTTAAGCAATCTGATCCTGGT
+AAAATTTCTGAAAAAGGACTCTCTTTTGAAAACGGAAAAGGCCCAGAGCTGGACTCTGTA
+ATGAACAGTGAGAATGATGAACTCAATGGTGTAAATCAAGTGGTGCCTAAAAAGCGGTGG
+CAGCGTTTAAACCAAAGGCGCACTAAACCTCGTAAGCGCATGAACAGATTTAAAGAGAAA
+GAAAACTCTGAGTGTGCCTTTAGGGTCTTACTTCCTAGTGACCCTGTGCAGGAGGGGCGG
+GATGAGTTTCCAGAGCATAGAACTCCTTCAGCAAGCATACTTGAGGAACCACTGACAGAG
+CAAAATCATGCTGACTGCTTAGATTCAGCTGGGCCACGGTTAAATGTTTGTGATAAATCC
+AGTGCCAGCATTGGTGACATGGAAAAGGAGCCAGGAATTCCCAGTTTGACACCACAGGCT
+GAGCTCCCTGAACCAGCTGTGCGGTCAGAGAAGAAACGCCTTAGGAAGCCAAGCAAGTGG
+CTTTTGGAATATACAGAAGAATATGATCAGATATTTGCTCCTAAGAAAAAACAAAAGAAG
+GTACAGGAGCAGGTGCACAAGGTAAGTTCCCGCTGTGAAGAGGAAAGCCTTCTAGCCCGA
+GGTCGATCTAGTGCTCAGAACAAGCAGGTGGACGAGAATTCTTTGATTTCAACCAAAGAA
+GAGCCTCCAGTTCTTGAAAGGGAGGCTCCGTTTTTGGAGGGCCCCTTGGCTCAGTCAGAA
+CTTGGAGGTGGACATGCTGAGTTGCCGCAGCTGACCTTGTCTGTGCCTGTGGCTCCGGAA
+GTCTCTCCACGGCCTGCCCTTGAGTCTGAGGAATTGCTAGTTAAAACGCCAGGAAATTAT
+GAAAGTAAACGTCAAAGAAAACCAACTAAGAAACTTCTTGAATCCAATGATTTAGACCCT
+GGATTTATGCCCAAGAAGGGGGACCTTGGCCTTTCTAAAAAGTGCTATGAAGCTGGTCAC
+CTGGAGAATGGCATAACTGAATCTTGTGCCACATCTTATTCAAAAGATTTTGGTGGAGGC
+ACTACCAAGATATTTGACAAGCCAAGGAAGCGAAAACGACAGAGGCATGCTGCAGCCAAG
+ATGCAGTGTAAAAAAGTGAAAAATGATGACTCGTCAAAAGAGATTCCAGGCTCAGAGGGA
+GAACTAATGCCTCACAGGACGGCCACAAGCCCCAAGGAGACTGTTGAGGAAGGTGTAGAA
+CACGATCCCGGGATGCCTGCCTCTAAAAAAATGCAGGGTGAACGCGGTGGAGGAGCTGCA
+CTCAAGGAGAATGTCTGTCAGAATTGTGAAAAATTGGGTGAGCTGCTGTTATGTGAGGCT
+CAGTGCTGTGGGGCTTTCCACCTGGAGTGCCTTGGATTGACTGAGATGCCAAGAGGAAAA
+TTTATCTGCAATGAATGTCGCACAGGAATCCATACCTGTTTTGTATGTAAGCAGAGTGGG
+GAAGATGTTAAAAGGTGCCTTCTACCCTTGTGTGGAAAGTTTTACCATGAAGAGTGTGTC
+CAGAAGTACCCACCCACTGTTATGCAGAACAAGGGCTTCCGGTGCTCCCTCCACATCTGT
+ATAACCTGTCATGCTGCTAATCCAGCCAATGTTTCTGCATCTAAAGGTCGGTTGATGCGC
+TGTGTCCGCTGTCCTGTGGCATACCACGCCAATGACTTTTGCCTGGCTGCTGGGTCAAAG
+ATCCTTGCATCTAATAGTATCATCTGCCCTAATCACTTTACCCCTAGGCGGGGCTGCCGA
+AATCATGAGCATGTTAATGTTAGCTGGTGCTTTGTGTGCTCAGAAGGAGGCAGCCTTCTG
+TGCTGTGATTCTTGCCCTGCTGCTTTTCATCGTGAATGCCTGAACATTGATATCCCTGAA
+GGAAACTGGTATTGCAATGACTGTAAAGCAGGCAAAAAGCCACACTACAGGGAGATTGTC
+TGGGTAAAAGTTGGACGATACAGGTGGTGGCCAGCTGAGATCTGCCATCCTCGAGCTGTT
+CCTTCCAACATTGATAAGATGAGACATGATGTGGGAGAGTTCCCAGTCCTCTTTTTTGGA
+TCTAATGACTATTTGTGGACTCACCAGGCCCGAGTCTTCCCTTACATGGAGGGTGACGTG
+AGCAGCAAGGATAAGATGGGCAAAGGAGTGGATGGGACATATAAAAAAGCTCTTCAGGAA
+GCTGCAGCAAGGTTTGAGGAATTAAAGGCCCAAAAAGAGCTAAGACAGCTGCAGGAAGAC
+CGAAAGAATGACAAGAAGCCACCACCTTATAAACATATAAAGGTAAACCGTCCTATTGGC
+AGGGTACAGATCTTCACTGCAGACTTATCTGAAATACCCCGTTGCAACTGTAAAGCTACT
+GATGAGAACCCCTGTGGGATAGACTCTGAATGCATCAACCGCATGCTGCTCTATGAGTGC
+CACCCCACAGTGTGTCCTGCCGGAGGGCGCTGTCAAAACCAGTGCTTTTCCAAGCGCCAA
+TATCCAGAGGTTGAAATTTTCCGCACATTACAGCGGGGTTGGGGTCTACGGACAAAAACA
+GATATTAAAAAGGGTGAATTTGTGAATGAGTATGTGGGTGAGCTTATAGATGAAGAAGAA
+TGCAGAGCTCGAATTCGCTATGCTCAAGAACATGATATCACTAATTTCTATATGCTCACC
+CTAGACAAAGACCGAATCATTGATGCTGGTCCCAAAGGAAACTATGCTCGGTTCATGAAT
+CATTGCTGCCAGCCCAACTGTGAAACACAGAAGTGGTCTGTGAATGGAGATACCCGTGTA
+GGCCTTTTTGCACTAAGTGACATTAAAGCAGGCACTGAACTTACCTTCAACTACAACCTA
+GAATGTCTTGGGAATGGAAAGACTGTTTGCAAATGTGGAGCCCCGAACTGCAGTGGCTTC
+TTGGGTGTAAGGCCAAAGAATCAACCCATTGCCACGGAAGAAAAGTCAAAGAAATTCAAG
+AAGAAGCAACAGGGAAAGCGCAGGACCCAGGGTGAAATCACAAAGGAGCGAGAAGATGAG
+TGTTTTAGTTGTGGGGATGCTGGCCAGCTCGTCTCCTGCAAGAAACCAGGCTGCCCAAAA
+GTTTACCACGCAGACTGTCTCAATCTGACCAAGCGACCAGCAGGGAAATGGGAATGTCCG
+TGGCATCAGTGTGACATCTGCGGGAAGGAAGCAGCCTCCTTCTGTGAGATGTGCCCCAGC
+TCCTTTTGTAAGCAGCATCGAGAAGGGATGCTTTTCATTTCCAAACTGGATGGGCGTCTG
+TCTTGTACTGAGCATGACCCCTGTGGGCCCAATCCTCTGGAACCTGGGGAGATCCGTGAG
+TATGTGCCTCCCCCAGTACCGCTGCCTCCAGGGCCAAGCACTCACCTGGCAGAGCAATCA
+ACAGGAATGGCTGCTCAGGCACCCAAAATGTCAGATAAACCTCCTGCTGACACCAACCAG
+ATGCTGTCGCTCTCCAAAAAAGCTCTGGCAGGGACTTGTCAGAGGCCATTGCTACCTGAA
+AGACCTCTTGAGAGAACTGACTCCAGGCCCCAGCCTTTAGATAAGGTCAGAGACCTCGCT
+GGGTCAGGGACCAAATCCCAATCCTTGGTTTCCAGCCAGAGGCCACTGGACAGGCCACCA
+GCAGTGGCAGGACCAAGACCCCAGCTAAGCGACAAACCCTCTCCAGTGACCAGCCCAAGC
+TCCTCACCCTCAGTCAGGTCCCAACCACTGGAAAGACCTCTGGGGACGGCTGACCCAAGG
+CTGGATAAATCCATAGGTGCTGCCAGCCCAAGGCCCCAGTCACTGGAGAAAACCTCAGTT
+CCCACTGGCCTGAGACTTCCGCCGCCAGACAGACTGCTCATTACTAGCAGTCCCAAACCC
+CAGACTTCAGACAGGCCTACTGACAAACCCCATGCCTCTTTGTCCCAGAGACTCCCACCT
+CCTGAGAAAGTACTATCAGCTGTGGTCCAGACCCTTGTAGCTAAAGAAAAAGCACTGAGG
+CCTGTGGACCAGAATACTCAGTCAAAAAATAGAGCTGCTTTGGTGATGGATCTCATAGAC
+CTAACTCCTCGCCAGAAGGAGCGGGCAGCTTCACCTCATCAGGTCACACCACAGGCTGAT
+GAGAAGATGCCAGTGTTGGAGTCAAGTTCATGGCCTGCCAGCAAAGGTCTGGGGCATATG
+CCGAGAGCTGTTGAGAAAGGCTGTGTGTCAGATCCTCTTCAGACATCTGGGAAAGCAGCA
+GCCCCTTCAGAGGACCCCTGGCAAGCTGTTAAATCACTCACCCAGGCCAGACTTCTTTCT
+CAGCCTCCTGCCAAGGCCTTTTTATATGAGCCAACAACTCAGGCCTCAGGAAGAGCTTCT
+GCAGGGGCTGAGCAGACCCCAGGGCCTCTTAGCCAATCCCCGGGCCTGGTGAAGCAGGCG
+AAGCAGATGGTCGGAGGCCAGCAACTACCTGCACTTGCCGCCAAGAGTGGGCAATCTTTT
+AGGTCTCTCGGGAAGGCCCCAGCCTCCCTCCCCACTGAAGAAAAGAAGTTGGTAACCACA
+GAGCAAAGTCCCTGGGCCCTGGGAAAAGCCTCATCACGGGCAGGGCTCTGGCCCATAGTG
+GCTGGACAGACACTGGCACAGTCTTGCTGGTCTGCTGGGAGCACACAGACATTGGCACAG
+ACTTGCTGGTCTCTTGGAAGAGGGCAAGACCCCAAACCAGAGCAAAATACACTTCCAGCT
+CTTAACCAGGCTCCTTCCAGTCACAAGTGTGCAGAATCAGAACAGAAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2696</residue_number>
+    <molecular_weight>296649.335</molecular_weight>
+    <theoretical_pi>8.036</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PHD</name>
+        <pfam_id>PF00628</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PWWP</name>
+        <pfam_id>PF00855</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SET</name>
+        <pfam_id>PF00856</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Histone-lysine N-methyltransferase, H3 lysine-36 and H4 lysine-20 specific
+MDQTCELPRRNCLLPFSNPVNLDAPEDKDSPFGNGQSNFSEPLNGCTMQLSTVSGTSQNA
+YGQDSPSCYIPLRRLQDLASMINVEYLNGSADGSESFQDPEKSDSRAQTPIVCTSLSPGG
+PTALAMKQEPSCNNSPELQVKVTKTIKNGFLHFENFTCVDDADVDSEMDPEQPVTEDESI
+EEIFEETQTNATCNYETKSENGVKVAMGSEQDSTPESRHGAVKSPFLPLAPQTETQKNKQ
+RNEVDGSNEKAALLPAPFSLGDTNITIEEQLNSINLSFQDDPDSSTSTLGNMLELPGTSS
+SSTSQELPFCQPKKKSTPLKYEVGDLIWAKFKRRPWWPCRICSDPLINTHSKMKVSNRRP
+YRQYYVEAFGDPSERAWVAGKAIVMFEGRHQFEELPVLRRRGKQKEKGYRHKVPQKILSK
+WEASVGLAEQYDVPKGSKNRKCIPGSIKLDSEEDMPFEDCTNDPESEHDLLLNGCLKSLA
+FDSEHSADEKEKPCAKSRARKSSDNPKRTSVKKGHIQFEAHKDERRGKIPENLGLNFISG
+DISDTQASNELSRIANSLTGSNTAPGSFLFSSCGKNTAKKEFETSNGDSLLGLPEGALIS
+KCSREKNKPQRSLVCGSKVKLCYIGAGDEEKRSDSISICTTSDDGSSDLDPIEHSSESDN
+SVLEIPDAFDRTENMLSMQKNEKIKYSRFAATNTRVKAKQKPLISNSHTDHLMGCTKSAE
+PGTETSQVNLSDLKASTLVHKPQSDFTNDALSPKFNLSSSISSENSLIKGGAANQALLHS
+KSKQPKFRSIKCKHKENPVMAEPPVINEECSLKCCSSDTKGSPLASISKSGKVDGLKLLN
+NMHEKTRDSSDIETAVVKHVLSELKELSYRSLGEDVSDSGTSKPSKPLLFSSASSQNHIP
+IEPDYKFSTLLMMLKDMHDSKTKEQRLMTAQNLVSYRSPGRGDCSTNSPVGVSKVLVSGG
+STHNSEKKGDGTQNSANPSPSGGDSALSGELSASLPGLLSDKRDLPASGKSRSDCVTRRN
+CGRSKPSSKLRDAFSAQMVKNTVNRKALKTERKRKLNQLPSVTLDAVLQGDRERGGSLRG
+GAEDPSKEDPLQIMGHLTSEDGDHFSDVHFDSKVKQSDPGKISEKGLSFENGKGPELDSV
+MNSENDELNGVNQVVPKKRWQRLNQRRTKPRKRMNRFKEKENSECAFRVLLPSDPVQEGR
+DEFPEHRTPSASILEEPLTEQNHADCLDSAGPRLNVCDKSSASIGDMEKEPGIPSLTPQA
+ELPEPAVRSEKKRLRKPSKWLLEYTEEYDQIFAPKKKQKKVQEQVHKVSSRCEEESLLAR
+GRSSAQNKQVDENSLISTKEEPPVLEREAPFLEGPLAQSELGGGHAELPQLTLSVPVAPE
+VSPRPALESEELLVKTPGNYESKRQRKPTKKLLESNDLDPGFMPKKGDLGLSKKCYEAGH
+LENGITESCATSYSKDFGGGTTKIFDKPRKRKRQRHAAAKMQCKKVKNDDSSKEIPGSEG
+ELMPHRTATSPKETVEEGVEHDPGMPASKKMQGERGGGAALKENVCQNCEKLGELLLCEA
+QCCGAFHLECLGLTEMPRGKFICNECRTGIHTCFVCKQSGEDVKRCLLPLCGKFYHEECV
+QKYPPTVMQNKGFRCSLHICITCHAANPANVSASKGRLMRCVRCPVAYHANDFCLAAGSK
+ILASNSIICPNHFTPRRGCRNHEHVNVSWCFVCSEGGSLLCCDSCPAAFHRECLNIDIPE
+GNWYCNDCKAGKKPHYREIVWVKVGRYRWWPAEICHPRAVPSNIDKMRHDVGEFPVLFFG
+SNDYLWTHQARVFPYMEGDVSSKDKMGKGVDGTYKKALQEAAARFEELKAQKELRQLQED
+RKNDKKPPPYKHIKVNRPIGRVQIFTADLSEIPRCNCKATDENPCGIDSECINRMLLYEC
+HPTVCPAGGRCQNQCFSKRQYPEVEIFRTLQRGWGLRTKTDIKKGEFVNEYVGELIDEEE
+CRARIRYAQEHDITNFYMLTLDKDRIIDAGPKGNYARFMNHCCQPNCETQKWSVNGDTRV
+GLFALSDIKAGTELTFNYNLECLGNGKTVCKCGAPNCSGFLGVRPKNQPIATEEKSKKFK
+KKQQGKRRTQGEITKEREDECFSCGDAGQLVSCKKPGCPKVYHADCLNLTKRPAGKWECP
+WHQCDICGKEAASFCEMCPSSFCKQHREGMLFISKLDGRLSCTEHDPCGPNPLEPGEIRE
+YVPPPVPLPPGPSTHLAEQSTGMAAQAPKMSDKPPADTNQMLSLSKKALAGTCQRPLLPE
+RPLERTDSRPQPLDKVRDLAGSGTKSQSLVSSQRPLDRPPAVAGPRPQLSDKPSPVTSPS
+SSPSVRSQPLERPLGTADPRLDKSIGAASPRPQSLEKTSVPTGLRLPPPDRLLITSSPKP
+QTSDRPTDKPHASLSQRLPPPEKVLSAVVQTLVAKEKALRPVDQNTQSKNRAALVMDLID
+LTPRQKERAASPHQVTPQADEKMPVLESSSWPASKGLGHMPRAVEKGCVSDPLQTSGKAA
+APSEDPWQAVKSLTQARLLSQPPAKAFLYEPTTQASGRASAGAEQTPGPLSQSPGLVKQA
+KQMVGGQQLPALAAKSGQSFRSLGKAPASLPTEEKKLVTTEQSPWALGKASSRAGLWPIV
+AGQTLAQSCWSAGSTQTLAQTCWSLGRGQDPKPEQNTLPALNQAPSSHKCAESEQK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>19923586</genbank_protein_id>
+  <uniprot_id>Q96L73</uniprot_id>
+  <uniprot_name>NSD1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3OOI</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_022455.4</genbank_gene_id>
+  <genecard_id>NSD1</genecard_id>
+  <geneatlas_id>NSD1</geneatlas_id>
+  <hgnc_id>HGNC:14234</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Wang X, Yeh S, Wu G, Hsu CL, Wang L, Chiang T, Yang Y, Guo Y, Chang C: Identification and characterization of a novel androgen receptor coregulator ARA267-alpha in prostate cancer cells. J Biol Chem. 2001 Nov 2;276(44):40417-23. Epub 2001 Aug 16.</reference_text>
+      <pubmed_id>11509567</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kurotaki N, Harada N, Yoshiura K, Sugano S, Niikawa N, Matsumoto N: Molecular characterization of NSD1, a human homologue of the mouse Nsd1 gene. Gene. 2001 Nov 28;279(2):197-204.</reference_text>
+      <pubmed_id>11733144</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jaju RJ, Fidler C, Haas OA, Strickson AJ, Watkins F, Clark K, Cross NC, Cheng JF, Aplan PD, Kearney L, Boultwood J, Wainscoat JS: A novel gene, NSD1, is fused to NUP98 in the t(5;11)(q35;p15.5) in de novo childhood acute myeloid leukemia. Blood. 2001 Aug 15;98(4):1264-7.</reference_text>
+      <pubmed_id>11493482</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kurotaki N, Imaizumi K, Harada N, Masuno M, Kondoh T, Nagai T, Ohashi H, Naritomi K, Tsukahara M, Makita Y, Sugimoto T, Sonoda T, Hasegawa T, Chinen Y, Tomita Ha HA, Kinoshita A, Mizuguchi T, Yoshiura Ki K, Ohta T, Kishino T, Fukushima Y, Niikawa N, Matsumoto N: Haploinsufficiency of NSD1 causes Sotos syndrome.  Nat Genet. 2002 Apr;30(4):365-6. Epub 2002 Mar 18.</reference_text>
+      <pubmed_id>11896389</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baujat G, Rio M, Rossignol S, Sanlaville D, Lyonnet S, Le Merrer M, Munnich A, Gicquel C, Cormier-Daire V, Colleaux L: Paradoxical NSD1 mutations in Beckwith-Wiedemann syndrome and 11p15 anomalies in Sotos syndrome. Am J Hum Genet. 2004 Apr;74(4):715-20. Epub 2004 Mar 1.</reference_text>
+      <pubmed_id>14997421</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>La Starza R, Gorello P, Rosati R, Riezzo A, Veronese A, Ferrazzi E, Martelli MF, Negrini M, Mecucci C: Cryptic insertion producing two NUP98/NSD1 chimeric transcripts in adult refractory anemia with an excess of blasts. Genes Chromosomes Cancer. 2004 Dec;41(4):395-9.</reference_text>
+      <pubmed_id>15382262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giorgianni F, Zhao Y, Desiderio DM, Beranova-Giorgianni S: Toward a global characterization of the phosphoproteome in prostate cancer cells: identification of phosphoproteins in the LNCaP cell line. Electrophoresis. 2007 Jun;28(12):2027-34.</reference_text>
+      <pubmed_id>17487921</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Douglas J, Hanks S, Temple IK, Davies S, Murray A, Upadhyaya M, Tomkins S, Hughes HE, Cole TR, Rahman N: NSD1 mutations are the major cause of Sotos syndrome and occur in some cases of Weaver syndrome but are rare in other overgrowth phenotypes. Am J Hum Genet. 2003 Jan;72(1):132-43. Epub 2002 Dec 2.</reference_text>
+      <pubmed_id>12464997</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rio M, Clech L, Amiel J, Faivre L, Lyonnet S, Le Merrer M, Odent S, Lacombe D, Edery P, Brauner R, Raoul O, Gosset P, Prieur M, Vekemans M, Munnich A, Colleaux L, Cormier-Daire V: Spectrum of NSD1 mutations in Sotos and Weaver syndromes.  J Med Genet. 2003 Jun;40(6):436-40.</reference_text>
+      <pubmed_id>12807965</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ley TJ, Mardis ER, Ding L, Fulton B, McLellan MD, Chen K, Dooling D, Dunford-Shore BH, McGrath S, Hickenbotham M, Cook L, Abbott R, Larson DE, Koboldt DC, Pohl C, Smith S, Hawkins A, Abbott S, Locke D, Hillier LW, Miner T, Fulton L, Magrini V, Wylie T, Glasscock J, Conyers J, Sander N, Shi X, Osborne JR, Minx P, Gordon D, Chinwalla A, Zhao Y, Ries RE, Payton JE, Westervelt P, Tomasson MH, Watson M, Baty J, Ivanovich J, Heath S, Shannon WD, Nagarajan R, Walter MJ, Link DC, Graubert TA, DiPersio JF, Wilson RK: DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome.  Nature. 2008 Nov 6;456(7218):66-72.</reference_text>
+      <pubmed_id>18987736</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

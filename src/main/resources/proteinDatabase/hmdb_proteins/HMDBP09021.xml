@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:18:27 -0700</creation_date>
+  <update_date>2013-05-27 11:25:37 -0600</update_date>
+  <accession>HMDBP09021</accession>
+  <secondary_accessions>
+    <accession>14763</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>KMT2E</synonym>
+    <synonym>Lysine N-methyltransferase 2E</synonym>
+    <synonym>Myeloid/lymphoid or mixed-lineage leukemia protein 5</synonym>
+  </synonyms>
+  <gene_name>MLL5</gene_name>
+  <general_function>Involved in zinc ion binding</general_function>
+  <specific_function>Histone methyltransferase that specifically mono- and dimethylates 'Lys-4' of histone H3 (H3K4me1 and H3K4me2). H3 'Lys-4' methylation represents a specific tag for epigenetic transcriptional activation. Key regulator of hematopoiesis involved in terminal myeloid differentiation and in the regulation of hematopoietic stem cell (HSCs) self-renewal by a mechanism that involves DNA methylation. Plays an essential role in retinoic-acid-induced granulopoiesis by acting as a coactivator of RAR-alpha (RARA) in target gene promoters. Also acts as an important cell cycle regulator, participating in cell cycle regulatory network machinery at multiple cell cycle stages. Required to suppress inappropriate expression of S-phase-promoting genes and maintain expression of determination genes in quiescent cells. Overexpression inhibits cell cycle progression, while knockdown induces cell cycle arrest at both the G1 and G2/M phases.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>MLL5-L complex</description>
+      <go_id>GO:0070688</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear speck</description>
+      <go_id>GO:0016607</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone methyltransferase activity (H3-K4 specific)</description>
+      <go_id>GO:0042800</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription coactivator activity</description>
+      <go_id>GO:0003713</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell cycle arrest</description>
+      <go_id>GO:0007050</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to retinoic acid</description>
+      <go_id>GO:0071300</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA methylation</description>
+      <go_id>GO:0006306</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>erythrocyte differentiation</description>
+      <go_id>GO:0030218</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neutrophil activation</description>
+      <go_id>GO:0042119</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neutrophil mediated immunity</description>
+      <go_id>GO:0002446</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of granulocyte differentiation</description>
+      <go_id>GO:0030854</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045893</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retinoic acid receptor signaling pathway</description>
+      <go_id>GO:0048384</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus speckle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>7</chromosome_location>
+    <locus>7q22.1</locus>
+    <gene_sequence>&gt;5577 bp
+ATGAGCATAGTGATCCCATTGGGGGTTGATACAGCAGAGACGTCATACTTGGAAATGGCT
+GCAGGTTCAGAACCAGAATCCGTAGAAGCTAGCCCTGTGGTAGTTGAGAAATCCAACAGT
+TATCCCCACCAGTTATATACCAGCAGCTCACATCATTCACACAGTTACATTGGTTTGCCC
+TATGCGGACCATAATTATGGTGCTCGTCCTCCTCCGACACCTCCGGCTTCCCCTCCTCCA
+TCAGTCCTTATTAGCAAAAATGAAGTAGGCATATTTACCACTCCTAATTTTGATGAAACT
+TCCAGTGCTACTACAATCAGCACATCTGAGGATGGAAGTTATGGTACTGATGTAACCAGG
+TGCATATGTGGTTTTACACATGATGATGGATACATGATCTGTTGTGACAAATGCAGCGTT
+TGGCAACATATTGACTGCATGGGGATTGATAGGCAGCATATTCCTGATACATATCTATGT
+GAACGTTGTCAGCCTAGGAATTTGGATAAAGAGAGGGCAGTGCTACTACAACGCCGGAAA
+AGGGAAAATATGTCAGATGGTGATACCAGTGCAACTGAGAGTGGTGATGAGGTTCCTGTG
+GAATTATATACTGCATTTCAGCATACTCCAACATCAATTACTTTAACTGCTTCAAGAGTT
+TCCAAAGTTAATGATAAAAGAAGGAAAAAAAGCGGGGAGAAAGAACAACACATTTCAAAA
+TGTAAAAAGGCATTTCGTGAAGGATCTAGGAAGTCATCAAGAGTTAAGGGTTCAGCTCCA
+GAGATTGATCCTTCATCTGATGGTTCAAATTTTGGATGGGAGACAAAGATCAAAGCATGG
+ATGGATCGATATGAAGAAGCAAATAACAACCAGTACAGTGAGGGTGTTCAGAGGGAGGCA
+CAAAGAATAGCTCTGAGATTAGGCAATGGAAATGACAAAAAAGAGATGAATAAATCCGAT
+TTGAATACCAACAATTTGCTCTTCAAACCTCCTGTAGAGAGCCATATACAAAAGAATAAG
+AAAATTCTTAAATCTGCAAAAGATTTGCCTCCTGATGCACTTATCATTGAATACAGAGGG
+AAGTTTATGCTGAGAGAACAGTTTGAAGCAAATGGGTATTTCTTTAAAAGACCATACCCT
+TTTGTGTTATTCTACTCTAAATTTCATGGGCTAGAAATGTGTGTTGATGCAAGGACTTTT
+GGGAATGAGGCTCGATTCATCAGGCGGTCTTGTACACCCAATGCAGAGGTGAGGCATGAA
+ATTCAAGATGGAACCATACATCTTTATATTTATTCTATACACAGTATTCCAAAGGGAACT
+GAAATTACTATTGCCTTTGATTTTGACTATGGAAATTGTAAGTACAAGGTGGACTGTGCA
+TGCCTCAAAGAAAACCCAGAGTGCCCTGTTCTAAAACGTAGTTCTGAATCCATGGAAAAT
+ATCAATAGTGGTTATGAGACCAGACGGAAAAAAGGAAAAAAAGACAAAGATATTTCAAAA
+GAAAAAGATACACAAAATCAGAATATTACTTTGGATTGTGAAGGAACGACCAACAAAATG
+AAGAGCCCAGAAACTAAACAAAGAAAGCTTTCTCCACTGAGACTATCAGTATCAAATAAT
+CAGGAACCAGATTTTATTGATGATATAGAAGAAAAAACTCCTATTAGTAATGAAGTAGAA
+ATGGAATCAGAGGAGCAGATTGCAGAAAGGAAAAGGAAGATGACAAGAGAAGAAAGAAAA
+ATGGAAGCAATTTTGCAAGCTTTTGCCAGACTTGAAAAGAGAGAGAAAAGAAGAGAACAA
+GCTTTGGAAAGGATCAGCACAGCCAAAACTGAAGTTAAAACTGAATGTAAAGATACACAG
+ATTGTCAGTGATGCTGAAGTTATTCAGGAACAAGCAAAAGAAGAAAATGCTAGCAAGCCA
+ACCCCTGCCAAAGTAAATAGAACTAAACAGAGAAAAAGTTTTTCTCGGAGTAGGACTCAC
+ATTGGACAGCAGCGTCGGAGACACAGAACTGTCAGCATGTGTTCAGATATCCAGCCATCT
+TCTCCTGATATAGAAGTTACTTCACAACAAAATGATATTGAAAATACTGTACTTACAATA
+GAACCAGAAACTGAAACTGCACTAGCAGAAATAATTACTGAAACTGAAGTTCCAGCACTT
+AATAAATGTCCTACCAAGTACCCCAAAACAAAGAAGCACTTGGTTAATGAATGGTTAAGT
+GAGAAGAATGAGAAGACAGGAAAACCTTCAGATGGCCTTTCAGAAAGGCCTCTACGCATA
+ACTACAGATCCTGAAGTGTTAGCTACACAACTCAATTCTTTACCAGGTCTCACTTACAGC
+CCCCATGTATACTCCACTCCTAAGCATTATATTAGATTTACTTCACCATTCCTTTCAGAA
+AAAAGGAGAAGAAAAGAACCTACTGAAAACATTTCTGGTTCATGCAAGAAGCGATGGTTG
+AAACAAGCTCTGGAAGAAGAAAATTCAGCAATTTTACATAGATTTAATTCACCCTGTCAA
+GAAAGATCCAGAAGTCCTGCAGTCAATGGTGAAAATAAAAGTCCACTACTATTAAATGAC
+AGCTGTTCCCTTCCAGATTTAACTACACCACTAAAAAAACGAAGATTTTATCAGTTGCTA
+GATTCGGTTTACTCAGAAACCTCCACACCTACTCCTTCCCCGTATGCTACACCAACTCAC
+ACCGATATTACTCCTATGGACCCATCTTTTGCCACGCCTCCACGGATAAAATCAGATGAT
+GAAACTTGTAGAAATGGTTATAAACCCATATATTCACCAGTTACCCCAGTAACTCCTGGT
+ACACCAGGAAATACCATGCACTTTGAGAATATTTCTTCCCCAGAAAGTTCTCCAGAAATA
+AAGAGACGCACTTATAGTCAAGAGGGATATGACAGATCTTCAACCATGTTAACATTGGGG
+CCTTTTAGAAATTCTAATTTAACTGAACTGGGTCTGCAAGAAATAAAGACTATTGGTTAT
+ACGAGCCCTAGGAGTAGGACTGAAGTCAACAGGCAGTGTCCTGGAGAAAAGGAACCTGTG
+TCAGACCTTCAGCTAGGACTCGATGCAGTTGAGCCAACTGCCCTACATAAAACCCTGGAA
+ACGCCTGCACATGACAGGGCTGAGCCCAACAGCCAACTGGACTCGACTCACTCTGGACGG
+GGCACAATGTATTCTTCCTGGGTAAAGAGCCCTGACAGAACAGGAGTTAACTTCTCAGTG
+AACTCCAACTTGAGGGACCTGACACCCTCGCATCAGTTGGAGGTTGGAGGAGGCTTCCGA
+ATAAGTGAGTCAAAGTGCCTGATGCAGGATGATACTAGAGGCATGTTTATGGAAACAACT
+GTGTTTTGTACTTCCGAAGATGGGCTTGTATCTGGTTTCGGACGGACTGTTAATGACAAT
+TTGATCGACGGGAATTGCACACCCCAGAATCCACCACAAAAGAAAAAGGTTTCTCTATTA
+GAATACCGTAAGAGACAACGTGAAGCTAGGAAAAGTGGCTCTAAGACAGAGAACTTTCCA
+CTCATTAGTGTATCACCCCATGCAAGTGGAAGCTTGAGCAACAATGGTGATGGCTGTGCC
+AGCAGTAATGACAATGGGGAGCAGGTGGACCACACTGCTAGCCTACCTTTACCAACACCA
+GCTACAGTTTATAATGCCACTTCTGAAGAAACTAGCAATAACTGCCCTGTTAAGGATGCT
+ACTGCTAGTGAGAAGAATGAACCAGAAGTTCAATGGACTGCCTCAACTTCAGTGGAACAA
+GTCAGAGAAAGGAGTTATCAGAGAGCTTTACTTCTCAGTGATCACCGAAAAGATAAAGAT
+AGTGGGGGAGAATCACCATGTGTCTCATGTTCACCGAGTCATGTTCAGTCTTCACCTTCA
+TCTCATTCAAATCACATACCCCAGTTGCAAGCTAAGGGCCCAGTCCCTTCTTTCAGTGAA
+CTTATGGAAGACCCTGATCCTGAAAATCCAGAACCCACAACTACGAATGAATGTCCATCC
+CCAGATACTTCTCAAAATACTTGTAAAAGTCCTCCAAAAATGAGCAAGCCTGGTTCACCT
+GGATCTGTAATTCCTGCTCAAGCACACGGGAAAATATTCACAAAACCAGATCCCCAATGG
+GACTCCACAGTTAGTGCATCCGAAGCTGAAAATGGTGTTCACCTAAAAACAGAGCTCCAA
+CAAAAACAGCTATCAAATAACAACCAAGCACTTTCAAAGAATCATCCTCCTCAGACACAC
+GTTCGTAATTCATCTGAGCAACTTTCACAAAAGCTGCCTTCTGTGCCAACAAAGTTGCAC
+TGTCCTCCATCACCTCACCTAGAAAATCCTCCAAAGTCATCCACGCCTCACACACCTGTA
+CAGCATGGTTATCTTTCACCAAAGCCTCCTTCACAGCAGTTAGGATCTCCCTACAGGCCT
+CATCATTCACAGTCACCTCAAGTTGGAACACCTCAGCGAGAGCCTCAAAGAAACTTTTAT
+CCAGCAGCACAGAACCTTCCAGCCAATACTCAGCAGGCAACTTCTGGAACATTATTTACA
+CAGACACCCTCAGGACAATCTTCAGCAACATACAGTCAGTTTAACCAACAAAGTCTGAAC
+AGCACGGCACCACCCCCTCCACCTCCTCCACCTCCTTCTTCGTCTTACTATCAAAACCAG
+CAGCCCTCTGCAAACTTTCAGAATTATAATCAGCTCAAAGGTAGTCTTTCTCAACAAACT
+GTGTTTACATCAGGACCAAATCAAGCACTTCCTGGCACCACAAGCCAGCAAACAGTTCCA
+GGACACCACGTGACTCCAGGGCATTTTTTGCCCTCTCAGAACCCTACCATTCACCATCAA
+ACTGCTGCTGCCGTAGTCCCCCCTCCTCCTCCACCACCACCTGCTCCAGGACCGCACCTT
+GTACAACAGCCGAATTCCCATCAGCAACACTCTGTAGCACATGTAGTAGGGCCTGTTCAT
+GCGGTCACCCCTGGGTCGCATATTCATTCTCAAACTGCTGGACACCACTTACCCCCACCC
+CCACCCCCTCCTGGTCCTGCCCCTCATCACCATCCACCACCCCATCCATCCACAGGACTC
+CAAGGTCTACAAGCACAACACCAGCATGTTGTAAATTCAGCACCCCCACCACCCCCTCCG
+CCGCCACCTTCCAGTGTTTTGGCTTCTGGGCATCATACCACATCAGCTCAAGCCTTACAC
+CACCCACCTCATCAAGGACCTCCACTTTTTCCTTCGAGTGCTCATCCAACTGTACCACCG
+TATCCCTCACAAGCTACACATCATACCACTTTGGGACCGGGACCCCAGCACCAGCCTTCT
+GGAACAGGGCCACATTGTCCATTACCTGTCACAGGTCCTCATCTCCAGCCCCAAGGACCA
+AACAGTATTCCAACACCTACTGCTTCAGGGTTCTGTCCTCATCCTGGCTCTGTGGCCCTG
+CCACATGGGGTTCAAGGACCTCAGCAGGCATCTCCAGTGCCTGGACAGATTCCAATTCAC
+AGAGCACAGGTGCCACCAACATTTCAAAACAATTACCATGGGTCAGGGTGGCATTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1858</residue_number>
+    <molecular_weight>204963.565</molecular_weight>
+    <theoretical_pi>7.601</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PHD</name>
+        <pfam_id>PF00628</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SET</name>
+        <pfam_id>PF00856</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Histone-lysine N-methyltransferase MLL5
+MSIVIPLGVDTAETSYLEMAAGSEPESVEASPVVVEKSNSYPHQLYTSSSHHSHSYIGLP
+YADHNYGARPPPTPPASPPPSVLISKNEVGIFTTPNFDETSSATTISTSEDGSYGTDVTR
+CICGFTHDDGYMICCDKCSVWQHIDCMGIDRQHIPDTYLCERCQPRNLDKERAVLLQRRK
+RENMSDGDTSATESGDEVPVELYTAFQHTPTSITLTASRVSKVNDKRRKKSGEKEQHISK
+CKKAFREGSRKSSRVKGSAPEIDPSSDGSNFGWETKIKAWMDRYEEANNNQYSEGVQREA
+QRIALRLGNGNDKKEMNKSDLNTNNLLFKPPVESHIQKNKKILKSAKDLPPDALIIEYRG
+KFMLREQFEANGYFFKRPYPFVLFYSKFHGLEMCVDARTFGNEARFIRRSCTPNAEVRHE
+IQDGTIHLYIYSIHSIPKGTEITIAFDFDYGNCKYKVDCACLKENPECPVLKRSSESMEN
+INSGYETRRKKGKKDKDISKEKDTQNQNITLDCEGTTNKMKSPETKQRKLSPLRLSVSNN
+QEPDFIDDIEEKTPISNEVEMESEEQIAERKRKMTREERKMEAILQAFARLEKREKRREQ
+ALERISTAKTEVKTECKDTQIVSDAEVIQEQAKEENASKPTPAKVNRTKQRKSFSRSRTH
+IGQQRRRHRTVSMCSDIQPSSPDIEVTSQQNDIENTVLTIEPETETALAEIITETEVPAL
+NKCPTKYPKTKKHLVNEWLSEKNEKTGKPSDGLSERPLRITTDPEVLATQLNSLPGLTYS
+PHVYSTPKHYIRFTSPFLSEKRRRKEPTENISGSCKKRWLKQALEEENSAILHRFNSPCQ
+ERSRSPAVNGENKSPLLLNDSCSLPDLTTPLKKRRFYQLLDSVYSETSTPTPSPYATPTH
+TDITPMDPSFATPPRIKSDDETCRNGYKPIYSPVTPVTPGTPGNTMHFENISSPESSPEI
+KRRTYSQEGYDRSSTMLTLGPFRNSNLTELGLQEIKTIGYTSPRSRTEVNRQCPGEKEPV
+SDLQLGLDAVEPTALHKTLETPAHDRAEPNSQLDSTHSGRGTMYSSWVKSPDRTGVNFSV
+NSNLRDLTPSHQLEVGGGFRISESKCLMQDDTRGMFMETTVFCTSEDGLVSGFGRTVNDN
+LIDGNCTPQNPPQKKKVSLLEYRKRQREARKSGSKTENFPLISVSPHASGSLSNNGDGCA
+SSNDNGEQVDHTASLPLPTPATVYNATSEETSNNCPVKDATASEKNEPEVQWTASTSVEQ
+VRERSYQRALLLSDHRKDKDSGGESPCVSCSPSHVQSSPSSHSNHIPQLQAKGPVPSFSE
+LMEDPDPENPEPTTTNECPSPDTSQNTCKSPPKMSKPGSPGSVIPAQAHGKIFTKPDPQW
+DSTVSASEAENGVHLKTELQQKQLSNNNQALSKNHPPQTHVRNSSEQLSQKLPSVPTKLH
+CPPSPHLENPPKSSTPHTPVQHGYLSPKPPSQQLGSPYRPHHSQSPQVGTPQREPQRNFY
+PAAQNLPANTQQATSGTLFTQTPSGQSSATYSQFNQQSLNSTAPPPPPPPPPSSSYYQNQ
+QPSANFQNYNQLKGSLSQQTVFTSGPNQALPGTTSQQTVPGHHVTPGHFLPSQNPTIHHQ
+TAAAVVPPPPPPPPAPGPHLVQQPNSHQQHSVAHVVGPVHAVTPGSHIHSQTAGHHLPPP
+PPPPGPAPHHHPPPHPSTGLQGLQAQHQHVVNSAPPPPPPPPPSSVLASGHHTTSAQALH
+HPPHQGPPLFPSSAHPTVPPYPSQATHHTTLGPGPQHQPSGTGPHCPLPVTGPHLQPQGP
+NSIPTPTASGFCPHPGSVALPHGVQGPQQASPVPGQIPIHRAQVPPTFQNNYHGSGWH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>91199543</genbank_protein_id>
+  <uniprot_id>Q8IZD2</uniprot_id>
+  <uniprot_name>MLL5_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2LV9</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_018682.3</genbank_gene_id>
+  <genecard_id>MLL5</genecard_id>
+  <geneatlas_id>MLL5</geneatlas_id>
+  <hgnc_id>HGNC:18541</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Emerling BM, Bonifas J, Kratz CP, Donovan S, Taylor BR, Green ED, Le Beau MM, Shannon KM: MLL5, a homolog of Drosophila trithorax located within a segment of chromosome band 7q22 implicated in myeloid leukemia. Oncogene. 2002 Jul 18;21(31):4849-54.</reference_text>
+      <pubmed_id>12101424</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Fulton RS, Fulton LA, Graves TA, Pepin KH, Wagner-McPherson C, Layman D, Maas J, Jaeger S, Walker R, Wylie K, Sekhon M, Becker MC, O'Laughlin MD, Schaller ME, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Cordes M, Du H, Sun H, Edwards J, Bradshaw-Cordum H, Ali J, Andrews S, Isak A, Vanbrunt A, Nguyen C, Du F, Lamar B, Courtney L, Kalicki J, Ozersky P, Bielicki L, Scott K, Holmes A, Harkins R, Harris A, Strong CM, Hou S, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Leonard S, Rohlfing T, Rock SM, Tin-Wollam AM, Abbott A, Minx P, Maupin R, Strowmatt C, Latreille P, Miller N, Johnson D, Murray J, Woessner JP, Wendl MC, Yang SP, Schultz BR, Wallis JW, Spieth J, Bieri TA, Nelson JO, Berkowicz N, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Bedell JA, Mardis ER, Clifton SW, Chissoe SL, Marra MA, Raymond C, Haugen E, Gillett W, Zhou Y, James R, Phelps K, Iadanoto S, Bubb K, Simms E, Levy R, Clendenning J, Kaul R, Kent WJ, Furey TS, Baertsch RA, Brent MR, Keibler E, Flicek P, Bork P, Suyama M, Bailey JA, Portnoy ME, Torrents D, Chinwalla AT, Gish WR, Eddy SR, McPherson JD, Olson MV, Eichler EE, Green ED, Waterston RH, Wilson RK: The DNA sequence of human chromosome 7.  Nature. 2003 Jul 10;424(6945):157-64.</reference_text>
+      <pubmed_id>12853948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deng LW, Chiu I, Strominger JL: MLL 5 protein forms intranuclear foci, and overexpression inhibits cell cycle progression. Proc Natl Acad Sci U S A. 2004 Jan 20;101(3):757-62. Epub 2004 Jan 12.</reference_text>
+      <pubmed_id>14718661</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cheng F, Liu J, Zhou SH, Wang XN, Chew JF, Deng LW: RNA interference against mixed lineage leukemia 5 resulted in cell cycle arrest. Int J Biochem Cell Biol. 2008;40(11):2472-81. Epub 2008 May 15.</reference_text>
+      <pubmed_id>18573682</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujiki R, Chikanishi T, Hashiba W, Ito H, Takada I, Roeder RG, Kitagawa H, Kato S: GlcNAcylation of a histone methyltransferase in retinoic-acid-induced granulopoiesis. Nature. 2009 May 21;459(7245):455-9. Epub 2009 Apr 19.</reference_text>
+      <pubmed_id>19377461</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

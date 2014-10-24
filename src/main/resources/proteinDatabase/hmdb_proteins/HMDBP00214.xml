@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:22 -0700</creation_date>
+  <update_date>2013-05-27 11:15:57 -0600</update_date>
+  <accession>HMDBP00214</accession>
+  <secondary_accessions>
+    <accession>5446</accession>
+    <accession>HMDBP04859</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>D-fructose-6-phosphate amidotransferase 2</synonym>
+    <synonym>GFAT 2</synonym>
+    <synonym>GFAT2</synonym>
+    <synonym>Glutamine:fructose 6 phosphate amidotransferase 2</synonym>
+    <synonym>Hexosephosphate aminotransferase 2</synonym>
+    <synonym>Glutamine:fructose-6-phosphate amidotransferase 2</synonym>
+  </synonyms>
+  <gene_name>GFPT2</gene_name>
+  <general_function>Involved in metabolic process</general_function>
+  <specific_function>Controls the flux of glucose into the hexosamine pathway. Most likely involved in regulating the availability of precursors for N- and O-linked glycosylation of proteins.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>UDP-N-acetyl-alpha-D-glucosamine biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Alanine, aspartate and glutamate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00250</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Amino sugar and nucleotide sugar metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00520</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00641</accession>
+      <name>L-Glutamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01254</accession>
+      <name>Glucosamine 6-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00124</accession>
+      <name>Fructose 6-phosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>carbohydrate binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sugar binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring nitrogenous groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transaminase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glutamine-fructose-6-phosphate transaminase (isomerizing) activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carbohydrate binding</description>
+      <go_id>GO:0030246</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamine-fructose-6-phosphate transaminase (isomerizing) activity</description>
+      <go_id>GO:0004360</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate biosynthetic process</description>
+      <go_id>GO:0016051</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dolichol-linked oligosaccharide biosynthetic process</description>
+      <go_id>GO:0006488</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>energy reserve metabolic process</description>
+      <go_id>GO:0006112</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fructose 6-phosphate metabolic process</description>
+      <go_id>GO:0006002</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamine metabolic process</description>
+      <go_id>GO:0006541</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-translational protein modification</description>
+      <go_id>GO:0043687</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein N-linked glycosylation via asparagine</description>
+      <go_id>GO:0018279</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>UDP-N-acetylglucosamine biosynthetic process</description>
+      <go_id>GO:0006048</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q34-q35</locus>
+    <gene_sequence>&gt;2049 bp
+ATGTGCGGAATCTTTGCCTACATGAACTACAGAGTCCCCCGGACGAGGAAGGAGATCTTC
+GAAACCCTCATCAAGGGCCTGCAGCGGCTGGAGTACAGAGGCTACGACTCGGCAGGTGTG
+GCGATCGATGGGAATAATCACGAAGTCAAAGAAAGACACATTCAGCTGGTCAAGAAAAGG
+GGGAAAGTCAAGGCTCTCGATGAAGAACTTTACAAACAAGACAGCATGGACTTAAAAGTG
+GAGTTTGAGACACACTTCGGCATTGCCCACACGCGCTGGGCCACCCACGGGGTCCCCAGT
+GCTGTCAACAGCCACCCTCAGCGCTCAGACAAAGGCAACGAATTTGTTGTCATCCACAAT
+GGGATCATCACAAATTACAAAGATCTGAGGAAATTTCTGGAAAGCAAAGGCTACGAGTTT
+GAGTCAGAAACAGATACAGAGACCATCGCCAAGCTGATTAAATATGTGTTCGACAACAGA
+GAAACTGAGGACATTACGTTTTCAACGTTGGTCGAGAGAGTCATTCAGCAGTTGGAAGGT
+GCATTCGCGCTGGTTTTCAAGAGTGTCCACTACCCAGGAGAAGCCGTTGCCACACGGAGA
+GGCAGCCCCCTGCTCATCGGAGTCCGGAGCAAATACAAGCTCTCCACAGAACAGATCCCT
+ATCTTATACAGGACGTGCACTCTGGAGAATGTGAAGAATATCTGTAAGACACGGATGAAG
+AGGCTGGACAGCTCCGCCTGCCTGCATGCTGTGGGCGACAAGGCCGTGGAATTCTTCTTT
+GCTTCTGATGCAAGCGCTATCATAGAGCACACCAACCGGGTCATCTTCCTGGAGGACGAT
+GACATCGCCGCAGTGGCTGATGGGAAACTCTCCATTCACCGGGTCAAGCGCTCGGCCAGT
+GATGACCCATCTCGAGCCATCCAGACCTTGCAGATGGAACTGCAGCAAATCATGAAAGGT
+AACTTCAGTGCGTTTATGCAGAAGGAGATCTTCGAACAGCCAGAATCAGTTTTCAATACT
+ATGAGAGGTCGGGTGAATTTTGAAACCAACACAGTGCTCCTGGGTGGCTTGAAGGACCAC
+TTGAAGGAGATTCGACGATGCCGACGGCTCATCGTGATTGGCTGTGGAACCAGCTACCAC
+GCTGCCGTGGCTACGCGGCAAGTTTTGGAGGAACTGACTGAGCTTCCTGTGATGGTTGAA
+CTTGCTAGTGATTTTCTGGACAGGAACACACCTGTGTTCAGGGATGACGTTTGCTTTTTC
+ATCAGCCAGTCAGGCGAGACCGCGGACACCCTCCTGGCGCTGCGCTACTGTAAGGACCGC
+GGCGCTCTCACCGTGGGCGTCACCAACACCGTGGGCAGCTCCATCTCTCGCGAGACCGAC
+TGCGGCGTCCACATCAACGCAGGGCCGGAGATCGGCGTGGCCAGCACCAAGGCTTATACC
+AGTCAGTTCATCTCTCTGGTGATGTTTGGTTTGATGATGTCTGAAGACCGAATTTCACTA
+CAAAACAGGAGGCAAGAGATCATCCGTGGCTTGAGATCTTTACCTGAGCTGATCAAGGAA
+GTGCTGTCTCTGGAGGAGAAGATCCACGACTTGGCCCTGGAGCTCTACACGCAGAGATCG
+CTGCTGGTGATGGGGCGGGGCTACAACTATGCCACCTGCCTGGAAGGAGCCCTGAAAATT
+AAAGAGATAACCTACATGCACTCAGAAGGCATCCTGGCTGGGGAGCTGAAGCACGGGCCC
+CTGGCACTGATTGACAAGCAGATGCCCGTCATCATGGTCATTATGAAGGATCCTTGCTTC
+GCCAAATGCCAGAACGCCCTGCAGCAAGTCACGGCCCGCCAGGGTCGCCCCATTATACTG
+TGCTCCAAGGACGATACTGAAAGTTCCAAGTTTGCGTATAAGACAATTGAGCTGCCCCAC
+ACTGTGGACTGCCTCCAGGGCATCCTGAGCGTGATTCCGCTGCAGCTGCTGTCCTTCCAC
+CTGGCTGTTCTCCGAGGATATGACGTTGACTTCCCCAGAAATCTGGCCAAGTCTGTAACT
+GTGGAATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>682</residue_number>
+    <molecular_weight>76929.885</molecular_weight>
+    <theoretical_pi>7.377</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GATase_2</name>
+        <pfam_id>PF00310</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SIS</name>
+        <pfam_id>PF01380</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] 2
+MCGIFAYMNYRVPRTRKEIFETLIKGLQRLEYRGYDSAGVAIDGNNHEVKERHIQLVKKR
+GKVKALDEELYKQDSMDLKVEFETHFGIAHTRWATHGVPSAVNSHPQRSDKGNEFVVIHN
+GIITNYKDLRKFLESKGYEFESETDTETIAKLIKYVFDNRETEDITFSTLVERVIQQLEG
+AFALVFKSVHYPGEAVATRRGSPLLIGVRSKYKLSTEQIPILYRTCTLENVKNICKTRMK
+RLDSSACLHAVGDKAVEFFFASDASAIIEHTNRVIFLEDDDIAAVADGKLSIHRVKRSAS
+DDPSRAIQTLQMELQQIMKGNFSAFMQKEIFEQPESVFNTMRGRVNFETNTVLLGGLKDH
+LKEIRRCRRLIVIGCGTSYHAAVATRQVLEELTELPVMVELASDFLDRNTPVFRDDVCFF
+ISQSGETADTLLALRYCKDRGALTVGVTNTVGSSISRETDCGVHINAGPEIGVASTKAYT
+SQFISLVMFGLMMSEDRISLQNRRQEIIRGLRSLPELIKEVLSLEEKIHDLALELYTQRS
+LLVMGRGYNYATCLEGALKIKEITYMHSEGILAGELKHGPLALIDKQMPVIMVIMKDPCF
+AKCQNALQQVTARQGRPIILCSKDDTESSKFAYKTIELPHTVDCLQGILSVIPLQLLSFH
+LAVLRGYDVDFPRNLAKSVTVE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O94808</uniprot_id>
+  <uniprot_name>GFPT2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB016789</genbank_gene_id>
+  <genecard_id>GFPT2</genecard_id>
+  <geneatlas_id>GFPT2</geneatlas_id>
+  <hgnc_id>HGNC:4242</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Oki T, Yamazaki K, Kuromitsu J, Okada M, Tanaka I: cDNA cloning and mapping of a novel subtype of glutamine:fructose-6-phosphate amidotransferase (GFAT2) in human and mouse. Genomics. 1999 Apr 15;57(2):227-34.</reference_text>
+      <pubmed_id>10198162</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hu Y, Riesland L, Paterson AJ, Kudlow JE: Phosphorylation of mouse glutamine-fructose-6-phosphate amidotransferase 2 (GFAT2) by cAMP-dependent protein kinase increases the enzyme activity. J Biol Chem. 2004 Jul 16;279(29):29988-93. Epub 2004 May 7.</reference_text>
+        <pubmed_id>15133036</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zitzler J, Link D, Schafer R, Liebetrau W, Kazinski M, Bonin-Debs A, Behl C, Buckel P, Brinkmann U: High-throughput functional genomics identifies genes that ameliorate toxicity due to oxidative stress in neuronal HT-22 cells: GFPT2 protects cells against peroxide. Mol Cell Proteomics. 2004 Aug;3(8):834-40. Epub 2004 Jun 4.</reference_text>
+        <pubmed_id>15181156</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamine</name>
+        <accession>HMDB00641</accession>
+      </metabolite>
+      <reference>
+        <reference_text>DeHaven JE, Robinson KA, Nelson BA, Buse MG: A novel variant of glutamine: fructose-6-phosphate amidotransferase-1 (GFAT1) mRNA is selectively expressed in striated muscle. Diabetes. 2001 Nov;50(11):2419-24.</reference_text>
+        <pubmed_id>11679416</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:07:44 -0700</creation_date>
+  <update_date>2013-05-27 11:26:14 -0600</update_date>
+  <accession>HMDBP02745</accession>
+  <secondary_accessions>
+    <accession>8250</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>MTM1</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Lipid phosphatase which dephosphorylates phosphatidylinositol 3-monophosphate (PI3P) and phosphatidylinositol 3,5-bisphosphate (PI(3,5)P2). Has also been shown to dephosphorylate phosphotyrosine- and phosphoserine-containing peptides. Negatively regulates EGFR degradation through regulation of EGFR trafficking from the late endosome to the lysosome. Plays a role in vacuolar formation and morphology. Regulates desmin intermediate filament assembly and architecture. Plays a role in mitochondrial morphology and positioning. Required for skeletal muscle maintenance but not for myogenesis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Inositol phosphate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00562</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phosphatidylinositol signaling system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04070</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06234</accession>
+      <name>1D-Myo-inositol 1,3-bisphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02985</accession>
+      <name>Inositol phosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>filopodium</description>
+      <go_id>GO:0030175</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>late endosome</description>
+      <go_id>GO:0005770</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ruffle</description>
+      <go_id>GO:0001726</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>intermediate filament binding</description>
+      <go_id>GO:0019215</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol binding</description>
+      <go_id>GO:0035091</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity</description>
+      <go_id>GO:0052629</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol-3-phosphatase activity</description>
+      <go_id>GO:0004438</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id>GO:0004721</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>endosome to lysosome transport</description>
+      <go_id>GO:0008333</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intermediate filament organization</description>
+      <go_id>GO:0045109</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrion distribution</description>
+      <go_id>GO:0048311</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mitochondrion morphogenesis</description>
+      <go_id>GO:0070584</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-tyrosine dephosphorylation</description>
+      <go_id>GO:0035335</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol biosynthetic process</description>
+      <go_id>GO:0006661</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol dephosphorylation</description>
+      <go_id>GO:0046856</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein transport</description>
+      <go_id>GO:0015031</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of vacuole organization</description>
+      <go_id>GO:0044088</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq28</locus>
+    <gene_sequence>&gt;1812 bp
+ATGGCTTCTGCATCAACTTCTAAATATAATTCACACTCCTTGGAGAATGAGTCTATTAAG
+AGGACGTCTCGAGATGGAGTCAATCGAGATCTCACTGAGGCTGTTCCTCGACTTCCAGGA
+GAAACACTAATCACTGACAAAGAAGTTATTTACATATGTCCTTTCAATGGCCCCATTAAG
+GGAAGAGTTTACATCACAAATTATCGTCTTTATTTAAGAAGTTTGGAAACGGATTCTTCT
+CTAATACTTGATGTTCCTCTGGGTGTGATCTCGAGAATTGAAAAAATGGGAGGCGCGACA
+AGTAGAGGAGAAAATTCCTATGGTCTAGATATTACTTGTAAAGACATGAGAAACCTGAGG
+TTCGCTTTGAAACAGGAAGGCCACAGCAGAAGAGATATGTTTGAGATCCTCACGAGATAC
+GCGTTTCCCCTGGCTCACAGTCTGCCATTATTTGCATTTTTAAATGAAGAAAAGTTTAAC
+GTGGATGGATGGACAGTTTACAATCCAGTGGAAGAATACAGGAGGCAGGGCTTGCCCAAT
+CACCATTGGAGAATAACTTTTATTAATAAGTGCTATGAGCTCTGTGACACTTACCCTGCT
+CTTTTGGTGGTTCCGTATCGTGCCTCAGATGATGACCTCCGGAGAGTTGCAACTTTTAGG
+TCCCGAAATCGAATTCCAGTGCTGTCATGGATTCATCCAGAAAATAAGACGGTCATTGTG
+CGTTGCAGTCAGCCTCTTGTCGGTATGAGTGGGAAACGAAATAAAGATGATGAGAAATAT
+CTCGATGTTATCAGGGAGACTAATAAACAAATTTCTAAACTCACCATTTATGATGCAAGA
+CCCAGCGTAAATGCAGTGGCCAACAAGGCAACAGGAGGAGGATATGAAAGTGATGATGCA
+TATCATAACGCCGAACTTTTCTTCTTAGACATTCATAATATTCATGTTATGCGGGAATCT
+TTAAAAAAAGTGAAGGACATTGTTTATCCTAATGTAGAAGAATCTCATTGGTTGTCCAGT
+TTGGAGTCTACTCATTGGTTAGAACATATCAAGCTCGTTTTGACAGGAGCCATTCAAGTA
+GCAGACAAAGTTTCTTCAGGGAAGAGTTCAGTGCTTGTGCATTGCAGTGACGGATGGGAC
+AGGACTGCTCAGCTGACATCCTTGGCCATGCTGATGTTGGATAGCTTCTATAGGAGCATT
+GAAGGGTTCGAAATACTGGTACAAAAAGAATGGATAAGTTTTGGACATAAATTTGCATCT
+CGAATAGGTCATGGTGATAAAAACCACACCGATGCTGACCGTTCTCCTATTTTTCTCCAG
+TTTATTGATTGTGTGTGGCAAATGTCAAAACAGTTCCCTACAGCTTTTGAATTCAATGAA
+CAATTTTTGATTATAATTTTGGATCATCTGTATAGTTGCCGATTTGGTACTTTCTTATTC
+AACTGTGAATCTGCTCGAGAAAGACAGAAGGTTACAGAAAGGACTGTTTCTTTATGGTCA
+CTGATAAACAGTAATAAAGAAAAATTCAAAAACCCCTTCTATACTAAAGAAATCAATCGA
+GTTTTATATCCAGTTGCCAGTATGCGTCACTTGGAACTCTGGGTGAATTACTACATTAGA
+TGGAACCCCAGGATCAAGCAACAACAGCCGAATCCAGTGGAGCAGCGTTACATGGAGCTC
+TTAGCCTTACGCGACGAATACATAAAGCGGCTTGAGGAACTGCAGCTCGCCAACTCTGCC
+AAGCTTTCTGATCCCCCAACTTCACCTTCCAGTCCTTCGCAAATGATGCCCCATGTGCAA
+ACTCACTTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>603</residue_number>
+    <molecular_weight>69931.09</molecular_weight>
+    <theoretical_pi>8.182</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GRAM</name>
+        <pfam_id>PF02893</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Myotub-related</name>
+        <pfam_id>PF06602</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Myotubularin
+MASASTSKYNSHSLENESIKRTSRDGVNRDLTEAVPRLPGETLITDKEVIYICPFNGPIK
+GRVYITNYRLYLRSLETDSSLILDVPLGVISRIEKMGGATSRGENSYGLDITCKDMRNLR
+FALKQEGHSRRDMFEILTRYAFPLAHSLPLFAFLNEEKFNVDGWTVYNPVEEYRRQGLPN
+HHWRITFINKCYELCDTYPALLVVPYRASDDDLRRVATFRSRNRIPVLSWIHPENKTVIV
+RCSQPLVGMSGKRNKDDEKYLDVIRETNKQISKLTIYDARPSVNAVANKATGGGYESDDA
+YHNAELFFLDIHNIHVMRESLKKVKDIVYPNVEESHWLSSLESTHWLEHIKLVLTGAIQV
+ADKVSSGKSSVLVHCSDGWDRTAQLTSLAMLMLDSFYRSIEGFEILVQKEWISFGHKFAS
+RIGHGDKNHTDADRSPIFLQFIDCVWQMSKQFPTAFEFNEQFLIIILDHLYSCRFGTFLF
+NCESARERQKVTERTVSLWSLINSNKEKFKNPFYTKEINRVLYPVASMRHLELWVNYYIR
+WNPRIKQQQPNPVEQRYMELLALRDEYIKRLEELQLANSAKLSDPPTSPSSPSQMMPHVQ
+THF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4557896</genbank_protein_id>
+  <uniprot_id>Q13496</uniprot_id>
+  <uniprot_name>MTM1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_000252.2</genbank_gene_id>
+  <genecard_id>MTM1</genecard_id>
+  <geneatlas_id>MTM1</geneatlas_id>
+  <hgnc_id>HGNC:7448</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Laporte J, Hu LJ, Kretz C, Mandel JL, Kioschis P, Coy JF, Klauck SM, Poustka A, Dahl N: A gene mutated in X-linked myotubular myopathy defines a new putative tyrosine phosphatase family conserved in yeast. Nat Genet. 1996 Jun;13(2):175-82.</reference_text>
+      <pubmed_id>8640223</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Laporte J, Guiraud-Chaumeil C, Tanner SM, Blondeau F, Hu LJ, Vicaire S, Liechti-Gallati S, Mandel JL: Genomic organization of the MTM1 gene implicated in X-linked myotubular myopathy. Eur J Hum Genet. 1998 Jul-Aug;6(4):325-30.</reference_text>
+      <pubmed_id>9781038</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Laporte J, Biancalana V, Tanner SM, Kress W, Schneider V, Wallgren-Pettersson C, Herger F, Buj-Bello A, Blondeau F, Liechti-Gallati S, Mandel JL: MTM1 mutations in X-linked myotubular myopathy.  Hum Mutat. 2000;15(5):393-409.</reference_text>
+      <pubmed_id>10790201</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zahedi RP, Lewandrowski U, Wiesner J, Wortelkamp S, Moebius J, Schutz C, Walter U, Gambaryan S, Sickmann A: Phosphoproteome of resting human platelets.  J Proteome Res. 2008 Feb;7(2):526-34. Epub 2007 Dec 19.</reference_text>
+      <pubmed_id>18088087</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>de Gouyon BM, Zhao W, Laporte J, Mandel JL, Metzenberg A, Herman GE: Characterization of mutations in the myotubularin gene in twenty six patients with X-linked myotubular myopathy. Hum Mol Genet. 1997 Sep;6(9):1499-504.</reference_text>
+      <pubmed_id>9285787</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Laporte J, Guiraud-Chaumeil C, Vincent MC, Mandel JL, Tanner SM, Liechti-Gallati S, Wallgren-Pettersson C, Dahl N, Kress W, Bolhuis PA, Fardeau M, Samson F, Bertini E: Mutations in the MTM1 gene implicated in X-linked myotubular myopathy. ENMC International Consortium on Myotubular Myopathy. European Neuro-Muscular Center. Hum Mol Genet. 1997 Sep;6(9):1505-11.</reference_text>
+      <pubmed_id>9305655</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nishino I, Minami N, Kobayashi O, Ikezawa M, Goto Y, Arahata K, Nonaka I: MTM1 gene mutations in Japanese patients with the severe infantile form of myotubular myopathy. Neuromuscul Disord. 1998 Oct;8(7):453-8.</reference_text>
+      <pubmed_id>9829274</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hane BG, Rogers RC, Schwartz CE: Germline mosaicism in X-linked myotubular myopathy.  Clin Genet. 1999 Jul;56(1):77-81.</reference_text>
+      <pubmed_id>10466421</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Buj-Bello A, Biancalana V, Moutou C, Laporte J, Mandel JL: Identification of novel mutations in the MTM1 gene causing severe and mild forms of X-linked myotubular myopathy. Hum Mutat. 1999;14(4):320-5.</reference_text>
+      <pubmed_id>10502779</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tanner SM, Schneider V, Thomas NS, Clarke A, Lazarou L, Liechti-Gallati S: Characterization of 34 novel and six known MTM1 gene mutations in 47 unrelated X-linked myotubular myopathy patients. Neuromuscul Disord. 1999 Jan;9(1):41-9.</reference_text>
+      <pubmed_id>10063835</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Herman GE, Kopacz K, Zhao W, Mills PL, Metzenberg A, Das S: Characterization of mutations in fifty North American patients with X-linked myotubular myopathy. Hum Mutat. 2002 Feb;19(2):114-21.</reference_text>
+      <pubmed_id>11793470</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Flex E, De Luca A, D'Apice MR, Buccino A, Dallapiccola B, Novelli G: Rapid scanning of myotubularin (MTM1) gene by denaturing high-performance liquid chromatography (DHPLC). Neuromuscul Disord. 2002 Jun;12(5):501-5.</reference_text>
+      <pubmed_id>12031625</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu S, Manson J, White S, Bourne A, Waddy H, Davis M, Haan E: X-linked myotubular myopathy in a family with three adult survivors.  Clin Genet. 2003 Aug;64(2):148-52.</reference_text>
+      <pubmed_id>12859411</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Biancalana V, Caron O, Gallati S, Baas F, Kress W, Novelli G, D'Apice MR, Lagier-Tourenne C, Buj-Bello A, Romero NB, Mandel JL: Characterisation of mutations in 77 patients with X-linked myotubular myopathy, including a family with a very mild phenotype. Hum Genet. 2003 Feb;112(2):135-42. Epub 2002 Nov 28.</reference_text>
+      <pubmed_id>12522554</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

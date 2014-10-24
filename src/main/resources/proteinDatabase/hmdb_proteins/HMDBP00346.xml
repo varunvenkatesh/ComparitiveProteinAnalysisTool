@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:51 -0700</creation_date>
+  <update_date>2013-05-27 11:36:10 -0600</update_date>
+  <accession>HMDBP00346</accession>
+  <secondary_accessions>
+    <accession>5582</accession>
+    <accession>HMDBP05879</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>EST-1</synonym>
+    <synonym>ST1E1</synonym>
+    <synonym>Sulfotransferase 1E1</synonym>
+    <synonym>Sulfotransferase, estrogen-preferring</synonym>
+  </synonyms>
+  <gene_name>SULT1E1</gene_name>
+  <general_function>Involved in sulfotransferase activity</general_function>
+  <specific_function>Sulfotransferase that utilizes 3'-phospho-5'-adenylyl sulfate (PAPS) as sulfonate donor to catalyze the sulfate conjugation of estradiol and estrone. May play a role in the regulation of estrogen receptor activity by metabolizing free estradiol. Maximally sulfates beta-estradiol and estrone at concentrations of 20 nM. Also sulfates dehydroepiandrosterone, pregnenolone, ethinylestradiol, equalenin, diethylstilbesterol and 1-naphthol, at significantly higher concentrations; however, cortisol, testosterone and dopamine are not sulfated.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Steroid hormone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00140</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>sulfur metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00920</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01425</accession>
+      <name>Estrone sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00145</accession>
+      <name>Estrone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01134</accession>
+      <name>Phosphoadenosine phosphosulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00061</accession>
+      <name>Adenosine 3',5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00234</accession>
+      <name>Testosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15307</accession>
+      <name>Cyclizine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring sulfur-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sulfotransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear membrane</description>
+      <go_id>GO:0031965</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>estrone sulfotransferase activity</description>
+      <go_id>GO:0004304</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavonol 3-sulfotransferase activity</description>
+      <go_id>GO:0047894</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>steroid binding</description>
+      <go_id>GO:0005496</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>steroid sulfotransferase activity</description>
+      <go_id>GO:0050294</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>3'-phosphoadenosine 5'-phosphosulfate metabolic process</description>
+      <go_id>GO:0050427</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>estrogen metabolic process</description>
+      <go_id>GO:0008210</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>female pregnancy</description>
+      <go_id>GO:0007565</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sulfation</description>
+      <go_id>GO:0051923</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>4</chromosome_location>
+    <locus>4q13.1</locus>
+    <gene_sequence>&gt;885 bp
+ATGAATTCTGAACTTGACTATTATGAAAAGTTTGAAGAAGTCCATGGGATTCTAATGTAT
+AAAGATTTTGTCAAATATTGGGATAATGTGGAAGCGTTCCAGGCAAGACCAGATGATCTT
+GTCATTGCCACCTACCCTAAATCTGGTACAACCTGGGTTAGTGAAATTGTGTATATGATC
+TATAAAGAGGGTGATGTGGAAAAGTGCAAAGAAGATGTAATTTTTAATCGAATACCTTTC
+CTGGAATGCAGAAAAGAAAACCTCATGAATGGAGTAAAACAATTAGATGAGATGAATTCT
+CCTAGAATTGTGAAGACTCATTTGCCACCTGAACTTCTTCCTGCCTCATTTTGGGAAAAG
+GATTGTAAGATAATCTATCTTTGCCGGAATGCAAAGGATGTGGCTGTTTCCTTTTATTAT
+TTCTTTCTAATGGTGGCTGGTCATCCAAATCCTGGATCCTTTCCAGAGTTTGTGGAGAAA
+TTCATGCAAGGACAGGTTCCTTATGGTTCCTGGTATAAACATGTAAAATCTTGGTGGGAA
+AAGGGAAAGAGTCCACGTGTACTATTTCTTTTCTACGAAGACCTGAAAGAGGATATCAGA
+AAAGAGGTGATAAAATTGATACATTTCCTGGAAAGGAAGCCATCAGAGGAGCTTGTGGAC
+AGGATTATACATCATACTTCGTTCCAAGAGATGAAGAACAATCCATCCACAAATTACACA
+ACACTGCCAGACGAAATTATGAACCAGAAATTGTCGCCCTTCATGAGAAAGGGAATTACA
+GGAGACTGGAAAAATCACTTTACAGTAGCCCTGAATGAAAAATTTGATAAACATTATGAG
+CAGCAAATGAAGGAATCTACACTGAAGTTTCGAACTGAGATCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>294</residue_number>
+    <molecular_weight>35126.185</molecular_weight>
+    <theoretical_pi>6.627</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sulfotransfer_1</name>
+        <pfam_id>PF00685</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Estrogen sulfotransferase
+MNSELDYYEKFEEVHGILMYKDFVKYWDNVEAFQARPDDLVIATYPKSGTTWVSEIVYMI
+YKEGDVEKCKEDVIFNRIPFLECRKENLMNGVKQLDEMNSPRIVKTHLPPELLPASFWEK
+DCKIIYLCRNAKDVAVSFYYFFLMVAGHPNPGSFPEFVEKFMQGQVPYGSWYKHVKSWWE
+KGKSPRVLFLFYEDLKEDIRKEVIKLIHFLERKPSEELVDRIIHHTSFQEMKNNPSTNYT
+TLPDEIMNQKLSPFMRKGITGDWKNHFTVALNEKFDKHYEQQMKESTLKFRTEI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P49888</uniprot_id>
+  <uniprot_name>ST1E1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1G3M</pdb_id>
+    <pdb_id>1HY3</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>U08098</genbank_gene_id>
+  <genecard_id>SULT1E1</genecard_id>
+  <geneatlas_id>SULT1E1</geneatlas_id>
+  <hgnc_id>HGNC:11377</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Aksoy IA, Wood TC, Weinshilboum R: Human liver estrogen sulfotransferase: identification by cDNA cloning and expression. Biochem Biophys Res Commun. 1994 May 16;200(3):1621-9.</reference_text>
+      <pubmed_id>8185618</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Her C, Aksoy IA, Kimura S, Brandriff BF, Wasmuth JJ, Weinshilboum RM: Human estrogen sulfotransferase gene (STE): cloning, structure, and chromosomal localization. Genomics. 1995 Sep 1;29(1):16-23.</reference_text>
+      <pubmed_id>8530066</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Falany CN, Krasnykh V, Falany JL: Bacterial expression and characterization of a cDNA for human liver estrogen sulfotransferase. J Steroid Biochem Mol Biol. 1995 Jun;52(6):529-39.</reference_text>
+      <pubmed_id>7779757</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rubin GL, Harrold AJ, Mills JA, Falany CN, Coughtrie MW: Regulation of sulphotransferase expression in the endometrium during the menstrual cycle, by oral contraceptives and during early pregnancy. Mol Hum Reprod. 1999 Nov;5(11):995-1002.</reference_text>
+      <pubmed_id>10541560</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pedersen LC, Petrotchenko E, Shevtsov S, Negishi M: Crystal structure of the human estrogen sulfotransferase-PAPS complex: evidence for catalytic role of Ser137 in the sulfuryl transfer reaction. J Biol Chem. 2002 May 17;277(20):17928-32. Epub 2002 Mar 7.</reference_text>
+      <pubmed_id>11884392</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shevtsov S, Petrotchenko EV, Pedersen LC, Negishi M: Crystallographic analysis of a hydroxylated polychlorinated biphenyl (OH-PCB) bound to the catalytic estrogen binding site of human estrogen sulfotransferase. Environ Health Perspect. 2003 Jun;111(7):884-8.</reference_text>
+      <pubmed_id>12782487</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cyclizine</name>
+        <accession>HMDB15307</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bamforth KJ, Dalgliesh K, Coughtrie MW: Inhibition of human liver steroid sulfotransferase activities by drugs: a novel mechanism of drug toxicity? Eur J Pharmacol. 1992 May 1;228(1):15-21.</reference_text>
+        <pubmed_id>1397064</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:32 -0700</creation_date>
+  <update_date>2013-05-27 11:11:44 -0600</update_date>
+  <accession>HMDBP00950</accession>
+  <secondary_accessions>
+    <accession>6238</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>POLB</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Repair polymerase that plays a key role in base-excision repair. Has 5'-deoxyribose-5-phosphate lyase (dRP lyase) activity that removes the 5' sugar phosphate and also acts as a DNA polymerase that adds one nucleotide to the 3' end of the arising single-nucleotide gap. Conducts 'gap-filling' DNA synthesis in a stepwise distributive fashion rather than in a processive fashion as for other DNA polymerases.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Base excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03410</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HTLV-I infection</name>
+      <smpdb_id/>
+      <kegg_map_id>map05166</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Viral carcinogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05203</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00998</accession>
+      <name>dCTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01342</accession>
+      <name>Thymidine 5'-triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01440</accession>
+      <name>dGTP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01532</accession>
+      <name>Deoxyadenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15122</accession>
+      <name>Cytarabine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna-directed dna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>spindle microtubule</description>
+      <go_id>GO:0005876</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>damaged DNA binding</description>
+      <go_id>GO:0003684</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed DNA polymerase activity</description>
+      <go_id>GO:0003887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>lyase activity</description>
+      <go_id>GO:0016829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>microtubule binding</description>
+      <go_id>GO:0008017</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>base-excision repair</description>
+      <go_id>GO:0006284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell death</description>
+      <go_id>GO:0008219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA-dependent DNA replication</description>
+      <go_id>GO:0006261</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyrimidine dimer repair</description>
+      <go_id>GO:0006290</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to ethanol</description>
+      <go_id>GO:0045471</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8p11.2</locus>
+    <gene_sequence>&gt;1008 bp
+ATGAGCAAACGGAAGGCGCCGCAGGAGACTCTCAACGGGGGAATCACCGACATGCTCACA
+GAACTCGCAAACTTTGAGAAGAACGTGAGCCAAGCTATCCACAAGTACAATGCTTACAGA
+AAAGCAGCATCTGTTATAGCAAAATACCCACACAAAATAAAGAGTGGAGCTGAAGCTAAG
+AAATTGCCTGGAGTAGGAACAAAAATTGCTGAAAAGATTGATGAGTTTTTAGCAACTGGA
+AAATTACGTAAACTGGAAAAGATTCGGCAGGATGATACGAGTTCATCCATCAATTTCCTG
+ACTCGAGTTAGTGGCATTGGTCCATCTGCTGCAAGGAAGTTTGTAGATGAAGGAATTAAA
+ACACTAGAAGATCTCAGAAAAAATGAAGATAAATTGAACCATCATCAGCGAATTGGGCTG
+AAATATTTTGGGGACTTTGAAAAAAGAATTCCTCGTGAAGAGATGTTACAAATGCAAGAT
+ATTGTACTAAATGAAGTTAAAAAAGTGGATTCTGAATACATTGCTACAGTCTGTGGCAGT
+TTCAGAAGAGGTGCAGAGTCCAGTGGTGACATGGATGTTCTCCTGACCCATCCCAGCTTC
+ACTTCAGAATCAACCAAACAGCCAAAACTGTTACATCAGGTTGTGGAGCAGTTACAAAAG
+GTTCATTTTATCACAGATACCCTGTCAAAGGGTGAGACAAAGTTCATGGGTGTTTGCCAG
+CTTCCCAGTAAAAATGATGAAAAAGAATATCCACACAGAAGAATTGATATCAGGTTGATA
+CCCAAAGATCAGTATTACTGTGGTGTTCTCTATTTCACTGGGAGTGATATTTTCAATAAG
+AATATGAGGGCTCATGCCCTAGAAAAGGGTTTCACAATCAATGAGTACACCATCCGTCCC
+TTGGGAGTCACTGGAGTTGCAGGAGAACCCCTGCCAGTGGATAGTGAAAAAGACATCTTT
+GATTACATCCAGTGGAAATACCGGGAACCCAAGGACCGGAGCGAATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>335</residue_number>
+    <molecular_weight>38177.34</molecular_weight>
+    <theoretical_pi>8.947</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DNA_pol_lambd_f</name>
+        <pfam_id>PF10391</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA polymerase beta
+MSKRKAPQETLNGGITDMLTELANFEKNVSQAIHKYNAYRKAASVIAKYPHKIKSGAEAK
+KLPGVGTKIAEKIDEFLATGKLRKLEKIRQDDTSSSINFLTRVSGIGPSAARKFVDEGIK
+TLEDLRKNEDKLNHHQRIGLKYFGDFEKRIPREEMLQMQDIVLNEVKKVDSEYIATVCGS
+FRRGAESSGDMDVLLTHPSFTSESTKQPKLLHQVVEQLQKVHFITDTLSKGETKFMGVCQ
+LPSKNDEKEYPHRRIDIRLIPKDQYYCGVLYFTGSDIFNKNMRAHALEKGFTINEYTIRP
+LGVTGVAGEPLPVDSEKDIFDYIQWKYREPKDRSE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>292397</genbank_protein_id>
+  <uniprot_id>P06746</uniprot_id>
+  <uniprot_name>DPOLB_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1BPX</pdb_id>
+    <pdb_id>1BPY</pdb_id>
+    <pdb_id>1BPZ</pdb_id>
+    <pdb_id>1MQ2</pdb_id>
+    <pdb_id>1MQ3</pdb_id>
+    <pdb_id>1TV9</pdb_id>
+    <pdb_id>1TVA</pdb_id>
+    <pdb_id>1ZJM</pdb_id>
+    <pdb_id>1ZJN</pdb_id>
+    <pdb_id>1ZQA</pdb_id>
+    <pdb_id>1ZQB</pdb_id>
+    <pdb_id>1ZQC</pdb_id>
+    <pdb_id>1ZQD</pdb_id>
+    <pdb_id>1ZQE</pdb_id>
+    <pdb_id>1ZQF</pdb_id>
+    <pdb_id>1ZQG</pdb_id>
+    <pdb_id>1ZQH</pdb_id>
+    <pdb_id>1ZQI</pdb_id>
+    <pdb_id>1ZQJ</pdb_id>
+    <pdb_id>1ZQK</pdb_id>
+    <pdb_id>1ZQL</pdb_id>
+    <pdb_id>1ZQM</pdb_id>
+    <pdb_id>1ZQN</pdb_id>
+    <pdb_id>1ZQO</pdb_id>
+    <pdb_id>1ZQP</pdb_id>
+    <pdb_id>1ZQQ</pdb_id>
+    <pdb_id>1ZQR</pdb_id>
+    <pdb_id>1ZQS</pdb_id>
+    <pdb_id>1ZQT</pdb_id>
+    <pdb_id>2FMP</pdb_id>
+    <pdb_id>2FMQ</pdb_id>
+    <pdb_id>2FMS</pdb_id>
+    <pdb_id>2I9G</pdb_id>
+    <pdb_id>2ISO</pdb_id>
+    <pdb_id>2ISP</pdb_id>
+    <pdb_id>2P66</pdb_id>
+    <pdb_id>2PXI</pdb_id>
+    <pdb_id>3C2K</pdb_id>
+    <pdb_id>3C2L</pdb_id>
+    <pdb_id>3C2M</pdb_id>
+    <pdb_id>3GDX</pdb_id>
+    <pdb_id>3ISB</pdb_id>
+    <pdb_id>3ISC</pdb_id>
+    <pdb_id>3ISD</pdb_id>
+    <pdb_id>3JPN</pdb_id>
+    <pdb_id>3JPO</pdb_id>
+    <pdb_id>3JPP</pdb_id>
+    <pdb_id>3JPQ</pdb_id>
+    <pdb_id>3JPR</pdb_id>
+    <pdb_id>3JPS</pdb_id>
+    <pdb_id>3JPT</pdb_id>
+    <pdb_id>3LK9</pdb_id>
+    <pdb_id>3MBY</pdb_id>
+    <pdb_id>3OGU</pdb_id>
+    <pdb_id>3RH4</pdb_id>
+    <pdb_id>3RH5</pdb_id>
+    <pdb_id>3RH6</pdb_id>
+    <pdb_id>3RJE</pdb_id>
+    <pdb_id>3RJF</pdb_id>
+    <pdb_id>3RJG</pdb_id>
+    <pdb_id>3RJH</pdb_id>
+    <pdb_id>3RJI</pdb_id>
+    <pdb_id>3RJJ</pdb_id>
+    <pdb_id>3RJK</pdb_id>
+    <pdb_id>3TFR</pdb_id>
+    <pdb_id>3TFS</pdb_id>
+    <pdb_id>4DO9</pdb_id>
+    <pdb_id>4DOA</pdb_id>
+    <pdb_id>4DOB</pdb_id>
+    <pdb_id>4DOC</pdb_id>
+    <pdb_id>4F5N</pdb_id>
+    <pdb_id>4F5O</pdb_id>
+    <pdb_id>4F5P</pdb_id>
+    <pdb_id>4F5Q</pdb_id>
+    <pdb_id>4F5R</pdb_id>
+    <pdb_id>4GXI</pdb_id>
+    <pdb_id>4GXJ</pdb_id>
+    <pdb_id>4GXK</pdb_id>
+    <pdb_id>7ICE</pdb_id>
+    <pdb_id>7ICF</pdb_id>
+    <pdb_id>7ICG</pdb_id>
+    <pdb_id>7ICH</pdb_id>
+    <pdb_id>7ICI</pdb_id>
+    <pdb_id>7ICJ</pdb_id>
+    <pdb_id>7ICK</pdb_id>
+    <pdb_id>7ICL</pdb_id>
+    <pdb_id>7ICM</pdb_id>
+    <pdb_id>7ICN</pdb_id>
+    <pdb_id>7ICO</pdb_id>
+    <pdb_id>7ICP</pdb_id>
+    <pdb_id>7ICQ</pdb_id>
+    <pdb_id>7ICR</pdb_id>
+    <pdb_id>7ICS</pdb_id>
+    <pdb_id>7ICT</pdb_id>
+    <pdb_id>7ICU</pdb_id>
+    <pdb_id>7ICV</pdb_id>
+    <pdb_id>8ICA</pdb_id>
+    <pdb_id>8ICB</pdb_id>
+    <pdb_id>8ICC</pdb_id>
+    <pdb_id>8ICE</pdb_id>
+    <pdb_id>8ICF</pdb_id>
+    <pdb_id>8ICG</pdb_id>
+    <pdb_id>8ICH</pdb_id>
+    <pdb_id>8ICI</pdb_id>
+    <pdb_id>8ICJ</pdb_id>
+    <pdb_id>8ICK</pdb_id>
+    <pdb_id>8ICL</pdb_id>
+    <pdb_id>8ICM</pdb_id>
+    <pdb_id>8ICN</pdb_id>
+    <pdb_id>8ICO</pdb_id>
+    <pdb_id>8ICP</pdb_id>
+    <pdb_id>8ICQ</pdb_id>
+    <pdb_id>8ICR</pdb_id>
+    <pdb_id>8ICS</pdb_id>
+    <pdb_id>8ICT</pdb_id>
+    <pdb_id>8ICU</pdb_id>
+    <pdb_id>8ICV</pdb_id>
+    <pdb_id>8ICW</pdb_id>
+    <pdb_id>8ICX</pdb_id>
+    <pdb_id>8ICY</pdb_id>
+    <pdb_id>8ICZ</pdb_id>
+    <pdb_id>9ICA</pdb_id>
+    <pdb_id>9ICB</pdb_id>
+    <pdb_id>9ICC</pdb_id>
+    <pdb_id>9ICE</pdb_id>
+    <pdb_id>9ICF</pdb_id>
+    <pdb_id>9ICG</pdb_id>
+    <pdb_id>9ICH</pdb_id>
+    <pdb_id>9ICI</pdb_id>
+    <pdb_id>9ICJ</pdb_id>
+    <pdb_id>9ICK</pdb_id>
+    <pdb_id>9ICL</pdb_id>
+    <pdb_id>9ICM</pdb_id>
+    <pdb_id>9ICN</pdb_id>
+    <pdb_id>9ICO</pdb_id>
+    <pdb_id>9ICP</pdb_id>
+    <pdb_id>9ICQ</pdb_id>
+    <pdb_id>9ICR</pdb_id>
+    <pdb_id>9ICS</pdb_id>
+    <pdb_id>9ICT</pdb_id>
+    <pdb_id>9ICU</pdb_id>
+    <pdb_id>9ICV</pdb_id>
+    <pdb_id>9ICW</pdb_id>
+    <pdb_id>9ICX</pdb_id>
+    <pdb_id>9ICY</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>L11607</genbank_gene_id>
+  <genecard_id>POLB</genecard_id>
+  <geneatlas_id>POLB</geneatlas_id>
+  <hgnc_id>HGNC:9174</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Patterson TA, Little W, Cheng X, Widen SG, Kumar A, Beard WA, Wilson SH: Molecular cloning and high-level expression of human polymerase beta cDNA and comparison of the purified recombinant human and rat enzymes. Protein Expr Purif. 2000 Feb;18(1):100-10.</reference_text>
+      <pubmed_id>10648175</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dobashi Y, Kubota Y, Shuin T, Torigoe S, Yao M, Hosaka M: Polymorphisms in the human DNA polymerase beta gene.  Hum Genet. 1995 Apr;95(4):389-90.</reference_text>
+      <pubmed_id>7705833</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chyan YJ, Ackerman S, Shepherd NS, McBride OW, Widen SG, Wilson SH, Wood TG: The human DNA polymerase beta gene structure. Evidence of alternative splicing in gene expression. Nucleic Acids Res. 1994 Jul 25;22(14):2719-25.</reference_text>
+      <pubmed_id>7914364</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Widen SG, Kedar P, Wilson SH: Human beta-polymerase gene. Structure of the 5'-flanking region and active promoter. J Biol Chem. 1988 Nov 15;263(32):16992-8.</reference_text>
+      <pubmed_id>3182828</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Abbotts J, SenGupta DN, Zmudzka B, Widen SG, Notario V, Wilson SH: Expression of human DNA polymerase beta in Escherichia coli and characterization of the recombinant enzyme. Biochemistry. 1988 Feb 9;27(3):901-9.</reference_text>
+      <pubmed_id>3284575</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>SenGupta DN, Zmudzka BZ, Kumar P, Cobianchi F, Skowronski J, Wilson SH: Sequence of human DNA polymerase beta mRNA obtained through cDNA cloning.  Biochem Biophys Res Commun. 1986 Apr 14;136(1):341-7.</reference_text>
+      <pubmed_id>2423078</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsumoto Y, Kim K, Katz DS, Feng JA: Catalytic center of DNA polymerase beta for excision of deoxyribose phosphate groups. Biochemistry. 1998 May 5;37(18):6456-64.</reference_text>
+      <pubmed_id>9572863</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>DeMott MS, Beyret E, Wong D, Bales BC, Hwang JT, Greenberg MM, Demple B: Covalent trapping of human DNA polymerase beta by the oxidative DNA lesion 2-deoxyribonolactone. J Biol Chem. 2002 Mar 8;277(10):7637-40. Epub 2002 Jan 22.</reference_text>
+      <pubmed_id>11805079</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>El-Andaloussi N, Valovka T, Toueille M, Steinacher R, Focke F, Gehrig P, Covic M, Hassa PO, Schar P, Hubscher U, Hottiger MO: Arginine methylation regulates DNA polymerase beta.  Mol Cell. 2006 Apr 7;22(1):51-62.</reference_text>
+      <pubmed_id>16600869</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pelletier H, Sawaya MR, Wolfle W, Wilson SH, Kraut J: A structural basis for metal ion mutagenicity and nucleotide selectivity in human DNA polymerase beta. Biochemistry. 1996 Oct 1;35(39):12762-77.</reference_text>
+      <pubmed_id>8841119</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pelletier H, Sawaya MR: Characterization of the metal ion binding helix-hairpin-helix motifs in human DNA polymerase beta by X-ray structural analysis. Biochemistry. 1996 Oct 1;35(39):12778-87.</reference_text>
+      <pubmed_id>8841120</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sawaya MR, Prasad R, Wilson SH, Kraut J, Pelletier H: Crystal structures of human DNA polymerase beta complexed with gapped and nicked DNA: evidence for an induced fit mechanism. Biochemistry. 1997 Sep 16;36(37):11205-15.</reference_text>
+      <pubmed_id>9287163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Krahn JM, Beard WA, Miller H, Grollman AP, Wilson SH: Structure of DNA polymerase beta with the mutagenic DNA lesion 8-oxodeoxyguanine reveals structural insights into its coding potential. Structure. 2003 Jan;11(1):121-7.</reference_text>
+      <pubmed_id>12517346</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Angeli JP, Ribeiro LR, Bellini MF, Mantovanil: Anti-clastogenic effect of beta-glucan extracted from barley towards chemically induced DNA damage in rodent cells. Hum Exp Toxicol. 2006 Jun;25(6):319-24.</reference_text>
+        <pubmed_id>16866189</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Miura S, Izuta S: DNA polymerases as targets of anticancer nucleosides.  Curr Drug Targets. 2004 Feb;5(2):191-5.</reference_text>
+        <pubmed_id>15011952</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cytarabine</name>
+        <accession>HMDB15122</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Krynetskaia NF, Phadke MS, Jadhav SH, Krynetskiy EY: Chromatin-associated proteins HMGB1/2 and PDIA3 trigger cellular response to chemotherapy-induced DNA damage. Mol Cancer Ther. 2009 Apr;8(4):864-72.</reference_text>
+        <pubmed_id>19372559</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

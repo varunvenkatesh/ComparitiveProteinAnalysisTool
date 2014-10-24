@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:35:51 -0700</creation_date>
+  <update_date>2013-05-27 11:32:16 -0600</update_date>
+  <accession>HMDBP05360</accession>
+  <secondary_accessions>
+    <accession>10959</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HsPOX1</synonym>
+    <synonym>Kidney and liver proline oxidase 1</synonym>
+    <synonym>Probable proline oxidase 2</synonym>
+  </synonyms>
+  <gene_name>PRODH2</gene_name>
+  <general_function>Involved in proline dehydrogenase activity</general_function>
+  <specific_function>Converts proline to delta-1-pyrroline-5-carboxylate (Probable).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>L-proline degradation into L-glutamate</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00162</accession>
+      <name>L-Proline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01301</accession>
+      <name>1-Pyrroline-5-carboxylic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-nh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>proline dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proline metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proline catabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>proline dehydrogenase activity</description>
+      <go_id>GO:0004657</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate biosynthetic process</description>
+      <go_id>GO:0006537</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proline catabolic process to glutamate</description>
+      <go_id>GO:0010133</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19q13.1</locus>
+    <gene_sequence>&gt;1611 bp
+ATGTCGCCCAGGGTAGTCTCAAACTCCTCGGTCTTGGCCTCCCAAAGTGTTGGGATTACA
+AACGTGAGAACCGTATTTTCAAATGTATTCAATAACACTACAGCGTTTCCAATTTTAAGA
+GGAAGCAATTGCCACAAAATCACTGCCCCTGGTCTGGGCAAGGGGCAGTTGGTGAACTTG
+CTGCCTCCAGAGAACCTTCCCTGGTGTGGAGGCAGCCAGGGACCCAGGATGCTCCGGACC
+TGTTACGTGCTCTGTTCCCAAGCTGGTCCCCCCTCCAGGGGCTGGCAGTCCCTGAGCTTT
+GATGGCGGGGCCTTCCACCTTAAGGGCACAGGAGAGCTGACACGGGCCTTGCTGGTTCTC
+CGGCTGTGTGCCTGGCCCCCACTCGTCACTCACGGGCTGTTGCTCCAGGCCTGGTCTCGG
+CGACTCCTGGGCTCCCGGCTCTCAGGCGCATTTCTCCGAGCATCCGTCTATGGGCAGTTT
+GTGGCTGGTGAGACAGCAGAGGAGGTGAAGGGCTGCGTGCAGCAGCTGCGGACCCTCAGC
+CTCCGACCACTGCTGGCAGTGCCCACTGAGGAGGAGCCGGACTCTGCTGCCAAGAGTGGT
+GAGGCGTGGTATGAGGGGAACCTCGGTGCTATGCTGCGGTGTGTGGACCTGTCACGGGGC
+CTCCTGGAGCCCCCCAGCCTGGCTGAGGCCAGCCTCATGCAGCTGAAGGTGACGGCGCTG
+ACCAGTACTCGGCTCTGTAAGGAGCTAGCCTCGTGGGTCAGAAGGCCAGGAGCCTCCTTG
+GAGCTGAGCCCCGAGAGGCTGGCTGAAGCTATGGACTCTGGGCAGAACCTCCAGGTCTCC
+TGCCTCAATGCTGAGCAGAACCAGCACCTCCGGGCCTCCCTCAGCCGCCTGCATCGGGTG
+GCACAGTATGCCCGGGCCCAGCACGTGCGGCTCCTGGTGGATGCGGAGTACACCTCACTG
+AACCCTGCGCTCTCGCTGCTGGTGGCTGCCCTGGCTGTGCGCTGGAACAGCCCGGGTGAA
+GGCGGGCCCTGGGTGTGGAACACCTACCAGGCCTGTCTAAAGGACACATTCGAGCGGCTG
+GGGAGGGATGCAGAGGCTGCGCACAGGGCCGGCCTGGCCTTCGGAGTGAAGCTGGTACGA
+GGTGCATATCTGGACAAGGAGAGAGCGGTGGCCCAGCTCCATGGGATGGAAGACCCCACT
+CAGCCTGACTATGAGGCCACCAGTCAGAGTTACAGCCGCTGCCTGGAACTGATGCTGACG
+CACGTGGCCCGCCATGGCCCCATGTGCCACCTCATGGTGGCTTCCCACAATGAGGAATCT
+GTTCGCCAGGCAACCAAGCGCATGTGGGAGCTGGGCATTCCTCTGGATGGGACTGTCTGT
+TTCGGACAACTTCTGGGCATGTGTGACCACGTCTCTCTAGCACTGGGGCAGGCCGGCTAT
+GTAGTGTATAAGTCCATTCCCTATGGCTCCTTGGAGGAGGTAATCCCCTACCTGATCCGG
+AGGGCCCAGGAGAACCGGAGCGTGCTTCAGGGTGCCCGCAGGGAACAGGAGCTGCTCAGC
+CAAGAACTGTGGCGGCGGCTGCTGCCAGGATGCCGAAGGATACCCCACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>536</residue_number>
+    <molecular_weight>58870.115</molecular_weight>
+    <theoretical_pi>8.598</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pro_dh</name>
+        <pfam_id>PF01619</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Probable proline dehydrogenase 2
+MSPRVVSNSSVLASQSVGITNVRTVFSNVFNNTTAFPILRGSNCHKITAPGLGKGQLVNL
+LPPENLPWCGGSQGPRMLRTCYVLCSQAGPPSRGWQSLSFDGGAFHLKGTGELTRALLVL
+RLCAWPPLVTHGLLLQAWSRRLLGSRLSGAFLRASVYGQFVAGETAEEVKGCVQQLRTLS
+LRPLLAVPTEEEPDSAAKSGEAWYEGNLGAMLRCVDLSRGLLEPPSLAEASLMQLKVTAL
+TSTRLCKELASWVRRPGASLELSPERLAEAMDSGQNLQVSCLNAEQNQHLRASLSRLHRV
+AQYARAQHVRLLVDAEYTSLNPALSLLVAALAVRWNSPGEGGPWVWNTYQACLKDTFERL
+GRDAEAAHRAGLAFGVKLVRGAYLDKERAVAQLHGMEDPTQPDYEATSQSYSRCLELMLT
+HVARHGPMCHLMVASHNEESVRQATKRMWELGIPLDGTVCFGQLLGMCDHVSLALGQAGY
+VVYKSIPYGSLEEVIPYLIRRAQENRSVLQGARREQELLSQELWRRLLPGCRRIPH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>6649583</genbank_protein_id>
+  <uniprot_id>Q9UF12</uniprot_id>
+  <uniprot_name>PROD2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U80018</genbank_gene_id>
+  <genecard_id>PRODH2</genecard_id>
+  <geneatlas_id>PRODH2</geneatlas_id>
+  <hgnc_id>HGNC:17325</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

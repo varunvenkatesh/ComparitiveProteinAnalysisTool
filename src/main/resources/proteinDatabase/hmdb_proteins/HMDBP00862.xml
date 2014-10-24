@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:04 -0700</creation_date>
+  <update_date>2013-05-27 11:24:07 -0600</update_date>
+  <accession>HMDBP00862</accession>
+  <secondary_accessions>
+    <accession>6143</accession>
+    <accession>HMDBP06006</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Malic enzyme 2</synonym>
+    <synonym>NAD-ME</synonym>
+  </synonyms>
+  <gene_name>ME2</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Pyruvate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00620</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00243</accession>
+      <name>Pyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00156</accession>
+      <name>L-Malic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00744</accession>
+      <name>Malic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00134</accession>
+      <name>Fumaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB31522</accession>
+      <name>Mesoxalic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB35227</accession>
+      <name>Hydroxypropanedioic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00223</accession>
+      <name>Oxalacetic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>malate dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>malic enzyme activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad or nadh binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on ch-oh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-oh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dicarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>malate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial matrix</description>
+      <go_id>GO:0005759</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>malate dehydrogenase (decarboxylating) activity</description>
+      <go_id>GO:0004471</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>malate dehydrogenase (oxaloacetate-decarboxylating) activity</description>
+      <go_id>GO:0016619</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD binding</description>
+      <go_id>GO:0051287</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>malate metabolic process</description>
+      <go_id>GO:0006108</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>18</chromosome_location>
+    <locus>18q21</locus>
+    <gene_sequence>&gt;1755 bp
+ATGTTGTCCCGGTTAAGAGTAGTTTCCACCACTTGTACTTTGGCATGTCGACATTTGCAC
+ATAAAAGAAAAAGGCAAGCCACTTATGCTGAACCCAAGAACAAACAAGGGAATGGCATTT
+ACTTTACAAGAACGACAAATGCTTGGTCTTCAAGGACTTCTACCTCCCAAAATAGAGACA
+CAAGATATTCAAGCCTTACGATTTCATAGAAACTTGAAGAAAATGACTAGCCCTTTGGAA
+AAATATATCTACATAATGGGAATACAAGAAAGAAATGAGAAATTGTTTTATAGAATACTG
+CAAGATGACATTGAGAGTTTAATGCCAATTGTATATACACCGACGGTTGGTCTTGCCTGC
+TCCCAGTATGGACACATCTTTAGAAGACCTAAGGGATTATTTATTTCGATCTCAGACAGA
+GGTCATGTTAGATCAATTGTGGATAACTGGCCAGAAAATCATGTTAAGGCTGTTGTAGTG
+ACTGATGGAGAGAGAATTCTGGGTCTTGGAGATCTGGGTGTCTATGGAATGGGAATTCCA
+GTAGGAAAACTTTGTTTGTATACAGCTTGTGCAGGAATACGGCCTGATAGATGCCTGCCA
+GTGTGTATTGATGTGGGAACTGATAATATCGCACTCTTAAAAGACCCATTTTACATGGGC
+TTGTACCAGAAACGAGATCGCACACAACAGTATGATGACCTGATTGATGAGTTTATGAAA
+GCTATTACTGACAGATATGGCCGGAACACACTCATTCAGTTCGAAGACTTTGGAAATCAT
+AATGCATTCAGGTTCTTGAGAAAGTACCGAGAAAAATATTGTACTTTCAATGATGATATT
+CAAGGGACAGCTGCAGTAGCTCTAGCAGGTCTTCTTGCAGCACAAAAAGTTATTAGTAAA
+CCAATCTCCGAACACAAAATCTTATTCCTTGGAGCAGGAGAGGCTGCTCTTGGAATTGCA
+AATCTTATAGTTATGTCTATGGTAGAAAATGGCCTGTCAGAACAAGAGGCACAAAAGAAA
+ATCTGGATGTTTGACAAGTATGGTTTATTAGTTAAGGGACGGAAAGCAAAAATAGATAGT
+TATCAGGAACCATTTACTCACTCAGCCCCAGAGAGCATACCTGATACTTTTGAAGATGCA
+GTGAATATACTGAAGCCTTCAACTATTATTGGAGTTGCAGGTGCTGGCCGTCTTTTCACT
+CCTGATGTAATCAGAGCCATGGCCTCTATCAATGAAAGGCCTGTAATATTTGCATTAAGT
+AATCCTACAGCACAGGCAGAGTGCACGGCTGAAGAAGCATATACACTTACAGAGGGCAGG
+TGTTTGTTTGCCAGTGGCAGTCCATTTGGGCCAGTGAAACTTACAGATGGGCGAGTCTTT
+ACACCAGGTCAAGGAAACAATGTTTATATTTTTCCAGGTGTGGCTTTAGCTGTTATTCTC
+TGTAACACCCGGCATATTAGTGACAGTGTTTTCCTAGAAGCTGCAAAGGCCCTGACAAGC
+CAATTGACAGATGAAGAGCTAGCCCAAGGGAGACTTTACCCACCGCTTGCTAATATTCAG
+GAAGTTTCTATTAACATTGCTATTAAAGTTACAGAATACCTATATGCTAATAAAATGGCT
+TTCCGATACCCAGAACCTGAAGACAAGGCCAAATATGTTAAAGAAAGAACATGGCGGAGT
+GAATATGATTCCCTGCTGCCAGATGTGTATGAATGGCCAGAATCTGCATCAAGCCCTCCT
+GTGATAACAGAATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>584</residue_number>
+    <molecular_weight>53585.73</molecular_weight>
+    <theoretical_pi>8.54</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>malic</name>
+        <pfam_id>PF00390</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Malic_M</name>
+        <pfam_id>PF03949</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;NAD-dependent malic enzyme, mitochondrial
+MLSRLRVVSTTCTLACRHLHIKEKGKPLMLNPRTNKGMAFTLQERQMLGLQGLLPPKIET
+QDIQALRFHRNLKKMTSPLEKYIYIMGIQERNEKLFYRILQDDIESLMPIVYTPTVGLAC
+SQYGHIFRRPKGLFISISDRGHVRSIVDNWPENHVKAVVVTDGERILGLGDLGVYGMGIP
+VGKLCLYTACAGIRPDRCLPVCIDVGTDNIALLKDPFYMGLYQKRDRTQQYDDLIDEFMK
+AITDRYGRNTLIQFEDFGNHNAFRFLRKYREKYCTFNDDIQGTAAVALAGLLAAQKVISK
+PISEHKILFLGAGEAALGIANLIVMSMVENGLSEQEAQKKIWMFDKYGLLVKGRKAKIDS
+YQEPFTHSAPESIPDTFEDAVNILKPSTIIGVAGAGRLFTPDVIRAMASINERPVIFALS
+NPTAQAECTAEEAYTLTEGRCLFASGSPFGPVKLTDGRVFTPGQGNNVYIFPGVALAVIL
+CNTRHISDSVFLEAAKALTSQLTDEELAQGRLYPPLANIQEVSINIAIKVTEYLYANKMA
+FRYPEPEDKAKYVKERTWRSEYDSLLPDVYEWPESASSPPVITE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P23368</uniprot_id>
+  <uniprot_name>MAOM_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1DO8</pdb_id>
+    <pdb_id>1EFK</pdb_id>
+    <pdb_id>1EFL</pdb_id>
+    <pdb_id>1GZ3</pdb_id>
+    <pdb_id>1GZ4</pdb_id>
+    <pdb_id>1PJ2</pdb_id>
+    <pdb_id>1PJ3</pdb_id>
+    <pdb_id>1PJ4</pdb_id>
+    <pdb_id>1PJL</pdb_id>
+    <pdb_id>1QR6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M55905</genbank_gene_id>
+  <genecard_id>ME2</genecard_id>
+  <geneatlas_id>ME2</geneatlas_id>
+  <hgnc_id>HGNC:6984</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Loeber G, Infante AA, Maurer-Fogy I, Krystek E, Dworkin MB: Human NAD(+)-dependent mitochondrial malic enzyme. cDNA cloning, primary structure, and expression in Escherichia coli. J Biol Chem. 1991 Feb 15;266(5):3016-21.</reference_text>
+      <pubmed_id>1993674</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yanaihara N, Kohno T, Takakura S, Takei K, Otsuka A, Sunaga N, Takahashi M, Yamazaki M, Tashiro H, Fukuzumi Y, Fujimori Y, Hagiwara K, Tanaka T, Yokota J: Physical and transcriptional map of a 311-kb segment of chromosome 18q21, a candidate lung tumor suppressor locus. Genomics. 2001 Mar 1;72(2):169-79.</reference_text>
+      <pubmed_id>11401430</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gevaert K, Goethals M, Martens L, Van Damme J, Staes A, Thomas GR, Vandekerckhove J: Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides. Nat Biotechnol. 2003 May;21(5):566-9. Epub 2003 Mar 31.</reference_text>
+      <pubmed_id>12665801</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu Y, Bhargava G, Wu H, Loeber G, Tong L: Crystal structure of human mitochondrial NAD(P)(+)-dependent malic enzyme: a new class of oxidative decarboxylases. Structure. 1999;7(8):877-889.</reference_text>
+      <pubmed_id>10467136</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang Z, Floyd DL, Loeber G, Tong L: Structure of a closed form of human malic enzyme and implications for catalytic mechanism. Nat Struct Biol. 2000 Mar;7(3):251-7.</reference_text>
+      <pubmed_id>10700286</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang Z, Lanks CW, Tong L: Molecular mechanism for the regulation of human mitochondrial NAD(P)+-dependent malic enzyme by ATP and fumarate. Structure. 2002 Jul;10(7):951-60.</reference_text>
+      <pubmed_id>12121650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao X, Yang Z, Tong L: Crystal structures of substrate complexes of malic enzyme and insights into the catalytic mechanism. Structure. 2003 Sep;11(9):1141-50.</reference_text>
+      <pubmed_id>12962632</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fumaric acid</name>
+        <accession>HMDB00134</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fumaric acid</name>
+        <accession>HMDB00134</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mesoxalic acid</name>
+        <accession>HMDB31522</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mesoxalic acid</name>
+        <accession>HMDB31522</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxypropanedioic acid</name>
+        <accession>HMDB35227</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxypropanedioic acid</name>
+        <accession>HMDB35227</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

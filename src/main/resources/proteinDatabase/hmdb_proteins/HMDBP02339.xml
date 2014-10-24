@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:04:31 -0700</creation_date>
+  <update_date>2013-05-27 11:09:22 -0600</update_date>
+  <accession>HMDBP02339</accession>
+  <secondary_accessions>
+    <accession>7827</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>CD92 antigen</synonym>
+    <synonym>CDw92</synonym>
+    <synonym>Solute carrier family 44 member 1</synonym>
+  </synonyms>
+  <gene_name>SLC44A1</gene_name>
+  <general_function>Involved in choline transmembrane transporter activity</general_function>
+  <specific_function>Choline transporter. May be involved in membrane synthesis and myelin production.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00097</accession>
+      <name>Choline</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial outer membrane</description>
+      <go_id>GO:0005741</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>choline transmembrane transporter activity</description>
+      <go_id>GO:0015220</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylcholine biosynthetic process</description>
+      <go_id>GO:0006656</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+    <subcellular_location>Mitochondrion outer membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q31.2</locus>
+    <gene_sequence>&gt;1974 bp
+ATGGGCTGCTGCAGCTCCGCCTCCTCCGCCGCGCAGAGCTCCAAACGAGAATGGAAGCCG
+CTGGAGGACCGTAGCTGCACAGACATACCATGGCTGCTGCTCTTCATCCTCTTCTGCATT
+GGGATGGGATTTATTTGTGGCTTTTCAATAGCAACAGGTGCAGCAGCAAGACTAGTGTCA
+GGATACGACAGCTATGGAAATATCTGTGGGCAGAAAAATACAAAGTTGGAAGCAATACCA
+AACAGTGGCATGGACCACACCCAGCGGAAGTATGTATTCTTTTTGGATCCATGCAACCTG
+GACTTGATAAACCGGAAGATTAAGTCTGTAGCACTGTGTGTAGCAGCGTGTCCAAGGCAA
+GAACTGAAAACTCTGAGTGATGTTCAGAAGTTTGCAGAGATAAATGGTTCAGCCCTATGT
+AGCTACAACCTAAAGCCTTCTGAATACACTACATCTCCAAAATCTTCTGTTCTCTGCCCC
+AAACTACCAGTTCCAGCGAGTGCACCTATTCCATTCTTCCATCGCTGTGCTCCTGTGAAC
+ATTTCCTGCTATGCCAAGTTTGCAGAGGCCCTGATCACCTTTGTCAGTGACAATAGTGTC
+TTACACAGGCTGATTAGTGGAGTAATGACCAGCAAAGAAATTATATTGGGACTTTGCTTG
+TTATCACTAGTTCTATCCATGATTTTGATGGTGATAATCAGGTATATATCAAGAGTACTT
+GTGTGGATCTTAACGATTCTGGTCATACTCGGTTCACTTGGAGGCACAGGTGTACTATGG
+TGGCTGTATGCAAAGCAAAGAAGGTCTCCCAAAGAAACTGTTACTCCTGAGCAGCTTCAG
+ATAGCTGAAGACAATCTTCGGGCCCTCCTCATTTATGCCATTTCAGCTACAGTGTTCACA
+GTGATCTTATTCCTGATAATGTTGGTTATGCGCAAACGTGTTGCTCTTACCATCGCCTTG
+TTCCACGTAGCTGGCAAGGTCTTCATTCACTTGCCACTGCTAGTCTTCCAACCCTTCTGG
+ACTTTCTTTGCTCTTGTCTTGTTTTGGGTGTACTGGATCATGACACTTCTTTTTCTTGGC
+ACTACCGGCAGTCCTGTTCAGAATGAGCAAGGCTTTGTGGAGTTCAAAATTTCTGGGCCT
+CTGCAGTACATGTGGTGGTACCATGTGGTGGGCCTGATTTGGATCAGTGAATTTATTCTA
+GCATGTCAGCAGATGACAGTGGCAGGAGCTGTGGTAACATACTATTTTACTAGGGATAAA
+AGGAATTTGCCATTTACACCTATTTTGGCATCAGTAAATCGCCTTATTCGTTACCACCTA
+GGTACGGTGGCAAAAGGATCTTTCATTATCACATTAGTCAAAATTCCGCGAATGATCCTT
+ATGTATATTCACAGTCAGCTCAAAGGAAAGGAAAATGCTTGTGCACGATGTGTGCTGAAA
+TCTTGCATTTGTTGCCTTTGGTGTCTTGAAAAGTGCCTAAATTATTTAAATCAGAATGCA
+TACACAGCCACAGCTATCAACAGCACCAACTTCTGCACCTCAGCAAAGGATGCCTTTGTC
+ATTCTGGTGGAGAATGCTTTGCGAGTGGCTACCATCAACACAGTAGGAGATTTTATGTTA
+TTCCTTGGCAAGGTGCTGATAGTCTGCAGCACAGGTTTAGCTGGGATTATGCTGCTCAAC
+TACCAGCAGGACTACACAGTATGGGTGCTGCCTCTGATCATCGTCTGCCTCTTTGCTTTC
+CTAGTCGCTCATTGCTTCCTGTCTATTTATGAAATGGTAGTGGATGTATTATTCTTGTGT
+TTTGCCATTGATACAAAATACAATGATGGGAGCCCTGGCAGAGAATTCTATATGGATAAA
+GTGCTGATGGAGTTTGTGGAAAACAGTAGGAAAGCAATGAAAGAAGCTGGTAAGGGAGGC
+GTCGCTGATTCCAGAGAGCTAAAGCCGATGGCTTCGGGAGCAAGTTCTGCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>657</residue_number>
+    <molecular_weight>73301.28</molecular_weight>
+    <theoretical_pi>8.602</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DUF580</name>
+        <pfam_id>PF04515</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Choline transporter-like protein 1
+MGCCSSASSAAQSSKREWKPLEDRSCTDIPWLLLFILFCIGMGFICGFSIATGAAARLVS
+GYDSYGNICGQKNTKLEAIPNSGMDHTQRKYVFFLDPCNLDLINRKIKSVALCVAACPRQ
+ELKTLSDVQKFAEINGSALCSYNLKPSEYTTSPKSSVLCPKLPVPASAPIPFFHRCAPVN
+ISCYAKFAEALITFVSDNSVLHRLISGVMTSKEIILGLCLLSLVLSMILMVIIRYISRVL
+VWILTILVILGSLGGTGVLWWLYAKQRRSPKETVTPEQLQIAEDNLRALLIYAISATVFT
+VILFLIMLVMRKRVALTIALFHVAGKVFIHLPLLVFQPFWTFFALVLFWVYWIMTLLFLG
+TTGSPVQNEQGFVEFKISGPLQYMWWYHVVGLIWISEFILACQQMTVAGAVVTYYFTRDK
+RNLPFTPILASVNRLIRYHLGTVAKGSFIITLVKIPRMILMYIHSQLKGKENACARCVLK
+SCICCLWCLEKCLNYLNQNAYTATAINSTNFCTSAKDAFVILVENALRVATINTVGDFML
+FLGKVLIVCSTGLAGIMLLNYQQDYTVWVLPLIIVCLFAFLVAHCFLSIYEMVVDVLFLC
+FAIDTKYNDGSPGREFYMDKVLMEFVENSRKAMKEAGKGGVADSRELKPMASGASSA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>18034692</genbank_protein_id>
+  <uniprot_id>Q8WWI5</uniprot_id>
+  <uniprot_name>CTL1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_080546.3</genbank_gene_id>
+  <genecard_id>SLC44A1</genecard_id>
+  <geneatlas_id>SLC44A1</geneatlas_id>
+  <hgnc_id>HGNC:18798</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>O'Regan S, Traiffort E, Ruat M, Cha N, Compaore D, Meunier FM: An electric lobe suppressor for a yeast choline transport mutation belongs to a new family of transporter-like proteins. Proc Natl Acad Sci U S A. 2000 Feb 15;97(4):1835-40.</reference_text>
+      <pubmed_id>10677542</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wille S, Szekeres A, Majdic O, Prager E, Staffler G, Stockl J, Kunthalert D, Prieschl EE, Baumruker T, Burtscher H, Zlabinger GJ, Knapp W, Stockinger H: Characterization of CDw92 as a member of the choline transporter-like protein family regulated specifically on dendritic cells. J Immunol. 2001 Nov 15;167(10):5795-804.</reference_text>
+      <pubmed_id>11698453</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Traiffort E, Ruat M, O'Regan S, Meunier FM: Molecular characterization of the family of choline transporter-like proteins and their splice variants. J Neurochem. 2005 Mar;92(5):1116-25.</reference_text>
+      <pubmed_id>15715662</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Michel V, Bakovic M: The solute carrier 44A1 is a mitochondrial protein and mediates choline transport. FASEB J. 2009 Aug;23(8):2749-58. Epub 2009 Apr 8.</reference_text>
+      <pubmed_id>19357133</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

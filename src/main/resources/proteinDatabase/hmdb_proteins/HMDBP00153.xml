@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:09 -0700</creation_date>
+  <update_date>2013-05-27 11:13:47 -0600</update_date>
+  <accession>HMDBP00153</accession>
+  <secondary_accessions>
+    <accession>5385</accession>
+    <accession>HMDBP03765</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>SE</synonym>
+    <synonym>Squalene epoxidase</synonym>
+  </synonyms>
+  <gene_name>SQLE</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Catalyzes the first oxygenation step in sterol biosynthesis and is suggested to be one of the rate-limiting enzymes in this pathway.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Steroid Biosynthesis</name>
+      <smpdb_id>SMP00023</smpdb_id>
+      <kegg_map_id>map00100</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>lanosterol biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00256</accession>
+      <name>Squalene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12947</accession>
+      <name>Ferrocytochrome</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14873</accession>
+      <name>Naftifine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14995</accession>
+      <name>Terbinafine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15223</accession>
+      <name>Butenafine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59621</accession>
+      <name>(3S)-2,3-epoxy-2,3-dihydrosqualene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>squalene monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fad or fadh2 binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>flavin adenine dinucleotide binding</description>
+      <go_id>GO:0050660</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>squalene monooxygenase activity</description>
+      <go_id>GO:0004506</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular aromatic compound metabolic process</description>
+      <go_id>GO:0006725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cholesterol biosynthetic process</description>
+      <go_id>GO:0006695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to organic substance</description>
+      <go_id>GO:0010033</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Microsome membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q24.1</locus>
+    <gene_sequence>&gt;1725 bp
+ATGTGGACTTTTCTGGGCATTGCCACTTTCACCTATTTTTATAAGAAGTTCGGGGACTTC
+ATCACTTTGGCCAACAGGGAGGTCCTGTTGTGCGTGCTGGTGTTCCTCTCGCTGGGCCTG
+GTGCTCTCCTACCGCTGTCGCCACCGAAACGGGGGTCTCCTCGGGCGCCAGCAGAGCGGC
+TCCCAGTTCGCCCTCTTCTCGGATATTCTCTCAGGCCTGCCTTTCATTGGCTTCTTCTGG
+GCCAAATCCCCCCCTGAATCAGAAAATAAGGAGCAGCTCGAGGCCAGGAGGCGCAGAAAA
+GGAACCAATATTTCAGAAACAAGCTTAATAGGAACAGCTGCCTGTACATCAACATCTTCT
+CAGAATGACCCAGAAGTTATCATCGTGGGAGCTGGCGTGCTTGGCTCTGCTTTGGCAGCT
+GTGCTTTCCAGAGATGGAAGAAAGGTGACAGTCATTGAGAGAGACTTAAAAGAGCCTGAC
+AGAATAGTTGGAGAATTCCTGCAGCCGGGTGGTTATCATGTTCTCAAAGACCTTGGTCTT
+GGAGATACAGTGGAAGGTCTTGATGCCCAGGTTGTAAATGGTTACATGATTCATGATCAG
+GAAAGCAAATCAGAGGTTCAGATTCCTTACCCTCTGTCAGAAAACAATCAAGTGCAGAGT
+GGAAGAGCTTTCCATCACGGAAGATTCATCATGAGTCTCCGGAAAGCAGCTATGGCAGAG
+CCCAATGCAAAGTTTATTGAAGGTGTTGTGTTACAGTTATTAGAGGAAGATGATGTTGTG
+ATGGGAGTTCAGTACAAGGATAAAGAGACTGGAGATATCAAGGAACTCCATGCTCCACTG
+ACTGTTGTTGCAGATGGGCTTTTCTCCAAGTTCAGGAAAAGCCTGGTCTCCAATAAAGTT
+TCTGTATCATCTCATTTTGTTGGCTTTCTTATGAAGAATGCACCACAGTTTAAAGCAAAT
+CATGCTGAACTTATTTTAGCTAACCCGAGTCCAGTTCTCATCTACCAGATTTCATCCAGT
+GAAACTCGAGTACTTGTTGACATTAGAGGAGAAATGCCAAGGAATTTAAGAGAATACATG
+GTTGAAAAAATTTACCCACAAATACCTGATCACCTGAAAGAACCATTCTTAGAAGCCACT
+GACAATTCTCATCTGAGGTCCATGCCAGCAAGCTTCCTTCCTCCTTCATCAGTGAAGAAA
+CGAGGTGTTCTTCTTTTGGGAGACGCATATAATATGAGGCATCCACTTACTGGTGGAGGA
+ATGACTGTTGCTTTTAAAGATATAAAACTATGGAGAAAACTGCTAAAGGGTATCCCTGAC
+CTTTATGATGATGCAGCTATTTTCGAGGCCAAAAAATCATTTTACTGGGCAAGAAAAACA
+TCTCATTCCTTTGTCGTGAATATCCTTGCTCAGGCTCTTTATGAATTATTTTCTGCCACA
+GATGATTCCCTGCATCAACTAAGAAAAGCCTGTTTTCTTTATTTCAAACTTGGTGGCGAA
+TGTGTTGCGGGTCCTGTTGGGCTGCTTTCTGTATTGTCTCCTAACCCTCTAGTTTTAATT
+GGACACTTCTTTGCTGTTGCAATCTATGCCGTGTATTTTTGCTTTAAGTCAGAACCTTGG
+ATTACAAAACCTCGAGCCCTTCTCAGTAGTGGTGCTGTATTGTACAAAGCGTGTTCTGTA
+ATATTTCCTCTAATTTACTCAGAAATGAAGTATATGGTTCATTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>574</residue_number>
+    <molecular_weight>63922.505</molecular_weight>
+    <theoretical_pi>8.628</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pyr_redox</name>
+        <pfam_id>PF00070</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SE</name>
+        <pfam_id>PF08491</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Squalene monooxygenase
+MWTFLGIATFTYFYKKFGDFITLANREVLLCVLVFLSLGLVLSYRCRHRNGGLLGRQQSG
+SQFALFSDILSGLPFIGFFWAKSPPESENKEQLEARRRRKGTNISETSLIGTAACTSTSS
+QNDPEVIIVGAGVLGSALAAVLSRDGRKVTVIERDLKEPDRIVGEFLQPGGYHVLKDLGL
+GDTVEGLDAQVVNGYMIHDQESKSEVQIPYPLSENNQVQSGRAFHHGRFIMSLRKAAMAE
+PNAKFIEGVVLQLLEEDDVVMGVQYKDKETGDIKELHAPLTVVADGLFSKFRKSLVSNKV
+SVSSHFVGFLMKNAPQFKANHAELILANPSPVLIYQISSSETRVLVDIRGEMPRNLREYM
+VEKIYPQIPDHLKEPFLEATDNSHLRSMPASFLPPSSVKKRGVLLLGDAYNMRHPLTGGG
+MTVAFKDIKLWRKLLKGIPDLYDDAAIFEAKKSFYWARKTSHSFVVNILAQALYELFSAT
+DDSLHQLRKACFLYFKLGGECVAGPVGLLSVLSPNPLVLIGHFFAVAIYAVYFCFKSEPW
+ITKPRALLSSGAVLYKACSVIFPLIYSEMKYMVH</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62865635</genbank_protein_id>
+  <uniprot_id>Q14534</uniprot_id>
+  <uniprot_name>ERG1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_003129.3</genbank_gene_id>
+  <genecard_id>SQLE</genecard_id>
+  <geneatlas_id>SQLE</geneatlas_id>
+  <hgnc_id>HGNC:11279</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Nagai M, Sakakibara J, Wakui K, Fukushima Y, Igarashi S, Tsuji S, Arakawa M, Ono T: Localization of the squalene epoxidase gene (SQLE) to human chromosome region 8q24.1. Genomics. 1997 Aug 15;44(1):141-3.</reference_text>
+      <pubmed_id>9286711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nusbaum C, Mikkelsen TS, Zody MC, Asakawa S, Taudien S, Garber M, Kodira CD, Schueler MG, Shimizu A, Whittaker CA, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Yang X, Allen NR, Anderson S, Asakawa T, Blechschmidt K, Bloom T, Borowsky ML, Butler J, Cook A, Corum B, DeArellano K, DeCaprio D, Dooley KT, Dorris L 3rd, Engels R, Glockner G, Hafez N, Hagopian DS, Hall JL, Ishikawa SK, Jaffe DB, Kamat A, Kudoh J, Lehmann R, Lokitsang T, Macdonald P, Major JE, Matthews CD, Mauceli E, Menzel U, Mihalev AH, Minoshima S, Murayama Y, Naylor JW, Nicol R, Nguyen C, O'Leary SB, O'Neill K, Parker SC, Polley A, Raymond CK, Reichwald K, Rodriguez J, Sasaki T, Schilhabel M, Siddiqui R, Smith CL, Sneddon TP, Talamas JA, Tenzin P, Topham K, Venkataraman V, Wen G, Yamazaki S, Young SK, Zeng Q, Zimmer AR, Rosenthal A, Birren BW, Platzer M, Shimizu N, Lander ES: DNA sequence and analysis of human chromosome 8.  Nature. 2006 Jan 19;439(7074):331-5.</reference_text>
+      <pubmed_id>16421571</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakamura Y, Sakakibara J, Izumi T, Shibata A, Ono T: Transcriptional regulation of squalene epoxidase by sterols and inhibitors in HeLa cells. J Biol Chem. 1996 Apr 5;271(14):8053-6.</reference_text>
+      <pubmed_id>8626488</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naftifine</name>
+        <accession>HMDB14873</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naftifine</name>
+        <accession>HMDB14873</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Favre B, Ryder NS: Characterization of squalene epoxidase activity from the dermatophyte Trichophyton rubrum and its inhibition by terbinafine and other antimycotic agents. Antimicrob Agents Chemother. 1996 Feb;40(2):443-7.</reference_text>
+        <pubmed_id>8834895</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naftifine</name>
+        <accession>HMDB14873</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vanden Bossche H, Marichal P: Mode of action of anti-Candida drugs: focus on terconazole and other ergosterol biosynthesis inhibitors. Am J Obstet Gynecol. 1991 Oct;165(4 Pt 2):1193-9.</reference_text>
+        <pubmed_id>1951574</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naftifine</name>
+        <accession>HMDB14873</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mukherjee PK, Leidich SD, Isham N, Leitner I, Ryder NS, Ghannoum MA: Clinical Trichophyton rubrum strain exhibiting primary resistance to terbinafine.  Antimicrob Agents Chemother. 2003 Jan;47(1):82-6.</reference_text>
+        <pubmed_id>12499173</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naftifine</name>
+        <accession>HMDB14873</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ryder NS, Dupont MC: Inhibition of squalene epoxidase by allylamine antimycotic compounds. A comparative study of the fungal and mammalian enzymes. Biochem J. 1985 Sep 15;230(3):765-70.</reference_text>
+        <pubmed_id>3877503</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Naftifine</name>
+        <accession>HMDB14873</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ryder NS, Frank I: Interaction of terbinafine with human serum and serum proteins.  J Med Vet Mycol. 1992;30(6):451-60.</reference_text>
+        <pubmed_id>1287164</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sander CS, Hipler UC, Wollina U, Elsner P: Inhibitory effect of terbinafine on reactive oxygen species (ROS) generation by Candida albicans. Mycoses. 2002 Jun;45(5-6):152-5.</reference_text>
+        <pubmed_id>12100530</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wentzinger LF, Bach TJ, Hartmann MA: Inhibition of squalene synthase and squalene epoxidase in tobacco cells triggers an up-regulation of 3-hydroxy-3-methylglutaryl coenzyme a reductase. Plant Physiol. 2002 Sep;130(1):334-46.</reference_text>
+        <pubmed_id>12226513</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Darkes MJ, Scott LJ, Goa KL: Terbinafine: a review of its use in onychomycosis in adults.  Am J Clin Dermatol. 2003;4(1):39-65.</reference_text>
+        <pubmed_id>12477372</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Klobucnikova V, Kohut P, Leber R, Fuchsbichler S, Schweighofer N, Turnowsky F, Hapala I: Terbinafine resistance in a pleiotropic yeast mutant is caused by a single point mutation in the ERG1 gene. Biochem Biophys Res Commun. 2003 Sep 26;309(3):666-71.</reference_text>
+        <pubmed_id>12963042</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leber R, Fuchsbichler S, Klobucnikova V, Schweighofer N, Pitters E, Wohlfarter K, Lederer M, Landl K, Ruckenstuhl C, Hapala I, Turnowsky F: Molecular mechanism of terbinafine resistance in Saccharomyces cerevisiae.  Antimicrob Agents Chemother. 2003 Dec;47(12):3890-900.</reference_text>
+        <pubmed_id>14638499</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ryder NS: Terbinafine: mode of action and properties of the squalene epoxidase inhibition.  Br J Dermatol. 1992 Feb;126 Suppl 39:2-7.</reference_text>
+        <pubmed_id>1543672</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Krishnan-Natesan S: Terbinafine: a pharmacological and clinical review.  Expert Opin Pharmacother. 2009 Nov;10(16):2723-33.</reference_text>
+        <pubmed_id>19874252</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butenafine</name>
+        <accession>HMDB15223</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mukherjee PK, Leidich SD, Isham N, Leitner I, Ryder NS, Ghannoum MA: Clinical Trichophyton rubrum strain exhibiting primary resistance to terbinafine.  Antimicrob Agents Chemother. 2003 Jan;47(1):82-6.</reference_text>
+        <pubmed_id>12499173</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butenafine</name>
+        <accession>HMDB15223</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gao PH, Cao YB, Xu Z, Zhang JD, Zhang WN, Wang Y, Gu J, Cao YY, Li RY, Jia XM, Jiang YY: In vitro antifungal activity of ZJ-522, a new triazole restructured from fluconazole and butenafine, against clinically important fungi in comparison with fluconazole and butenafine. Biol Pharm Bull. 2005 Aug;28(8):1414-7.</reference_text>
+        <pubmed_id>16079485</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butenafine</name>
+        <accession>HMDB15223</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Singal A: Butenafine and superficial mycoses: current status.  Expert Opin Drug Metab Toxicol. 2008 Jul;4(7):999-1005.</reference_text>
+        <pubmed_id>18624686</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butenafine</name>
+        <accession>HMDB15223</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ramam M, Prasad HR, Manchanda Y, Khaitan BK, Banerjee U, Mukhopadhyaya A, Shetty R, Gogtay JA: Randomised controlled trial of topical butenafine in tinea cruris and tinea corporis. Indian J Dermatol Venereol Leprol. 2003 Mar-Apr;69(2):154-8.</reference_text>
+        <pubmed_id>17642865</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butenafine</name>
+        <accession>HMDB15223</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Iwatani W, Arika T, Yamaguchi H: Two mechanisms of butenafine action in Candida albicans.  Antimicrob Agents Chemother. 1993 Apr;37(4):785-8.</reference_text>
+        <pubmed_id>8494375</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Butenafine</name>
+        <accession>HMDB15223</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:44 -0700</creation_date>
+  <update_date>2013-01-15 19:01:44 -0700</update_date>
+  <accession>HMDBP02029</accession>
+  <secondary_accessions>
+    <accession>7487</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>6-O-methylguanine-DNA methyltransferase</synonym>
+    <synonym>MGMT</synonym>
+    <synonym>O-6-methylguanine-DNA-alkyltransferase</synonym>
+  </synonyms>
+  <gene_name>MGMT</gene_name>
+  <general_function>Involved in methylated-DNA-[protein]-cysteine S-methyltransferase activity</general_function>
+  <specific_function>Involved in the cellular defense against the biological effects of O6-methylguanine (O6-MeG) in DNA. Repairs alkylated guanine in DNA by stoichiometrically transferring the alkyl group at the O-6 position to a cysteine residue in the enzyme. This is a suicide reaction:the enzyme is irreversibly inactivated</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00574</accession>
+      <name>L-Cysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02108</accession>
+      <name>Methylcysteine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>methylated-dna-[protein]-cysteine s-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>s-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>10q26</locus>
+    <gene_sequence>&gt;624 bp
+ATGGACAAGGATTGTGAAATGAAACGCACCACACTGGACAGCCCTTTGGGGAAGCTGGAG
+CTGTCTGGTTGTGAGCAGGGTCTGCACGAAATAAAGCTCCTGGGCAAGGGGACGTCTGCA
+GCTGATGCCGTGGAGGTCCCAGCCCCCGCTGCGGTTCTCGGAGGTCCGGAGCCCCTGATG
+CAGTGCACAGCCTGGCTGAATGCCTATTTCCACCAGCCCGAGGCTATCGAAGAGTTCCCC
+GTGCCGGCACTTCACCATCCCGTTTTCCAGCAAGAGTCGTTCACCAGACAGGTGTTATGG
+AAGCTGCTGAAGGTTGTGAAATTCGGAGAAGTGATTTCTTACCAGCAATTAGCAGCCCTG
+GCAGGCAACCCCAAAGCCGCGCGAGCAGTGGGAGGAGCAATGAGAGGCAATCCTGTCCCC
+ATCCTCATCCCGTGCCACAGAGTGGTCTGCAGCAGCGGAGCCGTGGGCAACTACTCCGGA
+GGACTGGCCGTGAAGGAATGGCTTCTGGCCCATGAAGGCCACCGGTTGGGGAAGCCAGGC
+TTGGGAGGGAGCTCAGGTCTGGCAGGGGCCTGGCTCAAGGGAGCGGGAGCTACCTCGGGC
+TCCCCGCCTGCTGGCCGAAACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>207</residue_number>
+    <molecular_weight>21645.8</molecular_weight>
+    <theoretical_pi>8.23</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DNA_binding_1</name>
+        <pfam_id>PF01035</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Methyltransf_1N</name>
+        <pfam_id>PF02870</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Methylated-DNA--protein-cysteine methyltransferase
+MDKDCEMKRTTLDSPLGKLELSGCEQGLHEIKLLGKGTSAADAVEVPAPAAVLGGPEPLM
+QCTAWLNAYFHQPEAIEEFPVPALHHPVFQQESFTRQVLWKLLKVVKFGEVISYQQLAAL
+AGNPKAARAVGGAMRGNPVPILIPCHRVVCSSGAVGNYSGGLAVKEWLLAHEGHRLGKPG
+LGGSSGLAGAWLKGAGATSGSPPAGRN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>34559</genbank_protein_id>
+  <uniprot_id>P16455</uniprot_id>
+  <uniprot_name>MGMT_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1EH6</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X54228</genbank_gene_id>
+  <genecard_id>MGMT</genecard_id>
+  <geneatlas_id>MGMT</geneatlas_id>
+  <hgnc_id>HGNC:7059</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tano K, Shiota S, Collier J, Foote RS, Mitra S: Isolation and structural characterization of a cDNA clone encoding the human DNA repair protein for O6-alkylguanine. Proc Natl Acad Sci U S A. 1990 Jan;87(2):686-90.</reference_text>
+      <pubmed_id>2405387</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rydberg B, Spurr N, Karran P: cDNA cloning and chromosomal assignment of the human O6-methylguanine-DNA methyltransferase. cDNA expression in Escherichia coli and gene expression in human cells. J Biol Chem. 1990 Jun 5;265(16):9563-9.</reference_text>
+      <pubmed_id>2188979</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Koike G, Maki H, Takeya H, Hayakawa H, Sekiguchi M: Purification, structure, and biochemical properties of human O6-methylguanine-DNA methyltransferase. J Biol Chem. 1990 Sep 5;265(25):14754-62.</reference_text>
+      <pubmed_id>2394694</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hayakawa H, Koike G, Sekiguchi M: Expression and cloning of complementary DNA for a human enzyme that repairs O6-methylguanine in DNA. J Mol Biol. 1990 Jun 20;213(4):739-47.</reference_text>
+      <pubmed_id>2359121</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>von Wronski MA, Shiota S, Tano K, Mitra S, Bigner DD, Brent TP: Structural and immunological comparison of indigenous human O6-methylguanine-DNA methyltransferase with that encoded by a cloned cDNA. J Biol Chem. 1991 Jan 15;266(2):1064-70.</reference_text>
+      <pubmed_id>1985934</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liem LK, Lim A, Li BF: Specificities of human, rat and E. coli O6-methylguanine-DNA methyltransferases towards the repair of O6-methyl and O6-ethylguanine in DNA. Nucleic Acids Res. 1994 May 11;22(9):1613-9.</reference_text>
+      <pubmed_id>8202360</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Crone TM, Goodtzova K, Edara S, Pegg AE: Mutations in human O6-alkylguanine-DNA alkyltransferase imparting resistance to O6-benzylguanine. Cancer Res. 1994 Dec 1;54(23):6221-7.</reference_text>
+      <pubmed_id>7954470</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kanugula S, Goodtzova K, Edara S, Pegg AE: Alteration of arginine-128 to alanine abolishes the ability of human O6-alkylguanine-DNA alkyltransferase to repair methylated DNA but has no effect on its reaction with O6-benzylguanine. Biochemistry. 1995 May 30;34(21):7113-9.</reference_text>
+      <pubmed_id>7766621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Edara S, Goodtzova K, Pegg AE: The role of tyrosine-158 in O6-alkylguanine-DNA alkyltransferase activity.  Carcinogenesis. 1995 Jul;16(7):1637-42.</reference_text>
+      <pubmed_id>7614699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imami K, Sugiyama N, Kyono Y, Tomita M, Ishihama Y: Automated phosphoproteome analysis for cultured cancer cells by two-dimensional nanoLC-MS using a calcined titania/C18 biphasic column. Anal Sci. 2008 Jan;24(1):161-6.</reference_text>
+      <pubmed_id>18187866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daniels DS, Mol CD, Arvai AS, Kanugula S, Pegg AE, Tainer JA: Active and alkylated human AGT structures: a novel zinc site, inhibitor and extrahelical base binding. EMBO J. 2000 Apr 3;19(7):1719-30.</reference_text>
+      <pubmed_id>10747039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wibley JE, Pegg AE, Moody PC: Crystal structure of the human O(6)-alkylguanine-DNA alkyltransferase.  Nucleic Acids Res. 2000 Jan 15;28(2):393-401.</reference_text>
+      <pubmed_id>10606635</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Duguid EM, Rice PA, He C: The structure of the human AGT protein bound to DNA and its implications for damage detection. J Mol Biol. 2005 Jul 22;350(4):657-66.</reference_text>
+      <pubmed_id>15964013</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Cysteine</name>
+        <accession>HMDB00574</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Niture SK, Velu CS, Smith QR, Bhat GJ, Srivenugopal KS: Increased expression of the MGMT repair protein mediated by cysteine prodrugs and chemopreventative natural products in human lymphocytes and tumor cell lines. Carcinogenesis. 2007 Feb;28(2):378-89. Epub 2006 Aug 31.</reference_text>
+        <pubmed_id>16950796</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methylcysteine</name>
+        <accession>HMDB02108</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methylcysteine</name>
+        <accession>HMDB02108</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

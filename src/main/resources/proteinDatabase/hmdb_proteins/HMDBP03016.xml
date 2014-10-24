@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:52 -0700</creation_date>
+  <update_date>2013-01-15 19:09:52 -0700</update_date>
+  <accession>HMDBP03016</accession>
+  <secondary_accessions>
+    <accession>8541</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Peptide O-xylosyltransferase 1</synonym>
+    <synonym>XT-I</synonym>
+    <synonym>XylT-I</synonym>
+    <synonym>Xylosyltransferase I</synonym>
+  </synonyms>
+  <gene_name>XYLT1</gene_name>
+  <general_function>Involved in acetylglucosaminyltransferase activity</general_function>
+  <specific_function>Catalyzes the first step in biosynthesis of glycosaminoglycan. Transfers D-xylose from UDP-D-xylose to specific serine residues of the core protein. Initial enzyme in the biosynthesis of chondroitin sulfate and dermatan sulfate proteoglycans in fibroblasts and chondrocytes</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00632</accession>
+      <name>Dermatan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01018</accession>
+      <name>UDP-D-Xylose</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>udp-glycosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetylglucosaminyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+    <subcellular_location>Secreted (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>16p12.3</locus>
+    <gene_sequence>&gt;2880 bp
+ATGGTGGCGGCGCCGTGCGCCCGGAGGCTGGCCCGGCGCTCGCACTCGGCGCTGCTCGCG
+GCGCTCACGGTGCTGCTGCTGCAGACGCTGGTCGTGTGGAATTTCAGCAGCCTCGACTCC
+GGGGCCGGGGAGCGCCGCGGGGGCGCAGCGGTCGGCGGCGGGGAGCAGCCGCCCCCGGCC
+CCGGCCCCGCGCCGGGAGCGCCGGGACCTGCCCGCCGAGCCGGCTGCAGCCCGAGGAGGA
+GGAGGAGGCGGCGGCGGAGGAGGAGGAGGACGGGGGCCCCAGGCGCGGGCGCGGGGAGGC
+GGCCCCGGAGAACCGCGGGGACAGCAGCCGGCCAGCCGGGGGGCACTGCCCGCCCGGGCT
+CTGGATCCACACCCAAGTCCGCTCATCACCCTGGAGACTCAGGATGGCTACTTTTCTCAT
+CGGCCGAAAGAGAAAGTGCGAACAGACAGCAACAACGAGAACTCTGTCCCCAAAGACTTT
+GAGAATGTCGACAACAGCAACTTCGCACCCAGGACTCAAAAGCAGAAGCACCAGCCTGAG
+TTGGCGAAGAAGCCACCGAGTAGACAGAAGGAGCTTTTGAAAAGGAAGCTGGAACAGCAG
+GAGAAAGGAAAAGGACATACATTCCCTGGGAAAGGCCCCGGTGAGGTGCTGCCTCCCGGG
+GACAGAGCCGCAGCCAACAGCAGCCACGGGAAGGATGTGTCCAGACCGCCTCATGCCAGG
+AAAACTGGGGGCAGCTCCCCCGAGACCAAGTATGACCAGCCCCCTAAGTGTGACATCTCA
+GGCAAGGAGGCCATCTCTGCCCTGTCCCGTGCTAAGTCCAAGCACTGCCGCCAGGAGATT
+GGGGAGACTTACTGCCGCCACAAGTTAGGGCTGCTGATGCCTGAGAAGGTGACTCGGTTC
+TGCCCCCTCGAGGGTAAAGCCAACAAGAACGTGCAGTGGGACGAGGACTCCGTGGAGTAC
+ATGCCAGCCAACCCGGTCAGAATCGCCTTTGTCCTGGTGGTCCACGGCCGTGCCTCTCGG
+CAGTTGCAGCGCATGTTCAAGGCCATCTACCACAAAGACCACTTCTACTACATCCACGTG
+GACAAGCGCTCTAATTACCTGCATCGGCAAGTGCTCCAGGTCTCCAGGCAGTACAGCAAT
+GTCCGCGTCACCCCCTGGAGAATGGCCACCATCTGGGGAGGAGCCAGCCTCCTGTCCACC
+TACCTGCAGAGCATGCGGGACCTCCTGGAGATGACCGACTGGCCCTGGGACTTCTTCATC
+AACCTGAGTGCGGCCGACTACCCCATCAGGACAAATGACCAGTTGGTGGCGTTTCTCTCC
+CGATACCGAGATATGAATTTCTTGAAGTCACACGGCCGGGACAATGCAAGGTTCATTCGG
+AAGCAGGGCCTGGATCGGCTCTTCCTGGAGTGCGACGCTCACATGTGGCGCCTGGGAGAT
+CGGCGGATCCCAGAGGGCATTGCCGTGGATGGCGGTTCGGACTGGTTCCTGCTGAACCGG
+AGGTTTGTAGAATATGTGACCTTCTCCACAGACGATCTGGTGACCAAGATGAAACAGTTC
+TACTCCTACACCCTGCTTCCTGCTGAGTCCTTCTTCCATACGGTCCTGGAGAACAGCCCC
+CACTGCGACACCATGGTGGACAACAACCTGCGCATCACCAACTGGAATCGCAAGCTGGGC
+TGCAAGTGCCAGTACAAGCACATCGTGGACTGGTGCGGCTGCTCCCCCAATGACTTCAAG
+CCGCAGGACTTCCACCGCTTCCAGCAGACAGCCCGGCCTACCTTCTTTGCCCGCAAGTTT
+GAAGCCGTGGTGAATCAGGAAATCATTGGGCAGCTGGACTATTACCTGTACGGGAACTAC
+CCTGCAGGTACCCCGGGCCTGCGCTCCTACTGGGAGAATGTCTACGATGAGCCTGACGGC
+ATCCACAGCCTGAGCGACGTGACACTCACCTTGTACCACTCCTTTGCCCGCCTGGGTCTT
+CGACGGGCCGAGACGTCCCTGCACACGGATGGGGAGAACAGCTGCCGATACTACCCAATG
+GGCCACCCAGCATCTGTGCACCTCTACTTCCTTGCTGACCGCTTCCAGGGCTTTCTGATC
+AAGCATCATGCTACCAATCTGGCTGTGAGCAAACTAGAGACTCTGGAGACCTGGGTGATG
+CCGAAAAAAGTCTTCAAGATCGCAAGCCCACCCAGTGACTTTGGGAGGCTTCAGTTTTCC
+GAGGTCGGCACTGACTGGGATGCCAAGGAGAGGCTATTCCGCAACTTTGGGGGTCTTCTG
+GGGCCCATGGATGAGCCGGTGGGTATGCAGAAGTGGGGGAAGGGACCTAATGTGACCGTG
+ACCGTCATTTGGGTGGATCCCGTCAATGTCATCGCAGCCACCTACGACATCCTCATTGAG
+TCCACTGCCGAATTCACACACTACAAGCCCCCTTTGAACTTGCCCCTGAGGCCTGGGGTC
+TGGACAGTGAAAATTCTCCACCACTGGGTGCCAGTTGCAGAGACCAAATTCCTCGTTGCG
+CCTCTGACCTTCTCGAACAGGCAGCCCATCAAACCTGAGGAGGCACTGAAGCTGCACAAT
+GGGCCCCTCCGCAATGCCTACATGGAGCAGAGCTTCCAGAGCCTAAACCCCGTCCTCAGC
+CTGCCCATCAACCCCGCCCAGGTGGAACAGGCACGGAGGAACGCAGCCTCCACGGGCACA
+GCGCTGGAGGGATGGCTGGACTCGTTGGTGGGCGGGATGTGGACTGCCATGGACATCTGT
+GCCACGGGCCCCACAGCCTGCCCGGTCATGCAGACCTGCAGCCAGACGGCCTGGAGCTCC
+TTCAGCCCTGACCCCAAGTCGGAGCTGGGGGCAGTCAAACCTGATGGCCGGCTCAGGTAG
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>959</residue_number>
+    <molecular_weight>107568.4</molecular_weight>
+    <theoretical_pi>9.61</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Branch</name>
+        <pfam_id>PF02485</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>18-38</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Xylosyltransferase 1
+MVAAPCARRLARRSHSALLAALTVLLLQTLVVWNFSSLDSGAGERRGGAAVGGGEQPPPA
+PAPRRERRDLPAEPAAARGGGGGGGGGGGGRGPQARARGGGPGEPRGQQPASRGALPARA
+LDPHPSPLITLETQDGYFSHRPKEKVRTDSNNENSVPKDFENVDNSNFAPRTQKQKHQPE
+LAKKPPSRQKELLKRKLEQQEKGKGHTFPGKGPGEVLPPGDRAAANSSHGKDVSRPPHAR
+KTGGSSPETKYDQPPKCDISGKEAISALSRAKSKHCRQEIGETYCRHKLGLLMPEKVTRF
+CPLEGKANKNVQWDEDSVEYMPANPVRIAFVLVVHGRASRQLQRMFKAIYHKDHFYYIHV
+DKRSNYLHRQVLQVSRQYSNVRVTPWRMATIWGGASLLSTYLQSMRDLLEMTDWPWDFFI
+NLSAADYPIRTNDQLVAFLSRYRDMNFLKSHGRDNARFIRKQGLDRLFLECDAHMWRLGD
+RRIPEGIAVDGGSDWFLLNRRFVEYVTFSTDDLVTKMKQFYSYTLLPAESFFHTVLENSP
+HCDTMVDNNLRITNWNRKLGCKCQYKHIVDWCGCSPNDFKPQDFHRFQQTARPTFFARKF
+EAVVNQEIIGQLDYYLYGNYPAGTPGLRSYWENVYDEPDGIHSLSDVTLTLYHSFARLGL
+RRAETSLHTDGENSCRYYPMGHPASVHLYFLADRFQGFLIKHHATNLAVSKLETLETWVM
+PKKVFKIASPPSDFGRLQFSEVGTDWDAKERLFRNFGGLLGPMDEPVGMQKWGKGPNVTV
+TVIWVDPVNVIAATYDILIESTAEFTHYKPPLNLPLRPGVWTVKILHHWVPVAETKFLVA
+PLTFSNRQPIKPEEALKLHNGPLRNAYMEQSFQSLNPVLSLPINPAQVEQARRNAASTGT
+ALEGWLDSLVGGMWTAMDICATGPTACPVMQTCSQTAWSSFSPDPKSELGAVKPDGRLR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>28269693</genbank_protein_id>
+  <uniprot_id>Q86Y38</uniprot_id>
+  <uniprot_name>XYLT1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_022166.3</genbank_gene_id>
+  <genecard_id>XYLT1</genecard_id>
+  <geneatlas_id>XYLT1</geneatlas_id>
+  <hgnc_id>HGNC:15516</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Muller S, Schottler M, Schon S, Prante C, Brinkmann T, Kuhn J, Gotting C, Kleesiek K: Human xylosyltransferase I: functional and biochemical characterization of cysteine residues required for enzymic activity. Biochem J. 2005 Mar 1;386(Pt 2):227-36.</reference_text>
+      <pubmed_id>15461586</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gotting C, Kuhn J, Zahn R, Brinkmann T, Kleesiek K: Molecular cloning and expression of human UDP-d-Xylose:proteoglycan core protein beta-d-xylosyltransferase and its first isoform XT-II. J Mol Biol. 2000 Dec 8;304(4):517-28.</reference_text>
+      <pubmed_id>11099377</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kuhn J, Gotting C, Schnolzer M, Kempf T, Brinkmann T, Kleesiek K: First isolation of human UDP-D-xylose: proteoglycan core protein beta-D-xylosyltransferase secreted from cultured JAR choriocarcinoma cells. J Biol Chem. 2001 Feb 16;276(7):4940-7. Epub 2000 Nov 21.</reference_text>
+      <pubmed_id>11087729</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gotting C, Sollberg S, Kuhn J, Weilke C, Huerkamp C, Brinkmann T, Krieg T, Kleesiek K: Serum xylosyltransferase: a new biochemical marker of the sclerotic process in systemic sclerosis. J Invest Dermatol. 1999 Jun;112(6):919-24.</reference_text>
+      <pubmed_id>10383739</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gotting C, Kuhn J, Brinkmann T, Kleesiek K: Xylosyltransferase activity in seminal plasma of infertile men.  Clin Chim Acta. 2002 Mar;317(1-2):199-202.</reference_text>
+      <pubmed_id>11814476</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gotting C, Muller S, Schottler M, Schon S, Prante C, Brinkmann T, Kuhn J, Kleesiek K: Analysis of the DXD motifs in human xylosyltransferase I required for enzyme activity. J Biol Chem. 2004 Oct 8;279(41):42566-73. Epub 2004 Aug 4.</reference_text>
+      <pubmed_id>15294915</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

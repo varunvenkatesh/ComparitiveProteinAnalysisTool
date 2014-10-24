@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:41 -0700</creation_date>
+  <update_date>2013-05-27 11:04:27 -0600</update_date>
+  <accession>HMDBP00021</accession>
+  <secondary_accessions>
+    <accession>5250</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Arylamide acetylase 2</synonym>
+    <synonym>N-acetyltransferase type 2</synonym>
+    <synonym>NAT-2</synonym>
+    <synonym>PNAT</synonym>
+    <synonym>Polymorphic arylamine N-acetyltransferase</synonym>
+  </synonyms>
+  <gene_name>NAT2</gene_name>
+  <general_function>Involved in acetyltransferase activity</general_function>
+  <specific_function>Participates in the detoxification of a plethora of hydrazine and arylamine drugs. Catalyzes the N- or O-acetylation of various arylamine and heterocyclic amine substrates and is able to bioactivate several known carcinogens.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Caffeine Metabolism</name>
+      <smpdb_id>SMP00028</smpdb_id>
+      <kegg_map_id>map00232</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Caffeine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00232</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - other enzymes</name>
+      <smpdb_id/>
+      <kegg_map_id>map00983</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Chemical carcinogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05204</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03012</accession>
+      <name>Aniline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01972</accession>
+      <name>3-Aminosalicylic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13851</accession>
+      <name>N-Acetyldapsone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15086</accession>
+      <name>Isoniazid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01860</accession>
+      <name>Paraxanthine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11105</accession>
+      <name>5-Acetylamino-6-formylamino-3-methyluracil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60362</accession>
+      <name>2,4-Diamino-6-nitrotoluene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60384</accession>
+      <name>4-Acetamido-2-amino-6-nitrotoluene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41821</accession>
+      <name>Acetylisoniazid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60428</accession>
+      <name>Acetylhydrazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60496</accession>
+      <name>N,N'-Diacetylhydrazine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>arylamine N-acetyltransferase activity</description>
+      <go_id>GO:0004060</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8p22</locus>
+    <gene_sequence>&gt;873 bp
+ATGGACATTGAAGCATATTTTGAAAGAATTGGCTATAAGAACTCTAGGAACAAATTGGAC
+TTGGAAACATTAACTGACATTCTTGAGCACCAGATCCGGGCTGTTCCCTTTGAGAACCTT
+AACATGCATTGTGGGCAAGCCATGGAGTTGGGCTTAGAGGCTATTTTTGATCACATTGTA
+AGAAGAAACCGGGGTGGGTGGTGTCTCCAGGTCAATCAACTTCTGTACTGGGCTCTGACC
+ACAATCGGTTTTCAGACCACAATGTTAGGAGGGTATTTTTACATCCCTCCAGTTAACAAA
+TACAGCACTGGCATGGTTCACCTTCTCCTGCAGGTGACCACTGACGGCAGGAATTACATT
+GTCGATGCTGGGTCTGGAAGCTCCTCCCAGATGTGGCAGCCTCTAGAATTAATTTCTGGG
+AAGGATCAGCCTCAGGTGCCTTGCATTTTCTGCTTGACAGAAGAGAGAGGAATCTGGTAC
+CTGGACCAAATCAGGAGAGAGCAGTATATTACAAACAAAGAATTTCTTAATTCTCATCTC
+CTGCCAAAGAAGAAACACCAAAAAATATACTTATTTACGCTTGAACCTCGAACAATTGAA
+GATTTTGAGTCTATGAATACATACCTGCAGACGTCTCCAACATCTTCATTTATAACCACA
+TCATTTTGTTCCTTGCAGACCCCAGAAGGGGTTTACTGTTTGGTGGGCTTCATCCTCACC
+TATAGAAAATTCAATTATAAAGACAATACAGATCTGGTCGAGTTTAAAACTCTCACTGAG
+GAAGAGGTTGAAGAAGTGCTGAAAAATATATTTAAGATTTCCTTGGGGAGAAATCTCGTG
+CCCAAACCTGGTGATGGATCCCTTACTATTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>290</residue_number>
+    <molecular_weight>33570.245</molecular_weight>
+    <theoretical_pi>5.86</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Acetyltransf_2</name>
+        <pfam_id>PF00797</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Arylamine N-acetyltransferase 2
+MDIEAYFERIGYKNSRNKLDLETLTDILEHQIRAVPFENLNMHCGQAMELGLEAIFDHIV
+RRNRGGWCLQVNQLLYWALTTIGFQTTMLGGYFYIPPVNKYSTGMVHLLLQVTIDGRNYI
+VDAGSGSSSQMWQPLELISGKDQPQVPCIFCLTEERGIWYLDQIRREQYITNKEFLNSHL
+LPKKKHQKIYLFTLEPRTIEDFESMNTYLQTSPTSSFITTSFCSLQTPEGVYCLVGFILT
+YRKFNYKDNTDLVEFKTLTEEEVEEVLKNIFKISLGRNLVPKPGDGSLTI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2801807</genbank_protein_id>
+  <uniprot_id>P11245</uniprot_id>
+  <uniprot_name>ARY2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2PFR</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF042740</genbank_gene_id>
+  <genecard_id>NAT2</genecard_id>
+  <geneatlas_id>NAT2</geneatlas_id>
+  <hgnc_id>HGNC:7646</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Grant DM, Blum M, Demierre A, Meyer UA: Nucleotide sequence of an intronless gene for a human arylamine N-acetyltransferase related to polymorphic drug acetylation. Nucleic Acids Res. 1989 May 25;17(10):3978.</reference_text>
+      <pubmed_id>2734109</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blum M, Grant DM, McBride W, Heim M, Meyer UA: Human arylamine N-acetyltransferase genes: isolation, chromosomal localization, and functional expression. DNA Cell Biol. 1990 Apr;9(3):193-203.</reference_text>
+      <pubmed_id>2340091</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohsako S, Deguchi T: Cloning and expression of cDNAs for polymorphic and monomorphic arylamine N-acetyltransferases from human liver. J Biol Chem. 1990 Mar 15;265(8):4630-4.</reference_text>
+      <pubmed_id>1968463</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deguchi T: Sequences and expression of alleles of polymorphic arylamine N-acetyltransferase of human liver. J Biol Chem. 1992 Sep 5;267(25):18140-7.</reference_text>
+      <pubmed_id>1381364</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ferguson RJ, Doll MA, Rustan TD, Gray K, Hein DW: Cloning, expression, and functional characterization of two mutant (NAT2(191) and NAT2(341/803)) and wild-type human polymorphic N-acetyltransferase (NAT2) alleles. Drug Metab Dispos. 1994 May-Jun;22(3):371-6.</reference_text>
+      <pubmed_id>7915226</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Patin E, Barreiro LB, Sabeti PC, Austerlitz F, Luca F, Sajantila A, Behar DM, Semino O, Sakuntabhai A, Guiso N, Gicquel B, McElreavey K, Harding RM, Heyer E, Quintana-Murci L: Deciphering the ancient and complex evolutionary history of human arylamine N-acetyltransferase genes. Am J Hum Genet. 2006 Mar;78(3):423-36. Epub 2006 Jan 13.</reference_text>
+      <pubmed_id>16416399</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ebisawa T, Deguchi T: Structure and restriction fragment length polymorphism of genes for human liver arylamine N-acetyltransferases. Biochem Biophys Res Commun. 1991 Jun 28;177(3):1252-7.</reference_text>
+      <pubmed_id>1676262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grant DM, Lottspeich F, Meyer UA: Evidence for two closely related isozymes of arylamine N-acetyltransferase in human liver. FEBS Lett. 1989 Feb 13;244(1):203-7.</reference_text>
+      <pubmed_id>2924904</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu H, Dombrovsky L, Tempel W, Martin F, Loppnau P, Goodfellow GH, Grant DM, Plotnikov AN: Structural basis of substrate-binding specificity of human arylamine N-acetyltransferases. J Biol Chem. 2007 Oct 12;282(41):30189-97. Epub 2007 Jul 26.</reference_text>
+      <pubmed_id>17656365</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vatsis KP, Martell KJ, Weber WW: Diverse point mutations in the human gene for polymorphic N-acetyltransferase. Proc Natl Acad Sci U S A. 1991 Jul 15;88(14):6333-7.</reference_text>
+      <pubmed_id>2068113</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Abe M, Deguchi T, Suzuki T: The structure and characteristics of a fourth allele of polymorphic N-acetyltransferase gene found in the Japanese population. Biochem Biophys Res Commun. 1993 Mar 31;191(3):811-6.</reference_text>
+      <pubmed_id>8466518</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin HJ, Han CY, Lin BK, Hardy S: Ethnic distribution of slow acetylator mutations in the polymorphic N-acetyltransferase (NAT2) gene. Pharmacogenetics. 1994 Jun;4(3):125-34.</reference_text>
+      <pubmed_id>7920692</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Acetyldapsone</name>
+        <accession>HMDB13851</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isoniazid</name>
+        <accession>HMDB15086</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Upton AM, Mushtaq A, Victor TC, Sampson SL, Sandy J, Smith DM, van Helden PV, Sim E: Arylamine N-acetyltransferase of Mycobacterium tuberculosis is a polymorphic enzyme and a site of isoniazid metabolism. Mol Microbiol. 2001 Oct;42(2):309-17.</reference_text>
+        <pubmed_id>11703656</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

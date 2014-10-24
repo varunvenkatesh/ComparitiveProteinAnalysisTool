@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:49:52 -0700</creation_date>
+  <update_date>2013-05-27 11:09:18 -0600</update_date>
+  <accession>HMDBP11436</accession>
+  <secondary_accessions>
+    <accession>17779</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Gul3DH</synonym>
+    <synonym>L-gulonate 3-dehydrogenase</synonym>
+  </synonyms>
+  <gene_name>CRYL1</gene_name>
+  <general_function>Involved in 3-hydroxyacyl-CoA dehydrogenase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Pentose and glucuronate interconversions</name>
+      <smpdb_id/>
+      <kegg_map_id>map00040</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01484</accession>
+      <name>Acetoacetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03932</accession>
+      <name>(S)-3-Hydroxyhexadecanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03290</accession>
+      <name>Gulonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06334</accession>
+      <name>3-Dehydro-L-gulonate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad or nadh binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on ch-oh group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the ch-oh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3-hydroxyacyl-coa dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid metabolic process</description>
+      <go_id>GO:0006631</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD+ binding</description>
+      <go_id>GO:0070403</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3-hydroxyacyl-CoA dehydrogenase activity</description>
+      <go_id>GO:0003857</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-gulonate 3-dehydrogenase activity</description>
+      <go_id>GO:0050104</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>13</chromosome_location>
+    <locus>13q12.11</locus>
+    <gene_sequence>&gt;960 bp
+ATGGCGTCCTCCGCGGCCGGCTGCGTGGTGATCGTTGGCAGTGGAGTCATTGGGCGAAGC
+TGGGCCATGCTGTTTGCCAGTGGAGGCTTCCAGGTGAAACTCTATGACATTGAGCAACAG
+CAGATAAGGAACGCCCTGGAAAACATCAGAAAGGAGATGAAGTTGCTGGAGCAGGCAGGT
+TCTCTGAAAGGCTCCCTGAGTGTGGAAGAGCAGCTGTCACTCATCAGTGGTTGTCCCAAT
+ATCCAAGAAGCAGTAGAGGGTGCCATGCACATTCAGGAATGTGTTCCAGAAGATCTAGAA
+CTGAAGAAGAAGATTTTTGCTCAGTTAGATTCCATCATTGATGATCGAGTGATCTTAAGC
+AGTTCCACTTCTTGTCTCATGCCTTCCAAGTTGTTTGCTGGCTTGGTCCATGTGAAGCAA
+TGCATCGTGGCTCATCCTGTGAATCCGCCATACTACATCCCGCTGGTTGAGCTGGTCCCC
+CACCCGGAGACGGCCCCTACGACAGTGGACAGAACCCACGCCCTGATGAAGAAGATTGGA
+CAGTGCCCCATGCGAGTCCAGAAGGAGGTGGCCGGCTTCGTTCTGAACCGCCTGCAATAT
+GCAATCATCAGCGAGGCCTGGCGGCTAGTGGAGGAAGGAATCGTGTCTCCTAGTGACCTG
+GACCTTGTCATGTCAGAAGGGTTGGGCATGCGGTATGCATTCATTGGACCCCTGGAAACC
+ATGCATCTCAATGCAGAAGGTATGTTAAGCTACTGCGACAGATACAGCGAAGGCATAAAA
+CATGTCCTACAGACTTTTGGACCCATTCCAGAGTTTTCCAGGGCCACTGCTGAGAAGGTT
+AACCAGGACATGTGCATGAAGGTCCCTGATGACCCGGAGCACTTAGCTGCCAGGAGGCAG
+TGGAGGGACGAGTGCCTCATGAGACTCGCCAAGTTGAAGAGTCAAGTGCAGCCCCAGTGA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>319</residue_number>
+    <molecular_weight>35418.91</molecular_weight>
+    <theoretical_pi>6.175</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>3HCDH</name>
+        <pfam_id>PF00725</pfam_id>
+      </pfam>
+      <pfam>
+        <name>3HCDH_N</name>
+        <pfam_id>PF02737</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Lambda-crystallin homolog
+MASSAAGCVVIVGSGVIGRSWAMLFASGGFQVKLYDIEQQQIRNALENIRKEMKLLEQAG
+SLKGSLSVEEQLSLISGCPNIQEAVEGAMHIQECVPEDLELKKKIFAQLDSIIDDRVILS
+SSTSCLMPSKLFAGLVHVKQCIVAHPVNPPYYIPLVELVPHPETAPTTVDRTHALMKKIG
+QCPMRVQKEVAGFVLNRLQYAIISEAWRLVEEGIVSPSDLDLVMSEGLGMRYAFIGPLET
+MHLNAEGMLSYCDRYSEGIKHVLQTFGPIPEFSRATAEKVNQDMCMKVPDDPEHLAARRQ
+WRDECLMRLAKLKSQVQPQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>115430219</genbank_protein_id>
+  <uniprot_id>Q9Y2S2</uniprot_id>
+  <uniprot_name>CRYL1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3F3S</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_015974.2</genbank_gene_id>
+  <genecard_id>CRYL1</genecard_id>
+  <geneatlas_id>CRYL1</geneatlas_id>
+  <hgnc_id>HGNC:18246</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Chen J, Yu L, Li D, Gao Q, Wang J, Huang X, Bi G, Wu H, Zhao S: Human CRYL1, a novel enzyme-crystallin overexpressed in liver and kidney and downregulated in 58% of liver cancer tissues from 60 Chinese patients, and four new homologs from other mammalians. Gene. 2003 Jan 2;302(1-2):103-13.</reference_text>
+      <pubmed_id>12527201</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham A, Matthews LH, Burton J, Ashurst JL, Howe KL, Ashcroft KJ, Beare DM, Burford DC, Hunt SE, Griffiths-Jones S, Jones MC, Keenan SJ, Oliver K, Scott CE, Ainscough R, Almeida JP, Ambrose KD, Andrews DT, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Bannerjee R, Barlow KF, Bates K, Beasley H, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burrill W, Carder C, Carter NP, Chapman JC, Clamp ME, Clark SY, Clarke G, Clee CM, Clegg SC, Cobley V, Collins JE, Corby N, Coville GJ, Deloukas P, Dhami P, Dunham I, Dunn M, Earthrowl ME, Ellington AG, Faulkner L, Frankish AG, Frankland J, French L, Garner P, Garnett J, Gilbert JG, Gilson CJ, Ghori J, Grafham DV, Gribble SM, Griffiths C, Hall RE, Hammond S, Harley JL, Hart EA, Heath PD, Howden PJ, Huckle EJ, Hunt PJ, Hunt AR, Johnson C, Johnson D, Kay M, Kimberley AM, King A, Laird GK, Langford CJ, Lawlor S, Leongamornlert DA, Lloyd DM, Lloyd C, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, McLaren SJ, McMurray A, Milne S, Moore MJ, Nickerson T, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter KM, Rice CM, Searle S, Sehra HK, Shownkeen R, Skuce CD, Smith M, Steward CA, Sycamore N, Tester J, Thomas DW, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Wilming L, Wray PW, Wright MW, Young L, Coulson A, Durbin R, Hubbard T, Sulston JE, Beck S, Bentley DR, Rogers J, Ross MT: The DNA sequence and analysis of human chromosome 13.  Nature. 2004 Apr 1;428(6982):522-8.</reference_text>
+      <pubmed_id>15057823</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ishikura S, Usami N, Araki M, Hara A: Structural and functional characterization of rabbit and human L-gulonate 3-dehydrogenase. J Biochem. 2005 Mar;137(3):303-14.</reference_text>
+      <pubmed_id>15809331</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:02 -0700</creation_date>
+  <update_date>2013-05-27 11:28:44 -0600</update_date>
+  <accession>HMDBP00854</accession>
+  <secondary_accessions>
+    <accession>6135</accession>
+    <accession>HMDBP03924</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Aldehyde dehydrogenase family 18 member A1</synonym>
+    <synonym>GK</synonym>
+    <synonym>GPR</synonym>
+    <synonym>Gamma-glutamyl kinase</synonym>
+    <synonym>Gamma-glutamyl phosphate reductase</synonym>
+    <synonym>Glutamate 5-kinase</synonym>
+    <synonym>Glutamate-5-semialdehyde dehydrogenase</synonym>
+    <synonym>Glutamyl-gamma-semialdehyde dehydrogenase</synonym>
+    <synonym>P5CS</synonym>
+  </synonyms>
+  <gene_name>ALDH18A1</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Bifunctional enzyme that converts glutamate to glutamate 5-semialdehyde, an intermediate in the biosynthesis of proline, ornithine and arginine.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>L-proline biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Arginine and proline metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00330</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02104</accession>
+      <name>L-Glutamic gamma-semialdehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01228</accession>
+      <name>L-Glutamic acid 5-phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00214</accession>
+      <name>Ornithine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, carboxyl group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glutamate 5-kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glutamate-5-semialdehyde dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutamine family amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proline metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proline biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid and derivative metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular amino acid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate 5-kinase activity</description>
+      <go_id>GO:0004349</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate-5-semialdehyde dehydrogenase activity</description>
+      <go_id>GO:0004350</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>citrulline biosynthetic process</description>
+      <go_id>GO:0019240</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate metabolic process</description>
+      <go_id>GO:0006536</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-proline biosynthetic process</description>
+      <go_id>GO:0055129</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ornithine biosynthetic process</description>
+      <go_id>GO:0006592</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proline biosynthetic process</description>
+      <go_id>GO:0006561</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion inner membrane</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>10</chromosome_location>
+    <locus>10q24.3</locus>
+    <gene_sequence>&gt;2388 bp
+ATGTTGAGTCAAGTTTACCGCTGTGGGTTCCAGCCCTTCAACCAACATCTTCTGCCCTGG
+GTCAAGTGTACAACCGTCTTCAGATCTCATTGTATCCAGCCTTCAGTCATCAGACATGTT
+CGTTCTTGGAGCAACATCCCGTTTATCACTGTACCCCTCAGTCGTACACATGGCAAGTCC
+TTCGCCCACCGCAGTGAGCTGAAGCATGCCAAGAGAATCGTGGTGAAGCTCGGCAGTGCC
+GTGGTGACCCGAGGGGATGAATGTGGCCTGGCCCTGGGGCGCTTGGCATCTATTGTTGAG
+CAGGTATCAGTGCTGCAGAATCAGGGCAGAGAGATGATGCTGGTGACCAGTGGAGCCGTA
+GCCTTTGGCAAACAAACGTTGCGCCATGAGATCCTTCTGTCTCAGAGCGTGCGGCAGGCC
+CTCCACTCGGGGCAGAACCAGCTGAAAGAAATGGCAATTCCAGTCTTAGAGGCACGAGCC
+TGTGCAGCTGCCGGACAGAGTGGGCTGATGGCCTTGTATGAGGCTATGTTTACCCAGTAC
+AGCATCTGTGCTGCCCAGATTTTGGTGACCAATTTGGATTTCCATGATGAGCAGAAGCGC
+CGGAACCTCAATGGAACACTTCATGAACTCCTTAGAATGAACATTGTCCCCATTGTCAAC
+ACAAATGATGCTGTTGTCCCCCCAGCTGAGCCCAACAGTGACCTGCAGGGGGTAAATGTT
+ATTAGTGTTAAAGATAATGATAGCCTGGCTGCCCGACTGGCTGTGGAAATGAAAACTGAT
+CTCTTGATTGTCCTTCCAGATGTAGAAGGCCTTTTTGACAGCCCCCCAGGTTCAGATGAT
+GCAAAGCTTATTGATATATTTTATCCCGGAGATCAGCAGTCTGTGACATTTGGACCCAAG
+TCTAGAGTGGGAAATGGGTGCATGGAAGCCAAGGTGAAAAGCACCCTCTGGGCTTTGCAA
+GGTGGCACTTCTGTTGTTATTGCCAATGGAACCCACCCAAAGGTGTCTGGGCACGTCATC
+ACAGACATTGTGGAGGGGAAGAAAGTTGGTACCTTCTTTTCAGAAGTAAAGCCTGCAGGC
+CCTACTGTTGAGCAGCAGGGAGAAATGGCGCGATCTGGAGGAAGGATGTTGGCCACCTTG
+GAACCTGAGCAGAGAGCAGAAATTATCCATCATCTGGCTGATCTGTTGACGGACCAGCGT
+GATGAGATCCTGTTAGCCAACAAAAAAGACTTGGAGGAGGCAGAGGGGAGACTTGCAGCT
+CCTCTGCTGAAACGTTTAAGCCTCTCCACATCCAAATTGAACAGCCTGGCCATCGGTCTG
+CGACAGATCGCAGCCTCCTCCCAGGACAGCGTGGGACGTGTTTTGCGCCGCACCCGAATC
+GCCAAAAACTTGGAACTGGAACAAGTGACTGTCCCAATTGGAGTTCTGCTGGTGATCTTT
+GAATCTCGTCCTGACTGTCCTACCCCAGGTGGCAGCTTTGCTATCGCAAGTGGCAATGGC
+TTGTTACTCAAAGGAGGGAAGGAGGCTGCACACAGCAACCGGATTCTCCACCTCCTGACC
+CAGGAGGCTCTCTCAATCCATGGAGTCAAGGAGGCCGTGCAACTGGTGAATACCAGAGAA
+GAAGTTGAAGATCTTTGCCGCCTAGACAAAATGATAGATCTGATCATTCCACGTGGCTCT
+TCCCAGCTGGTCAGAGACATCCAGAAAGCTGCTAAGGGGATTCCAGTGATGGGGCACAGC
+GAAGGGATCTGTCACATGTATGTGGATTCCGAGGCCAGTGTTGATAAGGTCACCAGGCTA
+GTCAGAGACTCTAAATGTGAATATCCAGCTGCCTGTAATGCTTTGGAGACTTTGTTAATC
+CACCGGGATCTGCTCAGGACACCATTATTTGACCAGATCATTGATATGCTGAGAGTGGAA
+CAGGTAAAAATTCATGCAGGCCCCAAATTTGCCTCCTATCTGACCTTCAGCCCCTCCGAA
+GTGAAGTCACTCCGAACTGAGTATGGGGACCTGGAATTATGCATTGAAGTAGTGGACAAC
+GTTCAGGATGCCATTGACCACATCCACAAGTATGGCAGCTCCCACACGGATGTCATCGTC
+ACAGAGGACGAAAACACAGCGGAGTTCTTCCTGCAGCACGTAGACAGTGCCTGTGTGTTC
+TGGAATGCCAGCACTCGCTTTTCTGATGGTTACCGCTTTGGACTGGGAGCTGAAGTGGGA
+ATCAGTACATCGAGAATCCACGCCCGGGGACCAGTAGGACTTGAGGGACTGCTTACTACT
+AAGTGGCTGCTGCGAGGGAAGGACCACGTGGTCTCAGATTTCTCAGAGCATGGAAGTTTA
+AAATATCTTCATGAGAACCTCCCTATTCCTCAGAGAAACACCAACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>795</residue_number>
+    <molecular_weight>87088.29</molecular_weight>
+    <theoretical_pi>7.127</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>AA_kinase</name>
+        <pfam_id>PF00696</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Aldedh</name>
+        <pfam_id>PF00171</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Delta-1-pyrroline-5-carboxylate synthase
+MLSQVYRCGFQPFNQHLLPWVKCTTVFRSHCIQPSVIRHVRSWSNIPFITVPLSRTHGKS
+FAHRSELKHAKRIVVKLGSAVVTRGDECGLALGRLASIVEQVSVLQNQGREMMLVTSGAV
+AFGKQRLRHEILLSQSVRQALHSGQNQLKEMAIPVLEARACAAAGQSGLMALYEAMFTQY
+SICAAQILVTNLDFHDEQKRRNLNGTLHELLRMNIVPIVNTNDAVVPPAEPNSDLQGVNV
+ISVKDNDSLAARLAVEMKTDLLIVLSDVEGLFDSPPGSDDAKLIDIFYPGDQQSVTFGTK
+SRVGMGGMEAKVKAALWALQGGTSVVIANGTHPKVSGHVITDIVEGKKVGTFFSEVKPAG
+PTVEQQGEMARSGGRMLATLEPEQRAEIIHHLADLLTDQRDEILLANKKDLEEAEGRLAA
+PLLKRLSLSTSKLNSLAIGLRQIAASSQDSVGRVLRRTRIAKNLELEQVTVPIGVLLVIF
+ESRPDCLPQVAALAIASGNGLLLKGGKEAAHSNRILHLLTQEALSIHGVKEAVQLVNTRE
+EVEDLCRLDKMIDLIIPRGSSQLVRDIQKAAKGIPVMGHSEGICHMYVDSEASVDKVTRL
+VRDSKCEYPAACNALETLLIHRDLLRTPLFDQIIDMLRVEQVKIHAGPKFASYLTFSPSE
+VKSLRTEYGDLELCIEVVDNVQDAIDHIHKYGSSHTDVIVTEDENTAEFFLQHVDSACVF
+WNASTRFSDGYRFGLGAEVGISTSRIHARGPVGLEGLLTTKWLLRGKDHVVSDFSEHGSL
+KYLHENLPIPQRNTN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>1304314</genbank_protein_id>
+  <uniprot_id>P54886</uniprot_id>
+  <uniprot_name>P5CS_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2H5G</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X94453</genbank_gene_id>
+  <genecard_id>ALDH18A1</genecard_id>
+  <geneatlas_id>ALDH18A1</geneatlas_id>
+  <hgnc_id>HGNC:9722</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Aral B, Schlenzig JS, Liu G, Kamoun P: Database cloning human delta 1-pyrroline-5-carboxylate synthetase (P5CS) cDNA: a bifunctional enzyme catalyzing the first 2 steps in proline biosynthesis. C R Acad Sci III. 1996 Mar;319(3):171-8.</reference_text>
+      <pubmed_id>8761662</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu CA, Lin WW, Obie C, Valle D: Molecular enzymology of mammalian Delta1-pyrroline-5-carboxylate synthase. Alternative splice donor utilization generates isoforms with different sensitivity to ornithine inhibition. J Biol Chem. 1999 Mar 5;274(10):6754-62.</reference_text>
+      <pubmed_id>10037775</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JG, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RI, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J: The DNA sequence and comparative analysis of human chromosome 10.  Nature. 2004 May 27;429(6990):375-81.</reference_text>
+      <pubmed_id>15164054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baumgartner MR, Hu CA, Almashanu S, Steel G, Obie C, Aral B, Rabier D, Kamoun P, Saudubray JM, Valle D: Hyperammonemia with reduced ornithine, citrulline, arginine and proline: a new inborn error caused by a mutation in the gene encoding delta(1)-pyrroline-5-carboxylate synthase. Hum Mol Genet. 2000 Nov 22;9(19):2853-8.</reference_text>
+      <pubmed_id>11092761</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bicknell LS, Pitt J, Aftimos S, Ramadas R, Maw MA, Robertson SP: A missense mutation in ALDH18A1, encoding Delta1-pyrroline-5-carboxylate synthase (P5CS), causes an autosomal recessive neurocutaneous syndrome. Eur J Hum Genet. 2008 Oct;16(10):1176-86. Epub 2008 May 14.</reference_text>
+      <pubmed_id>18478038</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Morita Y, Nakamori S, Takagi H: L-proline accumulation and freeze tolerance of Saccharomyces cerevisiae are caused by a mutation in the PRO1 gene encoding gamma-glutamyl kinase. Appl Environ Microbiol. 2003 Jan;69(1):212-9.</reference_text>
+        <pubmed_id>12513997</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Krishna RV, Beilstein P, Leisinger T: Biosynthesis of proline in Pseudomonas aeruginosa. Properties of gamma-glutamyl phosphate reductase and 1-pyrroline-5-carboxylate reductase. Biochem J. 1979 Jul 1;181(1):223-30.</reference_text>
+        <pubmed_id>114173</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kamoun P, Aral B, Saudubray JM: [A new inherited metabolic disease: delta1-pyrroline 5-carboxylate synthetase deficiency]. Bull Acad Natl Med. 1998;182(1):131-7; discussion 138-9.</reference_text>
+        <pubmed_id>9622938</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

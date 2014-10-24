@@ -1,0 +1,4066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:37 -0700</creation_date>
+  <update_date>2013-05-27 11:08:03 -0600</update_date>
+  <accession>HMDBP01560</accession>
+  <secondary_accessions>
+    <accession>6856</accession>
+    <accession>HMDBP05596</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>CYPIA2</synonym>
+    <synonym>Cytochrome P(3)450</synonym>
+    <synonym>Cytochrome P450 4</synonym>
+    <synonym>Cytochrome P450-P3</synonym>
+  </synonyms>
+  <gene_name>CYP1A2</gene_name>
+  <general_function>Involved in monooxygenase activity</general_function>
+  <specific_function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Most active in catalyzing 2-hydroxylation. Caffeine is metabolized primarily by cytochrome CYP1A2 in the liver through an initial N3-demethylation. Also acts in the metabolism of aflatoxin B1 and acetaminophen. Participates in the bioactivation of carcinogenic aromatic and heterocyclic amines. Catalizes the N-hydroxylation of heterocyclic amines and the O-deethylation of phenacetin.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Caffeine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00232</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Tryptophan metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00380</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Linoleic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00591</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Retinol metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00830</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Metabolism of xenobiotics by cytochrome P450</name>
+      <smpdb_id/>
+      <kegg_map_id>map00980</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - cytochrome P450</name>
+      <smpdb_id/>
+      <kegg_map_id>map00982</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Chemical carcinogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05204</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01860</accession>
+      <name>Paraxanthine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01847</accession>
+      <name>Caffeine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11103</accession>
+      <name>1,7-Dimethyluric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10738</accession>
+      <name>1-Methylxanthine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00673</accession>
+      <name>Linoleic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04702</accession>
+      <name>12,13-EpOME</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04701</accession>
+      <name>9,10-Epoxyoctadecenoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01889</accession>
+      <name>Theophylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06552</accession>
+      <name>Aflatoxin B1</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01850</accession>
+      <name>Verapamil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05012</accession>
+      <name>Olanzapine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05035</accession>
+      <name>Ondansetron</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01848</accession>
+      <name>Imipramine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01930</accession>
+      <name>Ranitidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01922</accession>
+      <name>Clotrimazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01859</accession>
+      <name>Acetaminophen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01935</accession>
+      <name>Warfarin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01849</accession>
+      <name>Propranolol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05017</accession>
+      <name>Pantoprazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05782</accession>
+      <name>Hesperetin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01929</accession>
+      <name>Levofloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00053</accession>
+      <name>Androstenedione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00142</accession>
+      <name>Formic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00145</accession>
+      <name>Estrone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00151</accession>
+      <name>Estradiol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00234</accession>
+      <name>Testosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01043</accession>
+      <name>Arachidonic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01355</accession>
+      <name>Parathion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01426</accession>
+      <name>Formaldehyde</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01852</accession>
+      <name>All-trans-retinoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01877</accession>
+      <name>Valproic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02190</accession>
+      <name>5,6-Epoxy-8,11,14-eicosatrienoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02232</accession>
+      <name>8,9-Epoxyeicosatrienoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02833</accession>
+      <name>Testosterone sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03276</accession>
+      <name>Hydrogen sulfide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03955</accession>
+      <name>19-Hydroxyandrost-4-ene-3,17-dione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03956</accession>
+      <name>7a-Hydroxytestosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03959</accession>
+      <name>19-Oxotestosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04081</accession>
+      <name>6-Hydroxymelatonin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04244</accession>
+      <name>15(S)-HPETE</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04264</accession>
+      <name>14,15-Epoxy-5,8,11-eicosatrienoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04673</accession>
+      <name>11,12-Epoxyeicosatrienoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04680</accession>
+      <name>16(R)-HETE</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04684</accession>
+      <name>11,12,15-THETA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04693</accession>
+      <name>11H-14,15-EETA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04694</accession>
+      <name>11,14,15-THETA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04995</accession>
+      <name>Codeine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05038</accession>
+      <name>Citalopram</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05050</accession>
+      <name>15H-11,12-EETA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06768</accession>
+      <name>19-Oxoandrost-4-ene-3,17-dione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06769</accession>
+      <name>19-Hydroxytestosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11136</accession>
+      <name>19(S)-HETE</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01913</accession>
+      <name>Omeprazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12242</accession>
+      <name>Ketoconazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01389</accession>
+      <name>Melatonin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12788</accession>
+      <name>4-OH-Retinal</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01892</accession>
+      <name>Menadione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14322</accession>
+      <name>Fluvoxamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01934</accession>
+      <name>L(-)-Nicotine pestanal</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14334</accession>
+      <name>Bortezomib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14337</accession>
+      <name>Phentermine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14341</accession>
+      <name>Betaxolol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14344</accession>
+      <name>Erythromycin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13921</accession>
+      <name>7-Hydroxyticlopidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14021</accession>
+      <name>N-Desmethylcitalopram</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14365</accession>
+      <name>Nelfinavir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13911</accession>
+      <name>12-Hydroxynevirapine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14391</accession>
+      <name>Ziprasidone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14406</accession>
+      <name>Anagrelide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14407</accession>
+      <name>Carmustine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14413</accession>
+      <name>Ropinirole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14426</accession>
+      <name>Lidocaine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14441</accession>
+      <name>Ropivacaine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14442</accession>
+      <name>Bupivacaine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14445</accession>
+      <name>Tenofovir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13897</accession>
+      <name>4-ene-Valproic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14460</accession>
+      <name>Zolmitriptan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14470</accession>
+      <name>Nitroprusside</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14477</accession>
+      <name>Methadone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14010</accession>
+      <name>5-Hydroxyomeprazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14483</accession>
+      <name>Pyrazinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14500</accession>
+      <name>Chlorzoxazone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14501</accession>
+      <name>Aminoglutethimide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14509</accession>
+      <name>Grepafloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00216</accession>
+      <name>Norepinephrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14514</accession>
+      <name>Mirtazapine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14521</accession>
+      <name>Palonosetron</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14523</accession>
+      <name>Mexiletine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14526</accession>
+      <name>Tacrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01830</accession>
+      <name>Progesterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14542</accession>
+      <name>Sorafenib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14544</accession>
+      <name>Griseofulvin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14545</accession>
+      <name>Nisoldipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14562</accession>
+      <name>Secobarbital</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13938</accession>
+      <name>Promazine 5-sulfoxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14008</accession>
+      <name>Hydroxylansoprazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14604</accession>
+      <name>Nabumetone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14610</accession>
+      <name>Enoxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14611</accession>
+      <name>Quinine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14619</accession>
+      <name>Duloxetine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14620</accession>
+      <name>Chlorpromazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14630</accession>
+      <name>Pefloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14642</accession>
+      <name>Flutamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14644</accession>
+      <name>Cimetidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14645</accession>
+      <name>Haloperidol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14646</accession>
+      <name>Ritonavir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14659</accession>
+      <name>Albendazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14667</accession>
+      <name>Oxaliplatin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14671</accession>
+      <name>Erlotinib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14677</accession>
+      <name>Ciprofloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14679</accession>
+      <name>Toremifene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14680</accession>
+      <name>Nortriptyline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14684</accession>
+      <name>Fluorouracil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14689</accession>
+      <name>Zafirlukast</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14693</accession>
+      <name>Methoxsalen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14704</accession>
+      <name>Carbamazepine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14708</accession>
+      <name>Cinnarizine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14712</accession>
+      <name>Atropine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13974</accession>
+      <name>4'-Hydroxydiclofenac</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14742</accession>
+      <name>Cisapride</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14743</accession>
+      <name>Sulindac</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14745</accession>
+      <name>Nafcillin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14753</accession>
+      <name>Rifabutin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13862</accession>
+      <name>N-desmethylimatinib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14761</accession>
+      <name>Fluphenazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14763</accession>
+      <name>Efavirenz</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14767</accession>
+      <name>Guanabenz</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14771</accession>
+      <name>Dexmedetomidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13961</accession>
+      <name>O-Desmethylverapamil (D-702)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14811</accession>
+      <name>Aprepitant</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13866</accession>
+      <name>N-Desmethyltamoxifen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13846</accession>
+      <name>E-3179</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14817</accession>
+      <name>Thioridazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13880</accession>
+      <name>S-6-Hydroxywarfarin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14832</accession>
+      <name>Daunorubicin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14834</accession>
+      <name>Ergotamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14835</accession>
+      <name>Tizanidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14843</accession>
+      <name>Delavirdine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14862</accession>
+      <name>Imiquimod</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14868</accession>
+      <name>Thiabendazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14875</accession>
+      <name>Meclizine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14876</accession>
+      <name>Pentamidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14878</accession>
+      <name>Riluzole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13968</accession>
+      <name>Hydroxyzileuton</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14883</accession>
+      <name>Modafinil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14890</accession>
+      <name>Tranylcypromine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13929</accession>
+      <name>2-Oxoclopidogrel</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14901</accession>
+      <name>Methimazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14910</accession>
+      <name>Malathion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14911</accession>
+      <name>Etoposide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14916</accession>
+      <name>Roxithromycin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13989</accession>
+      <name>O-Desmethylnaproxen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14932</accession>
+      <name>Primidone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14944</accession>
+      <name>Pentoxifylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14018</accession>
+      <name>4-Hydroxypropofol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14969</accession>
+      <name>Trifluoperazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14988</accession>
+      <name>Perphenazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14989</accession>
+      <name>Dacarbazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14995</accession>
+      <name>Terbinafine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15020</accession>
+      <name>Clomifene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00108</accession>
+      <name>Ethanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15044</accession>
+      <name>Quinidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15054</accession>
+      <name>Almotriptan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15060</accession>
+      <name>Cyclobenzaprine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15069</accession>
+      <name>Maprotiline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15086</accession>
+      <name>Isoniazid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15088</accession>
+      <name>Rizatriptan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15102</accession>
+      <name>Desloratadine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15104</accession>
+      <name>Alosetron</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15109</accession>
+      <name>Edetic Acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15111</accession>
+      <name>Telithromycin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15113</accession>
+      <name>Lomefloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15115</accession>
+      <name>Ramelteon</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00073</accession>
+      <name>Dopamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15133</accession>
+      <name>Frovatriptan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15137</accession>
+      <name>Levobupivacaine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15142</accession>
+      <name>Tioconazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15147</accession>
+      <name>Cinacalcet</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15148</accession>
+      <name>Clobetasol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15162</accession>
+      <name>Methoxyflurane</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13845</accession>
+      <name>SR 49498</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15171</accession>
+      <name>Selegiline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13870</accession>
+      <name>cis,trans-5'-Hydroxythalidomide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15179</accession>
+      <name>Rifampin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15189</accession>
+      <name>Tocainide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15191</accession>
+      <name>Praziquantel</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15192</accession>
+      <name>Norfloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15219</accession>
+      <name>Primaquine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14037</accession>
+      <name>6-Hydroxyfluvastatin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15229</accession>
+      <name>Leflunomide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15232</accession>
+      <name>Pimozide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15242</accession>
+      <name>Miconazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15247</accession>
+      <name>Nifedipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15263</accession>
+      <name>Proguanil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13946</accession>
+      <name>8-Hydroxycarvedilol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15273</accession>
+      <name>Doxepin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15282</accession>
+      <name>Desipramine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15296</accession>
+      <name>Ofloxacin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15297</accession>
+      <name>Cilostazol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15302</accession>
+      <name>Moclobemide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15313</accession>
+      <name>Propafenone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15315</accession>
+      <name>Domperidone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15322</accession>
+      <name>Dexfenfluramine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15331</accession>
+      <name>Bromocriptine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15342</accession>
+      <name>Clarithromycin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15348</accession>
+      <name>Anastrozole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15354</accession>
+      <name>Aminophylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15371</accession>
+      <name>Gemfibrozil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15372</accession>
+      <name>Clomipramine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15384</accession>
+      <name>Dasatinib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15403</accession>
+      <name>Lumiracoxib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15415</accession>
+      <name>Oxtriphylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13940</accession>
+      <name>3'-Hydroxyhexobarbital</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15454</accession>
+      <name>Rasagiline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15474</accession>
+      <name>Methotrimeprazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15477</accession>
+      <name>Clenbuterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02825</accession>
+      <name>Theobromine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15487</accession>
+      <name>Acenocoumarol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13839</accession>
+      <name>N-Desmethylaminopyrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13840</accession>
+      <name>3-Hydroxymethylantipyrine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15510</accession>
+      <name>Flunitrazepam</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15511</accession>
+      <name>Bromazepam</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15539</accession>
+      <name>Lopinavir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15558</accession>
+      <name>Pipotiazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15560</accession>
+      <name>Thiothixene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13997</accession>
+      <name>6-Hydroxymethyletoricoxib</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03217</accession>
+      <name>Genistein</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB29752</accession>
+      <name>Dantron</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15589</accession>
+      <name>Flunarizine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15615</accession>
+      <name>Rotigotine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15620</accession>
+      <name>Mianserin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15636</accession>
+      <name>Agomelatine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15657</accession>
+      <name>Nilvadipine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15661</accession>
+      <name>Fospropofol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15662</accession>
+      <name>Fosaprepitant</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15679</accession>
+      <name>Niclosamide</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>aromatase activity</description>
+      <go_id>GO:0070330</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>caffeine oxidase activity</description>
+      <go_id>GO:0034875</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>demethylase activity</description>
+      <go_id>GO:0032451</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      <go_id>GO:0016712</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>alkaloid metabolic process</description>
+      <go_id>GO:0009820</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular respiration</description>
+      <go_id>GO:0045333</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to cadmium ion</description>
+      <go_id>GO:0071276</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>dibenzo-p-dioxin metabolic process</description>
+      <go_id>GO:0018894</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>exogenous drug catabolic process</description>
+      <go_id>GO:0042738</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heterocycle metabolic process</description>
+      <go_id>GO:0046483</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hydrogen peroxide biosynthetic process</description>
+      <go_id>GO:0050665</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>lung development</description>
+      <go_id>GO:0030324</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>methylation</description>
+      <go_id>GO:0032259</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id>GO:0032787</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>monoterpenoid metabolic process</description>
+      <go_id>GO:0016098</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oxidative deethylation</description>
+      <go_id>GO:0071615</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oxidative demethylation</description>
+      <go_id>GO:0070989</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>porphyrin-containing compound metabolic process</description>
+      <go_id>GO:0006778</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-embryonic development</description>
+      <go_id>GO:0009791</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of gene expression</description>
+      <go_id>GO:0010468</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>steroid catabolic process</description>
+      <go_id>GO:0006706</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>toxin biosynthetic process</description>
+      <go_id>GO:0009403</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Microsome membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>15</chromosome_location>
+    <locus>15q24.1</locus>
+    <gene_sequence>&gt;1548 bp
+ATGGCATTGTCCCAGTCTGTTCCCTTCTCGGCCACAGAGCTTCTCCTGGCCTCTGCCATC
+TTCTGCCTGGTATTCTGGGTGCTCAAGGGTTTGAGGCCTCGGGTCCCCAAAGGCCTGAAA
+AGTCCACCAGAGCCATGGGGCTGGCCCTTGCTCGGGCATGTGCTGACCCTGGGGAAGAAC
+CCGCACCTGGCACTGTCAAGGATGAGCCAGCGCTACGGGGACGTCCTGCAGATCCGCATT
+GGCTCCACGCCCGTGCTGGTGCTGAGCCGCCTGGACACCATCCGGCAGGCCCTGGTGCGG
+CAGGGCGACGATTTCAAGGGCCGGCCTGACCTCTACACCTCCACCCTCATCACTGATGGC
+CAGAGCTTGACCTTCAGCACAGACTCTGGACCGGTGTGGGCTGCCCGCCGGCGCCTGGCC
+CAGAATGCCCTCAACACCTTCTCCATCGCCTCTGACCCAGCTTCCTCATCCTCCTGCTAC
+CTGGAGGAGCATGTGAGCAAGGAGGCTAAGGCCCTGATCAGCAGGTTGCAGGAGCTGATG
+GCAGGGCCTGGGCACTTCGACCCTTACAATCAGGTGGTGGTGTCAGTGGCCAACGTCATT
+GGTGCCATGTGCTTCGGACAGCACTTCCCTGAGAGTAGCGATGAGATGCTCAGCCTCGTG
+AAGAACACTCATGAGTTCGTGGAGACTGCCTCCTCCGGGAACCCCCTGGACTTCTTCCCC
+ATCCTTCGCTACCTGCCTAACCCTGCCCTGCAGAGGTTCAAGGCCTTCAACCAGAGGTTC
+CTGTGGTTCCTGCAGAAAACAGTCCAGGAGCACTATCAGGACTTTGACAAGAACAGTGTC
+CGGGACATCACGGGTGCCCTGTTCAAGCACAGCAAGAAGGGGCCTAGAGCCAGCGGCAAC
+CTCATCCCACAGGAGAAGATTGTCAACCTTGTCAATGACATCTTTGGAGCAGGATTTGAC
+ACAGTCACCACAGCCATCTCCTGGAGCCTCATGTACCTTGTGACCAAGCCTGAGATACAG
+AGGAAGATCCAGAAGGAGCTGGACACTGTGATTGGCAGGGAGCGGCGGCCCCGGCTCTCT
+GACAGACCCCAGCTGCCCTACTTGGAGGCCTTCATCCTGGAGACCTTCCGACACTCCTCC
+TTCTTGCCCTTCACCATCCCCCACAGCACAACAAGGGACACAACGCTGAATGGCTTCTAC
+ATCCCCAAGAAATGCTGTGTCTTCGTAAACCAGTGGCAGGTCAACCATGACCCAGAGCTG
+TGGGAGGACCCCTCTGAGTTCCGGCCTGAGCGGTTCCTCACCGCCGATGGCACTGCCATT
+AACAAGCCCTTGAGTGAGAAGATGATGCTGTTTGGCATGGGCAAGCGCCGGTGTATCGGG
+GAAGTCCTGGCCAAGTGGGAGATCTTCCTCTTCCTGGCCATCCTGCTACAGCAACTGGAG
+TTCAGCGTGCCGCCGGGCGTGAAAGTCGACCTGACCCCCATCTACGGGCTGACCATGAAG
+CACGCCCGCTGTGAACATGTCCAGGCGCGGCGCTTCTCCATCAATTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>515</residue_number>
+    <molecular_weight>58406.915</molecular_weight>
+    <theoretical_pi>9.049</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>p450</name>
+        <pfam_id>PF00067</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Cytochrome P450 1A2
+MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+FSVPPGVKVDLTPIYGLTMKHARCEHVQARRFSIN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>30339</genbank_protein_id>
+  <uniprot_id>P05177</uniprot_id>
+  <uniprot_name>CP1A2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2HI4</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>Z00036</genbank_gene_id>
+  <genecard_id>CYP1A2</genecard_id>
+  <geneatlas_id>CYP1A2</geneatlas_id>
+  <hgnc_id>HGNC:2596</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Jaiswal AK, Nebert DW, Gonzalez FJ: Human P3(450): cDNA and complete amino acid sequence.  Nucleic Acids Res. 1986 Aug 26;14(16):6773-4.</reference_text>
+      <pubmed_id>3755823</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Quattrochi LC, Pendurthi UR, Okino ST, Potenza C, Tukey RH: Human cytochrome P-450 4 mRNA and gene: part of a multigene family that contains Alu sequences in its mRNA. Proc Natl Acad Sci U S A. 1986 Sep;83(18):6731-5.</reference_text>
+      <pubmed_id>3462722</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikeya K, Jaiswal AK, Owens RA, Jones JE, Nebert DW, Kimura S: Human CYP1A2: sequence, gene structure, comparison with the mouse and rat orthologous gene, and differences in liver 1A2 mRNA expression. Mol Endocrinol. 1989 Sep;3(9):1399-408.</reference_text>
+      <pubmed_id>2575218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jaiswal AK, Nebert DW, McBride OW, Gonzalez FJ: Human P(3)450: cDNA and complete protein sequence, repetitive Alu sequences in the 3' nontranslated region, and localization of gene to chromosome 15. J Exp Pathol. 1987 Winter;3(1):1-17.</reference_text>
+      <pubmed_id>3681487</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Corchero J, Pimprale S, Kimura S, Gonzalez FJ: Organization of the CYP1A cluster on human chromosome 15: implications for gene regulation. Pharmacogenetics. 2001 Feb;11(1):1-6.</reference_text>
+      <pubmed_id>11207026</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wrighton SA, Campanile C, Thomas PE, Maines SL, Watkins PB, Parker G, Mendez-Picon G, Haniu M, Shively JE, Levin W, et al.: Identification of a human liver cytochrome P-450 homologous to the major isosafrole-inducible cytochrome P-450 in the rat. Mol Pharmacol. 1986 Apr;29(4):405-10.</reference_text>
+      <pubmed_id>3517618</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Quattrochi LC, Okino ST, Pendurthi UR, Tukey RH: Cloning and isolation of human cytochrome P-450 cDNAs homologous to dioxin-inducible rabbit mRNAs encoding P-450 4 and P-450 6. DNA. 1985 Oct;4(5):395-400.</reference_text>
+      <pubmed_id>3000715</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhou H, Josephy PD, Kim D, Guengerich FP: Functional characterization of four allelic variants of human cytochrome P450 1A2. Arch Biochem Biophys. 2004 Feb 1;422(1):23-30.</reference_text>
+      <pubmed_id>14725854</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sansen S, Yano JK, Reynald RL, Schoch GA, Griffin KJ, Stout CD, Johnson EF: Adaptations for the oxidation of polycyclic aromatic hydrocarbons exhibited by the structure of human P450 1A2. J Biol Chem. 2007 May 11;282(19):14348-55. Epub 2007 Feb 20.</reference_text>
+      <pubmed_id>17311915</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang JD, Guo WC, Lai MD, Guo YL, Lambert GH: Detection of a novel cytochrome P-450 1A2 polymorphism (F21L) in Chinese.  Drug Metab Dispos. 1999 Jan;27(1):98-101.</reference_text>
+      <pubmed_id>9884316</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chevalier D, Cauffiez C, Allorge D, Lo-Guidice JM, Lhermitte M, Lafitte JJ, Broly F: Five novel natural allelic variants-951A&amp;gt;C, 1042G&amp;gt;A (D348N), 1156A&amp;gt;T (I386F), 1217G&amp;gt;A (C406Y) and 1291C&amp;gt;T (C431Y)-of the human CYP1A2 gene in a French Caucasian population. Hum Mutat. 2001 Apr;17(4):355-6.</reference_text>
+      <pubmed_id>11295848</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murayama N, Soyama A, Saito Y, Nakajima Y, Komamura K, Ueno K, Kamakura S, Kitakaze M, Kimura H, Goto Y, Saitoh O, Katoh M, Ohnuma T, Kawai M, Sugai K, Ohtsuki T, Suzuki C, Minami N, Ozawa S, Sawada J: Six novel nonsynonymous CYP1A2 gene polymorphisms: catalytic activities of the naturally occurring variant enzymes. J Pharmacol Exp Ther. 2004 Jan;308(1):300-6. Epub 2003 Oct 16.</reference_text>
+      <pubmed_id>14563787</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Solus JF, Arietta BJ, Harris JR, Sexton DP, Steward JQ, McMunn C, Ihrie P, Mehall JM, Edwards TL, Dawson EP: Genetic variation in eleven phase I drug metabolism genes in an ethnically diverse population. Pharmacogenomics. 2004 Oct;5(7):895-931.</reference_text>
+      <pubmed_id>15469410</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Soyama A, Saito Y, Hanioka N, Maekawa K, Komamura K, Kamakura S, Kitakaze M, Tomoike H, Ueno K, Goto Y, Kimura H, Katoh M, Sugai K, Saitoh O, Kawai M, Ohnuma T, Ohtsuki T, Suzuki C, Minami N, Kamatani N, Ozawa S, Sawada J: Single nucleotide polymorphisms and haplotypes of CYP1A2 in a Japanese population. Drug Metab Pharmacokinet. 2005 Feb;20(1):24-33.</reference_text>
+      <pubmed_id>15770072</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jiang Z, Dalton TP, Jin L, Wang B, Tsuneoka Y, Shertzer HG, Deka R, Nebert DW: Toward the evaluation of function in genetic variability: characterizing human SNP frequencies and establishing BAC-transgenic mice carrying the human CYP1A1_CYP1A2 locus. Hum Mutat. 2005 Feb;25(2):196-206.</reference_text>
+      <pubmed_id>15643613</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cornelis MC, El-Sohemy A, Kabagambe EK, Campos H: Coffee, CYP1A2 genotype, and risk of myocardial infarction.  JAMA. 2006 Mar 8;295(10):1135-41.</reference_text>
+      <pubmed_id>16522833</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Brosen K: Drug interactions and the cytochrome P450 system. The role of cytochrome P450 1A2. Clin Pharmacokinet. 1995;29 Suppl 1:20-5.</reference_text>
+        <pubmed_id>8846619</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Caffeine</name>
+        <accession>HMDB01847</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hickman D, Wang JP, Wang Y, Unadkat JD: Evaluation of the selectivity of In vitro probes and suitability of organic solvents for the measurement of human cytochrome P450 monooxygenase activities. Drug Metab Dispos. 1998 Mar;26(3):207-15.</reference_text>
+        <pubmed_id>9492382</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Brosen K: Drug interactions and the cytochrome P450 system. The role of cytochrome P450 1A2. Clin Pharmacokinet. 1995;29 Suppl 1:20-5.</reference_text>
+        <pubmed_id>8846619</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theophylline</name>
+        <accession>HMDB01889</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sarkar MA, Hunt C, Guzelian PS, Karnes HT: Characterization of human liver cytochromes P-450 involved in theophylline metabolism. Drug Metab Dispos. 1992 Jan-Feb;20(1):31-7.</reference_text>
+        <pubmed_id>1346993</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Estradiol</name>
+        <accession>HMDB00151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Estradiol</name>
+        <accession>HMDB00151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lee AJ, Cai MX, Thomas PE, Conney AH, Zhu BT: Characterization of the oxidative metabolites of 17beta-estradiol and estrone formed by 15 selectively expressed human cytochrome p450 isoforms. Endocrinology. 2003 Aug;144(8):3382-98.</reference_text>
+        <pubmed_id>12865317</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Melatonin</name>
+        <accession>HMDB01389</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chang TK, Chen J, Yang G, Yeung EY: Inhibition of procarcinogen-bioactivating human CYP1A1, CYP1A2 and CYP1B1 enzymes by melatonin. J Pineal Res. 2010 Jan;48(1):55-64. Epub 2009 Nov 16.</reference_text>
+        <pubmed_id>19919601</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Melatonin</name>
+        <accession>HMDB01389</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ma X, Idle JR, Krausz KW, Gonzalez FJ: Metabolism of melatonin by human cytochromes p450.  Drug Metab Dispos. 2005 Apr;33(4):489-94. Epub 2004 Dec 22.</reference_text>
+        <pubmed_id>15616152</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Melatonin</name>
+        <accession>HMDB01389</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Melatonin</name>
+        <accession>HMDB01389</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Turpeinen M, Uusitalo J, Jalonen J, Pelkonen O: Multiple P450 substrates in a single run: rapid and comprehensive in vitro interaction assay. Eur J Pharm Sci. 2005 Jan;24(1):123-32.</reference_text>
+        <pubmed_id>15626586</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Menadione</name>
+        <accession>HMDB01892</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rasmussen BB, Nielsen TL, Brosen K: Fluvoxamine is a potent inhibitor of the metabolism of caffeine in vitro.  Pharmacol Toxicol. 1998 Dec;83(6):240-5.</reference_text>
+        <pubmed_id>9868741</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Baumann P: Pharmacokinetic-pharmacodynamic relationship of the selective serotonin reuptake inhibitors. Clin Pharmacokinet. 1996 Dec;31(6):444-69.</reference_text>
+        <pubmed_id>8968657</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Brosen K: Drug interactions and the cytochrome P450 system. The role of cytochrome P450 1A2. Clin Pharmacokinet. 1995;29 Suppl 1:20-5.</reference_text>
+        <pubmed_id>8846619</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Micallef J, Fakra E, Blin O: [Use of antidepressant drugs in schizophrenic patients with depression].  Encephale. 2006 Mar-Apr;32(2 Pt 1):263-9.</reference_text>
+        <pubmed_id>16910628</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rasmussen BB, Brosen K: Is therapeutic drug monitoring a case for optimizing clinical outcome and avoiding interactions of the selective serotonin reuptake inhibitors? Ther Drug Monit. 2000 Apr;22(2):143-54.</reference_text>
+        <pubmed_id>10774624</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluvoxamine</name>
+        <accession>HMDB14322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yasui-Furukori N, Inoue Y, Kaneko S, Otani K: Determination of fluvoxamine and its metabolite fluvoxamino acid by liquid-liquid extraction and column-switching high-performance liquid chromatography. J Pharm Biomed Anal. 2005 Feb 7;37(1):121-5.</reference_text>
+        <pubmed_id>15664751</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L(-)-Nicotine pestanal</name>
+        <accession>HMDB01934</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bortezomib</name>
+        <accession>HMDB14334</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bortezomib</name>
+        <accession>HMDB14334</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Phentermine</name>
+        <accession>HMDB14337</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Betaxolol</name>
+        <accession>HMDB14341</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erythromycin</name>
+        <accession>HMDB14344</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Hydroxyticlopidine</name>
+        <accession>HMDB13921</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Desmethylcitalopram</name>
+        <accession>HMDB14021</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nelfinavir</name>
+        <accession>HMDB14365</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>12-Hydroxynevirapine</name>
+        <accession>HMDB13911</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ziprasidone</name>
+        <accession>HMDB14391</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Anagrelide</name>
+        <accession>HMDB14406</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carmustine</name>
+        <accession>HMDB14407</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ropinirole</name>
+        <accession>HMDB14413</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ropinirole</name>
+        <accession>HMDB14413</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lidocaine</name>
+        <accession>HMDB14426</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lidocaine</name>
+        <accession>HMDB14426</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lidocaine</name>
+        <accession>HMDB14426</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang JS, Backman JT, Taavitsainen P, Neuvonen PJ, Kivisto KT: Involvement of CYP1A2 and CYP3A4 in lidocaine N-deethylation and 3-hydroxylation in humans. Drug Metab Dispos. 2000 Aug;28(8):959-65.</reference_text>
+        <pubmed_id>10901707</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ropivacaine</name>
+        <accession>HMDB14441</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arlander E, Ekstrom G, Alm C, Carrillo JA, Bielenstein M, Bottiger Y, Bertilsson L, Gustafsson LL: Metabolism of ropivacaine in humans is mediated by CYP1A2 and to a minor extent by CYP3A4: an interaction study with fluvoxamine and ketoconazole as in vivo inhibitors. Clin Pharmacol Ther. 1998 Nov;64(5):484-91.</reference_text>
+        <pubmed_id>9834040</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ropivacaine</name>
+        <accession>HMDB14441</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bupivacaine</name>
+        <accession>HMDB14442</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tenofovir</name>
+        <accession>HMDB14445</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>4-ene-Valproic acid</name>
+        <accession>HMDB13897</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zolmitriptan</name>
+        <accession>HMDB14460</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nitroprusside</name>
+        <accession>HMDB14470</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methadone</name>
+        <accession>HMDB14477</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>5-Hydroxyomeprazole</name>
+        <accession>HMDB14010</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyrazinamide</name>
+        <accession>HMDB14483</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorzoxazone</name>
+        <accession>HMDB14500</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aminoglutethimide</name>
+        <accession>HMDB14501</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Santen RJ, Misbin RI: Aminoglutethimide: review of pharmacology and clinical use.  Pharmacotherapy. 1981 Sep-Oct;1(2):95-120.</reference_text>
+        <pubmed_id>6765487</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Grepafloxacin</name>
+        <accession>HMDB14509</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rodighiero V: Effects of liver disease on pharmacokinetics. An update.  Clin Pharmacokinet. 1999 Nov;37(5):399-431.</reference_text>
+        <pubmed_id>10589374</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Grepafloxacin</name>
+        <accession>HMDB14509</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bril F, Gonzalez CD, Di Girolamo G: Antimicrobial agents-associated with QT interval prolongation.  Curr Drug Saf. 2010 Jan;5(1):85-92.</reference_text>
+        <pubmed_id>20210724</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norepinephrine</name>
+        <accession>HMDB00216</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mirtazapine</name>
+        <accession>HMDB14514</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Anttila SA, Leinonen EV: A review of the pharmacological and clinical profile of mirtazapine.  CNS Drug Rev. 2001 Fall;7(3):249-64.</reference_text>
+        <pubmed_id>11607047</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mirtazapine</name>
+        <accession>HMDB14514</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mirtazapine</name>
+        <accession>HMDB14514</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Stormer E, von Moltke LL, Shader RI, Greenblatt DJ: Metabolism of the antidepressant mirtazapine in vitro: contribution of cytochromes P-450 1A2, 2D6, and 3A4. Drug Metab Dispos. 2000 Oct;28(10):1168-75.</reference_text>
+        <pubmed_id>10997935</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Palonosetron</name>
+        <accession>HMDB14521</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Stoltz R, Parisi S, Shah A, Macciocchi A: Pharmacokinetics, metabolism and excretion of intravenous [l4C]-palonosetron in healthy human volunteers. Biopharm Drug Dispos. 2004 Nov;25(8):329-37.</reference_text>
+        <pubmed_id>15378559</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Palonosetron</name>
+        <accession>HMDB14521</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Stoltz R, Cyong JC, Shah A, Parisi S: Pharmacokinetic and safety evaluation of palonosetron, a 5-hydroxytryptamine-3 receptor antagonist, in U.S. and Japanese healthy subjects. J Clin Pharmacol. 2004 May;44(5):520-31.</reference_text>
+        <pubmed_id>15102873</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mexiletine</name>
+        <accession>HMDB14523</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mexiletine</name>
+        <accession>HMDB14523</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nakajima M, Kobayashi K, Shimada N, Tokudome S, Yamamoto T, Kuroiwa Y: Involvement of CYP1A2 in mexiletine metabolism.  Br J Clin Pharmacol. 1998 Jul;46(1):55-62.</reference_text>
+        <pubmed_id>9690950</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tacrine</name>
+        <accession>HMDB14526</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tacrine</name>
+        <accession>HMDB14526</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tacrine</name>
+        <accession>HMDB14526</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Obach RS, Reed-Hagen AE: Measurement of Michaelis constants for cytochrome P450-mediated biotransformation reactions using a substrate depletion approach. Drug Metab Dispos. 2002 Jul;30(7):831-7.</reference_text>
+        <pubmed_id>12065442</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Progesterone</name>
+        <accession>HMDB01830</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Sorafenib</name>
+        <accession>HMDB14542</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Flaherty KT, Lathia C, Frye RF, Schuchter L, Redlinger M, Rosen M, O'Dwyer PJ: Interaction of sorafenib and cytochrome P450 isoenzymes in patients with advanced melanoma: a phase I/II pharmacokinetic interaction study. Cancer Chemother Pharmacol. 2011 Nov;68(5):1111-8. Epub 2011 Feb 25.</reference_text>
+        <pubmed_id>21350850</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Griseofulvin</name>
+        <accession>HMDB14544</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Griseofulvin</name>
+        <accession>HMDB14544</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rasmussen BB, Jeppesen U, Gaist D, Brosen K: Griseofulvin and fluvoxamine interactions with the metabolism of theophylline.  Ther Drug Monit. 1997 Feb;19(1):56-62.</reference_text>
+        <pubmed_id>9029748</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nisoldipine</name>
+        <accession>HMDB14545</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Secobarbital</name>
+        <accession>HMDB14562</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sakuma T, Ohtake M, Katsurayama Y, Jarukamjorn K, Nemoto N: Induction of CYP1A2 by phenobarbital in the livers of aryl hydrocarbon-responsive and -nonresponsive mice. Drug Metab Dispos. 1999 Mar;27(3):379-84.</reference_text>
+        <pubmed_id>10064569</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Promazine 5-sulfoxide</name>
+        <accession>HMDB13938</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Promazine 5-sulfoxide</name>
+        <accession>HMDB13938</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxylansoprazole</name>
+        <accession>HMDB14008</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nabumetone</name>
+        <accession>HMDB14604</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Turpeinen M, Hofmann U, Klein K, Murdter T, Schwab M, Zanger UM: A predominate role of CYP1A2 for the metabolism of nabumetone to the active metabolite, 6-methoxy-2-naphthylacetic acid, in human liver microsomes. Drug Metab Dispos. 2009 May;37(5):1017-24. Epub 2009 Feb 9.</reference_text>
+        <pubmed_id>19204080</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Enoxacin</name>
+        <accession>HMDB14610</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinine</name>
+        <accession>HMDB14611</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Duloxetine</name>
+        <accession>HMDB14619</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Knadler MP, Lobo E, Chappell J, Bergstrom R: Duloxetine: clinical pharmacokinetics and drug interactions.  Clin Pharmacokinet. 2011 May;50(5):281-94. doi: 10.2165/11539240-000000000-00000.</reference_text>
+        <pubmed_id>21366359</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Duloxetine</name>
+        <accession>HMDB14619</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lobo ED, Bergstrom RF, Reddy S, Quinlan T, Chappell J, Hong Q, Ring B, Knadler MP: In vitro and in vivo evaluations of cytochrome P450 1A2 interactions with duloxetine. Clin Pharmacokinet. 2008;47(3):191-202.</reference_text>
+        <pubmed_id>18307373</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Duloxetine</name>
+        <accession>HMDB14619</accession>
+      </metabolite>
+      <reference>
+        <reference_text>[No authors listed]Duloxetine: new indication. Depression and diabetic neuropathy: too many adverse effects. Prescrire Int. 2006 Oct;15(85):168-72.</reference_text>
+        <pubmed_id>17121211</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Duloxetine</name>
+        <accession>HMDB14619</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Carter NJ, McCormack PL: Duloxetine: a review of its use in the treatment of generalized anxiety disorder.  CNS Drugs. 2009;23(6):523-41. doi: 10.2165/00023210-200923060-00006.</reference_text>
+        <pubmed_id>19480470</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorpromazine</name>
+        <accession>HMDB14620</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yoshii K, Kobayashi K, Tsumuji M, Tani M, Shimada N, Chiba K: Identification of human cytochrome P450 isoforms involved in the 7-hydroxylation of chlorpromazine by human liver microsomes. Life Sci. 2000;67(2):175-84.</reference_text>
+        <pubmed_id>10901285</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorpromazine</name>
+        <accession>HMDB14620</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rendic S: Summary of information on human CYP enzymes: human P450 metabolism data.  Drug Metab Rev. 2002 Feb-May;34(1-2):83-448.</reference_text>
+        <pubmed_id>11996015</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Chlorpromazine</name>
+        <accession>HMDB14620</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pefloxacin</name>
+        <accession>HMDB14630</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flutamide</name>
+        <accession>HMDB14642</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flutamide</name>
+        <accession>HMDB14642</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flutamide</name>
+        <accession>HMDB14642</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shet MS, McPhaul M, Fisher CW, Stallings NR, Estabrook RW: Metabolism of the antiandrogenic drug (Flutamide) by human CYP1A2.  Drug Metab Dispos. 1997 Nov;25(11):1298-303.</reference_text>
+        <pubmed_id>9351907</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cimetidine</name>
+        <accession>HMDB14644</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Haloperidol</name>
+        <accession>HMDB14645</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tateishi T, Watanabe M, Kumai T, Tanaka M, Moriya H, Yamaguchi S, Satoh T, Kobayashi S: CYP3A is responsible for N-dealkylation of haloperidol and bromperidol and oxidation of their reduced forms by human liver microsomes. Life Sci. 2000 Nov 3;67(24):2913-20.</reference_text>
+        <pubmed_id>11133003</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ritonavir</name>
+        <accession>HMDB14646</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Albendazole</name>
+        <accession>HMDB14659</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxaliplatin</name>
+        <accession>HMDB14667</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erlotinib</name>
+        <accession>HMDB14671</accession>
+      </metabolite>
+      <reference>
+        <reference_text>van Erp NP, Gelderblom H, Guchelaar HJ: Clinical pharmacokinetics of tyrosine kinase inhibitors.  Cancer Treat Rev. 2009 Dec;35(8):692-706. Epub 2009 Sep 5.</reference_text>
+        <pubmed_id>19733976</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erlotinib</name>
+        <accession>HMDB14671</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lu JF, Eppler SM, Wolf J, Hamilton M, Rakhit A, Bruno R, Lum BL: Clinical pharmacokinetics of erlotinib in patients with solid tumors and exposure-safety relationship in patients with non-small cell lung cancer. Clin Pharmacol Ther. 2006 Aug;80(2):136-45.</reference_text>
+        <pubmed_id>16890575</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erlotinib</name>
+        <accession>HMDB14671</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Johnson JR, Cohen M, Sridhara R, Chen YF, Williams GM, Duan J, Gobburu J, Booth B, Benson K, Leighton J, Hsieh LS, Chidambaram N, Zimmerman P, Pazdur R: Approval summary for erlotinib for treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen. Clin Cancer Res. 2005 Sep 15;11(18):6414-21.</reference_text>
+        <pubmed_id>16166415</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erlotinib</name>
+        <accession>HMDB14671</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Li J, Zhao M, He P, Hidalgo M, Baker SD: Differential metabolism of gefitinib and erlotinib by human cytochrome P450 enzymes. Clin Cancer Res. 2007 Jun 15;13(12):3731-7.</reference_text>
+        <pubmed_id>17575239</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Erlotinib</name>
+        <accession>HMDB14671</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hamilton M, Wolf JL, Rusk J, Beard SE, Clark GM, Witt K, Cagnoni PJ: Effects of smoking on the pharmacokinetics of erlotinib.  Clin Cancer Res. 2006 Apr 1;12(7 Pt 1):2166-71.</reference_text>
+        <pubmed_id>16609030</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ciprofloxacin</name>
+        <accession>HMDB14677</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Toremifene</name>
+        <accession>HMDB14679</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nortriptyline</name>
+        <accession>HMDB14680</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wen B, Ma L, Zhu M: Bioactivation of the tricyclic antidepressant amitriptyline and its metabolite nortriptyline to arene oxide intermediates in human liver microsomes and recombinant P450s. Chem Biol Interact. 2008 May 9;173(1):59-67. Epub 2008 Feb 14.</reference_text>
+        <pubmed_id>18359012</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nortriptyline</name>
+        <accession>HMDB14680</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nortriptyline</name>
+        <accession>HMDB14680</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nortriptyline</name>
+        <accession>HMDB14680</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Olesen OV, Linnet K: Hydroxylation and demethylation of the tricyclic antidepressant nortriptyline by cDNA-expressed human cytochrome P-450 isozymes. Drug Metab Dispos. 1997 Jun;25(6):740-4.</reference_text>
+        <pubmed_id>9193876</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluorouracil</name>
+        <accession>HMDB14684</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zafirlukast</name>
+        <accession>HMDB14689</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methoxsalen</name>
+        <accession>HMDB14693</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbamazepine</name>
+        <accession>HMDB14704</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbamazepine</name>
+        <accession>HMDB14704</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cinnarizine</name>
+        <accession>HMDB14708</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cinnarizine</name>
+        <accession>HMDB14708</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Atropine</name>
+        <accession>HMDB14712</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>4'-Hydroxydiclofenac</name>
+        <accession>HMDB13974</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cisapride</name>
+        <accession>HMDB14742</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Sulindac</name>
+        <accession>HMDB14743</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rifabutin</name>
+        <accession>HMDB14753</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-desmethylimatinib</name>
+        <accession>HMDB13862</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-desmethylimatinib</name>
+        <accession>HMDB13862</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fluphenazine</name>
+        <accession>HMDB14761</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Efavirenz</name>
+        <accession>HMDB14763</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanabenz</name>
+        <accession>HMDB14767</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Guanabenz</name>
+        <accession>HMDB14767</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Clement B, Demesmaeker M: Formation of guanoxabenz from guanabenz in human liver. A new metabolic marker for CYP1A2. Drug Metab Dispos. 1997 Nov;25(11):1266-71.</reference_text>
+        <pubmed_id>9351903</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dexmedetomidine</name>
+        <accession>HMDB14771</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Konstandi M, Lang MA, Kostakis D, Johnson EO, Marselos M: Predominant role of peripheral catecholamines in the stress-induced modulation of CYP1A2 inducibility by benzo(alpha)pyrene. Basic Clin Pharmacol Toxicol. 2008 Jan;102(1):35-44. Epub 2007 Oct 31.</reference_text>
+        <pubmed_id>17973897</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dexmedetomidine</name>
+        <accession>HMDB14771</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Konstandi M, Kostakis D, Harkitis P, Johnson EO, Marselos M, Adamidis K, Lang MA: Benzo(alpha)pyrene-induced up-regulation of CYP1A2 gene expression: role of adrenoceptor-linked signaling pathways. Life Sci. 2006 Jun 20;79(4):331-41. Epub 2006 Feb 28.</reference_text>
+        <pubmed_id>16510159</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylverapamil (D-702)</name>
+        <accession>HMDB13961</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aprepitant</name>
+        <accession>HMDB14811</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sanchez RI, Wang RW, Newton DJ, Bakhtiar R, Lu P, Chiu SH, Evans DC, Huskey SE: Cytochrome P450 3A4 is the major enzyme involved in the metabolism of the substance P receptor antagonist aprepitant. Drug Metab Dispos. 2004 Nov;32(11):1287-92. Epub 2004 Aug 10.</reference_text>
+        <pubmed_id>15304427</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aprepitant</name>
+        <accession>HMDB14811</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Desmethyltamoxifen</name>
+        <accession>HMDB13866</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Desmethyltamoxifen</name>
+        <accession>HMDB13866</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Crewe HK, Notley LM, Wunsch RM, Lennard MS, Gillam EM: Metabolism of tamoxifen by recombinant human cytochrome P450 enzymes: formation of the 4-hydroxy, 4'-hydroxy and N-desmethyl metabolites and isomerization of trans-4-hydroxytamoxifen. Drug Metab Dispos. 2002 Aug;30(8):869-74.</reference_text>
+        <pubmed_id>12124303</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>E-3179</name>
+        <accession>HMDB13846</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thioridazine</name>
+        <accession>HMDB14817</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>S-6-Hydroxywarfarin</name>
+        <accession>HMDB13880</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>S-6-Hydroxywarfarin</name>
+        <accession>HMDB13880</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Daunorubicin</name>
+        <accession>HMDB14832</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergotamine</name>
+        <accession>HMDB14834</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tizanidine</name>
+        <accession>HMDB14835</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tizanidine</name>
+        <accession>HMDB14835</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tizanidine</name>
+        <accession>HMDB14835</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shellenberger MK, Groves L, Shah J, Novack GD: A controlled pharmacokinetic evaluation of tizanidine and baclofen at steady state. Drug Metab Dispos. 1999 Feb;27(2):201-4.</reference_text>
+        <pubmed_id>9929503</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Delavirdine</name>
+        <accession>HMDB14843</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Imiquimod</name>
+        <accession>HMDB14862</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiabendazole</name>
+        <accession>HMDB14868</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiabendazole</name>
+        <accession>HMDB14868</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Meclizine</name>
+        <accession>HMDB14875</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pentamidine</name>
+        <accession>HMDB14876</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Riluzole</name>
+        <accession>HMDB14878</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Riluzole</name>
+        <accession>HMDB14878</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyzileuton</name>
+        <accession>HMDB13968</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyzileuton</name>
+        <accession>HMDB13968</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyzileuton</name>
+        <accession>HMDB13968</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Machinist JM, Mayer MD, Shet MS, Ferrero JL, Rodrigues AD: Identification of the human liver cytochrome P450 enzymes involved in the metabolism of zileuton (ABT-077) and its N-dehydroxylated metabolite, Abbott-66193. Drug Metab Dispos. 1995 Oct;23(10):1163-74.</reference_text>
+        <pubmed_id>8654206</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Modafinil</name>
+        <accession>HMDB14883</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tranylcypromine</name>
+        <accession>HMDB14890</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>2-Oxoclopidogrel</name>
+        <accession>HMDB13929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>2-Oxoclopidogrel</name>
+        <accession>HMDB13929</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Malathion</name>
+        <accession>HMDB14910</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Etoposide</name>
+        <accession>HMDB14911</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Roxithromycin</name>
+        <accession>HMDB14916</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylnaproxen</name>
+        <accession>HMDB13989</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylnaproxen</name>
+        <accession>HMDB13989</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Primidone</name>
+        <accession>HMDB14932</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pentoxifylline</name>
+        <accession>HMDB14944</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>4-Hydroxypropofol</name>
+        <accession>HMDB14018</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Trifluoperazine</name>
+        <accession>HMDB14969</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Perphenazine</name>
+        <accession>HMDB14988</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dacarbazine</name>
+        <accession>HMDB14989</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Terbinafine</name>
+        <accession>HMDB14995</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clomifene</name>
+        <accession>HMDB15020</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ethanol</name>
+        <accession>HMDB00108</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Quinidine</name>
+        <accession>HMDB15044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Almotriptan</name>
+        <accession>HMDB15054</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Salva M, Jansat JM, Martinez-Tobed A, Palacios JM: Identification of the human liver enzymes involved in the metabolism of the antimigraine agent almotriptan. Drug Metab Dispos. 2003 Apr;31(4):404-11.</reference_text>
+        <pubmed_id>12642466</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cyclobenzaprine</name>
+        <accession>HMDB15060</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang RW, Liu L, Cheng H: Identification of human liver cytochrome P450 isoforms involved in the in vitro metabolism of cyclobenzaprine. Drug Metab Dispos. 1996 Jul;24(7):786-91.</reference_text>
+        <pubmed_id>8818577</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cyclobenzaprine</name>
+        <accession>HMDB15060</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Maprotiline</name>
+        <accession>HMDB15069</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isoniazid</name>
+        <accession>HMDB15086</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Isoniazid</name>
+        <accession>HMDB15086</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rizatriptan</name>
+        <accession>HMDB15088</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sternieri E, Coccia CP, Pinetti D, Ferrari A: Pharmacokinetics and interactions of headache medications, part I: introduction, pharmacokinetics, metabolism and acute treatments. Expert Opin Drug Metab Toxicol. 2006 Dec;2(6):961-79.</reference_text>
+        <pubmed_id>17125411</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desloratadine</name>
+        <accession>HMDB15102</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alosetron</name>
+        <accession>HMDB15104</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Edetic Acid</name>
+        <accession>HMDB15109</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bournique B, Petry M, Gousset G: Usefulness of statistic experimental designs in enzymology: example with recombinant hCYP3A4 and 1A2. Anal Biochem. 1999 Dec 1;276(1):18-26.</reference_text>
+        <pubmed_id>10585740</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Telithromycin</name>
+        <accession>HMDB15111</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lomefloxacin</name>
+        <accession>HMDB15113</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ramelteon</name>
+        <accession>HMDB15115</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Obach RS, Ryder TF: Metabolism of ramelteon in human liver microsomes and correlation with the effect of fluvoxamine on ramelteon pharmacokinetics. Drug Metab Dispos. 2010 Aug;38(8):1381-91. Epub 2010 May 17.</reference_text>
+        <pubmed_id>20478852</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dopamine</name>
+        <accession>HMDB00073</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Frovatriptan</name>
+        <accession>HMDB15133</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Easthope SE, Goa KL: Frovatriptan.  CNS Drugs. 2001;15(12):969-76; discussion 977-8.</reference_text>
+        <pubmed_id>11735616</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Frovatriptan</name>
+        <accession>HMDB15133</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Buchan P, Keywood C, Wade A, Ward C: Clinical pharmacokinetics of frovatriptan.  Headache. 2002 Apr;42 Suppl 2:S54-62.</reference_text>
+        <pubmed_id>12028321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Frovatriptan</name>
+        <accession>HMDB15133</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Buchan P, Wade A, Ward C, Oliver SD, Stewart AJ, Freestone S: Frovatriptan: a review of drug-drug interactions.  Headache. 2002 Apr;42 Suppl 2:S63-73.</reference_text>
+        <pubmed_id>12028322</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Frovatriptan</name>
+        <accession>HMDB15133</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Levobupivacaine</name>
+        <accession>HMDB15137</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tioconazole</name>
+        <accession>HMDB15142</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cinacalcet</name>
+        <accession>HMDB15147</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Padhi D, Harris R: Clinical pharmacokinetic and pharmacodynamic profile of cinacalcet hydrochloride.  Clin Pharmacokinet. 2009;48(5):303-11. doi: 10.2165/00003088-200948050-00002.</reference_text>
+        <pubmed_id>19566113</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cinacalcet</name>
+        <accession>HMDB15147</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Dong BJ: Cinacalcet: An oral calcimimetic agent for the management of hyperparathyroidism.  Clin Ther. 2005 Nov;27(11):1725-51.</reference_text>
+        <pubmed_id>16368445</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clobetasol</name>
+        <accession>HMDB15148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methoxyflurane</name>
+        <accession>HMDB15162</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>SR 49498</name>
+        <accession>HMDB13845</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Selegiline</name>
+        <accession>HMDB15171</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>cis,trans-5'-Hydroxythalidomide</name>
+        <accession>HMDB13870</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>cis,trans-5'-Hydroxythalidomide</name>
+        <accession>HMDB13870</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rifampin</name>
+        <accession>HMDB15179</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tocainide</name>
+        <accession>HMDB15189</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Praziquantel</name>
+        <accession>HMDB15191</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Norfloxacin</name>
+        <accession>HMDB15192</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Primaquine</name>
+        <accession>HMDB15219</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>6-Hydroxyfluvastatin</name>
+        <accession>HMDB14037</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Leflunomide</name>
+        <accession>HMDB15229</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Leflunomide</name>
+        <accession>HMDB15229</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pimozide</name>
+        <accession>HMDB15232</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Miconazole</name>
+        <accession>HMDB15242</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nifedipine</name>
+        <accession>HMDB15247</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Proguanil</name>
+        <accession>HMDB15263</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>8-Hydroxycarvedilol</name>
+        <accession>HMDB13946</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>8-Hydroxycarvedilol</name>
+        <accession>HMDB13946</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Doxepin</name>
+        <accession>HMDB15273</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hartter S, Tybring G, Friedberg T, Weigmann H, Hiemke C: The N-demethylation of the doxepin isomers is mainly catalyzed by the polymorphic CYP2C19. Pharm Res. 2002 Jul;19(7):1034-7.</reference_text>
+        <pubmed_id>12180536</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Doxepin</name>
+        <accession>HMDB15273</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Haritos VS, Ghabrial H, Ahokas JT, Ching MS: Role of cytochrome P450 2D6 (CYP2D6) in the stereospecific metabolism of E- and Z-doxepin. Pharmacogenetics. 2000 Oct;10(7):591-603.</reference_text>
+        <pubmed_id>11037801</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Doxepin</name>
+        <accession>HMDB15273</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Desipramine</name>
+        <accession>HMDB15282</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ofloxacin</name>
+        <accession>HMDB15296</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cilostazol</name>
+        <accession>HMDB15297</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Suri A, Forbes WP, Bramer SL: Effects of CYP3A inhibition on the metabolism of cilostazol.  Clin Pharmacokinet. 1999;37 Suppl 2:61-8.</reference_text>
+        <pubmed_id>10702888</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Moclobemide</name>
+        <accession>HMDB15302</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propafenone</name>
+        <accession>HMDB15313</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Botsch S, Gautier JC, Beaune P, Eichelbaum M, Kroemer HK: Identification and characterization of the cytochrome P450 enzymes involved in N-dealkylation of propafenone: molecular base for interaction potential and variable disposition of active metabolites. Mol Pharmacol. 1993 Jan;43(1):120-6.</reference_text>
+        <pubmed_id>8423765</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propafenone</name>
+        <accession>HMDB15313</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Domperidone</name>
+        <accession>HMDB15315</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dexfenfluramine</name>
+        <accession>HMDB15322</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bromocriptine</name>
+        <accession>HMDB15331</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clarithromycin</name>
+        <accession>HMDB15342</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Anastrozole</name>
+        <accession>HMDB15348</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Aminophylline</name>
+        <accession>HMDB15354</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemfibrozil</name>
+        <accession>HMDB15371</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clomipramine</name>
+        <accession>HMDB15372</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dasatinib</name>
+        <accession>HMDB15384</accession>
+      </metabolite>
+      <reference>
+        <reference_text>van Erp NP, Gelderblom H, Guchelaar HJ: Clinical pharmacokinetics of tyrosine kinase inhibitors.  Cancer Treat Rev. 2009 Dec;35(8):692-706. Epub 2009 Sep 5.</reference_text>
+        <pubmed_id>19733976</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dasatinib</name>
+        <accession>HMDB15384</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang L, Christopher LJ, Cui D, Li W, Iyer R, Humphreys WG, Zhang D: Identification of the human enzymes involved in the oxidative metabolism of dasatinib: an effective approach for determining metabolite formation kinetics. Drug Metab Dispos. 2008 Sep;36(9):1828-39. Epub 2008 Jun 12.</reference_text>
+        <pubmed_id>18556438</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lumiracoxib</name>
+        <accession>HMDB15403</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Brosen K: Drug interactions and the cytochrome P450 system. The role of cytochrome P450 1A2. Clin Pharmacokinet. 1995;29 Suppl 1:20-5.</reference_text>
+        <pubmed_id>8846619</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wang B, Zhou SF: Synthetic and natural compounds that interact with human cytochrome P450 1A2 and implications in drug development. Curr Med Chem. 2009;16(31):4066-218.</reference_text>
+        <pubmed_id>19754423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxtriphylline</name>
+        <accession>HMDB15415</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sarkar MA, Hunt C, Guzelian PS, Karnes HT: Characterization of human liver cytochromes P-450 involved in theophylline metabolism. Drug Metab Dispos. 1992 Jan-Feb;20(1):31-7.</reference_text>
+        <pubmed_id>1346993</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>3'-Hydroxyhexobarbital</name>
+        <accession>HMDB13940</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rasagiline</name>
+        <accession>HMDB15454</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lecht S, Haroutiunian S, Hoffman A, Lazarovici P: Rasagiline - a novel MAO B inhibitor in Parkinson's disease therapy.  Ther Clin Risk Manag. 2007 Jun;3(3):467-74.</reference_text>
+        <pubmed_id>18488080</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rasagiline</name>
+        <accession>HMDB15454</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leegwater-Kim J, Bortan E: The role of rasagiline in the treatment of Parkinson's disease.  Clin Interv Aging. 2010 May 25;5:149-56.</reference_text>
+        <pubmed_id>20517484</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rasagiline</name>
+        <accession>HMDB15454</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen JJ, Swope DM, Dashtipour K: Comprehensive review of rasagiline, a second-generation monoamine oxidase inhibitor, for the treatment of Parkinson's disease. Clin Ther. 2007 Sep;29(9):1825-49.</reference_text>
+        <pubmed_id>18035186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rasagiline</name>
+        <accession>HMDB15454</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methotrimeprazine</name>
+        <accession>HMDB15474</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Green B, Pettit T, Faith L, Seaton K: Focus on levomepromazine.  Curr Med Res Opin. 2004 Dec;20(12):1877-81.</reference_text>
+        <pubmed_id>15701205</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clenbuterol</name>
+        <accession>HMDB15477</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theobromine</name>
+        <accession>HMDB02825</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Theobromine</name>
+        <accession>HMDB02825</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gates S, Miners JO: Cytochrome P450 isoform selectivity in human hepatic theobromine metabolism.  Br J Clin Pharmacol. 1999 Mar;47(3):299-305.</reference_text>
+        <pubmed_id>10215755</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acenocoumarol</name>
+        <accession>HMDB15487</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Desmethylaminopyrine</name>
+        <accession>HMDB13839</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>N-Desmethylaminopyrine</name>
+        <accession>HMDB13839</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>3-Hydroxymethylantipyrine</name>
+        <accession>HMDB13840</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>3-Hydroxymethylantipyrine</name>
+        <accession>HMDB13840</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunitrazepam</name>
+        <accession>HMDB15510</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bromazepam</name>
+        <accession>HMDB15511</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lopinavir</name>
+        <accession>HMDB15539</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pipotiazine</name>
+        <accession>HMDB15558</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wojcikowski J, Boksa J, Daniel WA: Main contribution of the cytochrome P450 isoenzyme 1A2 (CYP1A2) to N-demethylation and 5-sulfoxidation of the phenothiazine neuroleptic chlorpromazine in human liver--A comparison with other phenothiazines. Biochem Pharmacol. 2010 Oct 15;80(8):1252-9. Epub 2010 Jul 6.</reference_text>
+        <pubmed_id>20615392</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiothixene</name>
+        <accession>HMDB15560</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>6-Hydroxymethyletoricoxib</name>
+        <accession>HMDB13997</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>6-Hydroxymethyletoricoxib</name>
+        <accession>HMDB13997</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Genistein</name>
+        <accession>HMDB03217</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hu M, Krausz K, Chen J, Ge X, Li J, Gelboin HL, Gonzalez FJ: Identification of CYP1A2 as the main isoform for the phase I hydroxylated metabolism of genistein and a prodrug converting enzyme of methylated isoflavones. Drug Metab Dispos. 2003 Jul;31(7):924-31.</reference_text>
+        <pubmed_id>12814970</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dantron</name>
+        <accession>HMDB29752</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mikhailova ON, Filipenko ML, Timofeeva OA, Kaledin VI, Guliaeva LF, Liakhovich VV: [mRNA level and cytochrome P450 1A activity in the liver of C57BL mice induced by various xenobiotics]. Biomed Khim. 2003 Jul-Aug;49(4):388-93.</reference_text>
+        <pubmed_id>14562683</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou SF, Zhou ZW, Yang LP, Cai JP: Substrates, inducers, inhibitors and structure-activity relationships of human Cytochrome P450 2C9 and implications in drug development. Curr Med Chem. 2009;16(27):3480-675. Epub 2009 Sep 1.</reference_text>
+        <pubmed_id>19515014</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Flunarizine</name>
+        <accession>HMDB15589</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rotigotine</name>
+        <accession>HMDB15615</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kvernmo T, Houben J, Sylte I: Receptor-binding and pharmacokinetic properties of dopaminergic agonists.  Curr Top Med Chem. 2008;8(12):1049-67.</reference_text>
+        <pubmed_id>18691132</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mianserin</name>
+        <accession>HMDB15620</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Agomelatine</name>
+        <accession>HMDB15636</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Carney RM, Shelton RC: Agomelatine for the treatment of major depressive disorder.  Expert Opin Pharmacother. 2011 Oct;12(15):2411-9.</reference_text>
+        <pubmed_id>21916789</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nilvadipine</name>
+        <accession>HMDB15657</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fospropofol</name>
+        <accession>HMDB15661</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Guitton J, Buronfosse T, Desage M, Flinois JP, Perdrix JP, Brazier JL, Beaune P: Possible involvement of multiple human cytochrome P450 isoforms in the liver metabolism of propofol. Br J Anaesth. 1998 Jun;80(6):788-95.</reference_text>
+        <pubmed_id>9771309</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fospropofol</name>
+        <accession>HMDB15661</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lejus C, Fautrel A, Malledant Y, Guillouzo A: Inhibition of cytochrome P450 2E1 by propofol in human and porcine liver microsomes. Biochem Pharmacol. 2002 Oct 1;64(7):1151-6.</reference_text>
+        <pubmed_id>12234619</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fosaprepitant</name>
+        <accession>HMDB15662</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Navari RM: Fosaprepitant: a neurokinin-1 receptor antagonist for the prevention of chemotherapy-induced nausea and vomiting. Expert Rev Anticancer Ther. 2008 Nov;8(11):1733-42.</reference_text>
+        <pubmed_id>18983233</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Niclosamide</name>
+        <accession>HMDB15679</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bapiro TE, Egnell AC, Hasler JA, Masimirembwa CM: Application of higher throughput screening (HTS) inhibition assays to evaluate the interaction of antiparasitic drugs with cytochrome P450s. Drug Metab Dispos. 2001 Jan;29(1):30-5.</reference_text>
+        <pubmed_id>11124226</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

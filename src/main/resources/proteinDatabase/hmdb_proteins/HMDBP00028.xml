@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:43 -0700</creation_date>
+  <update_date>2013-05-27 11:06:09 -0600</update_date>
+  <accession>HMDBP00028</accession>
+  <secondary_accessions>
+    <accession>5257</accession>
+    <accession>HMDBP03764</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CAT</synonym>
+    <synonym>Carnitine acetylase</synonym>
+    <synonym>Carnitine acetyltransferase</synonym>
+    <synonym>CrAT</synonym>
+  </synonyms>
+  <gene_name>CRAT</gene_name>
+  <general_function>Involved in acyltransferase activity</general_function>
+  <specific_function>Carnitine acetylase is specific for short chain fatty acids. Carnitine acetylase seems to affect the flux through the pyruvate dehydrogenase complex. It may be involved as well in the transport of acetyl-CoA into mitochondria.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Peroxisome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04146</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00201</accession>
+      <name>L-Acetylcarnitine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00062</accession>
+      <name>L-Carnitine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01359</accession>
+      <name>Phytanoyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00824</accession>
+      <name>Propionylcarnitine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01275</accession>
+      <name>Propionyl-CoA</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum</description>
+      <go_id>GO:0005783</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>peroxisomal matrix</description>
+      <go_id>GO:0005782</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>carnitine O-acetyltransferase activity</description>
+      <go_id>GO:0004092</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carnitine metabolic process, CoA-linked</description>
+      <go_id>GO:0019254</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fatty acid beta-oxidation using acyl-CoA oxidase</description>
+      <go_id>GO:0033540</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transport</description>
+      <go_id>GO:0006810</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform 2:Peroxisome (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q34.1</locus>
+    <gene_sequence>&gt;1881 bp
+ATGTTAGCCTTCGCTGCCAGGACCGTGGTGAAGCCTCTGGGCTTCCTGAAGCCCTTCTCC
+TTGATGAAGGCTTCCAGCCGCTTCAAGGCACACCAGGATGCACTGCCACGGCTGCCCGTG
+CCCCCTCTCCAGCAGTCCCTGGACCACTACCTGAAGGCGCTGCAGCCCATCGTGAGTGAG
+GAGGAGTGGGCCCACACCAAGCAGCTGGTGGATGAGTTTCAGGCCTCAGGAGGTGTAGGG
+GAGCGCCTGCAGAAGGGGCTGGAGCGTCGGGCCAGGAAGACGGAGAACTGGCTGTCTGAG
+TGGTGGCTCAAGACCGCCTACCTCCAGTACCGCCAGCCTGTGGTCATCTACTCGAGCCCA
+GGCGTGATGCTACCCAAGCAGGACTTCGTGGACCTGCAGGGTCAGCTCCGATTTGCTGCC
+AAACTCATTGAGGGTGTGTTGGATTTCAAGGTCATGATTGACAACGAGACCCTGCCCGTG
+GAGTACCTGGGGGGGAAGCCACTGTGCATGAACCAGTACTATCAGATCTTGTCCTCCTGC
+CGAGTGCCGGGCCCCAAGCAGGACACAGTCAGCAACTTCAGCAAGACCAAGAAGCCTCCC
+ACGCACATCACCGTGGTACACAACTACCAGTTTTTTGAGCTGGATGTGTACCACAGTGAC
+GGGACACCCCTCACTGCGGATCAGATCTTTGTGCAGCTGGAGAAGATCTGGAACTCATCC
+CTACAGACCAACAAGGAGCCTGTGGGCATCCTCACCTCCAACCACCGCAACTCCTGGGCC
+AAGGCATACAACACCCTCATCAAAGACAAGGTGAACCGGGATTCCGTGCGCTCCATCCAG
+AAGAGCATCTTCACCGTGTGCCTAGATGCAACCATGCCCAGGGTCTCAGAAGACGTGTAC
+CGCAGCCACGTGGCAGGCCAGATGCTGCATGGGGGCGGCAGCAGGCTCAACAGCGGCAAC
+CGCTGGTTCGACAAGACGCTGCAGTTCATCGTGGCAGAAGATGGCTCCTGTGGGCTTGTG
+TACGAGCATGCTGCAGCGGAGGGGCCCCCTATTGTCACCCTTCTGGACTATGTCATCGAG
+TACACGAAGAAACCCGAGCTTGTGCGGTCTCCCCTGGTGCCCCTGCCCATGCCCAAGAAG
+CTGCGGTTCAACATCACCCCCGAGATCAAGAGCGACATCGAGAAGGCCAAGCAGAACCTC
+AGCATCATGATCCAGGACCTGGATATCACCGTGATGGTGTTCCACCATTTTGGAAAAGAC
+TTCCCCAAGTCGGAGAAGCTAAGCCCAGATGCCTTCATCCAGATGGCTTTGCAGCTGGCC
+TACTACAGGATCTACGGACAGGCATGTGCCACCTATGAAAGTGCCTCCCTGCGCATGTTT
+CACCTGGGCCGCACCGACACCATCCGCTCGGCTTCCATGGACTCACTCACCTTTGTCAAG
+GCCATGGATGACTCCAGCGTCACGGAGCACCAGAAGGTGGAGCTGCTGCGGAAGGCCGTG
+CAGGCCCACCGAGGCTACACCGACCGGGCCATCCGCGGGGAGGCCTTTGATCGACACCTG
+CTGGGCCTGAAGCTGCAGGCCATCGAGGACCTGGTGAGCATGCCCGACATCTTCATGGAC
+ACCTCCTACGCCATCGCCATGCACTTCCACCTCTCCACCAGCCAGGTCCCTGCCAAGACA
+GACTGTGTCATGTTCTTCGGGCCCGTGGTCCCCGACGGCTACGGTGTCTGCTATAACCCC
+ATGGAGGCCCACATCAACTTCTCCCTGTCGGCCTACAACAGCTGCGCGGAGACCAACGCC
+GCCCGCCTGGCGCATTACCTGGAGAAGGCGCTCCTGGACATGCGTGCCCTGCTGCAGAGC
+CACCCCCGGGCCAAGCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>626</residue_number>
+    <molecular_weight>70875.095</molecular_weight>
+    <theoretical_pi>8.444</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Carn_acyltransf</name>
+        <pfam_id>PF00755</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Carnitine O-acetyltransferase
+MLAFAARTVVKPLGFLKPFSLMKASSRFKAHQDALPRLPVPPLQQSLDHYLKALQPIVSE
+EEWAHTKQLVDEFQASGGVGERLQKGLERRARKTENWLSEWWLKTAYLQYRQPVVIYSSP
+GVMLPKQDFVDLQGQLRFAAKLIEGVLDFKVMIDNETLPVEYLGGKPLCMNQYYQILSSC
+RVPGPKQDTVSNFSKTKKPPTHITVVHNYQFFELDVYHSDGTPLTADQIFVQLEKIWNSS
+LQTNKEPVGILTSNHRNSWAKAYNTLIKDKVNRDSVRSIQKSIFTVCLDATMPRVSEDVY
+RSHVAGQMLHGGGSRLNSGNRWFDKTLQFIVAEDGSCGLVYEHAAAEGPPIVTLLDYVIE
+YTKKPELVRSPLVPLPMPKKLRFNITPEIKSDIEKAKQNLSIMIQDLDITVMVFHHFGKD
+FPKSEKLSPDAFIQMALQLAYYRIYGQACATYESASLRMFHLGRTDTIRSASMDSLTFVK
+AMDDSSVTEHQKVELLRKAVQAHRGYTDRAIRGEAFDRHLLGLKLQAIEDLVSMPDIFMD
+TSYAIAMHFHLSTSQVPAKTDCVMFFGPVVPDGYGVCYNPMEAHINFSLSAYNSCAETNA
+ARLAHYLEKALLDMRALLQSHPRAKL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>55958023</genbank_protein_id>
+  <uniprot_id>P43155</uniprot_id>
+  <uniprot_name>CACP_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1NM8</pdb_id>
+    <pdb_id>1S5O</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AL158151</genbank_gene_id>
+  <genecard_id>CRAT</genecard_id>
+  <geneatlas_id>CRAT</geneatlas_id>
+  <hgnc_id>HGNC:2342</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Corti O, DiDonato S, Finocchiaro G: Divergent sequences in the 5' region of cDNA suggest alternative splicing as a mechanism for the generation of carnitine acetyltransferases with different subcellular localizations. Biochem J. 1994 Oct 1;303 ( Pt 1):37-41.</reference_text>
+      <pubmed_id>7945262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Corti O, Finocchiaro G, Rossi E, Zuffardi O, DiDonato S: Molecular cloning of cDNAs encoding human carnitine acetyltransferase and mapping of the corresponding gene to chromosome 9q34.1. Genomics. 1994 Sep 1;23(1):94-9.</reference_text>
+      <pubmed_id>7829107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu D, Govindasamy L, Lian W, Gu Y, Kukar T, Agbandje-McKenna M, McKenna R: Structure of human carnitine acetyltransferase. Molecular basis for fatty acyl transfer. J Biol Chem. 2003 Apr 11;278(15):13159-65. Epub 2003 Jan 31.</reference_text>
+      <pubmed_id>12562770</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Govindasamy L, Kukar T, Lian W, Pedersen B, Gu Y, Agbandje-McKenna M, Jin S, McKenna R, Wu D: Structural and mutational characterization of L-carnitine binding to human carnitine acetyltransferase. J Struct Biol. 2004 Jun;146(3):416-24.</reference_text>
+      <pubmed_id>15099582</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Carnitine</name>
+        <accession>HMDB00062</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jogl G, Tong L: Crystal structure of carnitine acetyltransferase and implications for the catalytic mechanism and fatty acid transport. Cell. 2003 Jan 10;112(1):113-22.</reference_text>
+        <pubmed_id>12526798</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Carnitine</name>
+        <accession>HMDB00062</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wu D, Govindasamy L, Lian W, Gu Y, Kukar T, Agbandje-McKenna M, McKenna R: Structure of human carnitine acetyltransferase. Molecular basis for fatty acyl transfer. J Biol Chem. 2003 Apr 11;278(15):13159-65. Epub 2003 Jan 31.</reference_text>
+        <pubmed_id>12562770</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Carnitine</name>
+        <accession>HMDB00062</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vikramadithyan RK, Hiriyan J, Suresh J, Gershome C, Babu RK, Misra P, Rajagopalan R, Chakrabarti R: DRF 2655: a unique molecule that reduces body weight and ameliorates metabolic abnormalities. Obes Res. 2003 Feb;11(2):292-303.</reference_text>
+        <pubmed_id>12582227</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Carnitine</name>
+        <accession>HMDB00062</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Govindasamy L, Kukar T, Lian W, Pedersen B, Gu Y, Agbandje-McKenna M, Jin S, McKenna R, Wu D: Structural and mutational characterization of L-carnitine binding to human carnitine acetyltransferase. J Struct Biol. 2004 Jun;146(3):416-24.</reference_text>
+        <pubmed_id>15099582</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Carnitine</name>
+        <accession>HMDB00062</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cordente AG, Lopez-Vinas E, Vazquez MI, Swiegers JH, Pretorius IS, Gomez-Puertas P, Hegardt FG, Asins G, Serra D: Redesign of carnitine acetyltransferase specificity by protein engineering. J Biol Chem. 2004 Aug 6;279(32):33899-908. Epub 2004 May 21.</reference_text>
+        <pubmed_id>15155769</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

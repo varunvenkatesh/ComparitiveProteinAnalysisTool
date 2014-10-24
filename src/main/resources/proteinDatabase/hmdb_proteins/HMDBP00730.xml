@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:28 -0700</creation_date>
+  <update_date>2013-05-27 11:16:00 -0600</update_date>
+  <accession>HMDBP00730</accession>
+  <secondary_accessions>
+    <accession>6005</accession>
+    <accession>HMDBP03722</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CD224 antigen</synonym>
+    <synonym>GGT 1</synonym>
+    <synonym>Gamma-glutamyltransferase 1</synonym>
+    <synonym>Gamma-glutamyltranspeptidase 1 heavy chain</synonym>
+    <synonym>Gamma-glutamyltranspeptidase 1 light chain</synonym>
+    <synonym>Glutathione hydrolase 1</synonym>
+    <synonym>Leukotriene-C4 hydrolase</synonym>
+  </synonyms>
+  <gene_name>GGT1</gene_name>
+  <general_function>Involved in gamma-glutamyltransferase activity</general_function>
+  <specific_function>Initiates extracellular glutathione (GSH) breakdown, provides cells with a local cysteine supply and contributes to maintain intracellular GSH level. It is part of the cell antioxidant defense mechanism. Catalyzes the transfer of the glutamyl moiety of glutathione to amino acids and dipeptide acceptors. Alternatively, glutathione can be hydrolyzed to give Cys-Gly and gamma glutamate. Isoform 3 seems to be inactive.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glutathione metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Taurine and hypotaurine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00430</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cyanoamino acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00460</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Arachidonic acid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00590</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00078</accession>
+      <name>Cysteinylglycine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00125</accession>
+      <name>Glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10716</accession>
+      <name>Gamma-Glutamyl-Se-methylselenocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04113</accession>
+      <name>Se-Methylselenocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00251</accession>
+      <name>Taurine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01198</accession>
+      <name>Leukotriene C4</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03080</accession>
+      <name>Leukotriene D4</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04195</accession>
+      <name>5-L-Glutamyl-taurine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06465</accession>
+      <name>Leukotriene F4</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60245</accession>
+      <name>L-3-Cyanoalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60478</accession>
+      <name>gamma-Glutamyl-beta-cyanoalanine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04101</accession>
+      <name>Beta-Aminopropionitrile</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60477</accession>
+      <name>gamma-Glutamyl-beta-aminopropiononitrile</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>gamma-glutamyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>anchored to external side of plasma membrane</description>
+      <go_id>GO:0031362</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>gamma-glutamyltransferase activity</description>
+      <go_id>GO:0003840</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>hydrolase activity</description>
+      <go_id>GO:0016787</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cysteine biosynthetic process</description>
+      <go_id>GO:0019344</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutathione biosynthetic process</description>
+      <go_id>GO:0006750</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>leukotriene biosynthetic process</description>
+      <go_id>GO:0019370</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of immune system process</description>
+      <go_id>GO:0002682</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of inflammatory response</description>
+      <go_id>GO:0050727</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spermatogenesis</description>
+      <go_id>GO:0007283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>22</chromosome_location>
+    <locus>22q11.23</locus>
+    <gene_sequence>&gt;1710 bp
+ATGAAGAAGAAGTTAGTGGTGCTGGGCCTGCTGGCCGTGGTCCTGGTGCTGGTCATTGTC
+GGCCTCTGTCTCTGGCTGCCCTCAGCCTCCAAGGAACCTGACAACCATGTGTACACCAGG
+GCTGCCGTGGCCGCGGATGCCAAGCAGTGCTCGAAGATTGGGAGGGATGCACTGCGGGAC
+GGTGGCTCTGCGGTGGATGCAGCCATTGCAGCCCTGTTGTGTGTGGGGCTCATGAATGCC
+CACAGCATGGGCATCGGGGGTGGCCTCTTCCTCACCATCTACAACAGCACCACACGAAAA
+GCTGAGGTCATCAACGCCCGCGAGGTGGCCCCCAGGCTGGCCTTTGCCACCATGTTCAAC
+AGCTCGGAGCAGTCCCAGAAGGGGGGGCTGTCGGTGGCGGTGCCTGGGGAGATCCGAGGC
+TATGAGCTGGCACACCAGCGGCATGGGCGGCTGCCCTGGGCTCGCCTCTTCCAGCCCAGC
+ATCCAGCTGGCCCGCCAGGGCTTCCCCGTGGGCAAGGGCTTGGCGGCAGCCCTGGAAAAC
+AAGCGGACCGTCATCGAGCAGCAGCCTGTCTTGTGTGAGGTGTTCTGCCGGGATAGAAAG
+GTGCTTCGGGAGGGGGAGAGACTGACCCTGCCGCAGCTGGCTGACACCTACGAGACGCTG
+GCCATCGAGGGTGCCCAGGCCTTCTACAACGGCAGCCTCACGGCCCAGATTGTGAAGGAC
+ATCCAGGCGGCCGGGGGCATTGTGACAGCTGAGGACCTGAACAACTACCGTGCTGAGCTG
+ATCGAGCACCCGCTGAACATCAGCCTGGGAGACGCGGTGCTGTACATGCCCAGTGCGCCG
+CTCAGCGGGCCCGTGCTGGCCCTCATCCTCAACATCCTCAAAGGGTACAACTTCTCCCGG
+GAGAGCGTGGAGAGCCCCGAGCAGAAGGGCCTGACGTACCACCGCATCGTAGAGGCTTTC
+CGGTTTGCCTACGCCAAGAGGACCCTGCTTGGGGACCCCAAGTTTGTGGATGTGACTGAG
+GTGGTCCGCAACATGACCTCCGAGTTCTTCGCTGCCCAGCTCCGGGCCCAGATCTCTGAC
+GACACCACTCACCCGATCTCCTACTACAAGCCCGAGTTCTACACGCCGGATGACGGGGGC
+ACTGCTCACCTGTCTGTCGTCGCAGAGGACGGCAGTGCTGTGTCCGCCACCAGCACCATC
+AACCTCTACTTTGGCTCCAAGGTCCGCTCCCCGGTCAGCGGGATCCTGTTCAATAATGAA
+ATGGACGACTTCAGCTCTCCCAGCATCACCAACGAGTTTGGGGTACCCCCCTCACCTGCC
+AATTTCATCCAGCCAGGGAAGCAGCCGCTCTCGTCCATGTGCCCGACGATCATGGTGGGC
+CAGGACGGCCAGGTCCGGATGGTGGTGGGAGCTGCTGGGGGCACACAGATCACCACGGCC
+ACTGCACTGGCCATCATCTACAACCTCTGGTTCGGCTATGACGTGAAGCGGGCCGTGGAG
+GAGCCCCGGCTGCACAACCAGCTTCTGCCCAACGTCACGACAGTGGAGAGAAACATTGAC
+CAGGCAGTGACTGCAGCCCTGGAGACCCGGCACCATCACACCCAGATCGCGTCCACCTTC
+ATCGCTGTGGTGCAAGCCATCGTCCGCACGGCTGGTGGCTGGGCAGCTGCCTCGGACTCC
+AGGAAAGGCGGGGAGCCTGCCGGCTACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>569</residue_number>
+    <molecular_weight>61409.67</molecular_weight>
+    <theoretical_pi>7.123</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>G_glu_transpept</name>
+        <pfam_id>PF01019</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Gamma-glutamyltranspeptidase 1
+MKKKLVVLGLLAVVLVLVIVGLCLWLPSASKEPDNHVYTRAAVAADAKQCSKIGRDALRD
+GGSAVDAAIAALLCVGLMNAHSMGIGGGLFLTIYNSTTRKAEVINAREVAPRLAFATMFN
+SSEQSQKGGLSVAVPGEIRGYELAHQRHGRLPWARLFQPSIQLARQGFPVGKGLAAALEN
+KRTVIEQQPVLCEVFCRDRKVLREGERLTLPQLADTYETLAIEGAQAFYNGSLTAQIVKD
+IQAAGGIVTAEDLNNYRAELIEHPLNISLGDVVLYMPSAPLSGPVLALILNILKGYNFSR
+ESVESPEQKGLTYHRIVEAFRFAYAKRTLLGDPKFVDVTEVVRNMTSEFFAAQLRAQISD
+DTTHPISYYKPEFYTPDDGGTAHLSVVAEDGSAVSATSTINLYFGSKVRSPVSGILFNNE
+MDDFSSPSITNEFGVPPSPANFIQPGKQPLSSMCPTIMVGQDGQVRMVVGAAGGTQITTA
+TALAIIYNLWFGYDVKRAVEEPRLHNQLLPNVTTVERNIDQAVTAALETRHHHTQIASTF
+IAVVQAIVRTAGGWAAASDSRKGGEPAGY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>183138</genbank_protein_id>
+  <uniprot_id>P19440</uniprot_id>
+  <uniprot_name>GGT1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>J04131</genbank_gene_id>
+  <genecard_id>GGT1</genecard_id>
+  <geneatlas_id>GGT1</geneatlas_id>
+  <hgnc_id>HGNC:4250</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Rajpert-De Meyts E, Heisterkamp N, Groffen J: Cloning and nucleotide sequence of human gamma-glutamyl transpeptidase.  Proc Natl Acad Sci U S A. 1988 Dec;85(23):8840-4.</reference_text>
+      <pubmed_id>2904146</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sakamuro D, Yamazoe M, Matsuda Y, Kangawa K, Taniguchi N, Matsuo H, Yoshikawa H, Ogasawara N: The primary structure of human gamma-glutamyl transpeptidase.  Gene. 1988 Dec 15;73(1):1-9.</reference_text>
+      <pubmed_id>2907498</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pitot HC, Goodspeed D, Dunn T, Hendrich S, Maronpot RR, Moran S: Regulation of the expression of some genes for enzymes of glutathione metabolism in hepatotoxicity and hepatocarcinogenesis. Toxicol Appl Pharmacol. 1989 Jan;97(1):23-34.</reference_text>
+      <pubmed_id>2563599</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goodspeed DC, Dunn TJ, Miller CD, Pitot HC: Human gamma-glutamyl transpeptidase cDNA: comparison of hepatoma and kidney mRNA in the human and rat. Gene. 1989 Mar 15;76(1):1-9.</reference_text>
+      <pubmed_id>2568315</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pawlak A, Cohen EH, Octave JN, Schweickhardt R, Wu SJ, Bulle F, Chikhi N, Baik JH, Siegrist S, Guellaen G: An alternatively processed mRNA specific for gamma-glutamyl transpeptidase in human tissues. J Biol Chem. 1990 Feb 25;265(6):3256-62.</reference_text>
+      <pubmed_id>1968061</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Courtay C, Oster T, Michelet F, Visvikis A, Diederich M, Wellman M, Siest G: Gamma-glutamyltransferase: nucleotide sequence of the human pancreatic cDNA. Evidence for a ubiquitous gamma-glutamyltransferase polypeptide in human tissues. Biochem Pharmacol. 1992 Jun 23;43(12):2527-33.</reference_text>
+      <pubmed_id>1378736</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wetmore LA, Gerard C, Drazen JM: Human lung expresses unique gamma-glutamyl transpeptidase transcripts.  Proc Natl Acad Sci U S A. 1993 Aug 15;90(16):7461-5.</reference_text>
+      <pubmed_id>7689219</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG, Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM, Dunham I: A genome annotation-driven approach to cloning the human ORFeome.  Genome Biol. 2004;5(10):R84. Epub 2004 Sep 30.</reference_text>
+      <pubmed_id>15461802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tate SS, Khadse V, Wellner D: Renal gamma-glutamyl transpeptidases: structural and immunological studies. Arch Biochem Biophys. 1988 May 1;262(2):397-408.</reference_text>
+      <pubmed_id>2896486</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chikhi N, Holic N, Guellaen G, Laperche Y: Gamma-glutamyl transpeptidase gene organization and expression: a comparative analysis in rat, mouse, pig and human species. Comp Biochem Physiol B Biochem Mol Biol. 1999 Apr;122(4):367-80.</reference_text>
+      <pubmed_id>10392451</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tate SS, Ross ME: Human kidney gamma-glutamyl transpeptidase. Catalytic properties, subunit structure, and localization of the gamma-glutamyl binding site on the light subunit. J Biol Chem. 1977 Sep 10;252(17):6042-5.</reference_text>
+      <pubmed_id>19463</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tate SS, Galbraith RA: In vitro translation and processing of human hepatoma cell (Hep G2) gamma-glutamyl transpeptidase. Biochem Biophys Res Commun. 1988 Aug 15;154(3):1167-73.</reference_text>
+      <pubmed_id>2900635</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikeda Y, Fujii J, Taniguchi N: Significance of Arg-107 and Glu-108 in the catalytic mechanism of human gamma-glutamyl transpeptidase. Identification by site-directed mutagenesis. J Biol Chem. 1993 Feb 25;268(6):3980-5.</reference_text>
+      <pubmed_id>8095045</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikeda Y, Fujii J, Taniguchi N, Meister A: Human gamma-glutamyl transpeptidase mutants involving conserved aspartate residues and the unique cysteine residue of the light subunit. J Biol Chem. 1995 May 26;270(21):12471-5.</reference_text>
+      <pubmed_id>7759490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikeda Y, Fujii J, Anderson ME, Taniguchi N, Meister A: Involvement of Ser-451 and Ser-452 in the catalysis of human gamma-glutamyl transpeptidase. J Biol Chem. 1995 Sep 22;270(38):22223-8.</reference_text>
+      <pubmed_id>7673200</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikeda Y, Fujii J, Taniguchi N: Effects of substitutions of the conserved histidine residues in human gamma-glutamyl transpeptidase. J Biochem (Tokyo). 1996 Jun;119(6):1166-70.</reference_text>
+      <pubmed_id>8827453</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kristiansen TZ, Bunkenborg J, Gronborg M, Molina H, Thuluvath PJ, Argani P, Goggins MG, Maitra A, Pandey A: A proteomic analysis of human bile.  Mol Cell Proteomics. 2004 Jul;3(7):715-28. Epub 2004 Apr 14.</reference_text>
+      <pubmed_id>15084671</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wollscheid B, Bausch-Fluck D, Henderson C, O'Brien R, Bibel M, Schiess R, Aebersold R, Watts JD: Mass-spectrometric identification and relative quantification of N-linked cell surface glycoproteins. Nat Biotechnol. 2009 Apr;27(4):378-86. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349973</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glutathione</name>
+        <accession>HMDB00125</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ohkama-Ohtsu N, Zhao P, Xiang C, Oliver DJ: Glutathione conjugates in the vacuole are degraded by gamma-glutamyl transpeptidase GGT3 in Arabidopsis. Plant J. 2007 Mar;49(5):878-88.</reference_text>
+        <pubmed_id>17316176</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glutathione</name>
+        <accession>HMDB00125</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Martin MN, Saladores PH, Lambert E, Hudson AO, Leustek T: Localization of members of the gamma-glutamyl transpeptidase family identifies sites of glutathione and glutathione S-conjugate hydrolysis. Plant Physiol. 2007 Aug;144(4):1715-32. Epub 2007 Jun 1.</reference_text>
+        <pubmed_id>17545509</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glutathione</name>
+        <accession>HMDB00125</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Anilakumar KR, Nagaraj NS, Santhanam K: Reduction of hexachlorocyclohexane-induced oxidative stress and cytotoxicity in rat liver by Emblica officinalis gaertn. Indian J Exp Biol. 2007 May;45(5):450-4.</reference_text>
+        <pubmed_id>17569287</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glutathione</name>
+        <accession>HMDB00125</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Adamis PD, Panek AD, Eleutherio EC: Vacuolar compartmentation of the cadmium-glutathione complex protects Saccharomyces cerevisiae from mutagenesis. Toxicol Lett. 2007 Aug 30;173(1):1-7. Epub 2007 Jun 14.</reference_text>
+        <pubmed_id>17644279</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glutathione</name>
+        <accession>HMDB00125</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhu Y, Carvey PM, Ling Z: Altered glutathione homeostasis in animals prenatally exposed to lipopolysaccharide. Neurochem Int. 2007 Mar;50(4):671-80. Epub 2007 Jan 13.</reference_text>
+        <pubmed_id>17291629</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Leukotriene F4</name>
+        <accession>HMDB06465</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hammarstrom S, Orning L, Bernstrom K: Metabolism of leukotrienes.  Mol Cell Biochem. 1985 Nov;69(1):7-16.</reference_text>
+        <pubmed_id>3001504</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

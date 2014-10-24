@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:46 -0700</creation_date>
+  <update_date>2013-05-27 11:27:08 -0600</update_date>
+  <accession>HMDBP00323</accession>
+  <secondary_accessions>
+    <accession>5559</accession>
+    <accession>HMDBP04830</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Acetylneuraminyl hydrolase</synonym>
+    <synonym>G9 sialidase</synonym>
+    <synonym>Lysosomal sialidase</synonym>
+    <synonym>N-acetyl-alpha-neuraminidase 1</synonym>
+  </synonyms>
+  <gene_name>NEU1</gene_name>
+  <general_function>Involved in exo-alpha-sialidase activity</general_function>
+  <specific_function>Catalyzes the removal of sialic acid (N-acetylneuramic acid) moities from glycoproteins and glycolipids. To be active, it is strictly dependent on its presence in the multienzyme complex. Appears to have a preference for alpha 2-3 and alpha 2-6 sialyl linkage.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Other glycan degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00511</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>sphingolipid metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00600</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Lysosome</name>
+      <smpdb_id/>
+      <kegg_map_id>map04142</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB04866</accession>
+      <name>Lactosylceramide (d18:1/12:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04872</accession>
+      <name>Lactosylceramide (d18:1/24:1(15Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04873</accession>
+      <name>Lactosylceramide (d18:1/26:1(17Z))</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04874</accession>
+      <name>Lactosylceramide (d18:1/26:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04876</accession>
+      <name>Lactosylceramide (d18:1/25:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06750</accession>
+      <name>Lactosylceramide (d18:1/16:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11591</accession>
+      <name>Lactosylceramide (d18:1/18:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11594</accession>
+      <name>Lactosylceramide (d18:1/22:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB11595</accession>
+      <name>Lactosylceramide (d18:1/24:0)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14343</accession>
+      <name>Oseltamivir</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00230</accession>
+      <name>N-Acetylneuraminic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cell junction</description>
+      <go_id>GO:0030054</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasmic membrane-bounded vesicle</description>
+      <go_id>GO:0016023</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal lumen</description>
+      <go_id>GO:0043202</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosomal membrane</description>
+      <go_id>GO:0005765</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>plasma membrane</description>
+      <go_id>GO:0005886</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>exo-alpha-(2-&gt;3)-sialidase activity</description>
+      <go_id>GO:0052794</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>exo-alpha-(2-&gt;6)-sialidase activity</description>
+      <go_id>GO:0052795</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>exo-alpha-(2-&gt;8)-sialidase activity</description>
+      <go_id>GO:0052796</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>exo-alpha-sialidase activity</description>
+      <go_id>GO:0004308</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosphingolipid metabolic process</description>
+      <go_id>GO:0006687</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phospholipid metabolic process</description>
+      <go_id>GO:0006644</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Lysosome membrane</subcellular_location>
+    <subcellular_location>Peripheral membrane protein</subcellular_location>
+    <subcellular_location>Lumenal side</subcellular_location>
+    <subcellular_location>Lysosome lumen</subcellular_location>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Cytoplasmic vesicle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;1248 bp
+ATGACTGGGGAGCGACCCAGCACGGCGCTCCCGGACAGACGCTGGGGGCCGCGGATTCTG
+GGCTTCTGGGGAGGCTGTAGGGTTTGGGTGTTTGCCGCGATCTTCCTGCTGCTGTCTCTG
+GCAGCCTCCTGGTCCAAGGCTGAGAACGACTTCGGTCTGGTGCAGCCGCTGGTGACCATG
+GAGCAACTGCTGTGGGTGAGCGGGAGACAGATCGGCTCAGTGGACACCTTCCGCATCCCG
+CTCATCACAGCCACTCCGCGGGGCACTCTTCTCGCCTTTGCTGAGGCGAGGAAAATGTCC
+TCATCCGATGAGGGGGCCAAGTTCATCGCCCTGCGGAGGTCCATGGACCAGGGCAGCACA
+TGGTCTCCTACAGCGTTCATTGTCAATGATGGGGATGTCCCCGATGGGCTGAACCTTGGG
+GCAGTAGTGAGCGATGTTGAGACAGGAGTAGTATTTCTTTTCTACTCCCTTTGTGCTCAC
+AAGGCCGGCTGCCAGGTGGCCTCTACCATGTTGGTATGGAGCAAGGATGATGGTGTTTCC
+TGGAGCACACCCCGGAATCTCTCCCTGGATATTGGCACTGAAGTGTTTGCCCCTGGACCG
+GGCTCTGGTATTCAGAAACAGCGGGAGCCACGGAAGGGCCGCCTCATCGTGTGTGGCCAT
+GGGACGCTGGAGCGGGACGGAGTCTTCTGTCTCCTCAGCGATGATCATGGTGCCTCCTGG
+CGCTACGGAAGTGGGGTCAGCGGCATCCCCTACGGTCAGCCCAAGCAGGAAAATGATTTC
+AATCCTGATGAATGCCAGCCCTATGAGCTCCCAGATGGCTCAGTCGTCATCAATGCCCGA
+AACCAGAACAACTACCACTGCCACTGCCGAATTGTCCTCCGCAGCTATGATGCCTGTGAT
+ACACTAAGGCCCCGTGATGTGACCTTCGACCCTGAGCTCGTGGACCCTGTGGTAGCTGCA
+GGAGCTGTAGTCACCAGCTCCGGCATTGTCTTCTTCTCCAACCCAGCACATCCAGAGTTC
+CGAGTGAACCTGACCCTGCGATGGAGCTTCAGCAATGGTACCTCATGGCGGAAAGAGACA
+GTCCAGCTATGGCCAGGCCCCAGTGGCTATTCATCCCTGGCAACCCTGGAGGGCAGCATG
+GATGGAGAGGAGCAGGCCCCCCAGCTCTACGTCCTGTATGAGAAAGGCCGGAACCACTAC
+ACAGAGAGCATCTCCGTGGCCAAAATCAGTGTCTATGGGACACTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>415</residue_number>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Sialidase-1
+MTGERPSTALPDRRWGPRILGFWGGCRVWVFAAIFLLLSLAASWSKAENDFGLVQPLVTM
+EQLLWVSGRQIGSVDTFRIPLITATPRGTLLAFAEARKMSSSDEGAKFIALRRSMDQGST
+WSPTAFIVNDGDVPDGLNLGAVVSDVETGVVFLFYSLCAHKAGCQVASTMLVWSKDDGVS
+WSTPRNLSLDIGTEVFAPGPGSGIQKQREPRKGRLIVCGHGTLERDGVFCLLSDDHGASW
+RYGSGVSGIPYGQPKQENDFNPDECQPYELPDGSVVINARNQNNYHCHCRIVLRSYDACD
+TLRPRDVTFDPELVDPVVAAGAVVTSSGIVFFSNPAHPEFRVNLTLRWSFSNGTSWRKET
+VQLWPGPSGYSSLATLEGSMDGEEQAPQLYVLYEKGRNHYTESISVAKISVYGTL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q99519</uniprot_id>
+  <uniprot_name>NEUR1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF040958</genbank_gene_id>
+  <genecard_id>NEU1</genecard_id>
+  <geneatlas_id>NEU1</geneatlas_id>
+  <hgnc_id>HGNC:7758</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Bonten E, van der Spoel A, Fornerod M, Grosveld G, d'Azzo A: Characterization of human lysosomal neuraminidase defines the molecular basis of the metabolic storage disorder sialidosis. Genes Dev. 1996 Dec 15;10(24):3156-69.</reference_text>
+      <pubmed_id>8985184</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Milner CM, Smith SV, Carrillo MB, Taylor GL, Hollinshead M, Campbell RD: Identification of a sialidase encoded in the human major histocompatibility complex. J Biol Chem. 1997 Feb 14;272(7):4549-58.</reference_text>
+      <pubmed_id>9020182</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pshezhetsky AV, Richard C, Michaud L, Igdoura S, Wang S, Elsliger MA, Qu J, Leclerc D, Gravel R, Dallaire L, Potier M: Cloning, expression and chromosomal mapping of human lysosomal sialidase and characterization of mutations in sialidosis. Nat Genet. 1997 Mar;15(3):316-20.</reference_text>
+      <pubmed_id>9054950</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xie T, Rowen L, Aguado B, Ahearn ME, Madan A, Qin S, Campbell RD, Hood L: Analysis of the gene-dense major histocompatibility complex class III region and its comparison to mouse. Genome Res. 2003 Dec;13(12):2621-36.</reference_text>
+      <pubmed_id>14656967</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vinogradova MV, Michaud L, Mezentsev AV, Lukong KE, El-Alfy M, Morales CR, Potier M, Pshezhetsky AV: Molecular mechanism of lysosomal sialidase deficiency in galactosialidosis involves its rapid degradation. Biochem J. 1998 Mar 1;330 ( Pt 2):641-50.</reference_text>
+      <pubmed_id>9480870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lukong KE, Seyrantepe V, Landry K, Trudel S, Ahmad A, Gahl WA, Lefrancois S, Morales CR, Pshezhetsky AV: Intracellular distribution of lysosomal sialidase is controlled by the internalization signal in its cytoplasmic tail. J Biol Chem. 2001 Dec 7;276(49):46172-81. Epub 2001 Sep 24.</reference_text>
+      <pubmed_id>11571282</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tao WA, Wollscheid B, O'Brien R, Eng JK, Li XJ, Bodenmiller B, Watts JD, Hood L, Aebersold R: Quantitative phosphoproteome analysis using a dendrimer conjugation chemistry and tandem mass spectrometry. Nat Methods. 2005 Aug;2(8):591-8.</reference_text>
+      <pubmed_id>16094384</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lukong KE, Elsliger MA, Chang Y, Richard C, Thomas G, Carey W, Tylki-Szymanska A, Czartoryska B, Buchholz T, Criado GR, Palmeri S, Pshezhetsky AV: Characterization of the sialidase molecular defects in sialidosis patients suggests the structural organization of the lysosomal multienzyme complex. Hum Mol Genet. 2000 Apr 12;9(7):1075-85.</reference_text>
+      <pubmed_id>10767332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bonten EJ, Arts WF, Beck M, Covanis A, Donati MA, Parini R, Zammarchi E, d'Azzo A: Novel mutations in lysosomal neuraminidase identify functional domains and determine clinical severity in sialidosis. Hum Mol Genet. 2000 Nov 1;9(18):2715-25.</reference_text>
+      <pubmed_id>11063730</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Naganawa Y, Itoh K, Shimmoto M, Takiguchi K, Doi H, Nishizawa Y, Kobayashi T, Kamei S, Lukong KE, Pshezhetsky AV, Sakuraba H: Molecular and structural studies of Japanese patients with sialidosis type 1. J Hum Genet. 2000;45(4):241-9.</reference_text>
+      <pubmed_id>10944856</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lukong KE, Landry K, Elsliger MA, Chang Y, Lefrancois S, Morales CR, Pshezhetsky AV: Mutations in sialidosis impair sialidase binding to the lysosomal multienzyme complex. J Biol Chem. 2001 May 18;276(20):17286-90. Epub 2001 Feb 20.</reference_text>
+      <pubmed_id>11279074</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Itoh K, Naganawa Y, Matsuzawa F, Aikawa S, Doi H, Sasagasako N, Yamada T, Kira J, Kobayashi T, Pshezhetsky AV, Sakuraba H: Novel missense mutations in the human lysosomal sialidase gene in sialidosis patients and prediction of structural alterations of mutant enzymes. J Hum Genet. 2002;47(1):29-37.</reference_text>
+      <pubmed_id>11829139</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pattison S, Pankarican M, Rupar CA, Graham FL, Igdoura SA: Five novel mutations in the lysosomal sialidase gene (NEU1) in type II sialidosis patients and assessment of their impact on enzyme activity and intracellular targeting using adenovirus-mediated expression. Hum Mutat. 2004 Jan;23(1):32-9.</reference_text>
+      <pubmed_id>14695530</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oseltamivir</name>
+        <accession>HMDB14343</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chavas LM, Kato R, Suzuki N, von Itzstein M, Mann MC, Thomson RJ, Dyason JC, McKimm-Breschkin J, Fusi P, Tringali C, Venerando B, Tettamanti G, Monti E, Wakatsuki S: Complexity in influenza virus targeted drug design: interaction with human sialidases. J Med Chem. 2010 Apr 8;53(7):2998-3002.</reference_text>
+        <pubmed_id>20222714</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:55:25 -0700</creation_date>
+  <update_date>2013-01-15 18:55:25 -0700</update_date>
+  <accession>HMDBP01324</accession>
+  <secondary_accessions>
+    <accession>6620</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>DNA-PK catalytic subunit</synonym>
+    <synonym>DNA-PKcs</synonym>
+    <synonym>DNPK1</synonym>
+    <synonym>p460</synonym>
+  </synonyms>
+  <gene_name>PRKDC</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Serine/threonine-protein kinase that acts as a molecular sensor for DNA damage. Involved in DNA nonhomologous end joining (NHEJ) required for double-strand break (DSB) repair and V(D)J recombination. Must be bound to DNA to express its catalytic properties. Promotes processing of hairpin DNA structures in V(D)J recombination by activation of the hairpin endonuclease artemis (DCLRE1C). The assembly of the DNA-PK complex at DNA ends is also required for the NHEJ ligation step. Required to protect and align broken ends of DNA. May also act as a scaffold protein to aid the localization of DNA repair proteins to the site of damage. Found at the ends of chromosomes, suggesting a further role in the maintenance of telomeric stability and the prevention of chromosomal end fusion. Also involved in modulation of transcription. Recognizes the substrate consensus sequence [ST]-Q. Phosphorylates 'Ser-139' of histone variant H2AX/H2AFX, thereby regulating DNA damage response mechanism. Phosphorylates DCLRE1C, c-Abl/ABL1, histone H1, HSPCA, c-jun/JUN, p53/TP53, PARP1, POU2F1, DHX9, SRF, XRCC1, XRCC1, XRCC4, XRCC5, XRCC6, WRN, MYC and RFA2. Can phosphorylate C1D not only in the presence of linear DNA but also in the presence of supercoiled DNA. Ability to phosphorylate TP53/p53 in the presence of supercoiled DNA is dependent on C1D</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein serine/threonine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna-dependent protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>non-recombinational repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>double-strand break repair via nonhomologous end joining</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:8</chromosome_location>
+    <locus>8q11</locus>
+    <gene_sequence>&gt;12387 bp
+ATGGCGGGCTCCGGAGCCGGTGTGCGTTGCTCCCTGCTGCGGCTGCAGGAGACCTTGTCC
+GCTGCGGACCGCTGCGGTGCTGCCCTGGCCGGTCATCAACTGATCCGCGGCCTGGGGCAG
+GAATGCGTCCTGAGCAGCAGCCCCGCGGTGCTGGCATTACAGACATCTTTAGTTTTTTCC
+AGAGATTTCGGTTTGCTTGTATTTGTCCGGAAGTCACTCAACAGTATTGAATTTCGTGAA
+TGTAGAGAAGAAATCCTAAAGTTTTTATGTATTTTCTTAGAAAAAATGGGCCAGAAGATC
+GCACCTTACTCTGTTGAAATTAAGAACACTTGTACCAGTGTTTATACAAAAGATAGAGCT
+GCTAAATGTAAAATTCCAGCCCTGGACCTTCTTATTAAGTTACTTCAGACTTTTAGAAGT
+TCTAGACTCATGGATGAATTTAAAATTGGAGAATTATTTAGTAAATTCTATGGAGAACTT
+GCATTGAAAAAAAAAATACCAGATACAGTTTTAGAAAAAGTATATGAGCTCCTAGGATTA
+TTGGGTGAAGTTCATCCTAGTGAGATGATAAATAATGCAGAAAACCTGTTCCGCGCTTTT
+CTGGGTGAACTTAAGACCCAGATGACATCAGCAGTAAGAGAGCCCAAACTACCTGTTCTG
+GCAGGATGTCTGAAGGGGTTGTCCTCACTTCTGTGCAACTTCACTAAGTCCATGGAAGAA
+GATCCCCAGACTTCAAGGGAGATTTTTAATTTTGTACTAAAGGCAATTCGTCCTCAGATT
+GATCTGAAGAGATATGCTGTGCCCTCAGCTGGCTTGCGCCTATTTGCCCTGCATGCATCT
+CAGTTTAGCACCTGCCTTCTGGACAACTACGTGTCTCTATTTGAAGTCTTGTTAAAGTGG
+TGTGCCCACACAAATGTAGAATTGAAAAAAGCTGCACTTTCAGCCCTGGAATCCTTTCTG
+AAACAGGTTTCTAATATGGTGGCGAAAAATGCAGAAATGCATAAAAATAAACTGCAGTAC
+TTTATGGAGCAGTTTTATGGAATCATCAGAAATGTGGATTCGAACAACAAGGAGTTATCT
+ATTGCTATCCGTGGATATGGACTTTTTGCAGGACCGTGCAAGGTTATAAACGCAAAAGAT
+GTTGACTTCATGTACGTTGAGCTCATTCAGCGCTGCAAGCAGATGTTCCTCACCCAGACA
+GACACTGGTGACGACCGTGTTTATCAGATGCCAAGCTTCCTCCAGTCTGTTGCAAGCGTC
+TTGCTGTACCTTGACACAGTTCCTGAGGTGTATACTCCAGTTCTGGAGCACCTCGTGGTG
+ATGCAGATAGACAGTTTCCCACAGTACAGTCCAAAAATGCAGCTGGTGTGTTGCAGAGCC
+ATAGTGAAGGTGTTCCTAGCTTTGGCAGCAAAAGGGCCAGTTCTCAGGAATTGCATTAGT
+ACTGTGGTGCATCAGGGTTTAATCAGAATATGTTCTAAACCAGTGGTCCTTCCAAAGGGC
+CCTGAGTCTGAATCTGAAGACCACCGTGCTTCAGGGGAAGTCAGAACTGGCAAATGGAAG
+GTGCCCACATACAAAGACTACGTGGATCTCTTCAGACATCTCCTGAGCTCTGACCAGATG
+ATGGATTCTATTTTAGCAGATGAAGCATTTTTCTCTGTGAATTCCTCCAGTGAAAGTCTG
+AATCATTTACTTTATGATGAATTTGTAAAATCCGTTTTGAAGATTGTTGAGAAATTGGAT
+CTTACACTTGAAATACAGACTGTTGGGGAACAAGAGAATGGAGATGAGGCGCCTGGTGTT
+TGGATGATCCCAACTTCAGATCCAGCGGCTAACTTGCATCCAGCTAAACCTAAAGATTTT
+TCGGCTTTCATTAACCTGGTGGAATTTTGCAGAGAGATTCTCCCTGAGAAACAAGCAGAA
+TTTTTTGAACCATGGGTGTACTCATTTTCATATGAATTAATTTTGCAATCTACAAGGTTG
+CCCCTCATCAGTGGTTTCTACAAATTGCTTTCTATTACAGTAAGAAATGCCAAGAAAATA
+AAATATTTCGAGGGAGTTAGTCCAAAGAGTCTGAAACACTCTCCTGAAGACCCAGAAAAG
+TATTCTTGCTTTGCTTTATTTGTGAAATTTGGCAAAGAGGTGGCAGTTAAAATGAAGCAG
+TACAAAGATGAACTTTTGGCCTCTTGTTTGACCTTTCTTCTGTCCTTGCCACACAACATC
+ATTGAACTCGATGTTAGAGCCTACGTTCCTGCACTGCAGATGGCTTTCAAACTGGGCCTG
+AGCTATACCCCCTTGGCAGAAGTAGGCCTGAATGCTCTAGAAGAATGGTCAATTTATATT
+GACAGACATGTAATGCAGCCTTATTACAAAGACATTCTCCCCTGCCTGGATGGATACCTG
+AAGACTTCAGCCTTGTCAGATGAGACCAAGAATAACTGGGAAGTGTCAGCTCTTTCTCGG
+GCTGCCCAGAAAGGATTTAATAAAGTGGTGTTAAAGCATCTGAAGAAGACAAAGAACCTT
+TCATCAAACGAAGCAATATCCTTAGAAGAAATAAGAATTAGAGTAGTACAAATGCTTGGA
+TCTCTAGGAGGACAAATAAACAAAAATCTTCTGACAGTCACGTCCTCAGATGAGATGATG
+AAGAGCTATGTGGCCTGGGACAGAGAGAAGCGGCTGAGCTTTGCAGTGCCCTTTAGAGAG
+ATGAAACCTGTCATTTTCCTGGATGTGTTCCTGCCTCGAGTCACAGAATTAGCGCTCACA
+GCCAGTGACAGACAAACTAAAGTTGCAGCCTGTGAACTTTTACATAGCATGGTTATGTTT
+ATGTTGGGCAAAGCCACGCAGATGCCAGAAGGGGGACAGGGAGCCCCACCCATGTACCAG
+CTCTATAAGCGGACGTTTCCTGTGCTGCTTCGACTTGCGTGTGATGTTGATCAGGTGACA
+AGGCAACTGTATGAGCCACTAGTTATGCAGCTGATTCACTGGTTCACTAACAACAAGAAA
+TTTGAAAGTCAGGATACTGTTGCCTTACTAGAAGCTATATTGGATGGAATTGTGGACCCT
+GTTGACAGTACTTTAAGAGATTTTTGTGGTCGGTGTATTCGAGAATTCCTTAAATGGTCC
+ATTAAGCAAATAACACCACAGCAGCAGGAGAAGAGTCCAGTAAACACCAAATCGCTTTTC
+AAGCGACTTTATAGCCTTGCGCTTCACCCCAATGCTTTCAAGAGGCTGGGAGCATCACTT
+GCCTTTAATAATATCTACAGGGAATTCAGGGAAGAAGAGTCTCTGGTGGAACAGTTTGTG
+TTTGAAGCCTTGGTGATATACATGGAGAGTCTGGCCTTAGCACATGCAGATGAGAAGTCC
+TTAGGTACAATTCAACAGTGTTGTGATGCCATTGATCACCTATGCCGCATCATTGAAAAG
+AAGCATGTTTCTTTAAATAAAGCAAAGAAACGACGTTTGCCGCGAGGATTTCCACCTTCC
+GCATCATTGTGTTTATTGGATCTGGTCAAGTGGCTTTTAGCTCATTGTGGGAGGCCCCAG
+ACAGAATGTCGACACAAATCCATTGAACTCTTTTATAAATTCGTTCCTTTATTGCCAGGC
+AACAGATCCCCTAATTTGTGGCTGAAAGATGTTCTCAAGGAAGAAGGTGTCTCTTTTCTC
+ATCAACACCTTTGAGGGGGGTGGCTGTGGCCAGCCCTCGGGCATCCTGGCCCAGCCCACC
+CTCTTGTACCTTCGGGGGCCATTCAGCCTGCAGGCCACGCTATGCTGGCTGGACCTGCTC
+CTGGCCGCGTTGGAGTGCTACAACACGTTCATTGGCGAGAGAACTGTAGGAGCGCTCCAG
+GTCCTAGGTACTGAAGCCCAGTCTTCACTTTTGAAAGCAGTGGCTTTCTTCTTAGAAAGC
+ATTGCCATGCATGACATTATAGCAGCAGAAAAGTGCTTTGGCACTGGGGCAGCAGGTAAC
+AGAACAAGCCCACAAGAGGGAGAAAGGTACAACTACAGCAAATGCACCGTTGTGGTCCGG
+ATTATGGAGTTTACCACGACTCTGCTAAACACCTCCCCGGAAGGATGGAAGCTCCTGAAG
+AAGGACTTGTGTAATACACACCTGATGAGAGTCCTGGTGCAGACGCTGTGTGAGCCCGCA
+AGCATAGGTTTCAACATCGGAGACGTCCAGGTTATGGCTCATCTTCCTGATGTTTGTGTG
+AATCTGATGAAAGCTCTAAAGATGTCCCCATACAAAGATATCCTAGAGACCCATCTGAGA
+GAGAAAATAACAGCACAGAGCATTGAGGAGCTTTGTGCCGTCAACTTGTATGGCCCTGAC
+GCGCAAGTGGACAGGAGCAGGCTGGCTGCTGTTGTGTCTGCCTGTAAACAGCTTCACAGA
+GCTGGGCTTCTGCATAATATATTACCGTCTCAGTCCACAGATTTGCATCATTCTGTTGGC
+ACAGAACTTCTTTCCCTGGTTTATAAAGGCATTGCCCCTGGAGATGAGAGACAGTGTCTG
+CCTTCTCTAGACCTCAGTTGTAAGCAGCTGGCCAGCGGACTTCTGGAGTTAGCCTTTGCT
+TTTGGAGGACTGTGTGAGCGCCTTGTGAGTCTTCTCCTGAACCCAGCGGTGCTGTCCACG
+GCGTCCTTGGGCAGCTCACAGGGCAGCGTCATCCACTTCTCCCATGGGGAGTATTTCTAT
+AGCTTGTTCTCAGAAACGATCAACACGGAATTATTGAAAAATCTGGATCTTGCTGTATTG
+GAGCTCATGCAGTCTTCAGTGGATAATACCAAAATGGTGAGTGCCGTTTTGAACGGCATG
+TTAGACCAGAGCTTCAGGGAGCGAGCAAACCAGAAACACCAAGGACTGAAACTTGCGACT
+ACAATTCTGCAACACTGGAAGAAGTGTGATTCATGGTGGGCCAAAGATTCCCCTCTCGAA
+ACTAAAATGGCAGTGCTGGCCTTACTGGCAAAAATTTTACAGATTGATTCATCTGTATCT
+TTTAATACAAGTCATGGTTCATTCCCTGAAGTCTTTACAACATATATTAGTCTACTTGCT
+GACACAAAGCTGGATCTACATTTAAAGGGCCAAGCTGTCACTCTTCTTCCATTCTTCACC
+AGCCTCACTGGAGGCAGTCTGGAGGAACTTAGACGTGTTCTGGAGCAGCTCATCGTTGCT
+CACTTCCCCATGCAGTCCAGGGAATTTCCTCCAGGAACTCCGCGGTTCAATAATTATGTG
+GACTGCATGAAAAAGTTTCTAGATGCATTGGAATTATCTCAAAGCCCTATGTTGTTGGAA
+TTGATGACAGAAGTTCTTTGTCGGGAACAGCAGCATGTCATGGAAGAATTATTTCAATCC
+AGTTTCAGGAGGATTGCCAGAAGGGGTTCATGTGTCACACAAGTAGGCCTTCTGGAAAGC
+GTGTATGAAATGTTCAGGAAGGATGACCCCCGCCTAAGTTTCACACGCCAGTCCTTTGTG
+GACCGCTCCCTCCTCACTCTGCTGTGGCACTGTAGCCTGGATGCTTTGAGAGAATTCTTC
+AGCACAATTGTGGTGGATGCCATTGATGTGTTGAAGTCCAGGTTTACAAAGCTAAATGAA
+TCTACCTTTGATACTCAAATCACCAAGAAGATGGGCTACTATAAGATTCTAGACGTGATG
+TATTCTCGCCTTCCCAAAGATGATGTTCATGCTAAGGAATCAAAAATTAATCAAGTTTTC
+CATGGCTCGTGTATTACAGAAGGAAATGAACTTACAAAGACATTGATTAAATTGTGCTAC
+GATGCATTTACAGAGAACATGGCAGGAGAGAATCAGCTGCTGGAGAGGAGAAGACTTTAC
+CATTGTGCAGCATACAACTGCGCCATATCTGTCATCTGCTGTGTCTTCAATGAGTTAAAA
+TTTTACCAAGGTTTTCTGTTTAGTGAAAAACCAGAAAAGAACTTGCTTATTTTTGAAAAT
+CTGATCGACCTGAAGCGCCGCTATAATTTTCCTGTAGAAGTTGAGGTTCCTATGGAAAGA
+AAGAAAAAGTACATTGAAATTAGGAAAGAAGCCAGAGAAGCAGCAAATGGGGATTCAGAT
+GGTCCTTCCTATATGTCTTCCCTGTCATATTTGGCAGACAGTACCCTGAGTGAGGAAATG
+AGTCAATTTGATTTCTCAACCGGAGTTCAGAGCTATTCATACAGCTCCCAAGACCCTAGA
+CCTGCCACTGGTCGTTTTCGGAGACGGGAGCAGCGGGACCCCACGGTGCATGATGATGTG
+CTGGAGCTGGAGATGGACGAGCTCAATCGGCATGAGTGCATGGCGCCCCTGACGGCCCTG
+GTCAAGCACATGCACAGAAGCCTGGGCCCGCCTCAAGGAGAAGAGGATTCAGTGCCAAGA
+GATCTTCCTTCTTGGATGAAATTCCTCCATGGCAAACTGGGAAATCCAATAGTACCATTA
+AATATCCGTCTCTTCTTAGCCAAGCTTGTTATTAATACAGAAGAGGTCTTTCGCCCTTAC
+GCGAAGCACTGGCTTAGCCCCTTGCTGCAGCTGGCTGCTTCTGAAAACAATGGAGGAGAA
+GGAATTCACTACATGGTGGTTGAGATAGTGGCCACTATTCTTTCATGGACAGGCTTGGCC
+ACTCCAACAGGGGTCCCTAAAGATGAAGTGTTAGCAAATCGATTGCTTAATTTCCTAATG
+AAACATGTCTTTCATCCAAAAAGAGCTGTGTTTAGACACAACCTTGAAATTATAAAGACC
+CTTGTCGAGTGCTGGAAGGATTGTTTATCCATCCCTTATAGGTTAATATTTGAAAAGTTT
+TCCGGTAAAGATCCTAATTCTAAAGACAACTCAGTAGGGATTCAATTGCTAGGCATCGTG
+ATGGCCAATGACCTGCCTCCCTATGACCCACAGTGTGGCATCCAGAGTAGCGAATACTTC
+CAGGCTTTGGTGAATAATATGTCCTTTGTAAGATATAAAGAAGTGTATGCCGCTGCAGCA
+GAAGTTCTAGGACTTATACTTCGATATGTTATGGAGAGAAAAAACATACTGGAGGAGTCT
+CTGTGTGAACTGGTTGCGAAACAATTGAAGCAACATCAGAATACTATGGAGGACAAGTTT
+ATTGTGTGCTTGAACAAAGTGACCAAGAGCTTCCCTCCTCTTGCAGACAGGTTCATGAAT
+GCTGTGTTCTTTCTGCTGCCAAAATTTCATGGAGTGTTGAAAACACTCTGTCTGGAGGTG
+GTACTTTGTCGTGTGGAGGGAATGACAGAGCTGTACTTCCAGTTAAAGAGCAAGGACTTC
+GTTCAAGTCATGAGACATAGAGATGATGAAAGACAAAAAGTATGTTTGGACATAATTTAT
+AAGATGATGCCAAAGTTAAAACCAGTAGAACTCCGAGAACTTCTGAACCCCGTTGTGGAA
+TTCGTTTCCCATCCTTCTACAACATGTAGGGAACAAATGTATAATATTCTCATGTGGATT
+CATGATAATTACAGAGATCCAGAAAGTGAGACAGATAATGACTCCCAGGAAATATTTAAG
+TTGGCAAAAGATGTGCTGATTCAAGGATTGATCGATGAGAACCCTGGACTTCAATTAATT
+ATTCGAAATTTCTGGAGCCATGAAACTAGGTTACCTTCAAATACCTTGGACCGGTTGCTG
+GCACTAAATTCCTTATATTCTCCTAAGATAGAAGTGCACTTTTTAAGTTTAGCAACAAAT
+TTTCTGCTCGAAATGACCAGCATGAGCCCAGATTATCCAAACCCCATGTTCGAGCATCCT
+CTGTCAGAATGCGAATTTCAGGAATATACCATTGATTCTGATTGGCGTTTCCGAAGTACT
+GTTCTCACTCCGATGTTTGTGGAGACCCAGGCCTCCCAGGGCACTCTCCAGACCCGTACC
+CAGGAAGGGTCCCTCTCAGCTCGCTGGCCAGTGGCAGGGCAGATAAGGGCCACCCAGCAG
+CAGCATGACTTCACACTGACACAGACTGCAGATGGAAGAAGCTCATTTGATTGGCTGACC
+GGGAGCAGCACTGACCCGCTGGTCGACCACACCAGTCCCTCATCTGACTCCTTGCTGTTT
+GCCCACAAGAGGAGTGAAAGGTTACAGAGAGCACCCTTGAAGTCAGTGGGGCCTGATTTT
+GGGAAAAAAAGGCTGGGCCTTCCAGGGGACGAGGTGGATAACAAAGTGAAAGGTGCGGCC
+GGCCGGACGGACCTACTACGACTGCGCAGACGGTTTATGAGGGACCAGGAGAAGCTCAGT
+TTGATGTATGCCAGAAAAGGCGTTGCTGAGCAAAAACGAGAGAAGGAAATCAAGAGTGAG
+TTAAAAATGAAGCAGGATGCCCAGGTCGTTCTGTACAGAAGCTACCGGCACGGAGACCTT
+CCTGACATTCAGATCAAGCACAGCAGCCTCATCACCCCGTTACAGGCCGTGGCCCAGAGG
+GACCCAATAATTGCAAAACAGCTCTTTAGCAGCTTGTTTTCTGGAATTTTGAAAGAGATG
+GATAAATTTAAGACACTGTCTGAAAAAAACAACATCACTCAAAAGTTGCTTCAAGACTTC
+AATCGTTTTCTTAATACCACCTTCTCTTTCTTTCCACCCTTTGTCTCTTGTATTCAGGAC
+ATTAGCTGTCAGCACGCAGCCCTGCTGAGCCTCGACCCAGCGGCTGTTAGCGCTGGTTGC
+CTGGCCAGCCTACAGCAGCCCGTGGGCATCCGCCTGCTAGAGGAGGCTCTGCTCCGCCTG
+CTGCCTGCTGAGCTGCCTGCCAAGCGAGTCCGTGGGAAGGCCCGCCTCCCTCCTGATGTC
+CTCAGATGGGTGGAGCTTGCTAAGCTGTATAGATCAATTGGAGAATACGACGTCCTCCGT
+GGGATTTTTACCAGTGAGATAGGAACAAAGCAAATCACTCAGAGTGCATTATTAGCAGAA
+GCCAGAAGTGATTATTCTGAAGCTGCTAAGCAGTATGATGAGGCTCTCAATAAACAAGAC
+TGGGTAGATGGTGAGCCCACAGAAGCCGAGAAGGATTTTTGGGAACTTGCATCCCTTGAC
+TGTTACAACCACCTTGCTGAGTGGAAATCACTTGAATACTGTTCTACAGCCAGTATAGAC
+AGTGAGAACCCCCCAGACCTAAATAAAATCTGGAGTGAACCATTTTATCAGGAAACATAT
+CTACCTTACATGATCCGCAGCAAGCTGAAGCTGCTGCTCCAGGGAGAGGCTGACCAGTCC
+CTGCTGACATTTATTGACAAAGCTATGCACGGGGAGCTCCAGAAGGCGATTCTAGAGCTT
+CATTACAGTCAAGAGCTGAGTCTGCTTTACCTCCTGCAAGATGATGTTGACAGAGCCAAA
+TATTACATTCAAAATGGCATTCAGAGTTTTATGCAGAATTATTCTAGTATTGATGTCCTC
+TTACACCAAAGTAGACTCACCAAATTGCAGTCTGTACAGGCTTTAACAGAAATTCAGGAG
+TTCATCAGCTTTATAAGCAAACAAGGCAATTTATCATCTCAAGTTCCCCTTAAGAGACTT
+CTGAACACCTGGACAAACAGATATCCAGATGCTAAAATGGACCCAATGAACATCTGGGAT
+GACATCATCACAAATCGATGTTTCTTTCTCAGCAAAATAGAGGAGAAGCTTACCCCTCTT
+CCAGAAGATAATAGTATGAATGTGGATCAAGATGGAGACCCCAGTGACAGGATGGAAGTG
+CAAGAGCAGGAAGAAGATATCAGCTCCCTGATCAGGAGTTGCAAGTTTTCCATGAAAATG
+AAGATGATAGACAGTGCCCGGAAGCAGAACAATTTCTCACTTGCTATGAAACTACTGAAG
+GAGCTGCATAAAGAGTCAAAAACCAGAGACGATTGGCTGGTGAGCTGGGTGCAGAGCTAC
+TGCCGCCTGAGCCACTGCCGGAGCCGGTCCCAGGGCTGCTCTGAGCAGGTGCTCACTGTG
+CTGAAAACAGTCTCTTTGTTGGATGAGAACAACGTGTCAAGCTACTTAAGCAAAAATATT
+CTGGCTTTCCGTGACCAGAACATTCTCTTGGGTACAACTTACAGGATCATAGCGAATGCT
+CTCAGCAGTGAGCCAGCCTGCCTTGCTGAAATCGAGGAGGACAAGGCTAGAAGAATCTTA
+GAGCTTTCTGGATCCAGTTCAGAGGATTCAGAGAAGGTGATCGCGGGTCTGTACCAGAGA
+GCATTCCAGCACCTCTCTGAGGCTGTGCAGGCGGCTGAGGAGGAGGCCCAGCCTCCCTCC
+TGGAGCTGTGGGCCTGCAGCTGGGGTGATTGATGCTTACATGACGCTGGCAGATTTCTGT
+GACCAACAGCTGCGCAAGGAGGAAGAGAATGCATCAGTTATTGATTCTGCAGAACTGCAG
+GCGTATCCAGCACTTGTGGTGGAGAAAATGTTGAAAGCTTTAAAATTAAATTCCAATGAA
+GCCAGATTGAAGTTTCCTAGATTACTTCAGATTATAGAACGGTATCCAGAGGAGACTTTG
+AGCCTCATGACAAAAGAGATCTCTTCCGTTCCCTGCTGGCAGTTCATCAGCTGGATCAGC
+CACATGGTGGCCTTACTGGACAAAGACCAAGCCGTTGCTGTTCAGCACTCTGTGGAAGAA
+ATCACTGATAACTACCCGCAGGCTATTGTTTATCCCTTCATCATAAGCAGCGAAAGCTAT
+TCCTTCAAGGATACTTCTACTGGTCATAAGAATAAGGAGTTTGTGGCAAGGATTAAAAGT
+AAGTTGGATCAAGGAGGAGTGATTCAAGATTTTATTAATGCCTTAGATCAGCTCTCTAAT
+CCTGAACTGCTCTTTAAGGATTGGAGCAATGATGTAAGAGCTGAACTAGCAAAAACCCCT
+GTAAATAAAAAAAACATTGAAAAAATGTATGAAAGAATGTATGCAGCCTTGGGTGACCCA
+AAGGCTCCAGGCCTGGGGGCCTTTAGAAGGAAGTTTATTCAGACTTTTGGAAAAGAATTT
+GATAAACATTTTGGGAAAGGAGGTTCTAAACTACTGAGAATGAAGCTCAGTGACTTCAAC
+GACATTACCAACATGCTACTTTTAAAAATGAACAAAGACTCAAAGCCCCCTGGGAATCTG
+AAAGAATGTTCACCCTGGATGAGCGACTTCAAAGTGGAGTTCCTGAGAAATGAGCTGGAG
+ATTCCCGGTCAGTATGACGGTAGGGGAAAGCCATTGCCAGAGTACCACGTGCGAATCGCC
+GGGTTTGATGAGCGGGTGACAGTCATGGCGTCTCTGCGAAGGCCCAAGCGCATCATCATC
+CGTGGCCATGACGAGAGGGAACACCCTTTCCTGGTGAAGGGTGGCGAGGACCTGCGGCAG
+GACCAGCGCGTGGAGCAGCTCTTCCAGGTCATGAATGGGATCCTGGCCCAAGACTCCGCC
+TGCAGCCAGAGGGCCCTGCAGCTGAGGACCTATAGCGTTGTGCCCATGACCTCCAGGTTA
+GGATTAATTGAGTGGCTTGAAAATACTGTTACCTTGAAGGACCTTCTTTTGAACACCATG
+TCCCAAGAGGAGAAGGCGGCTTACCTGAGTGATCCCAGGGCACCGCCGTGTGAATATAAA
+GATTGGCTGACAAAAATGTCAGGAAAACATGATGTTGGAGCTTACATGCTAATGTATAAG
+GGCGCTAATCGTACTGAAACAGTCACGTCTTTTAGAAAACGAGAAAGTAAAGTGCCTGCT
+GATCTCTTAAAGCGGGCCTTCGTGAGGATGAGTACAAGCCCTGAGGCTTTCCTGGCGCTC
+CGCTCCCACTTCGCCAGCTCTCACGCTCTGATATGCATCAGCCACTGGATCCTCGGGATT
+GGAGACAGACATCTGAACAACTTTATGGTGGCCATGGAGACTGGCGGCGTGATCGGGATC
+GACTTTGGGCATGCGTTTGGATCCGCTACACAGTTTCTGCCAGTCCCTGAGTTGATGCCT
+TTTCGGCTAACTCGCCAGTTTATCAATCTGATGTTACCAATGAAAGAAACGGGCCTTATG
+TACAGCATCATGGTACACGCACTCCGGGCCTTCCGCTCAGACCCTGGCCTGCTCACCAAC
+ACCATGGATGTGTTTGTCAAGGAGCCCTCCTTTGATTGGAAAAATTTTGAACAGAAAATG
+CTGAAAAAAGGAGGGTCATGGATTCAAGAAATAAATGTTGCTGAAAAAAATTGGTACCCC
+CGACAGAAAATATGTTACGCTAAGAGAAAGTTAGCAGGTGCCAATCCAGCAGTCATTACT
+TGTGATGAGCTACTCCTGGGTCATGAGAAGGCCCCTGCCTTCAGAGACTATGTGGCTGTG
+GCACGAGGAAGCAAAGATCACAACATTCGTGCCCAAGAACCAGAGAGTGGGCTTTCAGAA
+GAGACTCAAGTGAAGTGCCTGATGGACCAGGCAACAGACCCCAACATCCTTGGCAGAACC
+TGGGAAGGATGGGAGCCCTGGATGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>4128</residue_number>
+    <molecular_weight>469084.2</molecular_weight>
+    <theoretical_pi>7.12</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAT</name>
+        <pfam_id>PF02259</pfam_id>
+      </pfam>
+      <pfam>
+        <name>FATC</name>
+        <pfam_id>PF02260</pfam_id>
+      </pfam>
+      <pfam>
+        <name>NUC194</name>
+        <pfam_id>PF08163</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PI3_PI4_kinase</name>
+        <pfam_id>PF00454</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;DNA-dependent protein kinase catalytic subunit
+MAGSGAGVRCSLLRLQETLSAADRCGAALAGHQLIRGLGQECVLSSSPAVLALQTSLVFS
+RDFGLLVFVRKSLNSIEFRECREEILKFLCIFLEKMGQKIAPYSVEIKNTCTSVYTKDRA
+AKCKIPALDLLIKLLQTFRSSRLMDEFKIGELFSKFYGELALKKKIPDTVLEKVYELLGL
+LGEVHPSEMINNAENLFRAFLGELKTQMTSAVREPKLPVLAGCLKGLSSLLCNFTKSMEE
+DPQTSREIFNFVLKAIRPQIDLKRYAVPSAGLRLFALHASQFSTCLLDNYVSLFEVLLKW
+CAHTNVELKKAALSALESFLKQVSNMVAKNAEMHKNKLQYFMEQFYGIIRNVDSNNKELS
+IAIRGYGLFAGPCKVINAKDVDFMYVELIQRCKQMFLTQTDTGDDRVYQMPSFLQSVASV
+LLYLDTVPEVYTPVLEHLVVMQIDSFPQYSPKMQLVCCRAIVKVFLALAAKGPVLRNCIS
+TVVHQGLIRICSKPVVLPKGPESESEDHRASGEVRTGKWKVPTYKDYVDLFRHLLSSDQM
+MDSILADEAFFSVNSSSESLNHLLYDEFVKSVLKIVEKLDLTLEIQTVGEQENGDEAPGV
+WMIPTSDPAANLHPAKPKDFSAFINLVEFCREILPEKQAEFFEPWVYSFSYELILQSTRL
+PLISGFYKLLSITVRNAKKIKYFEGVSPKSLKHSPEDPEKYSCFALFVKFGKEVAVKMKQ
+YKDELLASCLTFLLSLPHNIIELDVRAYVPALQMAFKLGLSYTPLAEVGLNALEEWSIYI
+DRHVMQPYYKDILPCLDGYLKTSALSDETKNNWEVSALSRAAQKGFNKVVLKHLKKTKNL
+SSNEAISLEEIRIRVVQMLGSLGGQINKNLLTVTSSDEMMKSYVAWDREKRLSFAVPFRE
+MKPVIFLDVFLPRVTELALTASDRQTKVAACELLHSMVMFMLGKATQMPEGGQGAPPMYQ
+LYKRTFPVLLRLACDVDQVTRQLYEPLVMQLIHWFTNNKKFESQDTVALLEAILDGIVDP
+VDSTLRDFCGRCIREFLKWSIKQITPQQQEKSPVNTKSLFKRLYSLALHPNAFKRLGASL
+AFNNIYREFREEESLVEQFVFEALVIYMESLALAHADEKSLGTIQQCCDAIDHLCRIIEK
+KHVSLNKAKKRRLPRGFPPSASLCLLDLVKWLLAHCGRPQTECRHKSIELFYKFVPLLPG
+NRSPNLWLKDVLKEEGVSFLINTFEGGGCGQPSGILAQPTLLYLRGPFSLQATLCWLDLL
+LAALECYNTFIGERTVGALQVLGTEAQSSLLKAVAFFLESIAMHDIIAAEKCFGTGAAGN
+RTSPQEGERYNYSKCTVVVRIMEFTTTLLNTSPEGWKLLKKDLCNTHLMRVLVQTLCEPA
+SIGFNIGDVQVMAHLPDVCVNLMKALKMSPYKDILETHLREKITAQSIEELCAVNLYGPD
+AQVDRSRLAAVVSACKQLHRAGLLHNILPSQSTDLHHSVGTELLSLVYKGIAPGDERQCL
+PSLDLSCKQLASGLLELAFAFGGLCERLVSLLLNPAVLSTASLGSSQGSVIHFSHGEYFY
+SLFSETINTELLKNLDLAVLELMQSSVDNTKMVSAVLNGMLDQSFRERANQKHQGLKLAT
+TILQHWKKCDSWWAKDSPLETKMAVLALLAKILQIDSSVSFNTSHGSFPEVFTTYISLLA
+DTKLDLHLKGQAVTLLPFFTSLTGGSLEELRRVLEQLIVAHFPMQSREFPPGTPRFNNYV
+DCMKKFLDALELSQSPMLLELMTEVLCREQQHVMEELFQSSFRRIARRGSCVTQVGLLES
+VYEMFRKDDPRLSFTRQSFVDRSLLTLLWHCSLDALREFFSTIVVDAIDVLKSRFTKLNE
+STFDTQITKKMGYYKILDVMYSRLPKDDVHAKESKINQVFHGSCITEGNELTKTLIKLCY
+DAFTENMAGENQLLERRRLYHCAAYNCAISVICCVFNELKFYQGFLFSEKPEKNLLIFEN
+LIDLKRRYNFPVEVEVPMERKKKYIEIRKEAREAANGDSDGPSYMSSLSYLADSTLSEEM
+SQFDFSTGVQSYSYSSQDPRPATGRFRRREQRDPTVHDDVLELEMDELNRHECMAPLTAL
+VKHMHRSLGPPQGEEDSVPRDLPSWMKFLHGKLGNPIVPLNIRLFLAKLVINTEEVFRPY
+AKHWLSPLLQLAASENNGGEGIHYMVVEIVATILSWTGLATPTGVPKDEVLANRLLNFLM
+KHVFHPKRAVFRHNLEIIKTLVECWKDCLSIPYRLIFEKFSGKDPNSKDNSVGIQLLGIV
+MANDLPPYDPQCGIQSSEYFQALVNNMSFVRYKEVYAAAAEVLGLILRYVMERKNILEES
+LCELVAKQLKQHQNTMEDKFIVCLNKVTKSFPPLADRFMNAVFFLLPKFHGVLKTLCLEV
+VLCRVEGMTELYFQLKSKDFVQVMRHRDDERQKVCLDIIYKMMPKLKPVELRELLNPVVE
+FVSHPSTTCREQMYNILMWIHDNYRDPESETDNDSQEIFKLAKDVLIQGLIDENPGLQLI
+IRNFWSHETRLPSNTLDRLLALNSLYSPKIEVHFLSLATNFLLEMTSMSPDYPNPMFEHP
+LSECEFQEYTIDSDWRFRSTVLTPMFVETQASQGTLQTRTQEGSLSARWPVAGQIRATQQ
+QHDFTLTQTADGRSSFDWLTGSSTDPLVDHTSPSSDSLLFAHKRSERLQRAPLKSVGPDF
+GKKRLGLPGDEVDNKVKGAAGRTDLLRLRRRFMRDQEKLSLMYARKGVAEQKREKEIKSE
+LKMKQDAQVVLYRSYRHGDLPDIQIKHSSLITPLQAVAQRDPIIAKQLFSSLFSGILKEM
+DKFKTLSEKNNITQKLLQDFNRFLNTTFSFFPPFVSCIQDISCQHAALLSLDPAAVSAGC
+LASLQQPVGIRLLEEALLRLLPAELPAKRVRGKARLPPDVLRWVELAKLYRSIGEYDVLR
+GIFTSEIGTKQITQSALLAEARSDYSEAAKQYDEALNKQDWVDGEPTEAEKDFWELASLD
+CYNHLAEWKSLEYCSTASIDSENPPDLNKIWSEPFYQETYLPYMIRSKLKLLLQGEADQS
+LLTFIDKAMHGELQKAILELHYSQELSLLYLLQDDVDRAKYYIQNGIQSFMQNYSSIDVL
+LHQSRLTKLQSVQALTEIQEFISFISKQGNLSSQVPLKRLLNTWTNRYPDAKMDPMNIWD
+DIITNRCFFLSKIEEKLTPLPEDNSMNVDQDGDPSDRMEVQEQEEDISSLIRSCKFSMKM
+KMIDSARKQNNFSLAMKLLKELHKESKTRDDWLVSWVQSYCRLSHCRSRSQGCSEQVLTV
+LKTVSLLDENNVSSYLSKNILAFRDQNILLGTTYRIIANALSSEPACLAEIEEDKARRIL
+ELSGSSSEDSEKVIAGLYQRAFQHLSEAVQAAEEEAQPPSWSCGPAAGVIDAYMTLADFC
+DQQLRKEEENASVIDSAELQAYPALVVEKMLKALKLNSNEARLKFPRLLQIIERYPEETL
+SLMTKEISSVPCWQFISWISHMVALLDKDQAVAVQHSVEEITDNYPQAIVYPFIISSESY
+SFKDTSTGHKNKEFVARIKSKLDQGGVIQDFINALDQLSNPELLFKDWSNDVRAELAKTP
+VNKKNIEKMYERMYAALGDPKAPGLGAFRRKFIQTFGKEFDKHFGKGGSKLLRMKLSDFN
+DITNMLLLKMNKDSKPPGNLKECSPWMSDFKVEFLRNELEIPGQYDGRGKPLPEYHVRIA
+GFDERVTVMASLRRPKRIIIRGHDEREHPFLVKGGEDLRQDQRVEQLFQVMNGILAQDSA
+CSQRALQLRTYSVVPMTSRLGLIEWLENTVTLKDLLLNTMSQEEKAAYLSDPRAPPCEYK
+DWLTKMSGKHDVGAYMLMYKGANRTETVTSFRKRESKVPADLLKRAFVRMSTSPEAFLAL
+RSHFASSHALICISHWILGIGDRHLNNFMVAMETGGVIGIDFGHAFGSATQFLPVPELMP
+FRLTRQFINLMLPMKETGLMYSIMVHALRAFRSDPGLLTNTMDVFVKEPSFDWKNFEQKM
+LKKGGSWIQEINVAEKNWYPRQKICYAKRKLAGANPAVITCDELLLGHEKAPAFRDYVAV
+ARGSKDHNIRAQEPESGLSEETQVKCLMDQATDPNILGRTWEGWEPWM</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P78527</uniprot_id>
+  <uniprot_name>PRKDC_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>U47077</genbank_gene_id>
+  <genecard_id>PRKDC</genecard_id>
+  <geneatlas_id>PRKDC</geneatlas_id>
+  <hgnc_id>HGNC:9413</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Hartley KO, Gell D, Smith GC, Zhang H, Divecha N, Connelly MA, Admon A, Lees-Miller SP, Anderson CW, Jackson SP: DNA-dependent protein kinase catalytic subunit: a relative of phosphatidylinositol 3-kinase and the ataxia telangiectasia gene product. Cell. 1995 Sep 8;82(5):849-56.</reference_text>
+      <pubmed_id>7671312</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Anderson CW, Dunn JJ, Freimuth PI, Galloway AM, Allalunis-Turner MJ: Frameshift mutation in PRKDC, the gene for DNA-PKcs, in the DNA repair-defective, human, glioma-derived cell line M059J. Radiat Res. 2001 Jul;156(1):2-9.</reference_text>
+      <pubmed_id>11418067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ladenburger EM, Fackelmayer FO, Hameister H, Knippers R: MCM4 and PRKDC, human genes encoding proteins MCM4 and DNA-PKcs, are close neighbours located on chromosome 8q12--&amp;gt;q13. Cytogenet Cell Genet. 1997;77(3-4):268-70.</reference_text>
+      <pubmed_id>9284934</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sipley JD, Menninger JC, Hartley KO, Ward DC, Jackson SP, Anderson CW: Gene for the catalytic subunit of the human DNA-activated protein kinase maps to the site of the XRCC7 gene on chromosome 8. Proc Natl Acad Sci U S A. 1995 Aug 1;92(16):7515-9.</reference_text>
+      <pubmed_id>7638222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Poltoratsky VP, Shi X, York JD, Lieber MR, Carter TH: Human DNA-activated protein kinase (DNA-PK) is homologous to phosphatidylinositol kinases. J Immunol. 1995 Nov 15;155(10):4529-33.</reference_text>
+      <pubmed_id>7594449</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lees-Miller SP, Anderson CW: The human double-stranded DNA-activated protein kinase phosphorylates the 90-kDa heat-shock protein, hsp90 alpha at two NH2-terminal threonine residues. J Biol Chem. 1989 Oct 15;264(29):17275-80.</reference_text>
+      <pubmed_id>2507541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Carter T, Vancurova I, Sun I, Lou W, DeLeon S: A DNA-activated protein kinase from HeLa cell nuclei.  Mol Cell Biol. 1990 Dec;10(12):6460-71.</reference_text>
+      <pubmed_id>2247066</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Iijima S, Teraoka H, Date T, Tsukada K: DNA-activated protein kinase in Raji Burkitt's lymphoma cells. Phosphorylation of c-Myc oncoprotein. Eur J Biochem. 1992 Jun 1;206(2):595-603.</reference_text>
+      <pubmed_id>1597196</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu SH, Ma JT, Yueh AY, Lees-Miller SP, Anderson CW, Ng SY: The carboxyl-terminal transactivation domain of human serum response factor contains DNA-activated protein kinase phosphorylation sites. J Biol Chem. 1993 Oct 5;268(28):21147-54.</reference_text>
+      <pubmed_id>8407951</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bannister AJ, Gottlieb TM, Kouzarides T, Jackson SP: c-Jun is phosphorylated by the DNA-dependent protein kinase in vitro; definition of the minimal kinase recognition motif. Nucleic Acids Res. 1993 Mar 11;21(5):1289-95.</reference_text>
+      <pubmed_id>8464713</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Teraoka H, Yumoto Y, Watanabe F, Tsukada K, Suwa A, Enari M, Nagata S: CPP32/Yama/apopain cleaves the catalytic component of DNA-dependent protein kinase in the holoenzyme. FEBS Lett. 1996 Sep 9;393(1):1-6.</reference_text>
+      <pubmed_id>8804412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Connelly MA, Zhang H, Kieleczawa J, Anderson CW: Alternate splice-site utilization in the gene for the catalytic subunit of the DNA-activated protein kinase, DNA-PKcs. Gene. 1996 Oct 10;175(1-2):271-3.</reference_text>
+      <pubmed_id>8917110</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shieh SY, Ikeda M, Taya Y, Prives C: DNA damage-induced phosphorylation of p53 alleviates inhibition by MDM2.  Cell. 1997 Oct 31;91(3):325-34.</reference_text>
+      <pubmed_id>9363941</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu X, Lieber MR: Interaction between DNA-dependent protein kinase and a novel protein, KIP.  Mutat Res. 1997 Oct;385(1):13-20.</reference_text>
+      <pubmed_id>9372844</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jin S, Weaver DT: Double-strand break repair by Ku70 requires heterodimerization with Ku80 and DNA binding functions. EMBO J. 1997 Nov 17;16(22):6874-85.</reference_text>
+      <pubmed_id>9362500</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Niu H, Erdjument-Bromage H, Pan ZQ, Lee SH, Tempst P, Hurwitz J: Mapping of amino acid residues in the p34 subunit of human single-stranded DNA-binding protein phosphorylated by DNA-dependent protein kinase and Cdc2 kinase in vitro. J Biol Chem. 1997 May 9;272(19):12634-41.</reference_text>
+      <pubmed_id>9139719</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarkaria JN, Tibbetts RS, Busby EC, Kennedy AP, Hill DE, Abraham RT: Inhibition of phosphoinositide 3-kinase related kinases by the radiosensitizing agent wortmannin. Cancer Res. 1998 Oct 1;58(19):4375-82.</reference_text>
+      <pubmed_id>9766667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yavuzer U, Smith GC, Bliss T, Werner D, Jackson SP: DNA end-independent activation of DNA-PK mediated via association with the DNA-binding protein C1D. Genes Dev. 1998 Jul 15;12(14):2188-99.</reference_text>
+      <pubmed_id>9679063</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ting NS, Kao PN, Chan DW, Lintott LG, Lees-Miller SP: DNA-dependent protein kinase interacts with antigen receptor response element binding proteins NF90 and NF45. J Biol Chem. 1998 Jan 23;273(4):2136-45.</reference_text>
+      <pubmed_id>9442054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hammarsten O, Chu G: DNA-dependent protein kinase: DNA binding and activation in the absence of Ku. Proc Natl Acad Sci U S A. 1998 Jan 20;95(2):525-30.</reference_text>
+      <pubmed_id>9435225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chan DW, Ye R, Veillette CJ, Lees-Miller SP: DNA-dependent protein kinase phosphorylation sites in Ku 70/80 heterodimer. Biochemistry. 1999 Feb 9;38(6):1819-28.</reference_text>
+      <pubmed_id>10026262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ariumi Y, Masutani M, Copeland TD, Mimori T, Sugimura T, Shimotohno K, Ueda K, Hatanaka M, Noda M: Suppression of the poly(ADP-ribose) polymerase activity by DNA-dependent protein kinase in vitro. Oncogene. 1999 Aug 12;18(32):4616-25.</reference_text>
+      <pubmed_id>10467406</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Douglas P, Sapkota GP, Morrice N, Yu Y, Goodarzi AA, Merkle D, Meek K, Alessi DR, Lees-Miller SP: Identification of in vitro and in vivo phosphorylation sites in the catalytic subunit of the DNA-dependent protein kinase. Biochem J. 2002 Nov 15;368(Pt 1):243-51.</reference_text>
+      <pubmed_id>12186630</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ma Y, Pannicke U, Schwarz K, Lieber MR: Hairpin opening and overhang processing by an Artemis/DNA-dependent protein kinase complex in nonhomologous end joining and V(D)J recombination. Cell. 2002 Mar 22;108(6):781-94.</reference_text>
+      <pubmed_id>11955432</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hsu HL, Yannone SM, Chen DJ: Defining interactions between DNA-PK and ligase IV/XRCC4.  DNA Repair (Amst). 2002 Mar 28;1(3):225-35.</reference_text>
+      <pubmed_id>12509254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chan DW, Chen BP, Prithivirajsingh S, Kurimasa A, Story MD, Qin J, Chen DJ: Autophosphorylation of the DNA-dependent protein kinase catalytic subunit is required for rejoining of DNA double-strand breaks. Genes Dev. 2002 Sep 15;16(18):2333-8.</reference_text>
+      <pubmed_id>12231622</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karmakar P, Piotrowski J, Brosh RM Jr, Sommers JA, Miller SP, Cheng WH, Snowden CM, Ramsden DA, Bohr VA: Werner protein is a target of DNA-dependent protein kinase in vivo and in vitro, and its catalytic activities are regulated by phosphorylation. J Biol Chem. 2002 May 24;277(21):18291-302. Epub 2002 Mar 11.</reference_text>
+      <pubmed_id>11889123</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Soubeyrand S, Pope L, Pakuts B, Hache RJ: Threonines 2638/2647 in DNA-PK are essential for cellular resistance to ionizing radiation. Cancer Res. 2003 Mar 15;63(6):1198-201.</reference_text>
+      <pubmed_id>12649176</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schild-Poulter C, Shih A, Yarymowich NC, Hache RJ: Down-regulation of histone H2B by DNA-dependent protein kinase in response to DNA damage through modulation of octamer transcription factor 1. Cancer Res. 2003 Nov 1;63(21):7197-205.</reference_text>
+      <pubmed_id>14612514</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park EJ, Chan DW, Park JH, Oettinger MA, Kwon J: DNA-PK is activated by nucleosomes and phosphorylates H2AX within the nucleosomes in an acetylation-dependent manner. Nucleic Acids Res. 2003 Dec 1;31(23):6819-27.</reference_text>
+      <pubmed_id>14627815</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pannicke U, Ma Y, Hopfner KP, Niewolik D, Lieber MR, Schwarz K: Functional and biochemical dissection of the structure-specific nuclease ARTEMIS. EMBO J. 2004 May 5;23(9):1987-97. Epub 2004 Apr 8.</reference_text>
+      <pubmed_id>15071507</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Poinsignon C, Moshous D, Callebaut I, de Chasseval R, Villey I, de Villartay JP: The metallo-beta-lactamase/beta-CASP domain of Artemis constitutes the catalytic core for V(D)J recombination. J Exp Med. 2004 Feb 2;199(3):315-21. Epub 2004 Jan 26.</reference_text>
+      <pubmed_id>14744996</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ma Y, Lu H, Tippin B, Goodman MF, Shimazaki N, Koiwai O, Hsieh CL, Schwarz K, Lieber MR: A biochemically defined system for mammalian nonhomologous DNA end joining. Mol Cell. 2004 Dec 3;16(5):701-13.</reference_text>
+      <pubmed_id>15574326</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang X, Succi J, Feng Z, Prithivirajsingh S, Story MD, Legerski RJ: Artemis is a phosphorylation target of ATM and ATR and is involved in the G2/M DNA damage checkpoint response. Mol Cell Biol. 2004 Oct;24(20):9207-20.</reference_text>
+      <pubmed_id>15456891</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang S, Schlott B, Gorlach M, Grosse F: DNA-dependent protein kinase (DNA-PK) phosphorylates nuclear DNA helicase II/RNA helicase A and hnRNP proteins in an RNA-dependent manner. Nucleic Acids Res. 2004 Jan 2;32(1):1-10. Print 2004.</reference_text>
+      <pubmed_id>14704337</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Reitsema T, Klokov D, Banath JP, Olive PL: DNA-PK is responsible for enhanced phosphorylation of histone H2AX under hypertonic conditions. DNA Repair (Amst). 2005 Sep 28;4(10):1172-81.</reference_text>
+      <pubmed_id>16046194</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang J, Pluth JM, Cooper PK, Cowan MJ, Chen DJ, Yannone SM: Artemis deficiency confers a DNA double-strand break repair defect and Artemis phosphorylation status is altered by DNA damage and cell cycle progression. DNA Repair (Amst). 2005 May 2;4(5):556-70.</reference_text>
+      <pubmed_id>15811628</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ma Y, Schwarz K, Lieber MR: The Artemis:DNA-PKcs endonuclease cleaves DNA loops, flaps, and gaps.  DNA Repair (Amst). 2005 Jul 12;4(7):845-51.</reference_text>
+      <pubmed_id>15936993</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Falck J, Coates J, Jackson SP: Conserved modes of recruitment of ATM, ATR and DNA-PKcs to sites of DNA damage. Nature. 2005 Mar 31;434(7033):605-11. Epub 2005 Mar 2.</reference_text>
+      <pubmed_id>15758953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Levy N, Martz A, Bresson A, Spenlehauer C, de Murcia G, Menissier-de Murcia J: XRCC1 is phosphorylated by DNA-dependent protein kinase in response to DNA damage. Nucleic Acids Res. 2006 Jan 5;34(1):32-41. Print 2006.</reference_text>
+      <pubmed_id>16397295</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collis SJ, DeWeese TL, Jeggo PA, Parker AR: The life and death of DNA-PK.  Oncogene. 2005 Feb 3;24(6):949-61.</reference_text>
+      <pubmed_id>15592499</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nousiainen M, Sillje HH, Sauer G, Nigg EA, Korner R: Phosphoproteome analysis of the human mitotic spindle.  Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5391-6. Epub 2006 Mar 24.</reference_text>
+      <pubmed_id>16565220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaizuka T, Hara T, Oshiro N, Kikkawa U, Yonezawa K, Takehana K, Iemura S, Natsume T, Mizushima N: Tti1 and Tel2 are critical factors in mammalian target of rapamycin complex assembly. J Biol Chem. 2010 Jun 25;285(26):20109-16. Epub 2010 Apr 28.</reference_text>
+      <pubmed_id>20427287</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-05-27 11:26:58 -0600</creation_date>
+  <update_date>2013-05-27 11:26:58 -0600</update_date>
+  <accession>HMDBP11853</accession>
+  <secondary_accessions>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Glucosaminyl N-deacetylase/N-sulfotransferase 1</synonym>
+    <synonym>N-heparan sulfate sulfotransferase 1</synonym>
+    <synonym>[Heparan sulfate]-glucosamine N-sulfotransferase 1</synonym>
+    <synonym>NDST-1</synonym>
+    <synonym>N-HSST 1</synonym>
+    <synonym>HSNST 1</synonym>
+  </synonyms>
+  <gene_name>NDST1</gene_name>
+  <general_function/>
+  <specific_function>Essential bifunctional enzyme that catalyzes both the N-deacetylation and the N-sulfation of glucosamine (GlcNAc) of the glycosaminoglycan in heparan sulfate. Modifies the GlcNAc-GlcA disaccharide repeating sugar backbone to make N-sulfated heparosan, a prerequisite substrate for later modifications in heparin biosynthesis. Plays a role in determining the extent and pattern of sulfation of heparan sulfate. Compared to other NDST enzymes, its presence is absolutely required. Participates in biosynthesis of heparan sulfate that can ultimately serve as L-selectin ligands, thereby playing a role in inflammatory response.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>heparan sulfate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>heparin biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glycosaminoglycan biosynthesis - heparan sulfate / heparin</name>
+      <smpdb_id/>
+      <kegg_map_id>map00534</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01134</accession>
+      <name>Phosphoadenosine phosphosulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00061</accession>
+      <name>Adenosine 3',5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>deacetylase activity</description>
+      <go_id>GO:0019213</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fibroblast growth factor receptor signaling pathway</description>
+      <go_id>GO:0008543</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inflammatory response</description>
+      <go_id>GO:0006954</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>forebrain development</description>
+      <go_id>GO:0030900</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heparan sulfate proteoglycan biosynthetic process</description>
+      <go_id>GO:0015012</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycosaminoglycan biosynthetic process</description>
+      <go_id>GO:0006024</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>respiratory gaseous exchange</description>
+      <go_id>GO:0007585</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heparin biosynthetic process</description>
+      <go_id>GO:0030210</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic viscerocranium morphogenesis</description>
+      <go_id>GO:0048703</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>MAPK cascade</description>
+      <go_id>GO:0000165</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>midbrain development</description>
+      <go_id>GO:0030901</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>[heparan sulfate]-glucosamine N-sulfotransferase activity</description>
+      <go_id>GO:0015016</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic neurocranium morphogenesis</description>
+      <go_id>GO:0048702</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>polysaccharide biosynthetic process</description>
+      <go_id>GO:0000271</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>smoothened signaling pathway</description>
+      <go_id>GO:0007224</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q33.1</locus>
+    <gene_sequence/>
+  </gene_properties>
+  <protein_properties>
+    <residue_number/>
+    <molecular_weight>100867.015</molecular_weight>
+    <theoretical_pi>7.978</theoretical_pi>
+    <pfams>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;&gt;gi|4505351|ref|NP_001534.1| bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1 [Homo sapiens]
+MPALACLRRLCRHVSPQAVLFLLFIFCLFSVFISAYYLYGWKRGLEPSADAPEPDCGDPP
+PVAPSRLLPL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P52848</uniprot_id>
+  <uniprot_name/>
+  <pdb_ids>
+    <pdb_id>1NST</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id/>
+  <geneatlas_id/>
+  <hgnc_id>HGNC:7680</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:54 -0700</creation_date>
+  <update_date>2013-05-27 11:29:53 -0600</update_date>
+  <accession>HMDBP00612</accession>
+  <secondary_accessions>
+    <accession>5884</accession>
+    <accession>HMDBP04370</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>PDE7B</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in the control of cAMP-mediated neural activity and cAMP metabolism in the brain.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Purine Metabolism</name>
+      <smpdb_id>SMP00050</smpdb_id>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>3',5'-cyclic AMP degradation</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Morphine addiction</name>
+      <smpdb_id/>
+      <kegg_map_id>map05032</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01314</accession>
+      <name>Cyclic GMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14789</accession>
+      <name>Dyphylline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15056</accession>
+      <name>Ketotifen</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric diester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3',5'-cyclic-nucleotide phosphodiesterase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3',5'-cyclic-AMP phosphodiesterase activity</description>
+      <go_id>GO:0004115</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cAMP catabolic process</description>
+      <go_id>GO:0006198</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>signal transduction</description>
+      <go_id>GO:0007165</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>synaptic transmission</description>
+      <go_id>GO:0007268</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6q23-q24</locus>
+    <gene_sequence>&gt;1353 bp
+ATGTCTTGTTTAATGGTTGAGAGGTGTGGCGAAATCTTGTTTGAGAACCCCGATCAGAAT
+GCCAAATGTGTTTGCATGCTGGGAGATATACGACTAAGGGGTCAGACGGGGGTTCGTGCT
+GAACGCCGTGGCTCCTACCCATTCATTGACTTCCGCCTACTTAACAGTACAACATACTCA
+GGGGAGATTGGCACCAAGAAAAAGGTGAAAAGACTATTAAGCTTTCAAAGATACTTCCAT
+GCATCAAGGCTGCTTCGTGGAATTATACCACAAGCCCCTCTGCACCTGCTGGATGAAGAC
+TACCTTGGACAAGCAAGGCATATGCTCTCCAAAGTGGGAATGTGGGATTTTGACATTTTC
+TTGTTTGATCGCTTGACAAATGGAAACAGCCTGGTAACACTGTTGTGCCACCTCTTCAAT
+ACCCATGGACTCATTCACCATTTCAAGTTAGATATGGTGACCTTACACCGATTTTTAGTC
+ATGGTTCAAGAAGATTACCACAGCCAAAACCCGTATCACAATGCTGTTCACGCAGCCGAC
+GTCACCCAGGCCATGCACTGCTACCTGAAAGAGCCAAAGCTTGCCAGCTTCCTCACGCCT
+CTGGACATCATGCTTGGACTGCTGGCTGCAGCAGCACACGATGTGGACCACCCAGGGGTG
+AACCAGCCATTTTTGATAAAAACTAACCACCATCTTGCAAACCTATATCAGAATATGTCT
+GTGCTGGAGAATCATCACTGGCGATCTACAATTGGCATGCTTCGAGAATCAAGGCTTCTT
+GCTCATTTGCCAAAGGAAATGACACAGGATATTGAACAGCAGCTGGGCTCCTTGATCTTG
+GCAACAGACATCAACAGGCAGAATGAATTTTTGACCAGATTGAAAGCTCACCTCCACAAT
+AAAGACTTAAGACTGGAGGATGCACAGGACAGGCACTTTATGCTTCAGATCGCCTTGAAG
+TGTGCTGACATTTGCAATCCTTGTAGAATCTGGGAGATGAGCAAGCAGTGGAGTGAAAGG
+GTCTGTGAAGAATTCTACAGGCAAGGTGAACTTGAACAGAAATTTGAACTGGAAATCAGT
+CCTCTTTGTAATCAACAGAAAGATTCCATCCCTAGTATACAAATTGGTTTCATGAGCTAC
+ATCGTGGAGCCGCTCTTCCGGGAATGGGCCCATTTCACGGGTAACAGCACCCTGTCGGAG
+AACATGCTGGGCCACCTCGCACACAACAAGGCCCAGTGGAAGAGCCTGTTGCCCAGGCAG
+CACAGAAGCAGGGGCAGCAGTGGCAGCGGGCCTGACCACGACCACGCAGGCCAAGGGACT
+GAGAGCGAGGAGCAGGAAGGCGACAGCCCCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>450</residue_number>
+    <molecular_weight>51834.855</molecular_weight>
+    <theoretical_pi>7.031</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PDEase_I</name>
+        <pfam_id>PF00233</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;cAMP-specific 3',5'-cyclic phosphodiesterase 7B
+MSCLMVERCGEILFENPDQNAKCVCMLGDIRLRGQTGVRAERRGSYPFIDFRLLNSTTYS
+GEIGTKKKVKRLLSFQRYFHASRLLRGIIPQAPLHLLDEDYLGQARHMLSKVGMWDFDIF
+LFDRLTNGNSLVTLLCHLFNTHGLIHHFKLDMVTLHRFLVMVQEDYHSQNPYHNAVHAAD
+VTQAMHCYLKEPKLASFLTPLDIMLGLLAAAAHDVDHPGVNQPFLIKTNHHLANLYQNMS
+VLENHHWRSTIGMLRESRLLAHLPKEMTQDIEQQLGSLILATDINRQNEFLTRLKAHLHN
+KDLRLEDAQDRHFMLQIALKCADICNPCRIWEMSKQWSERVCEEFYRQGELEQKFELEIS
+PLCNQQKDSIPSIQIGFMSYIVEPLFREWAHFTGNSTLSENMLGHLAHNKAQWKSLLPRQ
+HRSRGSSGSGPDHDHAGQGTESEEQEGDSP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>8439497</genbank_protein_id>
+  <uniprot_id>Q9NP56</uniprot_id>
+  <uniprot_name>PDE7B_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1LXW</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AB038040</genbank_gene_id>
+  <genecard_id>PDE7B</genecard_id>
+  <geneatlas_id>PDE7B</geneatlas_id>
+  <hgnc_id>HGNC:8792</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Sasaki T, Kotera J, Yuasa K, Omori K: Identification of human PDE7B, a cAMP-specific phosphodiesterase.  Biochem Biophys Res Commun. 2000 May 19;271(3):575-83.</reference_text>
+      <pubmed_id>10814504</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gardner C, Robas N, Cawkill D, Fidock M: Cloning and characterization of the human and mouse PDE7B, a novel cAMP-specific cyclic nucleotide phosphodiesterase. Biochem Biophys Res Commun. 2000 May 27;272(1):186-92.</reference_text>
+      <pubmed_id>10872825</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dyphylline</name>
+        <accession>HMDB14789</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dyphylline</name>
+        <accession>HMDB14789</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ketotifen</name>
+        <accession>HMDB15056</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ketotifen</name>
+        <accession>HMDB15056</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

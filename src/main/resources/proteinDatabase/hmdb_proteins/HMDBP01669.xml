@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:31 -0700</creation_date>
+  <update_date>2013-01-15 18:58:31 -0700</update_date>
+  <accession>HMDBP01669</accession>
+  <secondary_accessions>
+    <accession>7002</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>115 kDa guanine nucleotide exchange factor</synonym>
+    <synonym>Sub1.5</synonym>
+    <synonym>p115-RhoGEF</synonym>
+    <synonym>p115RhoGEF</synonym>
+  </synonyms>
+  <gene_name>ARHGEF1</gene_name>
+  <general_function>Involved in GTPase activator activity</general_function>
+  <specific_function>Seems to play a role in the regulation of RhoA GTPase by guanine nucleotide-binding alpha-12 (GNA12) and alpha-13 (GNA13) subunits. Acts as GTPase-activating protein (GAP) for GNA12 and GNA13, and as guanine nucleotide exchange factor (GEF) for RhoA GTPase. Activated G alpha 13/GNA13 stimulates the RhoGEF activity through interaction with the RGS-like domain. This GEF activity is inhibited by binding to activated GNA12</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01397</accession>
+      <name>Guanosine monophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>enzyme regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphatase regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>gtpase regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>small gtpase regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ras guanyl-nucleotide exchange factor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rho guanyl-nucleotide exchange factor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cell communication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of small gtpase mediated signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of ras protein signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of rho protein signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cytoplasm</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Membrane</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>19q13.13</locus>
+    <gene_sequence>&gt;2739 bp
+ATGGAAGACTTCGCCCGAGGGGCGGCCTCCCCAGGCCCCTCCCGGCCTGGCCTGGTTCCC
+GTCAGCATCATCGGGGCTGAGGATGAGGATTTTGAGAACGAGCTGGAGACAAACTCAGAA
+GAGCAAAACAGCCAGTTCCAGAGCCTGGAGCAGGTGAAGCGGCGCCCAGCCCACCTCATG
+GCCCTCCTGCAGCACGTGGCCCTGCAGTTTGAGCCAGGACCCCTGCTTTGCTGTCTGCAT
+GCCGACATGCTGGGCTCACTGGGCCCCAAGGAGGCCAAGAAGGCCTTCCTGGACTTCTAC
+CACAGCTTCCTGGAGAAGACAGCGGTTCTCCGGGTGCCGGTCCCTCCCAACGTCGCCTTT
+GAACTTGACCGCACTAGGGCTGACCTCATCTCCGAGGATGTCCAGCGGCGGTTCGTGCAG
+GAGGTGGTGCAAAGCCAGCAGGTAGCCGTGGGCCGGCAGCTGGAGGACTTCCGTTCCAAG
+CGGCTCATGGGCATGACGCCCTGGGAGCAGGAGCTGGCCCAGCTGGAGGCTTGGGTTGGG
+CGGGACCGAGCCAGCTACGAGGCCCGGGAGCGGCACGTGGCGGAGCGGCTGCTCATGCAC
+CTGGAGGAGATGCAACATACCATCTCTACCGACGAAGAAAAGAGTGCTGCCGTGGTCAAC
+GCCATTGGCCTGTACATGCGCCACCTTGGGGTGCGGACCAAGAGTGGAGACAAGAAGTCG
+GGGAGGAACTTCTTCCGGAAAAAGGTGATGGGGAACCGGCGGTCGGACGAGCCTGCCAAG
+ACCAAGAAGGGGCTGAGCAGCATCCTGGATGCCGCCCGCTGGAACCGGGGAGAGCCCCAG
+GTTCCAGATTTTCGACACCTCAAAGCAGAGGTTGATGCCGAGAAGCCAGGTGCTACAGAC
+CGGAAGGGAGGCGTGGGGATGCCCTCTCGGGACCGGAATATCGGGGCTCCTGGGCAGGAC
+ACCCCTGGAGTCTCTCTGCACCCTCTGTCCCTGGACAGCCCAGACCGGGAACCAGGTGCT
+GACGCCCCCCTGGAGCTGGGGGACTCATCCCCGCAGGGCCCAATGAGCCTGGAGTCCTTG
+GCGCCCCCAGAGAGTACCGACGAGGGGGCCGAAACCGAGAGCCCCGAGCCTGGAGATGAG
+GGGGAGCCGGGGCGGTCGGGACTGGAGCTTGAACCAGAAGAGCCTCCCGGCTGGCGGGAA
+CTCGTCCCCCCAGACACCCTGCACAGCCTGCCCAAGAGCCAGGTGAAGCGGCAGGAGGTC
+ATCAGCGAGCTGCTGGTGACAGAGGCGGCCCACGTGCGCATGCTGCGGGTGCTGCACGAC
+CTCTTCTTCCAGCCCATGGCAGAATGCCTGTTCTTCCCCTTGGAGGAGCTGCAGAACATC
+TTCCCCAGCCTGGACGAGCTCATCGAGGTGCATTCCCTGTTCCTCGATCGCCTGATGAAG
+CGGAGGCAGGAGAGTGGCTACCTCATCGAGGAGATCGGAGACGTGCTGCTGGCCCGGTTT
+GATGGTGCTGAGGGCTCCTGGTTCCAGAAAATCTCCTCCCGCTTCTGCAGCCGCCAGTCA
+TTTGCCTTAGAGCAGCTCAAAGCCAAGCAACGCAAGGACCCTCGGTTCTGTGCCTTCGTG
+CAGGAAGCTGAGAGCCGCCCGCGGTGCCGCCGCCTGCAGCTGAAGGACATGATCCCCACG
+GAGATGCAGCGGCTGACCAAGTACCCCCTGCTCCTGCAGAGCATCGGGCAGAACACAGAA
+GAGCCCACAGAACGGGAGAAAGTGGAGCTGGCAGCCGAGTGCTGCCGGGAAATTCTACAC
+CACGTCAACCAAGCCGTGCGTGACATGGAGGACCTGCTGAGGCTCAAGGACTATCAGCGG
+CGCCTGGACTTGTCCCACCTTCGGCAGAGCAGCGACCCTATGCTGAGCGAGTTCAAGAAC
+CTGGACATCACCAAGAAGAAATTGGTCCACGAGGGCCCACTGACGTGGCGGGTGACTAAG
+GACAAGGCAGTGGAGGTGCATGTGCTGCTGCTGGACGACCTGCTGCTGCTGCTCCAGCGC
+CAGGACGAGCGGCTGCTGCTCAAGTCCCATAGCCGGACACTGACGCCCACGCCCGATGGC
+AAGACCATGCTGCGGCCCGTGCTGCGGCTCACCTCCGCCATGACCCGCGAGGTGGCCACC
+GATCACAAAGCCTTCTACGTCCTTTTTACCTGGGACCAGGAGGCCCAGATATACGAGCTG
+GTGGCACAGACTGTGTCGGAGCGGAAAAACTGGTGTGCTCTCATCACTGAGACTGCCGGA
+TCCCTGAAAGTCCCTGCCCCTGCCTCTCGCCCTAAGCCCCGGCCCAGCCCGAGCAGCACC
+CGAGAACCCCTCCTCAGCAGCTCTGAGAACGGCAATGGTGGCCGAGAGACGTCTCCAGCT
+GATGCCCGGACCGAGAGAATCCTCAGTGACCTCCTGCCCTTCTGCAGACCAGGCCCCGAG
+GGCCAGCTCGCTGCCACGGCCCTTCGGAAAGTGCTGTCCCTGAAGCAGCTTCTGTTTCCG
+GCGGAGGAAGACAATGGGGCGGGGCCTCCTCGAGATGGGGATGGGGTCCCAGGGGGCGGC
+CCCCTGAGCCCAGCACGGACCCAGGAAATCCAGGAGAACCTGCTCAGCTTGGAGGAGACC
+ATGAAGCAGCTGGAGGAGTTGGAGGAGGAATTTTGCCGCCTGAGACCCCTCCTGTCTCAG
+CTTGGGGGGAACTCTGTCCCCCAGCCTGGCTGCACTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>912</residue_number>
+    <molecular_weight>102434.3</molecular_weight>
+    <theoretical_pi>5.37</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>RGS-like</name>
+        <pfam_id>PF09128</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RhoGEF</name>
+        <pfam_id>PF00621</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Rho guanine nucleotide exchange factor 1
+MEDFARGAASPGPSRPGLVPVSIIGAEDEDFENELETNSEEQNSQFQSLEQVKRRPAHLM
+ALLQHVALQFEPGPLLCCLHADMLGSLGPKEAKKAFLDFYHSFLEKTAVLRVPVPPNVAF
+ELDRTRADLISEDVQRRFVQEVVQSQQVAVGRQLEDFRSKRLMGMTPWEQELAQLEAWVG
+RDRASYEARERHVAERLLMHLEEMQHTISTDEEKSAAVVNAIGLYMRHLGVRTKSGDKKS
+GRNFFRKKVMGNRRSDEPAKTKKGLSSILDAARWNRGEPQVPDFRHLKAEVDAEKPGATD
+RKGGVGMPSRDRNIGAPGQDTPGVSLHPLSLDSPDREPGADAPLELGDSSPQGPMSLESL
+APPESTDEGAETESPEPGDEGEPGRSGLELEPEEPPGWRELVPPDTLHSLPKSQVKRQEV
+ISELLVTEAAHVRMLRVLHDLFFQPMAECLFFPLEELQNIFPSLDELIEVHSLFLDRLMK
+RRQESGYLIEEIGDVLLARFDGAEGSWFQKISSRFCSRQSFALEQLKAKQRKDPRFCAFV
+QEAESRPRCRRLQLKDMIPTEMQRLTKYPLLLQSIGQNTEEPTEREKVELAAECCREILH
+HVNQAVRDMEDLLRLKDYQRRLDLSHLRQSSDPMLSEFKNLDITKKKLVHEGPLTWRVTK
+DKAVEVHVLLLDDLLLLLQRQDERLLLKSHSRTLTPTPDGKTMLRPVLRLTSAMTREVAT
+DHKAFYVLFTWDQEAQIYELVAQTVSERKNWCALITETAGSLKVPAPASRPKPRPSPSST
+REPLLSSSENGNGGRETSPADARTERILSDLLPFCRPGPEGQLAATALRKVLSLKQLLFP
+AEEDNGAGPPRDGDGVPGGGPLSPARTQEIQENLLSLEETMKQLEELEEEFCRLRPLLSQ
+LGGNSVPQPGCT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>15011972</genbank_protein_id>
+  <uniprot_id>Q92888</uniprot_id>
+  <uniprot_name>ARHG1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1SHZ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_004706.3</genbank_gene_id>
+  <genecard_id>ARHGEF1</genecard_id>
+  <geneatlas_id/>
+  <hgnc_id/>
+  <general_references>
+    <reference>
+      <reference_text>Hart MJ, Sharma S, elMasry N, Qiu RG, McCabe P, Polakis P, Bollag G: Identification of a novel guanine nucleotide exchange factor for the Rho GTPase. J Biol Chem. 1996 Oct 11;271(41):25452-8.</reference_text>
+      <pubmed_id>8810315</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aasheim HC, Pedeutour F, Smeland EB: Characterization, expression and chromosomal localization of a human gene homologous to the mouse Lsc oncogene, with strongest expression in hematopoetic tissues. Oncogene. 1997 Apr 10;14(14):1747-52.</reference_text>
+      <pubmed_id>9135076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kozasa T, Jiang X, Hart MJ, Sternweis PM, Singer WD, Gilman AG, Bollag G, Sternweis PC: p115 RhoGEF, a GTPase activating protein for Galpha12 and Galpha13.  Science. 1998 Jun 26;280(5372):2109-11.</reference_text>
+      <pubmed_id>9641915</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hart MJ, Jiang X, Kozasa T, Roscoe W, Singer WD, Gilman AG, Sternweis PC, Bollag G: Direct stimulation of the guanine nucleotide exchange activity of p115 RhoGEF by Galpha13. Science. 1998 Jun 26;280(5372):2112-4.</reference_text>
+      <pubmed_id>9641916</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bhattacharyya R, Wedegaertner PB: Galpha 13 requires palmitoylation for plasma membrane localization, Rho-dependent signaling, and promotion of p115-RhoGEF membrane binding. J Biol Chem. 2000 May 19;275(20):14992-9.</reference_text>
+      <pubmed_id>10747909</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park B, Nguyen NT, Dutt P, Merdek KD, Bashar M, Sterpetti P, Tosolini A, Testa JR, Toksoz D: Association of Lbc Rho guanine nucleotide exchange factor with alpha-catenin-related protein, alpha-catulin/CTNNAL1, supports serum response factor activation. J Biol Chem. 2002 Nov 22;277(47):45361-70. Epub 2002 Sep 20.</reference_text>
+      <pubmed_id>12270917</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Holinstat M, Mehta D, Kozasa T, Minshall RD, Malik AB: Protein kinase Calpha-induced p115RhoGEF phosphorylation signals endothelial cytoskeletal rearrangement. J Biol Chem. 2003 Aug 1;278(31):28793-8. Epub 2003 May 16.</reference_text>
+      <pubmed_id>12754211</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen Z, Wells CD, Sternweis PC, Sprang SR: Structure of the rgRGS domain of p115RhoGEF.  Nat Struct Biol. 2001 Sep;8(9):805-9.</reference_text>
+      <pubmed_id>11524686</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

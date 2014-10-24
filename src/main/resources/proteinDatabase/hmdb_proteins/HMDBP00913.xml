@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:52:20 -0700</creation_date>
+  <update_date>2013-05-27 11:29:28 -0600</update_date>
+  <accession>HMDBP00913</accession>
+  <secondary_accessions>
+    <accession>6201</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ADPRT 1</synonym>
+    <synonym>NAD(+) ADP-ribosyltransferase 1</synonym>
+    <synonym>PARP-1</synonym>
+    <synonym>Poly[ADP-ribose] synthase 1</synonym>
+    <synonym>ADP-ribosyltransferase diphtheria toxin-like 1</synonym>
+    <synonym>ARTD1</synonym>
+  </synonyms>
+  <gene_name>PARP1</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Involved in the base excision repair (BER) pathway, by catalyzing the poly(ADP-ribosyl)ation of a limited number of acceptor proteins involved in chromatin architecture and in DNA metabolism. This modification follows DNA damages and appears as an obligatory step in a detection/signaling pathway leading to the reparation of DNA strand breaks. Mediates the poly(ADP-ribosyl)ation of APLF and CHFR. Positively regulates the transcription of MTUS1 and negatively regulates the transcription of MTUS2/TIP150. With EEF1A1 and TXK, forms a complex that acts as a T-helper 1 (Th1) cell-specific transcription factor and binds the promoter of IFN-gamma to directly regulate its transcription, and is thus involved importantly in Th1 cytokine production.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Base excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03410</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>NF-kappa B signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04064</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01406</accession>
+      <name>Niacinamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nad+ adp-ribosyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nad or nadh binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring pentosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid adp-ribosylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear envelope</description>
+      <go_id>GO:0005635</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>transcription factor complex</description>
+      <go_id>GO:0005667</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD binding</description>
+      <go_id>GO:0051287</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD+ ADP-ribosyltransferase activity</description>
+      <go_id>GO:0003950</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>base-excision repair</description>
+      <go_id>GO:0006284</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to insulin stimulus</description>
+      <go_id>GO:0032869</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA damage response, detection of DNA damage</description>
+      <go_id>GO:0042769</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA repair</description>
+      <go_id>GO:0006281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0000122</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein autoprocessing</description>
+      <go_id>GO:0016540</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein poly-ADP-ribosylation</description>
+      <go_id>GO:0070212</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of growth rate</description>
+      <go_id>GO:0040009</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance</description>
+      <go_id>GO:0000723</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase II promoter</description>
+      <go_id>GO:0006367</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transforming growth factor beta receptor signaling pathway</description>
+      <go_id>GO:0007179</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q41-q42</locus>
+    <gene_sequence>&gt;3045 bp
+ATGGCGGAGTCTTCGGATAAGCTCTATCGAGTCGAGTACGCCAAGAGCGGGCGCGCCTCT
+TGCAAGAAATGCAGCGAGAGCATCCCCAAGGACTCGCTCCGGATGGCCATCATGGTGCAG
+TCGCCCATGTTTGATGGAAAAGTCCCACACTGGTACCACTTCTCCTGCTTCTGGAAGGTG
+GGCCACTCCATCCGGCACCCTGACGTTGAGGTGGATGGGTTCTCTGAGCTTCGGTGGGAT
+GACCAGCAGAAAGTCAAGAAGACAGCGGAAGCTGGAGGAGTGACAGGCAAAGGCCAGGAT
+GGAATTGGTAGCAAGGCAGAGAAGACTCTGGGTGACTTTGCAGCAGAGTATGCCAAGTCC
+AACAGAAGTACGTGCAAGGGGTGTATGGAGAAGATAGAAAAGGGCCAGGTGCGCCTGTCC
+AAGAAGATGGTGGACCCGGAGAAGCCACAGCTAGGCATGATTGACCGCTGGTACCATCCA
+GGCTGCTTTGTCAAGAACAGGGAGGAGCTGGGTTTCCGGCCCGAGTACAGTGCGAGTCAG
+CTCAAGGGCTTCAGCCTCCTTGCTACAGAGGATAAAGAAGCCCTGAAGAAGCAGCTCCCA
+GGAGTCAAGAGTGAAGGAAAGAGAAAAGGCGATGAGGTGGATGGAGTGGATGAAGTGGCG
+AAGAAGAAATCTAAAAAAGAAAAAGACAAGGATAGTAAGCTTGAAAAAGCCCTAAAGGCT
+CAGAACGACCTGATCTGGAACATCAAGGACGAGCTAAAGAAAGTGTGTTCAACTAATGAC
+CTGAAGGAGCTACTCATCTTCAACAAGCAGCAAGTGCCTTCTGGGGAGTCGGCGATCTTG
+GACCGAGTAGCTGATGGCATGGTGTTCGGTGCCCTCCTTCCCTGCGAGGAATGCTCGGGT
+CAGCTGGTCTTCAAGAGCGATGCCTATTACTGCACTGGGGACGTCACTGCCTGGACCAAG
+TGTATGGTCAAGACACAGACACCCAACCGGAAGGAGTGGGTAACCCCAAAGGAATTCCGA
+GAAATCTCTTACCTCAAGAAATTGAAGGTTAAAAAGCAGGACCGTATATTCCCCCCAGAA
+ACCAGCGCCTCCGTGGCGGCCACGCCTCCGCCCTCCACAGCCTCGGCTCCTGCTGCTGTG
+AACTCCTCTGCTTCAGCAGATAAGCCATTATCCAACATGAAGATCCTGACTCTCGGGAAG
+CTGTCCCGGAACAAGGATGAAGTGAAGGCCATGATTGAGAAACTCGGGGGGAAGTTGACG
+GGGACGGCCAACAAGGCTTCCCTGTGCATCAGCACCAAAAAGGAGGTGGAAAAGATGAAT
+AAGAAGATGGAGGAAGTAAAGGAAGCCAACATCCGAGTTGTGTCTGAGGACTTCCTCCAG
+GACGTCTCCGCCTCCACCAAGAGCCTTCAGGAGTTGTTCTTAGCGCACATCTTGTCCCCT
+TGGGGGGCAGAGGTGAAGGCAGAGCCTGTTGAAGTTGTGGCCCCAAGAGGGAAGTCAGGG
+GCTGCGCTCTCCAAAAAAAGCAAGGGCCAGGTCAAGGAGGAAGGTATCAACAAATCTGAA
+AAGAGAATGAAATTAACTCTTAAAGGAGGAGCAGCTGTGGATCCTGATTCTGGACTGGAA
+CACTCTGCGCATGTCCTGGAGAAAGGTGGGAAGGTCTTCAGTGCCACCCTTGGCCTGGTG
+GACATCGTTAAAGGAACCAACTCCTACTACAAGCTGCAGCTTCTGGAGGACGACAAGGAA
+AACAGGTATTGGATATTCAGGTCCTGGGGCCGTGTGGGTACGGTGATCGGTAGCAACAAA
+CTGGAACAGATGCCGTCCAAGGAGGATGCCATTGAGCACTTCATGAAATTATATGAAGAA
+AAAACCGGGAACGCTTGGCACTCCAAAAATTTCACGAAGTATCCCAAAAAGTTCTACCCC
+CTGGAGATTGACTATGGCCAGGATGAAGAGGCAGTGAAGAAGCTGACAGTAAATCCTGGC
+ACCAAGTCCAAGCTCCCCAAGCCAGTTCAGGACCTCATCAAGATGATCTTTGATGTGGAA
+AGTATGAAGAAAGCCATGGTGGAGTATGAGATCGACCTTCAGAAGATGCCCTTGGGGAAG
+CTGAGCAAAAGGCAGATCCAGGCCGCATACTCCATCCTCAGTGAGGTCCAGCAGGCGGTG
+TCTCAGGGCAGCAGCGACTCTCAGATCCTGGATCTCTCAAATCGCTTTTACACCCTGATC
+CCCCACGACTTTGGGATGAAGAAGCCTCCGCTCCTGAACAATGCAGACAGTGTGCAGGCC
+AAGGTGGAAATGCTTGACAACCTGCTGGACATCGAGGTGGCCTACAGTCTGCTCAGGGGA
+GGGTCTGATGATAGCAGCAAGGATCCCATCGATGTCAACTATGAGAAGCTCAAAACTGAC
+ATTAAGGTGGTTGACAGAGATTCTGAAGAAGCCGAGATCATCAGGAAGTATGTTAAGAAC
+ACTCATGCAACCACACACAATGCGTATGACTTGGAAGTCATCGATATCTTTAAGATAGAG
+CGTGAAGGCGAATGCCAGCGTTACAAGCCCTTTAAGCAGCTTCATAACCGAAGATTGCTG
+TGGCACGGGTCCAGGACCACCAACTTTGCTGGGATCCTGTCCCAGGGTCTTCGGATAGCC
+CCGCCTGAAGCGCCCGTGACAGGCTACATGTTTGGTAAAGGGATCTATTTCGCTGACATG
+GTCTCCAAGAGTGCCAACTACTGCCATACGTCTCAGGGAGACCCAATAGGCTTAATCCTG
+TTGGGAGAAGTTGCCCTTGGAAACATGTATGAACTGAAGCACGCTTCACATATCAGCAAG
+TTACCCAAGGGCAAGCACAGTGTCAAAGGTTTGGGCAAAACTACCCCTGATCCTTCAGCT
+AACATTAGTCTGGATGGTGTAGACGTTCCTCTTGGGACCGGGATTTCATCTGGTGTGAAT
+GACACCTCTCTACTATATAACGAGTACATTGTCTATGATATTGCTCAGGTAAATCTGAAG
+TATCTGCTGAAACTGAAATTCAATTTTAAGACCTCCCTGTGGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1014</residue_number>
+    <molecular_weight>113082.945</molecular_weight>
+    <theoretical_pi>8.885</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>BRCT</name>
+        <pfam_id>PF00533</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PADR1</name>
+        <pfam_id>PF08063</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PARP</name>
+        <pfam_id>PF00644</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PARP_reg</name>
+        <pfam_id>PF02877</pfam_id>
+      </pfam>
+      <pfam>
+        <name>WGR</name>
+        <pfam_id>PF05406</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-PARP</name>
+        <pfam_id>PF00645</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Poly [ADP-ribose] polymerase 1
+MAESSDKLYRVEYAKSGRASCKKCSESIPKDSLRMAIMVQSPMFDGKVPHWYHFSCFWKV
+GHSIRHPDVEVDGFSELRWDDQQKVKKTAEAGGVTGKGQDGIGSKAEKTLGDFAAEYAKS
+NRSTCKGCMEKIEKGQVRLSKKMVDPEKPQLGMIDRWYHPGCFVKNREELGFRPEYSASQ
+LKGFSLLATEDKEALKKQLPGVKSEGKRKGDEVDGVDEVAKKKSKKEKDKDSKLEKALKA
+QNDLIWNIKDELKKVCSTNDLKELLIFNKQQVPSGESAILDRVADGMVFGALLPCEECSG
+QLVFKSDAYYCTGDVTAWTKCMVKTQTPNRKEWVTPKEFREISYLKKLKVKKQDRIFPPE
+TSASVAATPPPSTASAPAAVNSSASADKPLSNMKILTLGKLSRNKDEVKAMIEKLGGKLT
+GTANKASLCISTKKEVEKMNKKMEEVKEANIRVVSEDFLQDVSASTKSLQELFLAHILSP
+WGAEVKAEPVEVVAPRGKSGAALSKKSKGQVKEEGINKSEKRMKLTLKGGAAVDPDSGLE
+HSAHVLEKGGKVFSATLGLVDIVKGTNSYYKLQLLEDDKENRYWIFRSWGRVGTVIGSNK
+LEQMPSKEDAIEHFMKLYEEKTGNAWHSKNFTKYPKKFYPLEIDYGQDEEAVKKLTVNPG
+TKSKLPKPVQDLIKMIFDVESMKKAMVEYEIDLQKMPLGKLSKRQIQAAYSILSEVQQAV
+SQGSSDSQILDLSNRFYTLIPHDFGMKKPPLLNNADSVQAKVEMLDNLLDIEVAYSLLRG
+GSDDSSKDPIDVNYEKLKTDIKVVDRDSEEAEIIRKYVKNTHATTHNAYDLEVIDIFKIE
+REGECQRYKPFKQLHNRRLLWHGSRTTNFAGILSQGLRIAPPEAPVTGYMFGKGIYFADM
+VSKSANYCHTSQGDPIGLILLGEVALGNMYELKHASHISKLPKGKHSVKGLGKTTPDPSA
+NISLDGVDVPLGTGISSGVNDTSLLYNEYIVYDIAQVNLKYLLKLKFNFKTSLW</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>21693601</genbank_protein_id>
+  <uniprot_id>P09874</uniprot_id>
+  <uniprot_name>PARP1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1UK0</pdb_id>
+    <pdb_id>1UK1</pdb_id>
+    <pdb_id>1WOK</pdb_id>
+    <pdb_id>2COK</pdb_id>
+    <pdb_id>2CR9</pdb_id>
+    <pdb_id>2CS2</pdb_id>
+    <pdb_id>2DMJ</pdb_id>
+    <pdb_id>2JVN</pdb_id>
+    <pdb_id>2L30</pdb_id>
+    <pdb_id>2L31</pdb_id>
+    <pdb_id>2RCW</pdb_id>
+    <pdb_id>2RD6</pdb_id>
+    <pdb_id>2RIQ</pdb_id>
+    <pdb_id>3GJW</pdb_id>
+    <pdb_id>3GN7</pdb_id>
+    <pdb_id>3L3L</pdb_id>
+    <pdb_id>3L3M</pdb_id>
+    <pdb_id>3OD8</pdb_id>
+    <pdb_id>3ODA</pdb_id>
+    <pdb_id>3ODC</pdb_id>
+    <pdb_id>3ODE</pdb_id>
+    <pdb_id>4AV1</pdb_id>
+    <pdb_id>4DQY</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF524947</genbank_gene_id>
+  <genecard_id>PARP1</genecard_id>
+  <geneatlas_id>PARP1</geneatlas_id>
+  <hgnc_id>HGNC:270</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Uchida K, Morita T, Sato T, Ogura T, Yamashita R, Noguchi S, Suzuki H, Nyunoya H, Miwa M, Sugimura T: Nucleotide sequence of a full-length cDNA for human fibroblast poly(ADP-ribose) polymerase. Biochem Biophys Res Commun. 1987 Oct 29;148(2):617-22.</reference_text>
+      <pubmed_id>3120710</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kurosaki T, Ushiro H, Mitsuuchi Y, Suzuki S, Matsuda M, Matsuda Y, Katunuma N, Kangawa K, Matsuo H, Hirose T, et al.: Primary structure of human poly(ADP-ribose) synthetase as deduced from cDNA sequence. J Biol Chem. 1987 Nov 25;262(33):15990-7.</reference_text>
+      <pubmed_id>2824474</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cherney BW, McBride OW, Chen DF, Alkhatib H, Bhatia K, Hensley P, Smulson ME: cDNA sequence, protein structure, and chromosomal location of the human gene for poly(ADP-ribose) polymerase. Proc Natl Acad Sci U S A. 1987 Dec;84(23):8370-4.</reference_text>
+      <pubmed_id>2891139</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Auer B, Nagl U, Herzog H, Schneider R, Schweiger M: Human nuclear NAD+ ADP-ribosyltransferase(polymerizing): organization of the gene. DNA. 1989 Oct;8(8):575-80.</reference_text>
+      <pubmed_id>2513174</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yokoyama Y, Kawamoto T, Mitsuuchi Y, Kurosaki T, Toda K, Ushiro H, Terashima M, Sumimoto H, Kuribayashi I, Yamamoto Y, et al.: Human poly(ADP-ribose) polymerase gene. Cloning of the promoter region.  Eur J Biochem. 1990 Dec 12;194(2):521-6.</reference_text>
+      <pubmed_id>2125269</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ogura T, Nyunoya H, Takahashi-Masutani M, Miwa M, Sugimura T, Esumi H: Characterization of a putative promoter region of the human poly(ADP-ribose) polymerase gene: structural similarity to that of the DNA polymerase beta gene. Biochem Biophys Res Commun. 1990 Mar 16;167(2):701-10.</reference_text>
+      <pubmed_id>2108670</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schneider R, Auer B, Kuhne C, Herzog H, Klocker H, Burtscher HJ, Hirsch-Kauffmann M, Wintersberger U, Schweiger M: Isolation of a cDNA clone for human NAD+: protein ADP-ribosyltransferase.  Eur J Cell Biol. 1987 Oct;44(2):302-7.</reference_text>
+      <pubmed_id>3121332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Suzuki H, Uchida K, Shima H, Sato T, Okamoto T, Kimura T, Miwa M: Molecular cloning of cDNA for human poly(ADP-ribose) polymerase and expression of its gene during HL-60 cell differentiation. Biochem Biophys Res Commun. 1987 Jul 31;146(2):403-9.</reference_text>
+      <pubmed_id>3113420</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gradwohl G, Menissier de Murcia JM, Molinete M, Simonin F, Koken M, Hoeijmakers JH, de Murcia G: The second zinc-finger domain of poly(ADP-ribose) polymerase determines specificity for single-stranded breaks in DNA. Proc Natl Acad Sci U S A. 1990 Apr;87(8):2990-4.</reference_text>
+      <pubmed_id>2109322</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ikejima M, Noguchi S, Yamashita R, Ogura T, Sugimura T, Gill DM, Miwa M: The zinc fingers of human poly(ADP-ribose) polymerase are differentially required for the recognition of DNA breaks and nicks and the consequent enzyme activation. Other structures recognize intact DNA. J Biol Chem. 1990 Dec 15;265(35):21907-13.</reference_text>
+      <pubmed_id>2123876</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simonin F, Menissier-de Murcia J, Poch O, Muller S, Gradwohl G, Molinete M, Penning C, Keith G, de Murcia G: Expression and site-directed mutagenesis of the catalytic domain of human poly(ADP-ribose)polymerase in Escherichia coli. Lysine 893 is critical for activity. J Biol Chem. 1990 Nov 5;265(31):19249-56.</reference_text>
+      <pubmed_id>2121735</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schreiber V, Molinete M, Boeuf H, de Murcia G, Menissier-de Murcia J: The human poly(ADP-ribose) polymerase nuclear localization signal is a bipartite element functionally separate from DNA binding and catalytic activity. EMBO J. 1992 Sep;11(9):3263-9.</reference_text>
+      <pubmed_id>1505517</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rolli V, O'Farrell M, Menissier-de Murcia J, de Murcia G: Random mutagenesis of the poly(ADP-ribose) polymerase catalytic domain reveals amino acids involved in polymer branching. Biochemistry. 1997 Oct 7;36(40):12147-54.</reference_text>
+      <pubmed_id>9315851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dantzer F, Nasheuer HP, Vonesch JL, de Murcia G, Menissier-de Murcia J: Functional association of poly(ADP-ribose) polymerase with DNA polymerase alpha-primase complex: a link between DNA strand break detection and DNA replication. Nucleic Acids Res. 1998 Apr 15;26(8):1891-8.</reference_text>
+      <pubmed_id>9518481</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ariumi Y, Masutani M, Copeland TD, Mimori T, Sugimura T, Shimotohno K, Ueda K, Hatanaka M, Noda M: Suppression of the poly(ADP-ribose) polymerase activity by DNA-dependent protein kinase in vitro. Oncogene. 1999 Aug 12;18(32):4616-25.</reference_text>
+      <pubmed_id>10467406</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gueven N, Becherel OJ, Kijas AW, Chen P, Howe O, Rudolph JH, Gatti R, Date H, Onodera O, Taucher-Scholz G, Lavin MF: Aprataxin, a novel protein that protects against genotoxic stress.  Hum Mol Genet. 2004 May 15;13(10):1081-93. Epub 2004 Mar 25.</reference_text>
+      <pubmed_id>15044383</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li Y, Oh HJ, Lau YF: The poly(ADP-ribose) polymerase 1 interacts with Sry and modulates its biological functions. Mol Cell Endocrinol. 2006 Sep 26;257-258:35-46. Epub 2006 Aug 9.</reference_text>
+      <pubmed_id>16904257</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kanno S, Kuzuoka H, Sasao S, Hong Z, Lan L, Nakajima S, Yasui A: A novel human AP endonuclease with conserved zinc-finger-like motifs involved in DNA strand break responses. EMBO J. 2007 Apr 18;26(8):2094-103. Epub 2007 Mar 29.</reference_text>
+      <pubmed_id>17396150</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ahel I, Ahel D, Matsusaka T, Clark AJ, Pines J, Boulton SJ, West SC: Poly(ADP-ribose)-binding zinc finger motifs in DNA repair/checkpoint proteins. Nature. 2008 Jan 3;451(7174):81-5.</reference_text>
+      <pubmed_id>18172500</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Reinemund J, Seidel K, Steckelings UM, Zaade D, Klare S, Rompe F, Katerbaum M, Schacherl J, Li Y, Menk M, Schefe JH, Goldin-Lang P, Szabo C, Olah G, Unger T, Funke-Kaiser H: Poly(ADP-ribose) polymerase-1 (PARP-1) transcriptionally regulates angiotensin AT2 receptor (AT2R) and AT2R binding protein (ATBP) genes. Biochem Pharmacol. 2009 Jun 15;77(12):1795-805. Epub 2009 Mar 19.</reference_text>
+      <pubmed_id>19344625</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martin N, Schwamborn K, Schreiber V, Werner A, Guillier C, Zhang XD, Bischof O, Seeler JS, Dejean A: PARP-1 transcriptional activity is regulated by sumoylation upon heat shock. EMBO J. 2009 Nov 18;28(22):3534-48. Epub 2009 Sep 24.</reference_text>
+      <pubmed_id>19779455</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ahel D, Horejsi Z, Wiechens N, Polo SE, Garcia-Wilson E, Ahel I, Flynn H, Skehel M, West SC, Jackson SP, Owen-Hughes T, Boulton SJ: Poly(ADP-ribose)-dependent regulation of DNA repair by the chromatin remodeling enzyme ALC1. Science. 2009 Sep 4;325(5945):1240-3. Epub 2009 Aug 6.</reference_text>
+      <pubmed_id>19661379</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Niacinamide</name>
+        <accession>HMDB01406</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

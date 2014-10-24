@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:14 -0700</creation_date>
+  <update_date>2013-05-27 11:03:56 -0600</update_date>
+  <accession>HMDBP00448</accession>
+  <secondary_accessions>
+    <accession>5686</accession>
+    <accession>HMDBP03614</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>AP-M</synonym>
+    <synonym>AP-N</synonym>
+    <synonym>Alanyl aminopeptidase</synonym>
+    <synonym>Aminopeptidase M</synonym>
+    <synonym>CD13 antigen</synonym>
+    <synonym>Microsomal aminopeptidase</synonym>
+    <synonym>Myeloid plasma membrane glycoprotein CD13</synonym>
+    <synonym>gp150</synonym>
+    <synonym>hAPN</synonym>
+  </synonyms>
+  <gene_name>ANPEP</gene_name>
+  <general_function>Involved in proteolysis</general_function>
+  <specific_function>Broad specificity aminopeptidase. Plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases. May play a critical role in the pathogenesis of cholesterol gallstone disease. May be involved in the metabolism of regulatory peptides of diverse cell types, responsible for the processing of peptide hormones, such as angiotensin III and IV, neuropeptides, and chemokines. Found to cleave antigen peptides bound to major histocompatibility complex class II molecules of presenting cells and to degrade neurotransmitters at synaptic junctions. Is also implicated as a regulator of IL-8 bioavailability in the endometrium, and therefore may contribute to the regulation of angiogenesis. Is used as a marker for acute myeloid leukemia and plays a role in tumor invasion. In case of human coronavirus 229E (HCoV-229E) infection, serves as receptor for HCoV-229E spike glycoprotein. Mediates as well human cytomegalovirus (HCMV) infection.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glutathione Metabolism</name>
+      <smpdb_id>SMP00015</smpdb_id>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glutathione metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Renin-angiotensin system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04614</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hematopoietic cell lineage</name>
+      <smpdb_id/>
+      <kegg_map_id>map04640</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00574</accession>
+      <name>L-Cysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00123</accession>
+      <name>Glycine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00078</accession>
+      <name>Cysteinylglycine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03337</accession>
+      <name>Oxidized glutathione</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01303</accession>
+      <name>Zinc (II) ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15108</accession>
+      <name>Ezetimibe</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15624</accession>
+      <name>Icatibant</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity, acting on l-amino acid peptides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metallopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proteolysis</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum-Golgi intermediate compartment</description>
+      <go_id>GO:0005793</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>external side of plasma membrane</description>
+      <go_id>GO:0009897</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>vesicle lumen</description>
+      <go_id>GO:0031983</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>vesicle membrane</description>
+      <go_id>GO:0012506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>aminopeptidase activity</description>
+      <go_id>GO:0004177</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metalloendopeptidase activity</description>
+      <go_id>GO:0004222</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metallopeptidase activity</description>
+      <go_id>GO:0008237</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptide binding</description>
+      <go_id>GO:0042277</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>receptor activity</description>
+      <go_id>GO:0004872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>angiogenesis</description>
+      <go_id>GO:0001525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell differentiation</description>
+      <go_id>GO:0030154</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular aromatic compound metabolic process</description>
+      <go_id>GO:0006725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of renal sodium excretion</description>
+      <go_id>GO:0035814</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proteolysis</description>
+      <go_id>GO:0006508</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location></chromosome_location>
+    <locus></locus>
+    <gene_sequence>&gt;2904 bp
+ATGGCCAAGGGCTTCTATATTTCCAAGTCCCTGGGCATCCTGGGGATCCTCCTGGGCGTG
+GCAGCCGTGTGCACAATCATCGCACTGTCAGTGGTGTACTCCCAGGAGAAGAACAAGAAC
+GCCAACAGCTCCCCCGTGGCCTCCACCACCCCGTCCGCCTCAGCCACCACCAACCCCGCC
+TCGGCCACCACCTTGGACCAAAGTAAAGCGTGGAATCGTTACCGCCTCCCCAACACGCTG
+AAACCCGATTCCTACCAGGTGACGCTGAGACCGTACCTCACCCCCAATGACAGGGGCCTG
+TACGTTTTTAAGGGCTCCAGCACCGTCCGTTTCACCTGCAAGGAGGCCACTGACGTCATC
+ATCATCCACAGCAAGAAGCTCAACTACACCCTCAGCCAGGGGCACAGGGTGGTCCTGCGT
+GGTGTGGGAGGCTCCCAGCCCCCCGACATTGACAAGACTGAGCTGGTGGAGCCCACCGAG
+TACCTGGTGGTGCACCTCAAGGGCTCCCTGGTGAAGGACAGCCAGTATGAGATGGACAGC
+GAGTTCGAGGGGGAGTTGGCAGATGACCTGGCGGGCTTCTACCGCAGCGAGTACATGGAG
+GGCAATGTCAGAAAGGTGGTGGCCACTACACAGATGCAGGCTGCAGATGCCCGGAAGTCC
+TTCCCATGCTTCGATGAGCCGGCCATGAAGGCCGAGTTCAACATCACGCTTATCCACCCC
+AAGGACCTGACAGCCCTGTCCAACATGCTTCCCAAAGGTCCCAGCACCCCACTTCCAGAA
+GACCCCAACTGGAATGTCACTGAGTTCCACACCACGCCCAAGATGTCCACGTACTTGCTG
+GCCTTCATTGTCAGTGAGTTCGACTACGTGGAGAAGCAGGCATCCAATGGTGTCTTGATC
+CGGATCTGGGCCCGGCCCAGTGCCATTGCGGCGGGCCACGGCGATTATGCCCTGAACGTG
+ACGGGCCCCATCCTTAACTTCTTTGCTGGTCATTATGACACACCCTACCCACTCCCAAAA
+TCAGACCAGATTGGCCTGCCAGACTTCAACGCCGGCGCCATGGAGAACTGGGGACTGGTG
+ACCTACCGGGAGAACTCCCTGCTGTTCGACCCCCTGTCCTCCTCCAGCAGCAACAAGGAG
+CGGGTGGTCACTGTGATTGCTCATGAGCTGGCCCACCAGTGGTTCGGGAACCTGGTGACC
+ATAGAGTGGTGGAATGACCTGTGGCTGAACGAGGGCTTCGCCTCCTACGTGGAGTACCTG
+GGTGCTGACTATGCGGAGCCCACCTGGAACTTGAAAGACCTCATGGTGCTGAATGATGTG
+TACCGCGTGATGGCAGTGGATGCACTGGCCTCCTCCCACCCGCTGTCCACACCCGCCTCG
+GAGATCAACACGCCGGCCCAGATCAGTGAGCTGTTTGACGCCATCTCCTACAGCAAGGGC
+GCCTCAGTCCTCAGGATGCTCTCCAGCTTCCTGTCCGAGGACGTATTCAAGCAGGGCCTG
+GCGTCCTACCTCCACACCTTTGCCTACCAGAACACCATCTACCTGAACCTGTGGGACCAC
+CTGCAGGAGGCTGTGAACAACCGGTCCATCCAACTCCCCACCACCGAGCGGGACATCATG
+AACCGCTGGACCCTGCAGATGGGCTTCCCGGTCATCACGGTGGATACCAGCACGGGGACC
+CTTTCCCAGGAGCACTTCCTCCTTGACCCCGATTCCAATGTTACCCGCCCCTCAGAATTC
+AACTACGTGTGGATTGTGCCCATCACATCCATCAGAGATGGCAGACAGCAGCAGGACTAC
+TGGCTGATGGATGTAAGAGCCCAGAACGATCTCTTCAGCACATCAGGCAATGAGTGGGTC
+CTGCTGAACCTCAATGTGACGGGCTATTACCGGGTGAACTACGACGAAGAGAACTGGAGG
+AAGATTCAGACTCAGCTGCAGAGAGACCACTCGGCCATCCCTGTCATCAATCGGGCACAG
+ATCATTAATGACGCCTTCAACCTGGCCAGTGCCCATAAGGTCCCTGTCACTCTGGCGCTG
+AACAACACCCTCTTCCTGATTGAAGAGAGACAGTACATGCCCTGGGAGGCCGCCCTGAGC
+AGCCTGAGCTACTTCAAGCTCATGTTTGACCGCTCCGAGGTCTATGGCCCCATGAAGAAC
+TACCTGAAGAAGCAGGTCACACCCCTCTTCATTCACTTCAGAAATAATACCAACAACTGG
+AGGGAGATCCCAGAAAACCTGATGGACCAGTACAGCGAGGTTAATGCCATCAGCACCGCC
+TGCTCCAACGGAGTTCCAGAGTGTGAGGAGATGGTCTCTGGCCTTTTCAAGCAGTGGATG
+GAGAACCCCAATAATAACCCGATCCACCCCAACCTGCGGTCCACCGTCTACTGCAACGCT
+ATCGCCCAGGGCGGGGAGGAGGAGTGGGACTTCGCCTGGGAGCAGTTCCGAAATGCCACA
+CTGGTCAATGAGGCTGACAAGCTCCGGGCAGCCCTGGCCTGCAGCAAAGAGTTGTGGATC
+CTGAACAGGTACCTGAGCTACACCCTGAACCCGGACTTAATCCGGAAGCAGGACGCCACC
+TCTACCATCATCAGCATTACCAACAACGTCATTGGGCAAGGTCTGGTCTGGGACTTTGTC
+CAGAGCAACTGGAAGAAGCCTTTTAACGATTATGGTGGTGGCTCGTTCTCCTTCTCCAAC
+CTCATCCAGGCAGTGACACGACGATTCTCCACCGAGTATGAGCTGCAGCAGCTGGAGCAG
+TTCAAGAAGGACAACGAGGAAACAGGCTTCGGCTCAGGCACCCGGGCCCTGGAGCAAGCC
+CTGGAGAAGACGAAAGCCAACATCAAGTGGGTGAAGGAGAACAAGGAGGTGGTGCTCCAG
+TGGTTCACAGAAAACAGCAAATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>967</residue_number>
+    <molecular_weight/>
+    <theoretical_pi/>
+    <pfams>
+      <pfam>
+        <name>Peptidase_M1</name>
+        <pfam_id>PF01433</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DUF3358</name>
+        <pfam_id>PF11838</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Aminopeptidase N
+MAKGFYISKSLGILGILLGVAAVCTIIALSVVYSQEKNKNANSSPVASTTPSASATTNPA
+SATTLDQSKAWNRYRLPNTLKPDSYRVTLRPYLTPNDRGLYVFKGSSTVRFTCKEATDVI
+IIHSKKLNYTLSQGHRVVLRGVGGSQPPDIDKTELVEPTEYLVVHLKGSLVKDSQYEMDS
+EFEGELADDLAGFYRSEYMEGNVRKVVATTQMQAADARKSFPCFDEPAMKAEFNITLIHP
+KDLTALSNMLPKGPSTPLPEDPNWNVTEFHTTPKMSTYLLAFIVSEFDYVEKQASNGVLI
+RIWARPSAIAAGHGDYALNVTGPILNFFAGHYDTPYPLPKSDQIGLPDFNAGAMENWGLV
+TYRENSLLFDPLSSSSSNKERVVTVIAHELAHQWFGNLVTIEWWNDLWLNEGFASYVEYL
+GADYAEPTWNLKDLMVLNDVYRVMAVDALASSHPLSTPASEINTPAQISELFDAISYSKG
+ASVLRMLSSFLSEDVFKQGLASYLHTFAYQNTIYLNLWDHLQEAVNNRSIQLPTTVRDIM
+NRWTLQMGFPVITVDTSTGTLSQEHFLLDPDSNVTRPSEFNYVWIVPITSIRDGRQQQDY
+WLIDVRAQNDLFSTSGNEWVLLNLNVTGYYRVNYDEENWRKIQTQLQRDHSAIPVINRAQ
+IINDAFNLASAHKVPVTLALNNTLFLIEERQYMPWEAALSSLSYFKLMFDRSEVYGPMKN
+YLKKQVTPLFIHFRNNTNNWREIPENLMDQYSEVNAISTACSNGVPECEEMVSGLFKQWM
+ENPNNNPIHPNLRSTVYCNAIAQGGEEEWDFAWEQFRNATLVNEADKLRAALACSKELWI
+LNRYLSYTLNPDLIRKQDATSTIISITNNVIGQGLVWDFVQSNWKKLFNDYGGGSFSFSN
+LIQAVTRRFSTEYELQQLEQFKKDNEETGFGSGTRALEQALEKTKANIKWVKENKEVVLQ
+WFTENSK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>28678</genbank_protein_id>
+  <uniprot_id>P15144</uniprot_id>
+  <uniprot_name>AMPN_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>4FYQ</pdb_id>
+    <pdb_id>4FYR</pdb_id>
+    <pdb_id>4FYS</pdb_id>
+    <pdb_id>4FYT</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X13276</genbank_gene_id>
+  <genecard_id>ANPEP</genecard_id>
+  <geneatlas_id>ANPEP</geneatlas_id>
+  <hgnc_id>HGNC:500</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Olsen J, Cowell GM, Konigshofer E, Danielsen EM, Moller J, Laustsen L, Hansen OC, Welinder KG, Engberg J, Hunziker W, et al.: Complete amino acid sequence of human intestinal aminopeptidase N as deduced from cloned cDNA. FEBS Lett. 1988 Oct 10;238(2):307-14.</reference_text>
+      <pubmed_id>2901990</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Look AT, Ashmun RA, Shapiro LH, Peiper SC: Human myeloid plasma membrane glycoprotein CD13 (gp150) is identical to aminopeptidase N. J Clin Invest. 1989 Apr;83(4):1299-307.</reference_text>
+      <pubmed_id>2564851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zody MC, Garber M, Sharpe T, Young SK, Rowen L, O'Neill K, Whittaker CA, Kamal M, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Kodira CD, Madan A, Qin S, Yang X, Abbasi N, Abouelleil A, Arachchi HM, Baradarani L, Birditt B, Bloom S, Bloom T, Borowsky ML, Burke J, Butler J, Cook A, DeArellano K, DeCaprio D, Dorris L 3rd, Dors M, Eichler EE, Engels R, Fahey J, Fleetwood P, Friedman C, Gearin G, Hall JL, Hensley G, Johnson E, Jones C, Kamat A, Kaur A, Locke DP, Madan A, Munson G, Jaffe DB, Lui A, Macdonald P, Mauceli E, Naylor JW, Nesbitt R, Nicol R, O'Leary SB, Ratcliffe A, Rounsley S, She X, Sneddon KM, Stewart S, Sougnez C, Stone SM, Topham K, Vincent D, Wang S, Zimmer AR, Birren BW, Hood L, Lander ES, Nusbaum C: Analysis of the DNA sequence and duplication history of human chromosome 15. Nature. 2006 Mar 30;440(7084):671-5.</reference_text>
+      <pubmed_id>16572171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shapiro LH, Ashmun RA, Roberts WM, Look AT: Separate promoters control transcription of the human aminopeptidase N gene in myeloid and intestinal epithelial cells. J Biol Chem. 1991 Jun 25;266(18):11999-2007.</reference_text>
+      <pubmed_id>1675638</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Watanabe Y, Iwaki-Egawa S, Mizukoshi H, Fujimoto Y: Identification of an alanine aminopeptidase in human maternal serum as a membrane-bound aminopeptidase N. Biol Chem Hoppe Seyler. 1995 Jul;376(7):397-400.</reference_text>
+      <pubmed_id>7576235</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nunez L, Amigo L, Rigotti A, Puglielli L, Mingrone G, Greco AV, Nervi F: Cholesterol crystallization-promoting activity of aminopeptidase-N isolated from the vesicular carrier of biliary lipids. FEBS Lett. 1993 Aug 23;329(1-2):84-8.</reference_text>
+      <pubmed_id>8102610</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tokioka-Terao M, Hiwada K, Kokubu T: Purification and characterization of aminopeptidase N from human plasma.  Enzyme. 1984;32(2):65-75.</reference_text>
+      <pubmed_id>6149934</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Connell PJ, Gerkis V, d'Apice AJ: Variable O-glycosylation of CD13 (aminopeptidase N).  J Biol Chem. 1991 Mar 5;266(7):4593-7.</reference_text>
+      <pubmed_id>1705556</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yeager CL, Ashmun RA, Williams RK, Cardellichio CB, Shapiro LH, Look AT, Holmes KV: Human aminopeptidase N is a receptor for human coronavirus 229E.  Nature. 1992 Jun 4;357(6377):420-2.</reference_text>
+      <pubmed_id>1350662</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Favaloro EJ, Browning T, Facey D: CD13 (GP150; aminopeptidase-N): predominant functional activity in blood is localized to plasma and is not cell-surface associated. Exp Hematol. 1993 Dec;21(13):1695-701.</reference_text>
+      <pubmed_id>7902291</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Soderberg C, Giugni TD, Zaia JA, Larsson S, Wahlberg JM, Moller E: CD13 (human aminopeptidase N) mediates human cytomegalovirus infection.  J Virol. 1993 Nov;67(11):6576-85.</reference_text>
+      <pubmed_id>8105105</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kolb AF, Maile J, Heister A, Siddell SG: Characterization of functional domains in the human coronavirus HCV 229E receptor. J Gen Virol. 1996 Oct;77 ( Pt 10):2515-21.</reference_text>
+      <pubmed_id>8887485</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Noren K, Hansen GH, Clausen H, Noren O, Sjostrom H, Vogel LK: Defectively N-glycosylated and non-O-glycosylated aminopeptidase N (CD13) is normally expressed at the cell surface and has full enzymatic activity. Exp Cell Res. 1997 Feb 25;231(1):112-8.</reference_text>
+      <pubmed_id>9056417</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kolb AF, Hegyi A, Siddell SG: Identification of residues critical for the human coronavirus 229E receptor function of human aminopeptidase N. J Gen Virol. 1997 Nov;78 ( Pt 11):2795-802.</reference_text>
+      <pubmed_id>9367365</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hegyi A, Kolb AF: Characterization of determinants involved in the feline infectious peritonitis virus receptor function of feline aminopeptidase N. J Gen Virol. 1998 Jun;79 ( Pt 6):1387-91.</reference_text>
+      <pubmed_id>9634079</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dong X, An B, Salvucci Kierstead L, Storkus WJ, Amoscato AA, Salter RD: Modification of the amino terminus of a class II epitope confers resistance to degradation by CD13 on dendritic cells and enhances presentation to T cells. J Immunol. 2000 Jan 1;164(1):129-35.</reference_text>
+      <pubmed_id>10605003</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pasqualini R, Koivunen E, Kain R, Lahdenranta J, Sakamoto M, Stryhn A, Ashmun RA, Shapiro LH, Arap W, Ruoslahti E: Aminopeptidase N is a receptor for tumor-homing peptides and a target for inhibiting angiogenesis. Cancer Res. 2000 Feb 1;60(3):722-7.</reference_text>
+      <pubmed_id>10676659</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seli E, Senturk LM, Bahtiyar OM, Kayisli UA, Arici A: Expression of aminopeptidase N in human endometrium and regulation of its activity by estrogen. Fertil Steril. 2001 Jun;75(6):1172-6.</reference_text>
+      <pubmed_id>11384645</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wentworth DE, Holmes KV: Molecular determinants of species specificity in the coronavirus receptor aminopeptidase N (CD13): influence of N-linked glycosylation. J Virol. 2001 Oct;75(20):9741-52.</reference_text>
+      <pubmed_id>11559807</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Hensbergen Y, Broxterman HJ, Hanemaaijer R, Jorna AS, van Lent NA, Verheul HM, Pinedo HM, Hoekman K: Soluble aminopeptidase N/CD13 in malignant and nonmalignant effusions and intratumoral fluid. Clin Cancer Res. 2002 Dec;8(12):3747-54.</reference_text>
+      <pubmed_id>12473585</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bonavia A, Zelus BD, Wentworth DE, Talbot PJ, Holmes KV: Identification of a receptor-binding domain of the spike glycoprotein of human coronavirus HCoV-229E. J Virol. 2003 Feb;77(4):2530-8.</reference_text>
+      <pubmed_id>12551991</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kristiansen TZ, Bunkenborg J, Gronborg M, Molina H, Thuluvath PJ, Argani P, Goggins MG, Maitra A, Pandey A: A proteomic analysis of human bile.  Mol Cell Proteomics. 2004 Jul;3(7):715-28. Epub 2004 Apr 14.</reference_text>
+      <pubmed_id>15084671</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lendeckel U, Wex T, Arndt M, Frank K, Franke A, Ansorge S: Identification of point mutations in the aminopeptidase N gene by SSCP analysis and sequencing. Hum Mutat. 1998;Suppl 1:S158-60.</reference_text>
+      <pubmed_id>9452074</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ezetimibe</name>
+        <accession>HMDB15108</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kramer W, Girbig F, Corsiero D, Pfenninger A, Frick W, Jahne G, Rhein M, Wendler W, Lottspeich F, Hochleitner EO, Orso E, Schmitz G: Aminopeptidase N (CD13) is a molecular target of the cholesterol absorption inhibitor ezetimibe in the enterocyte brush border membrane. J Biol Chem. 2005 Jan 14;280(2):1306-20. Epub 2004 Oct 19.</reference_text>
+        <pubmed_id>15494415</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Icatibant</name>
+        <accession>HMDB15624</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bawolak MT, Fortin JP, Vogel LK, Adam A, Marceau F: The bradykinin B2 receptor antagonist icatibant (Hoe 140) blocks aminopeptidase N at micromolar concentrations: off-target alterations of signaling mediated by the bradykinin B1 and angiotensin receptors. Eur J Pharmacol. 2006 Dec 3;551(1-3):108-11. Epub 2006 Sep 8.</reference_text>
+        <pubmed_id>17026984</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

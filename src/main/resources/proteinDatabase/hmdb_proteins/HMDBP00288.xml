@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:39 -0700</creation_date>
+  <update_date>2013-05-27 11:07:17 -0600</update_date>
+  <accession>HMDBP00288</accession>
+  <secondary_accessions>
+    <accession>5520</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>C4ST-3</synonym>
+    <synonym>C4ST3</synonym>
+    <synonym>Chondroitin 4-O-sulfotransferase 3</synonym>
+    <synonym>Chondroitin 4-sulfotransferase 3</synonym>
+  </synonyms>
+  <gene_name>CHST13</gene_name>
+  <general_function>Involved in sulfotransferase activity</general_function>
+  <specific_function>Catalyzes the transfer of sulfate to position 4 of the N-acetylgalactosamine (GalNAc) residue of chondroitin. Chondroitin sulfate constitutes the predominant proteoglycan present in cartilage and is distributed on the surfaces of many cells and extracellular matrices. Transfers sulfate to the C4 hydroxyl of beta1,4-linked GalNAc that is substituted with a beta-linked glucuronic acid at the C-3 hydroxyl. No activity toward dermatan.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate</name>
+      <smpdb_id/>
+      <kegg_map_id>map00532</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>sulfur metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00920</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01134</accession>
+      <name>Phosphoadenosine phosphosulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00061</accession>
+      <name>Adenosine 3',5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00652</accession>
+      <name>Chondroitin 4-sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00629</accession>
+      <name>Chondroitin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring sulfur-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sulfotransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi membrane</description>
+      <go_id>GO:0000139</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chondroitin 4-sulfotransferase activity</description>
+      <go_id>GO:0047756</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>N-acetylgalactosamine 4-O-sulfotransferase activity</description>
+      <go_id>GO:0001537</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate biosynthetic process</description>
+      <go_id>GO:0016051</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id>GO:0005975</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chondroitin sulfate biosynthetic process</description>
+      <go_id>GO:0030206</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Golgi apparatus membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3q21.3</locus>
+    <gene_sequence>&gt;1026 bp
+ATGGGGAGGCGCTGCTGCCGGCGGCGCGTGCTGGCGGCCGCCTGTCTGGGCGCCGCGCTC
+CTGCTCCTATGCGCCGCGCCCCGCTCCCTGCGCCCGGCATTTGGAAACAGAGCCCTGGGC
+TCCAGCTGGCTTGGTGGGGAGAAGAGAAGCCCCCTGCAGAAGCTCTATGACCTGGATCAG
+GACCCGCGCTCGACCCTGGCGAAGGTGCACCGTCAGCGGCGCGACCTGCTGAACAGCGCC
+TGTAGCCGCCACTCACGCCGGCAGCGCCTGCTACAGCCGGAGGACCTGCGGCACGTGCTG
+GTGGACGACGCGCATGGCCTGCTCTACTGCTACGTGCCCAAGGTGGCCTGCACCAACTGG
+AAGCGCGTGCTGCTGGCGCTGAGCGGCCAAGCCCGCGGCGACCCGCGCGCCATCTCCGCG
+CAAGAGGCGCACGCGCCTGGCCGCCTGCCCTCACTGGCCGACTTCAGCCCCGCCGAGATC
+AACCGGCGCCTGCGCGCCTACTTGGCCTTCCTGTTCGTGCGGGAGCCCTTCGAGCGCCTG
+GCATCGGCTTACCGCAACAAGCTCGCGCGCCCCTACAGCGCCGCCTTCCAGAGGCGCTAC
+GGTGCACGCATCGTTCAGCGCCTGCGGCCGCGCGCGCTCCCCGACGCCCGGGCCCGCGGC
+CACGACGTGCGCTTCGCGGAGTTCCTGGCCTACCTGCTGGACCCGCGCACGCGGCGTGAG
+GAGCCCTTCAACGAGCACTGGGAGCGCGCGCACGCGCTCTGCCACCCGTGTCGCCTCCGC
+TACGACGTCGTGGGCAAGTTCGAGACGCTGGCGGAGGACGCGGCCTTCGTGCTGGGCCTG
+GCGGGCGCATCCGACCTGAGCTTCCCTGGGCCGCCGCGGCCCCGGGGAGCCGCCGCCTCC
+CGCGACCTGGCAGCGCGCCTCTTCCGGGACATCAGCCCCTTCTACCAGCGGCGCCTCTTC
+GACCTCTACAAGATGGACTTCCTGCTTTTCAACTACTCCGCCCCCTCCTACCTGCGGCTG
+CTCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>341</residue_number>
+    <molecular_weight>38919.34</molecular_weight>
+    <theoretical_pi>10.543</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Sulfotransfer_2</name>
+        <pfam_id>PF03567</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Carbohydrate sulfotransferase 13
+MGRRCCRRRVLAAACLGAALLLLCAAPRSLRPAFGNRALGSSWLGGEKRSPLQKLYDLDQ
+DPRSTLAKVHRQRRDLLNSACSRHSRRQRLLQPEDLRHVLVDDAHGLLYCYVPKVACTNW
+KRVLLALSGQARGDPRAISAQEAHAPGRLPSLADFSPAEINRRLRAYLAFLFVREPFERL
+ASAYRNKLARPYSAAFQRRYGARIVQRLRPRALPDARARGHDVRFAEFLAYLLDPRTRRE
+EPFNEHWERAHALCHPCRLRYDVVGKFETLAEDAAFVLGLAGASDLSFPGPPRPRGAAAS
+RDLAARLFRDISPFYQRRLFDLYKMDFLLFNYSAPSYLRLL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>22651777</genbank_protein_id>
+  <uniprot_id>Q8NET6</uniprot_id>
+  <uniprot_name>CHSTD_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AY120869</genbank_gene_id>
+  <genecard_id>CHST13</genecard_id>
+  <geneatlas_id>CHST13</geneatlas_id>
+  <hgnc_id>HGNC:21755</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kang HG, Evers MR, Xia G, Baenziger JU, Schachner M: Molecular cloning and characterization of chondroitin-4-O-sulfotransferase-3. A novel member of the HNK-1 family of sulfotransferases. J Biol Chem. 2002 Sep 20;277(38):34766-72. Epub 2002 Jun 21.</reference_text>
+      <pubmed_id>12080076</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:18:37 -0700</creation_date>
+  <update_date>2013-05-27 11:35:14 -0600</update_date>
+  <accession>HMDBP09035</accession>
+  <secondary_accessions>
+    <accession>14777</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HIF-1</synonym>
+    <synonym>HIP-1</synonym>
+    <synonym>Huntingtin yeast partner B</synonym>
+    <synonym>Huntingtin-interacting protein 1</synonym>
+    <synonym>Huntingtin-interacting protein B</synonym>
+    <synonym>Lysine N-methyltransferase 3A</synonym>
+    <synonym>SET domain-containing protein 2</synonym>
+    <synonym>hSET2</synonym>
+    <synonym>p231HBP</synonym>
+  </synonyms>
+  <gene_name>SETD2</gene_name>
+  <general_function>Involved in histone-lysine N-methyltransferase activity</general_function>
+  <specific_function>Histone methyltransferase that methylates 'Lys-36' of histone H3. H3 'Lys-36' methylation represents a specific tag for epigenetic transcriptional activation. Probably plays a role in chromatin structure modulation during elongation via its interaction with hyperphosphorylated POLR2A. Binds DNA at promoters. May also act as a transcription activator that binds to promoters. Binds to the promoters of adenovirus 12 E1A gene in case of infection, possibly leading to regulate its expression.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Lysine degradation</name>
+      <smpdb_id/>
+      <kegg_map_id>map00310</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00939</accession>
+      <name>S-Adenosylhomocysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00182</accession>
+      <name>L-Lysine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring one-carbon groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>histone-lysine n-methyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>non-membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular non-membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>chromosome</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>chromosome</description>
+      <go_id>GO:0005694</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone-lysine N-methyltransferase activity</description>
+      <go_id>GO:0018024</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity</description>
+      <go_id>GO:0016491</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transition metal ion binding</description>
+      <go_id>GO:0046914</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>angiogenesis</description>
+      <go_id>GO:0001525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell migration involved in vasculogenesis</description>
+      <go_id>GO:0035441</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>coronary vasculature morphogenesis</description>
+      <go_id>GO:0060977</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic cranial skeleton morphogenesis</description>
+      <go_id>GO:0048701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic placenta morphogenesis</description>
+      <go_id>GO:0060669</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>forebrain development</description>
+      <go_id>GO:0030900</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>histone H3-K36 methylation</description>
+      <go_id>GO:0010452</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mesoderm morphogenesis</description>
+      <go_id>GO:0048332</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>morphogenesis of a branching structure</description>
+      <go_id>GO:0001763</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>neural tube closure</description>
+      <go_id>GO:0001843</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-lysine trimethylation</description>
+      <go_id>GO:0018023</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pericardium development</description>
+      <go_id>GO:0060039</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0006355</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>stem cell development</description>
+      <go_id>GO:0048864</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus (Probable)</subcellular_location>
+    <subcellular_location>Chromosome (Probable)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3p21.31</locus>
+    <gene_sequence>&gt;7695 bp
+ATGAAGCAGCTGCAGCCGCAGCCGCCTCCGAAGATGGGGGATTTCTACGACCCGGAGCAC
+CCGACCCCTGAAGAAGAAGAAAATGAGGCAAAGATTGAAAATGTGCAGAAAACAGGTTTC
+ATCAAAGGACCAATGTTCAAAGGTGTTGCTTCTAGTCGATTTTTGCCCAAAGGCACCAAA
+ACAAAAGTTAATTTGGAAGAACAGGGACGACAGAAGGTGTCATTCAGCTTCAGCCTTACA
+AAGAAAACTTTGCAGAATAGGTTTCTCACTGCACTTGGCAATGAAAAGCAAAGTGATACT
+CCAAACCCTCCAGCTGTACCTCTTCAGGTAGACTCGACTCCTAAAATGAAAATGGAAATT
+GGTGATACCTTATCTACTGCAGAAGAATCTTCCCCACCAAAGTCAAGGGTGGAATTGGGC
+AAAATTCATTTTAAGAAACATCTGCTTCATGTAACATCCAGGCCACTGCTGGCTACTACC
+ACAGCAGTAGCATCTCCACCTACTCATGCAGCACCATTACCAGCAGTGATAGCAGAATCA
+ACAACTGTAGACTCACCGCCCTCATCTCCGCCTCCACCGCCTCCACCTGCCCAAGCCACA
+ACACTCTCATCACCAGCACCAGTAACAGAGCCAGTGGCCTTGCCACATACACCAATAACA
+GTTCTAATGGCAGCACCAGTACCCTTACCAGTAGATGTAGCAGTTAGATCTCTGAAAGAA
+CCACCAATTATAATTGTACCAGAATCTTTAGAAGCAGATACTAAGCAGGACACTATATCT
+AATAGTTTAGAAGAACACGTAACTCAAATATTGAATGAGCAAGCAGATATTTCCTCAAAA
+AAAGAAGATTCCCATATTGGGAAGGATGAAGAAATTCCAGATAGTTCTAAGATTAGTCTG
+AGCTGTAAAAAAACAGGTTCTAAGAAGAAATCCTCACAATCTGAAGGCATCTTTCTTGGT
+TCAGAATCTGATGAAGATTCTGTACGGACTTCTTCAAGTCAAAGATCACATGATTTAAAA
+TTTTCAGCAAGCATTGAAAAGGAAAGAGATTTTAAAAAGAGCTCAGCACCTTTAAAAAGT
+GAGGATCTAGGGAAACCTTCACGATCTAAAACAGACAGAGATGATAAATATTTTAGCTAT
+TCAAAACTTGAAAGAGATACTCGGTATGTATCTTCCCGATGTAGATCAGAAAGAGAGCGA
+CGGCGGAGCAGATCTCACTCTAGGTCTGAGAGAGGCTCTAGAACTAATTTATCCTATTCC
+AGGTCAGAACGATCTCATTATTATGACTCTGATCGTCGCTACCATAGGAGCTCCCCTTAT
+CGAGAGAGGACGCGCTATTCTCGGCCATACACAGATAACAGAGCACGAGAGAGTTCTGAC
+TCAGAAGAAGAGTATAAGAAGACATACTCAAGGCGTACCTCATCTCATTCCTCTTCTTAC
+AGAGACCTAAGGACATCATCCTATTCTAAATCTGATCGGGACTGTAAAACTGAGACCTCT
+TACTTAGAGATGGAAAGAAGAGGCAAGTATTCTTCAAAACTAGAAAGAGAATCTAAAAGG
+ACTTCAGAAAATGAAGCAATTAAAAGATGTTGTTCTCCCCCTAATGAACTGGGATTCCGA
+CGAGGGTCATCATATTCTAAGCATGACAGTAGTGCTTCCCGTTATAAATCTACCCTTTCA
+AAACCTATACCCAAGTCTGATAAATTTAAAAATTCTTTCTGTTGTACAGAATTAAATGAA
+GAAATCAAACAGTCTCATTCTTTTAGTTTACAGACACCTTGTTCAAAAGGTAGTGAATTA
+AGAATGATTAATAAAAATCCTGAAAGAGAAAAGGCTGGGTCTCCAGCTCCATCAAATCGA
+TTAAATGATTCACCTACTTTAAAAAAGCTAGATGAATTGCCTATTTTTAAGTCCGAATTT
+ATAACACATGATAGCCATGATAGTATTAAGGAATTAGACTCTTTATCTAAAGTGAAGAAT
+GATCAATTAAGAAGTTTTTGTCCCATAGAATTAAATATAAATGGATCTCCTGGGGCAGAA
+TCTGATTTGGCAACATTTTGCACTTCTAAAACTGATGCTGTTTTAATGACTTCTGATGAT
+AGTGTGACTGGATCGGAATTATCCCCTTTGGTCAAAGCATGCATGCTTTCATCAAATGGA
+TTTCAGAATATTAGTAGGTGCAAAGAAAAAGACTTGGATGATACCTGCATGCTGCATAAG
+AAGTCAGAAAGCCCATTTAGAGAAACAGAACCTCTGGTGTCACCACACCAAGATAAACTC
+ATGTCTATGCCAGTTATGACTGTGGATTATTCCAAAACAGTAGTTAAAGAACCAGTTGAT
+ACGAGGGTTTCTTGCTGCAAAACCAAAGATTCAGACATATACTGTACTTTGAACGATAGC
+AACCCTTCTTTGTGTAACTCTGAAGCTGAAAATATTGAGCCTTCAGTTATGAAGATTTCT
+TCAAATAGCTTTATGAATGTGCATTTGGAATCAAAACCAGTTATATGTGATAGTAGAAAT
+TTGACAGATCACTCAAAATTTGCATGTGAAGAATATAAGCAGAGCATCGGTAGCACTAGT
+TCAGCTTCTGTTAATCATTTTGATGATTTATATCAACCTATTGGGAGTTCAGGTATTGCT
+TCATCTCTTCAGAGTCTTCCACCAGGAATAAAGGTGGACAGTCTAACTCTCTTGAAATGC
+GGAGAGAACACATCTCCAGTTCTGGATGCAGTGCTAAAGAGTAAAAAAAGTTCAGAGTTT
+TTAAAGCATGCAGGGAAAGAAACAATAGTAGAAGTAGGTAGTGACCTTCCTGATTCAGGA
+AAGGGATTTGCTTCCAGGGAGAACAGGCGTAATAATGGGTTATCTGGGAAATGTTTGCAA
+GAGGCTCAAGAAGAAGGGAATTCCATATTGCCTGAAAGAAGAGGAAGACCAGAAATCTCT
+TTAGATGAAAGAGGAGAAGGAGGACATGTGCATACTTCTGATGACTCAGAAGTTGTATTT
+TCTTCTTGTGATTTGAATTTAACCATGGAAGACAGTGATGGTGTAACTTATGCATTAAAG
+TGTGACAGTAGTGGTCATGCCCCAGAAATTGTGTCTACAGTTCATGAAGATTATTCTGGC
+TCTTCTGAAAGTTCAAATGATGAAAGTGATTCAGAAGATACAGATTCGGATGATAGCAGT
+ATTCCAAGAAACCGTCTCCAGTCTGTTGTGGTTGTGCCAAAGAATTCTACTTTGCCCATG
+GAAGAAACAAGTCCTTGTTCTTCTCGGAGCAGTCAAAGTTATAGACACTATTCTGACCAT
+TGGGAAGATGAGAGATTGGAGTCAAGGAGACATTTGTATGAGGAAAAATTTGAAAGTATA
+GCAAGTAAAGCCTGTCCTCAAACTGATAAGTTTTTCCTTCATAAAGGAACAGAGAAGAAT
+CCGGAAATTTCTTTTACACAGTCCAGTAGAAAACAAATAGATAATCGCCTGCCTGAACTT
+TCTCATCCTCAGAGTGATGGGGTTGATAGTACAAGTCATACAGATGTGAAATCTGACCCT
+CTGGGTCACCCAAATTCAGAGGAAACCGTGAAAGCCAAAATACCTTCTAGGCAGCAAGAA
+GAGCTGCCAATTTATTCTTCTGATTTTGAAGATGTCCCAAATAAGTCTTGGCAACAGACC
+ACTTTCCAAAACAGGCCAGATAGTAGACTGGGAAAAACAGAATTGAGTTTTTCTTCCTCT
+TGTGAGATACCACATGTGGATGGCTTGCACTCATCAGAAGAGCTCAGAAACTTAGGTTGG
+GACTTCTCTCAAGAAAAGCCTTCTACCACGTATCAGCAACCTGACAGTAGCTATGGAGCT
+TGTGGTGGACACAAGTATCAGCAAAATGCAGAACAGTATGGTGGGACACGTGATTACTGG
+CAAGGCAATGGTTACTGGGATCCAAGATCAGGTAGACCTCCTGGAACTGGGGTTGTGTAT
+GATCGAACTCAAGGACAAGTACCAGATTCCCTAACAGATGATCGTGAAGAAGAGGAGAAT
+TGGGATCAACAGGATGGATCCCATTTTTCAGACCAGTCCGATAAATTTCTTCTATCCCTT
+CAGAAAGACAAGGGGTCAGTGCAAGCACCTGAAATAAGCAGCAATTCCATTAAGGACACT
+TTAGCTGTGAATGAAAAGAAAGATTTTTCAAAAAACTTAGAAAAAAATGATATCAAAGAT
+AGAGGGCCTCTTAAAAAAAGGAGGCAGGAAATAGAGAGTGATTCTGAAAGTGATGGTGAG
+CTTCAGGACAGAAAGAAAGTTAGAGTGGAGGTAGAGCAGGGAGAGACATCAGTGCCCCCA
+GGTTCAGCACTGGTTGGGCCCTCCTGTGTCATGGATGACTTCAGGGACCCACAGCGATGG
+AAGGAATGTGCCAAGCAAGGGAAAATGCCATGTTACTTTGATCTTATTGAAGAAAATGTT
+TATTTAACAGAAAGAAAGAAGAATAAATCTCATCGAGATATTAAGCGAATGCAGTGTGAG
+TGTACACCTCTTTCTAAAGATGAAAGAGCTCAAGGTGAAATAGCATGTGGGGAAGATTGT
+CTTAATCGTCTTCTCATGATTGAATGTTCTTCTCGGTGTCCAAATGGGGATTATTGTTCC
+AATAGACGGTTTCAGAGAAAACAGCATGCAGATGTGGAAGTCATACTCACAGAAAAGAAA
+GGCTGGGGCTTGAGAGCTGCCAAAGACCTTCCTTCGAACACCTTTGTCCTAGAATATTGT
+GGAGAGGTACTCGATCATAAAGAGTTTAAAGCTCGAGTGAAGGAGTATGCACGAAACAAA
+AACATCCATTACTATTTCATGGCCCTGAAGAATGATGAGATAATAGATGCCACTCAAAAA
+GGAAATTGCTCTCGTTTCATGAATCACAGCTGTGAACCAAATTGTGAAACCCAAAAATGG
+ACTGTGAACGGACAACTGAGGGTTGGGTTTTTTACCACCAAACTGGTTCCTTCAGGCTCA
+GAGTTAACGTTTGACTATCAGTTCCAGAGATATGGAAAAGAAGCCCAGAAATGTTTCTGC
+GGATCAGCCAATTGCCGGGGTTACCTGGGAGGAGAAAACAGAGTCAGCATCAGAGCAGCA
+GGAGGGAAAATGAAGAAGGAACGATCTCGTAAGAAGGATTCAGTGGATGGAGAGCTAGAA
+GCTCTGATGGAAAATGGTGAGGGTCTCTCTGATAAAAACCAGGTGCTCAGCTTATCCCGG
+CTAATGGTTAGAATTGAAACTTTGGAGCAGAAACTTACCTGTCTGGAACTCATACAGAAC
+ACACACTCACAGTCCTGCCTGAAGTCCTTTCTGGAACGTCATGGGCTGTCTTTGTTGTGG
+ATCTGGATGGCAGAGCTAGGTGACGGCCGGGAAAGTAACCAGAAGCTTCAGGAAGAGATT
+ATAAAGACTTTGGAACACTTGCCCATTCCTACTAAAAATATGTTGGAGGAAAGCAAAGTA
+CTTCCAATTATTCAACGCTGGTCTCAGACTAAGACTGCTGTCCCTCCGTTGAGTGAAGGA
+GATGGGTATTCTAGTGAGAATACATCGCGTGCTCATACACCACTCAACACACCTGATCCT
+TCCACCAAGCTGAGCACAGAAGCTGACACAGACACTCCCAAGAAACTAATGTTTCGCAGA
+CTGAAAATTATAAGTGAAAATAGCATGGACAGTGCAATCTCTGATGCAACCAGTGAGCTA
+GAAGGCAAGGATGGCAAAGAGGATCTTGATCAATTAGAAAATGTCCCTGTAGAGGAAGAG
+GAAGAATTGCAGTCACAACAGCTACTCCCACAACAGCTGCCTGAATGCAAAGTTGATAGT
+GAAACCAACATAGAAGCTAGTAAGCTACCTACATCTGAACCAGAAGCTGACGCTGAAATA
+GAGCCCAAAGAGAGCAACGGCACAAAACTAGAAGAACCTATTAATGAAGAAACACCATCC
+CAAGATGAAGAGGAGGGTGTGTCTGATGTGGAGAGTGAAAGGAGCCAAGAACAGCCAGAT
+AAAACAGTGGATATAAGTGATTTGGCCACCAAACTCCTGGACAGTTGGAAAGACCTAAAG
+GAGGTATATCGAATTCCAAAGAAAAGTCAAACTGAAAAGGAAAACACAACAACTGAACGA
+GGAAGGGATGCTGTTGGCTTCAGAGATCAAACACCTGCCCCGAAGACTCCTAATAGGTCA
+AGAGAGAGAGACCCAGACAAGCAAACTCAAAATAAAGAGAAAAGGAAACGAAGAAGCTCC
+CTCTCACCACCCTCTTCTGCCTATGAGCGGGGAACAAAAAGGCCAGATGACAGATATGAT
+ACACCAACTTCTAAAAAGAAAGTACGAATTAAAGACCGCAATAAACTTTCTACAGAGGAA
+CGCCGGAAGTTGTTTGAGCAAGAGGTGGCTCAACGGGAGGCTCAGAAACAACAGCAACAG
+ATGCAGAACCTGGGAATGACATCACCACTGCCCTATGACTCTCTTGGTTATAATGCCCCG
+CATCATCCCTTTGCTGGTTACCCACCAGGTTATCCCATGCAGGCCTATGTGGATCCCAGC
+AACCCTAATGCTGGAAAGGTGCTCCTGCCCACACCCAGCATGGACCCAGTGTGTTCTCCT
+GCTCCTTATGATCATGCTCAGCCCTTGGTGGGACATTCTACAGAACCCCTTTCTGCCCCT
+CCACCAGTACCAGTGGTGCCACATGTGGCAGCTCCTGTGGAAGTTTCCAGTTCCCAGTAT
+GTGGCCCAGAGTGATGGTGTAGTACACCAAGACTCCAGCGTTGCTGTCTTGCCAGTGCCG
+GCCCCCGGCCCAGTTCAGGGACAGAATTATAGTGTTTGGGATTCAAACCAACAGTCTGTC
+AGTGTACAGCAGCAGTACTCTCCTGCACAGTCTCAAGCAACCATATATTATCAAGGACAG
+ACATGTCCAACAGTCTATGGTGTGACATCACCTTATTCACAGACAACTCCACCAATTGTA
+CAGAGTTATGCCCAGCCAAGTCTTCAGTATATCCAGGGGCAACAGATTTTCACAGCTCAT
+CCACAAGGAGTGGTGGTACAGCCAGCCGCAGCAGTGACTACAATAGTTGCACCAGGGCAG
+CCTCAGCCCTTGCAGCCATCTGAAATGGTTGTGACAAATAATCTCTTGGATCTGCCGCCC
+CCCTCTCCTCCCAAACCAAAAACCATTGTCTTACCTCCCAACTGGAAGACAGCTCGAGAT
+CCAGAAGGGAAGATTTATTACTACCATGTGATCACAAGGCAGACTCAGTGGGATCCTCCT
+ACTTGGGAAAGCCCAGGAGATGATGCCAGCCTTGAGCATGAAGCTGAGATGGACCTGGGA
+ACTCCAACATATGATGAAAACCCCATGAAGGCCTCGAAAAAGCCCAAGACAGCAGAAGCA
+GACACCTCCAGTGAACTAGCAAAGAAAAGCAAAGAAGTATTCAGAAAAGAGATGTCCCAG
+TTCATCGTCCAGTGCCTGAACCCTTACCGGAAACCTGACTGCAAAGTGGGAAGAATTACC
+ACAACTGAAGACTTTAAACATCTGGCTCGCAAGCTGACTCACGGTGTTATGAATAAGGAG
+CTGAAGTACTGTAAGAATCCTGAGGACCTGGAGTGCAATGAGAATGTGAAACACAAAACC
+AAGGAGTACATTAAGAAGTACATGCAGAAGTTTGGGGCTGTTTACAAACCCAAAGAGGAC
+ACTGAATTAGAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2564</residue_number>
+    <molecular_weight>287594.195</molecular_weight>
+    <theoretical_pi>6.137</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>SET</name>
+        <pfam_id>PF00856</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SRI</name>
+        <pfam_id>PF08236</pfam_id>
+      </pfam>
+      <pfam>
+        <name>WW</name>
+        <pfam_id>PF00397</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Histone-lysine N-methyltransferase SETD2
+MKQLQPQPPPKMGDFYDPEHPTPEEEENEAKIENVQKTGFIKGPMFKGVASSRFLPKGTK
+TKVNLEEQGRQKVSFSFSLTKKTLQNRFLTALGNEKQSDTPNPPAVPLQVDSTPKMKMEI
+GDTLSTAEESSPPKSRVELGKIHFKKHLLHVTSRPLLATTTAVASPPTHAAPLPAVIAES
+TTVDSPPSSPPPPPPPAQATTLSSPAPVTEPVALPHTPITVLMAAPVPLPVDVAVRSLKE
+PPIIIVPESLEADTKQDTISNSLEEHVTQILNEQADISSKKEDSHIGKDEEIPDSSKISL
+SCKKTGSKKKSSQSEGIFLGSESDEDSVRTSSSQRSHDLKFSASIEKERDFKKSSAPLKS
+EDLGKPSRSKTDRDDKYFSYSKLERDTRYVSSRCRSERERRRSRSHSRSERGSRTNLSYS
+RSERSHYYDSDRRYHRSSPYRERTRYSRPYTDNRARESSDSEEEYKKTYSRRTSSHSSSY
+RDLRTSSYSKSDRDCKTETSYLEMERRGKYSSKLERESKRTSENEAIKRCCSPPNELGFR
+RGSSYSKHDSSASRYKSTLSKPIPKSDKFKNSFCCTELNEEIKQSHSFSLQTPCSKGSEL
+RMINKNPEREKAGSPAPSNRLNDSPTLKKLDELPIFKSEFITHDSHDSIKELDSLSKVKN
+DQLRSFCPIELNINGSPGAESDLATFCTSKTDAVLMTSDDSVTGSELSPLVKACMLSSNG
+FQNISRCKEKDLDDTCMLHKKSESPFRETEPLVSPHQDKLMSMPVMTVDYSKTVVKEPVD
+TRVSCCKTKDSDIYCTLNDSNPSLCNSEAENIEPSVMKISSNSFMNVHLESKPVICDSRN
+LTDHSKFACEEYKQSIGSTSSASVNHFDDLYQPIGSSGIASSLQSLPPGIKVDSLTLLKC
+GENTSPVLDAVLKSKKSSEFLKHAGKETIVEVGSDLPDSGKGFASRENRRNNGLSGKCLQ
+EAQEEGNSILPERRGRPEISLDERGEGGHVHTSDDSEVVFSSCDLNLTMEDSDGVTYALK
+CDSSGHAPEIVSTVHEDYSGSSESSNDESDSEDTDSDDSSIPRNRLQSVVVVPKNSTLPM
+EETSPCSSRSSQSYRHYSDHWEDERLESRRHLYEEKFESIASKACPQTDKFFLHKGTEKN
+PEISFTQSSRKQIDNRLPELSHPQSDGVDSTSHTDVKSDPLGHPNSEETVKAKIPSRQQE
+ELPIYSSDFEDVPNKSWQQTTFQNRPDSRLGKTELSFSSSCEIPHVDGLHSSEELRNLGW
+DFSQEKPSTTYQQPDSSYGACGGHKYQQNAEQYGGTRDYWQGNGYWDPRSGRPPGTGVVY
+DRTQGQVPDSLTDDREEEENWDQQDGSHFSDQSDKFLLSLQKDKGSVQAPEISSNSIKDT
+LAVNEKKDFSKNLEKNDIKDRGPLKKRRQEIESDSESDGELQDRKKVRVEVEQGETSVPP
+GSALVGPSCVMDDFRDPQRWKECAKQGKMPCYFDLIEENVYLTERKKNKSHRDIKRMQCE
+CTPLSKDERAQGEIACGEDCLNRLLMIECSSRCPNGDYCSNRRFQRKQHADVEVILTEKK
+GWGLRAAKDLPSNTFVLEYCGEVLDHKEFKARVKEYARNKNIHYYFMALKNDEIIDATQK
+GNCSRFMNHSCEPNCETQKWTVNGQLRVGFFTTKLVPSGSELTFDYQFQRYGKEAQKCFC
+GSANCRGYLGGENRVSIRAAGGKMKKERSRKKDSVDGELEALMENGEGLSDKNQVLSLSR
+LMVRIETLEQKLTCLELIQNTHSQSCLKSFLERHGLSLLWIWMAELGDGRESNQKLQEEI
+IKTLEHLPIPTKNMLEESKVLPIIQRWSQTKTAVPPLSEGDGYSSENTSRAHTPLNTPDP
+STKLSTEADTDTPKKLMFRRLKIISENSMDSAISDATSELEGKDGKEDLDQLENVPVEEE
+EELQSQQLLPQQLPECKVDSETNIEASKLPTSEPEADAEIEPKESNGTKLEEPINEETPS
+QDEEEGVSDVESERSQEQPDKTVDISDLATKLLDSWKDLKEVYRIPKKSQTEKENTTTER
+GRDAVGFRDQTPAPKTPNRSRERDPDKQTQNKEKRKRRSSLSPPSSAYERGTKRPDDRYD
+TPTSKKKVRIKDRNKLSTEERRKLFEQEVAQREAQKQQQQMQNLGMTSPLPYDSLGYNAP
+HHPFAGYPPGYPMQAYVDPSNPNAGKVLLPTPSMDPVCSPAPYDHAQPLVGHSTEPLSAP
+PPVPVVPHVAAPVEVSSSQYVAQSDGVVHQDSSVAVLPVPAPGPVQGQNYSVWDSNQQSV
+SVQQQYSPAQSQATIYYQGQTCPTVYGVTSPYSQTTPPIVQSYAQPSLQYIQGQQIFTAH
+PQGVVVQPAAAVTTIVAPGQPQPLQPSEMVVTNNLLDLPPPSPPKPKTIVLPPNWKTARD
+PEGKIYYYHVITRQTQWDPPTWESPGDDASLEHEAEMDLGTPTYDENPMKASKKPKTAEA
+DTSSELAKKSKEVFRKEMSQFIVQCLNPYRKPDCKVGRITTTEDFKHLARKLTHGVMNKE
+LKYCKNPEDLECNENVKHKTKEYIKKYMQKFGAVYKPKEDTELE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>197313748</genbank_protein_id>
+  <uniprot_id>Q9BYW2</uniprot_id>
+  <uniprot_name>SETD2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2A7O</pdb_id>
+    <pdb_id>4FMU</pdb_id>
+    <pdb_id>4H12</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_014159.6</genbank_gene_id>
+  <genecard_id>SETD2</genecard_id>
+  <geneatlas_id>SETD2</geneatlas_id>
+  <hgnc_id>HGNC:18420</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Muzny DM, Scherer SE, Kaul R, Wang J, Yu J, Sudbrak R, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Wei S, Wheeler DA, Wright MW, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clendenning J, Clerc-Blankenburg KP, Chen R, Chen Z, Davis C, Delgado O, Dinh HH, Dong W, Draper H, Ernst S, Fu G, Gonzalez-Garay ML, Garcia DK, Gillett W, Gu J, Hao B, Haugen E, Havlak P, He X, Hennig S, Hu S, Huang W, Jackson LR, Jacob LS, Kelly SH, Kube M, Levy R, Li Z, Liu B, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Palmeiri A, Pasternak S, Perez LM, Phelps KA, Plopper FJ, Qiang B, Raymond C, Rodriguez R, Saenphimmachak C, Santibanez J, Shen H, Shen Y, Subramanian S, Tabor PE, Verduzco D, Waldron L, Wang J, Wang J, Wang Q, Williams GA, Wong GK, Yao Z, Zhang J, Zhang X, Zhao G, Zhou J, Zhou Y, Nelson D, Lehrach H, Reinhardt R, Naylor SL, Yang H, Olson M, Weinstock G, Gibbs RA: The DNA sequence, annotation and analysis of human chromosome 3.  Nature. 2006 Apr 27;440(7088):1194-8.</reference_text>
+      <pubmed_id>16641997</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rega S, Stiewe T, Chang DI, Pollmeier B, Esche H, Bardenheuer W, Marquitan G, Putzer BM: Identification of the full-length huntingtin- interacting protein p231HBP/HYPB as a DNA-binding factor. Mol Cell Neurosci. 2001 Jul;18(1):68-79.</reference_text>
+      <pubmed_id>11461154</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun XJ, Wei J, Wu XY, Hu M, Wang L, Wang HH, Zhang QH, Chen SJ, Huang QH, Chen Z: Identification and characterization of a novel human histone H3 lysine 36-specific methyltransferase. J Biol Chem. 2005 Oct 21;280(42):35261-71. Epub 2005 Aug 22.</reference_text>
+      <pubmed_id>16118227</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Kikuno R, Hattori A, Kondo Y, Okumura K, Ohara O: Prediction of the coding sequences of unidentified human genes. XIX. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 2000 Dec 31;7(6):347-55.</reference_text>
+      <pubmed_id>11214970</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakajima D, Okazaki N, Yamakawa H, Kikuno R, Ohara O, Nagase T: Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones. DNA Res. 2002 Jun 30;9(3):99-106.</reference_text>
+      <pubmed_id>12168954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang QH, Ye M, Wu XY, Ren SX, Zhao M, Zhao CJ, Fu G, Shen Y, Fan HY, Lu G, Zhong M, Xu XR, Han ZG, Zhang JW, Tao J, Huang QH, Zhou J, Hu GX, Gu J, Chen SJ, Chen Z: Cloning and functional analysis of cDNAs with open reading frames for 300 previously undefined genes expressed in CD34+ hematopoietic stem/progenitor cells. Genome Res. 2000 Oct;10(10):1546-60.</reference_text>
+      <pubmed_id>11042152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Faber PW, Barnes GT, Srinidhi J, Chen J, Gusella JF, MacDonald ME: Huntingtin interacts with a family of WW domain proteins.  Hum Mol Genet. 1998 Sep;7(9):1463-74.</reference_text>
+      <pubmed_id>9700202</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Passani LA, Bedford MT, Faber PW, McGinnis KM, Sharp AH, Gusella JF, Vonsattel JP, MacDonald ME: Huntingtin's WW domain partners in Huntington's disease post-mortem brain fulfill genetic criteria for direct involvement in Huntington's disease pathogenesis. Hum Mol Genet. 2000 Sep 1;9(14):2175-82.</reference_text>
+      <pubmed_id>10958656</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li M, Phatnani HP, Guan Z, Sage H, Greenleaf AL, Zhou P: Solution structure of the Set2-Rpb1 interacting domain of human Set2 and its interaction with the hyperphosphorylated C-terminal domain of Rpb1. Proc Natl Acad Sci U S A. 2005 Dec 6;102(49):17636-41. Epub 2005 Nov 28.</reference_text>
+      <pubmed_id>16314571</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

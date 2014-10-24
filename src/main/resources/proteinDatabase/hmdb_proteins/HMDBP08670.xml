@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:13:47 -0700</creation_date>
+  <update_date>2013-05-27 11:05:31 -0600</update_date>
+  <accession>HMDBP08670</accession>
+  <secondary_accessions>
+    <accession>14389</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>B-diox-II</synonym>
+    <synonym>Beta-carotene dioxygenase 2</synonym>
+  </synonyms>
+  <gene_name>BCO2</gene_name>
+  <general_function>Secondary metabolites biosynthesis, transport and catabolism</general_function>
+  <specific_function>Asymmetrically cleaves beta-carotene at the 9',10' double bond resulting in the formation of beta-apo-10'-carotenal and beta-ionone. Besides beta-carotene, lycopene is also oxidatively cleaved. The apocarotenals formed by this enzyme may be the precursors for the biosynthesis of retinoic acid or exert unknown physiological effects.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03000</accession>
+      <name>Lycopene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00561</accession>
+      <name>B-Carotene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB36565</accession>
+      <name>beta-Ionone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen</description>
+      <go_id>GO:0016702</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carotene catabolic process</description>
+      <go_id>GO:0016121</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>carotenoid metabolic process</description>
+      <go_id>GO:0016116</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of mitochondrial membrane potential</description>
+      <go_id>GO:0051881</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of reactive oxygen species metabolic process</description>
+      <go_id>GO:2000377</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retinal metabolic process</description>
+      <go_id>GO:0042574</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>retinoic acid metabolic process</description>
+      <go_id>GO:0042573</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q23.1</locus>
+    <gene_sequence>&gt;1740 bp
+ATGTTTTTTCGAGTCTTTCTCCATTTTATCAGGAGTCATTCTGCCACTGCAGTGGATTTC
+CTTCCTGTGATGGTGCACCGGCTCCCAGTTTTCAAAAGGTACATGGGAAATACTCCTCAG
+AAAAAAGCCGTCTTTGGGCAGTGTCGGGGTCTGCCATGTGTTGCACCGCTGCTGACCACA
+GTGGAAGAGGCTCCACGGGGCATCTCTGCTCGAGTCTGGGGACATTTTCCTAAGTGGCTC
+AATGGCTCTCTACTTCGAATTGGACCTGGGAAATTCGAGTTTGGGAAGGATAAGTACAAT
+CATTGGTTTGATGGGATGGCGCTGCTTCACCAGTTCAGAATGGCAAAGGGCACAGTGACA
+TACAGGAGCAAGTTTCTACAGAGTGATACATATAAGGCCAACAGTGCTAAAAACCGAATT
+GTGATCTCAGAATTTGGCACACTGGCTCTCCCGGATCCATGCAAGAATGTTTTTGAACGT
+TTCATGTCCAGGTTTGAGCTGCCTGGTAAAGCTGCAGCCATGACTGACAATACTAATGTC
+AACTATGTGCGGTACAAGGGTGATTACTACCTCTGCACTGAGACCAACTTTATGAATAAA
+GTGGACATTGAAACTCTGGAAAAAACAGAAAAGGTAGATTGGAGCAAATTTATTGCTGTG
+AATGGAGCAACTGCACATCCTCATTATGACCTGGATGGAACAGCATACAATATGGGGAAC
+TCCTTTGGGCCATATGGTTTCTCCTATAAGGTTATTCGGGTTCCTCCAGAGAAGGTGGAC
+CTTGGGGAGACAATCCATGGAGTCCAGGTGATATGTTCTATTGCTTCTACAGAGAAAGGG
+AAACCTTCTTACTACCATAGCTTTGGAATGACAAGGAACTATATAATTTTCATTGAACAA
+CCTCTAAAGATGAACCTGTGGAAAATTGCCACTTCTAAAATTCGGGGAAAGGCCTTTTCA
+GATGGGATAAGCTGGGAACCCCAGTGTAATACGCGGTTTCATGTGGTGGAAAAACGCACT
+GGACAGCTCCTTCCAGGGAGATACTACAGCAAACCTTTTGTTACATTTCATCAAATCAAT
+GCCTTTGAGGACCAGGGCTGTGTTATAATTGATTTGTGCTGTCAAGATAATGGAAGAACC
+CTAGAAGTTTACCAGTTACAGAATCTCAGGAAGGCTGGGGAAGGGCTTGATCAGGTCCAT
+AATTCAGCAGCCAAATCTTTCCCTCGAAGGTTTGTTTTGCCTTTAAATGTCAGTTTGAAT
+GCCCCTGAGGGAGACAACCTGAGTCCATTGTCCTATACTTCAGCCAGTGCTGTGAAACAG
+GCTGATGGAACGATCTGGTGCTCTCATGAAAATCTACATCAGGAGGACCTAGAAAAGGAA
+GGAGGCATTGAATTTCCTCAGATCTACTATGATCGATTCAGTGGCAAAAAGTATCATTTC
+TTTTATGGCTGTGGCTTTCGGCATTTAGTGGGGGATTCTCTGATCAAGGTTGATGTGGTG
+AATAAGACACTGAAGGTTTGGAGAGAAGATGGCTTTTATCCCTCAGAACCTGTTTTTGTT
+CCAGCACCAGGAACCAATGAAGAAGATGGTGGGGTTATTCTTTCTGTGGTGATCACTCCC
+AACCAGAATGAAAGCAATTTTATCCTAGTTTTGGATGCCAAGAACTTTGAAGAGCTGGGC
+CGAGCAGAGGTACCTGTGCAGATGCCTTATGGGTTCCATGGTACCTTCATACCCATCTGA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>579</residue_number>
+    <molecular_weight>61509.65</molecular_weight>
+    <theoretical_pi>7.964</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>RPE65</name>
+        <pfam_id>PF03055</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Beta,beta-carotene 9',10'-oxygenase
+MFFRVFLHFIRSHSATAVDFLPVMVHRLPVFKRYMGNTPQKKAVFGQCRGLPCVAPLLTT
+VEEAPRGISARVWGHFPKWLNGSLLRIGPGKFEFGKDKYNHWFDGMALLHQFRMAKGTVT
+YRSKFLQSDTYKANSAKNRIVISEFGTLALPDPCKNVFERFMSRFELPGKAAAMTDNTNV
+NYVRYKGDYYLCTETNFMNKVDIETLEKTEKVDWSKFIAVNGATAHPHYDLDGTAYNMGN
+SFGPYGFSYKVIRVPPEKVDLGETIHGVQVICSIASTEKGKPSYYHSFGMTRNYIIFIEQ
+PLKMNLWKIATSKIRGKAFSDGISWEPQCNTRFHVVEKRTGQLLPGRYYSKPFVTFHQIN
+AFEDQGCVIIDLCCQDNGRTLEVYQLQNLRKAGEGLDQVHNSAAKSFPRRFVLPLNVSLN
+APEGDNLSPLSYTSASAVKQADGTIWCSHENLHQEDLEKEGGIEFPQIYYDRFSGKKYHF
+FYGCGFRHLVGDSLIKVDVVNKTLKVWREDGFYPSEPVFVPAPGTNEEDGGVILSVVITP
+NQNESNFILVLDAKNFEELGRAEVPVQMPYGFHGTFIPI</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>82617624</genbank_protein_id>
+  <uniprot_id>Q9BYV7</uniprot_id>
+  <uniprot_name>BCDO2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_031938.4</genbank_gene_id>
+  <genecard_id>BCO2</genecard_id>
+  <geneatlas_id>BCO2</geneatlas_id>
+  <hgnc_id>HGNC:18503</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kiefer C, Hessel S, Lampert JM, Vogt K, Lederer MO, Breithaupt DE, von Lintig J: Identification and characterization of a mammalian enzyme catalyzing the asymmetric oxidative cleavage of provitamin A. J Biol Chem. 2001 Apr 27;276(17):14110-6. Epub 2001 Jan 29.</reference_text>
+      <pubmed_id>11278918</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lindqvist A, He YG, Andersson S: Cell type-specific expression of beta-carotene 9',10'-monooxygenase in human tissues. J Histochem Cytochem. 2005 Nov;53(11):1403-12. Epub 2005 Jun 27.</reference_text>
+      <pubmed_id>15983114</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:54 -0700</creation_date>
+  <update_date>2013-05-27 11:38:36 -0600</update_date>
+  <accession>HMDBP00087</accession>
+  <secondary_accessions>
+    <accession>5319</accession>
+    <accession>HMDBP03837</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>LB24-AB</synonym>
+    <synonym>Monophenol monooxygenase</synonym>
+    <synonym>SK29-AB</synonym>
+    <synonym>Tumor rejection antigen AB</synonym>
+  </synonyms>
+  <gene_name>TYR</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>This is a copper-containing oxidase that functions in the formation of pigments such as melanins and other polyphenolic compounds. Catalyzes the rate-limiting conversions of tyrosine to DOPA, DOPA to DOPA-quinone and possibly 5,6-dihydroxyindole to indole-5,6 quinone.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Tyrosine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Riboflavin metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00740</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Melanogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04916</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03364</accession>
+      <name>Quinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02434</accession>
+      <name>Hydroquinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04058</accession>
+      <name>5,6-Dihydroxyindole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01229</accession>
+      <name>Dopaquinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06779</accession>
+      <name>Indole-5,6-quinone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00181</accession>
+      <name>L-Dopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01430</accession>
+      <name>L-Dopachrome</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00158</accession>
+      <name>L-Tyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00657</accession>
+      <name>Copper</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00027</accession>
+      <name>Tetrahydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00038</accession>
+      <name>Dihydrobiopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00609</accession>
+      <name>DL-Dopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02035</accession>
+      <name>4-Hydroxycinnamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03501</accession>
+      <name>3,4-Dihydroxy-trans-cinnamate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06921</accession>
+      <name>(S)-3-Hydroxy-N-methylcoclaurine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00784</accession>
+      <name>Azelaic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14738</accession>
+      <name>Monobenzone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15188</accession>
+      <name>Mimosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00306</accession>
+      <name>Tyramine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00073</accession>
+      <name>Dopamine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60319</accession>
+      <name>(S)-N-Methylcoclaurine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi-associated vesicle</description>
+      <go_id>GO:0005798</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lysosome</description>
+      <go_id>GO:0005764</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>melanosome</description>
+      <go_id>GO:0042470</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>melanosome membrane</description>
+      <go_id>GO:0033162</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>perinuclear region of cytoplasm</description>
+      <go_id>GO:0048471</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>copper ion binding</description>
+      <go_id>GO:0005507</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>monophenol monooxygenase activity</description>
+      <go_id>GO:0004503</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein heterodimerization activity</description>
+      <go_id>GO:0046982</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>eye pigment biosynthetic process</description>
+      <go_id>GO:0006726</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>melanin biosynthetic process from tyrosine</description>
+      <go_id>GO:0006583</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>thymus development</description>
+      <go_id>GO:0048538</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>visual perception</description>
+      <go_id>GO:0007601</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Melanosome membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q14-q21</locus>
+    <gene_sequence>&gt;1590 bp
+ATGCTCCTGGCTGTTTTGTACTGCCTGCTGTGGAGTTTCCAGACCTCCGCTGGCCATTTC
+CCTAGAGCCTGTGTCTCCTCTAAGAACCTGATGGAGAAGGAATGCTGTCCACCGTGGAGC
+GGGGACAGGAGTCCCTGTGGCCAGCTTTCAGGCAGAGGTTCCTGTCAGAATATCCTTCTG
+TCCAATGCACCACTTGGGCCTCAATTTCCCTTCACAGGGGTGGATGACCGGGAGTCGTGG
+CCTTCCGTCTTTTATAATAGGACCTGCCAGTGCTCTGGCAACTTCATGGGATTCAACTGT
+GGAAACTGCAAGTTTGGCTTTTGGGGACCAAACTGCACAGAGAGACGACTCTTGGTGAGA
+AGAAACATCTTCGATTTGAGTGCCCCAGAGAAGGACAAATTTTTTGCCTACCTCACTTTA
+GCAAAGCATACCATCAGCTCAGACTATGTCATCCCCATAGGGACCTATGGCCAAATGAAA
+AATGGATCAACACCCATGTTTAACGACATCAATATTTATGACCTCTTTGTCTGGATGCAT
+TATTATGTGTCAATGGATGCACTGCTTGGGGGATCTGAAATCTGGAGAGACATTGATTTT
+GCCCATGAAGCACCAGCTTTTCTGCCTTGGCATAGACTCTTCTTGTTGCGGTGGGAACAA
+GAAATCCAGAAGCTGACAGGAGATGAAAACTTCACTATTCCATATTGGGACTGGCGGGAT
+GCAGAAAAGTGTGACATTTGCACAGATGAGTACATGGGAGGTCAGCACCCCACAAATCCT
+AACTTACTCAGCCCAGCATCATTCTTCTCCTCTTGGCAGATTGTCTGTAGCCGATTGGAG
+GAGTACAACAGCCATCAGTCTTTATGCAATGGAACGCCCGAGGGACCTTTACGGCGTAAT
+CCTGGAAACCATGACAAATCCAGAACCCCAAGGCTCCCCTCTTCAGCTGATGTAGAATTT
+TGCCTGAGTTTGACCCAATATGAATCTGGTTCCATGGATAAAGCTGCCAATTTCAGCTTT
+AGAAATACACTGGAAGGATTTGCTAGTCCACTTACTGGGATAGCGGATGCCTCTCAAAGC
+AGCATGCACAATGCCTTGCACATCTATATGAATGGAACAATGTCCCAGGTACAGGGATCT
+GCCAACGATCCTATCTTCCTTCTTCACCATGCATTTGTTGACAGTATTTTTGAGCAGTGG
+CTCCGAAGGCACCGTCCTCTTCAAGAAGTTTATCCAGAAGCCAATGCACCCATTGGACAT
+AACCGGGAATCCTACATGGTTCCTTTTATACCACTGTACAGAAATGGTGATTTCTTTATT
+TCATCCAAAGATCTGGGCTATGACTATAGCTATCTACAAGATTCAGACCCAGACTCTTTT
+CAAGACTACATTAAGTCCTATTTGGAACAAGCGAGTCGGATCTGGTCATGGCTCCTTGGG
+GCGGCGATGGTAGGGGCCGTCCTCACTGCCCTGCTGGCAGGGCTTGTGAGCTTGCTGTGT
+CGTCACAAGAGAAAGCAGCTTCCTGAAGAAAAGCAGCCACTCCTCATGGAGAAAGAGGAT
+TACCACAGCTTGTATCAGAGCCATTTATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>529</residue_number>
+    <molecular_weight>60392.69</molecular_weight>
+    <theoretical_pi>6.118</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Tyrosinase</name>
+        <pfam_id>PF00264</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tyrosinase
+MLLAVLYCLLWSFQTSAGHFPRACVSSKNLMEKECCPPWSGDRSPCGQLSGRGSCQNILL
+SNAPLGPQFPFTGVDDRESWPSVFYNRTCQCSGNFMGFNCGNCKFGFWGPNCTERRLLVR
+RNIFDLSAPEKDKFFAYLTLAKHTISSDYVIPIGTYGQMKNGSTPMFNDINIYDLFVWMH
+YYVSMDALLGGSEIWRDIDFAHEAPAFLPWHRLFLLRWEQEIQKLTGDENFTIPYWDWRD
+AEKCDICTDEYMGGQHPTNPNLLSPASFFSSWQIVCSRLEEYNSHQSLCNGTPEGPLRRN
+PGNHDKSRTPRLPSSADVEFCLSLTQYESGSMDKAANFSFRNTLEGFASPLTGIADASQS
+SMHNALHIYMNGTMSQVQGSANDPIFLLHHAFVDSIFEQWLRRHRPLQEVYPEANAPIGH
+NRESYMVPFIPLYRNGDFFISSKDLGYDYSYLQDSDPDSFQDYIKSYLEQASRIWSWLLG
+AAMVGAVLTALLAGLVSLLCRHKRKQLPEEKQPLLMEKEDYHSLYQSHL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>340037</genbank_protein_id>
+  <uniprot_id>P14679</uniprot_id>
+  <uniprot_name>TYRO_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M27160</genbank_gene_id>
+  <genecard_id>TYR</genecard_id>
+  <geneatlas_id>TYR</geneatlas_id>
+  <hgnc_id>HGNC:12442</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Giebel LB, Strunk KM, Spritz RA: Organization and nucleotide sequences of the human tyrosinase gene and a truncated tyrosinase-related segment. Genomics. 1991 Mar;9(3):435-45.</reference_text>
+      <pubmed_id>1903356</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kwon BS, Haq AK, Pomerantz SH, Halaban R: Isolation and sequence of a cDNA clone for human tyrosinase that maps at the mouse c-albino locus. Proc Natl Acad Sci U S A. 1987 Nov;84(21):7473-7.</reference_text>
+      <pubmed_id>2823263</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bouchard B, Fuller BB, Vijayasaradhi S, Houghton AN: Induction of pigmentation in mouse fibroblasts by expression of human tyrosinase cDNA. J Exp Med. 1989 Jun 1;169(6):2029-42.</reference_text>
+      <pubmed_id>2499655</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chintamaneni CD, Halaban R, Kobayashi Y, Witkop CJ Jr, Kwon BS: A single base insertion in the putative transmembrane domain of the tyrosinase gene as a cause for tyrosinase-negative oculocutaneous albinism. Proc Natl Acad Sci U S A. 1991 Jun 15;88(12):5272-6.</reference_text>
+      <pubmed_id>1711223</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brichard V, Van Pel A, Wolfel T, Wolfel C, De Plaen E, Lethe B, Coulie P, Boon T: The tyrosinase gene codes for an antigen recognized by autologous cytolytic T lymphocytes on HLA-A2 melanomas. J Exp Med. 1993 Aug 1;178(2):489-95.</reference_text>
+      <pubmed_id>8340755</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Martinez-Arias R, Comas D, Andres A, Abello MT, Domingo-Roura X, Bertranpetit J: The tyrosinase gene in gorillas and the albinism of 'Snowflake'.  Pigment Cell Res. 2000 Dec;13(6):467-70.</reference_text>
+      <pubmed_id>11153699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kikuchi H, Miura H, Yamamoto H, Takeuchi T, Dei T, Watanabe M: Characteristic sequences in the upstream region of the human tyrosinase gene. Biochim Biophys Acta. 1989 Dec 22;1009(3):283-6.</reference_text>
+      <pubmed_id>2480811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeda A, Tomita Y, Okinaga S, Tagami H, Shibahara S: Functional analysis of the cDNA encoding human tyrosinase precursor.  Biochem Biophys Res Commun. 1989 Aug 15;162(3):984-90.</reference_text>
+      <pubmed_id>2504160</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murphy WJ, Eizirik E, Johnson WE, Zhang YP, Ryder OA, O'Brien SJ: Molecular phylogenetics and the origins of placental mammals.  Nature. 2001 Feb 1;409(6820):614-8.</reference_text>
+      <pubmed_id>11214319</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oetting WS, King RA: Molecular basis of type I (tyrosinase-related) oculocutaneous albinism: mutations and polymorphisms of the human tyrosinase gene. Hum Mutat. 1993;2(1):1-6.</reference_text>
+      <pubmed_id>8477259</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oetting WS, King RA: Molecular basis of albinism: mutations and polymorphisms of pigmentation genes associated with albinism. Hum Mutat. 1999;13(2):99-115.</reference_text>
+      <pubmed_id>10094567</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Basrur V, Yang F, Kushimoto T, Higashimoto Y, Yasumoto K, Valencia J, Muller J, Vieira WD, Watabe H, Shabanowitz J, Hearing VJ, Hunt DF, Appella E: Proteomic analysis of early melanosomes: identification of novel melanosomal proteins. J Proteome Res. 2003 Jan-Feb;2(1):69-79.</reference_text>
+      <pubmed_id>12643545</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chi A, Valencia JC, Hu ZZ, Watabe H, Yamaguchi H, Mangini NJ, Huang H, Canfield VA, Cheng KC, Yang F, Abe R, Yamagishi S, Shabanowitz J, Hearing VJ, Wu C, Appella E, Hunt DF: Proteomic and bioinformatic characterization of the biogenesis and function of melanosomes. J Proteome Res. 2006 Nov;5(11):3135-44.</reference_text>
+      <pubmed_id>17081065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Spritz RA, Strunk KM, Giebel LB, King RA: Detection of mutations in the tyrosinase gene in a patient with type IA oculocutaneous albinism. N Engl J Med. 1990 Jun 14;322(24):1724-8.</reference_text>
+      <pubmed_id>2342539</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giebel LB, Strunk KM, King RA, Hanifin JM, Spritz RA: A frequent tyrosinase gene mutation in classic, tyrosinase-negative (type IA) oculocutaneous albinism. Proc Natl Acad Sci U S A. 1990 May;87(9):3255-8.</reference_text>
+      <pubmed_id>1970634</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giebel LB, Tripathi RK, Strunk KM, Hanifin JM, Jackson CE, King RA, Spritz RA: Tyrosinase gene mutations associated with type IB (&amp;quot;yellow&amp;quot;) oculocutaneous albinism. Am J Hum Genet. 1991 Jun;48(6):1159-67.</reference_text>
+      <pubmed_id>1903591</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tripathi RK, Strunk KM, Giebel LB, Weleber RG, Spritz RA: Tyrosinase gene mutations in type I (tyrosinase-deficient) oculocutaneous albinism define two clusters of missense substitutions. Am J Med Genet. 1992 Jul 15;43(5):865-71.</reference_text>
+      <pubmed_id>1642278</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Spritz RA, Strunk KM, Hsieh CL, Sekhon GS, Francke U: Homozygous tyrosinase gene mutation in an American black with tyrosinase-negative (type IA) oculocutaneous albinism. Am J Hum Genet. 1991 Feb;48(2):318-24.</reference_text>
+      <pubmed_id>1899321</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Giebel LB, Tripathi RK, King RA, Spritz RA: A tyrosinase gene missense mutation in temperature-sensitive type I oculocutaneous albinism. A human homologue to the Siamese cat and the Himalayan mouse. J Clin Invest. 1991 Mar;87(3):1119-22.</reference_text>
+      <pubmed_id>1900309</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>King RA, Mentink MM, Oetting WS: Non-random distribution of missense mutations within the human tyrosinase gene in type I (tyrosinase-related) oculocutaneous albinism. Mol Biol Med. 1991 Feb;8(1):19-29.</reference_text>
+      <pubmed_id>1943686</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oetting WS, King RA: Molecular analysis of type I-A (tyrosinase negative) oculocutaneous albinism. Hum Genet. 1992 Nov;90(3):258-62.</reference_text>
+      <pubmed_id>1487241</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tripathi RK, Bundey S, Musarella MA, Droetto S, Strunk KM, Holmes SA, Spritz RA: Mutations of the tyrosinase gene in Indo-Pakistani patients with type I (tyrosinase-deficient) oculocutaneous albinism (OCA). Am J Hum Genet. 1993 Dec;53(6):1173-9.</reference_text>
+      <pubmed_id>7902671</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gershoni-Baruch R, Rosenmann A, Droetto S, Holmes S, Tripathi RK, Spritz RA: Mutations of the tyrosinase gene in patients with oculocutaneous albinism from various ethnic groups in Israel. Am J Hum Genet. 1994 Apr;54(4):586-94.</reference_text>
+      <pubmed_id>8128955</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Breimer LH, Winder AF, Jay B, Jay M: Initiation codon mutation of the tyrosinase gene as a cause of human albinism. Clin Chim Acta. 1994 Jun;227(1-2):17-22.</reference_text>
+      <pubmed_id>7955413</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Summers CG, Oetting WS, King RA: Diagnosis of oculocutaneous albinism with molecular analysis.  Am J Ophthalmol. 1996 Jun;121(6):724-6.</reference_text>
+      <pubmed_id>8644824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Morell R, Spritz RA, Ho L, Pierpont J, Guo W, Friedman TB, Asher JH Jr: Apparent digenic inheritance of Waardenburg syndrome type 2 (WS2) and autosomal recessive ocular albinism (AROA). Hum Mol Genet. 1997 May;6(5):659-64.</reference_text>
+      <pubmed_id>9158138</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Spritz RA, Oh J, Fukai K, Holmes SA, Ho L, Chitayat D, France TD, Musarella MA, Orlow SJ, Schnur RE, Weleber RG, Levin AV: Novel mutations of the tyrosinase (TYR) gene in type I oculocutaneous albinism (OCA1). Hum Mutat. 1997;10(2):171-4.</reference_text>
+      <pubmed_id>9259202</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oetting WS, Fryer JP, King RA: Mutations of the human tyrosinase gene associated with tyrosinase related oculocutaneous albinism (OCA1). Mutations in brief no. 204. Online. Hum Mutat. 1998;12(6):433-4.</reference_text>
+      <pubmed_id>10671066</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Passmore LA, Kaesmann-Kellner B, Weber BH: Novel and recurrent mutations in the tyrosinase gene and the P gene in the German albino population. Hum Genet. 1999 Sep;105(3):200-10.</reference_text>
+      <pubmed_id>10987646</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsai CH, Tsai FJ, Wu JY, Lin SP, Chang JG, Yang CF, Lee CC: Insertion/deletion mutations of type I oculocutaneous albinism in chinese patients from Taiwan. Hum Mutat. 1999 Dec;14(6):542.</reference_text>
+      <pubmed_id>10571953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Camand O, Marchant D, Boutboul S, Pequignot M, Odent S, Dollfus H, Sutherland J, Levin A, Menasche M, Marsac C, Dufier JL, Heon E, Abitbol M: Mutation analysis of the tyrosinase gene in oculocutaneous albinism.  Hum Mutat. 2001 Apr;17(4):352.</reference_text>
+      <pubmed_id>11295837</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakamura E, Miyamura Y, Matsunaga J, Kano Y, Dakeishi-Hara M, Tanita M, Kono M, Tomita Y: A novel mutation of the tyrosinase gene causing oculocutaneous albinism type 1 (OCA1). J Dermatol Sci. 2002 Feb;28(2):102-5.</reference_text>
+      <pubmed_id>11858948</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Opitz S, Kasmann-Kellner B, Kaufmann M, Schwinger E, Zuhlke C: Detection of 53 novel DNA variations within the tyrosinase gene and accumulation of mutations in 17 patients with albinism. Hum Mutat. 2004 Jun;23(6):630-1.</reference_text>
+      <pubmed_id>15146472</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stokowski RP, Pant PV, Dadd T, Fereday A, Hinds DA, Jarman C, Filsell W, Ginger RS, Green MR, van der Ouderaa FJ, Cox DR: A genomewide association study of skin pigmentation in a South Asian population. Am J Hum Genet. 2007 Dec;81(6):1119-32. Epub 2007 Oct 15.</reference_text>
+      <pubmed_id>17999355</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sulem P, Gudbjartsson DF, Stacey SN, Helgason A, Rafnar T, Magnusson KP, Manolescu A, Karason A, Palsson A, Thorleifsson G, Jakobsdottir M, Steinberg S, Palsson S, Jonasson F, Sigurgeirsson B, Thorisdottir K, Ragnarsson R, Benediktsdottir KR, Aben KK, Kiemeney LA, Olafsson JH, Gulcher J, Kong A, Thorsteinsdottir U, Stefansson K: Genetic determinants of hair, eye and skin pigmentation in Europeans.  Nat Genet. 2007 Dec;39(12):1443-52. Epub 2007 Oct 21.</reference_text>
+      <pubmed_id>17952075</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tetrahydrobiopterin</name>
+        <accession>HMDB00027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wood JM, Schallreuter-Wood KU, Lindsey NJ, Callaghan S, Gardner ML: A specific tetrahydrobiopterin binding domain on tyrosinase controls melanogenesis. Biochem Biophys Res Commun. 1995 Jan 17;206(2):480-5.</reference_text>
+        <pubmed_id>7826365</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dihydrobiopterin</name>
+        <accession>HMDB00038</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Wood JM, Chavan B, Hafeez I, Schallreuter KU: Regulation of tyrosinase by tetrahydropteridines and H2O2.  Biochem Biophys Res Commun. 2004 Dec 24;325(4):1412-7.</reference_text>
+        <pubmed_id>15555584</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azelaic acid</name>
+        <accession>HMDB00784</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schallreuter KU, Wood JW: A possible mechanism of action for azelaic acid in the human epidermis.  Arch Dermatol Res. 1990;282(3):168-71.</reference_text>
+        <pubmed_id>2114832</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azelaic acid</name>
+        <accession>HMDB00784</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nazzaro-Porro M: Azelaic acid.  J Am Acad Dermatol. 1987 Dec;17(6):1033-41.</reference_text>
+        <pubmed_id>2963038</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azelaic acid</name>
+        <accession>HMDB00784</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Picardo M, Passi S, Sirianni MC, Fiorilli M, Russo GD, Cortesi E, Barile G, Breathnach AS, Nazzaro-Porro M: Activity of azelaic acid on cultures of lymphoma- and leukemia-derived cell lines, normal resting and stimulated lymphocytes and 3T3 fibroblasts. Biochem Pharmacol. 1985 May 15;34(10):1653-8.</reference_text>
+        <pubmed_id>4004885</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Azelaic acid</name>
+        <accession>HMDB00784</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nazzaro-Porro M, Passi S, Balus L, Breathnach A, Martin B, Morpurgo G: Effect of dicarboxylic acids on lentigo maligna.  J Invest Dermatol. 1979 Jun;72(6):296-305.</reference_text>
+        <pubmed_id>448162</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Monobenzone</name>
+        <accession>HMDB14738</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen YR, Y-Y R, Lin TY, Huang CP, Tang WC, Chen ST, Lin SB: Identification of an Alkylhydroquinone from Rhus succedanea as an Inhibitor of Tyrosinase and Melanogenesis. J Agric Food Chem. 2009 Mar 25;57(6):2200-5.</reference_text>
+        <pubmed_id>19159217</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mimosine</name>
+        <accession>HMDB15188</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ahmad VU, Ullah F, Hussain J, Farooq U, Zubair M, Khan MT, Choudhary MI: Tyrosinase inhibitors from Rhododendron collettianum and their structure-activity relationship (SAR) studies. Chem Pharm Bull (Tokyo). 2004 Dec;52(12):1458-61.</reference_text>
+        <pubmed_id>15577244</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mimosine</name>
+        <accession>HMDB15188</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Khan KM, Mughal UR, Khan MT, Zia-Ullah, Perveen S, Choudhary MI: Oxazolones: new tyrosinase inhibitors; synthesis and their structure-activity relationships. Bioorg Med Chem. 2006 Sep 1;14(17):6027-33. Epub 2006 Jun 5.</reference_text>
+        <pubmed_id>16750372</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mimosine</name>
+        <accession>HMDB15188</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sugumaran M: Tyrosinase catalyzes an unusual oxidative decarboxylation of 3,4-dihydroxymandelate. Biochemistry. 1986 Aug 12;25(16):4489-92.</reference_text>
+        <pubmed_id>3094574</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Mimosine</name>
+        <accession>HMDB15188</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Woolery GL, Powers L, Winkler M, Solomon EI, Lerch K, Spiro TG: Extended X-ray absorption fine structure study of the coupled binuclear copper active site of tyrosinase from Neurospora crassa. Biochim Biophys Acta. 1984 Jul 31;788(2):155-61.</reference_text>
+        <pubmed_id>6234942</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

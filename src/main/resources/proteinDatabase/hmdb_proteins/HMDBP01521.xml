@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:17 -0700</creation_date>
+  <update_date>2013-01-15 18:57:17 -0700</update_date>
+  <accession>HMDBP01521</accession>
+  <secondary_accessions>
+    <accession>6817</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CD220 antigen</synonym>
+    <synonym>IR</synonym>
+    <synonym>Insulin receptor subunit alpha</synonym>
+    <synonym>Insulin receptor subunit beta</synonym>
+  </synonyms>
+  <gene_name>INSR</gene_name>
+  <general_function>Involved in transmembrane receptor protein tyrosine kinase activity</general_function>
+  <specific_function>This receptor binds insulin and has a tyrosine-protein kinase activity. Isoform Short has a higher affinity for insulin. Mediates the metabolic functions of insulin. Binding to insulin stimulates association of the receptor with downstream mediators including IRS1 and phosphatidylinositol 3'-kinase (PI3K). Can activate PI3K either directly by binding to the p85 regulatory subunit, or indirectly via IRS1. When present in a hybrid receptor with IGF1R, binds IGF1. PubMed:12138094 shows that hybrid receptors composed of IGF1R and INSR isoform Long are activated with a high affinity by IGF1, with low affinity by IGF2 and not significantly activated by insulin, and that hybrid receptors composed of IGF1R and INSR isoform Short are activated by IGF1, IGF2 and insulin. In contrast, PubMed:16831875 shows that hybrid receptors composed of IGF1R and INSR isoform Long and hybrid receptors composed of IGF1R and INSR isoform Short have similar binding characteristics, both bind IGF1 and have a low affinity for insulin</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane receptor protein tyrosine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to endogenous stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to hormone stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to peptide hormone stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid autophosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cell surface receptor linked signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>enzyme linked receptor protein signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane receptor protein tyrosine kinase signaling pathway</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>19p13.3-p13.2</locus>
+    <gene_sequence>&gt;4149 bp
+ATGGGCACCGGGGGCCGGCGGGGGGCGGCGGCCGCGCCGCTGCTGGTGGCGGTGGCCGCG
+CTGCTACTGGGCGCCGCGGGCCACCTGTACCCCGGAGAGGTGTGTCCCGGCATGGATATC
+CGGAACAACCTCACTAGGTTGCATGAGCTGGAGAATTGCTCTGTCATCGAAGGACACTTG
+CAGATACTCTTGATGTTCAAAACGAGGCCCGAAGATTTCCGAGACCTCAGTTTCCCCAAA
+CTCATCATGATCACTGATTACTTGCTGCTCTTCCGGGTCTATGGGCTCGAGAGCCTGAAG
+GACCTGTTCCCCAACCTCACGGTCATCCGGGGATCACGACTGTTCTTTAACTACGCGCTG
+GTCATCTTCGAGATGGTTCACCTCAAGGAACTCGGCCTCTACAACCTGATGAACATCACC
+CGGGGTTCTGTCCGCATCGAGAAGAACAATGAGCTCTGTTACTTGGCCACTATCGACTGG
+TCCCGTATCCTGGATTCCGTGGAGGATAATCACATCGTGTTGAACAAAGATGACAACGAG
+GAGTGTGGAGACATCTGTCCGGGTACCGCGAAGGGCAAGACCAACTGCCCCGCCACCGTC
+ATCAACGGGCAGTTTGTCGAACGATGTTGGACTCATAGTCACTGCCAGAAAGTTTGCCCG
+ACCATCTGTAAGTCACACGGCTGCACCGCCGAAGGCCTCTGTTGCCACAGCGAGTGCCTG
+GGCAACTGTTCTCAGCCCGACGACCCCACCAAGTGCGTGGCCTGCCGCAACTTCTACCTG
+GACGGCAGGTGTGTGGAGACCTGCCCGCCCCCGTACTACCACTTCCAGGACTGGCGCTGT
+GTGAACTTCAGCTTCTGCCAGGACCTGCACCACAAATGCAAGAACTCGCGGAGGCAGGGC
+TGCCACCAATACGTCATTCACAACAACAAGTGCATCCCTGAGTGTCCCTCCGGGTACACG
+ATGAATTCCAGCAACTTGCTGTGCACCCCATGCCTGGGTCCCTGTCCCAAGGTGTGCCAC
+CTCCTAGAAGGCGAGAAGACCATCGACTCGGTGACGTCTGCCCAGGAGCTCCGAGGATGC
+ACCGTCATCAACGGGAGTCTGATCATCAACATTCGAGGAGGCAACAATCTGGCAGCTGAG
+CTAGAAGCCAACCTCGGCCTCATTGAAGAAATTTCAGGGTATCTAAAAATCCGCCGATCC
+TACGCTCTGGTGTCACTTTCCTTCTTCCGGAAGTTACGTCTGATTCGAGGAGAGACCTTG
+GAAATTGGGAACTACTCCTTCTATGCCTTGGACAACCAGAACCTAAGGCAGCTCTGGGAC
+TGGAGCAAACACAACCTCACCACCACTCAGGGGAAACTCTTCTTCCACTATAACCCCAAA
+CTCTGCTTGTCAGAAATCCACAAGATGGAAGAAGTTTCAGGAACCAAGGGGCGCCAGGAG
+AGAAACGACATTGCCCTGAAGACCAATGGGGACAAGGCATCCTGTGAAAATGAGTTACTT
+AAATTTTCTTACATTCGGACATCTTTTGACAAGATCTTGCTGAGATGGGAGCCGTACTGG
+CCCCCCGACTTCCGAGACCTCTTGGGGTTCATGCTGTTCTACAAAGAGGCCCCTTATCAG
+AATGTGACGGAGTTCGATGGGCAGGATGCGTGTGGTTCCAACAGTTGGACGGTGGTAGAC
+ATTGACCCACCCCTGAGGTCCAACGACCCCAAATCACAGAACCACCCAGGGTGGCTGATG
+CGGGGTCTCAAGCCCTGGACCCAGTATGCCATCTTTGTGAAGACCCTGGTCACCTTTTCG
+GATGAACGCCGGACCTATGGGGCCAAGAGTGACATCATTTATGTCCAGACAGATGCCACC
+AACCCCTCTGTGCCCCTGGATCCAATCTCAGTGTCTAACTCATCATCCCAGATTATTCTG
+AAGTGGAAACCACCCTCCGACCCCAATGGCAACATCACCCACTACCTGGTTTTCTGGGAG
+AGGCAGGCGGAAGACAGTGAGCTGTTCGAGCTGGATTATTGCCTCAAAGGGCTGAAGCTG
+CCCTCGAGGACCTGGTCTCCACCATTCGAGTCTGAAGATTCTCAGAAGCACAACCAGAGT
+GAGTATGAGGATTCGGCCGGCGAATGCTGCTCCTGTCCAAAGACAGACTCTCAGATCCTG
+AAGGAGCTGGAGGAGTCCTCGTTTAGGAAGACGTTTGAGGATTACCTGCACAACGTGGTT
+TTCGTCCCCAGAAAAACCTCTTCAGGCACTGGTGCCGAGGACCCTAGGCCATCTCGGAAA
+CGCAGGTCCCTTGGCGATGTTGGGAATGTGACGGTGGCCGTGCCCACGGTGGCAGCTTTC
+CCCAACACTTCCTCGACCAGCGTGCCCACGAGTCCGGAGGAGCACAGGCCTTTTGAGAAG
+GTGGTGAACAAGGAGTCGCTGGTCATCTCCGGCTTGCGACACTTCACGGGCTATCGCATC
+GAGCTGCAGGCTTGCAACCAGGACACCCCTGAGGAACGGTGCAGTGTGGCAGCCTACGTC
+AGTGCGAGGACCATGCCTGAAGCCAAGGCTGATGACATTGTTGGCCCTGTGACGCATGAA
+ATCTTTGAGAACAACGTCGTCCACTTGATGTGGCAGGAGCCGAAGGAGCCCAATGGTCTG
+ATCGTGCTGTATGAAGTGAGTTATCGGCGATATGGTGATGAGGAGCTGCATCTCTGCGTC
+TCCCGCAAGCACTTCGCTCTGGAACGGGGCTGCAGGCTGCGTGGGCTGTCACCGGGGAAC
+TACAGCGTGCGAATCCGGGCCACCTCCCTTGCGGGCAACGGCTCTTGGACGGAACCCACC
+TATTTCTACGTGACAGACTATTTAGACGTCCCGTCAAATATTGCAAAAATTATCATCGGC
+CCCCTCATCTTTGTCTTTCTCTTCAGTGTTGTGATTGGAAGTATTTATCTATTCCTGAGA
+AAGAGGCAGCCAGATGGGCCGCTGGGACCGCTTTACGCTTCTTCAAACCCTGAGTATCTC
+AGTGCCAGTGATGTGTTTCCATGCTCTGTGTACGTGCCGGACGAGTGGGAGGTGTCTCGA
+GAGAAGATCACCCTCCTTCGAGAGCTGGGGCAGGGCTCCTTCGGCATGGTGTATGAGGGC
+AATGCCAGGGACATCATCAAGGGTGAGGCAGAGACCCGCGTGGCGGTGAAGACGGTCAAC
+GAGTCAGCCAGTCTCCGAGAGCGGATTGAGTTCCTCAATGAGGCCTCGGTCATGAAGGGC
+TTCACCTGCCATCACGTGGTGCGCCTCCTGGGAGTGGTGTCCAAGGGCCAGCCCACGCTG
+GTGGTGATGGAGCTGATGGCTCACGGAGACCTGAAGAGCTACCTCCGTTCTCTGCGGCCA
+GAGGCTGAGAATAATCCTGGCCGCCCTCCCCCTACCCTTCAAGAGATGATTCAGATGGCG
+GCAGAGATTGCTGACGGGATGGCCTACCTGAACGCCAAGAAGTTTGTGCATCGGGACCTG
+GCAGCGAGAAACTGCATGGTCGCCCATGATTTTACTGTCAAAATTGGAGACTTTGGAATG
+ACCAGAGACATCTATGAAACGGATTACTACCGGAAAGGGGGCAAGGGTCTGCTCCCTGTA
+CGGTGGATGGCACCGGAGTCCCTGAAGGATGGGGTCTTCACCACTTCTTCTGACATGTGG
+TCCTTTGGCGTGGTCCTTTGGGAAATCACCAGCTTGGCAGAACAGCCTTACCAAGGCCTG
+TCTAATGAACAGGTGTTGAAATTTGTCATGGATGGAGGGTATCTGGATCAACCCGACAAC
+TGTCCAGAGAGAGTCACTGACCTCATGCGCATGTGCTGGCAATTCAACCCCAAGATGAGG
+CCAACCTTCCTGGAGATTGTCAACCTGCTCAAGGACGACCTGCACCCCAGCTTTCCAGAG
+GTGTCGTTCTTCCACAGCGAGGAGAACAAGGCTCCCGAGAGTGAGGAGCTGGAGATGGAG
+TTTGAGGACATGGAGAATGTGCCCCTGGACCGTTCCTCGCACTGTCAGAGGGAGGAGGCG
+GGGGGCCGGGATGGAGGGTCCTCGCTGGGTTTCAAGCGGAGCTACGAGGAACACATCCCT
+TACACACACATGAACGGAGGCAAGAAAAACGGGCGGATTCTGACCTTGCCTCGGTCCAAT
+CCTTCCTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1382</residue_number>
+    <molecular_weight>156331.5</molecular_weight>
+    <theoretical_pi>6.14</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>fn3</name>
+        <pfam_id>PF00041</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Furin-like</name>
+        <pfam_id>PF00757</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Pkinase_Tyr</name>
+        <pfam_id>PF07714</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Recep_L_domain</name>
+        <pfam_id>PF01030</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>957-979</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-27</region>
+    </signal_regions>
+    <protein_sequence>&gt;Insulin receptor
+MATGGRRGAAAAPLLVAVAALLLGAAGHLYPGEVCPGMDIRNNLTRLHELENCSVIEGHL
+QILLMFKTRPEDFRDLSFPKLIMITDYLLLFRVYGLESLKDLFPNLTVIRGSRLFFNYAL
+VIFEMVHLKELGLYNLMNITRGSVRIEKNNELCYLATIDWSRILDSVEDNYIVLNKDDNE
+ECGDICPGTAKGKTNCPATVINGQFVERCWTHSHCQKVCPTICKSHGCTAEGLCCHSECL
+GNCSQPDDPTKCVACRNFYLDGRCVETCPPPYYHFQDWRCVNFSFCQDLHHKCKNSRRQG
+CHQYVIHNNKCIPECPSGYTMNSSNLLCTPCLGPCPKVCHLLEGEKTIDSVTSAQELRGC
+TVINGSLIINIRGGNNLAAELEANLGLIEEISGYLKIRRSYALVSLSFFRKLRLIRGETL
+EIGNYSFYALDNQNLRQLWDWSKHNLTITQGKLFFHYNPKLCLSEIHKMEEVSGTKGRQE
+RNDIALKTNGDQASCENELLKFSYIRTSFDKILLRWEPYWPPDFRDLLGFMLFYKEAPYQ
+NVTEFDGQDACGSNSWTVVDIDPPLRSNDPKSQNHPGWLMRGLKPWTQYAIFVKTLVTFS
+DERRTYGAKSDIIYVQTDATNPSVPLDPISVSNSSSQIILKWKPPSDPNGNITHYLVFWE
+RQAEDSELFELDYCLKGLKLPSRTWSPPFESEDSQKHNQSEYEDSAGECCSCPKTDSQIL
+KELEESSFRKTFEDYLHNVVFVPRKTSSGTGAEDPRPSRKRRSLGDVGNVTVAVPTVAAF
+PNTSSTSVPTSPEEHRPFEKVVNKESLVISGLRHFTGYRIELQACNQDTPEERCSVAAYV
+SARTMPEAKADDIVGPVTHEIFENNVVHLMWQEPKEPNGLIVLYEVSYRRYGDEELHLCV
+SRKHFALERGCRLRGLSPGNYSVRIRATSLAGNGSWTEPTYFYVTDYLDVPSNIAKIIIG
+PLIFVFLFSVVIGSIYLFLRKRQPDGPLGPLYASSNPEYLSASDVFPCSVYVPDEWEVSR
+EKITLLRELGQGSFGMVYEGNARDIIKGEAETRVAVKTVNESASLRERIEFLNEASVMKG
+FTCHHVVRLLGVVSKGQPTLVVMELMAHGDLKSYLRSLRPEAENNPGRPPPTLQEMIQMA
+AEIADGMAYLNAKKFVHRDLAARNCMVAHDFTVKIGDFGMTRDIYETDYYRKGGKGLLPV
+RWMAPESLKDGVFTTSSDMWSFGVVLWEITSLAEQPYQGLSNEQVLKFVMDGGYLDQPDN
+CPERVTDLMRMCWQFNPKMRPTFLEIVNLLKDDLHPSFPEVSFFHSEENKAPESEELEME
+FEDMENVPLDRSSHCQREEAGGRDGGSSLGFKRSYEEHIPYTHMNGGKKNGRILTLPRSN
+PS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>307070</genbank_protein_id>
+  <uniprot_id>P06213</uniprot_id>
+  <uniprot_name>INSR_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1IRK</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>M10051</genbank_gene_id>
+  <genecard_id>INSR</genecard_id>
+  <geneatlas_id>INSR</geneatlas_id>
+  <hgnc_id>HGNC:6091</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ebina Y, Ellis L, Jarnagin K, Edery M, Graf L, Clauser E, Ou JH, Masiarz F, Kan YW, Goldfine ID, et al.: The human insulin receptor cDNA: the structural basis for hormone-activated transmembrane signalling. Cell. 1985 Apr;40(4):747-58.</reference_text>
+      <pubmed_id>2859121</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ullrich A, Bell JR, Chen EY, Herrera R, Petruzzelli LM, Dull TJ, Gray A, Coussens L, Liao YC, Tsubokawa M, et al.: Human insulin receptor and its relationship to the tyrosine kinase family of oncogenes. Nature. 1985 Feb 28-Mar 6;313(6005):756-61.</reference_text>
+      <pubmed_id>2983222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seino S, Seino M, Bell GI: Human insulin-receptor gene. Partial sequence and amplification of exons by polymerase chain reaction. Diabetes. 1990 Jan;39(1):123-8.</reference_text>
+      <pubmed_id>2210055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Araki E, Shimada F, Uzawa H, Mori M, Ebina Y: Characterization of the promoter region of the human insulin receptor gene. Evidence for promoter activity. J Biol Chem. 1987 Nov 25;262(33):16186-91.</reference_text>
+      <pubmed_id>3680248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Araki E, Shimada F, Fukushima H, Mori M, Shichiri M, Ebina Y: Characterization of the promoter region of the human insulin receptor gene. Diabetes Res Clin Pract. 1989;7 Suppl 1:S31-3.</reference_text>
+      <pubmed_id>2806055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tewari DS, Cook DM, Taub R: Characterization of the promoter region and 3' end of the human insulin receptor gene. J Biol Chem. 1989 Sep 25;264(27):16238-45.</reference_text>
+      <pubmed_id>2777789</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McKeon C, Moncada V, Pham T, Salvatore P, Kadowaki T, Accili D, Taylor SI: Structural and functional analysis of the insulin receptor promoter.  Mol Endocrinol. 1990 Apr;4(4):647-56.</reference_text>
+      <pubmed_id>2280779</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu QY, Paxton RJ, Fujita-Yamaguchi Y: Substructural analysis of the insulin receptor by microsequence analyses of limited tryptic fragments isolated by sodium dodecyl sulfate-polyacrylamide gel electrophoresis in the absence or presence of dithiothreitol. J Biol Chem. 1990 Oct 25;265(30):18673-81.</reference_text>
+      <pubmed_id>2211730</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kasuya J, Paz IB, Maddux BA, Goldfine ID, Hefta SA, Fujita-Yamaguchi Y: Characterization of human placental insulin-like growth factor-I/insulin hybrid receptors by protein microsequencing and purification. Biochemistry. 1993 Dec 14;32(49):13531-6.</reference_text>
+      <pubmed_id>8257688</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seino S, Bell GI: Alternative splicing of human insulin receptor messenger RNA.  Biochem Biophys Res Commun. 1989 Feb 28;159(1):312-6.</reference_text>
+      <pubmed_id>2538124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mosthaf L, Grako K, Dull TJ, Coussens L, Ullrich A, McClain DA: Functionally distinct insulin receptors generated by tissue-specific alternative splicing. EMBO J. 1990 Aug;9(8):2409-13.</reference_text>
+      <pubmed_id>2369896</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Elbein SC: Molecular and clinical characterization of an insertional polymorphism of the insulin-receptor gene. Diabetes. 1989 Jun;38(6):737-43.</reference_text>
+      <pubmed_id>2566545</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tavare JM, Denton RM: Studies on the autophosphorylation of the insulin receptor from human placenta. Analysis of the sites phosphorylated by two-dimensional peptide mapping. Biochem J. 1988 Jun 1;252(2):607-15.</reference_text>
+      <pubmed_id>3166375</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taira M, Taira M, Hashimoto N, Shimada F, Suzuki Y, Kanatsuka A, Nakamura F, Ebina Y, Tatibana M, Makino H, et al.: Human diabetes associated with a deletion of the tyrosine kinase domain of the insulin receptor. Science. 1989 Jul 7;245(4913):63-6.</reference_text>
+      <pubmed_id>2544997</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fujita-Yamaguchi Y, Hawke DH, Shively JE, Choi S: Partial amino acid sequence analyses of human placental insulin receptor.  Protein Seq Data Anal. 1987;1(1):3-6.</reference_text>
+      <pubmed_id>3447155</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ebina Y, Araki E, Taira M, Shimada F, Mori M, Craik CS, Siddle K, Pierce SB, Roth RA, Rutter WJ: Replacement of lysine residue 1030 in the putative ATP-binding region of the insulin receptor abolishes insulin- and antibody-stimulated glucose uptake and receptor kinase activity. Proc Natl Acad Sci U S A. 1987 Feb;84(3):704-8.</reference_text>
+      <pubmed_id>3101064</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>White MF, Livingston JN, Backer JM, Lauris V, Dull TJ, Ullrich A, Kahn CR: Mutation of the insulin receptor at tyrosine 960 inhibits signal transmission but does not affect its tyrosine kinase activity. Cell. 1988 Aug 26;54(5):641-9.</reference_text>
+      <pubmed_id>2842060</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dickens M, Tavare JM: Analysis of the order of autophosphorylation of human insulin receptor tyrosines 1158, 1162 and 1163. Biochem Biophys Res Commun. 1992 Jul 15;186(1):244-50.</reference_text>
+      <pubmed_id>1321605</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schaffer L, Ljungqvist L: Identification of a disulfide bridge connecting the alpha-subunits of the extracellular domain of the insulin receptor. Biochem Biophys Res Commun. 1992 Dec 15;189(2):650-3.</reference_text>
+      <pubmed_id>1472036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Soos MA, Field CE, Siddle K: Purified hybrid insulin/insulin-like growth factor-I receptors bind insulin-like growth factor-I, but not insulin, with high affinity. Biochem J. 1993 Mar 1;290 ( Pt 2):419-26.</reference_text>
+      <pubmed_id>8452530</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Van Horn DJ, Myers MG Jr, Backer JM: Direct activation of the phosphatidylinositol 3'-kinase by the insulin receptor. J Biol Chem. 1994 Jan 7;269(1):29-32.</reference_text>
+      <pubmed_id>8276809</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>He W, O'Neill TJ, Gustafson TA: Distinct modes of interaction of SHC and insulin receptor substrate-1 with the insulin receptor NPEY region via non-SH2 domains. J Biol Chem. 1995 Oct 6;270(40):23258-62.</reference_text>
+      <pubmed_id>7559478</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gustafson TA, He W, Craparo A, Schaub CD, O'Neill TJ: Phosphotyrosine-dependent interaction of SHC and insulin receptor substrate 1 with the NPEY motif of the insulin receptor via a novel non-SH2 domain. Mol Cell Biol. 1995 May;15(5):2500-8.</reference_text>
+      <pubmed_id>7537849</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bailyes EM, Nave BT, Soos MA, Orr SR, Hayward AC, Siddle K: Insulin receptor/IGF-I receptor hybrids are widely distributed in mammalian tissues: quantification of individual receptor species by selective immunoprecipitation and immunoblotting. Biochem J. 1997 Oct 1;327 ( Pt 1):209-15.</reference_text>
+      <pubmed_id>9355755</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Federici M, Porzio O, Zucaro L, Fusco A, Borboni P, Lauro D, Sesti G: Distribution of insulin/insulin-like growth factor-I hybrid receptors in human tissues. Mol Cell Endocrinol. 1997 May 16;129(2):121-6.</reference_text>
+      <pubmed_id>9202395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin WH, Huang CJ, Liu MW, Chang HM, Chen YJ, Tai TY, Chuang LM: Cloning, mapping, and characterization of the human sorbin and SH3 domain containing 1 (SORBS1) gene: a protein associated with c-Abl during insulin signaling in the hepatoma cell line Hep3B. Genomics. 2001 May 15;74(1):12-20.</reference_text>
+      <pubmed_id>11374898</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pandini G, Frasca F, Mineo R, Sciacca L, Vigneri R, Belfiore A: Insulin/insulin-like growth factor I hybrid receptors have different biological characteristics depending on the insulin receptor isoform involved. J Biol Chem. 2002 Oct 18;277(42):39684-95. Epub 2002 Jul 22.</reference_text>
+      <pubmed_id>12138094</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wick KR, Werner ED, Langlais P, Ramos FJ, Dong LQ, Shoelson SE, Liu F: Grb10 inhibits insulin-stimulated insulin receptor substrate (IRS)-phosphatidylinositol 3-kinase/Akt signaling pathway by disrupting the association of IRS-1/IRS-2 with the insulin receptor. J Biol Chem. 2003 Mar 7;278(10):8460-7. Epub 2002 Dec 18.</reference_text>
+      <pubmed_id>12493740</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Banks AS, Li J, McKeag L, Hribal ML, Kashiwada M, Accili D, Rothman PB: Deletion of SOCS7 leads to enhanced insulin action and enlarged islets of Langerhans. J Clin Invest. 2005 Sep;115(9):2462-71. Epub 2005 Aug 25.</reference_text>
+      <pubmed_id>16127460</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Y, Wolf-Yadlin A, Ross PL, Pappin DJ, Rush J, Lauffenburger DA, White FM: Time-resolved mass spectrometry of tyrosine phosphorylation sites in the epidermal growth factor receptor signaling network reveals dynamic modules. Mol Cell Proteomics. 2005 Sep;4(9):1240-50. Epub 2005 Jun 11.</reference_text>
+      <pubmed_id>15951569</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakagawa Y, Aoki N, Aoyama K, Shimizu H, Shimano H, Yamada N, Miyazaki H: Receptor-type protein tyrosine phosphatase epsilon (PTPepsilonM) is a negative regulator of insulin signaling in primary hepatocytes and liver. Zoolog Sci. 2005 Feb;22(2):169-75.</reference_text>
+      <pubmed_id>15738637</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Slaaby R, Schaffer L, Lautrup-Larsen I, Andersen AS, Shaw AC, Mathiasen IS, Brandt J: Hybrid receptors formed by insulin receptor (IR) and insulin-like growth factor I receptor (IGF-IR) have low insulin and high IGF-1 affinity irrespective of the IR splice variant. J Biol Chem. 2006 Sep 8;281(36):25869-74. Epub 2006 Jul 10.</reference_text>
+      <pubmed_id>16831875</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, Nardone J, Lee K, Reeves C, Li Y, Hu Y, Tan Z, Stokes M, Sullivan L, Mitchell J, Wetzel R, Macneill J, Ren JM, Yuan J, Bakalarski CE, Villen J, Kornhauser JM, Smith B, Li D, Zhou X, Gygi SP, Gu TL, Polakiewicz RD, Rush J, Comb MJ: Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007 Dec 14;131(6):1190-203.</reference_text>
+      <pubmed_id>18083107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wolf-Yadlin A, Hautaniemi S, Lauffenburger DA, White FM: Multiple reaction monitoring for robust quantitative proteomic analysis of cellular signaling networks. Proc Natl Acad Sci U S A. 2007 Apr 3;104(14):5860-5. Epub 2007 Mar 26.</reference_text>
+      <pubmed_id>17389395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wollscheid B, Bausch-Fluck D, Henderson C, O'Brien R, Bibel M, Schiess R, Aebersold R, Watts JD: Mass-spectrometric identification and relative quantification of N-linked cell surface glycoproteins. Nat Biotechnol. 2009 Apr;27(4):378-86. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hubbard SR, Wei L, Ellis L, Hendrickson WA: Crystal structure of the tyrosine kinase domain of the human insulin receptor. Nature. 1994 Dec 22-29;372(6508):746-54.</reference_text>
+      <pubmed_id>7997262</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hubbard SR: Crystal structure of the activated insulin receptor tyrosine kinase in complex with peptide substrate and ATP analog. EMBO J. 1997 Sep 15;16(18):5572-81.</reference_text>
+      <pubmed_id>9312016</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hu J, Liu J, Ghirlando R, Saltiel AR, Hubbard SR: Structural basis for recruitment of the adaptor protein APS to the activated insulin receptor. Mol Cell. 2003 Dec;12(6):1379-89.</reference_text>
+      <pubmed_id>14690593</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yoshimasa Y, Seino S, Whittaker J, Kakehi T, Kosaki A, Kuzuya H, Imura H, Bell GI, Steiner DF: Insulin-resistant diabetes due to a point mutation that prevents insulin proreceptor processing. Science. 1988 May 6;240(4853):784-7.</reference_text>
+      <pubmed_id>3283938</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kadowaki T, Bevins CL, Cama A, Ojamaa K, Marcus-Samuels B, Kadowaki H, Beitz L, McKeon C, Taylor SI: Two mutant alleles of the insulin receptor gene in a patient with extreme insulin resistance. Science. 1988 May 6;240(4853):787-90.</reference_text>
+      <pubmed_id>2834824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Klinkhamer MP, Groen NA, van der Zon GC, Lindhout D, Sandkuyl LA, Krans HM, Moller W, Maassen JA: A leucine-to-proline mutation in the insulin receptor in a family with insulin resistance. EMBO J. 1989 Sep;8(9):2503-7.</reference_text>
+      <pubmed_id>2479553</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Odawara M, Kadowaki T, Yamamoto R, Shibasaki Y, Tobe K, Accili D, Bevins C, Mikami Y, Matsuura N, Akanuma Y, et al.: Human diabetes associated with a mutation in the tyrosine kinase domain of the insulin receptor. Science. 1989 Jul 7;245(4913):66-8.</reference_text>
+      <pubmed_id>2544998</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moller DE, Yokota A, White MF, Pazianos AG, Flier JS: A naturally occurring mutation of insulin receptor alanine 1134 impairs tyrosine kinase function and is associated with dominantly inherited insulin resistance. J Biol Chem. 1990 Sep 5;265(25):14979-85.</reference_text>
+      <pubmed_id>2168397</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kadowaki T, Kadowaki H, Accili D, Taylor SI: Substitution of lysine for asparagine at position 15 in the alpha-subunit of the human insulin receptor. A mutation that impairs transport of receptors to the cell surface and decreases the affinity of insulin binding. J Biol Chem. 1990 Nov 5;265(31):19143-50.</reference_text>
+      <pubmed_id>2121734</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kadowaki T, Kadowaki H, Rechler MM, Serrano-Rios M, Roth J, Gorden P, Taylor SI: Five mutant alleles of the insulin receptor gene in patients with genetic forms of insulin resistance. J Clin Invest. 1990 Jul;86(1):254-64.</reference_text>
+      <pubmed_id>2365819</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moller DE, Yokota A, Ginsberg-Fellner F, Flier JS: Functional properties of a naturally occurring Trp1200----Ser1200 mutation of the insulin receptor. Mol Endocrinol. 1990 Aug;4(8):1183-91.</reference_text>
+      <pubmed_id>1963473</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Rahilly S, Choi WH, Patel P, Turner RC, Flier JS, Moller DE: Detection of mutations in insulin-receptor gene in NIDDM patients by analysis of single-stranded conformation polymorphisms. Diabetes. 1991 Jun;40(6):777-82.</reference_text>
+      <pubmed_id>2040394</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kusari J, Takata Y, Hatada E, Freidenberg G, Kolterman O, Olefsky JM: Insulin resistance and diabetes due to different mutations in the tyrosine kinase domain of both insulin receptor gene alleles. J Biol Chem. 1991 Mar 15;266(8):5260-7.</reference_text>
+      <pubmed_id>2002058</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cama A, de la Luz Sierra M, Ottini L, Kadowaki T, Gorden P, Imperato-McGinley J, Taylor SI: A mutation in the tyrosine kinase domain of the insulin receptor associated with insulin resistance in an obese woman. J Clin Endocrinol Metab. 1991 Oct;73(4):894-901.</reference_text>
+      <pubmed_id>1890161</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barbetti F, Gejman PV, Taylor SI, Raben N, Cama A, Bonora E, Pizzo P, Moghetti P, Muggeo M, Roth J: Detection of mutations in insulin receptor gene by denaturing gradient gel electrophoresis. Diabetes. 1992 Apr;41(4):408-15.</reference_text>
+      <pubmed_id>1607067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cocozza S, Porcellini A, Riccardi G, Monticelli A, Condorelli G, Ferrara A, Pianese L, Miele C, Capaldo B, Beguinot F, et al.: NIDDM associated with mutation in tyrosine kinase domain of insulin receptor gene. Diabetes. 1992 Apr;41(4):521-6.</reference_text>
+      <pubmed_id>1607076</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim H, Kadowaki H, Sakura H, Odawara M, Momomura K, Takahashi Y, Miyazaki Y, Ohtani T, Akanuma Y, Yazaki Y, et al.: Detection of mutations in the insulin receptor gene in patients with insulin resistance by analysis of single-stranded conformational polymorphisms. Diabetologia. 1992 Mar;35(3):261-6.</reference_text>
+      <pubmed_id>1563582</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van der Vorm ER, van der Zon GC, Moller W, Krans HM, Lindhout D, Maassen JA: An Arg for Gly substitution at position 31 in the insulin receptor, linked to insulin resistance, inhibits receptor processing and transport. J Biol Chem. 1992 Jan 5;267(1):66-71.</reference_text>
+      <pubmed_id>1730625</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kasuga M, Kishimoto M, Hashiramoto M, Yonezawa K, Kazumi T, Hagino H, Shii K: [Insulin receptor Arg1131--&amp;gt;Gln: a novel mutation in the catalytic loop of insulin receptor observed in insulin resistant diabetes] Nippon Geka Gakkai Zasshi. 1992 Sep;93(9):968-71.</reference_text>
+      <pubmed_id>1470163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Elbein SC, Sorensen LK, Schumacher MC: Methionine for valine substitution in exon 17 of the insulin receptor gene in a pedigree with familial NIDDM. Diabetes. 1993 Mar;42(3):429-34.</reference_text>
+      <pubmed_id>8432414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haruta T, Takata Y, Iwanishi M, Maegawa H, Imamura T, Egawa K, Itazu T, Kobayashi M: Ala1048--&amp;gt;Asp mutation in the kinase domain of insulin receptor causes defective kinase activity and insulin resistance. Diabetes. 1993 Dec;42(12):1837-44.</reference_text>
+      <pubmed_id>8243830</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van der Vorm ER, Kuipers A, Bonenkamp JW, Kleijer WJ, Van Maldergem L, Herwig J, Maassen JA: Patients with lipodystrophic diabetes mellitus of the Seip-Berardinelli type, express normal insulin receptors. Diabetologia. 1993 Feb;36(2):172-4.</reference_text>
+      <pubmed_id>8458533</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Iwanishi M, Haruta T, Takata Y, Ishibashi O, Sasaoka T, Egawa K, Imamura T, Naitou K, Itazu T, Kobayashi M: A mutation (Trp1193--&amp;gt;Leu1193) in the tyrosine kinase domain of the insulin receptor associated with type A syndrome of insulin resistance. Diabetologia. 1993 May;36(5):414-22.</reference_text>
+      <pubmed_id>8390949</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Carrera P, Cordera R, Ferrari M, Cremonesi L, Taramelli R, Andraghetti G, Carducci C, Dozio N, Pozza G, Taylor SI, et al.: Substitution of Leu for Pro-193 in the insulin receptor in a patient with a genetic form of severe insulin resistance. Hum Mol Genet. 1993 Sep;2(9):1437-41.</reference_text>
+      <pubmed_id>8242067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cama A, de la Luz Sierra M, Quon MJ, Ottini L, Gorden P, Taylor SI: Substitution of glutamic acid for alanine 1135 in the putative &amp;quot;catalytic loop&amp;quot; of the tyrosine kinase domain of the human insulin receptor. A mutation that impairs proteolytic processing into subunits and inhibits receptor tyrosine kinase activity. J Biol Chem. 1993 Apr 15;268(11):8060-9.</reference_text>
+      <pubmed_id>8096518</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lebrun C, Baron V, Kaliman P, Gautier N, Dolais-Kitabgi J, Taylor S, Accili D, Van Obberghen E: Antibodies to the extracellular receptor domain restore the hormone-insensitive kinase and conformation of the mutant insulin receptor valine 382. J Biol Chem. 1993 May 25;268(15):11272-7.</reference_text>
+      <pubmed_id>8388389</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>al-Gazali LI, Khalil M, Devadas K: A syndrome of insulin resistance resembling leprechaunism in five sibs of consanguineous parents. J Med Genet. 1993 Jun;30(6):470-5.</reference_text>
+      <pubmed_id>8326490</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Longo N, Langley SD, Griffin LD, Elsas LJ: Activation of glucose transport by a natural mutation in the human insulin receptor. Proc Natl Acad Sci U S A. 1993 Jan 1;90(1):60-4.</reference_text>
+      <pubmed_id>8419945</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moller DE, Cohen O, Yamaguchi Y, Assiz R, Grigorescu F, Eberle A, Morrow LA, Moses AC, Flier JS: Prevalence of mutations in the insulin receptor gene in subjects with features of the type A syndrome of insulin resistance. Diabetes. 1994 Feb;43(2):247-55.</reference_text>
+      <pubmed_id>8288049</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Krook A, Kumar S, Laing I, Boulton AJ, Wass JA, O'Rahilly S: Molecular scanning of the insulin receptor gene in syndromes of insulin resistance. Diabetes. 1994 Mar;43(3):357-68.</reference_text>
+      <pubmed_id>8314008</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moritz W, Froesch ER, Boni-Schnetzler M: Functional properties of a heterozygous mutation (Arg1174--&amp;gt;Gln) in the tyrosine kinase domain of the insulin receptor from a type A insulin resistant patient. FEBS Lett. 1994 Sep 5;351(2):276-80.</reference_text>
+      <pubmed_id>8082780</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van der Vorm ER, Kuipers A, Kielkopf-Renner S, Krans HM, Moller W, Maassen JA: A mutation in the insulin receptor that impairs proreceptor processing but not insulin binding. J Biol Chem. 1994 May 13;269(19):14297-302.</reference_text>
+      <pubmed_id>8188715</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Imamura T, Takata Y, Sasaoka T, Takada Y, Morioka H, Haruta T, Sawa T, Iwanishi M, Hu YG, Suzuki Y, et al.: Two naturally occurring mutations in the kinase domain of insulin receptor accelerate degradation of the insulin receptor and impair the kinase activity. J Biol Chem. 1994 Dec 9;269(49):31019-27.</reference_text>
+      <pubmed_id>7983039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hone J, Accili D, al-Gazali LI, Lestringant G, Orban T, Taylor SI: Homozygosity for a new mutation (Ile119--&amp;gt;Met) in the insulin receptor gene in five sibs with familial insulin resistance. J Med Genet. 1994 Sep;31(9):715-6.</reference_text>
+      <pubmed_id>7815442</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kan M, Kanai F, Iida M, Jinnouchi H, Todaka M, Imanaka T, Ito K, Nishioka Y, Ohnishi T, Kamohara S, et al.: Frequency of mutations of insulin receptor gene in Japanese patients with NIDDM. Diabetes. 1995 Sep;44(9):1081-6.</reference_text>
+      <pubmed_id>7657032</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Longo N, Langley SD, Griffin LD, Elsas LJ: Two mutations in the insulin receptor gene of a patient with leprechaunism: application to prenatal diagnosis. J Clin Endocrinol Metab. 1995 May;80(5):1496-501.</reference_text>
+      <pubmed_id>7538143</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moritz W, Boni-Schnetzler M, Stevens W, Froesch ER, Levy JR: In-frame exon 2 deletion in insulin receptor RNA in a family with extreme insulin resistance in association with defective insulin binding: a case report. Eur J Endocrinol. 1996 Sep;135(3):357-63.</reference_text>
+      <pubmed_id>8890729</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Desbois-Mouthon C, Sert-Langeron C, Magre J, Oreal E, Blivet MJ, Flori E, Besmond C, Capeau J, Caron M: Deletion of Asn281 in the alpha-subunit of the human insulin receptor causes constitutive activation of the receptor and insulin desensitization. J Clin Endocrinol Metab. 1996 Feb;81(2):719-27.</reference_text>
+      <pubmed_id>8636294</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hansen L, Hansen T, Clausen JO, Echwald SM, Urhammer SA, Rasmussen SK, Pedersen O: The Val985Met insulin-receptor variant in the Danish Caucasian population: lack of associations with non-insulin-dependent diabetes mellitus or insulin resistance. Am J Hum Genet. 1997 Jun;60(6):1532-5.</reference_text>
+      <pubmed_id>9199575</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rouard M, Macari F, Bouix O, Lautier C, Brun JF, Lefebvre P, Renard E, Bringer J, Jaffiol C, Grigorescu F: Identification of two novel insulin receptor mutations, Asp59Gly and Leu62Pro, in type A syndrome of extreme insulin resistance. Biochem Biophys Res Commun. 1997 May 29;234(3):764-8.</reference_text>
+      <pubmed_id>9175790</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kadowaki H, Takahashi Y, Ando A, Momomura K, Kaburagi Y, Quin JD, MacCuish AC, Koda N, Fukushima Y, Taylor SI, Akanuma Y, Yazaki Y, Kadowaki T: Four mutant alleles of the insulin receptor gene associated with genetic syndromes of extreme insulin resistance. Biochem Biophys Res Commun. 1997 Aug 28;237(3):516-20.</reference_text>
+      <pubmed_id>9299395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Desbois-Mouthon C, Girodon E, Ghanem N, Caron M, Pennerath A, Conteville P, Magre J, Besmond C, Goossens M, Capeau J, Amselem S: Molecular analysis of the insulin receptor gene for prenatal diagnosis of leprechaunism in two families. Prenat Diagn. 1997 Jul;17(7):657-63.</reference_text>
+      <pubmed_id>9249867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Whitehead JP, Soos MA, Jackson R, Tasic V, Kocova M, O'Rahilly S: Multiple molecular mechanisms of insulin receptor dysfunction in a patient with Donohue syndrome. Diabetes. 1998 Aug;47(8):1362-4.</reference_text>
+      <pubmed_id>9703342</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Longo N, Wang Y, Pasquali M: Progressive decline in insulin levels in Rabson-Mendenhall syndrome.  J Clin Endocrinol Metab. 1999 Aug;84(8):2623-9.</reference_text>
+      <pubmed_id>10443650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rique S, Nogues C, Ibanez L, Marcos MV, Ferragut J, Carrascosa A, Potau N: Identification of three novel mutations in the insulin receptor gene in type A insulin resistant patients. Clin Genet. 2000 Jan;57(1):67-9.</reference_text>
+      <pubmed_id>10733238</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Osawa H, Nishimiya T, Ochi M, Niiya T, Onuma H, Kitamuro F, Kaino Y, Kida K, Makino H: Identification of novel C253Y missense and Y864X nonsense mutations in the insulin receptor gene in type A insulin-resistant patients. Clin Genet. 2001 Mar;59(3):194-7.</reference_text>
+      <pubmed_id>11260230</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hamer I, Foti M, Emkey R, Cordier-Bussat M, Philippe J, De Meyts P, Maeder C, Kahn CR, Carpentier JL: An arginine to cysteine(252) mutation in insulin receptors from a patient with severe insulin resistance inhibits receptor internalisation but preserves signalling events. Diabetologia. 2002 May;45(5):657-67. Epub 2002 Apr 5.</reference_text>
+      <pubmed_id>12107746</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Longo N, Wang Y, Smith SA, Langley SD, DiMeglio LA, Giannella-Neto D: Genotype-phenotype correlation in inherited severe insulin resistance.  Hum Mol Genet. 2002 Jun 1;11(12):1465-75.</reference_text>
+      <pubmed_id>12023989</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>George S, Johansen A, Soos MA, Mortensen H, Gammeltoft S, Saudek V, Siddle K, Hansen L, O'Rahilly S: Deletion of V335 from the L2 domain of the insulin receptor results in a conformationally abnormal receptor that is unable to bind insulin and causes Donohue's syndrome in a human subject. Endocrinology. 2003 Feb;144(2):631-7.</reference_text>
+      <pubmed_id>12538626</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Maassen JA, Tobias ES, Kayserilli H, Tukel T, Yuksel-Apak M, D'Haens E, Kleijer WJ, Fery F, van der Zon GC: Identification and functional assessment of novel and known insulin receptor mutations in five patients with syndromes of severe insulin resistance. J Clin Endocrinol Metab. 2003 Sep;88(9):4251-7.</reference_text>
+      <pubmed_id>12970295</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hojlund K, Hansen T, Lajer M, Henriksen JE, Levin K, Lindholm J, Pedersen O, Beck-Nielsen H: A novel syndrome of autosomal-dominant hyperinsulinemic hypoglycemia linked to a mutation in the human insulin receptor gene. Diabetes. 2004 Jun;53(6):1592-8.</reference_text>
+      <pubmed_id>15161766</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tuthill A, Semple RK, Day R, Soos MA, Sweeney E, Seymour PJ, Didi M, O'rahilly S: Functional characterization of a novel insulin receptor mutation contributing to Rabson-Mendenhall syndrome. Clin Endocrinol (Oxf). 2007 Jan;66(1):21-6.</reference_text>
+      <pubmed_id>17201797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

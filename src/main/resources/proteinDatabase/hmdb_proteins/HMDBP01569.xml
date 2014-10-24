@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:57:41 -0700</creation_date>
+  <update_date>2013-05-27 11:28:12 -0600</update_date>
+  <accession>HMDBP01569</accession>
+  <secondary_accessions>
+    <accession>6865</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Lowe oculocerebrorenal syndrome protein</synonym>
+  </synonyms>
+  <gene_name>OCRL</gene_name>
+  <general_function>Involved in inositol or phosphatidylinositol phosphatase activity</general_function>
+  <specific_function>Converts phosphatidylinositol 4,5-bisphosphate to phosphatidylinositol 4-phosphate. Also converts inositol 1,4,5-trisphosphate to inositol 1,4-bisphosphate and inositol 1,3,4,5-tetrakisphosphate to inositol 1,3,4-trisphosphate. May function in lysosomal membrane trafficking by regulating the specific pool of phosphatidylinositol 4,5-bisphosphate that is associated with lysosomes. Involved in primary cilia assembly.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Inositol phosphate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00562</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Phosphatidylinositol signaling system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04070</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00595</accession>
+      <name>Hydrogen carbonate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06953</accession>
+      <name>1-Phosphatidyl-D-myo-inositol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inositol or phosphatidylinositol phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>clathrin-coated vesicle</description>
+      <go_id>GO:0030136</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>coated pit</description>
+      <go_id>GO:0005905</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>early endosome</description>
+      <go_id>GO:0005769</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>early endosome membrane</description>
+      <go_id>GO:0031901</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi stack</description>
+      <go_id>GO:0005795</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi-associated vesicle</description>
+      <go_id>GO:0005798</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>phagocytic vesicle membrane</description>
+      <go_id>GO:0030670</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>photoreceptor outer segment</description>
+      <go_id>GO:0001750</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>inositol phosphate phosphatase activity</description>
+      <go_id>GO:0052745</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity</description>
+      <go_id>GO:0004439</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cilium assembly</description>
+      <go_id>GO:0042384</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol biosynthetic process</description>
+      <go_id>GO:0006661</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol dephosphorylation</description>
+      <go_id>GO:0046856</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>phosphatidylinositol phosphorylation</description>
+      <go_id>GO:0046854</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of small GTPase mediated signal transduction</description>
+      <go_id>GO:0051056</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small GTPase mediated signal transduction</description>
+      <go_id>GO:0007264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>X</chromosome_location>
+    <locus>Xq25</locus>
+    <gene_sequence>&gt;2706 bp
+ATGGAGCCGCCGCTCCCGGTCGGAGCCCAGCCGCTTGCCACTGTCGAGGGTATGGAGATG
+AAGGGTCCTCTCCGGGAGCCCTGCGCCCTGACCCTAGCCCAGAGGAACGGGCAATATGAG
+TTAATAATCCAGTTGCATGAGAAGGAACAGCATGTTCAAGATATCATTCCTATAAATAGC
+CACTTCAGATGTGTTCAAGAAGCAGAAGAAACTCTTTTGATTGACATAGCTTCTAACAGT
+GGCTGCAAAATTCGGGTTCAGGGGGACTGGATCAGAGAGCGCCGCTTTGAAATCCCTGAT
+GAGGAACACTGTTTGAAGTTCCTCTCAGCTGTCCTTGCTGCTCAGAAAGCTCAGTCACAG
+CTTCTTGTTCCAGAGCAAAAGGACTCATCTAGCTGGTACCAGAAATTAGACACTAAGGAC
+AAACCTTCTGTTTTTTCAGGGCTTCTTGGATTTGAAGACAATTTTTCTTCTATGAATTTG
+GACAAGAAAATAAATTCACAAAATCAGCCTACTGGGATTCATCGGGAACCCCCACCTCCA
+CCCTTTTCAGTGAATAAAATGCTTCCACGTGAAAAAGAAGCTTCTAACAAGGAGCAGCCC
+AAAGTGACCAACACCATGCGGAAGCTCTTTGTACCAAATACCCAATCTGGGCAGCGGGAG
+GGTCTCATCAAACATATCCTGGCAAAGCGAGAGAAAGAATATGTCAACATTCAGACTTTC
+AGATTTTTTGTTGGAACTTGGAATGTGAATGGCCAGTCTCCAGATAGCGGGTTAGAACCT
+TGGCTGAACTGTGATCCCAATCCTCCTGATATCTACTGCATTGGATTCCAAGAACTGGAC
+TTGAGCACAGAAGCCTTCTTCTACTTTGAATCTGTGAAGGAACAAGAATGGTCCATGGCT
+GTAGAGAGAGGTTTGCATTCCAAAGCCAAGTATAAGAAAGTTCAACTGGTGCGCCTTGTT
+GGGATGATGCTTCTTATATTTGCCAGAAAGGATCAGTGTCGATACATTCGTGATATTGCT
+ACAGAAACAGTTGGAACTGGAATCATGGGGAAAATGGGAAACAAAGGTGGGGTAGCTGTG
+AGATTTGTATTTCACAACACCACCTTTTGCATTGTCAATTCCCATCTGGCTGCACACGTG
+GAGGACTTTGAGAGAAGGAATCAAGATTATAAGGACATTTGTGCGAGAATGAGTTTTGTG
+GTCCCAAATCAGACCCTCCCGCAGTTGAACATCATGAAACATGAGGTTGTCATTTGGTTG
+GGAGATTTGAATTATAGACTTTGCATGCCTGATGCCAATGAGGTGAAAAGTCTTATTAAT
+AAGAAAGACCTTCAGAGACTCTTGAAATTCGACCAGCTAAATATTCAGCGCACACAGAAA
+AAAGCTTTTGTTGACTTCAATGAAGGGGAAATCAAGTTCATCCCCACTTATAAGTATGAC
+TCTAAAACAGACCGGTGGGATTCCAGTGGGAAATGCCGGGTTCCAGCCTGGTGTGACCGA
+ATTCTTTGGAGAGGAACAAATGTTAATCAGCTTAATTATCGGAGTCACATGGAACTGAAA
+ACCAGCGACCACAAGCCTGTTAGCGCCCTCTTCCATATTGGGGTGAAGGTTGTGGATGAA
+CGAAGGTACCGGAAAGTCTTTGAAGATAGTGTACGCATCATGGACAGAATGGAAAATGAC
+TTCCTTCCTTCCTTAGAACTCAGCAGGAGGGAGTTTGTGTTTGAAAATGTGAAGTTTCGG
+CAACTACAAAAGGAGAAGTTCCAGATCAGCAACAATGGACAGGTTCCCTGCCATTTTTCT
+TTCATCCCTAAACTTAATGACAGCCAGTACTGCAAGCCATGGCTTCGGGCTGAACCTTTT
+GAGGGCTACTTGGAGCCAAATGAGACAGTGGACATTTCTCTTGATGTGTATGTCAGCAAA
+GACTCTGTAACCATCCTGAACTCGGGAGAAGATAAGATTGAAGATATTCTCGTCCTTCAC
+CTGGATCGAGGCAAAGATTACTTCTTGACTATCAGTGGAAATTACCTCCCAAGTTGTTTT
+GGCACATCCTTAGAGGCTCTGTGCCGTATGAAAAGACCAATCCGAGAAGTTCCTGTTACC
+AAACTCATAGACTTGGAAGAAGACAGCTTCCTAGAAAAGGAGAAATCCCTTCTGCAAATG
+GTTCCTTTGGATGAAGGTGCCAGTGAGAGACCCCTTCAGGTTCCCAAGGAGATCTGGCTT
+CTAGTAGATCACCTATTCAAATACGCCTGTCACCAGGAGGACCTGTTCCAGACCCCTGGA
+ATGCAGGAAGAGCTCCAGCAGATCATTGATTGTCTGGATACCAGCATTCCTGAGACAATC
+CCTGGCAGCAACCACTCTGTGGCTGAAGCACTGCTCATTTTCTTGGAAGCCCTGCCAGAG
+CCAGTCATCTGTTACGAGCTGTATCAGCGATGTCTTGACTCTGCTTATGATCCCCGGATC
+TGCCGACAGGTGATCTCCCAGCTTCCGAGATGCCATAGAAATGTTTTCCGTTACTTGATG
+GCATTCCTTCGAGAACTCTTAAAATTCTCTGAATACAATAGCGTCAATGCCAACATGATC
+GCTACTCTCTTCACTAGTCTTCTCCTGAGGCCTCCACCCAACCTTATGGCAAGACAGACT
+CCAAGTGACCGCCAGCGTGCTATTCAGTTCCTTCTGGGCTTTCTGCTTGGGAGCGAAGAA
+GACTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>901</residue_number>
+    <molecular_weight>104203.78</molecular_weight>
+    <theoretical_pi>6.549</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Exo_endo_phos</name>
+        <pfam_id>PF03372</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RhoGAP</name>
+        <pfam_id>PF00620</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Inositol polyphosphate 5-phosphatase OCRL-1
+MEPPLPVGAQPLATVEGMEMKGPLREPCALTLAQRNGQYELIIQLHEKEQHVQDIIPINS
+HFRCVQEAEETLLIDIASNSGCKIRVQGDWIRERRFEIPDEEHCLKFLSAVLAAQKAQSQ
+LLVPEQKDSSSWYQKLDTKDKPSVFSGLLGFEDNFSSMNLDKKINSQNQPTGIHREPPPP
+PFSVNKMLPREKEASNKEQPKVTNTMRKLFVPNTQSGQREGLIKHILAKREKEYVNIQTF
+RFFVGTWNVNGQSPDSGLEPWLNCDPNPPDIYCIGFQELDLSTEAFFYFESVKEQEWSMA
+VERGLHSKAKYKKVQLVRLVGMMLLIFARKDQCRYIRDIATETVGTGIMGKMGNKGGVAV
+RFVFHNTTFCIVNSHLAAHVEDFERRNQDYKDICARMSFVVPNQTLPQLNIMKHEVVIWL
+GDLNYRLCMPDANEVKSLINKKDLQRLLKFDQLNIQRTQKKAFVDFNEGEIKFIPTYKYD
+SKTDRWDSSGKCRVPAWCDRILWRGTNVNQLNYRSHMELKTSDHKPVSALFHIGVKVVDE
+RRYRKVFEDSVRIMDRMENDFLPSLELSRREFVFENVKFRQLQKEKFQISNNGQVPCHFS
+FIPKLNDSQYCKPWLRAEPFEGYLEPNETVDISLDVYVSKDSVTILNSGEDKIEDILVLH
+LDRGKDYFLTISGNYLPSCFGTSLEALCRMKRPIREVPVTKLIDLEEDSFLEKEKSLLQM
+VPLDEGASERPLQVPKEIWLLVDHLFKYACHQEDLFQTPGMQEELQQIIDCLDTSIPETI
+PGSNHSVAEALLIFLEALPEPVICYELYQRCLDSAYDPRICRQVISQLPRCHRNVFRYLM
+AFLRELLKFSEYNSVNANMIATLFTSLLLRPPPNLMARQTPSDRQRAIQFLLGFLLGSEE
+D</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>66347006</genbank_protein_id>
+  <uniprot_id>Q01968</uniprot_id>
+  <uniprot_name>OCRL_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2KIE</pdb_id>
+    <pdb_id>2QV2</pdb_id>
+    <pdb_id>3QBT</pdb_id>
+    <pdb_id>3QIS</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AL022162</genbank_gene_id>
+  <genecard_id>OCRL</genecard_id>
+  <geneatlas_id>OCRL</geneatlas_id>
+  <hgnc_id>HGNC:8108</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Attree O, Olivos IM, Okabe I, Bailey LC, Nelson DL, Lewis RA, McInnes RR, Nussbaum RL: The Lowe's oculocerebrorenal syndrome gene encodes a protein highly homologous to inositol polyphosphate-5-phosphatase. Nature. 1992 Jul 16;358(6383):239-42.</reference_text>
+      <pubmed_id>1321346</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nussbaum RL, Orrison BM, Janne PA, Charnas L, Chinault AC: Physical mapping and genomic structure of the Lowe syndrome gene OCRL1.  Hum Genet. 1997 Feb;99(2):145-50.</reference_text>
+      <pubmed_id>9048911</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL, Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME, Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R, Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S, Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O, Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P, Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z, Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S, Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS, Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O, Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H, Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T, Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R, Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S, Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK, Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM, Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J, Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S, Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN, Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S, Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG, Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD, Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K, Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M, Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L, Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S, Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A, Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM, Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R, Hubbard T, Gibbs RA, Beck S, Rogers J, Bentley DR: The DNA sequence of the human X chromosome.  Nature. 2005 Mar 17;434(7031):325-37.</reference_text>
+      <pubmed_id>15772651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leahey AM, Charnas LR, Nussbaum RL: Nonsense mutations in the OCRL-1 gene in patients with the oculocerebrorenal syndrome of Lowe. Hum Mol Genet. 1993 Apr;2(4):461-3.</reference_text>
+      <pubmed_id>8504307</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang X, Jefferson AB, Auethavekiat V, Majerus PW: The protein deficient in Lowe syndrome is a phosphatidylinositol-4,5-bisphosphate 5-phosphatase. Proc Natl Acad Sci U S A. 1995 May 23;92(11):4853-6.</reference_text>
+      <pubmed_id>7761412</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang X, Hartz PA, Philip E, Racusen LC, Majerus PW: Cell lines from kidney proximal tubules of a patient with Lowe syndrome lack OCRL inositol polyphosphate 5-phosphatase and accumulate phosphatidylinositol 4,5-bisphosphate. J Biol Chem. 1998 Jan 16;273(3):1574-82.</reference_text>
+      <pubmed_id>9430698</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin T, Orrison BM, Leahey AM, Suchy SF, Bernard DJ, Lewis RA, Nussbaum RL: Spectrum of mutations in the OCRL1 gene in the Lowe oculocerebrorenal syndrome. Am J Hum Genet. 1997 Jun;60(6):1384-8.</reference_text>
+      <pubmed_id>9199559</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin T, Orrison BM, Suchy SF, Lewis RA, Nussbaum RL: Mutations are not uniformly distributed throughout the OCRL1 gene in Lowe syndrome patients. Mol Genet Metab. 1998 May;64(1):58-61.</reference_text>
+      <pubmed_id>9682219</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kawano T, Indo Y, Nakazato H, Shimadzu M, Matsuda I: Oculocerebrorenal syndrome of Lowe: three mutations in the OCRL1 gene derived from three patients with different phenotypes. Am J Med Genet. 1998 Jun 5;77(5):348-55.</reference_text>
+      <pubmed_id>9632163</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kubota T, Sakurai A, Arakawa K, Shimazu M, Wakui K, Furihata K, Fukushima Y: Identification of two novel mutations in the OCRL1 gene in Japanese families with Lowe syndrome. Clin Genet. 1998 Sep;54(3):199-202.</reference_text>
+      <pubmed_id>9788721</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Monnier N, Satre V, Lerouge E, Berthoin F, Lunardi J: OCRL1 mutation analysis in French Lowe syndrome patients: implications for molecular diagnosis strategy and genetic counseling. Hum Mutat. 2000;16(2):157-65.</reference_text>
+      <pubmed_id>10923037</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Roschinger W, Muntau AC, Rudolph G, Roscher AA, Kammerer S: Carrier assessment in families with lowe oculocerebrorenal syndrome: novel mutations in the OCRL1 gene and correlation of direct DNA diagnosis with ocular examination. Mol Genet Metab. 2000 Mar;69(3):213-22.</reference_text>
+      <pubmed_id>10767176</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hoopes RR Jr, Shrimpton AE, Knohl SJ, Hueber P, Hoppe B, Matyus J, Simckes A, Tasic V, Toenshoff B, Suchy SF, Nussbaum RL, Scheinman SJ: Dent Disease with mutations in OCRL1.  Am J Hum Genet. 2005 Feb;76(2):260-7. Epub 2004 Dec 30.</reference_text>
+      <pubmed_id>15627218</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

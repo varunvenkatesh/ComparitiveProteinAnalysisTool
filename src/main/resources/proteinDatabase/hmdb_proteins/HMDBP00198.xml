@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:19 -0700</creation_date>
+  <update_date>2013-05-27 11:21:08 -0600</update_date>
+  <accession>HMDBP00198</accession>
+  <secondary_accessions>
+    <accession>5430</accession>
+    <accession>HMDBP04880</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HO-1</synonym>
+  </synonyms>
+  <gene_name>HMOX1</gene_name>
+  <general_function>Involved in heme oxygenase (decyclizing) activity</general_function>
+  <specific_function>Heme oxygenase cleaves the heme ring at the alpha methene bridge to form biliverdin. Biliverdin is subsequently converted to bilirubin by biliverdin reductase. Under physiological conditions, the activity of heme oxygenase is highest in the spleen, where senescent erythrocytes are sequestrated and destroyed.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Porphyrin Metabolism</name>
+      <smpdb_id>SMP00024</smpdb_id>
+      <kegg_map_id>map00860</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Porphyrin and chlorophyll metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00860</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Mineral absorption</name>
+      <smpdb_id/>
+      <kegg_map_id>map04978</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01008</accession>
+      <name>Biliverdin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00054</accession>
+      <name>Bilirubin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01197</accession>
+      <name>FADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01361</accession>
+      <name>Carbon monoxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01893</accession>
+      <name>Alpha-Tocopherol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12943</accession>
+      <name>Fe3+</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>heme oxygenase (decyclizing) activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>tetrapyrrole metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>porphyrin metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>heme metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>heme oxidation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>caveola</description>
+      <go_id>GO:0005901</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>extracellular space</description>
+      <go_id>GO:0005615</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>enzyme binding</description>
+      <go_id>GO:0019899</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme oxygenase (decyclizing) activity</description>
+      <go_id>GO:0004392</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>phospholipase D activity</description>
+      <go_id>GO:0004630</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein homodimerization activity</description>
+      <go_id>GO:0042803</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>signal transducer activity</description>
+      <go_id>GO:0004871</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>angiogenesis</description>
+      <go_id>GO:0001525</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell death</description>
+      <go_id>GO:0008219</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular iron ion homeostasis</description>
+      <go_id>GO:0006879</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to cadmium ion</description>
+      <go_id>GO:0071276</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to hypoxia</description>
+      <go_id>GO:0071456</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to nutrient</description>
+      <go_id>GO:0031670</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>endothelial cell proliferation</description>
+      <go_id>GO:0001935</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>erythrocyte homeostasis</description>
+      <go_id>GO:0034101</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>excretion</description>
+      <go_id>GO:0007588</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heme catabolic process</description>
+      <go_id>GO:0042167</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heme oxidation</description>
+      <go_id>GO:0006788</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intracellular protein kinase cascade</description>
+      <go_id>GO:0007243</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>intrinsic apoptotic signaling pathway in response to DNA damage</description>
+      <go_id>GO:0008630</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>low-density lipoprotein particle clearance</description>
+      <go_id>GO:0034383</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of DNA binding</description>
+      <go_id>GO:0043392</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of leukocyte migration</description>
+      <go_id>GO:0002686</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of mast cell cytokine production</description>
+      <go_id>GO:0032764</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of mast cell degranulation</description>
+      <go_id>GO:0043305</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of neuron apoptotic process</description>
+      <go_id>GO:0043524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of sequence-specific DNA binding transcription factor activity</description>
+      <go_id>GO:0043433</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of smooth muscle cell proliferation</description>
+      <go_id>GO:0048662</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of angiogenesis</description>
+      <go_id>GO:0045766</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of chemokine biosynthetic process</description>
+      <go_id>GO:0045080</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of I-kappaB kinase/NF-kappaB cascade</description>
+      <go_id>GO:0043123</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of smooth muscle cell proliferation</description>
+      <go_id>GO:0048661</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of vasodilation</description>
+      <go_id>GO:0045909</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein homooligomerization</description>
+      <go_id>GO:0051260</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of angiogenesis</description>
+      <go_id>GO:0045765</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of blood pressure</description>
+      <go_id>GO:0008217</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of sequence-specific DNA binding transcription factor activity</description>
+      <go_id>GO:0051090</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription from RNA polymerase II promoter in response to oxidative stress</description>
+      <go_id>GO:0043619</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to estrogen stimulus</description>
+      <go_id>GO:0043627</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hydrogen peroxide</description>
+      <go_id>GO:0042542</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nicotine</description>
+      <go_id>GO:0035094</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small GTPase mediated signal transduction</description>
+      <go_id>GO:0007264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>smooth muscle hyperplasia</description>
+      <go_id>GO:0014806</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transmembrane transport</description>
+      <go_id>GO:0055085</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>wound healing involved in inflammatory response</description>
+      <go_id>GO:0002246</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Microsome</subcellular_location>
+    <subcellular_location>Endoplasmic reticulum</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>22</chromosome_location>
+    <locus>22q13.1</locus>
+    <gene_sequence>&gt;867 bp
+ATGGAGCGTCCGCAACCCGACAGCATGCCCCAGGATTTGTCAGAGGCCCTGAAGGAGGCC
+ACCAAGGAGGTGCACACCCAGGCAGAGAATGCTGAGTTCATGAGGAACTTTCAGAAGGGC
+CAGGTGACCCGAGACGGCTTCAAGCTGGTGATGGCCTCCCTGTACCACATCTATGTGGCC
+CTGGAGGAGGAGATTGAGCGCAACAAGGAGAGCCCAGTCTTCGCCCCTGTCTACTTCCCA
+GAAGAGCTGCACCGCAAGGCTGCCCTGGAGCAGGACCTGGCCTTCTGGTACGGGCCCCGC
+TGGCAGGAGGTCATCCCCTACACACCAGCCATGCAGCGCTATGTGAAGCGGCTCCACGAG
+GTGGGGCGCACAGAGCCCGAGCTGCTGGTGGCCCACGCCTACACCCGCTACCTGGGTGAC
+CTGTCTGGGGGCCAGGTGCTCAAAAAGATTGCCCAGAAAGCCCTGGACCTGCCCAGCTCT
+GGCGAGGGCCTGGCCTTCTTCACCTTCCCCAACATTGCCAGTGCCACCAAGTTCAAGCAG
+CTCTACCGCTCCCGCATGAACTCCCTGGAGATGACTCCCGCAGTCAGGCAGAGGGTGATA
+GAAGAGGCCAAGACTGCGTTCCTGCTCAACATCCAGCTCTTTGAGGAGTTGCAGGAGCTG
+CTGACCCATGACACCAAGGACCAGAGCCCCTCACGGGCACCAGGGCTTCGCCAGCGGGCC
+AGCAACAAAGTGCAAGATTCTGCCCCCGTGGAGACTCCCAGAGGGAAGCCCCCACTCAAC
+ACCCGCTCCCAGGCTCCGCTTCTCCGATGGGTCCTTACACTCAGCTTTCTGGTGGCGACA
+GTTGCTGTAGGGCTTTATGCCATGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>288</residue_number>
+    <molecular_weight>32818.345</molecular_weight>
+    <theoretical_pi>8.257</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Heme_oxygenase</name>
+        <pfam_id>PF01126</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Heme oxygenase 1
+MERPQPDSMPQDLSEALKEATKEVHTQAENAEFMRNFQKGQVTRDGFKLVMASLYHIYVA
+LEEEIERNKESPVFAPVYFPEELHRKAALEQDLAFWYGPRWQEVIPYTPAMQRYVKRLHE
+VGRTEPELLVAHAYTRYLGDLSGGQVLKKIAQKALDLPSSGEGLAFFTFPNIASATKFKQ
+LYRSRMNSLEMTPAVRQRVIEEAKTAFLLNIQLFEELQELLTHDTKDQSPSRAPGLRQRA
+SNKVQDSAPVETPRGKPPLNTRSQAPLLRWVLTLSFLVATVAVGLYAM</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>35173</genbank_protein_id>
+  <uniprot_id>P09601</uniprot_id>
+  <uniprot_name>HMOX1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1N3U</pdb_id>
+    <pdb_id>1N45</pdb_id>
+    <pdb_id>1NI6</pdb_id>
+    <pdb_id>1OYK</pdb_id>
+    <pdb_id>1OYL</pdb_id>
+    <pdb_id>1OZE</pdb_id>
+    <pdb_id>1OZL</pdb_id>
+    <pdb_id>1OZR</pdb_id>
+    <pdb_id>1OZW</pdb_id>
+    <pdb_id>1S13</pdb_id>
+    <pdb_id>1S8C</pdb_id>
+    <pdb_id>1T5P</pdb_id>
+    <pdb_id>1TWN</pdb_id>
+    <pdb_id>1TWR</pdb_id>
+    <pdb_id>1XJZ</pdb_id>
+    <pdb_id>1XK0</pdb_id>
+    <pdb_id>1XK1</pdb_id>
+    <pdb_id>1XK2</pdb_id>
+    <pdb_id>1XK3</pdb_id>
+    <pdb_id>3CZY</pdb_id>
+    <pdb_id>3HOK</pdb_id>
+    <pdb_id>3K4F</pdb_id>
+    <pdb_id>3TGM</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X06985</genbank_gene_id>
+  <genecard_id>HMOX1</genecard_id>
+  <geneatlas_id>HMOX1</geneatlas_id>
+  <hgnc_id>HGNC:5013</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yoshida T, Biro P, Cohen T, Muller RM, Shibahara S: Human heme oxygenase cDNA and induction of its mRNA by hemin.  Eur J Biochem. 1988 Feb 1;171(3):457-61.</reference_text>
+      <pubmed_id>3345742</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Collins JE, Wright CL, Edwards CA, Davis MP, Grinham JA, Cole CG, Goward ME, Aguado B, Mallya M, Mokrab Y, Huckle EJ, Beare DM, Dunham I: A genome annotation-driven approach to cloning the human ORFeome.  Genome Biol. 2004;5(10):R84. Epub 2004 Sep 30.</reference_text>
+      <pubmed_id>15461802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunham I, Shimizu N, Roe BA, Chissoe S, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, O'Brien KP, et al.: The DNA sequence of human chromosome 22.  Nature. 1999 Dec 2;402(6761):489-95.</reference_text>
+      <pubmed_id>10591208</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Keyse SM, Tyrrell RM: Heme oxygenase is the major 32-kDa stress protein induced in human skin fibroblasts by UVA radiation, hydrogen peroxide, and sodium arsenite. Proc Natl Acad Sci U S A. 1989 Jan;86(1):99-103.</reference_text>
+      <pubmed_id>2911585</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shibahara S, Sato M, Muller RM, Yoshida T: Structural organization of the human heme oxygenase gene and the function of its promoter. Eur J Biochem. 1989 Feb 15;179(3):557-63.</reference_text>
+      <pubmed_id>2537723</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schuller DJ, Wilks A, Ortiz de Montellano PR, Poulos TL: Crystal structure of human heme oxygenase-1.  Nat Struct Biol. 1999 Sep;6(9):860-7.</reference_text>
+      <pubmed_id>10467099</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bilirubin</name>
+        <accession>HMDB00054</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Matsuoka Y, Masuda H, Yokoyama M, Kihara K: Protective effects of bilirubin against cyclophosphamide induced hemorrhagic cystitis in rats. J Urol. 2008 Mar;179(3):1160-6.</reference_text>
+        <pubmed_id>18206168</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Tocopherol</name>
+        <accession>HMDB01893</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Feng Z, Liu Z, Li X, Jia H, Sun L, Tian C, Jia L, Liu J: alpha-Tocopherol is an effective Phase II enzyme inducer: protective effects on acrolein-induced oxidative stress and mitochondrial dysfunction in human retinal pigment epithelial cells. J Nutr Biochem. 2010 Dec;21(12):1222-31. Epub 2010 Feb 12.</reference_text>
+        <pubmed_id>20153624</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

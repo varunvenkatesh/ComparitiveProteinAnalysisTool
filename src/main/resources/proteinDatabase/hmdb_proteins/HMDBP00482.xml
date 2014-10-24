@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:23 -0700</creation_date>
+  <update_date>2013-05-27 11:40:05 -0600</update_date>
+  <accession>HMDBP00482</accession>
+  <secondary_accessions>
+    <accession>5724</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>UDPGT 2A1</synonym>
+  </synonyms>
+  <gene_name>UGT2A1</gene_name>
+  <general_function>Involved in transferase activity, transferring hexosyl groups</general_function>
+  <specific_function>UDP-glucuronosyltransferases catalyze phase II biotransformation reactions in which lipophilic substrates are conjugated with glucuronic acid to increase water solubility and enhance excretion. They are of major importance in the conjugation and subsequent elimination of potentially toxic xenobiotics and endogenous compounds. Active on odorants and seems to be involved in olfaction; it could help clear lipophilic odorant molecules from the sensory epithelium.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Pentose and glucuronate interconversions</name>
+      <smpdb_id/>
+      <kegg_map_id>map00040</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Ascorbate and aldarate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00053</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Steroid hormone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00140</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Starch and sucrose metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00500</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Retinol metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00830</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Porphyrin and chlorophyll metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00860</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Metabolism of xenobiotics by cytochrome P450</name>
+      <smpdb_id/>
+      <kegg_map_id>map00980</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - cytochrome P450</name>
+      <smpdb_id/>
+      <kegg_map_id>map00982</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Drug metabolism - other enzymes</name>
+      <smpdb_id/>
+      <kegg_map_id>map00983</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Chemical carcinogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map05204</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00010</accession>
+      <name>2-Methoxyestrone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00031</accession>
+      <name>Androsterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00054</accession>
+      <name>Bilirubin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00145</accession>
+      <name>Estrone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00151</accession>
+      <name>Estradiol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00153</accession>
+      <name>Estriol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00234</accession>
+      <name>Testosterone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00405</accession>
+      <name>2-Methoxyestradiol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00490</accession>
+      <name>Etiocholanolone</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00496</accession>
+      <name>3-Methoxy-4-hydroxyphenylglycol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00901</accession>
+      <name>Valproic acid glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00935</accession>
+      <name>Uridine diphosphate glucuronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01013</accession>
+      <name>Cotinine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01204</accession>
+      <name>trans-3-Hydroxycotinine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01272</accession>
+      <name>Nicotine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01852</accession>
+      <name>All-trans-retinoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02091</accession>
+      <name>Isovalerylglucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02513</accession>
+      <name>Lithocholate 3-O-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02577</accession>
+      <name>Cholic acid glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02579</accession>
+      <name>Glycochenodeoxycholic acid 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02596</accession>
+      <name>Deoxycholic acid 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02829</accession>
+      <name>Androsterone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02833</accession>
+      <name>Testosterone sulfate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03141</accession>
+      <name>Retinoyl b-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03193</accession>
+      <name>Testosterone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03325</accession>
+      <name>Bilirubin diglucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04482</accession>
+      <name>2-Methoxyestrone 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04483</accession>
+      <name>Estrone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04484</accession>
+      <name>Etiocholanolone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04995</accession>
+      <name>Codeine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06203</accession>
+      <name>5-alpha-Dihydrotestosterone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06224</accession>
+      <name>17-beta-Estradiol-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06765</accession>
+      <name>2-Methoxy-estradiol-17b 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06766</accession>
+      <name>Estriol-16-Glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10313</accession>
+      <name>1-Salicylate glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10315</accession>
+      <name>4-Hydroxyandrostenedione glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10317</accession>
+      <name>17-beta-Estradiol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10318</accession>
+      <name>Pregnanediol-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10319</accession>
+      <name>Inodxyl glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10320</accession>
+      <name>Cortolone-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10321</accession>
+      <name>3,17-Androstanediol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10322</accession>
+      <name>17-alpha-Estradiol-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10323</accession>
+      <name>Phenethylamine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10324</accession>
+      <name>Benzoyl glucuronide (Benzoic acid)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10326</accession>
+      <name>Thyroxine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10327</accession>
+      <name>Dehydroisoandrosterone 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10328</accession>
+      <name>Tyramine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10329</accession>
+      <name>Dopamine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10330</accession>
+      <name>Cholesterol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10331</accession>
+      <name>Palmitoyl glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10332</accession>
+      <name>Bilirubin glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10333</accession>
+      <name>Estriol-17-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10334</accession>
+      <name>Ketoprofen glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10335</accession>
+      <name>Estriol-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10336</accession>
+      <name>Epinephrine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10337</accession>
+      <name>6-Dehydrotestosterone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10338</accession>
+      <name>11-Oxo-androsterone glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10339</accession>
+      <name>3-alpha-Androstanediol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10340</accession>
+      <name>Retinyl beta-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10341</accession>
+      <name>Dextrorphan O-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10342</accession>
+      <name>25-Hydroxyvitamin D2-25-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10343</accession>
+      <name>1-(alpha-Methyl-4-(2-methylpropyl)benzeneacetate)-beta-D-Glucopyranuronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10344</accession>
+      <name>Vitamin D2 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10345</accession>
+      <name>Aldosterone 18-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10346</accession>
+      <name>Triiodothyronine glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10347</accession>
+      <name>Octanoylglucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10348</accession>
+      <name>Dehydroepiandrosterone 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10350</accession>
+      <name>2-Phenylethanol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10351</accession>
+      <name>11-beta-Hydroxyandrosterone-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10352</accession>
+      <name>3-alpha,20-alpha-Dihydroxy-5-beta-pregnane 3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10353</accession>
+      <name>15-Hydroxynorandrostene-3,17-dione glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10354</accession>
+      <name>16-alpha,17-beta-estriol 17-beta-D-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10355</accession>
+      <name>Cholestane-3,7,12,25-tetrol-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10356</accession>
+      <name>Estriol 3-sulfate 16-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10357</accession>
+      <name>Tetrahydroaldosterone-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10359</accession>
+      <name>17-Hydroxyandrostane-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10360</accession>
+      <name>25-Hydroxyvitamin D2 25-(beta-glucuronide)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10361</accession>
+      <name>(23S)-23,25-dihdroxy-24-oxovitamine D3 23-(beta-glucuronide)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10362</accession>
+      <name>6-Hydroxy-5-methoxyindole glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10363</accession>
+      <name>5-Hydroxy-6-methoxyindole glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10364</accession>
+      <name>11-Hydroxyprogesterone 11-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB10365</accession>
+      <name>3-alpha-hydroxy-5-alpha-androstane-17-one 3-D-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41796</accession>
+      <name>2,2,2-Trichloroethanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB42049</accession>
+      <name>Trichloroethanol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60510</accession>
+      <name>SN-38</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60511</accession>
+      <name>SN38 glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60464</accession>
+      <name>Codeine-6-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14440</accession>
+      <name>Morphine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41936</accession>
+      <name>Morphine-3-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41937</accession>
+      <name>Morphine-6-glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00127</accession>
+      <name>D-Glucuronic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB41809</accession>
+      <name>4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60383</accession>
+      <name>4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol glucuronide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60498</accession>
+      <name>NNAL-N-glucuronide</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring hexosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glucuronosyltransferase activity</description>
+      <go_id>GO:0015020</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular glucuronidation</description>
+      <go_id>GO:0052695</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>detection of chemical stimulus</description>
+      <go_id>GO:0009593</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sensory perception of smell</description>
+      <go_id>GO:0007608</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>4</chromosome_location>
+    <locus>4q13.3</locus>
+    <gene_sequence>&gt;1584 bp
+ATGTTAAACAACCTTCTGCTGTTCTCCCTTCAGATAAGTCTCATAGGAACCACTCTTGGT
+GGGAATGTTTTGATTTGGCCAATGGAAGGTAGTCATTGGCTAAATGTTAAGATAATTATA
+GATGAGCTCATTAAAAAGGAGCATAATGTGACTGTCCTAGTTGCCTCTGGTGCACTTTTC
+ATCACACCAACCTCTAACCCATCTCTGACATTTGAAATATATAGGGTGCCCTTTGGCAAA
+GAAAGAATAGAAGGAGTAATTAAGGACTTCGTTTTGACATGGCTGGAAAATAGACCATCT
+CCTTCAACCATTTGGAGATTCTATCAGGAGATGGCCAAAGTAATCAAGGACTTCCACATG
+GTGTCTCAGGAGATCTGTGATGGCGTTCTTAAAAACCAACAGCTGATGGCAAAGCTAAAG
+AAAAGCAAGTTTGAAGTCCTGGTGTCTGATCCAGTATTTCCTTGTGGCGATATAGTAGCT
+TTAAAACTTGGAATTCCATTTATGTACTCCTTGAGGTTTTCTCCAGCCTCAACAGTGGAA
+AAGCACTGTGGGAAGGTACCATACCCTCCTTCCTATGTTCCTGCTGTTTTATCAGAACTC
+ACCGACCAAATGTCTTTCACTGACAGAATAAGAAATTTCATCTCCTACCACCTACAGGAC
+TACATGTTTGAAACTCTTTGGAAATCATGGGATTCATACTATAGTAAAGCTTTAGGAAGA
+CCCACTACGTTATGTGAGACTATGGGGAAAGCTGAAATTTGGTTAATCCGAACATATTGG
+GATTTTGAATTTCCTCGTCCATACTTACCTAATTTTGAGTTTGTTGGAGGATTGCACTGC
+AAACCTGCCAAACCTTTACCTAAGGAAATGGAAGAATTTATCCAGAGCTCAGGTAAAAAT
+GGTGTTGTGGTGTTTTCTCTGGGATCAATGGTCAAAAACCTTACAGAAGAAAAGGCCAAT
+CTTATTGCCTCAGCCCTTGCCCAGATTCCACAGAAGGTTTTATGGAGATACAAAGGAAAG
+AAACCAGCCACATTAGGAAACAATACTCAGCTCTTTGATTGGATACCCCAGAATGATCTT
+CTTGGACATCCCAAAACCAAAGCTTTTATCACTCATGGTGGAACTAATGGGATCTACGAA
+GCTATTTACCACGGAGTCCCTATGGTGGGAGTTCCCATGTTTGCTGATCAGCCTGATAAC
+ATTGCTCACATGAAGGCCAAAGGAGCAGCTGTGGAAGTGAACCTAAACACAATGACAAGT
+GTGGATTTGCTTAGCGCTTTGAGAACAGTCATTAATGAACCTTCTTATAAAGAGAATGCT
+ATGAGGTTATCAAGAATTCACCATGATCAACCTGTAAAGCCCCTGGATCGAGCAGTCTTC
+TGGATCGAGTTTGTCATGCGCCACAAAGGAGCCAAGCACCTTCGGGTTGCAGCCCATGAC
+CTCACCTGGTTCCAGTACCACTCTTTGGATGTAATTGGGTTCTTGCTGGTCTGTGTGACA
+ACGGCTATATTTTTGGTCATACAATGTTGTTTGTTTTCCTGTCAAAAATTTGGTAAGATA
+GGAAAGAAGAAAAAAAGAGAATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>527</residue_number>
+    <molecular_weight>60771.605</molecular_weight>
+    <theoretical_pi>8.796</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UDPGT</name>
+        <pfam_id>PF00201</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;UDP-glucuronosyltransferase 2A1
+MLNNLLLFSLQISLIGTTLGGNVLIWPMEGSHWLNVKIIIDELIKKEHNVTVLVASGALF
+ITPTSNPSLTFEIYRVPFGKERIEGVIKDFVLTWLENRPSPSTIWRFYQEMAKVIKDFHM
+VSQEICDGVLKNQQLMAKLKKSKFEVLVSDPVFPCGDIVALKLGIPFMYSLRFSPASTVE
+KHCGKVPYPPSYVPAVLSELTDQMSFTDRIRNFISYHLQDYMFETLWKSWDSYYSKALGR
+PTTLCETMGKAEIWLIRTYWDFEFPRPYLPNFEFVGGLHCKPAKPLPKEMEEFIQSSGKN
+GVVVFSLGSMVKNLTEEKANLIASALAQIPQKVLWRYKGKKPATLGNNTQLFDWIPQNDL
+LGHPKTKAFITHGGTNGIYEAIYHGVPMVGVPMFADQPDNIAHMKAKGAAVEVNLNTMTS
+VDLLSALRTVINEPSYKENAMRLSRIHHDQPVKPLDRAVFWIEFVMRHKGAKHLRVAAHD
+LTWFQYHSLDVIGFLLVCVTTAIFLVIQCCLFSCQKFGKIGKKKKRE</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>110611919</genbank_protein_id>
+  <uniprot_id>Q9Y4X1</uniprot_id>
+  <uniprot_name>UD2A1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_006798.2</genbank_gene_id>
+  <genecard_id>UGT2A1</genecard_id>
+  <geneatlas_id>UGT2A1</geneatlas_id>
+  <hgnc_id>HGNC:28183</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Jedlitschky G, Cassidy AJ, Sales M, Pratt N, Burchell B: Cloning and characterization of a novel human olfactory UDP-glucuronosyltransferase. Biochem J. 1999 Jun 15;340 ( Pt 3):837-43.</reference_text>
+      <pubmed_id>10359671</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sneitz N, Court MH, Zhang X, Laajanen K, Yee KK, Dalton P, Ding X, Finel M: Human UDP-glucuronosyltransferase UGT2A2: cDNA construction, expression, and functional characterization in comparison with UGT2A1 and UGT2A3. Pharmacogenet Genomics. 2009 Oct 24.</reference_text>
+      <pubmed_id>19858781</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hillier LW, Graves TA, Fulton RS, Fulton LA, Pepin KH, Minx P, Wagner-McPherson C, Layman D, Wylie K, Sekhon M, Becker MC, Fewell GA, Delehaunty KD, Miner TL, Nash WE, Kremitzki C, Oddy L, Du H, Sun H, Bradshaw-Cordum H, Ali J, Carter J, Cordes M, Harris A, Isak A, van Brunt A, Nguyen C, Du F, Courtney L, Kalicki J, Ozersky P, Abbott S, Armstrong J, Belter EA, Caruso L, Cedroni M, Cotton M, Davidson T, Desai A, Elliott G, Erb T, Fronick C, Gaige T, Haakenson W, Haglund K, Holmes A, Harkins R, Kim K, Kruchowski SS, Strong CM, Grewal N, Goyea E, Hou S, Levy A, Martinka S, Mead K, McLellan MD, Meyer R, Randall-Maher J, Tomlinson C, Dauphin-Kohlberg S, Kozlowicz-Reilly A, Shah N, Swearengen-Shahid S, Snider J, Strong JT, Thompson J, Yoakum M, Leonard S, Pearman C, Trani L, Radionenko M, Waligorski JE, Wang C, Rock SM, Tin-Wollam AM, Maupin R, Latreille P, Wendl MC, Yang SP, Pohl C, Wallis JW, Spieth J, Bieri TA, Berkowicz N, Nelson JO, Osborne J, Ding L, Meyer R, Sabo A, Shotland Y, Sinha P, Wohldmann PE, Cook LL, Hickenbotham MT, Eldred J, Williams D, Jones TA, She X, Ciccarelli FD, Izaurralde E, Taylor J, Schmutz J, Myers RM, Cox DR, Huang X, McPherson JD, Mardis ER, Clifton SW, Warren WC, Chinwalla AT, Eddy SR, Marra MA, Ovcharenko I, Furey TS, Miller W, Eichler EE, Bork P, Suyama M, Torrents D, Waterston RH, Wilson RK: Generation and annotation of the DNA sequences of human chromosomes 2 and 4. Nature. 2005 Apr 7;434(7034):724-31.</reference_text>
+      <pubmed_id>15815621</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

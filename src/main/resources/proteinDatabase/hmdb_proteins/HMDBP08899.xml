@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:16:50 -0700</creation_date>
+  <update_date>2013-05-27 11:06:32 -0600</update_date>
+  <accession>HMDBP08899</accession>
+  <secondary_accessions>
+    <accession>14628</accession>
+    <accession>HMDBP09431</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CDC14 cell division cycle 14 homolog B</synonym>
+    <synonym>SubName: cDNA FLJ44424 fis, clone UTERU2005621, highly similar to Dual specificity protein phosphatase CDC14B (EC 3.1.3.48)</synonym>
+  </synonyms>
+  <gene_name>CDC14B</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Dual-specificity phosphatase involved in DNA damage response. Essential regulator of the G2 DNA damage checkpoint: following DNA damage, translocates to the nucleus and dephosphorylates FZR1/CDH1, a key activator of the anaphase promoting complex/cyclosome (APC/C). Dephosphorylation of FZR1/CDH1 activates the APC/C, leading to the ubiquitination of PLK1, preventing entry into mitosis. Preferentially dephosphorylates proteins modified by proline-directed kinases.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Cell cycle</name>
+      <smpdb_id/>
+      <kegg_map_id>map04110</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine/serine/threonine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear membrane</description>
+      <go_id>GO:0031965</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein serine/threonine phosphatase activity</description>
+      <go_id>GO:0004722</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004725</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein tyrosine/serine/threonine phosphatase activity</description>
+      <go_id>GO:0008138</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>activation of anaphase-promoting complex activity</description>
+      <go_id>GO:0051488</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA repair</description>
+      <go_id>GO:0006281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>G2/M transition DNA damage checkpoint</description>
+      <go_id>GO:0031572</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleolus</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>nucleoplasm</subcellular_location>
+    <subcellular_location>Cytoplasmic</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>9</chromosome_location>
+    <locus>9q22.3</locus>
+    <gene_sequence>&gt;1497 bp
+ATGAAGCGGAAAAGCGAGCGGCGGTCGAGCTGGGCCGCCGCGCCCCCCTGCTCGCGGCGC
+TGCTCGTCGACCTCGCCGGGTGTGAAGAAGATCCGCAGCTCCACGCAGCAAGACCCGCGC
+CGCCGGGACCCCCAGGACGACGTGTACCTGGACATCACCGATCGCCTTTGTTTTGCCATT
+CTCTACAGCAGACCAAAGAGTGCATCAAATGTACATTATTTCAGCATAGATAATGAACTT
+GAATATGAGAACTTCTACGCAGATTTTGGACCACTCAATCTGGCAATGGTTTACAGATAT
+TGTTGCAAGATCAATAAGAAATTAAAGTCCATTACAATGTTAAGGAAGAAAATTGTTCAT
+TTTACTGGCTCTGATCAGAGAAAACAAGCAAATGCTGCCTTCCTTGTTGGATGCTACATG
+GTTATATATTTGGGGAGAACCCCAGAAGAAGCATATAGAATATTAATCTTTGGAGAGACA
+TCCTATATTCCTTTCAGAGATGCTGCCTATGGAAGTTGCAATTTCTACATTACACTTCTT
+GACTGTTTTCATGCAGTAAAGAAGGCAATGCAGTATGGCTTCCTTAATTTCAACTCATTT
+AACCTTGATGAATATGAACACTATGAAAAAGCAGAAAATGGAGATTTAAATTGGATAATA
+CCAGACCGATTTATTGCCTTCTGTGGACCTCATTCAAGAGCCAGACTTGAAAGTGGTTAC
+CACCAACATTCTCCTGAGACTTATATTCAATATTTTAAGAATCACAATGTTACTACCATT
+ATTCGTCTGAATAAAAGGATGTATGATGCCAAACGCTTTACGGATGCTGGCTTCGATCAC
+CATGATCTTTTCTTTGCGGATGGCAGCACCCCTACTGATGCCATTGTCAAAGAATTCCTA
+GATATCTGTGAAAATGCTGAGGGTGCCATTGCAGTACATTGCAAAGCTGGCCTTGGTCGC
+ACGGGCACTCTGATAGCCTGCTACATCATGAAGCATTACAGGATGACAGCAGCCGAGACC
+ATTGCGTGGGTCAGGATCTGCAGACCTGGCTCGGTGATTGGGCCTCAGCAGCAGTTTTTG
+GTGATGAAGCAAACCAACCTCTGGCTGGAAGGGGACTATTTTCGTCAGAAGTTAAAGGGG
+CAGGAGAATGGACAACACAGAGCAGCCTTCTCCAAACTTCTCTCTGGCGTTGATGACATT
+TCCATAAATGGGGTCGAGAATCAAGATCAGCAAGAACCCGAACCGTACAGTGATGATGAC
+GAAATCAATGGAGTGACACAAGGTGATAGACTTCGGGCCTTGAAAAGCAGAAGACAATCC
+AAAACAAACGCTATTCCTCTCACAGTAATTCTTCAATCCAGTGTTCAGAGCTGTAAAACA
+TCTGAACCTAACATTTCTGGCAGTGCAGGCATTACTAAAAGAACCACCAGATCTGCTTCA
+AGGAAAAGCAGTGTTAAAAGTCTCTCCATTTCAAGGACTAAAACAGTCTTGCGTTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>498</residue_number>
+    <molecular_weight>52310.04</molecular_weight>
+    <theoretical_pi>8.651</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DSPc</name>
+        <pfam_id>PF00782</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Dual specificity protein phosphatase CDC14B
+MKRKSERRSSWAAAPPCSRRCSSTSPGVKKIRSSTQQDPRRRDPQDDVYLDITDRLCFAI
+LYSRPKSASNVHYFSIDNELEYENFYADFGPLNLAMVYRYCCKINKKLKSITMLRKKIVH
+FTGSDQRKQANAAFLVGCYMVIYLGRTPEEAYRILIFGETSYIPFRDAAYGSCNFYITLL
+DCFHAVKKAMQYGFLNFNSFNLDEYEHYEKAENGDLNWIIPDRFIAFCGPHSRARLESGY
+HQHSPETYIQYFKNHNVTTIIRLNKRMYDAKRFTDAGFDHHDLFFADGSTPTDAIVKEFL
+DICENAEGAIAVHCKAGLGRTGTLIACYIMKHYRMTAAETIAWVRICRPGSVIGPQQQFL
+VMKQTNLWLEGDYFRQKLKGQENGQHRAAFSKLLSGVDDISINGVENQDQQEPEPYSDDD
+EINGVTQGDRLRALKSRRQSKTNAIPLTVILQSSVQSCKTSEPNISGSAGITKRTTRSAS
+RKSSVKSLSISRTKTVLR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>15451936</genbank_protein_id>
+  <uniprot_id>O60729</uniprot_id>
+  <uniprot_name>CC14B_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1OHC</pdb_id>
+    <pdb_id>1OHD</pdb_id>
+    <pdb_id>1OHE</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_033331.2</genbank_gene_id>
+  <genecard_id>CDC14B</genecard_id>
+  <geneatlas_id>CDC14B</geneatlas_id>
+  <hgnc_id>HGNC:1719</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Li L, Ernsting BR, Wishart MJ, Lohse DL, Dixon JE: A family of putative tumor suppressors is structurally and functionally conserved in humans and yeast. J Biol Chem. 1997 Nov 21;272(47):29403-6.</reference_text>
+      <pubmed_id>9367992</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaiser BK, Zimmerman ZA, Charbonneau H, Jackson PK: Disruption of centrosome structure, chromosome segregation, and cytokinesis by misexpression of human Cdc14A phosphatase. Mol Biol Cell. 2002 Jul;13(7):2289-300.</reference_text>
+      <pubmed_id>12134069</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mailand N, Lukas C, Kaiser BK, Jackson PK, Bartek J, Lukas J: Deregulated human Cdc14A phosphatase disrupts centrosome separation and chromosome segregation. Nat Cell Biol. 2002 Apr;4(4):317-22.</reference_text>
+      <pubmed_id>11901424</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bassermann F, Frescas D, Guardavaccaro D, Busino L, Peschiaroli A, Pagano M: The Cdc14B-Cdh1-Plk1 axis controls the G2 DNA-damage-response checkpoint.  Cell. 2008 Jul 25;134(2):256-67.</reference_text>
+      <pubmed_id>18662541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gray CH, Good VM, Tonks NK, Barford D: The structure of the cell cycle protein Cdc14 reveals a proline-directed protein phosphatase. EMBO J. 2003 Jul 15;22(14):3524-35.</reference_text>
+      <pubmed_id>12853468</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

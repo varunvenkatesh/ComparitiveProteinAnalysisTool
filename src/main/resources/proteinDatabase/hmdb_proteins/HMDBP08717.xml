@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:14:24 -0700</creation_date>
+  <update_date>2013-05-27 11:13:45 -0600</update_date>
+  <accession>HMDBP08717</accession>
+  <secondary_accessions>
+    <accession>14439</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>BTF2 p80</synonym>
+    <synonym>Basic transcription factor 2 80 kDa subunit</synonym>
+    <synonym>CXPD</synonym>
+    <synonym>DNA excision repair protein ERCC-2</synonym>
+    <synonym>DNA repair protein complementing XP-D cells</synonym>
+    <synonym>TFIIH 80 kDa subunit</synonym>
+    <synonym>TFIIH basal transcription factor complex 80 kDa subunit</synonym>
+    <synonym>TFIIH p80</synonym>
+    <synonym>Xeroderma pigmentosum group D-complementing protein</synonym>
+  </synonyms>
+  <gene_name>ERCC2</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>ATP-dependent 5'-3' DNA helicase, component of the core-TFIIH basal transcription factor. Involved in nucleotide excision repair (NER) of DNA by opening DNA around the damage, and in RNA transcription by RNA polymerase II by anchoring the CDK-activating kinase (CAK) complex, composed of CDK7, cyclin H and MAT1, to the core-TFIIH complex. Involved in the regulation of vitamin-D receptor activity. As part of the mitotic spindle-associated MMXD complex it plays a role in chromosome segregation. Might have a role in aging process and could play a causative role in the generation of skin cancers.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Nucleotide Excision Repair</name>
+      <smpdb_id>SMP00478</smpdb_id>
+      <kegg_map_id></kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Basal transcription factors</name>
+      <smpdb_id/>
+      <kegg_map_id>map03022</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Nucleotide excision repair</name>
+      <smpdb_id/>
+      <kegg_map_id>map03420</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity, coupled</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>nucleotide-excision repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>holo TFIIH complex</description>
+      <go_id>GO:0005675</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>MMXD complex</description>
+      <go_id>GO:0071817</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>SSL2-core TFIIH complex</description>
+      <go_id>GO:0000441</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>4 iron, 4 sulfur cluster binding</description>
+      <go_id>GO:0051539</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>5'-3' DNA helicase activity</description>
+      <go_id>GO:0043139</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent DNA helicase activity</description>
+      <go_id>GO:0004003</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-dependent ATPase activity</description>
+      <go_id>GO:0008094</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>7-methylguanosine mRNA capping</description>
+      <go_id>GO:0006370</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>aging</description>
+      <go_id>GO:0007568</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>apoptotic process</description>
+      <go_id>GO:0006915</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>bone mineralization</description>
+      <go_id>GO:0030282</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell cycle checkpoint</description>
+      <go_id>GO:0000075</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell proliferation</description>
+      <go_id>GO:0008283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>central nervous system myelin formation</description>
+      <go_id>GO:0032289</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>chromosome segregation</description>
+      <go_id>GO:0007059</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic cleavage</description>
+      <go_id>GO:0040016</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>erythrocyte maturation</description>
+      <go_id>GO:0043249</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>extracellular matrix organization</description>
+      <go_id>GO:0030198</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hair cell differentiation</description>
+      <go_id>GO:0035315</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hair follicle maturation</description>
+      <go_id>GO:0048820</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hematopoietic stem cell differentiation</description>
+      <go_id>GO:0060218</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>in utero embryonic development</description>
+      <go_id>GO:0001701</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>induction of apoptosis</description>
+      <go_id>GO:0006917</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organism growth</description>
+      <go_id>GO:0035264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA damage removal</description>
+      <go_id>GO:0000718</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleotide-excision repair, DNA incision</description>
+      <go_id>GO:0033683</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of DNA binding</description>
+      <go_id>GO:0043388</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of viral transcription</description>
+      <go_id>GO:0050434</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>post-embryonic development</description>
+      <go_id>GO:0009791</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein phosphorylation</description>
+      <go_id>GO:0006468</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hypoxia</description>
+      <go_id>GO:0001666</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>skin development</description>
+      <go_id>GO:0043588</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>spinal cord development</description>
+      <go_id>GO:0021510</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>termination of RNA polymerase I transcription</description>
+      <go_id>GO:0006363</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase I promoter</description>
+      <go_id>GO:0006362</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription elongation from RNA polymerase II promoter</description>
+      <go_id>GO:0006368</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase I promoter</description>
+      <go_id>GO:0006361</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from RNA polymerase II promoter</description>
+      <go_id>GO:0006367</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription-coupled nucleotide-excision repair</description>
+      <go_id>GO:0006283</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>UV protection</description>
+      <go_id>GO:0009650</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>viral reproduction</description>
+      <go_id>GO:0016032</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>virus-host interaction</description>
+      <go_id>GO:0019048</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19q13.3</locus>
+    <gene_sequence>&gt;2283 bp
+ATGAAGCTCAACGTGGACGGGCTCCTGGTCTACTTCCCGTACGACTACATCTACCCCGAG
+CAGTTCTCCTACATGCGGGAGCTCAAACGCACGCTGGACGCCAAGGGTCATGGAGTCCTG
+GAGATGCCCTCAGGCACCGGGAAGACAGTATCCCTGTTGGCCCTGATCATGGCATACCAG
+AGAGCATATCCGCTGGAGGTGACCAAACTCATCTACTGCTCAAGAACTGTGCCAGAGATT
+GAGAAGGTGATTGAAGAGCTTCGAAAGTTGCTCAACTTCTATGAGAAGCAGGAGGGCGAG
+AAGCTGCCGTTTCTGGGACTGGCTCTGAGCTCCCGCAAAAACTTGTGTATTCACCCTGAG
+GTGACACCCCTGCGCTTTGGGAAGGACGTCGATGGGAAATGCCACAGCCTCACAGCCTCC
+TATGTGCGGGCGCAGTACCAGCATGACACCAGCCTGCCCCACTGCCGATTCTATGAGGAA
+TTTGATGCCCATGGGCGTGAGGTGCCCCTCCCCGCTGGCATCTACAACCTGGATGACCTG
+AAGGCCCTGGGGCGGCGCCAGGGCTGGTGCCCATACTTCCTTGCTCGATACTCAATCCTG
+CATGCCAATGTGGTGGTTTATAGCTACCACTACCTCCTGGACCCCAAGATTGCAGACCTG
+GTGTCCAAGGAACTGGCCCGCAAGGCCGTCGTGGTCTTCGACGAGGCCCACAACATTGAC
+AACGTCTGCATCGACTCCATGAGCGTCAACCTCACCCGCCGGACCCTTGACCGGTGCCAG
+GGCAACCTGGAGACCCTGCAGAAGACGGTGCTCAGGATCAAAGAGACAGACGAGCAGCGC
+CTGCGGGACGAGTACCGGCGTCTGGTGGAGGGGCTGCGGGAGGCCAGCGCCGCCCGGGAG
+ACGGACGCCCACCTGGCCAACCCCGTGCTGCCCGACGAAGTGCTGCAGGAGGCAGTGCCT
+GGCTCCATCCGCACGGCCGAGCATTTCCTGGGCTTCCTGAGGCGGCTGCTGGAGTACGTG
+AAGTGGCGGCTGCGTGTGCAGCATGTGGTGCAGGAGAGCCCGCCCGCCTTCCTGAGCGGC
+CTGGCCCAGCGCGTGTGCATCCAGCGCAAGCCCCTCAGATTCTGTGCTGAACGCCTCCGG
+TCCCTGCTGCATACTCTGGAGATCACCGACCTTGCTGACTTCTCCCCGCTCACCCTCCTT
+GCTAACTTTGCCACCCTTGTCAGCACCTACGCCAAAGGCTTCACCATCATCATCGAGCCC
+TTTGACGACAGAACCCCGACCATTGCCAACCCCATCCTGCACTTCAGCTGCATGGACGCC
+TCGCTGGCCATCAAACCCGTATTTGAGCGTTTCCAGTCTGTCATCATCACATCTGGGACA
+CTGTCCCCGCTGGACATCTACCCCAAGATCCTGGACTTCCACCCCGTCACCATGGCAACC
+TTCACCATGACGCTGGCACGGGTCTGCCTCTGCCCTATGATCATCGGCCGTGGCAATGAC
+CAGGTGGCCATCAGCTCCAAATTTGAGACCCGGGAGGATATTGCTGTGATCCGGAACTAT
+GGGAACCTCCTGCTGGAGATGTCCGCTGTGGTCCCTGATGGCATCGTGGCCTTCTTCACC
+AGCTACCAGTACATGGAGAGCACCGTGGCCTCCTGGTATGAGCAGGGGATCCTTGAGAAC
+ATCCAGAGGAACAAGCTGCTCTTTATTGAGACCCAGGATGGTGCCGAAACCAGTGTCGCC
+CTGGAGAAGTACCAGGAGGCCTGCGAGAATGGCCGCGGGGCCATCCTGCTGTCAGTGGCC
+CGGGGCAAAGTGTCCGAGGGAATCGACTTTGTGCACCACTACGGGCGGGCCGTCATCATG
+TTTGGCGTCCCCTACGTCTACACACAGAGCCGCATTCTCAAGGCGCGGCTGGAATACCTG
+CGGGACCAGTTCCAGATTCGTGAGAATGACTTTCTTACCTTCGATGCCATGCGCCACGCG
+GCCCAGTGTGTGGGTCGGGCCATCAGGGGCAAGACGGACTACGGCCTCATGGTCTTTGCC
+GACAAGCGGTTTGCCCGTGGGGACAAGCGGGGGAAGCTGCCCCGCTGGATCCAGGAGCAC
+CTCACAGATGCCAACCTCAACCTGACCGTGGACGAGGGTGTCCAGGTGGCCAAGTACTTC
+CTGCGGCAGATGGCACAGCCCTTCCACCGGGAGGATCAGCTGGGCCTGTCCCTGCTCAGC
+CTGGAGCAGCTAGAATCAGAGGAGACGCTGAAGAGGATAGAGCAGATTGCTCAGCAGCTC
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>760</residue_number>
+    <molecular_weight>86908.305</molecular_weight>
+    <theoretical_pi>7.151</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DEAD_2</name>
+        <pfam_id>PF06733</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DUF1227</name>
+        <pfam_id>PF06777</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;TFIIH basal transcription factor complex helicase XPD subunit
+MKLNVDGLLVYFPYDYIYPEQFSYMRELKRTLDAKGHGVLEMPSGTGKTVSLLALIMAYQ
+RAYPLEVTKLIYCSRTVPEIEKVIEELRKLLNFYEKQEGEKLPFLGLALSSRKNLCIHPE
+VTPLRFGKDVDGKCHSLTASYVRAQYQHDTSLPHCRFYEEFDAHGREVPLPAGIYNLDDL
+KALGRRQGWCPYFLARYSILHANVVVYSYHYLLDPKIADLVSKELARKAVVVFDEAHNID
+NVCIDSMSVNLTRRTLDRCQGNLETLQKTVLRIKETDEQRLRDEYRRLVEGLREASAARE
+TDAHLANPVLPDEVLQEAVPGSIRTAEHFLGFLRRLLEYVKWRLRVQHVVQESPPAFLSG
+LAQRVCIQRKPLRFCAERLRSLLHTLEITDLADFSPLTLLANFATLVSTYAKGFTIIIEP
+FDDRTPTIANPILHFSCMDASLAIKPVFERFQSVIITSGTLSPLDIYPKILDFHPVTMAT
+FTMTLARVCLCPMIIGRGNDQVAISSKFETREDIAVIRNYGNLLLEMSAVVPDGIVAFFT
+SYQYMESTVASWYEQGILENIQRNKLLFIETQDGAETSVALEKYQEACENGRGAILLSVA
+RGKVSEGIDFVHHYGRAVIMFGVPYVYTQSRILKARLEYLRDQFQIRENDFLTFDAMRHA
+AQCVGRAIRGKTDYGLMVFADKRFARGDKRGKLPRWIQEHLTDANLNLTVDEGVQVAKYF
+LRQMAQPFHREDQLGLSLLSLEQLESEETLKRIEQIAQQL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>82568960</genbank_protein_id>
+  <uniprot_id>P18074</uniprot_id>
+  <uniprot_name>ERCC2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC108255</genbank_gene_id>
+  <genecard_id>ERCC2</genecard_id>
+  <geneatlas_id>ERCC2</geneatlas_id>
+  <hgnc_id>HGNC:3434</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Weber CA, Salazar EP, Stewart SA, Thompson LH: ERCC2: cDNA cloning and molecular characterization of a human nucleotide excision repair gene with high homology to yeast RAD3. EMBO J. 1990 May;9(5):1437-47.</reference_text>
+      <pubmed_id>2184031</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lamerdin JE, Stilwagen SA, Ramirez MH, Stubbs L, Carrano AV: Sequence analysis of the ERCC2 gene regions in human, mouse, and hamster reveals three linked genes. Genomics. 1996 Jun 15;34(3):399-409.</reference_text>
+      <pubmed_id>8786141</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Flejter WL, McDaniel LD, Johns D, Friedberg EC, Schultz RA: Correction of xeroderma pigmentosum complementation group D mutant cell phenotypes by chromosome and gene transfer: involvement of the human ERCC2 DNA repair gene. Proc Natl Acad Sci U S A. 1992 Jan 1;89(1):261-5.</reference_text>
+      <pubmed_id>1729695</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sung P, Bailly V, Weber C, Thompson LH, Prakash L, Prakash S: Human xeroderma pigmentosum group D gene encodes a DNA helicase.  Nature. 1993 Oct 28;365(6449):852-5.</reference_text>
+      <pubmed_id>8413672</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tong X, Drapkin R, Reinberg D, Kieff E: The 62- and 80-kDa subunits of transcription factor IIH mediate the interaction with Epstein-Barr virus nuclear protein 2. Proc Natl Acad Sci U S A. 1995 Apr 11;92(8):3259-63.</reference_text>
+      <pubmed_id>7724549</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kershnar E, Wu SY, Chiang CM: Immunoaffinity purification and functional characterization of human transcription factor IIH and RNA polymerase II from clonal cell lines that conditionally express epitope-tagged subunits of the multiprotein complexes. J Biol Chem. 1998 Dec 18;273(51):34444-53.</reference_text>
+      <pubmed_id>9852112</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Coin F, Marinoni JC, Rodolfo C, Fribourg S, Pedrini AM, Egly JM: Mutations in the XPD helicase gene result in XP and TTD phenotypes, preventing interaction between XPD and the p44 subunit of TFIIH. Nat Genet. 1998 Oct;20(2):184-8.</reference_text>
+      <pubmed_id>9771713</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tirode F, Busso D, Coin F, Egly JM: Reconstitution of the transcription factor TFIIH: assignment of functions for the three enzymatic subunits, XPB, XPD, and cdk7. Mol Cell. 1999 Jan;3(1):87-95.</reference_text>
+      <pubmed_id>10024882</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Drane P, Compe E, Catez P, Chymkowitch P, Egly JM: Selective regulation of vitamin D receptor-responsive genes by TFIIH.  Mol Cell. 2004 Oct 22;16(2):187-97.</reference_text>
+      <pubmed_id>15494306</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takeuchi T, Inoue S, Yokosawa H: Identification and Herc5-mediated ISGylation of novel target proteins.  Biochem Biophys Res Commun. 2006 Sep 22;348(2):473-7. Epub 2006 Jul 28.</reference_text>
+      <pubmed_id>16884686</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Frederick GD, Amirkhan RH, Schultz RA, Friedberg EC: Structural and mutational analysis of the xeroderma pigmentosum group D (XPD) gene. Hum Mol Genet. 1994 Oct;3(10):1783-8.</reference_text>
+      <pubmed_id>7849702</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broughton BC, Steingrimsdottir H, Weber CA, Lehmann AR: Mutations in the xeroderma pigmentosum group D DNA repair/transcription gene in patients with trichothiodystrophy. Nat Genet. 1994 Jun;7(2):189-94.</reference_text>
+      <pubmed_id>7920640</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broughton BC, Thompson AF, Harcourt SA, Vermeulen W, Hoeijmakers JH, Botta E, Stefanini M, King MD, Weber CA, Cole J, et al.: Molecular and cellular analysis of the DNA repair defect in a patient in xeroderma pigmentosum complementation group D who has the clinical features of xeroderma pigmentosum and Cockayne syndrome. Am J Hum Genet. 1995 Jan;56(1):167-74.</reference_text>
+      <pubmed_id>7825573</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takayama K, Salazar EP, Lehmann A, Stefanini M, Thompson LH, Weber CA: Defects in the DNA repair and transcription gene ERCC2 in the cancer-prone disorder xeroderma pigmentosum group D. Cancer Res. 1995 Dec 1;55(23):5656-63.</reference_text>
+      <pubmed_id>7585650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takayama K, Salazar EP, Broughton BC, Lehmann AR, Sarasin A, Thompson LH, Weber CA: Defects in the DNA repair and transcription gene ERCC2(XPD) in trichothiodystrophy. Am J Hum Genet. 1996 Feb;58(2):263-70.</reference_text>
+      <pubmed_id>8571952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kobayashi T, Kuraoka I, Saijo M, Nakatsu Y, Tanaka A, Someda Y, Fukuro S, Tanaka K: Mutations in the XPD gene leading to xeroderma pigmentosum symptoms.  Hum Mutat. 1997;9(4):322-31.</reference_text>
+      <pubmed_id>9101292</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takayama K, Danks DM, Salazar EP, Cleaver JE, Weber CA: DNA repair characteristics and mutations in the ERCC2 DNA repair and transcription gene in a trichothiodystrophy patient. Hum Mutat. 1997;9(6):519-25.</reference_text>
+      <pubmed_id>9195225</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor EM, Broughton BC, Botta E, Stefanini M, Sarasin A, Jaspers NG, Fawcett H, Harcourt SA, Arlett CF, Lehmann AR: Xeroderma pigmentosum and trichothiodystrophy are associated with different mutations in the XPD (ERCC2) repair/transcription gene. Proc Natl Acad Sci U S A. 1997 Aug 5;94(16):8658-63.</reference_text>
+      <pubmed_id>9238033</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Botta E, Nardo T, Broughton BC, Marinoni S, Lehmann AR, Stefanini M: Analysis of mutations in the XPD gene in Italian patients with trichothiodystrophy: site of mutation correlates with repair deficiency, but gene dosage appears to determine clinical severity. Am J Hum Genet. 1998 Oct;63(4):1036-48.</reference_text>
+      <pubmed_id>9758621</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cleaver JE, Thompson LH, Richardson AS, States JC: A summary of mutations in the UV-sensitive disorders: xeroderma pigmentosum, Cockayne syndrome, and trichothiodystrophy. Hum Mutat. 1999;14(1):9-22.</reference_text>
+      <pubmed_id>10447254</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Graham  JM Jr, Anyane-Yeboa K, Raams A, Appeldoorn E, Kleijer WJ, Garritsen VH, Busch D, Edersheim TG, Jaspers NG: Cerebro-oculo-facio-skeletal syndrome with a nucleotide excision-repair defect and a mutated XPD gene, with prenatal diagnosis in a triplet pregnancy. Am J Hum Genet. 2001 Aug;69(2):291-300. Epub 2001 Jul 3.</reference_text>
+      <pubmed_id>11443545</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Caggana M, Kilgallen J, Conroy JM, Wiencke JK, Kelsey KT, Miike R, Chen P, Wrensch MR: Associations between ERCC2 polymorphisms and gliomas.  Cancer Epidemiol Biomarkers Prev. 2001 Apr;10(4):355-60.</reference_text>
+      <pubmed_id>11319176</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Spitz MR, Wu X, Wang Y, Wang LE, Shete S, Amos CI, Guo Z, Lei L, Mohrenweiser H, Wei Q: Modulation of nucleotide excision repair capacity by XPD polymorphisms in lung cancer patients. Cancer Res. 2001 Feb 15;61(4):1354-7.</reference_text>
+      <pubmed_id>11245433</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hemminki K, Xu G, Angelini S, Snellman E, Jansen CT, Lambert B, Hou SM: XPD exon 10 and 23 polymorphisms and DNA repair in human skin in situ.  Carcinogenesis. 2001 Aug;22(8):1185-8.</reference_text>
+      <pubmed_id>11470747</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lehmann AR: The xeroderma pigmentosum group D (XPD) gene: one gene, two functions, three diseases. Genes Dev. 2001 Jan 1;15(1):15-23.</reference_text>
+      <pubmed_id>11156600</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broughton BC, Berneburg M, Fawcett H, Taylor EM, Arlett CF, Nardo T, Stefanini M, Menefee E, Price VH, Queille S, Sarasin A, Bohnert E, Krutmann J, Davidson R, Kraemer KH, Lehmann AR: Two individuals with features of both xeroderma pigmentosum and trichothiodystrophy highlight the complexity of the clinical outcomes of mutations in the XPD gene. Hum Mol Genet. 2001 Oct 15;10(22):2539-47.</reference_text>
+      <pubmed_id>11709541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vermeulen W, Rademakers S, Jaspers NG, Appeldoorn E, Raams A, Klein B, Kleijer WJ, Hansen LK, Hoeijmakers JH: A temperature-sensitive disorder in basal transcription and DNA repair in humans. Nat Genet. 2001 Mar;27(3):299-303.</reference_text>
+      <pubmed_id>11242112</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

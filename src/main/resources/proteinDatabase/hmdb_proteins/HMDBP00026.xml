@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:42 -0700</creation_date>
+  <update_date>2013-05-27 11:26:42 -0600</update_date>
+  <accession>HMDBP00026</accession>
+  <secondary_accessions>
+    <accession>5255</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>ACTR</synonym>
+    <synonym>AIB-1</synonym>
+    <synonym>Amplified in breast cancer 1 protein</synonym>
+    <synonym>CBP-interacting protein</synonym>
+    <synonym>Class E basic helix-loop-helix protein 42</synonym>
+    <synonym>NCoA-3</synonym>
+    <synonym>RAC-3</synonym>
+    <synonym>Receptor-associated coactivator 3</synonym>
+    <synonym>SRC-3</synonym>
+    <synonym>Steroid receptor coactivator protein 3</synonym>
+    <synonym>TRAM-1</synonym>
+    <synonym>Thyroid hormone receptor activator molecule 1</synonym>
+    <synonym>bHLHe42</synonym>
+    <synonym>pCIP</synonym>
+  </synonyms>
+  <gene_name>NCOA3</gene_name>
+  <general_function>Involved in transcription coactivator activity</general_function>
+  <specific_function>Nuclear receptor coactivator that directly binds nuclear receptors and stimulates the transcriptional activities in a hormone-dependent fashion. Plays a central role in creating a multisubunit coactivator complex, which probably acts via remodeling of chromatin. Involved in the coactivation of different nuclear receptors, such as for steroids (GR and ER), retinoids (RARs and RXRs), thyroid hormone (TRs), vitamin D3 (VDR) and prostanoids (PPARs). Displays histone acetyltransferase activity. Also involved in the coactivation of the NF-kappa-B pathway via its interaction with the NFKB1 subunit. Interacts with PSMB9.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00876</accession>
+      <name>Vitamin D3</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hormone receptor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nuclear hormone receptor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription regulator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription factor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription cofactor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transcription coactivator activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of cellular process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>signal transduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>Golgi apparatus</description>
+      <go_id>GO:0005794</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>androgen receptor binding</description>
+      <go_id>GO:0050681</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>chromatin binding</description>
+      <go_id>GO:0003682</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>histone acetyltransferase activity</description>
+      <go_id>GO:0004402</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ligand-dependent nuclear receptor transcription coactivator activity</description>
+      <go_id>GO:0030374</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>signal transducer activity</description>
+      <go_id>GO:0004871</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>thyroid hormone receptor binding</description>
+      <go_id>GO:0046966</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transcription coactivator activity</description>
+      <go_id>GO:0003713</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>androgen receptor signaling pathway</description>
+      <go_id>GO:0030521</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular lipid metabolic process</description>
+      <go_id>GO:0044255</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>developmental growth</description>
+      <go_id>GO:0048589</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>mammary gland branching involved in thelarche</description>
+      <go_id>GO:0060744</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organism growth</description>
+      <go_id>GO:0035264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of intracellular estrogen receptor signaling pathway</description>
+      <go_id>GO:0033148</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of keratinocyte differentiation</description>
+      <go_id>GO:0045618</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of sequence-specific DNA binding transcription factor activity</description>
+      <go_id>GO:0051091</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      <go_id>GO:0045944</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>receptor transactivation</description>
+      <go_id>GO:0035624</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription, DNA-dependent</description>
+      <go_id>GO:0006351</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>vagina development</description>
+      <go_id>GO:0060068</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q12</locus>
+    <gene_sequence>&gt;4275 bp
+ATGAGTGGATTAGGAGAAAACTTGGATCCACTGGCCAGTGATTCACGAAAACGCAAATTG
+CCATGTGATACTCCAGGACAAGGTCTTACCTGCAGTGGTGAAAAACGGAGACGGGAGCAG
+GAAAGTAAATATATTGAAGAATTGGCTGAGCTGATATCTGCCAATCTTAGTGATATTGAC
+AATTTCAATGTCAAACCAGATAAATGTGCGATTTTAAAGGAAACAGTAAGACAGATACGT
+CAAATAAAAGAGCAAGGAAAAACTATTTCCAATGATGATGATGTTCAAAAAGCCGATGTA
+TCTTCTACAGGGCAGGGAGTTATTGATAAAGACTCCTTAGGACCGCTTTTACTTCAGGCA
+TTGGATGGTTTCCTATTTGTGGTGAATCGAGACGGAAACATTGTATTTGTATCAGAAAAT
+GTCACACAATACCTGCAATATAAGCAAGAGGACCTGGTTAACACAAGTGTTTACAATATC
+TTACATGAAGAAGACAGAAAGGATTTTCTTAAGAATTTACCAAAATCTACAGTTAATGGA
+GTTTCCTGGACAAATGAGACCCAAAGACAAAAAAGCCATACATTTAATTGCCGTATGTTG
+ATGAAAACACCACATGATATTCTGGAAGACATAAACGCCAGTCCTGAAATGCGCCAGAGA
+TATGAAACAATGCAGTGCTTTGCCCTGTCTCAGCCACGAGCTATGATGGAGGAAGGGGAA
+GATTTGCAATCTTGTATGATCTGTGTGGCACGCCGCATTACTACAGGAGAAAGAACATTT
+CCATCAAACCCTGAGAGCTTTATTACCAGACATGATCTTTCAGGAAAGGTTGTCAATATA
+GATACAAATTCACTGAGATCCTCCATGAGGCCTGGCTTTGAAGATATAATCCGAAGGTGT
+ATTCAGAGATTTTTTAGTCTAAATGATGGGCAGTCATGGTCCCAGAAACGTCACTATCAA
+GAAGCTTATCTTAATGGCCATGCAGAAACCCCAGTATATCGATTCTCGTTGGCTGATGGA
+ACTATAGTGACTGCACAGACAAAAAGCAAACTCTTCCGAAATCCTGTAACAAATGATCGA
+CATGGCTTTGTCTCAACCCACTTCCTTCAGAGAGAACAGAATGGATATAGACCAAACCCA
+AATCCTGTTGGACAAGGGATTAGACCACCTATGGCTGGATGCAACAGTTCGGTAGGCGGC
+ATGAGTATGTCGCCAAACCAAGGCTTACAGATGCCGAGCAGCAGGGCCTATGGCTTGGCA
+GACCCTAGCACCACAGGGCAGATGAGTGGAGCTAGGTATGGGGGTTCCAGTAACATAGCT
+TCATTGACCCCTGGGCCAGGCATGCAATCACCATCTTCCTACCAGAACAACAACTATGGG
+CTCAACATGAGTAGCCCCCCACATGGGAGTCCTGGTCTTGCCCCAAACCAGCAGAATATC
+ATGATTTCTCCTCGTAATCGTGGGAGTCCAAAGATAGCCTCACATCAGTTTTCTCCTGTT
+GCAGGTGTGCACTCTCCCATGGCATCTTCTGGCAATACTGGGAACCACAGCTTTTCCAGC
+AGCTCTCTCAGTGCCCTGCAAGCCATCAGTGAAGGTGTGGGGACTTCCCTTTTATCTACT
+CTGTCATCACCAGGCCCCAAATTGGATAACTCTCCCAATATGAATATTACCCAACCAAGT
+AAAGTAAGCAATCAGGATTCCAAGAGTCCTCTGGGCTTTTATTGCGACCAAAATCCAGTG
+GAGAGTTCAATGTGTCAGTCAAATAGCAGAGATCACCTCAGTGACAAAGAAAGTAAGGAG
+AGCAGTGTTGAGGGGGCAGAGAATCAAAGGGGTCCTTTGGAAAGCAAAGGTCATAAAAAA
+TTACTGCAGTTACTTACCTGTTCTTCTGATGACCGGGGTCATTCCTCCTTGACCAACTCC
+CCCCTAGATTCAAGTTGTAAAGAATCTTCTGTTAGTGTCACCAGCCCCTCTGGAGTCTCC
+TCCTCTACATCTGGAGGAGTATCCTCTACATCCAATATGCATGGGTCACTGTTACAAGAG
+AAGCACCGGATTTTGCACAAGTTGCTGCAGAATGGGAATTCACCAGCTGAGGTAGCCAAG
+ATTACTGCAGAAGCCACTGGGAAAGACACCAGCAGTATAACTTCTTGTGGGGACGGAAAT
+GTTGTCAAGCAGGAGCAGCTAAGTCCTAAGAAGAAGGAGAATAATGCACTTCTTAGATAC
+CTGCTGGACAGGGATGATCCTAGTGATGCACTCTCTAAAGAACTACAGCCCCAAGTGGAA
+GGAGTGGATAATAAAATGAGTCAGTGCACCAGCTCCACCATTCCTAGCTCAAGTCAAGAG
+AAAGACCCTAAAATTAAGACAGAGACAAGTGAAGAGGGATCTGGAGACTTGGATAATCTA
+GATGCTATTCTTGGTGATCTGACTAGTTCTGACTTTTACAATAATTCCATATCCTCAAAT
+GGTAGTCATCTGGGGACTAAGCAACAGGTGTTTCAAGGAACTAATTCTCTGGGTTTGAAA
+AGTTCACAGTCTGTGCAGTCTATTCGTCCTCCATATAACCGAGCAGTGTCTCTGGATAGC
+CCTGTTTCTGTTGGCTCAAGTCCTCCAGTAAAAAATATCAGTGCTTTCCCCATGTTACCA
+AAGCAACCCATGTTGGGTGGGAATCCAAGAATGATGGATAGTCAGGAAAATTATGGCTCA
+AGTATGGGTGGGCCAAACCGAAATGTGACTGTGACTCAGACTCCTTCCTCAGGAGACTGG
+GGCTTACCAAACTCAAAGGCCGGCAGAATGGAACCTATGAATTCAAACTCCATGGGAAGA
+CCAGGAGGAGATTATAATACTTCTTTACCCAGACCTGCACTGGGTGGCTCTATTCCCACA
+TTGCCTCTTCGGTCTAATAGCATACCAGGTGCGAGACCAGTATTGCAACAGCAGCAGCAG
+ATGCTTCAAATGAGGCCTGGTGAAATCCCCATGGGAATGGGGGCTAATCCCTATGGCCAA
+GCAGCAGCATCTAACCAACTGGGTTCCTGGCCCGATGGCATGTTGTCCATGGAACAAGTT
+TCTCATGGCACTCAAAATAGGCCTCTTCTTAGGAATTCCCTGGATGATCTTGTTGGGCCA
+CCTTCCAACCTGGAAGGCCAGAGTGACGAAAGAGCATTATTGGACCAGCTGCACACTCTT
+CTCAGCAACACAGATGCCACAGGCCTGGAAGAAATTGACAGAGCTTTGGGCATTCCTGAA
+CTTGTCAATCAGGGACAGGCATTAGAGCCCAAACAGGATGCTTTCCAAGGCCAAGAAGCA
+GCAGTAATGATGGATCAGAAGGCAGGATTATATGGACAGACATACCCAGCACAGGGGCCT
+CCAATGCAAGGAGGCTTTCATCTTCAGGGACAATCACCATCTTTTAACTCTATGATGAAT
+CAGATGAACCAGCAAGGCAATTTTCCTCTCCAAGGAATGCACCCACGAGCCAACATCATG
+AGACCCCGGACAAACACCCCCAAGCAACTTAGAATGCAGCTTCAGCAGAGGCTGCAGGGC
+CAGCAGTTTTTGAATCAGAGCCGACAGGCACTTGAATTGAAAATGGAAAACCCTACTGCT
+GGTGGTGCTGCGGTGATGAGGCCTATGATGCAGCCCCAGGTGAGCTCCCAGCAGGGTTTT
+CTTAATGCTCAAATGGTCGCCCAACGCAGCAGAGAGCTGCTAAGTCATCACTTCCGACAA
+CAGAGGGTGGCTATGATGATGCAGCAGCAGCAGCAGCAGCAACAGCAGCAGCAGCAGCAG
+CAGCAGCAGCAACAGCAACAGCAACAGCAACAGCAGCAACAGCAGCAAACCCAGGCCTTC
+AGCCCACCTCCTAATGTGACTGCTTCCCCCAGCATGGATGGGCTTTTGGCAGGACCCACA
+ATGCCACAAGCTCCTCCGCAACAGTTTCCATATCAACCAAATTATGGAATGGGACAACAA
+CCAGATCCAGCCTTTGGTCGAGTGTCTAGTCCTCCCAATGCAATGATGTCGTCAAGAATG
+GGTCCCTCCCAGAATCCCATGATGCAACACCCGCAGGCTGCATCCATCTATCAGTCCTCA
+GAAATGAAGGGCTGGCCATCAGGAAATTTGGCCAGGAACAGCTCCTTTTCCCAGCAGCAG
+TTTGCCCACCAGGGGAATCCTGCAGTGTATAGTATGGTGCACATGAATGGCAGCAGTGGT
+CACATGGGACAGATGAACATGAACCCCATGCCCATGTCTGGCATGCCTATGGGTCCTGAT
+CAGAAATACTGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1424</residue_number>
+    <molecular_weight>154399.59</molecular_weight>
+    <theoretical_pi>7.286</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DUF1518</name>
+        <pfam_id>PF07469</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Nuc_rec_co-act</name>
+        <pfam_id>PF08815</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PAS</name>
+        <pfam_id>PF00989</pfam_id>
+      </pfam>
+      <pfam>
+        <name>SRC-1</name>
+        <pfam_id>PF08832</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Nuclear receptor coactivator 3
+MSGLGENLDPLASDSRKRKLPCDTPGQGLTCSGEKRRREQESKYIEELAELISANLSDID
+NFNVKPDKCAILKETVRQIRQIKEQGKTISNDDDVQKADVSSTGQGVIDKDSLGPLLLQA
+LDGFLFVVNRDGNIVFVSENVTQYLQYKQEDLVNTSVYNILHEEDRKDFLKNLPKSTVNG
+VSWTNETQRQKSHTFNCRMLMKTPHDILEDINASPEMRQRYETMQCFALSQPRAMMEEGE
+DLQSCMICVARRITTGERTFPSNPESFITRHDLSGKVVNIDTNSLRSSMRPGFEDIIRRC
+IQRFFSLNDGQSWSQKRHYQEAYLNGHAETPVYRFSLADGTIVTAQTKSKLFRNPVTNDR
+HGFVSTHFLQREQNGYRPNPNPVGQGIRPPMAGCNSSVGGMSMSPNQGLQMPSSRAYGLA
+DPSTTGQMSGARYGGSSNIASLTPGPGMQSPSSYQNNNYGLNMSSPPHGSPGLAPNQQNI
+MISPRNRGSPKIASHQFSPVAGVHSPMASSGNTGNHSFSSSSLSALQAISEGVGTSLLST
+LSSPGPKLDNSPNMNITQPSKVSNQDSKSPLGFYCDQNPVESSMCQSNSRDHLSDKESKE
+SSVEGAENQRGPLESKGHKKLLQLLTCSSDDRGHSSLTNSPLDSSCKESSVSVTSPSGVS
+SSTSGGVSSTSNMHGSLLQEKHRILHKLLQNGNSPAEVAKITAEATGKDTSSITSCGDGN
+VVKQEQLSPKKKENNALLRYLLDRDDPSDALSKELQPQVEGVDNKMSQCTSSTIPSSSQE
+KDPKIKTETSEEGSGDLDNLDAILGDLTSSDFYNNSISSNGSHLGTKQQVFQGTNSLGLK
+SSQSVQSIRPPYNRAVSLDSPVSVGSSPPVKNISAFPMLPKQPMLGGNPRMMDSQENYGS
+SMGGPNRNVTVTQTPSSGDWGLPNSKAGRMEPMNSNSMGRPGGDYNTSLPRPALGGSIPT
+LPLRSNSIPGARPVLQQQQQMLQMRPGEIPMGMGANPYGQAAASNQLGSWPDGMLSMEQV
+SHGTQNRPLLRNSLDDLVGPPSNLEGQSDERALLDQLHTLLSNTDATGLEEIDRALGIPE
+LVNQGQALEPKQDAFQGQEAAVMMDQKAGLYGQTYPAQGPPMQGGFHLQGQSPSFNSMMN
+QMNQQGNFPLQGMHPRANIMRPRTNTPKQLRMQLQQRLQGQQFLNQSRQALELKMENPTA
+GGAAVMRPMMQPQVSSQQGFLNAQMVAQRSRELLSHHFRQQRVAMMMQQQQQQQQQQQQQ
+QQQQQQQQQQQQQQQQTQAFSPPPNVTASPSMDGLLAGPTMPQAPPQQFPYQPNYGMGQQ
+PDPAFGRVSSPPNAMMSSRMGPSQNPMMQHPQAASIYQSSEMKGWPSGNLARNSSFSQQQ
+FAHQGNPAVYSMVHMNGSSGHMGQMNMNPMPMSGMPMGPDQKYC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>32307126</genbank_protein_id>
+  <uniprot_id>Q9Y6Q9</uniprot_id>
+  <uniprot_name>NCOA3_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1KBH</pdb_id>
+    <pdb_id>3L3X</pdb_id>
+    <pdb_id>3L3Z</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_181659.2</genbank_gene_id>
+  <genecard_id>NCOA3</genecard_id>
+  <geneatlas_id>NCOA3</geneatlas_id>
+  <hgnc_id>HGNC:7670</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Takeshita A, Cardona GR, Koibuchi N, Suen CS, Chin WW: TRAM-1, A novel 160-kDa thyroid hormone receptor activator molecule, exhibits distinct properties from steroid receptor coactivator-1. J Biol Chem. 1997 Oct 31;272(44):27629-34.</reference_text>
+      <pubmed_id>9346901</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen H, Lin RJ, Schiltz RL, Chakravarti D, Nash A, Nagy L, Privalsky ML, Nakatani Y, Evans RM: Nuclear receptor coactivator ACTR is a novel histone acetyltransferase and forms a multimeric activation complex with P/CAF and CBP/p300. Cell. 1997 Aug 8;90(3):569-80.</reference_text>
+      <pubmed_id>9267036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Anzick SL, Kononen J, Walker RL, Azorsa DO, Tanner MM, Guan XY, Sauter G, Kallioniemi OP, Trent JM, Meltzer PS: AIB1, a steroid receptor coactivator amplified in breast and ovarian cancer. Science. 1997 Aug 15;277(5328):965-8.</reference_text>
+      <pubmed_id>9252329</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li H, Gomes PJ, Chen JD: RAC3, a steroid/nuclear receptor-associated coactivator that is related to SRC-1 and TIF2. Proc Natl Acad Sci U S A. 1997 Aug 5;94(16):8479-84.</reference_text>
+      <pubmed_id>9238002</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shirazi SK, Bober MA, Coetzee GA: Polymorphic exonic CAG microsatellites in the gene amplified in breast cancer (AIB1 gene). Clin Genet. 1998 Jul;54(1):102-3.</reference_text>
+      <pubmed_id>9727751</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen H, Lin RJ, Xie W, Wilpitz D, Evans RM: Regulation of hormone-induced histone hyperacetylation and gene activation via acetylation of an acetylase. Cell. 1999 Sep 3;98(5):675-86.</reference_text>
+      <pubmed_id>10490106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Werbajh S, Nojek I, Lanz R, Costas MA: RAC-3 is a NF-kappa B coactivator.  FEBS Lett. 2000 Nov 24;485(2-3):195-9.</reference_text>
+      <pubmed_id>11094166</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu RC, Qin J, Hashimoto Y, Wong J, Xu J, Tsai SY, Tsai MJ, O'Malley BW: Regulation of SRC-3 (pCIP/ACTR/AIB-1/RAC-3/TRAM-1) Coactivator activity by I kappa B kinase. Mol Cell Biol. 2002 May;22(10):3549-61.</reference_text>
+      <pubmed_id>11971985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hsiao PW, Fryer CJ, Trotter KW, Wang W, Archer TK: BAF60a mediates critical interactions between nuclear receptors and the BRG1 chromatin-remodeling complex for transactivation. Mol Cell Biol. 2003 Sep;23(17):6210-20.</reference_text>
+      <pubmed_id>12917342</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kino T, Ichijo T, Chrousos GP: FLASH interacts with p160 coactivator subtypes and differentially suppresses transcriptional activity of steroid hormone receptors. J Steroid Biochem Mol Biol. 2004 Dec;92(5):357-63. Epub 2004 Dec 19.</reference_text>
+      <pubmed_id>15698540</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang H, Sun L, Liang J, Yu W, Zhang Y, Wang Y, Chen Y, Li R, Sun X, Shang Y: The catalytic subunit of the proteasome is engaged in the entire process of estrogen receptor-regulated transcription. EMBO J. 2006 Sep 20;25(18):4223-33. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16957778</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zou JX, Revenko AS, Li LB, Gemo AT, Chen HW: ANCCA, an estrogen-regulated AAA+ ATPase coactivator for ERalpha, is required for coregulator occupancy and chromatin modification. Proc Natl Acad Sci U S A. 2007 Nov 13;104(46):18067-72. Epub 2007 Nov 12.</reference_text>
+      <pubmed_id>17998543</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

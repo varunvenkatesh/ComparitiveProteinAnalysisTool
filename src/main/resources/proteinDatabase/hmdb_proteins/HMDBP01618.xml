@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:58:02 -0700</creation_date>
+  <update_date>2013-04-11 14:11:39 -0600</update_date>
+  <accession>HMDBP01618</accession>
+  <secondary_accessions>
+    <accession>6941</accession>
+    <accession>HMDBP03872</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ABC-1</synonym>
+    <synonym>ATP-binding cassette 1</synonym>
+    <synonym>ATP-binding cassette transporter 1</synonym>
+    <synonym>Cholesterol efflux regulatory protein</synonym>
+  </synonyms>
+  <gene_name>ABCA1</gene_name>
+  <general_function>Involved in ATP binding</general_function>
+  <specific_function>cAMP-dependent and sulfonylurea-sensitive anion transporter. Key gatekeeper influencing intracellular cholesterol transport</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00067</accession>
+      <name>Cholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15151</accession>
+      <name>Glyburide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15537</accession>
+      <name>Probucol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:9</chromosome_location>
+    <locus>9q31.1</locus>
+    <gene_sequence>&gt;6786 bp
+ATGGCTTGTTGGCCTCAGCTGAGGTTGCTGCTGTGGAAGAACCTCACTTTCAGAAGAAGA
+CAAACATGTCAGCTGTTACTGGAAGTGGCCTGGCCTCTATTTATCTTCCTGATCCTGATC
+TCTGTTCGGCTGAGCTACCCACCCTATGAACAACATGAATGCCATTTTCCAAATAAAGCC
+ATGCCCTCTGCAGGAACACTTCCTTGGGTTCAGGGGATTATCTGTAATGCCAACAACCCC
+TGTTTCCGTTACCCGACTCCTGGGGAGGCTCCCGGAGTTGTTGGAAACTTTAACAAATCC
+ATTGTGGCTCGCCTGTTCTCAGATGCTCGGAGGCTTCTTTTATACAGCCAGAAAGACACC
+AGCATGAAGGACATGCGCAAAGTTCTGAGAACATTACAGCAGATCAAGAAATCCAGCTCA
+AACTTGAAGCTTCAAGATTTCCTGGTGGACAATGAAACCTTCTCTGGGTTCCTATATCAC
+AACCTCTCTCTCCCAAAGTCTACTGTGGACAAGATGCTGAGGGCTGATGTCATTCTCCAC
+AAGGTATTTTTGCAAGGCTACCAGTTACATTTGACAAGTCTGTGCAATGGATCAAAATCA
+GAAGAGATGATTCAACTTGGTGACCAAGAAGTTTCTGAGCTTTGTGGCCTACCAAAGGAG
+AAACTGGCTGCAGCAGAGCGAGTACTTCGTTCCAACATGGACATCCTGAAGCCAATCCTG
+AGAACACTAAACTCTACATCTCCCTTCCCGAGCAAGGAGCTGGCTGAAGCCACAAAAACA
+TTGCTGCATAGTCTTGGGACTCTGGCCCAGGAGCTGTTCAGCATGAGAAGCTGGAGTGAC
+ATGCGACAGGAGGTGATGTTTCTGACCAATGTGAACAGCTCCAGCTCCTCCACCCAAATC
+TACCAGGCTGTGTCTCGTATTGTCTGCGGGCATCCCGAGGGAGGGGGGCTGAAGATCAAG
+TCTCTCAACTGGTATGAGGACAACAACTACAAAGCCCTCTTTGGAGGCAATGGCACTGAG
+GAAGATGCTGAAACCTTCTATGACAACTCTACAACTCCTTACTGCAATGATTTGATGAAG
+AATTTGGAGTCTAGTCCTCTTTCCCGCATTATCTGGAAAGCTCTGAAGCCGCTGCTCGTT
+GGGAAGATCCTGTATACACCTGACACTCCAGCCACAAGGCAGGTCATGGCTGAGGTGAAC
+AAGACCTTCCAGGAACTGGCTGTGTTCCATGATCTGGAAGGCATGTGGGAGGAACTCAGC
+CCCAAGATCTGGACCTTCATGGAGAACAGCCAAGAAATGGACCTTGTCCGGATGCTGTTG
+GACAGCAGGGACAATGACCACTTTTGGGAACAGCAGTTGGATGGCTTAGATTGGACAGCC
+CAAGACATCGTGGCGTTTTTGGCCAAGCACCCAGAGGATGTCCAGTCCAGTAATGGTTCT
+GTGTACACCTGGAGAGAAGCTTTCAACGAGACTAACCAGGCAATCCGGACCATATCTCGC
+TTCATGGAGTGTGTCAACCTGAACAAGCTAGAACCCATAGCAACAGAAGTCTGGCTCATC
+AACAAGTCCATGGAGCTGCTGGATGAGAGGAAGTTCTGGGCTGGTATTGTGTTCACTGGA
+ATTACTCCAGGCAGCATTGAGCTGCCCCATCATGTCAAGTACAAGATCCGAATGGACATT
+GACAATGTGGAGAGGACAAATAAAATCAAGGATGGGTACTGGGACCCTGGTCCTCGAGCT
+GACCCCTTTGAGGACATGCGGTACGTCTGGGGGGGCTTCGCCTACTTGCAGGATGTGGTG
+GAGCAGGCAATCATCAGGGTGCTGACGGGCACCGAGAAGAAAACTGGTGTCTATATGCAA
+CAGATGCCCTATCCCTGTTACGTTGATGACATCTTTCTGCGGGTGATGAGCCGGTCAATG
+CCCCTCTTCATGACGCTGGCCTGGATTTACTCAGTGGCTGTGATCATCAAGGGCATCGTG
+TATGAGAAGGAGGCACGGCTGAAAGAGACCATGCGGATCATGGGCCTGGACAACAGCATA
+CTCTGGTTTAGCTGGTTCATTAGTAGCCTCATTCCTCTTCTTGTGAGCGCTGGCCTGCTA
+GTGGTCATCCTGAAGTTAGGAAACCTGCTGCCCTACAGTGATCCCAGCGTGGTGTTTGTC
+TTCCTGTCCGTGTTTGCTGTGGTGACAATCCTGCAGTGCTTCCTGATTAGCACACTCTTC
+TCCAGAGCCAACCTGGCAGCAGCCTGTGGGGGCATCATCTACTTCACGCTGTACCTGCCC
+TACGTCCTGTGTGTGGCATGGCAGGACTACGTGGGCTTCACACTCAAGATCTTCGCTAGC
+CTGCTGTCTCCTGTGGCTTTTGGGTTTGGCTGTGAGTACTTTGCCCTTTTTGAGGAGCAG
+GGCATTGGAGTGCAGTGGGACAACCTGTTTGAGAGTCCTGTGGAGGAAGATGGCTTCAAT
+CTCACCACTTCGATCTCCATGATGCTGTTTGACACCTTCCTCTATGGGGTGATGACCTGG
+TACATTGAGGCTGTCTTTCCAGGCCAGTACGGAATTCCCAGGCCCTGGTATTTTCCTTGC
+ACCAAGTCCTACTGGTTTGGCGAGGAAAGTGATGAGAAGAGCCACCCTGGTTCCAACCAG
+AAGAGAATGTCAGAAATCTGCATGGAGGAGGAACCCACCCACTTGAAGCTGGGCGTGTCC
+ATTCAGAACCTGGTAAAAGTCTACCGAGATGGGATGAAGGTGGCTGTCGATGGCCTGGCA
+CTGAATTTTTATGAGGGCCAGATCACCTCCTTCCTGGGCCACAATGGAGCGGGGAAGACG
+ACCACCATGTCAATCCTGACCGGGTTGTTCCCCCCGACCTCGGGCACCGCCTACATCCTG
+GGAAAAGACATTCGCTCTGAGATGAGCACCATCCGGCAGAACCTGGGGGTCTGTCCCCAG
+CATAACGTGCTGTTTGACATGCTGACTGTCGAAGAACACATCTGGTTCTATGCCCGCTTG
+AAAGGGCTCTCTGAGAAGCACGTGAAGGCGGAGATGGAGCAGATGGCCCTGGATGTTGGT
+TTGCCATCAAGCAAGCTGAAAAGCAAAACAAGCCAGCTGTCAGGTGGAATGCAGAGAAAG
+CTATCTGTGGCCTTGGCCTTTGTCGGGGGATCTAAGGTTGTCATTCTGGATGAACCCACA
+GCTGGTGTGGACCCTTACTCCCGCAGGGGAATATGGGAGCTGCTGCTGAAATACCGACAA
+GGCCGCACCATTATTCTCTCTACACACCACATGGATGAAGCGGACGTCCTGGGGGACAGG
+ATTGCCATCATCTCCCATGGGAAGCTGTGCTGTGTGGGCTCCTCCCTGTTTCTGAAGAAC
+CAGCTGGGAACAGGCTACTACCTGACCTTGGTCAAGAAAGATGTGGAATCCTCCCTCAGT
+TCCTGCAGAAACAGTAGTAGCACTGTGTCATACCTGAAAAAGGAGGACAGTGTTTCTCAG
+AGCAGTTCTGATGCTGGCCTGGGCAGCGACCATGAGAGTGACACGCTGACCATCGATGTC
+TCTGCTATCTCCAACCTCATCAGGAAGCATGTGTCTGAAGCCCGGCTGGTGGAAGACATA
+GGGCATGAGCTGACCTATGTGCTGCCATATGAAGCTGCTAAGGAGGGAGCCTTTGTGGAA
+CTCTTTCATGAGATTGATGACCGGCTCTCAGACCTGGGCATTTCTAGTTATGGCATCTCA
+GAGACGACCCTGGAAGAAATATTCCTCAAGGTGGCCGAAGAGAGTGGGGTGGATGCTGAG
+ACCTCAGATGGTACCTTGCCAGCAAGACGAAACAGGCGGGCCTTCGGGGACAAGCAGAGC
+TGTCTTCGCCCGTTCACTGAAGATGATGCTGCTGATCCAAATGATTCTGACATAGACCCA
+GAATCCAGAGAGACAGACTTGCTCAGTGGGATGGATGGCAAAGGGTCCTACCAGGTGAAA
+GGCTGGAAACTTACACAGCAACAGTTTGTGGCCCTTTTGTGGAAGAGACTGCTAATTGCC
+AGACGGAGTCGGAAAGGATTTTTTGCTCAGATTGTCTTGCCAGCTGTGTTTGTCTGCATT
+GCCCTTGTGTTCAGCCTGATCGTGCCACCCTTTGGCAAGTACCCCAGCCTGGAACTTCAG
+CCCTGGATGTACAACGAACAGTACACATTTGTCAGCAATGATGCTCCTGAGGACACGGGA
+ACCCTGGAACTCTTAAACGCCCTCACCAAAGACCCTGGCTTCGGGACCCGCTGTATGGAA
+GGAAACCCAATCCCAGACACGCCCTGCCAGGCAGGGGAGGAAGAGTGGACCACTGCCCCA
+GTTCCCCAGACCATCATGGACCTCTTCCAGAATGGGAACTGGACAATGCAGAACCCTTCA
+CCTGCATGCCAGTGTAGCAGCGACAAAATCAAGAAGATGCTGCCTGTGTGTCCCCCAGGG
+GCAGGGGGGCTGCCTCCTCCACAAAGAAAACAAAACACTGCAGATATCCTTCAGGACCTG
+ACAGGAAGAAACATTTCGGATTATCTGGTGAAGACGTATGTGCAGATCATAGCCAAAAGC
+TTAAAGAACAAGATCTGGGTGAATGAGTTTAGGTATGGCGGCTTTTCCCTGGGTGTCAGT
+AATACTCAAGCACTTCCTCCGAGTCAAGAAGTTAATGATGCCATCAAACAAATGAAGAAA
+CACCTAAAGCTGGCCAAGGACAGTTCTGCAGATCGATTTCTCAACAGCTTGGGAAGATTT
+ATGACAGGACTGGACACCAGAAATAATGTCAAGGTGTGGTTCAATAACAAGGGCTGGCAT
+GCAATCAGCTCTTTCCTGAATGTCATCAACAATGCCATTCTCCGGGCCAACCTGCAAAAG
+GGAGAGAACCCTAGCCATTATGGAATTACTGCTTTCAATCATCCCCTGAATCTCACCAAG
+CAGCAGCTCTCAGAGGTGGCTCTGATGACCACATCAGTGGATGTCCTTGTGTCCATCTGT
+GTCATCTTTGCAATGTCCTTCGTCCCAGCCAGCTTTGTCGTATTCCTGATCCAGGAGCGG
+GTCAGCAAAGCAAAACACCTGCAGTTCATCAGTGGAGTGAAGCCTGTCATCTACTGGCTC
+TCTAATTTTGTCTGGGATATGTGCAATTACGTTGTCCCTGCCACACTGGTCATTATCATC
+TTCATCTGCTTCCAGCAGAAGTCCTATGTGTCCTCCACCAATCTGCCTGTGCTAGCCCTT
+CTACTTTTGCTGTATGGGTGGTCAATCACACCTCTCATGTACCCAGCCTCCTTTGTGTTC
+AAGATCCCCAGCACAGCCTATGTGGTGCTCACCAGCGTGAACCTCTTCATTGGCATTAAT
+GGCAGCGTGGCCACCTTTGTGCTGGAGCTGTTCACCGACAATAAGCTGAATAATATCAAT
+GATATCCTGAAGTCCGTGTTCTTGATCTTCCCACATTTTTGCCTGGGACGAGGGCTCATC
+GACATGGTGAAAAACCAGGCAATGGCTGATGCCCTGGAAAGGTTTGGGGAGAATCGCTTT
+GTGTCACCATTATCTTGGGACTTGGTGGGACGAAACCTCTTCGCCATGGCCGTGGAAGGG
+GTGGTGTTCTTCCTCATTACTGTTCTGATCCAGTACAGATTCTTCATCAGGCCCAGACCT
+GTAAATGCAAAGCTATCTCCTCTGAATGATGAAGATGAAGATGTGAGGCGGGAAAGACAG
+AGAATTCTTGATGGTGGAGGCCAGAATGACATCTTAGAAATCAAGGAGTTGACGAAGATA
+TATAGAAGGAAGCGGAAGCCTGCTGTTGACAGGATTTGCGTGGGCATTCCTCCTGGTGAG
+TGCTTTGGGCTCCTGGGAGTTAATGGGGCTGGAAAATCATCAACTTTCAAGATGTTAACA
+GGAGATACCACTGTTACCAGAGGAGATGCTTTCCTTAACAAAAATAGTATCTTATCAAAC
+ATCCATGAAGTACATCAGAACATGGGCTACTGCCCTCAGTTTGATGCCATCACAGAGCTG
+TTGACTGGGAGAGAACACGTGGAGTTCTTTGCCCTTTTGAGAGGAGTCCCAGAGAAAGAA
+GTTGGCAAGGTTGGTGAGTGGGCGATTCGGAAACTGGGCCTCGTGAAGTATGGAGAAAAA
+TATGCTGGTAACTATAGTGGAGGCAACAAACGCAAGCTCTCTACAGCCATGGCTTTGATC
+GGCGGGCCTCCTGTGGTGTTTCTGGATGAACCCACCACAGGCATGGATCCCAAAGCCCGG
+CGGTTCTTGTGGAATTGTGCCCTAAGTGTTGTCAAGGAGGGGAGATCAGTAGTGCTTACA
+TCTCATAGTATGGAAGAATGTGAAGCTCTTTGCACTAGGATGGCAATCATGGTCAATGGA
+AGGTTCAGGTGCCTTGGCAGTGTCCAGCATCTAAAAAATAGGTTTGGAGATGGTTATACA
+ATAGTTGTACGAATAGCAGGGTCCAACCCGGACCTGAAGCCTGTCCAGGATTTCTTTGGA
+CTTGCATTTCCTGGAAGTGTTCTAAAAGAGAAACACCGGAACATGCTACAATACCAGCTT
+CCATCTTCATTATCTTCTCTGGCCAGGATATTCAGCATCCTCTCCCAGAGCAAAAAGCGA
+CTCCACATAGAAGACTACTCTGTTTCTCAGACAACACTTGACCAAGTATTTGTGAACTTT
+GCCAAGGACCAAAGTGATGATGACCACTTAAAAGACCTCTCATTACACAAAAACCAGACA
+GTAGTGGACGTTGCAGTTCTCACATCTTTTCTACAGGATGAGAAAGTGAAAGAAAGCTAT
+GTATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2261</residue_number>
+    <molecular_weight>254299.9</molecular_weight>
+    <theoretical_pi>6.84</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ABC_tran</name>
+        <pfam_id>PF00005</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>22-42</region>
+      <region>640-660</region>
+      <region>683-703</region>
+      <region>716-736</region>
+      <region>745-765</region>
+      <region>777-797</region>
+      <region>827-847</region>
+      <region>1041-1057</region>
+      <region>1351-1371</region>
+      <region>1657-1677</region>
+      <region>1703-1723</region>
+      <region>1735-1755</region>
+      <region>1768-1788</region>
+      <region>1802-1822</region>
+      <region>1852-1872</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;ATP-binding cassette sub-family A member 1
+MACWPQLRLLLWKNLTFRRRQTCQLLLEVAWPLFIFLILISVRLSYPPYEQHECHFPNKA
+MPSAGTLPWVQGIICNANNPCFRYPTPGEAPGVVGNFNKSIVARLFSDARRLLLYSQKDT
+SMKDMRKVLRTLQQIKKSSSNLKLQDFLVDNETFSGFLYHNLSLPKSTVDKMLRADVILH
+KVFLQGYQLHLTSLCNGSKSEEMIQLGDQEVSELCGLPREKLAAAERVLRSNMDILKPIL
+RTLNSTSPFPSKELAEATKTLLHSLGTLAQELFSMRSWSDMRQEVMFLTNVNSSSSSTQI
+YQAVSRIVCGHPEGGGLKIKSLNWYEDNNYKALFGGNGTEEDAETFYDNSTTPYCNDLMK
+NLESSPLSRIIWKALKPLLVGKILYTPDTPATRQVMAEVNKTFQELAVFHDLEGMWEELS
+PKIWTFMENSQEMDLVRMLLDSRDNDHFWEQQLDGLDWTAQDIVAFLAKHPEDVQSSNGS
+VYTWREAFNETNQAIRTISRFMECVNLNKLEPIATEVWLINKSMELLDERKFWAGIVFTG
+ITPGSIELPHHVKYKIRMDIDNVERTNKIKDGYWDPGPRADPFEDMRYVWGGFAYLQDVV
+EQAIIRVLTGTEKKTGVYMQQMPYPCYVDDIFLRVMSRSMPLFMTLAWIYSVAVIIKGIV
+YEKEARLKETMRIMGLDNSILWFSWFISSLIPLLVSAGLLVVILKLGNLLPYSDPSVVFV
+FLSVFAVVTILQCFLISTLFSRANLAAACGGIIYFTLYLPYVLCVAWQDYVGFTLKIFAS
+LLSPVAFGFGCEYFALFEEQGIGVQWDNLFESPVEEDGFNLTTSVSMMLFDTFLYGVMTW
+YIEAVFPGQYGIPRPWYFPCTKSYWFGEESDEKSHPGSNQKRISEICMEEEPTHLKLGVS
+IQNLVKVYRDGMKVAVDGLALNFYEGQITSFLGHNGAGKTTTMSILTGLFPPTSGTAYIL
+GKDIRSEMSTIRQNLGVCPQHNVLFDMLTVEEHIWFYARLKGLSEKHVKAEMEQMALDVG
+LPSSKLKSKTSQLSGGMQRKLSVALAFVGGSKVVILDEPTAGVDPYSRRGIWELLLKYRQ
+GRTIILSTHHMDEADVLGDRIAIISHGKLCCVGSSLFLKNQLGTGYYLTLVKKDVESSLS
+SCRNSSSTVSYLKKEDSVSQSSSDAGLGSDHESDTLTIDVSAISNLIRKHVSEARLVEDI
+GHELTYVLPYEAAKEGAFVELFHEIDDRLSDLGISSYGISETTLEEIFLKVAEESGVDAE
+TSDGTLPARRNRRAFGDKQSCLRPFTEDDAADPNDSDIDPESRETDLLSGMDGKGSYQVK
+GWKLTQQQFVALLWKRLLIARRSRKGFFAQIVLPAVFVCIALVFSLIVPPFGKYPSLELQ
+PWMYNEQYTFVSNDAPEDTGTLELLNALTKDPGFGTRCMEGNPIPDTPCQAGEEEWTTAP
+VPQTIMDLFQNGNWTMQNPSPACQCSSDKIKKMLPVCPPGAGGLPPPQRKQNTADILQDL
+TGRNISDYLVKTYVQIIAKSLKNKIWVNEFRYGGFSLGVSNTQALPPSQEVNDAIKQMKK
+HLKLAKDSSADRFLNSLGRFMTGLDTKNNVKVWFNNKGWHAISSFLNVINNAILRANLQK
+GENPSHYGITAFNHPLNLTKQQLSEVALMTTSVDVLVSICVIFAMSFVPASFVVFLIQER
+VSKAKHLQFISGVKPVIYWLSNFVWDMCNYVVPATLVIIIFICFQQKSYVSSTNLPVLAL
+LLLLYGWSITPLMYPASFVFKIPSTAYVVLTSVNLFIGINGSVATFVLELFTDNKLNNIN
+DILKSVFLIFPHFCLGRGLIDMVKNQAMADALERFGENRFVSPLSWDLVGRNLFAMAVEG
+VVFFLITVLIQYRFFIRPRPVNAKLSPLNDEDEDVRRERQRILDGGGQNDILEIKELTKI
+YRRKRKPAVDRICVGIPPGECFGLLGVNGAGKSSTFKMLTGDTTVTRGDAFLNKNSILSN
+IHEVHQNMGYCPQFDAITELLTGREHVEFFALLRGVPEKEVGKVGEWAIRKLGLVKYGEK
+YAGNYSGGNKRKLSTAMALIGGPPVVFLDEPTTGMDPKARRFLWNCALSVVKEGRSVVLT
+SHSMEECEALCTRMAIMVNGRFRCLGSVQHLKNRFGDGYTIVVRIAGSNPDLKPVQDFFG
+LAFPGSVLKEKHRNMLQYQLPSSLSSLARIFSILSQSKKRLHIEDYSVSQTTLDQVFVNF
+AKDQSDDDHLKDLSLHKNQTVVDVAVLTSFLQDEKVKESYV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>9755159</genbank_protein_id>
+  <uniprot_id>O95477</uniprot_id>
+  <uniprot_name>ABCA1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF285167</genbank_gene_id>
+  <genecard_id>ABCA1</genecard_id>
+  <geneatlas_id>ABCA1</geneatlas_id>
+  <hgnc_id>HGNC:29</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Santamarina-Fojo S, Peterson K, Knapper C, Qiu Y, Freeman L, Cheng JF, Osorio J, Remaley A, Yang XP, Haudenschild C, Prades C, Chimini G, Blackmon E, Francois T, Duverger N, Rubin EM, Rosier M, Denefle P, Fredrickson DS, Brewer HB Jr: Complete genomic sequence of the human ABCA1 gene: analysis of the human and mouse ATP-binding cassette A promoter. Proc Natl Acad Sci U S A. 2000 Jul 5;97(14):7987-92.</reference_text>
+      <pubmed_id>10884428</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Qiu Y, Cavelier L, Chiu S, Yang X, Rubin E, Cheng JF: Human and mouse ABCA1 comparative sequencing and transgenesis studies revealing novel regulatory sequences. Genomics. 2001 Apr 1;73(1):66-76.</reference_text>
+      <pubmed_id>11352567</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RI, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JG, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ES, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blocker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I: DNA sequence and analysis of human chromosome 9.  Nature. 2004 May 27;429(6990):369-74.</reference_text>
+      <pubmed_id>15164053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Langmann T, Klucken J, Reil M, Liebisch G, Luciani MF, Chimini G, Kaminski WE, Schmitz G: Molecular cloning of the human ATP-binding cassette transporter 1 (hABC1): evidence for sterol-dependent regulation in macrophages. Biochem Biophys Res Commun. 1999 Apr 2;257(1):29-33.</reference_text>
+      <pubmed_id>10092505</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rust S, Rosier M, Funke H, Real J, Amoura Z, Piette JC, Deleuze JF, Brewer HB, Duverger N, Denefle P, Assmann G: Tangier disease is caused by mutations in the gene encoding ATP-binding cassette transporter 1. Nat Genet. 1999 Aug;22(4):352-5.</reference_text>
+      <pubmed_id>10431238</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>See RH, Caday-Malcolm RA, Singaraja RR, Zhou S, Silverston A, Huber MT, Moran J, James ER, Janoo R, Savill JM, Rigot V, Zhang LH, Wang M, Chimini G, Wellington CL, Tafuri SR, Hayden MR: Protein kinase A site-specific phosphorylation regulates ATP-binding cassette A1 (ABCA1)-mediated phospholipid efflux. J Biol Chem. 2002 Nov 1;277(44):41835-42. Epub 2002 Aug 23.</reference_text>
+      <pubmed_id>12196520</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Porsch-Ozcurumez M, Langmann T, Heimerl S, Borsukova H, Kaminski WE, Drobnik W, Honer C, Schumacher C, Schmitz G: The zinc finger protein 202 (ZNF202) is a transcriptional repressor of ATP binding cassette transporter A1 (ABCA1) and ABCG1 gene expression and a modulator of cellular lipid efflux. J Biol Chem. 2001 Apr 13;276(15):12427-33. Epub 2001 Jan 22.</reference_text>
+      <pubmed_id>11279031</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaplan R, Gan X, Menke JG, Wright SD, Cai TQ: Bacterial lipopolysaccharide induces expression of ABCA1 but not ABCG1 via an LXR-independent pathway. J Lipid Res. 2002 Jun;43(6):952-9.</reference_text>
+      <pubmed_id>12032171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hamon Y, Trompier D, Ma Z, Venegas V, Pophillat M, Mignotte V, Zhou Z, Chimini G: Cooperation between engulfment receptors: the case of ABCA1 and MEGF10.  PLoS One. 2006 Dec 27;1:e120.</reference_text>
+      <pubmed_id>17205124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Singaraja RR, Brunham LR, Visscher H, Kastelein JJ, Hayden MR: Efflux and atherosclerosis: the clinical and biochemical impact of variations in the ABCA1 gene. Arterioscler Thromb Vasc Biol. 2003 Aug 1;23(8):1322-32. Epub 2003 May 22.</reference_text>
+      <pubmed_id>12763760</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Singaraja RR, Kang MH, Vaid K, Sanders SS, Vilas GL, Arstikaitis P, Coutinho J, Drisdel RC, El-Husseini Ael D, Green WN, Berthiaume L, Hayden MR: Palmitoylation of ATP-binding cassette transporter A1 is essential for its trafficking and function. Circ Res. 2009 Jul 17;105(2):138-47. Epub 2009 Jun 25.</reference_text>
+      <pubmed_id>19556522</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hozoji M, Kimura Y, Kioka N, Ueda K: Formation of two intramolecular disulfide bonds is necessary for ApoA-I-dependent cholesterol efflux mediated by ABCA1. J Biol Chem. 2009 Apr 24;284(17):11293-300. Epub 2009 Mar 3.</reference_text>
+      <pubmed_id>19258317</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marcil M, Brooks-Wilson A, Clee SM, Roomp K, Zhang LH, Yu L, Collins JA, van Dam M, Molhuizen HO, Loubster O, Ouellette BF, Sensen CW, Fichter K, Mott S, Denis M, Boucher B, Pimstone S, Genest J Jr, Kastelein JJ, Hayden MR: Mutations in the ABC1 gene in familial HDL deficiency with defective cholesterol efflux. Lancet. 1999 Oct 16;354(9187):1341-6.</reference_text>
+      <pubmed_id>10533863</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brooks-Wilson A, Marcil M, Clee SM, Zhang LH, Roomp K, van Dam M, Yu L, Brewer C, Collins JA, Molhuizen HO, Loubser O, Ouelette BF, Fichter K, Ashbourne-Excoffon KJ, Sensen CW, Scherer S, Mott S, Denis M, Martindale D, Frohlich J, Morgan K, Koop B, Pimstone S, Kastelein JJ, Genest J Jr, Hayden MR: Mutations in ABC1 in Tangier disease and familial high-density lipoprotein deficiency. Nat Genet. 1999 Aug;22(4):336-45.</reference_text>
+      <pubmed_id>10431236</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bodzioch M, Orso E, Klucken J, Langmann T, Bottcher A, Diederich W, Drobnik W, Barlage S, Buchler C, Porsch-Ozcurumez M, Kaminski WE, Hahmann HW, Oette K, Rothe G, Aslanidis C, Lackner KJ, Schmitz G: The gene encoding ATP-binding cassette transporter 1 is mutated in Tangier disease. Nat Genet. 1999 Aug;22(4):347-51.</reference_text>
+      <pubmed_id>10431237</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clee SM, Kastelein JJ, van Dam M, Marcil M, Roomp K, Zwarts KY, Collins JA, Roelants R, Tamasawa N, Stulc T, Suda T, Ceska R, Boucher B, Rondeau C, DeSouich C, Brooks-Wilson A, Molhuizen HO, Frohlich J, Genest J Jr, Hayden MR: Age and residual cholesterol efflux affect HDL cholesterol levels and coronary artery disease in ABCA1 heterozygotes. J Clin Invest. 2000 Nov;106(10):1263-70.</reference_text>
+      <pubmed_id>11086027</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brousseau ME, Schaefer EJ, Dupuis J, Eustace B, Van Eerdewegh P, Goldkamp AL, Thurston LM, FitzGerald MG, Yasek-McKenna D, O'Neill G, Eberhart GP, Weiffenbach B, Ordovas JM, Freeman MW, Brown RH Jr, Gu JZ: Novel mutations in the gene encoding ATP-binding cassette 1 in four tangier disease kindreds. J Lipid Res. 2000 Mar;41(3):433-41.</reference_text>
+      <pubmed_id>10706591</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang J, Burnett JR, Near S, Young K, Zinman B, Hanley AJ, Connelly PW, Harris SB, Hegele RA: Common and rare ABCA1 variants affecting plasma HDL cholesterol.  Arterioscler Thromb Vasc Biol. 2000 Aug;20(8):1983-9.</reference_text>
+      <pubmed_id>10938021</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bertolini S, Pisciotta L, Seri M, Cusano R, Cantafora A, Calabresi L, Franceschini G, Ravazzolo R, Calandra S: A point mutation in ABC1 gene in a patient with severe premature coronary heart disease and mild clinical phenotype of Tangier disease. Atherosclerosis. 2001 Feb 15;154(3):599-605.</reference_text>
+      <pubmed_id>11257260</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brousseau ME, Bodzioch M, Schaefer EJ, Goldkamp AL, Kielar D, Probst M, Ordovas JM, Aslanidis C, Lackner KJ, Bloomfield Rubins H, Collins D, Robins SJ, Wilson PW, Schmitz G: Common variants in the gene encoding ATP-binding cassette transporter 1 in men with low HDL cholesterol levels and coronary heart disease. Atherosclerosis. 2001 Feb 15;154(3):607-11.</reference_text>
+      <pubmed_id>11257261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lapicka-Bodzioch K, Bodzioch M, Krull M, Kielar D, Probst M, Kiec B, Andrikovics H, Bottcher A, Hubacek J, Aslanidis C, Suttorp N, Schmitz G: Homogeneous assay based on 52 primer sets to scan for mutations of the ABCA1 gene and its application in genetic analysis of a new patient with familial high-density lipoprotein deficiency syndrome. Biochim Biophys Acta. 2001 Jul 27;1537(1):42-8.</reference_text>
+      <pubmed_id>11476961</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang W, Moriyama K, Koga T, Hua H, Ageta M, Kawabata S, Mawatari K, Imamura T, Eto T, Kawamura M, Teramoto T, Sasaki J: Novel mutations in ABCA1 gene in Japanese patients with Tangier disease and familial high density lipoprotein deficiency with coronary heart disease. Biochim Biophys Acta. 2001 Jul 27;1537(1):71-8.</reference_text>
+      <pubmed_id>11476965</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Clee SM, Zwinderman AH, Engert JC, Zwarts KY, Molhuizen HO, Roomp K, Jukema JW, van Wijland M, van Dam M, Hudson TJ, Brooks-Wilson A, Genest J Jr, Kastelein JJ, Hayden MR: Common genetic variation in ABCA1 is associated with altered lipoprotein levels and a modified risk for coronary artery disease. Circulation. 2001 Mar 6;103(9):1198-205.</reference_text>
+      <pubmed_id>11238261</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hong SH, Rhyne J, Zeller K, Miller M: ABCA1(Alabama): a novel variant associated with HDL deficiency and premature coronary artery disease. Atherosclerosis. 2002 Oct;164(2):245-50.</reference_text>
+      <pubmed_id>12204794</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ho Hong S, Rhyne J, Zeller K, Miller M: Novel ABCA1 compound variant associated with HDL cholesterol deficiency.  Biochim Biophys Acta. 2002 May 21;1587(1):60-4.</reference_text>
+      <pubmed_id>12009425</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nishida Y, Hirano K, Tsukamoto K, Nagano M, Ikegami C, Roomp K, Ishihara M, Sakane N, Zhang Z, Tsujii Ki K, Matsuyama A, Ohama T, Matsuura F, Ishigami M, Sakai N, Hiraoka H, Hattori H, Wellington C, Yoshida Y, Misugi S, Hayden MR, Egashira T, Yamashita S, Matsuzawa Y: Expression and functional analyses of novel mutations of ATP-binding cassette transporter-1 in Japanese patients with high-density lipoprotein deficiency. Biochem Biophys Res Commun. 2002 Jan 18;290(2):713-21.</reference_text>
+      <pubmed_id>11785958</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hong SH, Riley W, Rhyne J, Friel G, Miller M: Lack of association between increased carotid intima-media thickening and decreased HDL-cholesterol in a family with a novel ABCA1 variant, G2265T. Clin Chem. 2002 Nov;48(11):2066-70.</reference_text>
+      <pubmed_id>12407001</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Guo Z, Inazu A, Yu W, Suzumura T, Okamoto M, Nohara A, Higashikata T, Sano R, Wakasugi K, Hayakawa T, Yoshida K, Suehiro T, Schmitz G, Mabuchi H: Double deletions and missense mutations in the first nucleotide-binding fold of the ATP-binding cassette transporter A1 ( ABCA1) gene in Japanese patients with Tangier disease. J Hum Genet. 2002;47(6):325-9.</reference_text>
+      <pubmed_id>12111381</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ishii J, Nagano M, Kujiraoka T, Ishihara M, Egashira T, Takada D, Tsuji M, Hattori H, Emi M: Clinical variant of Tangier disease in Japan: mutation of the ABCA1 gene in hypoalphalipoproteinemia with corneal lipidosis. J Hum Genet. 2002;47(7):366-9.</reference_text>
+      <pubmed_id>12111371</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hong SH, Rhyne J, Miller M: Novel polypyrimidine variation (IVS46: del T -39...-46) in ABCA1 causes exon skipping and contributes to HDL cholesterol deficiency in a family with premature coronary disease. Circ Res. 2003 Nov 14;93(10):1006-12. Epub 2003 Oct 23.</reference_text>
+      <pubmed_id>14576201</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tan JH, Low PS, Tan YS, Tong MC, Saha N, Yang H, Heng CK: ABCA1 gene polymorphisms and their associations with coronary artery disease and plasma lipids in males from three ethnic populations in Singapore. Hum Genet. 2003 Jul;113(2):106-17. Epub 2003 Apr 23.</reference_text>
+      <pubmed_id>12709788</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Morabia A, Cayanis E, Costanza MC, Ross BM, Flaherty MS, Alvin GB, Das K, Gilliam TC: Association of extreme blood lipid profile phenotypic variation with 11 reverse cholesterol transport genes and 10 non-genetic cardiovascular disease risk factors. Hum Mol Genet. 2003 Nov 1;12(21):2733-43. Epub 2003 Sep 9.</reference_text>
+      <pubmed_id>12966036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cenarro A, Artieda M, Castillo S, Mozas P, Reyes G, Tejedor D, Alonso R, Mata P, Pocovi M, Civeira F: A common variant in the ABCA1 gene is associated with a lower risk for premature coronary heart disease in familial hypercholesterolaemia. J Med Genet. 2003 Mar;40(3):163-8.</reference_text>
+      <pubmed_id>12624133</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Probst MC, Thumann H, Aslanidis C, Langmann T, Buechler C, Patsch W, Baralle FE, Dallinga-Thie GM, Geisel J, Keller C, Menys VC, Schmitz G: Screening for functional sequence variations and mutations in ABCA1.  Atherosclerosis. 2004 Aug;175(2):269-79.</reference_text>
+      <pubmed_id>15262183</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pisciotta L, Hamilton-Craig I, Tarugi P, Bellocchio A, Fasano T, Alessandrini P, Bon GB, Siepi D, Mannarino E, Cattin L, Averna M, Cefalu AB, Cantafora A, Calandra S, Bertolini S: Familial HDL deficiency due to ABCA1 gene mutations with or without other genetic lipoprotein disorders. Atherosclerosis. 2004 Feb;172(2):309-20.</reference_text>
+      <pubmed_id>15019541</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Albrecht C, Baynes K, Sardini A, Schepelmann S, Eden ER, Davies SW, Higgins CF, Feher MD, Owen JS, Soutar AK: Two novel missense mutations in ABCA1 result in altered trafficking and cause severe autosomal recessive HDL deficiency. Biochim Biophys Acta. 2004 May 24;1689(1):47-57.</reference_text>
+      <pubmed_id>15158913</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Frikke-Schmidt R, Nordestgaard BG, Jensen GB, Tybjaerg-Hansen A: Genetic variation in ABC transporter A1 contributes to HDL cholesterol in the general population. J Clin Invest. 2004 Nov;114(9):1343-53.</reference_text>
+      <pubmed_id>15520867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cohen JC, Kiss RS, Pertsemlidis A, Marcel YL, McPherson R, Hobbs HH: Multiple rare alleles contribute to low plasma levels of HDL cholesterol.  Science. 2004 Aug 6;305(5685):869-72.</reference_text>
+      <pubmed_id>15297675</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Albrecht C, McVey JH, Elliott JI, Sardini A, Kasza I, Mumford AD, Naoumova RP, Tuddenham EG, Szabo K, Higgins CF: A novel missense mutation in ABCA1 results in altered protein trafficking and reduced phosphatidylserine translocation in a patient with Scott syndrome. Blood. 2005 Jul 15;106(2):542-9. Epub 2005 Mar 24.</reference_text>
+      <pubmed_id>15790791</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Frikke-Schmidt R, Nordestgaard BG, Schnohr P, Steffensen R, Tybjaerg-Hansen A: Mutation in ABCA1 predicted risk of ischemic heart disease in the Copenhagen City Heart Study Population. J Am Coll Cardiol. 2005 Oct 18;46(8):1516-20. Epub 2005 Sep 23.</reference_text>
+      <pubmed_id>16226177</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fasano T, Bocchi L, Pisciotta L, Bertolini S, Calandra S: Denaturing high-performance liquid chromatography in the detection of ABCA1 gene mutations in familial HDL deficiency. J Lipid Res. 2005 Apr;46(4):817-22. Epub 2005 Feb 1.</reference_text>
+      <pubmed_id>15722566</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Reddy ST, Hama S, Ng C, Grijalva V, Navab M, Fogelman AM: ATP-binding cassette transporter 1 participates in LDL oxidation by artery wall cells. Arterioscler Thromb Vasc Biol. 2002 Nov 1;22(11):1877-83.</reference_text>
+        <pubmed_id>12426219</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Muhl H, Hofler S, Pfeilschifter J: Inhibition of lipopolysaccharide/ATP-induced release of interleukin-18 by KN-62 and glyburide. Eur J Pharmacol. 2003 Dec 15;482(1-3):325-8.</reference_text>
+        <pubmed_id>14660039</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Agassandian M, Mathur SN, Zhou J, Field FJ, Mallampalli RK: Oxysterols trigger ABCA1-mediated basolateral surfactant efflux.  Am J Respir Cell Mol Biol. 2004 Aug;31(2):227-33. Epub 2004 Mar 23.</reference_text>
+        <pubmed_id>15039140</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nieland TJ, Chroni A, Fitzgerald ML, Maliga Z, Zannis VI, Kirchhausen T, Krieger M: Cross-inhibition of SR-BI- and ABCA1-mediated cholesterol transport by the small molecules BLT-4 and glyburide. J Lipid Res. 2004 Jul;45(7):1256-65. Epub 2004 Apr 21.</reference_text>
+        <pubmed_id>15102890</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Alder-Baerens N, Muller P, Pohl A, Korte T, Hamon Y, Chimini G, Pomorski T, Herrmann A: Headgroup-specific exposure of phospholipids in ABCA1-expressing cells.  J Biol Chem. 2005 Jul 15;280(28):26321-9. Epub 2005 May 19.</reference_text>
+        <pubmed_id>15905177</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probucol</name>
+        <accession>HMDB15537</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Favari E, Zanotti I, Zimetti F, Ronda N, Bernini F, Rothblat GH: Probucol inhibits ABCA1-mediated cellular lipid efflux.  Arterioscler Thromb Vasc Biol. 2004 Dec;24(12):2345-50. Epub 2004 Oct 28.</reference_text>
+        <pubmed_id>15514211</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probucol</name>
+        <accession>HMDB15537</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yamamoto A: A uniqe antilipidemic drug--probucol.  J Atheroscler Thromb. 2008 Dec;15(6):304-5. Epub 2008 Dec 11.</reference_text>
+        <pubmed_id>19075491</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probucol</name>
+        <accession>HMDB15537</accession>
+      </metabolite>
+      <reference>
+        <reference_text>de la Llera-Moya M, Drazul-Schrader D, Asztalos BF, Cuchel M, Rader DJ, Rothblat GH: The ability to promote efflux via ABCA1 determines the capacity of serum specimens with similar high-density lipoprotein cholesterol to remove cholesterol from macrophages. Arterioscler Thromb Vasc Biol. 2010 Apr;30(4):796-801. Epub 2010 Jan 14.</reference_text>
+        <pubmed_id>20075420</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probucol</name>
+        <accession>HMDB15537</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sirtori CR, Manzoni C, Lovati MR: Mechanisms of lipid-lowering agents.  Cardiology. 1991;78(3):226-35.</reference_text>
+        <pubmed_id>1868500</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probucol</name>
+        <accession>HMDB15537</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shichiri M, Takanezawa Y, Rotzoll DE, Yoshida Y, Kokubu T, Ueda K, Tamai H, Arai H: ATP-binding cassette transporter A1 is involved in hepatic alpha-tocopherol secretion. J Nutr Biochem. 2010 May;21(5):451-6. Epub 2009 May 7.</reference_text>
+        <pubmed_id>19427182</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Probucol</name>
+        <accession>HMDB15537</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Arakawa R, Tsujita M, Iwamoto N, Ito-Ohsumi C, Lu R, Wu CA, Shimizu K, Aotsuka T, Kanazawa H, Abe-Dohmae S, Yokoyama S: Pharmacological inhibition of ABCA1 degradation increases HDL biogenesis and exhibits antiatherogenesis. J Lipid Res. 2009 Nov;50(11):2299-305. Epub 2009 May 20.</reference_text>
+        <pubmed_id>19458386</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

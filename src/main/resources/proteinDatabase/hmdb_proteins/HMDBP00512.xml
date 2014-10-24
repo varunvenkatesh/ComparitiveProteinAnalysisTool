@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:50:28 -0700</creation_date>
+  <update_date>2013-05-27 11:16:58 -0600</update_date>
+  <accession>HMDBP00512</accession>
+  <secondary_accessions>
+    <accession>5759</accession>
+    <accession>HMDBP04093</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>GCS heavy chain</synonym>
+    <synonym>Gamma-ECS</synonym>
+    <synonym>Gamma-glutamylcysteine synthetase</synonym>
+  </synonyms>
+  <gene_name>GCLC</gene_name>
+  <general_function>Involved in glutamate-cysteine ligase activity</general_function>
+  <specific_function></specific_function>
+  <pathways>
+    <pathway>
+      <name>Cysteine Metabolism</name>
+      <smpdb_id>SMP00013</smpdb_id>
+      <kegg_map_id>map00270</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>glutathione biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Glutathione metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00148</accession>
+      <name>L-Glutamic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01049</accession>
+      <name>Gamma-Glutamylcysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00574</accession>
+      <name>L-Cysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01919</accession>
+      <name>Famotidine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01893</accession>
+      <name>Alpha-Tocopherol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acid-amino acid ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>glutamate-cysteine ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>peptide metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutathione metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>glutathione biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>glutamate-cysteine ligase complex</description>
+      <go_id>GO:0017109</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ADP binding</description>
+      <go_id>GO:0043531</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>coenzyme binding</description>
+      <go_id>GO:0050662</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate binding</description>
+      <go_id>GO:0016595</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glutamate-cysteine ligase activity</description>
+      <go_id>GO:0004357</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>magnesium ion binding</description>
+      <go_id>GO:0000287</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cell redox homeostasis</description>
+      <go_id>GO:0045454</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cysteine metabolic process</description>
+      <go_id>GO:0006534</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutamate metabolic process</description>
+      <go_id>GO:0006536</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glutathione biosynthetic process</description>
+      <go_id>GO:0006750</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>L-ascorbic acid metabolic process</description>
+      <go_id>GO:0019852</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of apoptotic process</description>
+      <go_id>GO:0043066</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of neuron apoptotic process</description>
+      <go_id>GO:0043524</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of protein ubiquitination</description>
+      <go_id>GO:0031397</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045892</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of proteasomal ubiquitin-dependent protein catabolic process</description>
+      <go_id>GO:0032436</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of blood vessel size</description>
+      <go_id>GO:0050880</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of mitochondrial depolarization</description>
+      <go_id>GO:0051900</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to arsenic-containing substance</description>
+      <go_id>GO:0046685</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to heat</description>
+      <go_id>GO:0009408</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hormone stimulus</description>
+      <go_id>GO:0009725</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nitrosative stress</description>
+      <go_id>GO:0051409</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to oxidative stress</description>
+      <go_id>GO:0006979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>6</chromosome_location>
+    <locus>6p12</locus>
+    <gene_sequence>&gt;1914 bp
+ATGGGGCTGCTGTCCCAGGGCTCGCCGCTGAGCTGGGAGGAAACCAAGCGCCATGCCGAC
+CACGTGCGGCGGCACGGGATCCTCCAGTTCCTGCACATCTACCACGCCGTCAAGGACCGG
+CACAAGGACGTTCTCAAGTGGGGCGATGAGGTGGAATACATGTTGGTATCTTTTGATCAT
+GAAAATAAAAAAGTCCGGTTGGTCCTGTCTGGGGAGAAAGTTCTTGAAACTCTGCAAGAG
+AAGGGGGAAAGGACAAACCCAAACCATCCTACCCTTTGGAGACCAGAGTATGGGAGTTAC
+ATGATTGAAGGGACACCAGGACAGCCCTACGGAGGAACAATGTCCGAGTTCAATACAGTT
+GAGGCCAACATGCGAAAACGCCGGAAGGAGGCTACTTCTATATTAGAAGAAAATCAGGCT
+CTTTGCACAATAACTTCATTTCCCAGATTAGGCTGTCCTGGGTTCACACTGCCCGAGGTC
+AAACCCAACCCAGTGGAAGGAGGAGCTTCCAAGTCCCTCTTCTTTCCAGATGAAGCAATA
+AACAAGCACCCTCGCTTCAGTACCTTAACAAGAAATATCCGACATAGGAGAGGAGAAAAG
+GTTGTCATCAATGTACCAATATTTAAGGACAAGAATACACCATCTCCATTTATAGAAACA
+TTTACTGAGGATGATGAAGCTTCAAGGGCTTCTAAGCCGGATCATATTTACATGGATGCC
+ATGGGATTTGGAATGGGCAATTGCTGTCTCCAGGTGACATTCCAAGCCTGCAGTATATCT
+GAGGCCAGATACCTTTATGATCAGTTGGCTACTATCTGTCCAATTGTTATGGCTTTGAGT
+GCTGCATCTCCCTTTTACCGAGGCTATGTGTCAGACATTGATTGTCGCTGGGGAGTGATT
+TCTGCATCTGTAGATGATAGAACTCGGGAGGAGCGAGGACTGGAGCCATTGAAGAACAAT
+AACTATAGGATCAGTAAATCCCGATATGACTCAATAGACAGCTATTTATCTAAGTGTGGT
+GAGAAATATAATGACATCGACTTGACGATAGATAAAGAGATCTACGAACAGCTGTTGCAG
+GAAGGCATTGATCATCTCCTGGCCCAGCATGTTGCTCATCTCTTTATTAGAGACCCACTG
+ACACTGTTTGAAGAGAAAATACACCTGGATGATGCTAATGAGTCTGACCATTTTGAGAAT
+ATTCAGTCCACAAATTGGCAGACAATGAGATTTAAGCCCCCTCCTCCAAACTCAGACATT
+GGATGGAGAGTAGAATTTCGACCCATGGAGGTGCAATTAACAGACTTTGAGAACTCTGCC
+TATGTGGTGTTTGTGGTACTGCTCACCAGAGTGATCCTTTCCTACAAATTGGATTTTCTC
+ATTCCACTGTCAAAGGTTGATGAGAACATGAAGGTAGCACAGAAAAGAGATGCTGTCTTG
+CAGGGAATGTTTTATTTCAGGAAAGATATTTGCAAAGGTGGCAATGCAGTGGTGGATGGT
+TGTGGCAAGGCCCAGAACAGCACGGAGCTCGCTGCAGAGGAGTACACCCTCATGAGCATA
+GACACCATCATCAATGGGAAGGAAGGTGTGTTTCCTGGACTGATCCCAATTCTGAACTCT
+TACCTTGAAAACATGGAAGTGGATGTGGACACCAGATGTAGTATTCTGAACTACCTAAAG
+CTAATTAAGAAGAGAGCATCTGGAGAACTAATGACAGTTGCCAGATGGATGAGGGAGTTT
+ATCGCAAACCATCCTGACTACAAGCAAGACAGTGTCATAACTGATGAAATGAATTATAGC
+CTTATTTTGAAGTGTAACCAAATTGCAAATGAATTATGTGAATGCCCAGAGTTACTTGGA
+TCAGCATTTAGGAAAGTAAAATATAGTGGAAGTAAAACTGACTCATCCAACTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>637</residue_number>
+    <molecular_weight>68629.42</molecular_weight>
+    <theoretical_pi>5.935</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>GCS</name>
+        <pfam_id>PF03074</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glutamate--cysteine ligase catalytic subunit
+MGLLSQGSPLSWEETKRHADHVRRHGILQFLHIYHAVKDRHKDVLKWGDEVEYMLVSFDH
+ENKKVRLVLSGEKVLETLQEKGERTNPNHPTLWRPEYGSYMIEGTPGQPYGGTMSEFNTV
+EANMRKRRKEATSILEENQALCTITSFPRLGCPGFTLPEVKPNPVEGGASKSLFFPDEAI
+NKHPRFSTLTRNIRHRRGEKVVINVPIFKDKNTPSPFIETFTEDDEASRASKPDHIYMDA
+MGFGMGNCCLQVTFQACSISEARYLYDQLATICPIVMALSAASPFYRGYVSDIDCRWGVI
+SASVDDRTREERGLEPLKNNNYRISKSRYDSIDSYLSKCGEKYNDIDLTIDKEIYEQLLQ
+EGIDHLLAQHVAHLFIRDPLTLFEEKIHLDDANESDHFENIQSTNWQTMRFKPPPPNSDI
+GWRVEFRPMEVQLTDFENSAYVVFVVLLTRVILSYKLDFLIPLSKVDENMKVAQKRDAVL
+QGMFYFRKDICKGGNAVVDGCGKAQNSTELAAEEYTLMSIDTIINGKEGVFPGLIPILNS
+YLENMEVDVDTRCSILNYLKLIKKRASGELMTVARWMREFIANHPDYKQDSVITDEMNYS
+LILKCNQIANELCECPELLGSAFRKVKYSGSKTDSSN</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>P48506</uniprot_id>
+  <uniprot_name>GSH1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>M90656</genbank_gene_id>
+  <genecard_id>GCLC</genecard_id>
+  <geneatlas_id>GCLC</geneatlas_id>
+  <hgnc_id>HGNC:4311</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Gipp JJ, Chang C, Mulcahy RT: Cloning and nucleotide sequence of a full-length cDNA for human liver gamma-glutamylcysteine synthetase. Biochem Biophys Res Commun. 1992 May 29;185(1):29-35.</reference_text>
+      <pubmed_id>1350904</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mulcahy RT, Gipp JJ: Identification of a putative antioxidant response element in the 5'-flanking region of the human gamma-glutamylcysteine synthetase heavy subunit gene. Biochem Biophys Res Commun. 1995 Apr 6;209(1):227-33.</reference_text>
+      <pubmed_id>7726839</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beutler E, Gelbart T, Kondo T, Matsunaga AT: The molecular basis of a case of gamma-glutamylcysteine synthetase deficiency. Blood. 1999 Oct 15;94(8):2890-4.</reference_text>
+      <pubmed_id>10515893</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Misra I, Griffith OW: Expression and purification of human gamma-glutamylcysteine synthetase.  Protein Expr Purif. 1998 Jul;13(2):268-76.</reference_text>
+      <pubmed_id>9675072</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ristoff E, Augustson C, Geissler J, de Rijk T, Carlsson K, Luo JL, Andersson K, Weening RS, van Zwieten R, Larsson A, Roos D: A missense mutation in the heavy subunit of gamma-glutamylcysteine synthetase gene causes hemolytic anemia. Blood. 2000 Apr 1;95(7):2193-6.</reference_text>
+      <pubmed_id>10733484</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hamilton D, Wu JH, Alaoui-Jamali M, Batist G: A novel missense mutation in the gamma-glutamylcysteine synthetase catalytic subunit gene causes both decreased enzymatic activity and glutathione production. Blood. 2003 Jul 15;102(2):725-30. Epub 2003 Mar 27.</reference_text>
+      <pubmed_id>12663448</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Glutamic acid</name>
+        <accession>HMDB00148</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Cysteine</name>
+        <accession>HMDB00574</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ashida H, Sawa Y, Shibata H: Cloning, biochemical and phylogenetic characterizations of gamma-glutamylcysteine synthetase from Anabaena sp. PCC 7120. Plant Cell Physiol. 2005 Apr;46(4):557-62. Epub 2005 Feb 2.</reference_text>
+        <pubmed_id>15695431</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>L-Cysteine</name>
+        <accession>HMDB00574</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Srivastava S, Chan C: Application of metabolic flux analysis to identify the mechanisms of free fatty acid toxicity to human hepatoma cell line. Biotechnol Bioeng. 2008 Feb 1;99(2):399-410.</reference_text>
+        <pubmed_id>17615559</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-Tocopherol</name>
+        <accession>HMDB01893</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Feng Z, Liu Z, Li X, Jia H, Sun L, Tian C, Jia L, Liu J: alpha-Tocopherol is an effective Phase II enzyme inducer: protective effects on acrolein-induced oxidative stress and mitochondrial dysfunction in human retinal pigment epithelial cells. J Nutr Biochem. 2010 Dec;21(12):1222-31. Epub 2010 Feb 12.</reference_text>
+        <pubmed_id>20153624</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

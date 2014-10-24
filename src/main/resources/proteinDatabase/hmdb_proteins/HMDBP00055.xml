@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:49 -0700</creation_date>
+  <update_date>2013-05-27 11:28:20 -0600</update_date>
+  <accession>HMDBP00055</accession>
+  <secondary_accessions>
+    <accession>5284</accession>
+    <accession>HMDBP04742</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>70 kDa mitochondrial autoantigen of primary biliary cirrhosis</synonym>
+    <synonym>Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex</synonym>
+    <synonym>M2 antigen complex 70 kDa subunit</synonym>
+    <synonym>PBC</synonym>
+    <synonym>PDC-E2</synonym>
+    <synonym>PDCE2</synonym>
+    <synonym>Pyruvate dehydrogenase complex component E2</synonym>
+  </synonyms>
+  <gene_name>DLAT</gene_name>
+  <general_function>Involved in acyltransferase activity</general_function>
+  <specific_function>The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2), and thereby links the glycolytic pathway to the tricarboxylic cycle.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Citric Acid Cycle</name>
+      <smpdb_id>SMP00057</smpdb_id>
+      <kegg_map_id>map00020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glycolysis / Gluconeogenesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00010</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Citrate cycle (TCA cycle)</name>
+      <smpdb_id/>
+      <kegg_map_id>map00020</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyruvate metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00620</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00019</accession>
+      <name>Alpha-ketoisovaleric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00243</accession>
+      <name>Pyruvic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01206</accession>
+      <name>Acetyl-CoA</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01423</accession>
+      <name>Coenzyme A</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01967</accession>
+      <name>Carbon dioxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06878</accession>
+      <name>S-Acetyldihydrolipoamide-E</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01451</accession>
+      <name>(R)-lipoic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>s-acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dihydrolipoyllysine-residue acetyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring acyl groups other than amino-acyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>organic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxoacid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monocarboxylic acid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>pyruvate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>pyruvate dehydrogenase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial pyruvate dehydrogenase complex</description>
+      <go_id>GO:0005967</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>dihydrolipoyllysine-residue acetyltransferase activity</description>
+      <go_id>GO:0004742</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>acetyl-CoA biosynthetic process</description>
+      <go_id>GO:0006085</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>acetyl-CoA biosynthetic process from pyruvate</description>
+      <go_id>GO:0006086</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycolysis</description>
+      <go_id>GO:0006096</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>pyruvate metabolic process</description>
+      <go_id>GO:0006090</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of acetyl-CoA biosynthetic process from pyruvate</description>
+      <go_id>GO:0010510</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sleep</description>
+      <go_id>GO:0030431</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion matrix</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11q23.1</locus>
+    <gene_sequence>&gt;1944 bp
+ATGTGGCGCGTCTGTGCGCGACGGGCTCAGAATGTAGCCCCATGGGCGGGACTCGAGGCT
+CGGTGGACGGCCTTGCAGGAGGTACCCGGAACTCCACGAGTGACCTCGCGATCTGGCCCG
+GCTCCCGTTCGTCGCAACAGCGTGACTACAGGGTATGGCGGGGTCCGGGCACTGTGCGGC
+TGGACCCCCAGTTCTGGGGCCACGCCGCGGAACCGCTTACTGCTGCAGCTTTTGGGGTCG
+CCCGGCCGCCGCTATTACAGTCTTCCCCCGCATCAGAAGGTTCCATTGCCTTCTCTTTCC
+CCCACAATGCAGGCAGGCACCATAGCCCGTTGGGAAAAAAAAGAGGGAGACAAAATCAAT
+GAAGGTGACCTAATTGCAGAGGTTGAAACTGATAAAGCCACTGTTGGATTTGAGAGCCTG
+GAGGAGTGTTATATGGCAAAGATACTTGTTGCTGAAGGTACCAGGGATGTTCCCATCGGA
+GCGATCATCTGTATCACAGTTGGCAAGCCTGAGGATATTGAGGCCTTTAAAAATTATACA
+CTGGATTCCTCAGCAGCACCTACCCCACAAGCGGCCCCAGCACCAACCCCTGCTGCCACT
+GCTTCGCCACCTACACCTTCTGCTCAGGCTCCTGGTAGCTCATATCCCCCTCACATGCAG
+GTACTTCTTCCTGCCCTCTCTCCCACCATGACCATGGGCACAGTTCAGAGATGGGAAAAA
+AAAGTGGGTGAGAAGCTAAGTGAAGGAGACTTACTGGCAGAGATAGAAACTGACAAAGCC
+ACTATAGGTTTTGAAGTACAGGAAGAAGGTTATCTGGCAAAAATCCTGGTCCCTGAAGGC
+ACAAGAGATGTCCCTCTAGGAACCCCACTCTGTATCATTGTAGAAAAAGAGGCAGATATA
+TCAGCATTTGCTGACTATAGGCCAACCGAAGTAACAGATTTAAAACCACAAGCGCCACCA
+CCTACCCCACCCCCGGTGGCCGCTGTTCCTCCAACTCCCCAGCCTTTAGCTCCTACACCT
+TCAGCACCCTGCCCAGCTACTCCTGCTGGACCAAAGGGAAGGGTGTTTGTTAGCCCTCTT
+GCAAAGAAGTTGGCAGTAGAGAAAGGGATTGATCTTACACAAGTAAAAGGGACAGGACCA
+GATGGTAGAATCACCAAGAAGGATATCGACTCTTTTGTGCCTAGTAAAGTTGCTCCTGCT
+CCGGCAGCTGTTGTGCCTCCCACAGGTCCTGGAATGGCACCAGTTCCTACAGGTGTCTTC
+ACAGATATCCCAATCAGCAACATTCGTCGGGTTATTGCACAGCGATTAATGCAATCAAAG
+CAAACCATACCTCATTATTACCTTTCTATCAATGTAAATATGGGAGAAGTTTTGTTGGTA
+CGGAAAGAACTTAATAAGATATTAGAAGGGAGAAGCAAAATTTCTGTCAATGACTTCATC
+ATAAAAGCTTCAGCTTTGGCATGTTTAAAAGTTCCCGAAGCAAATTCTTCTTGGATGGAC
+ACAGTTATAAGACAAAATCATGTTGTTGATGTCAGTGTTGCGGTCAGTACTCCTGCAGGA
+CTCATCACACCTATTGTGTTTAATGCACATATAAAAGGAGTGGAAACCATTGCTAATGAT
+GTTGTTTCTTTAGCAACCAAAGCAAGAGAGGGTAAACTACAGCCACATGAATTCCAGGGT
+GGCACTTTTACGATCTCCAATTTAGGAATGTTTGGAATTAAGAATTTCTCTGCTATTATT
+AACCCACCTCAAGCATGTATTTTGGCAATTGGTGCTTCAGAGGATAAACTGGTCCCTGCA
+GATAATGAAAAAGGGTTTGATGTGGCTAGCATGATGTCTGTTACACTCAGTTGTGATCAC
+CGGGTGGTGGATGGAGCAGTTGGAGCCCAGTGGCTTGCTGAGTTTAGAAAGTACCTTGAA
+AAACCTATCACTATGTTGTTGTAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>647</residue_number>
+    <molecular_weight>68996.03</molecular_weight>
+    <theoretical_pi>7.835</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>2-oxoacid_dh</name>
+        <pfam_id>PF00198</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Biotin_lipoyl</name>
+        <pfam_id>PF00364</pfam_id>
+      </pfam>
+      <pfam>
+        <name>E3_binding</name>
+        <pfam_id>PF02817</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
+MWRVCARRAQNVAPWAGLEARWTALQEVPGTPRVTSRSGPAPARRNSVTTGYGGVRALCG
+WTPSSGATPRNRLLLQLLGSPGRRYYSLPPHQKVPLPSLSPTMQAGTIARWEKKEGDKIN
+EGDLIAEVETDKATVGFESLEECYMAKILVAEGTRDVPIGAIICITVGKPEDIEAFKNYT
+LDSSAAPTPQAAPAPTPAATASPPTPSAQAPGSSYPPHMQVLLPALSPTMTMGTVQRWEK
+KVGEKLSEGDLLAEIETDKATIGFEVQEEGYLAKILVPEGTRDVPLGTPLCIIVEKEADI
+SAFADYRPTEVTDLKPQVPPPTPPPVAAVPPTPQPLAPTPSAPCPATPAGPKGRVFVSPL
+AKKLAVEKGIDLTQVKGTGPDGRITKKDIDSFVPSKVAPAPAAVVPPTGPGMAPVPTGVF
+TDIPISNIRRVIAQRLMQSKQTIPHYYLSIDVNMGEVLLVRKELNKILEGRSKISVNDFI
+IKASALACLKVPEANSSWMDTVIRQNHVVDVSVAVSTPAGLITPIVFNAHIKGVETIAND
+VVSLATKAREGKLQPHEFQGGTFTISNLGMFGIKNFSAIINPPQACILAIGASEDKLVPA
+DNEKGFDVASMMSVTLSCDHRVVDGAVGAQWLAEFRKYLEKPITMLL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62898924</genbank_protein_id>
+  <uniprot_id>P10515</uniprot_id>
+  <uniprot_name>ODP2_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1FYC</pdb_id>
+    <pdb_id>1Y8N</pdb_id>
+    <pdb_id>1Y8O</pdb_id>
+    <pdb_id>1Y8P</pdb_id>
+    <pdb_id>2DNE</pdb_id>
+    <pdb_id>2PNR</pdb_id>
+    <pdb_id>2Q8I</pdb_id>
+    <pdb_id>3B8K</pdb_id>
+    <pdb_id>3CRK</pdb_id>
+    <pdb_id>3CRL</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AK223596</genbank_gene_id>
+  <genecard_id>DLAT</genecard_id>
+  <geneatlas_id>DLAT</geneatlas_id>
+  <hgnc_id>HGNC:2896</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Coppel RL, McNeilage LJ, Surh CD, Van de Water J, Spithill TW, Whittingham S, Gershwin ME: Primary structure of the human M2 mitochondrial autoantigen of primary biliary cirrhosis: dihydrolipoamide acetyltransferase. Proc Natl Acad Sci U S A. 1988 Oct;85(19):7317-21.</reference_text>
+      <pubmed_id>3174635</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Thekkumkara TJ, Ho L, Wexler ID, Pons G, Liu TC, Patel MS: Nucleotide sequence of a cDNA for the dihydrolipoamide acetyltransferase component of human pyruvate dehydrogenase complex. FEBS Lett. 1988 Nov 21;240(1-2):45-8.</reference_text>
+      <pubmed_id>3191998</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Howard MJ, Fuller C, Broadhurst RW, Perham RN, Tang JG, Quinn J, Diamond AG, Yeaman SJ: Three-dimensional structure of the major autoantigen in primary biliary cirrhosis. Gastroenterology. 1998 Jul;115(1):139-46.</reference_text>
+      <pubmed_id>9649469</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Head RA, Brown RM, Zolkipli Z, Shahdadpuri R, King MD, Clayton PT, Brown GK: Clinical and genetic spectrum of pyruvate dehydrogenase deficiency: dihydrolipoamide acetyltransferase (E2) deficiency. Ann Neurol. 2005 Aug;58(2):234-41.</reference_text>
+      <pubmed_id>16049940</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kato M, Chuang JL, Tso SC, Wynn RM, Chuang DT: Crystal structure of pyruvate dehydrogenase kinase 3 bound to lipoyl domain 2 of human pyruvate dehydrogenase complex. EMBO J. 2005 May 18;24(10):1763-74. Epub 2005 Apr 28.</reference_text>
+      <pubmed_id>15861126</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Devedjiev Y, Steussy CN, Vassylyev DG: Crystal structure of an asymmetric complex of pyruvate dehydrogenase kinase 3 with lipoyl domain 2 and its biological implications. J Mol Biol. 2007 Jul 13;370(3):407-16. Epub 2007 May 10.</reference_text>
+      <pubmed_id>17532006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kato M, Li J, Chuang JL, Chuang DT: Distinct structural mechanisms for inhibition of pyruvate dehydrogenase kinase isoforms by AZD7545, dichloroacetate, and radicicol. Structure. 2007 Aug;15(8):992-1004. Epub 2007 Aug 2.</reference_text>
+      <pubmed_id>17683942</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Alpha-ketoisovaleric acid</name>
+        <accession>HMDB00019</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jackson RH, Singer TP: Inactivation of the 2-ketoglutarate and pyruvate dehydrogenase complexes of beef heart by branched chain keto acids. J Biol Chem. 1983 Feb 10;258(3):1857-65.</reference_text>
+        <pubmed_id>6822537</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

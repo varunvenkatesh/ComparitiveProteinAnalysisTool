@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:07:04 -0700</creation_date>
+  <update_date>2013-05-27 11:32:32 -0600</update_date>
+  <accession>HMDBP08161</accession>
+  <secondary_accessions>
+    <accession>13872</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>HEPTP</synonym>
+    <synonym>Hematopoietic protein-tyrosine phosphatase</synonym>
+    <synonym>Protein-tyrosine phosphatase LC-PTP</synonym>
+  </synonyms>
+  <gene_name>PTPN7</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Protein phosphatase that acts preferentially on tyrosine-phosphorylated MAPK1. Plays a role in the regulation of T and B-lymphocyte development and signal transduction.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>MAPK signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04010</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00058</accession>
+      <name>Cyclic AMP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>internal side of plasma membrane</description>
+      <go_id>GO:0009898</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id>GO:0004725</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q32.1</locus>
+    <gene_sequence>&gt;1083 bp
+ATGGTCCAAGCCCATGGGGGGCGCTCCAGAGCACAGCCGTTGACCTTGTCTTTGGGGGCA
+GCCATGACCCAGCCTCCGCCTGAAAAAACGCCAGCCAAGAAGCATGTGCGACTGCAGGAG
+AGGCGGGGCTCCAATGTGGCTCTGATGCTGGACGTTCGGTCCCTGGGGGCCGTAGAACCC
+ATCTGCTCTGTGAACACACCCCGGGAGGTCACCCTACACTTTCTGCGCACTGCTGGACAC
+CCCCTTACCCGCTGGGCCCTTCAGCGCCAGCCACCCAGCCCCAAGCAACTGGAAGAAGAA
+TTCTTGAAGATCCCTTCAAACTTTGTCAGCCCCGAAGACCTGGACATCCCTGGCCACGCC
+TCCAAGGACCGATACAAGACCATCTTGCCAAATCCCCAGAGCCGTGTCTGTCTAGGCCGG
+GCACAGAGCCAGGAGGACGGAGATTACATCAATGCCAACTACATCCGAGGCTATGACGGG
+AAGGAGAAGGTCTACATTGCCACCCAGGGCCCCATGCCCAACACTGTGTCGGACTTCTGG
+GAGATGGTGTGGCAAGAGGAAGTGTCCCTCATTGTCATGCTCACTCAGCTCCGAGAGGGC
+AAGGAGAAATGTGTCCACTACTGGCCCACAGAAGAGGAAACCTATGGACCCTTCCAGATC
+CGCATCCAGGACATGAAAGAGTGCCCAGAATACACTGTGCGGCAGCTCACCATCCAGTAC
+CAGGAAGAGCGCCGGTCAGTAAAGCACATCCTCTTTTCGGCCTGGCCAGACCATCAGACA
+CCAGAATCAGCTGGGCCCCTGCTGCGCCTAGTGGCAGAGGTGGAGGAGAGCCCGGAGACA
+GCCGCCCACCCCGGGCCTATCGTAGTCCACTGCAGTGCAGGGATTGGCCGGACGGGCTGC
+TTCATCGCCACGCGAATTGGCTGTCAACAGCTGAAAGCCCGAGGAGAAGTGGACATTCTG
+GGTATTGTGTGCCAACTGCGGCTAGACAGAGGGGGGATGATCCAGACGGCAGAGCAGTAC
+CAGTTCCTGCACCACACTTTGGCCCTGTATGCAGGCCAGCTGCCTGAGGAACCCAGCCCC
+TGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>360</residue_number>
+    <molecular_weight>45002.02</molecular_weight>
+    <theoretical_pi>7.328</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Y_phosphatase</name>
+        <pfam_id>PF00102</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Tyrosine-protein phosphatase non-receptor type 7
+MVQAHGGRSRAQPLTLSLGAAMTQPPPEKTPAKKHVRLQERRGSNVALMLDVRSLGAVEP
+ICSVNTPREVTLHFLRTAGHPLTRWALQRQPPSPKQLEEEFLKIPSNFVSPEDLDIPGHA
+SKDRYKTILPNPQSRVCLGRAQSQEDGDYINANYIRGYDGKEKVYIATQGPMPNTVSDFW
+EMVWQEEVSLIVMLTQLREGKEKCVHYWPTEEETYGPFQIRIQDMKECPEYTVRQLTIQY
+QEERRSVKHILFSAWPDHQTPESAGPLLRLVAEVEESPETAAHPGPIVVHCSAGIGRTGC
+FIATRIGCQQLKARGEVDILGIVCQLRLDRGGMIQTAEQYQFLHHTLALYAGQLPEEPSP
+</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>18375658</genbank_protein_id>
+  <uniprot_id>P35236</uniprot_id>
+  <uniprot_name>PTN7_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1ZC0</pdb_id>
+    <pdb_id>2A3K</pdb_id>
+    <pdb_id>2GP0</pdb_id>
+    <pdb_id>2GPH</pdb_id>
+    <pdb_id>2HVL</pdb_id>
+    <pdb_id>2QDC</pdb_id>
+    <pdb_id>2QDM</pdb_id>
+    <pdb_id>2QDP</pdb_id>
+    <pdb_id>3D42</pdb_id>
+    <pdb_id>3D44</pdb_id>
+    <pdb_id>3O4S</pdb_id>
+    <pdb_id>3O4T</pdb_id>
+    <pdb_id>3O4U</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_002832.2</genbank_gene_id>
+  <genecard_id>PTPN7</genecard_id>
+  <geneatlas_id>PTPN7</geneatlas_id>
+  <hgnc_id>HGNC:9659</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Adachi M, Sekiya M, Isobe M, Kumura Y, Ogita Z, Hinoda Y, Imai K, Yachi A: Molecular cloning and chromosomal mapping of a human protein-tyrosine phosphatase LC-PTP. Biochem Biophys Res Commun. 1992 Aug 14;186(3):1607-15.</reference_text>
+      <pubmed_id>1510684</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zanke B, Suzuki H, Kishihara K, Mizzen L, Minden M, Pawson A, Mak TW: Cloning and expression of an inducible lymphoid-specific, protein tyrosine phosphatase (HePTPase). Eur J Immunol. 1992 Jan;22(1):235-9.</reference_text>
+      <pubmed_id>1530918</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saxena M, Williams S, Gilman J, Mustelin T: Negative regulation of T cell antigen receptor signal transduction by hematopoietic tyrosine phosphatase (HePTP). J Biol Chem. 1998 Jun 19;273(25):15340-4.</reference_text>
+      <pubmed_id>9624114</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saxena M, Williams S, Brockdorff J, Gilman J, Mustelin T: Inhibition of T cell signaling by mitogen-activated protein kinase-targeted hematopoietic tyrosine phosphatase (HePTP). J Biol Chem. 1999 Apr 23;274(17):11693-700.</reference_text>
+      <pubmed_id>10206983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saxena M, Williams S, Tasken K, Mustelin T: Crosstalk between cAMP-dependent kinase and MAP kinase through a protein tyrosine phosphatase. Nat Cell Biol. 1999 Sep;1(5):305-11.</reference_text>
+      <pubmed_id>10559944</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pettiford SM, Herbst R: The MAP-kinase ERK2 is a specific substrate of the protein tyrosine phosphatase HePTP. Oncogene. 2000 Feb 17;19(7):858-69.</reference_text>
+      <pubmed_id>10702794</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nika K, Hyunh H, Williams S, Paul S, Bottini N, Tasken K, Lombroso PJ, Mustelin T: Haematopoietic protein tyrosine phosphatase (HePTP) phosphorylation by cAMP-dependent protein kinase in T-cells: dynamics and subcellular location. Biochem J. 2004 Mar 1;378(Pt 2):335-42.</reference_text>
+      <pubmed_id>14613483</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huang Z, Zhou B, Zhang ZY: Molecular determinants of substrate recognition in hematopoietic protein-tyrosine phosphatase. J Biol Chem. 2004 Dec 10;279(50):52150-9. Epub 2004 Oct 4.</reference_text>
+      <pubmed_id>15466470</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zahedi RP, Lewandrowski U, Wiesner J, Wortelkamp S, Moebius J, Schutz C, Walter U, Gambaryan S, Sickmann A: Phosphoproteome of resting human platelets.  J Proteome Res. 2008 Feb;7(2):526-34. Epub 2007 Dec 19.</reference_text>
+      <pubmed_id>18088087</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mustelin T, Tautz L, Page R: Structure of the hematopoietic tyrosine phosphatase (HePTP) catalytic domain: structure of a KIM phosphatase with phosphate bound at the active site. J Mol Biol. 2005 Nov 18;354(1):150-63. Epub 2005 Oct 3.</reference_text>
+      <pubmed_id>16226275</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eswaran J, von Kries JP, Marsden B, Longman E, Debreczeni JE, Ugochukwu E, Turnbull A, Lee WH, Knapp S, Barr AJ: Crystal structures and inhibitor identification for PTPN5, PTPRR and PTPN7: a family of human MAPK-specific protein tyrosine phosphatases. Biochem J. 2006 May 1;395(3):483-91.</reference_text>
+      <pubmed_id>16441242</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhou T, Sun L, Humphreys J, Goldsmith EJ: Docking interactions induce exposure of activation loop in the MAP kinase ERK2. Structure. 2006 Jun;14(6):1011-9.</reference_text>
+      <pubmed_id>16765894</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

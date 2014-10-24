@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:49:36 -0700</creation_date>
+  <update_date>2013-05-27 11:30:03 -0600</update_date>
+  <accession>HMDBP00276</accession>
+  <secondary_accessions>
+    <accession>5508</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>TPO</synonym>
+  </synonyms>
+  <gene_name>TPO</gene_name>
+  <general_function>Involved in calcium ion binding</general_function>
+  <specific_function>Iodination and coupling of the hormonogenic tyrosines in thyroglobulin to yield the thyroid hormones T(3) and T(4).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>thyroid hormone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tyrosine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Cytokine-cytokine receptor interaction</name>
+      <smpdb_id/>
+      <kegg_map_id>map04060</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Jak-STAT signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04630</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Hematopoietic cell lineage</name>
+      <smpdb_id/>
+      <kegg_map_id>map04640</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Autoimmune thyroid disease</name>
+      <smpdb_id/>
+      <kegg_map_id>map05320</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03474</accession>
+      <name>3,5-Diiodo-L-tyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00021</accession>
+      <name>Iodotyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00158</accession>
+      <name>L-Tyrosine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00265</accession>
+      <name>Liothyronine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00248</accession>
+      <name>Thyroxine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00675</accession>
+      <name>Iodine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03125</accession>
+      <name>Hydrogen peroxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03609</accession>
+      <name>2-Aminoacrylic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12238</accession>
+      <name>Iodide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12974</accession>
+      <name>Hypothiocyanite</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14533</accession>
+      <name>Carbimazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14651</accession>
+      <name>Dextrothyroxine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14690</accession>
+      <name>Propylthiouracil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14901</accession>
+      <name>Methimazole</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59634</accession>
+      <name>I(-)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>antioxidant activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peroxidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stress</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to oxidative stress</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cell surface</description>
+      <go_id>GO:0009986</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrion</description>
+      <go_id>GO:0005739</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>calcium ion binding</description>
+      <go_id>GO:0005509</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iodide peroxidase activity</description>
+      <go_id>GO:0004447</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peroxidase activity</description>
+      <go_id>GO:0004601</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular nitrogen compound metabolic process</description>
+      <go_id>GO:0034641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>embryonic hemopoiesis</description>
+      <go_id>GO:0035162</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hormone biosynthetic process</description>
+      <go_id>GO:0042446</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hydrogen peroxide catabolic process</description>
+      <go_id>GO:0042744</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>thyroid hormone generation</description>
+      <go_id>GO:0006590</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Isoform 3:Cell surface</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>2</chromosome_location>
+    <locus>2p25</locus>
+    <gene_sequence>&gt;2802 bp
+ATGAGAGCGCTCGCTGTGCTGTCTGTCACGCTGGTTATGGCCTGCACAGAAGCCTTCTTC
+CCCTTCATCTCGAGAGGGAAAGAACTCCTTTGGGGAAAGCCTGAGGAGTCTCGTGTCTCT
+AGCGTCTTGGAGGAAAGCAAGCGCCTGGTGGACACCGCCATGTACGCCACGATGCAGAGA
+AACCTCAAGAAAAGAGGAATCCTTTCTCCAGCTCAGCTTCTGTCTTTTTCCAAACTTCCT
+GAGCCAACAAGCGGAGTGATTGCCCGAGCAGCAGAGATAATGGAAACATCAATACAAGCG
+ATGAAAAGAAAAGTCAACCTGAAAACTCAACAATCACAGCATCCAACGGATGCTTTATCA
+GAAGATCTGCTGAGCATCATTGCAAACATGTCTGGATGTCTCCCTTACATGCTGCCCCCA
+AAATGCCCAAACACTTGCCTGGCGAACAAATACAGGCCCATCACAGGAGCTTGCAACAAC
+AGAGACCACCCCAGATGGGGCGCCTCCAACACGGCCCTGGCACGATGGCTCCCTCCAGTC
+TATGAGGACGGCTTCAGTCAGCCCCGAGGCTGGAACCCCGGCTTCTTGTACAACGGGTTC
+CCACTGCCCCCGGTCCGGGAGGTGACAAGACATGTCATTCAAGTTTCAAATGAGGTTGTC
+ACAGATGATGACCGCTATTCTGACCTCCTGATGGCATGGGGACAATACATCGACCACGAC
+ATCGCGTTCACACCACAGAGCACCAGCAAAGCTGCCTTCGGGGGAGGGGCTGACTGCCAG
+ATGACTTGTGAGAACCAAAACCCATGTTTTCCCATACAACTCCCGGAGGAGGCCCGGCCG
+GCCGCGGGCACCGCCTGTCTGCCCTTCTACCGCTCTTCGGCCGCCTGCGGCACCGGGGAC
+CAAGGCGCGCTCTTTGGGAACCTGTCCACGGCCAACCCGCGGCAGCAGATGAACGGGTTG
+ACCTCGTTCCTGGACGCGTCCACCGTGTATGGCAGCTCCCCGGCCCTAGAGAGGCAGCTG
+CGGAACTGGACCAGTGCCGAAGGGCTGCTCCGCGTCCACGCGCGCCTCCGGGACTCCGGC
+CGCGCCTACCTGCCCTTCGTGCCGCCACGGCGGCCTGCGGCCTGTGCGCCCGAGCCCGGC
+ATCCCCGGAGAGACCCGCGGGCCCTGCTTCCTGGCCGGAGACGGCCGCGCCAGCGAGGTC
+CCCTCCCTGACGGCACTGCACACGCTGTGGCTGCGCGAGCACAACCGCCTGGCCGCGGCG
+CTCAAGGCCCTCAATGCGCACTGGAGCGCGGACGCCGTGTACCAGGAGGCGCGCAAGGTC
+GTGGGCGCTCTGCACCAGATCATCACCCTGAGGGATTACATCCCCAGGATCCTGGGACCC
+GAGGCCTTCCAGCAGTACGTGGGTCCCTATGAAGGCTATGACTCCACCGCCAACCCCACT
+GTGTCCAACGTGTTCTCCACAGCCGCCTTCCGCTTCGGCCATGCCACGATCCACCCGCTG
+GTGAGGAGGCTGGACGCCAGCTTCCAGGAGCACCCCGACCTGCCCGGGCTGTGGCTGCAC
+CAGGCTTTCTTCAGCCCATGGACATTACTCCGTGGAGGTGGTTTGGACCCACTAATACGA
+GGCCTTCTTGCAAGACCAGCCAAACTGCAGGTGCAGGATCAGCTGATGAACGAGGAGCTG
+ACGGAAAGGCTCTTTGTGCTGTCCAATTCCAGCACCTTGGATCTGGCGTCCATCAACCTG
+CAGAGGGGCCGGGACCACGGGCTGCCAGGTTACAATGAGTGGAGGGAGTTCTGCGGCCTG
+CCTCGCCTGGAGACCCCCGCTGACCTGAGCACAGCCATCGCCAGCAGGAGCGTGGCCGAC
+AAGATCCTGGACTTGTACAAGCATCCTGACAACATCGATGTCTGGCTGGGAGGCTTAGCT
+GAAAACTTCCTCCCCAGGGCTCGGACAGGGCCCCTGTTTGCCTGTCTCATTGGGAAGCAG
+ATGAAGGCTCTGCGGGATGGTGACTGGTTTTGGTGGGAGAACAGCCACGTCTTCACGGAT
+GCACAGAGGCGTGAGCTGGAGAAGCACTCCCTGTCTCGGGTCATCTGTGACAACACTGGC
+CTCACCAGGGTGCCCATGGATGCCTTCCAAGTCGGCAAATTCCCTGAAGACTTTGAGTCT
+TGTGACAGCATCCCTGGCATGAACCTGGAGGCCTGGAGGGAAACCTTTCCTCAAGACGAC
+AAGTGTGGCTTCCCAGAGAGCGTGGAGAATGGGGACTTTGTGCACTGTGAGGAGTCTGGG
+AGGCGCGTGCTGGTGTATTCCTGCCGGCACGGGTATGAGCTCCAAGGCCGGGAGCAGCTC
+ACTTGCACCCAGGAAGGATGGGATTTCCAGCCTCCCCTCTGCAAAGATGTGAACGAGTGT
+GCAGACGGTGCCCACCCCCCCTGCCACGCCTCTGCGAGGTGCAGAAACACCAAAGGCGGC
+TTCCAGTGTCTCTGCGCGGACCCCTACGAGTTAGGAGACGATGGGAGAACCTGCGTAGAC
+TCCGGGAGGCTCCCTCGGGCGACTTGGATCTCCATGTCGCTGGCTGCTCTGCTGATCGGA
+GGCTTCGCAGGTCTCACCTCGACGGTGATTTGCAGGTGGACACGCACTGGCACTAAATCC
+ACACTGCCCATCTCGGAGACAGGCGGAGGAACTCCCGAGCTGAGATGCGGAAAGCACCAG
+GCCGTAGGGACCTCACCGCAGCGGGCCGCAGCTCAGGACTCGGAGCAGGAGAGTGCTGGG
+ATGGAAGGCCGGGATACTCACAGGCTGCCGAGAGCCCTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>933</residue_number>
+    <molecular_weight>102961.63</molecular_weight>
+    <theoretical_pi>6.76</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>An_peroxidase</name>
+        <pfam_id>PF03098</pfam_id>
+      </pfam>
+      <pfam>
+        <name>EGF_CA</name>
+        <pfam_id>PF07645</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Thyroid peroxidase
+MRALAVLSVTLVMACTEAFFPFISRGKELLWGKPEESRVSSVLEESKRLVDTAMYATMQR
+NLKKRGILSPAQLLSFSKLPEPTSGVIARAAEIMETSIQAMKRKVNLKTQQSQHPTDALS
+EDLLSIIANMSGCLPYMLPPKCPNTCLANKYRPITGACNNRDHPRWGASNTALARWLPPV
+YEDGFSQPRGWNPGFLYNGFPLPPVREVTRHVIQVSNEVVTDDDRYSDLLMAWGQYIDHD
+IAFTPQSTSKAAFGGGADCQMTCENQNPCFPIQLPEEARPAAGTACLPFYRSSAACGTGD
+QGALFGNLSTANPRQQMNGLTSFLDASTVYGSSPALERQLRNWTSAEGLLRVHARLRDSG
+RAYLPFVPPRAPAACAPEPGIPGETRGPCFLAGDGRASEVPSLTALHTLWLREHNRLAAA
+LKALNAHWSADAVYQEARKVVGALHQIITLRDYIPRILGPEAFQQYVGPYEGYDSTANPT
+VSNVFSTAAFRFGHATIHPLVRRLDASFQEHPDLPGLWLHQAFFSPWTLLRGGGLDPLIR
+GLLARPAKLQVQDQLMNEELTERLFVLSNSSTLDLASINLQRGRDHGLPGYNEWREFCGL
+PRLETPADLSTAIASRSVADKILDLYKHPDNIDVWLGGLAENFLPRARTGPLFACLIGKQ
+MKALRDGDWFWWENSHVFTDAQRRELEKHSLSRVICDNTGLTRVPMDAFQVGKFPEDFES
+CDSITGMNLEAWRETFPQDDKCGFPESVENGDFVHCEESGRRVLVYSCRHGYELQGREQL
+TCTQEGWDFQPPLCKDVNECADGAHPPCHASARCRNTKGGFQCLCADPYELGDDGRTCVD
+SGRLPRVTWISMSLAALLIGGFAGLTSTVICRWTRTGTKSTLPISETGGGTPELRCGKHQ
+AVGTSPQRAAAQDSEQESAGMEGRDTHRLPRAL</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>339867</genbank_protein_id>
+  <uniprot_id>P07202</uniprot_id>
+  <uniprot_name>PERT_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>J02969</genbank_gene_id>
+  <genecard_id>TPO</genecard_id>
+  <geneatlas_id>TPO</geneatlas_id>
+  <hgnc_id>HGNC:12015</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Kimura S, Kotani T, McBride OW, Umeki K, Hirai K, Nakayama T, Ohtaki S: Human thyroid peroxidase: complete cDNA and protein sequence, chromosome mapping, and identification of two alternately spliced mRNAs. Proc Natl Acad Sci U S A. 1987 Aug;84(16):5555-9.</reference_text>
+      <pubmed_id>3475693</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Libert F, Ruel J, Ludgate M, Swillens S, Alexander N, Vassart G, Dinsart C: Complete nucleotide sequence of the human thyroperoxidase-microsomal antigen cDNA. Nucleic Acids Res. 1987 Aug 25;15(16):6735.</reference_text>
+      <pubmed_id>3453124</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kimura S, Hong YS, Kotani T, Ohtaki S, Kikkawa F: Structure of the human thyroid peroxidase gene: comparison and relationship to the human myeloperoxidase gene. Biochemistry. 1989 May 16;28(10):4481-9.</reference_text>
+      <pubmed_id>2548579</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barnett PS, Banga JP, Watkins J, Huang GC, Gluckman DR, Page MJ, McGregor AM: Nucleotide sequence of the alternatively spliced human thyroid peroxidase cDNA, TPO-2. Nucleic Acids Res. 1990 Feb 11;18(3):670.</reference_text>
+      <pubmed_id>2308857</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ferrand M, Le Fourn V, Franc JL: Increasing diversity of human thyroperoxidase generated by alternative splicing. Characterized by molecular cloning of new transcripts with single- and multispliced mRNAs. J Biol Chem. 2003 Feb 7;278(6):3793-800. Epub 2002 Nov 25.</reference_text>
+      <pubmed_id>12454013</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Seto P, Hirayu H, Magnusson RP, Gestautas J, Portmann L, DeGroot LJ, Rapoport B: Isolation of a complementary DNA clone for thyroid microsomal antigen. Homology with the gene for thyroid peroxidase. J Clin Invest. 1987 Oct;80(4):1205-8.</reference_text>
+      <pubmed_id>3654979</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zanelli E, Henry M, Charvet B, Malthiery Y: Evidence for an alternate splicing in the thyroperoxidase messenger from patients with Graves' disease. Biochem Biophys Res Commun. 1990 Jul 31;170(2):735-41.</reference_text>
+      <pubmed_id>2383265</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang D, De Deken X, Milenkovic M, Song Y, Pirson I, Dumont JE, Miot F: Identification of a novel partner of duox: EFP1, a thioredoxin-related protein. J Biol Chem. 2005 Jan 28;280(4):3096-103. Epub 2004 Nov 22.</reference_text>
+      <pubmed_id>15561711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bikker H, Vulsma T, Baas F, de Vijlder JJ: Identification of five novel inactivating mutations in the human thyroid peroxidase gene by denaturing gradient gel electrophoresis. Hum Mutat. 1995;6(1):9-16.</reference_text>
+      <pubmed_id>7550241</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bikker H, Baas F, De Vijlder JJ: Molecular analysis of mutated thyroid peroxidase detected in patients with total iodide organification defects. J Clin Endocrinol Metab. 1997 Feb;82(2):649-53.</reference_text>
+      <pubmed_id>9024270</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Santos CL, Bikker H, Rego KG, Nascimento AC, Tambascia M, De Vijlder JJ, Medeiros-Neto G: A novel mutation in the TPO gene in goitrous hypothyroid patients with iodide organification defect. Clin Endocrinol (Oxf). 1999 Aug;51(2):165-72.</reference_text>
+      <pubmed_id>10468986</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pannain S, Weiss RE, Jackson CE, Dian D, Beck JC, Sheffield VC, Cox N, Refetoff S: Two different mutations in the thyroid peroxidase gene of a large inbred Amish kindred: power and limits of homozygosity mapping. J Clin Endocrinol Metab. 1999 Mar;84(3):1061-71.</reference_text>
+      <pubmed_id>10084596</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kotani T, Umeki K, Yamamoto I, Maesaka H, Tachibana K, Ohtaki S: A novel mutation in the human thyroid peroxidase gene resulting in a total iodide organification defect. J Endocrinol. 1999 Feb;160(2):267-73.</reference_text>
+      <pubmed_id>9924196</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bakker B, Bikker H, Vulsma T, de Randamie JS, Wiedijk BM, De Vijlder JJ: Two decades of screening for congenital hypothyroidism in The Netherlands: TPO gene mutations in total iodide organification defects (an update). J Clin Endocrinol Metab. 2000 Oct;85(10):3708-12.</reference_text>
+      <pubmed_id>11061528</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ambrugger P, Stoeva I, Biebermann H, Torresani T, Leitner C, Gruters A: Novel mutations of the thyroid peroxidase gene in patients with permanent congenital hypothyroidism. Eur J Endocrinol. 2001 Jul;145(1):19-24.</reference_text>
+      <pubmed_id>11415848</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Umeki K, Kotani T, Kawano J, Suganuma T, Yamamoto I, Aratake Y, Furujo M, Ichiba Y: Two novel missense mutations in the thyroid peroxidase gene, R665W and G771R, result in a localization defect and cause congenital hypothyroidism. Eur J Endocrinol. 2002 Apr;146(4):491-8.</reference_text>
+      <pubmed_id>11916616</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Niu DM, Hwang B, Chu YK, Liao CJ, Wang PL, Lin CY: High prevalence of a novel mutation (2268 insT) of the thyroid peroxidase gene in Taiwanese patients with total iodide organification defect, and evidence for a founder effect. J Clin Endocrinol Metab. 2002 Sep;87(9):4208-12.</reference_text>
+      <pubmed_id>12213873</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu JY, Shu SG, Yang CF, Lee CC, Tsai FJ: Mutation analysis of thyroid peroxidase gene in Chinese patients with total iodide organification defect: identification of five novel mutations. J Endocrinol. 2002 Mar;172(3):627-35.</reference_text>
+      <pubmed_id>11874711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Calaciura F, Miscio G, Coco A, Leonardi D, Cisternino C, Regalbuto C, Bozzali M, Maiorana R, Ranieri A, Carta A, Buscema M, Trischitta V, Sava L, Tassi V: Genetics of specific phenotypes of congenital hypothyroidism: a population-based approach. Thyroid. 2002 Nov;12(11):945-51.</reference_text>
+      <pubmed_id>12490071</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kotani T, Umeki K, Kawano J, Suganuma T, Hishinuma A, Ieiri T, Harada S: Partial iodide organification defect caused by a novel mutation of the thyroid peroxidase gene in three siblings. Clin Endocrinol (Oxf). 2003 Aug;59(2):198-206.</reference_text>
+      <pubmed_id>12864797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rivolta CM, Esperante SA, Gruneiro-Papendieck L, Chiesa A, Moya CM, Domene S, Varela V, Targovnik HM: Five novel inactivating mutations in the thyroid peroxidase gene responsible for congenital goiter and iodide organification defect. Hum Mutat. 2003 Sep;22(3):259.</reference_text>
+      <pubmed_id>12938097</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fugazzola L, Cerutti N, Mannavola D, Vannucchi G, Fallini C, Persani L, Beck-Peccoz P: Monoallelic expression of mutant thyroid peroxidase allele causing total iodide organification defect. J Clin Endocrinol Metab. 2003 Jul;88(7):3264-71.</reference_text>
+      <pubmed_id>12843174</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tajima T, Tsubaki J, Fujieda K: Two novel mutations in the thyroid peroxidase gene with goitrous hypothyroidism. Endocr J. 2005 Oct;52(5):643-5.</reference_text>
+      <pubmed_id>16284446</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pfarr N, Borck G, Turk A, Napiontek U, Keilmann A, Muller-Forell W, Kopp P, Pohlenz J: Goitrous congenital hypothyroidism and hearing impairment associated with mutations in the TPO and SLC26A4/PDS genes. J Clin Endocrinol Metab. 2006 Jul;91(7):2678-81. Epub 2006 May 9.</reference_text>
+      <pubmed_id>16684826</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Guilhem I, Massart C, Poirier JY, Maugendre D: Differential evolution of thyroid peroxidase and thyrotropin receptor antibodies in Graves' disease: thyroid peroxidase antibody activity reverts to pretreatment level after carbimazole withdrawal. Thyroid. 2006 Oct;16(10):1041-5.</reference_text>
+        <pubmed_id>17042691</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Magnusson RP, Taurog A, Dorris ML: Mechanism of iodide-dependent catalatic activity of thyroid peroxidase and lactoperoxidase. J Biol Chem. 1984 Jan 10;259(1):197-205.</reference_text>
+        <pubmed_id>6706930</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Taurog A: The mechanism of action of the thioureylene antithyroid drugs.  Endocrinology. 1976 Apr;98(4):1031-46.</reference_text>
+        <pubmed_id>1278093</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Perrild H, Gruters-Kieslich A, Feldt-Rasmussen U, Grant D, Martino E, Kayser L, Delange F: Diagnosis and treatment of thyrotoxicosis in childhood. A European questionnaire study. Eur J Endocrinol. 1994 Nov;131(5):467-73.</reference_text>
+        <pubmed_id>7952157</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Orgiazzi J, Millot L: [Theoretical aspects of the treatment with antithyroid drugs].  Ann Endocrinol (Paris). 1994;55(1):1-5.</reference_text>
+        <pubmed_id>7528484</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nakashima T, Taurog A: Rapid conversion of carbimazole to methimazole in serum; evidence for an enzymatic mechanism. Clin Endocrinol (Oxf). 1979 Jun;10(6):637-48.</reference_text>
+        <pubmed_id>476986</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Carbimazole</name>
+        <accession>HMDB14533</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Humar M, Dohrmann H, Stein P, Andriopoulos N, Goebel U, Roesslein M, Schmidt R, Schwer CI, Loop T, Geiger KK, Pahl HL, Pannen BH: Thionamides inhibit the transcription factor nuclear factor-kappaB by suppression of Rac1 and inhibitor of kappaB kinase alpha. J Pharmacol Exp Ther. 2008 Mar;324(3):1037-44. Epub 2007 Nov 30.</reference_text>
+        <pubmed_id>18055877</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Dextrothyroxine</name>
+        <accession>HMDB14651</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Visser TJ: The elemental importance of sufficient iodine intake: a trace is not enough.  Endocrinology. 2006 May;147(5):2095-7.</reference_text>
+        <pubmed_id>16617153</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propylthiouracil</name>
+        <accession>HMDB14690</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sugawara M, Sugawara Y, Wen K: Methimazole and propylthiouracil increase cellular thyroid peroxidase activity and thyroid peroxidase mRNA in cultured porcine thyroid follicles. Thyroid. 1999 May;9(5):513-8.</reference_text>
+        <pubmed_id>10365684</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propylthiouracil</name>
+        <accession>HMDB14690</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Manzon RG, Holmes JA, Youson JH: Variable effects of goitrogens in inducing precocious metamorphosis in sea lampreys (Petromyzon marinus). J Exp Zool. 2001 Apr 15;289(5):290-303.</reference_text>
+        <pubmed_id>11241400</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propylthiouracil</name>
+        <accession>HMDB14690</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ferreira AC, de Carvalho Cardoso L, Rosenthal D, de Carvalho DP: Thyroid Ca2+/NADPH-dependent H2O2 generation is partially inhibited by propylthiouracil and methimazole. Eur J Biochem. 2003 Jun;270(11):2363-8.</reference_text>
+        <pubmed_id>12755690</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propylthiouracil</name>
+        <accession>HMDB14690</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schmutzler C, Bacinski A, Gotthardt I, Huhne K, Ambrugger P, Klammer H, Schlecht C, Hoang-Vu C, Gruters A, Wuttke W, Jarry H, Kohrle J: The ultraviolet filter benzophenone 2 interferes with the thyroid hormone axis in rats and is a potent in vitro inhibitor of human recombinant thyroid peroxidase. Endocrinology. 2007 Jun;148(6):2835-44. Epub 2007 Mar 22.</reference_text>
+        <pubmed_id>17379648</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propylthiouracil</name>
+        <accession>HMDB14690</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Taurog A, Dorris ML: A reexamination of the proposed inactivation of thyroid peroxidase in the rat thyroid by propylthiouracil. Endocrinology. 1989 Jun;124(6):3038-42.</reference_text>
+        <pubmed_id>2656250</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Propylthiouracil</name>
+        <accession>HMDB14690</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sugawara M, Sugawara Y, Wen K: Methimazole and propylthiouracil increase cellular thyroid peroxidase activity and thyroid peroxidase mRNA in cultured porcine thyroid follicles. Thyroid. 1999 May;9(5):513-8.</reference_text>
+        <pubmed_id>10365684</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Manzon RG, Holmes JA, Youson JH: Variable effects of goitrogens in inducing precocious metamorphosis in sea lampreys (Petromyzon marinus). J Exp Zool. 2001 Apr 15;289(5):290-303.</reference_text>
+        <pubmed_id>11241400</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ferreira AC, de Carvalho Cardoso L, Rosenthal D, de Carvalho DP: Thyroid Ca2+/NADPH-dependent H2O2 generation is partially inhibited by propylthiouracil and methimazole. Eur J Biochem. 2003 Jun;270(11):2363-8.</reference_text>
+        <pubmed_id>12755690</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Magnusson RP, Yu B, Brennan V: Effect of serum thyrotropin levels on the concentration of messenger RNA for thyroid peroxidase in the rat. Acta Endocrinol (Copenh). 1992 May;126(5):460-6.</reference_text>
+        <pubmed_id>1320313</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chiovato L, Pinchera A: The microsomal/peroxidase antigen: modulation of its expression in thyroid cells.  Autoimmunity. 1991;10(4):319-31.</reference_text>
+        <pubmed_id>1663395</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Methimazole</name>
+        <accession>HMDB14901</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

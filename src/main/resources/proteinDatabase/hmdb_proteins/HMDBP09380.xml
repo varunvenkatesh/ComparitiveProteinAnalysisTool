@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:22:35 -0700</creation_date>
+  <update_date>2013-05-27 11:31:52 -0600</update_date>
+  <accession>HMDBP09380</accession>
+  <secondary_accessions>
+    <accession>15247</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+  </synonyms>
+  <gene_name>ACPT</gene_name>
+  <general_function>Involved in acid phosphatase activity</general_function>
+  <specific_function>Dephosphorylates receptor tyrosine-protein kinase erbB-4 and inhibits the ligand-induced proteolytic cleavage.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Riboflavin metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00740</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00244</accession>
+      <name>Riboflavin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00956</accession>
+      <name>Tartaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01232</accession>
+      <name>4-Nitrophenol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01520</accession>
+      <name>Flavin Mononucleotide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00108</accession>
+      <name>Ethanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00820</accession>
+      <name>Propyl alcohol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB04327</accession>
+      <name>1-Butanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06006</accession>
+      <name>Isobutanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13036</accession>
+      <name>1-Pentanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12971</accession>
+      <name>1-Hexanol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00863</accession>
+      <name>Isopropyl alcohol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acid phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>acid phosphatase activity</description>
+      <go_id>GO:0003993</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein (Potential)</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19q13.4</locus>
+    <gene_sequence>&gt;1281 bp
+ATGGCCGGCCTGGGGTTTTGGGGCCACCCTGCTGGACCTCTCCTGCTGCTGCTGCTGCTG
+GTGCTGCCACCCCGGGCCCTGCCAGAAGGACCCCTGGTGTTCGTGGCTCTGGTATTCCGC
+CATGGCGACCGGGCCCCGCTGGCCTCCTACCCCATGGACCCACACAAGGAGGTGGCCTCC
+ACCCTGTGGCCACGAGGCCTGGGCCAGCTGACCACGGAGGGGGTCCGCCAGCAGCTGGAG
+CTGGGCCGCTTCCTGAGGAGCCGCTACGAGGCCTTCCTGAGTCCGGAGTACCGGCGGGAG
+GAGGTGTACATCCGCAGCACGGACTTTGACCGCACGCTGGAGAGTGCCCAGGCCAACCTT
+GCCGGGCTGTTTCCCGAGGCTGCTCCAGGGAGCCCCGAGGCCCGCTGGAGGCCGATCCCG
+GTGCACACGGTGCCCGTGGCTGAGGATAAGCTGCTGAGGTTCCCCATGCGCAGCTGTCCC
+CGATACCACGAGCTGCTGCGGGAGGCCACCGAGGCCGCCGAGTACCAGGAGGCCCTGGAG
+GGCTGGACGGGCTTCCTGAGTCGCCTGGAGAACTTCACGGGACTGTCGCTGGTTGGAGAG
+CCACTGCGCAGGGCATGGAAGGTTCTGGACACCCTCATGTGCCAGCAAGCCCACGGTCTT
+CCACTACCAGCCTGGGCCTCCCCAGATGTCCTGCGGACTCTTGCCCAGATCTCGGCTTTG
+GATATTGGAGCCCACGTGGGCCCACCCCGGGCAGCAGAGAAGGCCCAGCTGACAGGGGGG
+ATCCTGCTGAATGCTATCCTTGCAAACTTCTCCCGGGTCCAGCGCCTGGGGCTGCCCCTC
+AAGATGGTCATGTACTCAGCTCATGACAGCACCCTGCTGGCCCTCCAGGGGGCCCTGGGC
+CTCTATGATGGACACACCCCGCCATATGCTGCCTGCCTCGGCTTTGAGTTCCGGAAGCAC
+CTGGGGAATCCCGCCAAAGATGGAGGGAATGTCACCGTCTCCCTCTTCTACCGCAATGAC
+TCCGCCCACCTGCCCCTGCCTCTCAGCCTCCCCGGGTGCCCGGCCCCCTGTCCACTAGGC
+CGCTTCTACCAGCTGACTGCCCCGGCCCGGCCTCCCGCCCATGGGGTCTCCTGCCATGGC
+CCCTATGAGGCTGCCATCCCCCCAGCTCCAGTGGTGCCCCTGCTGGCCGGAGCTGTAGCT
+GTGCTGGTGGCACTCAGCTTGGGGCTGGGCCTGCTGGCCTGGAGACCAGGGTGCCTGCGG
+GCCTTGGGGGGCCCCGTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>426</residue_number>
+    <molecular_weight>46089.015</molecular_weight>
+    <theoretical_pi>8.202</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Acid_phosphat_A</name>
+        <pfam_id>PF00328</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Testicular acid phosphatase
+MAGLGFWGHPAGPLLLLLLLVLPPRALPEGPLVFVALVFRHGDRAPLASYPMDPHKEVAS
+TLWPRGLGQLTTEGVRQQLELGRFLRSRYEAFLSPEYRREEVYIRSTDFDRTLESAQANL
+AGLFPEAAPGSPEARWRPIPVHTVPVAEDKLLRFPMRSCPRYHELLREATEAAEYQEALE
+GWTGFLSRLENFTGLSLVGEPLRRAWKVLDTLMCQQAHGLPLPAWASPDVLRTLAQISAL
+DIGAHVGPPRAAEKAQLTGGILLNAILANFSRVQRLGLPLKMVMYSAHDSTLLALQGALG
+LYDGHTPPYAACLGFEFRKHLGNPAKDGGNVTVSLFYRNDSAHLPLPLSLPGCPAPCPLG
+RFYQLTAPARPPAHGVSCHGPYEAAIPPAPVVPLLAGAVAVLVALSLGLGLLAWRPGCLR
+ALGGPV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>12958660</genbank_protein_id>
+  <uniprot_id>Q9BZG2</uniprot_id>
+  <uniprot_name>PPAT_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF321918</genbank_gene_id>
+  <genecard_id>ACPT</genecard_id>
+  <geneatlas_id>ACPT</geneatlas_id>
+  <hgnc_id>HGNC:14376</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Yousef GM, Diamandis M, Jung K, Diamandis EP: Molecular cloning of a novel human acid phosphatase gene (ACPT) that is highly expressed in the testis. Genomics. 2001 Jun 15;74(3):385-95.</reference_text>
+      <pubmed_id>11414767</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fleisig H, El-Din El-Husseini A, Vincent SR: Regulation of ErbB4 phosphorylation and cleavage by a novel histidine acid phosphatase. Neuroscience. 2004;127(1):91-100.</reference_text>
+      <pubmed_id>15219672</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

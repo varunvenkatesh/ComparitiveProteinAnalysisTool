@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:59:34 -0700</creation_date>
+  <update_date>2013-05-27 11:08:08 -0600</update_date>
+  <accession>HMDBP01801</accession>
+  <secondary_accessions>
+    <accession>7159</accession>
+    <accession>HMDBP06089</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>24-OHase</synonym>
+    <synonym>Cytochrome P450 24A1</synonym>
+    <synonym>Cytochrome P450-CC24</synonym>
+    <synonym>Vitamin D(3) 24-hydroxylase</synonym>
+  </synonyms>
+  <gene_name>CYP24A1</gene_name>
+  <general_function>Involved in monooxygenase activity</general_function>
+  <specific_function>Has a role in maintaining calcium homeostasis. Catalyzes the NADPH-dependent 24-hydroxylation of calcidiol (25-hydroxyvitamin D(3)) and calcitriol (1-alpha,25-dihydroxyvitamin D(3)). The enzyme can perform up to 6 rounds of hydroxylation of calcitriol leading to calcitroic acid. It also shows 23-hydroxylating activity leading to 1-alpha,25-dihydroxyvitamin D(3)-26,23-lactone as end product.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Steroid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00100</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03178</accession>
+      <name>Heme</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00217</accession>
+      <name>NADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00900</accession>
+      <name>Ergocalciferol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00876</accession>
+      <name>Vitamin D3</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01903</accession>
+      <name>Calcitriol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03550</accession>
+      <name>Calcidiol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06225</accession>
+      <name>Ercalcitriol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15046</accession>
+      <name>Paricalcitol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15567</accession>
+      <name>Calcipotriol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06228</accession>
+      <name>24-Hydroxycalcitriol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60133</accession>
+      <name>(24R)-24,25-Dihydroxycalciol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60508</accession>
+      <name>Secalciferol</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>monooxygenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>1-alpha,25-dihydroxyvitamin D3 24-hydroxylase activity</description>
+      <go_id>GO:0030342</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>25-hydroxycholecalciferol-24-hydroxylase activity</description>
+      <go_id>GO:0008403</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>electron carrier activity</description>
+      <go_id>GO:0009055</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>osteoblast differentiation</description>
+      <go_id>GO:0001649</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>vitamin D catabolic process</description>
+      <go_id>GO:0042369</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>vitamin D receptor signaling pathway</description>
+      <go_id>GO:0070561</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>xenobiotic metabolic process</description>
+      <go_id>GO:0006805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>20</chromosome_location>
+    <locus>20q13</locus>
+    <gene_sequence>&gt;1545 bp
+ATGAGCTCCCCCATCAGCAAGAGCCGCTCGCTTGCCGCCTTCCTGCAGCAGCTGCGCAGT
+CCGAGGCAGCCCCCGAGACTGGTGACATCTACGGCGTACACGTCCCCTCAGCCGCGAGAG
+GTGCCAGTCTGCCCGCTGACAGCTGGTGGCGAGACTCAGAACGCGGCCGCCCTGCCGGGC
+CCCACCAGCTGGCCACTGCTGGGCAGCCTGCTGCAGATTCTCTGGAAAGGGGGTCTCAAG
+AAACAGCACGACACCCTGGTGGAGTACCACAAGAAGTATGGCAAGATTTTCCGCATGAAG
+TTGGGTTCCTTTGAGTCGGTGCACCTGGGCTCGCCATGCCTGCTGGAAGCGCTGTACCGC
+ACCGAGAGCGCGTACCCGCAGCGGCTGGAGATCAAACCGTGGAAGGCCTATCGCGACTAC
+CGCAAAGAAGGCTACGGGCTGCTGATCCTGGAAGGGGAAGACTGGCAGCGGGTCCGGAGT
+GCCTTTCAAAAGAAACTAATGAAACCAGGGGAAGTGATGAAGCTGGACAACAAAATCAAT
+GAGGTCTTGGCCGATTTTATGGGCAGAATAGATGAGCTCTGTGATGAAAGAGGCCACGTT
+GAAGACTTGTACAGCGAACTGAACAAATGGTCGTTTGAAAGTATCTGCCTCGTGTTGTAT
+GAGAAGAGATTTGGGCTTCTCCAGAAGAATGCAGGGGATGAAGCTGTGAACTTCATCATG
+GCCATCAAAACAATGATGAGCACGTTTGGGAGGATGATGGTCACTCCAGTCGAGCTGCAC
+AAGAGCCTCAACACCAAGGTCTGGCAGGACCACACTCTGGCCTGGGACACCATTTTCAAA
+TCAGTCAAAGCTTGTATCGACAACCGGTTAGAGAAGTATTCTCAGCAGCCTAGTGCAGAT
+TTCCTTTGTGACATTTATCACCAGAATCGGCTTTCAAAGAAAGAATTGTATGCTGCTGTC
+ACAGAGCTCCAGCTGGCTGCGGTGGAAACGACAGCAAACAGTCTAATGTGGATTCTCTAC
+AATTTATCCCGTAATCCCCAAGTGCAACAAAAGCTTCTTAAGGAAATTCAAAGTGTATTA
+CCTGAGAATCAGGTGCCACGGGCAGAAGATTTGAGGAATATGCCGTATTTAAAAGCCTGT
+CTGAAAGAATCTATGAGGCTTACGCCGAGTGTACCATTTACAACTCGGACTCTTGACAAG
+GCAACAGTTCTGGGTGAATATGCTTTACCCAAAGGAACAGTGCTCATGCTAAATACCCAG
+GTGTTGGGATCCAGTGAAGACAATTTTGAAGATTCAAGTCAGTTTAGACCTGAACGTTGG
+CTTCAGGAGAAGGAAAAAATTAATCCTTTTGCGCATCTTCCATTTGGCGTTGGAAAAAGA
+ATGTGCATTGGTCGCCGATTAGCAGAGCTTCAACTGCATTTGGCTCTTTGTTGGATTGTC
+CGCAAATACGACATCCAGGCCACAGACAATGAGCCTGTTGAGATGCTACACTCAGGCACC
+CTGGTGCCCAGCCGGGAACTCCCCATCGCGTTTTGCCAGCGATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>514</residue_number>
+    <molecular_weight>58874.695</molecular_weight>
+    <theoretical_pi>8.743</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>p450</name>
+        <pfam_id>PF00067</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial
+MSSPISKSRSLAAFLQQLRSPRQPPRLVTSTAYTSPQPREVPVCPLTAGGETQNAAALPG
+PTSWPLLGSLLQILWKGGLKKQHDTLVEYHKKYGKIFRMKLGSFESVHLGSPCLLEALYR
+TESAYPQRLEIKPWKAYRDYRKEGYGLLILEGEDWQRVRSAFQKKLMKPGEVMKLDNKIN
+EVLADFMGRIDELCDERGHVEDLYSELNKWSFESICLVLYEKRFGLLQKNAGDEAVNFIM
+AIKTMMSTFGRMMVTPVELHKSLNTKVWQDHTLAWDTIFKSVKACIDNRLEKYSQQPSAD
+FLCDIYHQNRLSKKELYAAVTELQLAAVETTANSLMWILYNLSRNPQVQQKLLKEIQSVL
+PENQVPRAEDLRNMPYLKACLKESMRLTPSVPFTTRTLDKATVLGEYALPKGTVLMLNTQ
+VLGSSEDNFEDSSQFRPERWLQEKEKINPFAHLPFGVGKRMCIGRRLAELQLHLALCWIV
+RKYDIQATDNEPVEMLHSGTLVPSRELPIAFCQR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>7939322</genbank_protein_id>
+  <uniprot_id>Q07973</uniprot_id>
+  <uniprot_name>CP24A_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AL138805</genbank_gene_id>
+  <genecard_id>CYP24A1</genecard_id>
+  <geneatlas_id>CYP24A1</geneatlas_id>
+  <hgnc_id>HGNC:2602</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Chen KS, Prahl JM, DeLuca HF: Isolation and expression of human 1,25-dihydroxyvitamin D3 24-hydroxylase cDNA. Proc Natl Acad Sci U S A. 1993 May 15;90(10):4543-7.</reference_text>
+      <pubmed_id>8506296</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Deloukas P, Matthews LH, Ashurst J, Burton J, Gilbert JG, Jones M, Stavrides G, Almeida JP, Babbage AK, Bagguley CL, Bailey J, Barlow KF, Bates KN, Beard LM, Beare DM, Beasley OP, Bird CP, Blakey SE, Bridgeman AM, Brown AJ, Buck D, Burrill W, Butler AP, Carder C, Carter NP, Chapman JC, Clamp M, Clark G, Clark LN, Clark SY, Clee CM, Clegg S, Cobley VE, Collier RE, Connor R, Corby NR, Coulson A, Coville GJ, Deadman R, Dhami P, Dunn M, Ellington AG, Frankland JA, Fraser A, French L, Garner P, Grafham DV, Griffiths C, Griffiths MN, Gwilliam R, Hall RE, Hammond S, Harley JL, Heath PD, Ho S, Holden JL, Howden PJ, Huckle E, Hunt AR, Hunt SE, Jekosch K, Johnson CM, Johnson D, Kay MP, Kimberley AM, King A, Knights A, Laird GK, Lawlor S, Lehvaslaiho MH, Leversha M, Lloyd C, Lloyd DM, Lovell JD, Marsh VL, Martin SL, McConnachie LJ, McLay K, McMurray AA, Milne S, Mistry D, Moore MJ, Mullikin JC, Nickerson T, Oliver K, Parker A, Patel R, Pearce TA, Peck AI, Phillimore BJ, Prathalingam SR, Plumb RW, Ramsay H, Rice CM, Ross MT, Scott CE, Sehra HK, Shownkeen R, Sims S, Skuce CD, Smith ML, Soderlund C, Steward CA, Sulston JE, Swann M, Sycamore N, Taylor R, Tee L, Thomas DW, Thorpe A, Tracey A, Tromans AC, Vaudin M, Wall M, Wallis JM, Whitehead SL, Whittaker P, Willey DL, Williams L, Williams SA, Wilming L, Wray PW, Hubbard T, Durbin RM, Bentley DR, Beck S, Rogers J: The DNA sequence and comparative analysis of human chromosome 20.  Nature. 2001 Dec 20-27;414(6866):865-71.</reference_text>
+      <pubmed_id>11780052</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen KS, DeLuca HF: Cloning of the human 1 alpha,25-dihydroxyvitamin D-3 24-hydroxylase gene promoter and identification of two vitamin D-responsive elements. Biochim Biophys Acta. 1995 Jul 25;1263(1):1-9.</reference_text>
+      <pubmed_id>7632726</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Labuda M, Lemieux N, Tihy F, Prinster C, Glorieux FH: Human 25-hydroxyvitamin D 24-hydroxylase cytochrome P450 subunit maps to a different chromosomal location than that of pseudovitamin D-deficient rickets. J Bone Miner Res. 1993 Nov;8(11):1397-406.</reference_text>
+      <pubmed_id>8266831</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sakaki T, Kagawa N, Yamamoto K, Inouye K: Metabolism of vitamin D3 by cytochromes P450.  Front Biosci. 2005 Jan 1;10:119-34. Print 2005 Jan 1.</reference_text>
+      <pubmed_id>15574355</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergocalciferol</name>
+        <accession>HMDB00900</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Masuda S, Strugnell SA, Knutson JC, St-Arnaud R, Jones G: Evidence for the activation of 1alpha-hydroxyvitamin D2 by 25-hydroxyvitamin D-24-hydroxylase: delineation of pathways involving 1alpha,24-dihydroxyvitamin D2 and 1alpha,25-dihydroxyvitamin D2. Biochim Biophys Acta. 2006 Feb;1761(2):221-34. Epub 2006 Feb 2.</reference_text>
+        <pubmed_id>16516540</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergocalciferol</name>
+        <accession>HMDB00900</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sakaki T, Kagawa N, Yamamoto K, Inouye K: Metabolism of vitamin D3 by cytochromes P450.  Front Biosci. 2005 Jan 1;10:119-34. Print 2005 Jan 1.</reference_text>
+        <pubmed_id>15574355</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergocalciferol</name>
+        <accession>HMDB00900</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Abe D, Sakaki T, Kusudo T, Kittaka A, Saito N, Suhara Y, Fujishima T, Takayama H, Hamamoto H, Kamakura M, Ohta M, Inouye K: Metabolism of 2 alpha-propoxy-1 alpha,25-dihydroxyvitamin D3 and 2 alpha-(3-hydroxypropoxy)-1 alpha,25-dihydroxyvitamin D3 by human CYP27A1 and CYP24A1. Drug Metab Dispos. 2005 Jun;33(6):778-84. Epub 2005 Mar 11.</reference_text>
+        <pubmed_id>15764712</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergocalciferol</name>
+        <accession>HMDB00900</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sakaki T: [Recent studies on vitamin D metabolizing enzymes].  Clin Calcium. 2006 Jul;16(7):1129-35.</reference_text>
+        <pubmed_id>16816472</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergocalciferol</name>
+        <accession>HMDB00900</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Inouye K, Sakaki T: Enzymatic studies on the key enzymes of vitamin D metabolism; 1 alpha-hydroxylase (CYP27B1) and 24-hydroxylase (CYP24). Biotechnol Annu Rev. 2001;7:179-94.</reference_text>
+        <pubmed_id>11686044</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Calcidiol</name>
+        <accession>HMDB03550</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. Epub 2009 Nov 24.</reference_text>
+        <pubmed_id>19934256</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Paricalcitol</name>
+        <accession>HMDB15046</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Robinson DM, Scott LJ: Paricalcitol: a review of its use in the management of secondary hyperparathyroidism. Drugs. 2005;65(4):559-76.</reference_text>
+        <pubmed_id>15733015</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Calcipotriol</name>
+        <accession>HMDB15567</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jones G, Byford V, West S, Masuda S, Ibrahim G, Kaufmann M, Knutson JC, Strugnell S, Mehta R: Hepatic activation and inactivation of clinically-relevant vitamin D analogs and prodrugs. Anticancer Res. 2006 Jul-Aug;26(4A):2589-95.</reference_text>
+        <pubmed_id>16886668</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

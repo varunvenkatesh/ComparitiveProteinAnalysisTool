@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:10:23 -0700</creation_date>
+  <update_date>2013-01-15 19:10:23 -0700</update_date>
+  <accession>HMDBP03090</accession>
+  <secondary_accessions>
+    <accession>8627</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>4F2 heavy chain antigen</synonym>
+    <synonym>4F2hc</synonym>
+    <synonym>CD98 antigen</synonym>
+    <synonym>Lymphocyte activation antigen 4F2 large subunit</synonym>
+  </synonyms>
+  <gene_name>SLC3A2</gene_name>
+  <general_function>Involved in catalytic activity</general_function>
+  <specific_function>Required for the function of light chain amino-acid transporters. Involved in sodium-independent, high-affinity transport of large neutral amino acids such as phenylalanine, tyrosine, leucine, arginine and tryptophan. Involved in guiding and targeting of LAT1 and LAT2 to the plasma membrane. When associated with SLC7A6 or SLC7A7 acts as an arginine/glutamine exchanger, following an antiport mechanism for amino acid transport, influencing arginine release in exchange for extracellular amino acids. Plays a role in nitric oxide synthesis in human umbilical vein endothelial cells (HUVECs) via transport of L-arginine. Required for normal and neoplastic cell growth. When associated with SLC7A5/LAT1, is also involved in the transport of L-DOPA across the blood-brain barrier, and that of thyroid hormones triiodothyronine (T3) and thyroxine (T4) across the cell membrane in tissues such as placenta. Involved in the uptake of methylmercury (MeHg) when administered as the L-cysteine or D,L-homocysteine complexes, and hence plays a role in metal ion homeostasis and toxicity. When associated with SLC7A5 or SLC7A8, involved in the cellular activity of small molecular weight nitrosothiols, via the stereoselective transport of L- nitrosocysteine (L-CNSO) across the transmembrane. Together with ICAM1, regulates the transport activity LAT2 in polarized intestinal cells, by generating and delivering intracellular signals. When associated with SLC7A5, plays an important role in transporting L-leucine from the circulating blood to the retina across the inner blood-retinal barrier</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00181</accession>
+      <name>L-Dopa</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00248</accession>
+      <name>Thyroxine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00574</accession>
+      <name>L-Cysteine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00687</accession>
+      <name>L-Leucine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00517</accession>
+      <name>L-Arginine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>carbohydrate metabolic process</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Apical cell membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+    <subcellular_location>Melanosome</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q13</locus>
+    <gene_sequence>&gt;1893 bp
+ATGGAGCTACAGCCTCCTGAAGCCTCGATCGCCGTCGTGTCGATTCCGCGCCAGTTGCCT
+GGCTCACATTCGGAGGCTGGTGTCCAGGGTCTCAGCGCGGGGGACGACTCAGAGTTGGGG
+TCTCACTGTGTTGCCCAGACTGGTCTCGAACTCTTGGCCTCAGGTGATCCTCTTCCCTCA
+GCTTCCCAGAATGCCGAGATGATAGAGACGGGGTCTGACTGTGTTACCCAGGCTGGTCTT
+CAACTCTTGGCCTCAAGTGATCCTCCTGCCTTAGCTTCCAAGAATGCTGAGGTTACAGGC
+ACCATGAGCCAGGACACCGAGGTGGATATGAAGGAGGTGGAGCTGAATGAGTTAGAGCCC
+GAGAAGCAGCCGATGAACGCGGCGTCTGGGGCGGCCATGTCCCTGGCGGGAGCCGAGAAG
+AATGGTCTGGTGAAGATCAAGGTGGCGGAAGACGAGGCGGAGGCGGCAGCCGCGGCTAAG
+TTCACGGGCCTGTCCAAGGAGGAGCTGCTGAAGGTGGCAGGCAGCCCCGGCTGGGTACGC
+ACCCGCTGGGCACTGCTGCTGCTCTTCTGGCTCGGCTGGCTCGGCATGCTTGCTGGTGCC
+GTGGTCATAATCGTGCGAGCGCCGCGTTGTCGCGAGCTACCGGCGCAGAAGTGGTGGCAC
+ACGGGCGCCCTCTACCGCATCGGCGACCTTCAGGCCTTCCAGGGCCACGGCGCGGGCAAC
+CTGGCGGGTCTGAAGGGGCGTCTCGATTACCTGAGCTCTCTGAAGGTGAAGGGCCTTGTG
+CTGGGTCCAATTCACAAGAACCAGAAGGATGATGTCGCTCAGACTGACTTGCTGCAGATC
+GACCCCAATTTTGGCTCCAAGGAAGATTTTGACAGTCTCTTGCAATCGGCTAAAAAAAAG
+AGCATCCGTGTCATTCTGGACCTTACTCCCAACTACCGGGGTGAGAACTCGTGGTTCTCC
+ACTCAGGTTGACACTGTGGCCACCAAGGTGAAGGATGCTCTGGAGTTTTGGCTGCAAGCT
+GGCGTGGATGGGTTCCAGGTTCGGGACATAGAGAATCTGAAGGATGCATCCTCATTCTTG
+GCTGAGTGGCAAAATATCACCAAGGGCTTCAGTGAAGACAGGCTCTTGATTGCGGGGACT
+AACTCCTCCGACCTTCAGCAGATCCTGAGCCTACTCGAATCCAACAAAGACTTGCTGTTG
+ACTAGCTCATACCTGTCTGATTCTGGTTCTACTGGGGAGCATACAAAATCCCTAGTCACA
+CAGTATTTGAATGCCACTGGCAATCGCTGGTGCAGCTGGAGTTTGTCTCAGGCAAGGCTC
+CTGACTTCCTTCTTGCCGGCTCAACTTCTCCGACTCTACCAGCTGATGCTCTTCACCCTG
+CCAGGGACCCCTGTTTTCAGCTACGGGGATGAGATTGGCCTGGATGCAGCTGCCCTTCCT
+GGACAGCCTATGGAGGCTCCAGTCATGCTGTGGGATGAGTCCAGCTTCCCTGACATCCCA
+GGGGCTGTAAGTGCCAACATGACTGTGAAGGGCCAGAGTGAAGACCCTGGCTCCCTCCTT
+TCCTTGTTCCGGCGGCTGAGTGACCAGCGGAGTAAGGAGCGCTCCCTACTGCATGGGGAC
+TTCCACGCGTTCTCCGCTGGGCCTGGACTCTTCTCCTATATCCGCCACTGGGACCAGAAT
+GAGCGTTTTCTGGTAGTGCTTAACTTTGGGGATGTGGGCCTCTCGGCTGGACTGCAGGCC
+TCCGACCTGCCTGCCAGCGCCAGCCTGCCAGCCAAGGCTGACCTCCTGCTCAGCACCCAG
+CCAGGCCGTGAGGAGGGCTCCCCTCTTGAGCTGGAACGCCTGAAACTGGAGCCTCACGAA
+GGGCTGCTGCTCCGCTTCCCCTACGCGGCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>630</residue_number>
+    <molecular_weight>67993.3</molecular_weight>
+    <theoretical_pi>4.63</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Alpha-amylase</name>
+        <pfam_id>PF00128</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>185-205</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;4F2 cell-surface antigen heavy chain
+MELQPPEASIAVVSIPRQLPGSHSEAGVQGLSAGDDSELGSHCVAQTGLELLASGDPLPS
+ASQNAEMIETGSDCVTQAGLQLLASSDPPALASKNAEVTGTMSQDTEVDMKEVELNELEP
+EKQPMNAASGAAMSLAGAEKNGLVKIKVAEDEAEAAAAAKFTGLSKEELLKVAGSPGWVR
+TRWALLLLFWLGWLGMLAGAVVIIVRAPRCRELPAQKWWHTGALYRIGDLQAFQGHGAGN
+LAGLKGRLDYLSSLKVKGLVLGPIHKNQKDDVAQTDLLQIDPNFGSKEDFDSLLQSAKKK
+SIRVILDLTPNYRGENSWFSTQVDTVATKVKDALEFWLQAGVDGFQVRDIENLKDASSFL
+AEWQNITKGFSEDRLLIAGTNSSDLQQILSLLESNKDLLLTSSYLSDSGSTGEHTKSLVT
+QYLNATGNRWCSWSLSQARLLTSFLPAQLLRLYQLMLFTLPGTPVFSYGDEIGLDAAALP
+GQPMEAPVMLWDESSFPDIPGAVSANMTVKGQSEDPGSLLSLFRRLSDQRSKERSLLHGD
+FHAFSAGPGLFSYIRHWDQNERFLVVLNFGDVGLSAGLQASDLPASASLPAKADLLLSTQ
+PGREEGSPLELERLKLEPHEGLLLRFPYAA</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>65506891</genbank_protein_id>
+  <uniprot_id>P08195</uniprot_id>
+  <uniprot_name>4F2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_002394.5</genbank_gene_id>
+  <genecard_id>SLC3A2</genecard_id>
+  <geneatlas_id>SLC3A2</geneatlas_id>
+  <hgnc_id>HGNC:11026</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Quackenbush E, Clabby M, Gottesdiener KM, Barbosa J, Jones NH, Strominger JL, Speck S, Leiden JM: Molecular cloning of complementary DNAs encoding the heavy chain of the human 4F2 cell-surface antigen: a type II membrane glycoprotein involved in normal and neoplastic cell growth. Proc Natl Acad Sci U S A. 1987 Sep;84(18):6526-30.</reference_text>
+      <pubmed_id>3476959</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Teixeira S, Di Grandi S, Kuhn LC: Primary structure of the human 4F2 antigen heavy chain predicts a transmembrane protein with a cytoplasmic NH2 terminus. J Biol Chem. 1987 Jul 15;262(20):9574-80.</reference_text>
+      <pubmed_id>3036867</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lumadue JA, Glick AB, Ruddle FH: Cloning, sequence analysis, and expression of the large subunit of the human lymphocyte activation antigen 4F2. Proc Natl Acad Sci U S A. 1987 Dec;84(24):9204-8.</reference_text>
+      <pubmed_id>3480538</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gottesdiener KM, Karpinski BA, Lindsten T, Strominger JL, Jones NH, Thompson CB, Leiden JM: Isolation and structural characterization of the human 4F2 heavy-chain gene, an inducible gene involved in T-lymphocyte activation. Mol Cell Biol. 1988 Sep;8(9):3809-19.</reference_text>
+      <pubmed_id>3265470</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yanagida O, Kanai Y, Chairoungdua A, Kim DK, Segawa H, Nii T, Cha SH, Matsuo H, Fukushima J, Fukasawa Y, Tani Y, Taketani Y, Uchino H, Kim JY, Inatomi J, Okayasu I, Miyamoto K, Takeda E, Goya T, Endou H: Human L-type amino acid transporter 1 (LAT1): characterization of function and expression in tumor cell lines. Biochim Biophys Acta. 2001 Oct 1;1514(2):291-302.</reference_text>
+      <pubmed_id>11557028</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Torrents D, Estevez R, Pineda M, Fernandez E, Lloberas J, Shi YB, Zorzano A, Palacin M: Identification and characterization of a membrane protein (y+L amino acid transporter-1) that associates with 4F2hc to encode the amino acid transport activity y+L. A candidate gene for lysinuric protein intolerance. J Biol Chem. 1998 Dec 4;273(49):32437-45.</reference_text>
+      <pubmed_id>9829974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mastroberardino L, Spindler B, Pfeiffer R, Skelly PJ, Loffing J, Shoemaker CB, Verrey F: Amino-acid transport by heterodimers of 4F2hc/CD98 and members of a permease family. Nature. 1998 Sep 17;395(6699):288-91.</reference_text>
+      <pubmed_id>9751058</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pfeiffer R, Rossier G, Spindler B, Meier C, Kuhn L, Verrey F: Amino acid transport of y+L-type by heterodimers of 4F2hc/CD98 and members of the glycoprotein-associated amino acid transporter family. EMBO J. 1999 Jan 4;18(1):49-57.</reference_text>
+      <pubmed_id>9878049</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broer A, Wagner CA, Lang F, Broer S: The heterodimeric amino acid transporter 4F2hc/y+LAT2 mediates arginine efflux in exchange with glutamine. Biochem J. 2000 Aug 1;349 Pt 3:787-95.</reference_text>
+      <pubmed_id>10903140</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broer A, Friedrich B, Wagner CA, Fillon S, Ganapathy V, Lang F, Broer S: Association of 4F2hc with light chains LAT1, LAT2 or y+LAT2 requires different domains. Biochem J. 2001 May 1;355(Pt 3):725-31.</reference_text>
+      <pubmed_id>11311135</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ritchie JW, Taylor PM: Role of the System L permease LAT1 in amino acid and iodothyronine transport in placenta. Biochem J. 2001 Jun 15;356(Pt 3):719-25.</reference_text>
+      <pubmed_id>11389679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kolesnikova TV, Mannion BA, Berditchevski F, Hemler ME: Beta1 integrins show specific association with CD98 protein in low density membranes. BMC Biochem. 2001;2:10. Epub 2001 Oct 15.</reference_text>
+      <pubmed_id>11696247</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Friesema EC, Docter R, Moerings EP, Verrey F, Krenning EP, Hennemann G, Visser TJ: Thyroid hormone transport by the heterodimeric human system L amino acid transporter. Endocrinology. 2001 Oct;142(10):4339-48.</reference_text>
+      <pubmed_id>11564694</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Okamoto Y, Sakata M, Ogura K, Yamamoto T, Yamaguchi M, Tasaka K, Kurachi H, Tsurudome M, Murata Y: Expression and regulation of 4F2hc and hLAT1 in human trophoblasts.  Am J Physiol Cell Physiol. 2002 Jan;282(1):C196-204.</reference_text>
+      <pubmed_id>11742812</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>He X, Di Y, Li J, Xie Y, Tang Y, Zhang F, Wei L, Zhang Y, Qin W, Huo K, Li Y, Wan D, Gu J: Molecular cloning and characterization of CT120, a novel membrane-associated gene involved in amino acid transport and glutathione metabolism. Biochem Biophys Res Commun. 2002 Sep 27;297(3):528-36.</reference_text>
+      <pubmed_id>12270127</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Simmons-Willis TA, Koh AS, Clarkson TW, Ballatori N: Transport of a neurotoxicant by molecular mimicry: the methylmercury-L-cysteine complex is a substrate for human L-type large neutral amino acid transporter (LAT) 1 and LAT2. Biochem J. 2002 Oct 1;367(Pt 1):239-46.</reference_text>
+      <pubmed_id>12117417</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim DK, Kanai Y, Choi HW, Tangtrongsup S, Chairoungdua A, Babu E, Tachampa K, Anzai N, Iribe Y, Endou H: Characterization of the system L amino acid transporter in T24 human bladder carcinoma cells. Biochim Biophys Acta. 2002 Sep 20;1565(1):112-21.</reference_text>
+      <pubmed_id>12225859</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Harris RA, Yang A, Stein RC, Lucy K, Brusten L, Herath A, Parekh R, Waterfield MD, O'Hare MJ, Neville MA, Page MJ, Zvelebil MJ: Cluster analysis of an extensive human breast cancer cell line protein expression map database. Proteomics. 2002 Feb;2(2):212-23.</reference_text>
+      <pubmed_id>11840567</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arancibia-Garavilla Y, Toledo F, Casanello P, Sobrevia L: Nitric oxide synthesis requires activity of the cationic and neutral amino acid transport system y+L in human umbilical vein endothelium. Exp Physiol. 2003 Nov;88(6):699-710.</reference_text>
+      <pubmed_id>14603368</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu X, Charrier L, Gewirtz A, Sitaraman S, Merlin D: CD98 and intracellular adhesion molecule I regulate the activity of amino acid transporter LAT-2 in polarized intestinal epithelia. J Biol Chem. 2003 Jun 27;278(26):23672-7. Epub 2003 Apr 25.</reference_text>
+      <pubmed_id>12716892</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang H, Li XJ, Martin DB, Aebersold R: Identification and quantification of N-linked glycoproteins using hydrazide chemistry, stable isotope labeling and mass spectrometry. Nat Biotechnol. 2003 Jun;21(6):660-6. Epub 2003 May 18.</reference_text>
+      <pubmed_id>12754519</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tomi M, Mori M, Tachikawa M, Katayama K, Terasaki T, Hosoya K: L-type amino acid transporter 1-mediated L-leucine transport at the inner blood-retinal barrier. Invest Ophthalmol Vis Sci. 2005 Jul;46(7):2522-30.</reference_text>
+      <pubmed_id>15980244</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li S, Whorton AR: Identification of stereoselective transporters for S-nitroso-L-cysteine: role of LAT1 and LAT2 in biological activity of S-nitrosothiols. J Biol Chem. 2005 May 20;280(20):20102-10. Epub 2005 Mar 15.</reference_text>
+      <pubmed_id>15769744</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu T, Qian WJ, Gritsenko MA, Camp DG 2nd, Monroe ME, Moore RJ, Smith RD: Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry. J Proteome Res. 2005 Nov-Dec;4(6):2070-80.</reference_text>
+      <pubmed_id>16335952</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nawashiro H, Otani N, Shinomiya N, Fukui S, Ooigawa H, Shima K, Matsuo H, Kanai Y, Endou H: L-type amino acid transporter 1 as a potential molecular target in human astrocytic tumors. Int J Cancer. 2006 Aug 1;119(3):484-92.</reference_text>
+      <pubmed_id>16496379</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chi A, Valencia JC, Hu ZZ, Watabe H, Yamaguchi H, Mangini NJ, Huang H, Canfield VA, Cheng KC, Yang F, Abe R, Yamagishi S, Shabanowitz J, Hearing VJ, Wu C, Appella E, Hunt DF: Proteomic and bioinformatic characterization of the biogenesis and function of melanosomes. J Proteome Res. 2006 Nov;5(11):3135-44.</reference_text>
+      <pubmed_id>17081065</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meierhofer D, Wang X, Huang L, Kaiser P: Quantitative analysis of global ubiquitination in HeLa cells by mass spectrometry. J Proteome Res. 2008 Oct;7(10):4566-76. Epub 2008 Sep 10.</reference_text>
+      <pubmed_id>18781797</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nguyen HT, Dalmasso G, Yan Y, Obertone TS, Sitaraman SV, Merlin D: Ecto-phosphorylation of CD98 regulates cell-cell interactions.  PLoS One. 2008;3(12):e3895. Epub 2008 Dec 9.</reference_text>
+      <pubmed_id>19065266</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wollscheid B, Bausch-Fluck D, Henderson C, O'Brien R, Bibel M, Schiess R, Aebersold R, Watts JD: Mass-spectrometric identification and relative quantification of N-linked cell surface glycoproteins. Nat Biotechnol. 2009 Apr;27(4):378-86. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fort J, de la Ballina LR, Burghardt HE, Ferrer-Costa C, Turnay J, Ferrer-Orta C, Uson I, Zorzano A, Fernandez-Recio J, Orozco M, Lizarbe MA, Fita I, Palacin M: The structure of human 4F2hc ectodomain provides a model for homodimerization and electrostatic interaction with plasma membrane. J Biol Chem. 2007 Oct 26;282(43):31444-52. Epub 2007 Aug 26.</reference_text>
+      <pubmed_id>17724034</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

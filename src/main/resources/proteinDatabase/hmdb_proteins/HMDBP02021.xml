@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:39 -0700</creation_date>
+  <update_date>2013-04-11 14:11:37 -0600</update_date>
+  <accession>HMDBP02021</accession>
+  <secondary_accessions>
+    <accession>7479</accession>
+    <accession>HMDBP05654</accession>
+  </secondary_accessions>
+  <protein_type>Transporter</protein_type>
+  <synonyms>
+    <synonym>OATP-B</synonym>
+    <synonym>OATP-RP2</synonym>
+    <synonym>OATPRP2</synonym>
+    <synonym>Organic anion transporter B</synonym>
+    <synonym>Organic anion transporter polypeptide-related protein 2</synonym>
+    <synonym>Solute carrier family 21 member 9</synonym>
+  </synonyms>
+  <gene_name>SLCO2B1</gene_name>
+  <general_function>Involved in transporter activity</general_function>
+  <specific_function>Mediates the Na(+)-independent transport of organic anions such as taurocholate, the prostaglandins PGD2, PGE1, PGE2, leukotriene C4, thromboxane B2 and iloprost</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB03252</accession>
+      <name>Thromboxane B2</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14534</accession>
+      <name>Digoxin n</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14614</accession>
+      <name>Montelukast</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01488</accession>
+      <name>Nicotinic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14792</accession>
+      <name>Latanoprost</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00151</accession>
+      <name>Estradiol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01895</accession>
+      <name>Salicylic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15151</accession>
+      <name>Glyburide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15179</accession>
+      <name>Rifampin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15183</accession>
+      <name>Ergoloid mesylate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15186</accession>
+      <name>Penicillin G</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15220</accession>
+      <name>Iloprost</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15256</accession>
+      <name>Tolbutamide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00042</accession>
+      <name>Acetic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02329</accession>
+      <name>Oxalic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00094</accession>
+      <name>Citric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00036</accession>
+      <name>Taurocholic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q13</locus>
+    <gene_sequence>&gt;2130 bp
+ATGGGACCCAGGATAGGGCCAGCGGGTGAGGTACCCCAGGTACCAGACAAGGAAACCAAA
+GCCACAATGGGCACAGAAAACACACCTGGAGGCAAAGCCAGCCCAGACCCTCAGGACGTG
+CGGCCAAGTGTGTTCCATAACATCAAGCTGTTCGTTCTGTGCCACAGCCTGCTGCAGCTG
+GCGCAGCTCATGATCTCCGGCTACCTAAAGAGCTCCATCTCCACAGTGGAGAAGCGCTTC
+GGCCTCTCCAGCCAGACGTCGGGGCTGCTGGCCTCCTTCAACGAGGTGGGGAACACAGCC
+TTGATTGTGTTTGTGAGCTATTTTGGCAGCCGGGTGCACCGACCCCGAATGATTGGCTAT
+GGGGCTATCCTTGTGGCCCTGGCGGGCCTGCTCATGACTCTCCCGCACTTCATCTCGGAG
+CCATACCGCTACGACAACACCAGCCCTGAGGATATGCCACAGGACTTCAAGGCTTCCCTG
+TGCCTGCCCACAACCTCGGCCCCAGCCTCGGCCCCCTCCAATGGCAACTGCTCAAGCTAC
+ACAGAAACCCAGCATCTGAGTGTGGTGGGGATCATGTTCGTGGCACAGACCCTGCTGGGC
+GTGGGCGGGGTGCCCATTCAGCCCTTTGGCATCTCCTACATCGATGACTTTGCCCACAAC
+AGCAACTCGCCCCTCTACCTCGGGATCCTGTTTGCAGTGACCATGATGGGGCCAGGCCTG
+GCCTTTGGGCTGGGCAGCCTCATGCTGCGCCTTTATGTGGACATTAACCAGATGCCAGAA
+GGTGGTATCAGCCTGACCATAAAGGACCCCCGATGGGTGGGTGCCTGGTGGCTGGGTTTC
+CTCATCGCTGCCGGTGCAGTGGCCCTGGCTGCCATCCCCTACTTCTTCTTCCCCAAGGAA
+ATGCCCAAGGAAAAACGTGAGCTTCAGTTTCGGCGAAAGGTCTTAGCAGTCACAGACTCA
+CCTGCCAGGAAGGGCAAGGACTCTCCCTCTAAGCAGAGCCCTGGGGAGTCCACGAAGAAG
+CAGGATGGCCTAGTCCAGATTGCACCAAACCTGACTGTGATCCAGTTCATTAAAGTCTTC
+CCCAGGGTGCTGCTGCAGACCCTACGCCACCCCATCTTCCTGCTGGTGGTCCTGTCCCAG
+GTATGCTTGTCATCCATGGCTGCGGGCATGGCCACCTTCCTGCCCAAGTTCCTGGAGCGC
+CAGTTTTCCATCACAGCCTCCTACGCCAACCTGCTCATCGGCTGCCTCTCCTTCCCTTCG
+GTCATCGTGGGCATCGTGGTGGGTGGCGTCCTGGTCAAGCGGCTCCACCTGGGCCCTGTG
+GGATGCGGTGCCCTTTGCCTGCTGGGGATGCTGCTGTGCCTCTTCTTCAGCCTGCCGCTC
+TTCTTTATCGGCTGCTCCAGCCACCAGATTGCGGGCATCACACACCAGACCAGTGCCCAC
+CCTGGGCTGGAGCTGTCTCCAAGCTGCATGGAGGCCTGCTCCTGCCCATTGGACGGCTTT
+AACCCTGTCTGCGACCCCAGCACTCGTGTGGAATACATCACACCCTGCCACGCAGGCTGC
+TCAAGCTGGGTGGTCCAGGATGCTCTGGACAACAGCCAGGTTTTCTACACCAACTGCAGC
+TGCGTGGTGGAGGGCAACCCCGTGCTGGCAGGATCCTGCGACTCAACGTGCAGCCATCTG
+GTGGTGCCCTTCCTGCTCCTGGTCAGCCTGGGCTCGGCCCTGGCCTGTCTCACCCACACA
+CCCTCCTTCATGCTCATCCTAAGAGGAGTGAAGAAAGAAGACAAGACTTTGGCTGTGGGC
+ATCCAGTTCATGTTCCTGAGGATTTTGGCCTGGATGCCCAGCCCCGTGATCCACGGCAGC
+GCCATCGACACCACCTGTGTGCACTGGGCCCTGAGCTGTGGGCGTCGAGCTGTCTGTCGC
+TACTACAATAATGACCTGCTCCGAAACCGGTTCATCGGCCTCCAGTTCTTCTTCAAAACA
+GGTTCTGTGATCTGCTTCGCCTTAGTTTTGGCTGTCCTGAGGCAGCAGGACAAAGAGGCA
+AGGACCAAAGAGAGCAGATCCAGCCCTGCCGTAGAGCAGCAATTGCTAGTGTCGGGGCCA
+GGGAAGAAGCCAGAGGATTCCCGAGTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>709</residue_number>
+    <molecular_weight>76697.9</molecular_weight>
+    <theoretical_pi>8.39</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>OATP</name>
+        <pfam_id>PF03137</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>118-138</region>
+      <region>186-206</region>
+      <region>225-245</region>
+      <region>277-297</region>
+      <region>371-391</region>
+      <region>412-432</region>
+      <region>443-463</region>
+      <region>557-577</region>
+      <region>597-617</region>
+      <region>651-671</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Solute carrier organic anion transporter family member 2B1
+MGPRIGPAGEVPQVPDKETKATMGTENTPGGKASPDPQDVRPSVFHNIKLFVLCHSLLQL
+AQLMISGYLKSSISTVEKRFGLSSQTSGLLASFNEVGNTALIVFVSYFGSRVHRPRMIGY
+GAILVALAGLLMTLPHFISEPYRYDNTSPEDMPQDFKASLCLPTTSAPASAPSNGNCSSY
+TETQHLSVVGIMFVAQTLLGVGGVPIQPFGISYIDDFAHNSNSPLYLGILFAVTMMGPGL
+AFGLGSLMLRLYVDINQMPEGGISLTIKDPRWVGAWWLGFLIAAGAVALAAIPYFFFPKE
+MPKEKRELQFRRKVLAVTDSPARKGKDSPSKQSPGESTKKQDGLVQIAPNLTVIQFIKVF
+PRVLLQTLRHPIFLLVVLSQVCLSSMAAGMATFLPKFLERQFSITASYANLLIGCLSFPS
+VIVGIVVGGVLVKRLHLGPVGCGALCLLGMLLCLFFSLPLFFIGCSSHQIAGITHQTSAH
+PGLELSPSCMEACSCPLDGFNPVCDPSTRVEYITPCHAGCSSWVVQDALDNSQVFYTNCS
+CVVEGNPVLAGSCDSTCSHLVVPFLLLVSLGSALACLTHTPSFMLILRGVKKEDKTLAVG
+IQFMFLRILAWMPSPVIHGSAIDTTCVHWALSCGRRAVCRYYNNDLLRNRFIGLQFFFKT
+GSVICFALVLAVLRQQDKEARTKESRSSPAVEQQLLVSGPGKKPEDSRV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>O94956</uniprot_id>
+  <uniprot_name>SO2B1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB026256</genbank_gene_id>
+  <genecard_id>SLCO2B1</genecard_id>
+  <geneatlas_id>SLCO2B1</geneatlas_id>
+  <hgnc_id>HGNC:10962</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Suyama M, Kikuno R, Hirosawa M, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. XII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1998 Dec 31;5(6):355-64.</reference_text>
+      <pubmed_id>10048485</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Digoxin n</name>
+        <accession>HMDB14534</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nishio T, Adachi H, Nakagomi R, Tokui T, Sato E, Tanemoto M, Fujiwara K, Okabe M, Onogawa T, Suzuki T, Nakai D, Shiiba K, Suzuki M, Ohtani H, Kondo Y, Unno M, Ito S, Iinuma K, Nunoki K, Matsuno S, Abe T: Molecular identification of a rat novel organic anion transporter moat1, which transports prostaglandin D(2), leukotriene C(4), and taurocholate. Biochem Biophys Res Commun. 2000 Sep 7;275(3):831-8.</reference_text>
+        <pubmed_id>10973807</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Montelukast</name>
+        <accession>HMDB14614</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mougey EB, Feng H, Castro M, Irvin CG, Lima JJ: Absorption of montelukast is transporter mediated: a common variant of OATP2B1 is associated with reduced plasma concentrations and poor response. Pharmacogenet Genomics. 2009 Feb;19(2):129-38.</reference_text>
+        <pubmed_id>19151602</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Nicotinic acid</name>
+        <accession>HMDB01488</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kobayashi D, Nozawa T, Imai K, Nezu J, Tsuji A, Tamai I: Involvement of human organic anion transporting polypeptide OATP-B (SLC21A9) in pH-dependent transport across intestinal apical membrane. J Pharmacol Exp Ther. 2003 Aug;306(2):703-8. Epub 2003 Apr 30.</reference_text>
+        <pubmed_id>12724351</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Latanoprost</name>
+        <accession>HMDB14792</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kraft ME, Glaeser H, Mandery K, Konig J, Auge D, Fromm MF, Schlotzer-Schrehardt U, Welge-Lussen U, Kruse FE, Zolk O: The prostaglandin transporter OATP2A1 is expressed in human ocular tissues and transports the antiglaucoma prostanoid latanoprost. Invest Ophthalmol Vis Sci. 2010 May;51(5):2504-11. Epub 2009 Dec 17.</reference_text>
+        <pubmed_id>20019365</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Estradiol</name>
+        <accession>HMDB00151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tamai I, Nozawa T, Koshida M, Nezu J, Sai Y, Tsuji A: Functional characterization of human organic anion transporting polypeptide B (OATP-B) in comparison with liver-specific OATP-C. Pharm Res. 2001 Sep;18(9):1262-9.</reference_text>
+        <pubmed_id>11683238</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Salicylic acid</name>
+        <accession>HMDB01895</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Satoh H, Yamashita F, Tsujimoto M, Murakami H, Koyabu N, Ohtani H, Sawada Y: Citrus juices inhibit the function of human organic anion-transporting polypeptide OATP-B. Drug Metab Dispos. 2005 Apr;33(4):518-23. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Satoh H, Yamashita F, Tsujimoto M, Murakami H, Koyabu N, Ohtani H, Sawada Y: Citrus juices inhibit the function of human organic anion-transporting polypeptide OATP-B. Drug Metab Dispos. 2005 Apr;33(4):518-23. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Rifampin</name>
+        <accession>HMDB15179</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Vavricka SR, Van Montfoort J, Ha HR, Meier PJ, Fattinger K: Interactions of rifamycin SV and rifampicin with organic anion uptake systems of human liver. Hepatology. 2002 Jul;36(1):164-72.</reference_text>
+        <pubmed_id>12085361</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ergoloid mesylate</name>
+        <accession>HMDB15183</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lu WJ, Huang JD, Lai ML: The effects of ergoloid mesylates and ginkgo biloba on the pharmacokinetics of ticlopidine. J Clin Pharmacol. 2006 Jun;46(6):628-34.</reference_text>
+        <pubmed_id>16707409</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Penicillin G</name>
+        <accession>HMDB15186</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tamai I, Nezu J, Uchino H, Sai Y, Oku A, Shimane M, Tsuji A: Molecular identification and characterization of novel members of the human organic anion transporter (OATP) family. Biochem Biophys Res Commun. 2000 Jun 24;273(1):251-60.</reference_text>
+        <pubmed_id>10873595</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Iloprost</name>
+        <accession>HMDB15220</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nishio T, Adachi H, Nakagomi R, Tokui T, Sato E, Tanemoto M, Fujiwara K, Okabe M, Onogawa T, Suzuki T, Nakai D, Shiiba K, Suzuki M, Ohtani H, Kondo Y, Unno M, Ito S, Iinuma K, Nunoki K, Matsuno S, Abe T: Molecular identification of a rat novel organic anion transporter moat1, which transports prostaglandin D(2), leukotriene C(4), and taurocholate. Biochem Biophys Res Commun. 2000 Sep 7;275(3):831-8.</reference_text>
+        <pubmed_id>10973807</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Tolbutamide</name>
+        <accession>HMDB15256</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Satoh H, Yamashita F, Tsujimoto M, Murakami H, Koyabu N, Ohtani H, Sawada Y: Citrus juices inhibit the function of human organic anion-transporting polypeptide OATP-B. Drug Metab Dispos. 2005 Apr;33(4):518-23. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acetic acid</name>
+        <accession>HMDB00042</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kobayashi D, Nozawa T, Imai K, Nezu J, Tsuji A, Tamai I: Involvement of human organic anion transporting polypeptide OATP-B (SLC21A9) in pH-dependent transport across intestinal apical membrane. J Pharmacol Exp Ther. 2003 Aug;306(2):703-8. Epub 2003 Apr 30.</reference_text>
+        <pubmed_id>12724351</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acetic acid</name>
+        <accession>HMDB00042</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nozawa T, Imai K, Nezu J, Tsuji A, Tamai I: Functional characterization of pH-sensitive organic anion transporting polypeptide OATP-B in human. J Pharmacol Exp Ther. 2004 Feb;308(2):438-45. Epub 2003 Nov 10.</reference_text>
+        <pubmed_id>14610227</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Oxalic acid</name>
+        <accession>HMDB02329</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kobayashi D, Nozawa T, Imai K, Nezu J, Tsuji A, Tamai I: Involvement of human organic anion transporting polypeptide OATP-B (SLC21A9) in pH-dependent transport across intestinal apical membrane. J Pharmacol Exp Ther. 2003 Aug;306(2):703-8. Epub 2003 Apr 30.</reference_text>
+        <pubmed_id>12724351</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Citric acid</name>
+        <accession>HMDB00094</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kobayashi D, Nozawa T, Imai K, Nezu J, Tsuji A, Tamai I: Involvement of human organic anion transporting polypeptide OATP-B (SLC21A9) in pH-dependent transport across intestinal apical membrane. J Pharmacol Exp Ther. 2003 Aug;306(2):703-8. Epub 2003 Apr 30.</reference_text>
+        <pubmed_id>12724351</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Taurocholic acid</name>
+        <accession>HMDB00036</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nozawa T, Imai K, Nezu J, Tsuji A, Tamai I: Functional characterization of pH-sensitive organic anion transporting polypeptide OATP-B in human. J Pharmacol Exp Ther. 2004 Feb;308(2):438-45. Epub 2003 Nov 10.</reference_text>
+        <pubmed_id>14610227</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Taurocholic acid</name>
+        <accession>HMDB00036</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Satoh H, Yamashita F, Tsujimoto M, Murakami H, Koyabu N, Ohtani H, Sawada Y: Citrus juices inhibit the function of human organic anion-transporting polypeptide OATP-B. Drug Metab Dispos. 2005 Apr;33(4):518-23. Epub 2005 Jan 7.</reference_text>
+        <pubmed_id>15640378</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Taurocholic acid</name>
+        <accession>HMDB00036</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nishio T, Adachi H, Nakagomi R, Tokui T, Sato E, Tanemoto M, Fujiwara K, Okabe M, Onogawa T, Suzuki T, Nakai D, Shiiba K, Suzuki M, Ohtani H, Kondo Y, Unno M, Ito S, Iinuma K, Nunoki K, Matsuno S, Abe T: Molecular identification of a rat novel organic anion transporter moat1, which transports prostaglandin D(2), leukotriene C(4), and taurocholate. Biochem Biophys Res Commun. 2000 Sep 7;275(3):831-8.</reference_text>
+        <pubmed_id>10973807</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

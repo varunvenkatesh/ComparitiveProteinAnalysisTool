@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:51:31 -0700</creation_date>
+  <update_date>2013-05-27 11:34:10 -0600</update_date>
+  <accession>HMDBP00742</accession>
+  <secondary_accessions>
+    <accession>6017</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MtRPOL</synonym>
+  </synonyms>
+  <gene_name>POLRMT</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>DNA-dependent RNA polymerase catalyzes the transcription of mitochondrial DNA into RNA using the four ribonucleoside triphosphates as substrates.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00082</accession>
+      <name>Cytidine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00285</accession>
+      <name>Uridine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01273</accession>
+      <name>Guanosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01342</accession>
+      <name>Thymidine 5'-triphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotidyltransferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>rna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna-directed rna polymerase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial nucleoid</description>
+      <go_id>GO:0042645</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA binding</description>
+      <go_id>GO:0003677</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>DNA-directed RNA polymerase activity</description>
+      <go_id>GO:0003899</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>transcription initiation from mitochondrial promoter</description>
+      <go_id>GO:0006391</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>19</chromosome_location>
+    <locus>19p13.3</locus>
+    <gene_sequence>&gt;3693 bp
+ATGTCGGCACTTTGCTGGGGCCGCGGAGCGGCGGGGCTCAAACGAGCCCTACGGCCTTGC
+GGCCGCCCGGGACTCCCCGGCAAAGAAGGGACCGCCGGTGGCGTCTGCGGCCCCAGGAGG
+AGCTCGTCCGCCAGCCCCCAGGAGCAAGACCAAGACCGCAGGAAGGACTGGGGCCACGTG
+GAGCTGCTGGAGGTGCTCCAGGCGCGGGTGCGGCAGCTGCAGGCTGAGAGCGTGTCGGAG
+GTGGTGGTGAACAGGGTGGATGTGGCGCGGCTCCCAGAATGTGGCAGTGGAGATGGTAGC
+CTCCAGCCACCCAGGAAGGTCCAGATGGGGGCCAAGGATGCCACCCCGGTGCCCTGTGGC
+CGCTGGGCAAAGATACTGGAGAAGGATAAGCGGACCCAGCAGATGCGTATGCAGCGGTTG
+AAGGCGAAGCTGCAGATGCCATTCCAGAGCGGGGAGTTCAAGGCGCTGACCAGGCGCCTG
+CAGGTGGAGCCCCGGCTCCTGAGCAAGCAGATGGCCGGGTGCCTGGAGGACTGCACGCGC
+CAGGCCCCCGAGAGCCCCTGGGAGGAGCAGCTGGCCCGGCTGCTGCAGGAGGCCCCTGGG
+AAGCTGAGCCTCGATGTGGAGCAGGCCCCGTCGGGGCAGCACTCGCAGGCCCAGCTCTCA
+GGTCAGCAGCAGAGGCTCCTGGCCTTCTTCAAGTGCTGCCTGCTCACTGACCAGCTGCCC
+CTCGCCCACCACCTGCTGGTCGTCCACCACGGCCAGCGGCAGAAGCGGAAGCTGCTCACG
+CTGGACATGTACAACGCCGTGATGCTTGGCTGGGCGCGGCAGGGTGCCTTCAAGGAGCTG
+GTATATGTGTTATTCATGGTGAAGGATGCCGGCTTGACTCCGGACCTGCTGTCCTATGCG
+GCTGCCCTCCAGTGCATGGGGAGGCAGGACCAGGACGCCGGGACCATCGAAAGGTGTCTG
+GAACAGATGAGCCAGGAGGGGCTGAAGCTGCAGGCACTCTTCACCGCCGTTCTGCTGTCT
+GAGGAGGATCGGGCCACTGTTCTGAAGGCCGTGCACAAGGTGAAGCCCACCTTCAGCCTC
+CCGCCGCAGCTGCCGCCCCCGGTCAACACCTCCAAGCTGCTCAGGGACGTGTATGCCAAG
+GATGGGCGTGTGTCCTACCCGAAGCTGCACCTGCCCTTGAAGACCCTGCAGTGCCTCTTT
+GAGAAGCAGCTCCACATGGAGCTGGCCAGCAGGGTGTGCGTGGTGTCCGTGGAGAAGCCC
+ACGTTGCCAAGCAAGGAGGTCAAGCACGCGCGGAAGACCCTGAAGACCCTGCGGGACCAA
+TGGGAGAAAGCACTGTGCCGGGCGCTGCGGGAGACCAAGAACCGCCTAGAGCGCGAGGTG
+TACGAGGGCCGGTTCTCACTTTACCCCTTCCTGTGCCTGCTGGACGAGCGCGAGGTGGTG
+CGGATGCTCCTGCAGGTCCTGCAGGCGCTGCCCGCCCAAGGTGAGTCCTTCACCACCCTG
+GCCCGGGAGCTGAGTGCGCGCACTTTCAGCCGGCACGTGGTGCAGAGGCAGCGGGTCAGT
+GGCCAGGTGCAGGCGCTGCAGAACCACTACAGGAAGTACCTCTGCTTGCTGGCCTCCGAC
+GCCGAGGTGCCCGAGCCCTGCCTGCCGCGGCAGTACTGGGAGGAGCTGGGGGCGCCCGAG
+GCCCTGCGGGAGCAGCCCTGGCCCCTGCCAGTGCAGATGGAGCTGGGCAAGCTGCTGGCG
+GAGATGCTGGTGCAGGCTACGCAGATGCCATGCAGCCTGGACAAGCCGCATCGTTCCTCT
+CGGCTTGTCCCCGTGCTCTACCACGTGTATTCCTTCCGCAACGTCCAGCAGATCGGCATC
+CTGAAGCCGCACCCGGCCTACGTGCAGCTGCTGGAGAAGGCCGCGGAGCCCACGCTGACC
+TTCGAGGCGGTGGATGTACCCATGCTTTGCCCCCCGCTGCCCTGGACATCGCCGCACTCT
+GGTGCTTTCCTGCTCAGCCCCACCAAGCTGATGCGCACGGTGGAAGGCGCCACGCAGCAC
+CAGGAGCTGCTGGAAACCTGCCCGCCCACCGCGCTGCATGGCGCACTGGACGCCCTCACC
+CAACTGGGCAACTGCGCCTGGCGCGTCAACGGGCGCGTGCTGGACCTGGTGCTGCAGCTC
+TTCCAGGCCAAGGGCTGCCCCCAGCTAGGCGTGCCGGCCCCGCCCTCCGAGGCGCCCCAG
+CCGCCCGAGGCCCACCTGCCGCACAGCGCCGCGCCCGCCCGCAAGGCCGAGCTGCGCCGT
+GAGCTGGCGCACTGCCAGAAGGTGGCCCGGGAGATGCACAGCCTGCGGGCGGAGGCGCTG
+TACCGCCTCTCGCTGGCGCAGCACCTGCGGGACCGCGTCTTCTGGCTGCCGCACAACATG
+GACTTCCGCGGCCGCACCTACCCCTGCCCGCCGCACTTCAACCACCTGGGCAGCGACGTG
+GCGCGGGCCCTGCTGGAGTTCGCCCAGGGCCGCCCGCTCGGCCCGCACGGCCTGGATTGG
+CTCAAGATCCACCTGGTCAATCTCACGGGGTTGAAGAAGCGGGAGCCGCTGCGGAAGCGC
+CTGGCCTTTGCGGAGGAGGTGATGGATGACATCCTGGACTCCGCGGACCAACCCTTGACG
+GGCCGAAAGTGGTGGATGGGCGCGGAGGAACCCTGGCAGACGCTGGCCTGCTGTATGGAG
+GTGGCGAACGCTGTGCGCGCCTCCGACCCTGCCGCCTATGTCTCCCACCTCCCCGTCCAT
+CAGGACGGCTCTTGCAACGGCCTGCAGCATTATGCTGCTCTGGGCCGCGACAGCGTGGGC
+GCCGCCTCCGTCAACCTGGAGCCCTCGGATGTGCCGCAGGACGTGTACAGCGGCGTGGCC
+GCGCAGGTGGAGGTGTTCCGTAGGCAGGACGCCCAGCGGGGCATGCGGGTGGCACAGGTG
+CTGGAAGGTTTCATCACCCGCAAGGTGGTGAAGCAGACGGTGATGACGGTGGTGTACGGG
+GTCACGCGCTATGGCGGGCGCCTGCAGATTGAGAAGCGCCTCCGGGAGCTGAGCGACTTT
+CCCCAGGAGTTCGTGTGGGAGGCCTCTCACTATCTCGTACGCCAGGTCTTCAAGAGTCTA
+CAGGAGATGTTCTCGGGGACCCGGGCCATCCAGCACTGGCTGACCGAGAGTGCCCGCCTC
+ATCTCCCACATGGGCTCTGTGGTGGAGTGGGTCACACCCCTGGGCGTCCCCGTCATCCAG
+CCCTATCGCCTGGACTCCAAGGTCAAGCAAATAGGAGGTGGAATTCAGAGCATCACCTAC
+ACCCACAACGGAGACATCAGCCGAAAGCCCAACACACGTAAGCAGAAGAACGGCTTCCCG
+CCCAACTTCATCCACTCGCTGGACTCCTCCCACATGATGCTCACCGCCCTGCACTGCTAC
+AGGAAGGGCCTGACCTTCGTCTCTGTGCACGACTGTTACTGGACTCACGCAGCTGATGTC
+TCCGTCATGAACCAGGTGTGCCGGGAGCAGTTTGTCCGCTTGCACAGCGAGCCCATCCTG
+CAGGACCTGTCCAGATTCCTGGTCAAGCGGTTCTGCTCTGAGCCCCAGAAGATCTTGGAG
+GCCAGCCAGCTGAAGGAGACACTGCAGGCGGTGCCCAAGCCAGGGGCCTTCGACCTGGAG
+CAGGTGAAGCGTTCCACCTACTTCTTCAGCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1230</residue_number>
+    <molecular_weight>138619.335</molecular_weight>
+    <theoretical_pi>8.983</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>RNA_pol</name>
+        <pfam_id>PF00940</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;DNA-directed RNA polymerase, mitochondrial
+MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDRRKDWGHV
+ELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAKDATPVPCG
+RWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQMAGCLEDCTR
+QAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFFKCCLLTDQLP
+LAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKDAGLTPDLLSYA
+AALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVLKAVHKVKPTFSL
+PPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHMELASRVCVVSVEKP
+TLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFSLYPFLCLLDEREVV
+RMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQALQNHYRKYLCLLASD
+AEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLVQATQMPCSLDKPHRSS
+RLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEAVDVPMLCPPLPWTSPHS
+GAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQLGNCAWRVNGRVLDLVLQL
+FQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRELAHCQKVAREMHSLRAEAL
+YRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDVARALLEFAQGRPLGPHGLDW
+LKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPLTGRKWWMGAEEPWQTLACCME
+VANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDSVGAASVNLEPSDVPQDVYSGVA
+AQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTVVYGVTRYGGRLQIEKRLRELSDF
+PQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTESARLISHMGSVVEWVTPLGVPVIQ
+PYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCY
+RKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQDLSRFLVKRFCSEPQKILE
+ASQLKETLQAVPKPGAFDLEQVKRSTYFFS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2979529</genbank_protein_id>
+  <uniprot_id>O00411</uniprot_id>
+  <uniprot_name>RPOM_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3SPA</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AC004449</genbank_gene_id>
+  <genecard_id>POLRMT</genecard_id>
+  <geneatlas_id>POLRMT</geneatlas_id>
+  <hgnc_id>HGNC:9200</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tiranti V, Savoia A, Forti F, D'Apolito MF, Centra M, Rocchi M, Zeviani M: Identification of the gene encoding the human mitochondrial RNA polymerase (h-mtRPOL) by cyberscreening of the Expressed Sequence Tags database. Hum Mol Genet. 1997 Apr;6(4):615-25.</reference_text>
+      <pubmed_id>9097968</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J, Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A, Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA, Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J, Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M, Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W, Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V, Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S, Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D, Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS, DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA, Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM, Lucas SM: The DNA sequence and biology of human chromosome 19.  Nature. 2004 Apr 1;428(6982):529-35.</reference_text>
+      <pubmed_id>15057824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Falkenberg M, Gaspari M, Rantanen A, Trifunovic A, Larsson NG, Gustafsson CM: Mitochondrial transcription factors B1 and B2 activate transcription of human mtDNA. Nat Genet. 2002 Jul;31(3):289-94. Epub 2002 Jun 17.</reference_text>
+      <pubmed_id>12068295</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

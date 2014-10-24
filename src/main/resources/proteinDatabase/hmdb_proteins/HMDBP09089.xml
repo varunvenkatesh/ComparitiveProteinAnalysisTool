@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:19:20 -0700</creation_date>
+  <update_date>2013-01-15 20:19:20 -0700</update_date>
+  <accession>HMDBP09089</accession>
+  <secondary_accessions>
+    <accession>14833</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Neuroendocrine sodium channel</synonym>
+    <synonym>PN1</synonym>
+    <synonym>Peripheral sodium channel 1</synonym>
+    <synonym>Sodium channel protein type IX subunit alpha</synonym>
+    <synonym>Voltage-gated sodium channel subunit alpha Nav1.7</synonym>
+    <synonym>hNE-Na</synonym>
+  </synonyms>
+  <gene_name>SCN9A</gene_name>
+  <general_function>Involved in ion channel activity</general_function>
+  <specific_function>Mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which Na(+) ions may pass in accordance with their electrochemical gradient. It is a tetrodotoxin-sensitive Na(+) channel isoform. Plays a role in pain mechanisms, especially in the development of inflammatory pain</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14388</accession>
+      <name>Ranolazine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14426</accession>
+      <name>Lidocaine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15045</accession>
+      <name>Zonisamide</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sodium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>voltage-gated sodium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sodium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>ion channel complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cation channel complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>sodium channel complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>voltage-gated sodium channel complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:2</chromosome_location>
+    <locus>2q24</locus>
+    <gene_sequence>&gt;5934 bp
+ATGGCAATGTTGCCTCCCCCAGGACCTCAGAGCTTTGTCCATTTCACAAAACAGTCTCTT
+GCCCTCATTGAACAACGCATTGCTGAAAGAAAATCAAAGGAACCCAAAGAAGAAAAGAAA
+GATGATGATGAAGAAGCCCCAAAGCCAAGCAGTGACTTGGAAGCTGGCAAACAGCTGCCC
+TTCATCTATGGGGACATTCCTCCCGGCATGGTGTCAGAGCCCCTGGAGGACTTGGACCCC
+TACTATGCAGACAAAAAGACTTTCATAGTATTGAACAAAGGGAAAACAATCTTCCGTTTC
+AATGCCACACCTGCTTTATATATGCTTTCTCCTTTCAGTCCTCTAAGAAGAATATCTATT
+AAGATTTTAGTACACTCCTTATTCAGCATGCTCATCATGTGCACTATTCTGACAAACTGC
+ATATTTATGACCATGAATAACCCACCGGACTGGACCAAAAATGTCGAGTACACTTTTACT
+GGAATATATACTTTTGAATCACTTGTAAAAATCCTTGCAAGAGGCTTCTGTGTAGGAGAA
+TTCACTTTTCTTCGTGACCCGTGGAACTGGCTGGATTTTGTCGTCATTGTTTTTGCGTAT
+TTAACAGAATTTGTAAACCTAGGCAATGTTTCAGCTCTTCGAACTTTCAGAGTATTGAGA
+GCTTTGAAAACTATTTCTGTAATCCCAGGCCTGAAGACAATTGTAGGGGCTTTGATCCAG
+TCAGTGAAGAAGCTTTCTGATGTCATGATCCTGACTGTGTTCTGTCTGAGTGTGTTTGCA
+CTAATTGGACTACAGCTGTTCATGGGAAACCTGAAGCATAAATGTTTTCGAAATTCACTT
+GAAAATAATGAAACATTAGAAAGCATAATGAATACCCTAGAGAGTGAAGAAGACTTTAGA
+AAATATTTTTATTACTTGGAAGGATCCAAAGATGCTCTCCTTTGTGGTTTCAGCACAGAT
+TCAGGTCAGTGTCCAGAGGGGTACACCTGTGTGAAAATTGGCAGAAACCCTGATTATGGC
+TACACGAGCTTTGACACTTTCAGCTGGGCCTTCTTAGCCTTGTTTAGGCTAATGACCCAA
+GATTACTGGGAAAACCTTTACCAACAGACGCTGCGTGCTGCTGGCAAAACCTACATGATC
+TTCTTTGTCGTAGTGATTTTCCTGGGCTCCTTTTATCTAATAAACTTGATCCTGGCTGTG
+GTTGCCATGGCATATGAAGAACAGAACCAGGCAAACATTGAAGAAGCTAAACAGAAAGAA
+TTAGAATTTCAACAGATGTTAGACCGTCTTAAAAAAGAGCAAGAAGAAGCTGAGGCAATT
+GCAGCGGCAGCGGCTGAATATACAAGTATTAGGAGAAGCAGAATTATGGGCCTCTCAGAG
+AGTTCTTCTGAAACATCCAAACTGAGCTCTAAAAGTGCTAAAGAAAGAAGAAACAGAAGA
+AAGAAAAAGAATCAAAAGAAGCTCTCCAGTGGAGAGGAAAAGGGAGATGCTGAGAAATTG
+TCGAAATCAGAATCAGAGGACAGCATCAGAAGAAAAAGTTTCCACCTTGGTGTCGAAGGG
+CATAGGCGAGCACATGAAAAGAGGTTGTCTACCCCCAATCAGTCACCACTCAGCATTCGT
+GGCTCCTTGTTTTCTGCAAGGCGAAGCAGCAGAACAAGTCTTTTTAGTTTCAAAGGCAGA
+GGAAGAGATATAGGATCTGAGACTGAATTTGCCGATGATGAGCACAGCATTTTTGGAGAC
+AATGAGAGCAGAAGGGGCTCACTGTTTGTGCCCCACAGACCCCAGGAGCGACGCAGCAGT
+AACATCAGCCAAGCCAGTAGGTCCCCACCAATGCTGCCGGTGAACGGGAAAATGCACAGT
+GCTGTGGACTGCAACGGTGTGGTCTCCCTGGTTGATGGACGCTCAGCCCTCATGCTCCCC
+AATGGACAGCTTCTGCCAGAGGGCACGACCAATCAAATACACAAGAAAAGGCGTTGTAGT
+TCCTATCTCCTTTCAGAGGATATGCTGAATGATCCCAACCTCAGACAGAGAGCAATGAGT
+AGAGCAAGCATATTAACAAACACTGTGGAAGAACTTGAAGAGTCCAGACAAAAATGTCCA
+CCTTGGTGGTACAGATTTGCACACAAATTCTTGATCTGGAATTGCTCTCCATATTGGATA
+AAATTCAAAAAGTGTATCTATTTTATTGTAATGGATCCTTTTGTAGATCTTGCAATTACC
+ATTTGCATAGTTTTAAACACATTATTTATGGCTATGGAACACCACCCAATGACTGAGGAA
+TTCAAAAATGTACTTGCTATAGGAAATTTGGTCTTTACTGGAATCTTTGCAGCTGAAATG
+GTATTAAAACTGATTGCCATGGATCCATATGAGTATTTCCAAGTAGGCTGGAATATTTTT
+GACAGCCTTATTGTGACTTTAAGTTTAGTGGAGCTCTTTCTAGCAGATGTGGAAGGATTG
+TCAGTTCTGCGATCATTCAGACTGCTCCGAGTCTTCAAGTTGGCAAAATCCTGGCCAACA
+TTGAACATGCTGATTAAGATCATTGGTAACTCAGTAGGGGCTCTAGGTAACCTCACCTTA
+GTGTTGGCCATCATCGTCTTCATTTTTGCTGTGGTCGGCATGCAGCTCTTTGGTAAGAGC
+TACAAAGAATGTGTCTGCAAGATCAATGATGACTGTACGCTCCCACGGTGGCACATGAAC
+GACTTCTTCCACTCCTTCCTGATTGTGTTCCGCGTGCTGTGTGGAGAGTGGATAGAGACC
+ATGTGGGACTGTATGGAGGTCGCTGGTCAAGCTATGTGCCTTATTGTTTACATGATGGTC
+ATGGTCATTGGAAACCTGGTGGTCCTAAACCTATTTCTGGCCTTATTATTGAGCTCATTT
+AGTTCAGACAATCTTACAGCAATTGAAGAAGACCCTGATGCAAACAACCTCCAGATTGCA
+GTGACTAGAATTAAAAAGGGAATAAATTATGTGAAACAAACCTTACGTGAATTTATTCTA
+AAAGCATTTTCCAAAAAGCCAAAGATTTCCAGGGAGATAAGACAAGCAGAAGATCTGAAT
+ACTAAGAAGGAAAACTATATTTCTAACCATACACTTGCTGAAATGAGCAAAGGTCACAAT
+TTCCTCAAGGAAAAAGATAAAATCAGTGGTTTTGGAAGCAGCGTGGACAAACACTTGATG
+GAAGACAGTGATGGTCAATCATTTATTCACAATCCCAGCCTCACAGTGACAGTGCCAATT
+GCACCTGGGGAATCCGATTTGGAAAATATGAATGCTGAGGAACTTAGCAGTGATTCGGAT
+AGTGAATACAGCAAAGTGAGATTAAACCGGTCAAGCTCCTCAGAGTGCAGCACAGTTGAT
+AACCCTTTGCCTGGAGAAGGAGAAGAAGCAGAGGCTGAACCTATGAATTCCGATGAGCCA
+GAGGCCTGTTTCACAGATGGTTGTGTACGGAGGTTCTCATGCTGCCAAGTTAACATAGAG
+TCAGGGAAAGGAAAAATCTGGTGGAACATCAGGAAAACCTGCTACAAGATTGTTGAACAC
+AGTTGGTTTGAAAGCTTCATTGTCCTCATGATCCTGCTCAGCAGTGGTGCCCTGGCTTTT
+GAAGATATTTATATTGAAAGGAAAAAGACCATTAAGATTATCCTGGAGTATGCAGACAAG
+ATCTTCACTTACATCTTCATTCTGGAAATGCTTCTAAAATGGATAGCATATGGTTATAAA
+ACATATTTCACCAATGCCTGGTGTTGGCTGGATTTCCTAATTGTTGATGTTTCTTTGGTT
+ACTTTAGTGGCAAACACTCTTGGCTACTCAGATCTTGGCCCCATTAAATCCCTTCGGACA
+CTGAGAGCTTTAAGACCTCTAAGAGCCTTATCTAGATTTGAAGGAATGAGGGTCGTTGTG
+AATGCACTCATAGGAGCAATTCCTTCCATCATGAATGTGCTACTTGTGTGTCTTATATTC
+TGGCTGATATTCAGCATCATGGGAGTAAATTTGTTTGCTGGCAAGTTCTATGAGTGTATT
+AACACCACAGATGGGTCACGGTTTCCTGCAAGTCAAGTTCCAAATCGTTCCGAATGTTTT
+GCCCTTATGAATGTTAGTCAAAATGTGCGATGGAAAAACCTGAAAGTGAACTTTGATAAT
+GTCGGACTTGGTTACCTATCTCTGCTTCAAGTTGCAACTTTTAAGGGATGGACGATTATT
+ATGTATGCAGCAGTGGATTCTGTTAATGTAGACAAGCAGCCCAAATATGAATATAGCCTC
+TACATGTATATTTATTTTGTCGTCTTTATCATCTTTGGGTCATTCTTCACTTTGAACTTG
+TTCATTGGTGTCATCATAGATAATTTCAACCAACAGAAAAAGAAGCTTGGAGGTCAAGAC
+ATCTTTATGACAGAAGAACAGAAGAAATACTATAATGCAATGAAAAAGCTGGGGTCCAAG
+AAGCCACAAAAGCCAATTCCTCGACCAGGGAACAAAATCCAAGGATGTATATTTGACCTA
+GTGACAAATCAAGCCTTTGATATTAGTATCATGGTTCTTATCTGTCTCAACATGGTAACC
+ATGATGGTAGAAAAGGAGGGTCAAAGTCAACATATGACTGAAGTTTTATATTGGATAAAT
+GTGGTTTTTATAATCCTTTTCACTGGAGAATGTGTGCTAAAACTGATCTCCCTCAGACAC
+TACTACTTCACTGTAGGATGGAATATTTTTGATTTTGTGGTTGTGATTATCTCCATTGTA
+GGTATGTTTCTAGCTGATTTGATTGAAACGTATTTTGTGTCCCCTACCCTGTTCCGAGTG
+ATCCGTCTTGCCAGGATTGGCCGAATCCTACGTCTAGTCAAAGGAGCAAAGGGGATCCGC
+ACGCTGCTCTTTGCTTTGATGATGTCCCTTCCTGCGTTGTTTAACATCGGCCTCCTGCTC
+TTCCTGGTCATGTTCATCTACGCCATCTTTGGAATGTCCAACTTTGCCTATGTTAAAAAG
+GAAGATGGAATTAATGACATGTTCAATTTTGAGACCTTTGGCAACAGTATGATTTGCCTG
+TTCCAAATTACAACCTCTGCTGGCTGGGATGGATTGCTAGCACCTATTCTTAACAGTAAG
+CCACCCGACTGTGACCCAAAAAAAGTTCATCCTGGAAGTTCAGTTGAAGGAGACTGTGGT
+AACCCATCTGTTGGAATATTCTACTTTGTTAGTTATATCATCATATCCTTCCTGGTTGTG
+GTGAACATGTACATTGCAGTCATACTGGAGAATTTTAGTGTTGCCACTGAAGAAAGTACT
+GAACCTCTGAGTGAGGATGACTTTGAGATGTTCTATGAGGTTTGGGAGAAGTTTGATCCC
+GATGCGACCCAGTTTATAGAGTTCTCTAAACTCTCTGATTTTGCAGCTGCCCTGGATCCT
+CCTCTTCTCATAGCAAAACCCAACAAAGTCCAGCTCATTGCCATGGATCTGCCCATGGTT
+AGTGGTGACCGGATCCATTGTCTTGACATCTTATTTGCTTTTACAAAGCGTGTTTTGGGT
+GAGAGTGGGGAGATGGATTCTCTTCGTTCACAGATGGAAGAAAGGTTCATGTCTGCAAAT
+CCTTCCAAAGTGTCCTATGAACCCATCACAACCACACTAAAACGGAAACAAGAGGATGTG
+TCTGCTACTGTCATTCAGCGTGCTTATAGACGTTACCGCTTAAGGCAAAATGTCAAAAAT
+ATATCAAGTATATACATAAAAGATGGAGACAGAGATGATGATTTACTCAATAAAAAAGAT
+ATGGCTTTTGATAATGTTAATGAGAACTCAAGTCCAGAAAAAACAGATGCCACTTCATCC
+ACCACCTCTCCACCTTCATATGATAGTGTAACAAAGCCAGACAAAGAGAAATATGAACAA
+GACAGAACAGAAAAGGAAGACAAAGGGAAAGACAGCAAGGAAAGCAAAAAATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1988</residue_number>
+    <molecular_weight>226340.1</molecular_weight>
+    <theoretical_pi>6.98</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ion_trans</name>
+        <pfam_id>PF00520</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Na_trans_assoc</name>
+        <pfam_id>PF06512</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>122-145</region>
+      <region>154-173</region>
+      <region>187-205</region>
+      <region>212-231</region>
+      <region>248-271</region>
+      <region>379-404</region>
+      <region>739-763</region>
+      <region>775-798</region>
+      <region>807-826</region>
+      <region>833-852</region>
+      <region>869-889</region>
+      <region>943-968</region>
+      <region>1188-1211</region>
+      <region>1225-1250</region>
+      <region>1257-1278</region>
+      <region>1283-1304</region>
+      <region>1324-1351</region>
+      <region>1431-1457</region>
+      <region>1511-1534</region>
+      <region>1546-1569</region>
+      <region>1576-1599</region>
+      <region>1610-1631</region>
+      <region>1647-1669</region>
+      <region>1736-1760</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Sodium channel protein type 9 subunit alpha
+MAMLPPPGPQSFVHFTKQSLALIEQRIAERKSKEPKEEKKDDDEEAPKPSSDLEAGKQLP
+FIYGDIPPGMVSEPLEDLDPYYADKKTFIVLNKGKTIFRFNATPALYMLSPFSPLRRISI
+KILVHSLFSMLIMCTILTNCIFMTMNNPPDWTKNVEYTFTGIYTFESLVKILARGFCVGE
+FTFLRDPWNWLDFVVIVFAYLTEFVNLGNVSALRTFRVLRALKTISVIPGLKTIVGALIQ
+SVKKLSDVMILTVFCLSVFALIGLQLFMGNLKHKCFRNSLENNETLESIMNTLESEEDFR
+KYFYYLEGSKDALLCGFSTDSGQCPEGYTCVKIGRNPDYGYTSFDTFSWAFLALFRLMTQ
+DYWENLYQQTLRAAGKTYMIFFVVVIFLGSFYLINLILAVVAMAYEEQNQANIEEAKQKE
+LEFQQMLDRLKKEQEEAEAIAAAAAEYTSIRRSRIMGLSESSSETSKLSSKSAKERRNRR
+KKKNQKKLSSGEEKGDAEKLSKSESEDSIRRKSFHLGVEGHRRAHEKRLSTPNQSPLSIR
+GSLFSARRSSRTSLFSFKGRGRDIGSETEFADDEHSIFGDNESRRGSLFVPHRPQERRSS
+NISQASRSPPMLPVNGKMHSAVDCNGVVSLVDGRSALMLPNGQLLPEVIIDKATSDDSGT
+TNQIHKKRRCSSYLLSEDMLNDPNLRQRAMSRASILTNTVEELEESRQKCPPWWYRFAHK
+FLIWNCSPYWIKFKKCIYFIVMDPFVDLAITICIVLNTLFMAMEHHPMTEEFKNVLAIGN
+LVFTGIFAAEMVLKLIAMDPYEYFQVGWNIFDSLIVTLSLVELFLADVEGLSVLRSFRLL
+RVFKLAKSWPTLNMLIKIIGNSVGALGNLTLVLAIIVFIFAVVGMQLFGKSYKECVCKIN
+DDCTLPRWHMNDFFHSFLIVFRVLCGEWIETMWDCMEVAGQAMCLIVYMMVMVIGNLVVL
+NLFLALLLSSFSSDNLTAIEEDPDANNLQIAVTRIKKGINYVKQTLREFILKAFSKKPKI
+SREIRQAEDLNTKKENYISNHTLAEMSKGHNFLKEKDKISGFGSSVDKHLMEDSDGQSFI
+HNPSLTVTVPIAPGESDLENMNAEELSSDSDSEYSKVRLNRSSSSECSTVDNPLPGEGEE
+AEAEPMNSDEPEACFTDGCVRRFSCCQVNIESGKGKIWWNIRKTCYKIVEHSWFESFIVL
+MILLSSGALAFEDIYIERKKTIKIILEYADKIFTYIFILEMLLKWIAYGYKTYFTNAWCW
+LDFLIVDVSLVTLVANTLGYSDLGPIKSLRTLRALRPLRALSRFEGMRVVVNALIGAIPS
+IMNVLLVCLIFWLIFSIMGVNLFAGKFYECINTTDGSRFPASQVPNRSECFALMNVSQNV
+RWKNLKVNFDNVGLGYLSLLQVATFKGWTIIMYAAVDSVNVDKQPKYEYSLYMYIYFVVF
+IIFGSFFTLNLFIGVIIDNFNQQKKKLGGQDIFMTEEQKKYYNAMKKLGSKKPQKPIPRP
+GNKIQGCIFDLVTNQAFDISIMVLICLNMVTMMVEKEGQSQHMTEVLYWINVVFIILFTG
+ECVLKLISLRHYYFTVGWNIFDFVVVIISIVGMFLADLIETYFVSPTLFRVIRLARIGRI
+LRLVKGAKGIRTLLFALMMSLPALFNIGLLLFLVMFIYAIFGMSNFAYVKKEDGINDMFN
+FETFGNSMICLFQITTSAGWDGLLAPILNSKPPDCDPKKVHPGSSVEGDCGNPSVGIFYF
+VSYIIISFLVVVNMYIAVILENFSVATEESTEPLSEDDFEMFYEVWEKFDPDATQFIEFS
+KLSDFAAALDPPLLIAKPNKVQLIAMDLPMVSGDRIHCLDILFAFTKRVLGESGEMDSLR
+SQMEERFMSANPSKVSYEPITTTLKRKQEDVSATVIQRAYRRYRLRQNVKNISSIYIKDG
+DRDDDLLNKKDMAFDNVNENSSPEKTDATSSTTSPPSYDSVTKPDKEKYEQDRTEKEDKG
+KDSKESKK</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4506813</genbank_protein_id>
+  <uniprot_id>Q15858</uniprot_id>
+  <uniprot_name>SCN9A_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id/>
+  <genecard_id>SCN9A</genecard_id>
+  <geneatlas_id>SCN9A</geneatlas_id>
+  <hgnc_id>HGNC:10597</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Klugbauer N, Lacinova L, Flockerzi V, Hofmann F: Structure and functional expression of a new member of the tetrodotoxin-sensitive voltage-activated sodium channel family from human neuroendocrine cells. EMBO J. 1995 Mar 15;14(6):1084-90.</reference_text>
+      <pubmed_id>7720699</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cox JJ, Reimann F, Nicholas AK, Thornton G, Roberts E, Springell K, Karbani G, Jafri H, Mannan J, Raashid Y, Al-Gazali L, Hamamy H, Valente EM, Gorman S, Williams R, McHale DP, Wood JN, Gribble FM, Woods CG: An SCN9A channelopathy causes congenital inability to experience pain.  Nature. 2006 Dec 14;444(7121):894-8.</reference_text>
+      <pubmed_id>17167479</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Raymond CK, Castle J, Garrett-Engele P, Armour CD, Kan Z, Tsinoremas N, Johnson JM: Expression of alternatively spliced sodium channel alpha-subunit genes. Unique splicing patterns are observed in dorsal root ganglia. J Biol Chem. 2004 Oct 29;279(44):46234-41. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302875</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yang Y, Wang Y, Li S, Xu Z, Li H, Ma L, Fan J, Bu D, Liu B, Fan Z, Wu G, Jin J, Ding B, Zhu X, Shen Y: Mutations in SCN9A, encoding a sodium channel alpha subunit, in patients with primary erythermalgia. J Med Genet. 2004 Mar;41(3):171-4.</reference_text>
+      <pubmed_id>14985375</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sangameswaran L, Fish LM, Koch BD, Rabert DK, Delgado SG, Ilnicka M, Jakeman LB, Novakovic S, Wong K, Sze P, Tzoumaka E, Stewart GR, Herman RC, Chan H, Eglen RM, Hunter JC: A novel tetrodotoxin-sensitive, voltage-gated sodium channel expressed in rat and human dorsal root ganglia. J Biol Chem. 1997 Jun 6;272(23):14805-9.</reference_text>
+      <pubmed_id>9169448</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jo T, Nagata T, Iida H, Imuta H, Iwasawa K, Ma J, Hara K, Omata M, Nagai R, Takizawa H, Nagase T, Nakajima T: Voltage-gated sodium channel expressed in cultured human smooth muscle cells: involvement of SCN9A. FEBS Lett. 2004 Jun 4;567(2-3):339-43.</reference_text>
+      <pubmed_id>15178348</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cummins TR, Dib-Hajj SD, Waxman SG: Electrophysiological properties of mutant Nav1.7 sodium channels in a painful inherited neuropathy. J Neurosci. 2004 Sep 22;24(38):8232-6.</reference_text>
+      <pubmed_id>15385606</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Michiels JJ, te Morsche RH, Jansen JB, Drenth JP: Autosomal dominant erythermalgia associated with a novel mutation in the voltage-gated sodium channel alpha subunit Nav1.7. Arch Neurol. 2005 Oct;62(10):1587-90.</reference_text>
+      <pubmed_id>16216943</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dib-Hajj SD, Rush AM, Cummins TR, Hisama FM, Novella S, Tyrrell L, Marshall L, Waxman SG: Gain-of-function mutation in Nav1.7 in familial erythromelalgia induces bursting of sensory neurons. Brain. 2005 Aug;128(Pt 8):1847-54. Epub 2005 Jun 15.</reference_text>
+      <pubmed_id>15958509</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fertleman CR, Baker MD, Parker KA, Moffatt S, Elmslie FV, Abrahamsen B, Ostman J, Klugbauer N, Wood JN, Gardiner RM, Rees M: SCN9A mutations in paroxysmal extreme pain disorder: allelic variants underlie distinct channel defects and phenotypes. Neuron. 2006 Dec 7;52(5):767-74.</reference_text>
+      <pubmed_id>17145499</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rush AM, Dib-Hajj SD, Liu S, Cummins TR, Black JA, Waxman SG: A single sodium channel mutation produces hyper- or hypoexcitability in different types of neurons. Proc Natl Acad Sci U S A. 2006 May 23;103(21):8245-50. Epub 2006 May 15.</reference_text>
+      <pubmed_id>16702558</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ranolazine</name>
+        <accession>HMDB14388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rajamani S, Shryock JC, Belardinelli L: Block of tetrodotoxin-sensitive, Na(V)1.7 and tetrodotoxin-resistant, Na(V)1.8, Na+ channels by ranolazine. Channels (Austin). 2008 Nov-Dec;2(6):449-60. Epub 2008 Nov 7.</reference_text>
+        <pubmed_id>19077543</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ranolazine</name>
+        <accession>HMDB14388</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lidocaine</name>
+        <accession>HMDB14426</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sheets PL, Jackson JO 2nd, Waxman SG, Dib-Hajj SD, Cummins TR: A Nav1.7 channel mutation associated with hereditary erythromelalgia contributes to neuronal hyperexcitability and displays reduced lidocaine sensitivity. J Physiol. 2007 Jun 15;581(Pt 3):1019-31. Epub 2007 Apr 12.</reference_text>
+        <pubmed_id>17430993</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lidocaine</name>
+        <accession>HMDB14426</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Muroi Y, Chanda B: Local anesthetics disrupt energetic coupling between the voltage-sensing segments of a sodium channel. J Gen Physiol. 2009 Jan;133(1):1-15. Epub 2008 Dec 15.</reference_text>
+        <pubmed_id>19088384</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lidocaine</name>
+        <accession>HMDB14426</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Karoly R, Lenkey N, Juhasz AO, Vizi ES, Mike A: Fast- or slow-inactivated state preference of Na+ channel inhibitors: a simulation and experimental study. PLoS Comput Biol. 2010 Jun 17;6(6):e1000818.</reference_text>
+        <pubmed_id>20585544</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Janszky J: [Role of zonisamid in treating epilepsy, Parkinson disorders and other neurological diseases]. Ideggyogy Sz. 2009 Nov 30;62(11-12):383-9.</reference_text>
+        <pubmed_id>20025128</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kothare SV, Kaleyias J: Zonisamide: review of pharmacology, clinical efficacy, tolerability, and safety.  Expert Opin Drug Metab Toxicol. 2008 Apr;4(4):493-506.</reference_text>
+        <pubmed_id>18433351</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Schulze-Bonhage A: Zonisamide in the treatment of epilepsy.  Expert Opin Pharmacother. 2010 Jan;11(1):115-26.</reference_text>
+        <pubmed_id>20001433</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sobieszek G, Borowicz KK, Kimber-Trojnar Z, Malek R, Piskorska B, Czuczwar SJ: Zonisamide: a new antiepileptic drug.  Pol J Pharmacol. 2003 Sep-Oct;55(5):683-9.</reference_text>
+        <pubmed_id>14704463</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sonsalla PK, Wong LY, Winnik B, Buckley B: The antiepileptic drug zonisamide inhibits MAO-B and attenuates MPTP toxicity in mice: clinical relevance. Exp Neurol. 2010 Feb;221(2):329-34. Epub 2009 Dec 4.</reference_text>
+        <pubmed_id>19948168</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Leppik IE: Zonisamide: chemistry, mechanism of action, and pharmacokinetics.  Seizure. 2004 Dec;13 Suppl 1:S5-9; discussion S10.</reference_text>
+        <pubmed_id>15511691</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Zonisamide</name>
+        <accession>HMDB15045</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zaccara G, Specchio LM: Long-term safety and effectiveness of zonisamide in the treatment of epilepsy: a review of the literature. Neuropsychiatr Dis Treat. 2009;5:249-59. Epub 2009 May 20.</reference_text>
+        <pubmed_id>19557119</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

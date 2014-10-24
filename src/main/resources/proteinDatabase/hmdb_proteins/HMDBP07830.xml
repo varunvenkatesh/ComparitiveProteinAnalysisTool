@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:03:08 -0700</creation_date>
+  <update_date>2013-01-15 20:03:08 -0700</update_date>
+  <accession>HMDBP07830</accession>
+  <secondary_accessions>
+    <accession>13539</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ALCAN-beta</synonym>
+    <synonym>N2DL-1</synonym>
+    <synonym>NKG2DL1</synonym>
+    <synonym>Retinoic acid early transcript 1I</synonym>
+    <synonym>UL16-binding protein 1</synonym>
+  </synonyms>
+  <gene_name>ULBP1</gene_name>
+  <general_function>Involved in immune response</general_function>
+  <specific_function>Ligand for the NKG2D receptor, together with at least ULBP2 and ULBP3. ULBPs activate multiple signaling pathways in primary NK cells, resulting in the production of cytokines and chemokines. Binding of ULBPs ligands to NKG2D induces calcium mobilization and activation of the JAK2, STAT5, ERK and PI3K kinase/Akt signal transduction pathway. In CMV infected cells, interacts with soluble CMV glycoprotein UL16. The interaction with UL16 blocked the interaction with the NKG2D receptor, providing a mechanism by which CMV infected cells might escape the immune system. UL16 also causes ULBP1 to be retained in the ER and cis- Golgi apparatus so that it does not reach the cell surface</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>antigen processing and presentation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>immune system process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>immune response</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>mhc protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>mhc class i protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Lipid-anchor</subcellular_location>
+    <subcellular_location>GPI-anchor</subcellular_location>
+    <subcellular_location>Endoplasmic reticulum</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:6</chromosome_location>
+    <locus>6q25</locus>
+    <gene_sequence>&gt;735 bp
+ATGGCAGCGGCCGCCAGCCCCGCCTTCCTTCTGTGCCTCCCGCTTCTGCACCTGCTGTCT
+GGCTGGTCCCGGGCAGGATGGGTCGACACACACTGTCTTTGCTATGACTTCATCATCACT
+CCTAAGTCCAGACCTGAACCACAGTGGTGTGAAGTTCAAGGCCTGGTGGATGAAAGGCCT
+TTTCTTCACTATGACTGTGTTAACCACAAGGCCAAAGCCTTTGCTTCTCTGGGGAAGAAA
+GTCAATGTCACAAAAACCTGGGAAGAACAAACTGAAACACTAAGAGACGTGGTGGATTTC
+CTTAAAGGGCAACTGCTTGACATTCAAGTGGAGAATTTAATACCCATTGAGCCCCTCACC
+CTGCAGGCCAGGATGTCTTGTGAGCATGAAGCCCATGGACACGGCAGAGGATCTTGGCAG
+TTCCTCTTCAATGGACAGAAGTTCCTCCTCTTTGACTCAAACAACAGAAAGTGGACAGCA
+CTTCATCCTGGAGCCAAGAAGATGACAGAGAAGTGGGAGAAGAACAGGGATGTGACCATG
+TTCTTCCAGAAGATTTCACTGGGGGATTGTAAGATGTGGCTTGAAGAATTTTTGATGTAC
+TGGGAACAAATGCTGGATCCAACAAAACCACCCTCTCTGGCCCCAGGCACAACCCAACCC
+AAGGCCATGGCCACCACCCTCAGTCCCTGGAGCCTTCTCATCATCTTCCTCTGCTTCATT
+CTAGCTGGCAGATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>244</residue_number>
+    <molecular_weight>27996.4</molecular_weight>
+    <theoretical_pi>7.48</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>MHC_I</name>
+        <pfam_id>PF00129</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-25</region>
+    </signal_regions>
+    <protein_sequence>&gt;NKG2D ligand 1
+MAAAASPAFLLCLPLLHLLSGWSRAGWVDTHCLCYDFIITPKSRPEPQWCEVQGLVDERP
+FLHYDCVNHKAKAFASLGKKVNVTKTWEEQTETLRDVVDFLKGQLLDIQVENLIPIEPLT
+LQARMSCEHEAHGHGRGSWQFLFNGQKFLLFDSNNRKWTALHPGAKKMTEKWEKNRDVTM
+FFQKISLGDCKMWLEEFLMYWEQMLDPTKPPSLAPGTTQPKAMATTLSPWSLLIIFLCFI
+LAGR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>14530665</genbank_protein_id>
+  <uniprot_id>Q9BZM6</uniprot_id>
+  <uniprot_name>N2DL1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB052907</genbank_gene_id>
+  <genecard_id>ULBP1</genecard_id>
+  <geneatlas_id>ULBP1</geneatlas_id>
+  <hgnc_id>HGNC:14893</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Cosman D, Mullberg J, Sutherland CL, Chin W, Armitage R, Fanslow W, Kubin M, Chalupny NJ: ULBPs, novel MHC class I-related molecules, bind to CMV glycoprotein UL16 and stimulate NK cytotoxicity through the NKG2D receptor. Immunity. 2001 Feb;14(2):123-33.</reference_text>
+      <pubmed_id>11239445</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Radosavljevic M, Cuillerier B, Wilson MJ, Clement O, Wicker S, Gilfillan S, Beck S, Trowsdale J, Bahram S: A cluster of ten novel MHC class I related genes on human chromosome 6q24.2-q25.3. Genomics. 2002 Jan;79(1):114-23.</reference_text>
+      <pubmed_id>11827464</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Steinle A, Li P, Morris DL, Groh V, Lanier LL, Strong RK, Spies T: Interactions of human NKG2D with its ligands MICA, MICB, and homologs of the mouse RAE-1 protein family. Immunogenetics. 2001 May-Jun;53(4):279-87.</reference_text>
+      <pubmed_id>11491531</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dunn C, Chalupny NJ, Sutherland CL, Dosch S, Sivakumar PV, Johnson DC, Cosman D: Human cytomegalovirus glycoprotein UL16 causes intracellular sequestration of NKG2D ligands, protecting against natural killer cell cytotoxicity. J Exp Med. 2003 Jun 2;197(11):1427-39.</reference_text>
+      <pubmed_id>12782710</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sutherland CL, Chalupny NJ, Schooley K, VandenBos T, Kubin M, Cosman D: UL16-binding proteins, novel MHC class I-related proteins, bind to NKG2D and activate multiple signaling pathways in primary NK cells. J Immunol. 2002 Jan 15;168(2):671-9.</reference_text>
+      <pubmed_id>11777960</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cerwenka A, Lanier LL: NKG2D ligands: unconventional MHC class I-like molecules exploited by viruses and cancer. Tissue Antigens. 2003 May;61(5):335-43.</reference_text>
+      <pubmed_id>12753652</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

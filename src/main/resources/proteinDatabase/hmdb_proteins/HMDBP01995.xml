@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:24 -0700</creation_date>
+  <update_date>2013-05-27 11:38:19 -0600</update_date>
+  <accession>HMDBP01995</accession>
+  <secondary_accessions>
+    <accession>7437</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Estrogen-responsive element-associated gene 1 protein</synonym>
+    <synonym>LTrpC-2</synonym>
+    <synonym>LTrpC2</synonym>
+    <synonym>Long transient receptor potential channel 2</synonym>
+    <synonym>Transient receptor potential channel 7</synonym>
+    <synonym>TrpC7</synonym>
+  </synonyms>
+  <gene_name>TRPM2</gene_name>
+  <general_function>Involved in ion channel activity</general_function>
+  <specific_function>Nonselective, voltage-independent cation channel mediating sodium and calcium ion influx in response to oxidative stress. Extracellular calcium passes through the channel and acts from the intracellular side as a positive regulator in channel activation. Activated by ADP-ribose, nicotinamide adenine dinucleotide (NAD(+)), reactive nitrogen species and arachidonic acid. Inactivated by intracellular ATP. Confers susceptibility to cell death following oxidative stress. Isoform 2 does not seem to be regulated by ADPR. Has ADP-ribose pyrophosphatase activity.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01178</accession>
+      <name>Adenosine diphosphate ribose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01548</accession>
+      <name>D-Ribose 5-phosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ADP-ribose diphosphatase activity</description>
+      <go_id>GO:0047631</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>calcium channel activity</description>
+      <go_id>GO:0005262</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>manganese ion transmembrane transporter activity</description>
+      <go_id>GO:0005384</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>sodium channel activity</description>
+      <go_id>GO:0005272</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to hydroperoxide</description>
+      <go_id>GO:0033194</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>sodium ion transmembrane transport</description>
+      <go_id>GO:0035725</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>21</chromosome_location>
+    <locus>21q22.3</locus>
+    <gene_sequence>&gt;4512 bp
+ATGGAGCCCTCAGCCCTGAGGAAAGCTGGCTCGGAGCAGGAGGAGGGCTTTGAGGGGCTG
+CCCAGAAGGGTCACTGACCTGGGGATGGTCTCCAATCTCCGGCGCAGCAACAGCAGCCTC
+TTCAAGAGCTGGAGGCTACAGTGCCCCTTCGGCAACAATGACAAGCAAGAAAGCCTCAGT
+TCGTGGATTCCTGAAAACATCAAGAAGAAAGAATGCGTGTATTTTGTGGAAAGTTCCAAA
+CTGTCTGATGCTGGGAAGGTGGTGTGTCAGTGTGGCTACACGCATGAGCAGCACTTGGAG
+GAGGCTACCAAGCCCCACACCTTCCAGGGCACACAGTGGGACCCAAAGAAACATGTCCAG
+GAGATGCCAACCGATGCCTTTGGCGACATCGTCTTCACGGGCCTGAGCCAGAAGGTGAAA
+AAGTACGTCCGAGTCTCCCAGGACACGCCCTCCAGCGTGATCTACCACCTCATGACCCAG
+CACTGGGGGCTGGACGTCCCCAATCTCTTGATCTCGGTGACCGGGGGGGCCAAGAACTTC
+AACATGAAGCCGCGGCTGAAGAGCATTTTCCGCAGAGGCCTGGTCAAGGTGGCTCAGACC
+ACAGGGGCCTGGATCATCACAGGGGGGTCCCACACCGGCGTCATGAAGCAGGTAGGCGAG
+GCGGTGCGGGACTTCAGCCTGAGCAGCAGCTACAAGGAAGGCGAGCTCATCACCATCGGA
+GTCGCCACCTGGGGCACTGTCCACCGCCGCGAGGGCCTGATCCATCCCACGGGCAGCTTC
+CCCGCCGAGTACATACTGGATGAGGATGGCCAAGGGAACCTGACCTGCCTAGACAGCAAC
+CACTCTCACTTCATCCTCGTGGACGACGGGACCCACGGCCAGTACGGGGTGGAGATTCCT
+CTGAGGACCAGGCTGGAGAAGTTCATATCGGAGCAGACCAAGGAAAGAGGAGGTGTGGCC
+ATCAAGATCCCCATCGTGTGCGTGGTGCTGGAGGGCGGCCCGGGCACGTTGCACACCATC
+GACAACGCCACCACCAACGGCACCCCCTGTGTGGTTGTGGAGGGCTCGGGCCGCGTGGCC
+GACGTCATTGCCCAGGTGGCCAACCTGCCTGTCTCGGACATCACTATCTCCCTGATCCAG
+CAGAAACTGAGCGTGTTCTTCCAGGAGATGTTTGAGACCTTCACGGAAAGCAGGATTGTC
+GAGTGGACCAAAAAGATCCAAGATATTGTCCGGAGGCGGCAGCTGCTGACTGTCTTCCGG
+GAAGGCAAGGATGGTCAGCAGGACGTGGATGTGGCCATCTTGCAGGCCTTGCTGAAAGCC
+TCACGGAGCCAAGACCACTTTGGCCACGAGAACTGGGACCACCAGCTGAAACTGGCAGTG
+GCATGGAATCGCGTGGACATTGCCCGCAGTGAGATCTTCATGGATGAGTGGCAGTGGAAG
+CCTTCAGATCTGCACCCCACGATGACAGCTGCACTCATCTCCAACAAGCCTGAGTTTGTG
+AAGCTCTTCCTGGAAAACGGGGTGCAGCTGAAGGAGTTTGTCACCTGGGACACCTTGCTC
+TACCTGTACGAGAACCTGGACCCCTCCTGCCTGTTCCACAGCAAGCTGCAAAAGGTGCTG
+GTGGAGGATCCCGAGCGCCCGGCTTGCGCGCCCGCGGCGCCCCGCCTGCAGATGCACCAC
+GTGGCCCAGGTGCTGCGGGAGCTGCTGGGGGACTTCACGCAGCCGCTTTATCCCCGGCCC
+CGGCACAACGACCGGCTGCGGCTCCTGCTGCCCGTTCCCCACGTCAAGCTCAACGTGCAG
+GGAGTGAGCCTCCGGTCCCTCTACAAGCGTTCCTCAGGCCATGTGACCTTCACCATGGAC
+CCCATCCGTGACCTTCTCATTTGGGCCATTGTCCAGAACCGTCGGGAGCTGGCAGGAATC
+ATCTGGGCTCAGAGCCAGGACTGCATCGCAGCGGCCTTGGCCTGCAGCAAGATCCTGAAG
+GAACTGTCCAAGGAGGAGGAGGACACGGACAGCTCGGAGGAGATGCTGGCGCTGGCGGAG
+GAGTATGAGCACAGAGCCATCGGGGTCTTCACCGAGTGCTACCGGAAGGACGAAGAGAGA
+GCCCAGAAACTGCTCACCCGCGTGTCCGAGGCCTGGGGGAAGACCACCTGCCTGCAGCTC
+GCCCTGGAGGCCAAGGACATGAAGTTTGTGTCTCACGGGGGCATCCAGGCCTTCCTGACC
+AAGGTGTGGTGGGGCCAGCTCTCCGTGGACAATGGGCTGTGGCGTGTGACCCTGTGCATG
+CTGGCCTTCCCGCTGCTCCTCACCGGCCTCATCTCCTTCAGGGAGAAGAGGCTGCAGGAT
+GTGGGCACCCCCGCGGCCCGCGCCCGTGCCTTCTTCACCGCACCCGTGGTGGTCTTCCAC
+CTGAACATCCTCTCCTACTTCGCCTTCCTCTGCCTGTTCGCCTACGTGCTCATGGTGGAC
+TTCCAGCCTGTGCCCTCCTGGTGCGAGTGTGCCATCTACCTCTGGCTCTTCTCCTTGGTG
+TGCGAGGAGATGCGGCAGCTCTTCTATGACCCTGACGAGTGCGGGCTGATGAAGAAGGCA
+GCCTTGTACTTCAGTGACTTCTGGAATAAGCTGGACGTCGGCGCAATCTTGCTCTTCGTG
+GCAGGGCTGACCTGCAGGCTCATCCCGGCGACGCTGTACCCCGGGCGCGTCATCCTCTCT
+CTGGACTTCATCCTGTTCTGCCTCCGGCTCATGCACATTTTTACCATCAGTAAGACGCTG
+GGGCCCAAGATCATCATTGTGAAGCGGATGATGAAGGACGTCTTCTTCTTCCTCTTCCTG
+CTGGCTGTGTGGGTGGTGTCCTTCGGGGTGGCCAAGCAGGCCATCCTCATCCACAACGAG
+CGCCGGGTGGACTGGCTGTTCCGAGGGGCCGTCTACCACTCCTACCTCACCATCTTCGGG
+CAGATCCCGGGCTACATCGACGGTGTGAACTTCAACCCGGAGCACTGCAGCCCCAATGGC
+ACCGACCCCTACAAGCCTAAGTGCCCCGAGAGCGACGCGACGCAGCAGAGGCCGGCCTTC
+CCTGAGTGGCTGACGGTCCTCCTACTCTGCCTCTACCTGCTCTTCACCAACATCCTGCTG
+CTCAACCTCCTCATCGCCATGTTCAACTACACCTTCCAGCAGGTGCAGGAGCACACGGAC
+CAGATTTGGAAGTTCCAGCGCCATGACCTGATCGAGGAGTACCACGGCCGCCCCGCCGCG
+CCGCCCCCCTTCATCCTCCTCAGCCACCTGCAGCTCTTCATCAAGAGGGTGGTCCTGAAG
+ACTCCGGCCAAGAGGCACAAGCAGCTCAAGAACAAGCTGGAGAAGAACGAGGAGGCGGCC
+CTGCTATCCTGGGAGATCTACCTGAAGGAGAACTACCTCCAGAACCGACAGTTCCAGCAA
+AAGCAGCGGCCCGAGCAGAAGATCGAGGACATCAGCAATAAGGTTGACGCCATGGTGGAC
+CTGCTGGACCTGGACCCACTGAAGAGGTCGGGCTCCATGGAGCAGAGGTTGGCCTCCCTG
+GAGGAGCAGGTGGCCCAGACAGCCCGAGCCCTGCACTGGATCGTGAGGACGCTGCGGGCC
+AGCGGCTTCAGCTCGGAGGCGGACGTCCCCACTCTGGCCTCCCAGAAGGCCGCGGAGGAG
+CCGGATGCTGAGCCGGGAGGCAGGAAGAAGACGGAGGAGCCGGGCGACAGCTACCACGTG
+AATGCCCGGCACCTCCTCTACCCCAACTGCCCTGTCACGCGCTTCCCCGTGCCCAACGAG
+AAGGTGCCCTGGGAGACGGAGTTCCTGATCTATGACCCACCCTTTTACACGGCAGAGAGG
+AAGGACGCGGCCGCCATGGACCCCATGGGAGACACCCTGGAGCCACTGTCCACGATCCAG
+TACAACGTGGTGGATGGCCTGAGGGACCGCCGGAGCTTCCACGGGCCGTACACAGTGCAG
+GCCGGGTTGCCCCTGAACCCCATGGGCCGCACAGGACTGCGTGGGCGCGGGAGCCTCAGC
+TGCTTCGGACCCAACCACACGCTGTACCCCATGGTCACGCGGTGGAGGCGGAACGAGGAT
+GGAGCCATCTGCAGGAAGAGCATAAAGAAGATGCTGGAAGTGCTGGTGGTGAAGCTCCCT
+CTCTCCGAGCACTGGGCCCTGCCTGGGGGCTCCCGGGAGCCAGGGGAGATGCTACCTCGG
+AAGCTGAAGCGGATCCTCCGGCAGGAGCACTGGCCGTCTTTTGAAAACTTGCTGAAGTGC
+GGCATGGAGGTGTACAAAGGCTACATGGATGACCCGAGGAACACGGACAATGCCTGGATC
+GAGACGGTGGCCGTCAGCGTCCACTTCCAGGACCAGAATGACGTGGAGCTGAACAGGCTG
+AACTCTAACCTGCACGCCTGCGACTCGGGGGCCTCCATCCGATGGCAGGTGGTGGACAGG
+CGCATCCCACTCTATGCGAACCACAAGACCCTCCTCCAGAAGGCAGCCGCTGAGTTCGGG
+GCTCACTACTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1503</residue_number>
+    <molecular_weight>171224.9</molecular_weight>
+    <theoretical_pi>7.566</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Ion_trans</name>
+        <pfam_id>PF00520</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Transient receptor potential cation channel subfamily M member 2
+MEPSALRKAGSEQEEGFEGLPRRVTDLGMVSNLRRSNSSLFKSWRLQCPFGNNDKQESLS
+SWIPENIKKKECVYFVESSKLSDAGKVVCQCGYTHEQHLEEATKPHTFQGTQWDPKKHVQ
+EMPTDAFGDIVFTGLSQKVKKYVRVSQDTPSSVIYHLMTQHWGLDVPNLLISVTGGAKNF
+NMKPRLKSIFRRGLVKVAQTTGAWIITGGSHTGVMKQVGEAVRDFSLSSSYKEGELITIG
+VATWGTVHRREGLIHPTGSFPAEYILDEDGQGNLTCLDSNHSHFILVDDGTHGQYGVEIP
+LRTRLEKFISEQTKERGGVAIKIPIVCVVLEGGPGTLHTIDNATTNGTPCVVVEGSGRVA
+DVIAQVANLPVSDITISLIQQKLSVFFQEMFETFTESRIVEWTKKIQDIVRRRQLLTVFR
+EGKDGQQDVDVAILQALLKASRSQDHFGHENWDHQLKLAVAWNRVDIARSEIFMDEWQWK
+PSDLHPTMTAALISNKPEFVKLFLENGVQLKEFVTWDTLLYLYENLDPSCLFHSKLQKVL
+VEDPERPACAPAAPRLQMHHVAQVLRELLGDFTQPLYPRPRHNDRLRLLLPVPHVKLNVQ
+GVSLRSLYKRSSGHVTFTMDPIRDLLIWAIVQNRRELAGIIWAQSQDCIAAALACSKILK
+ELSKEEEDTDSSEEMLALAEEYEHRAIGVFTECYRKDEERAQKLLTRVSEAWGKTTCLQL
+ALEAKDMKFVSHGGIQAFLTKVWWGQLSVDNGLWRVTLCMLAFPLLLTGLISFREKRLQD
+VGTPAARARAFFTAPVVVFHLNILSYFAFLCLFAYVLMVDFQPVPSWCECAIYLWLFSLV
+CEEMRQLFYDPDECGLMKKAALYFSDFWNKLDVGAILLFVAGLTCRLIPATLYPGRVILS
+LDFILFCLRLMHIFTISKTLGPKIIIVKRMMKDVFFFLFLLAVWVVSFGVAKQAILIHNE
+RRVDWLFRGAVYHSYLTIFGQIPGYIDGVNFNPEHCSPNGTDPYKPKCPESDATQQRPAF
+PEWLTVLLLCLYLLFTNILLLNLLIAMFNYTFQQVQEHTDQIWKFQRHDLIEEYHGRPAA
+PPPFILLSHLQLFIKRVVLKTPAKRHKQLKNKLEKNEEAALLSWEIYLKENYLQNRQFQQ
+KQRPEQKIEDISNKVDAMVDLLDLDPLKRSGSMEQRLASLEEQVAQTAQALHWIVRTLRA
+SGFSSEADVPTLASQKAAEEPDAEPGGRKKTEEPGDSYHVNARHLLYPNCPVTRFPVPNE
+KVPWETEFLIYDPPFYTAERKDAAAMDPMGDTLEPLSTIQYNVVDGLRDRRSFHGPYTVQ
+AGLPLNPMGRTGLRGRGSLSCFGPNHTLYPMVTRWRRNEDGAICRKSIKKMLEVLVVKLP
+LSEHWALPGGSREPGEMLPRKLKRILRQEHWPSFENLLKCGMEVYKGYMDDPRNTDNAWI
+ETVAVSVHFQDQNDVELNRLNSNLHACDSGASIRWQVVDRRIPLYANHKTLLQKAAAEFG
+AHY</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>3928756</genbank_protein_id>
+  <uniprot_id>O94759</uniprot_id>
+  <uniprot_name>TRPM2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AB001535</genbank_gene_id>
+  <genecard_id>TRPM2</genecard_id>
+  <geneatlas_id>TRPM2</geneatlas_id>
+  <hgnc_id>HGNC:12339</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Nagamine K, Kudoh J, Minoshima S, Kawasaki K, Asakawa S, Ito F, Shimizu N: Molecular cloning of a novel putative Ca2+ channel protein (TRPC7) highly expressed in brain. Genomics. 1998 Nov 15;54(1):124-31.</reference_text>
+      <pubmed_id>9806837</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wehage E, Eisfeld J, Heiner I, Jungling E, Zitt C, Luckhoff A: Activation of the cation channel long transient receptor potential channel 2 (LTRPC2) by hydrogen peroxide. A splice variant reveals a mode of activation independent of ADP-ribose. J Biol Chem. 2002 Jun 28;277(26):23150-6. Epub 2002 Apr 17.</reference_text>
+      <pubmed_id>11960981</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang W, Chu X, Tong Q, Cheung JY, Conrad K, Masker K, Miller BA: A novel TRPM2 isoform inhibits calcium influx and susceptibility to cell death. J Biol Chem. 2003 May 2;278(18):16222-9. Epub 2003 Feb 19.</reference_text>
+      <pubmed_id>12594222</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Uemura T, Kudoh J, Noda S, Kanba S, Shimizu N: Characterization of human and mouse TRPM2 genes: identification of a novel N-terminal truncated protein specifically expressed in human striatum. Biochem Biophys Res Commun. 2005 Mar 25;328(4):1232-43.</reference_text>
+      <pubmed_id>15708008</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hattori M, Fujiyama A, Taylor TD, Watanabe H, Yada T, Park HS, Toyoda A, Ishii K, Totoki Y, Choi DK, Groner Y, Soeda E, Ohki M, Takagi T, Sakaki Y, Taudien S, Blechschmidt K, Polley A, Menzel U, Delabar J, Kumpf K, Lehmann R, Patterson D, Reichwald K, Rump A, Schillhabel M, Schudy A, Zimmermann W, Rosenthal A, Kudoh J, Schibuya K, Kawasaki K, Asakawa S, Shintani A, Sasaki T, Nagamine K, Mitsuyama S, Antonarakis SE, Minoshima S, Shimizu N, Nordsiek G, Hornischer K, Brant P, Scharfe M, Schon O, Desario A, Reichelt J, Kauer G, Blocker H, Ramser J, Beck A, Klages S, Hennig S, Riesselmann L, Dagand E, Haaf T, Wehrmeyer S, Borzym K, Gardiner K, Nizetic D, Francis F, Lehrach H, Reinhardt R, Yaspo ML: The DNA sequence of human chromosome 21.  Nature. 2000 May 18;405(6784):311-9.</reference_text>
+      <pubmed_id>10830953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Perraud AL, Fleig A, Dunn CA, Bagley LA, Launay P, Schmitz C, Stokes AJ, Zhu Q, Bessman MJ, Penner R, Kinet JP, Scharenberg AM: ADP-ribose gating of the calcium-permeable LTRPC2 channel revealed by Nudix motif homology. Nature. 2001 May 31;411(6837):595-9.</reference_text>
+      <pubmed_id>11385575</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sano Y, Inamura K, Miyake A, Mochizuki S, Yokoi H, Matsushime H, Furuichi K: Immunocyte Ca2+ influx system mediated by LTRPC2.  Science. 2001 Aug 17;293(5533):1327-30.</reference_text>
+      <pubmed_id>11509734</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hara Y, Wakamori M, Ishii M, Maeno E, Nishida M, Yoshida T, Yamada H, Shimizu S, Mori E, Kudoh J, Shimizu N, Kurose H, Okada Y, Imoto K, Mori Y: LTRPC2 Ca2+-permeable channel activated by changes in redox status confers susceptibility to cell death. Mol Cell. 2002 Jan;9(1):163-73.</reference_text>
+      <pubmed_id>11804595</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

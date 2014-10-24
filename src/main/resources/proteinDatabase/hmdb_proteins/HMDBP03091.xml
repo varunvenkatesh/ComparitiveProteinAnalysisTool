@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:10:24 -0700</creation_date>
+  <update_date>2013-05-27 11:11:54 -0600</update_date>
+  <accession>HMDBP03091</accession>
+  <secondary_accessions>
+    <accession>8628</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Large NOX 2</synonym>
+    <synonym>Long NOX 2</synonym>
+    <synonym>NADH/NADPH thyroid oxidase p138-tox</synonym>
+    <synonym>NADPH oxidase/peroxidase DUOX2</synonym>
+    <synonym>NADPH thyroid oxidase 2</synonym>
+    <synonym>Thyroid oxidase 2</synonym>
+    <synonym>p138 thyroid oxidase</synonym>
+  </synonyms>
+  <gene_name>DUOX2</gene_name>
+  <general_function>Involved in calcium ion binding</general_function>
+  <specific_function>Generates hydrogen peroxide which is required for the activity of thyroid peroxidase/TPO and lactoperoxidase/LPO. Plays a role in thyroid hormones synthesis and lactoperoxidase-mediated antimicrobial defense at the surface of mucosa. May have its own peroxidase activity through its N-terminal peroxidase-like domain.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>thyroid hormone biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01248</accession>
+      <name>FAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00221</accession>
+      <name>NADPH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB03125</accession>
+      <name>Hydrogen peroxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>heme binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>antioxidant activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peroxidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>fad or fadh2 binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>electron carrier activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to stress</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>response to oxidative stress</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>apical plasma membrane</description>
+      <go_id>GO:0016324</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>calcium ion binding</description>
+      <go_id>GO:0005509</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heme binding</description>
+      <go_id>GO:0020037</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>NAD(P)H oxidase activity</description>
+      <go_id>GO:0016174</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peroxidase activity</description>
+      <go_id>GO:0004601</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>adenohypophysis morphogenesis</description>
+      <go_id>GO:0048855</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>bone mineralization</description>
+      <go_id>GO:0030282</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cuticle development</description>
+      <go_id>GO:0042335</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cytokine-mediated signaling pathway</description>
+      <go_id>GO:0019221</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>fertilization</description>
+      <go_id>GO:0009566</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hormone biosynthetic process</description>
+      <go_id>GO:0042446</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hydrogen peroxide catabolic process</description>
+      <go_id>GO:0042744</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>inner ear development</description>
+      <go_id>GO:0048839</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>multicellular organism growth</description>
+      <go_id>GO:0035264</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to cAMP</description>
+      <go_id>GO:0051591</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to virus</description>
+      <go_id>GO:0009615</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>thyroid gland development</description>
+      <go_id>GO:0030878</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>thyroid hormone generation</description>
+      <go_id>GO:0006590</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Apical cell membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>15</chromosome_location>
+    <locus>15q15.3</locus>
+    <gene_sequence>&gt;4647 bp
+ATGCTCCGTGCAAGACCAGAGGCACTGATGCTCCTGGGAGCTCTTCTGACTGGATCCCTG
+GGTCCATCGGGCAATCAGGACGCACTCTCACTGCCCTGGGAAGTGCAGCGCTATGACGGC
+TGGTTTAACAACCTGAGGCACCACGAGCGTGGTGCTGTTGGCTGCCGGTTGCAGCGCCGC
+GTACCAGCCAATTACGCCGACGGTGTGTATCAGGCTCTGGAGGAGCCGCAGCTGCCCAAC
+CCGCGCCGGCTCAGCAACGCAGCCACGCGGGGCATAGCCGGCCTGCCGTCGCTCCACAAC
+CGCACCGTACTGGGGGTCTTCTTTGGCTACCATGTTCTTTCCGACGTGGTGAGCGTGGAA
+ACGCCCGGTTGCCCCGCCGAGTTCCTCAACATCCGCATCCCACCTGGAGACCCCGTGTTC
+GACCCCGACCAGCGCGGGGACGTGGTGCTGCCCTTCCAGAGGAGCCGCTGGGACCCCGAG
+ACCGGACGGAGTCCCAGCAACCCCCGGGACCTGGCCAACCAGGTGACGGGCTGGCTGGAC
+GGCAGCGCCATCTATGGCTCCTCGCACTCCTGGAGCGACGCGCTGCGGAGCTTCTCGGGG
+GGACAGCTGGCGTCGGGGCCCGACCCCGCTTTCCCCCGAGACTCGCAGAACCCCCTGCTC
+ATGTGGGCGGCGCCCGACCCCGCCACCGGGCAGAACGGGCCCCGGGGGCTGTACGCCTTC
+GGGGCAGAGAGAGGGAACCGGGAACCCTTCCTGCAGGCGCTGGGCCTGCTCTGGTTCCGC
+TACCACAACCTGTGGGCGCAGAGGCTGGCCCGCCAGCACCCAGACTGGGAGGACGAGGAG
+CTGTTCCAGCACGCACGCAAGAGGGTCATCGCCACCTACCAGAACATCGCTGTGTATGAG
+TGGCTGCCCAGCTTCCTGCAGAAAACACTCCCGGAGTATACAGGATACCGTCCTTTCCTA
+GACCCCAGCATCTCCCCGGAATTTGTGGTGGCCTCTGAGCAGTTCTTCTCTACCATGGTG
+CCCCCTGGTGTCTACATGAGAAATGCCAGCTGTCATTTCCGGAAGGTCCTGAACAAGGGT
+TTTCAAAGCTCCCAAGCTCTCAGGGTCTGCAACAACTACTGGATTCGGGAGAACCCCAAT
+CTGAACAGTACCCAGGAGGTGAATGAGCTGCTGCTGGGAATGGCCTCCCAGATTTCGGAG
+TTGGAGGACAACATAGTGGTTGAAGATCTGAGGGATTACTGGCCTGGCCCTGGCAAATTC
+TCCCGTACAGACTATGTGGCCAGCAGCATCCAACGTGGCCGAGATATGGGGCTGCCCAGC
+TATAGCCAGGCCCTGCTGGCCTTTGGGCTGGACATCCCAAGGAACTGGAGTGATCTCAAC
+CCTAATGTGGACCCCCAGGTGCTGGAGGCCACAGCTGCCCTGTACAACCAGGACCTATCC
+CAGCTAGAGCTGCTCCTTGGGGGGCTCCTGGAGAGCCATGGGGACCCTGGACCCCTGTTC
+AGTGCCATTGTCCTCGACCAGTTTGTACGGCTGCGGGATGGTGACCGCTACTGGTTTGAG
+AACACCAGGAATGGGCTGTTCTCCAAGAAGGAGATTGAAGACATCCGAAATACCACCCTG
+CGGGACGTGCTGGTCGCTGTTATCAACATTGACCCCAGTGCCCTGCAGCCCAATGTCTTT
+GTCTGGCATAAAGGTGCACCCTGCCCTCAACCTAAGCAGCTCACAACTGACGGCCTGCCC
+CAGTGTGCACCCCTGACTGTGCTTGACTTCTTTGAAGGCAGCAGCCCTGGTTTTGCCATC
+ACCATCATTGCTCTCTGCTGCCTTCCCTTAGTGAGTCTGCTTCTCTCTGGAGTGGTGGCC
+TATTTCCGGGGCCGAGAACACAAGAAGCTACAAAAGAAACTCAAAGAGAGCGTGAAGAAG
+GAAGCAGCCAAAGATGGAGTGCCAGCGATGGAGTGGCCAGGCCCCAAGGAGAGGAGCAGT
+CCCATCATCATCCAGCTGCTGTCAGACAGGTGTCTGCAGGTCCTGAACAGGCATCTCACT
+GTGCTCCGTGTGGTCCAGCTGCAGCCTCTGCAGCAGGTCAACCTCATCCTGTCCAACAAC
+CGAGGATGCCGCACCCTGCTGCTCAAGATCCCTAAGGAGTATGACCTGGTGCTGCTGTTT
+AGTTCTGAAGAGGAACGGGGCGCCTTTGTGCAGCAGCTATGGGACTTCTGCGTGCGCTGG
+GCTCTGGGCCTCCATGTGGCTGAGATGAGCGAGAAGGAGCTATTTAGGAAGGCTGTGACA
+AAGCAGCAGCGGGAACGCATCCTGGAGATCTTCTTCAGACACCTTTTTGCTCAGGTGCTG
+GACATCAACCAGGCCGACGCAGGGACCCTGCCCCTGGACTCCTCCCAGAAGGTGCGGGAG
+GCCCTGACCTGCGAGCTGAGCAGGGCCGAGTTTGCCGAGTCCCTGGGCCTCAAGCCCCAG
+GACATGTTTGTGGAGTCCATGTTCTCTCTGGCTGACAAGGATGGCAATGGCTACCTGTCC
+TTCCGAGAGTTCCTGGACATCCTGGTGGTCTTCATGAAAGGCTCCCCAGAGGATAAGTCC
+CGTCTAATGTTTACCATGTATGACCTGGATGAGAATGGCTTCCTCTCCAAGGACGAATTC
+TTCACCATGATGCGATCCTTCATCGAGATCTCCAACAACTGCCTGTCCAAGGCCCAGCTG
+GCCGAGGTGGTGGAGTCTATGTTCCGGGAGTCGGGATTCCAGGACAAGGAGGAGCTGACA
+TGGGAGGATTTTCACTTCATGCTGCGGGACCATGACAGCGAGCTCCGCTTCACGCAGCTC
+TGTGTCAAAGGTGGAGGTGGAGGTGGAAATGGTATTAGAGATATCTTTAAACAAAACATC
+AGCTGTCGAGTCTCGTTCATCACTCGGACACCTGGGGAGCGCTCCCACCCCCAGGGACTG
+GGGCCCCCTGCCCCAGAAGCCCCAGAGCTGGGAGGCCCTGGACTGAAGAAGAGGTTTGGC
+AAAAAGGCAGCAGTGCCCACTCCCCGGCTGTACACAGAGGCGCTGCAAGAGAAGATGCAG
+CGAGGCTTCCTAGCCCAAAAGCTGCAGCAGTACAAGCGCTTCGTGGAGAACTACCGGAGG
+CACATCGTGTGTGTGGCAATCTTCTCGGCCATCTGTGTTGGCGTGTTTGCAGATCGTGCT
+TACTACTATGGCTTTGCCTCGCCACCCTCGGACATTGCACAGACCACCCTCGTGGGCATC
+ATCCTGTCACGAGGCACGGCGGCCAGCGTCTCCTTCATGTTCTCTTATATCTTGCTCACC
+ATGTGCCGCAACCTCATAACCTTCCTGCGAGAGACTTTCCTCAACCGCTATGTGCCTTTT
+GATGCCGCAGTGGACTTCCACCGCTGGATCGCCATGGCTGCTGTTGTCCTGGCCATTTTG
+CACAGTGCTGGCCACGCAGTCAATGTCTACATCTTCTCAGTCAGCCCACTCAGCCTGCTG
+GCCTGCATATTCCCCAACGTCTTTGTGAATGATGGGTCCAAGCTTCCCCAGAAGTTCTAT
+TGGTGGTTCTTCCAGACCGTCCCAGGTATGACAGGTGTGCTTCTGCTCCTGGTCCTGGCC
+ATCATGTATGTCTTCGCCTCCCACCACTTCCGCCGCCGCAGCTTCCGGGGCTTCTGGCTG
+ACCCACCACCTCTACATCCTGCTCTATGCCCTGCTCATCATCCATGGCAGCTATGCTCTG
+ATCCAGCTGCCCACTTTCCACATCTACTTCCTGGTCCCGGCAATCATCTATGGAGGTGAC
+AAGCTGGTGAGCCTGAGCCGGAAGAAGGTGGAGATCAGCGTGGTGAAGGCGGAGCTGCTG
+CCCTCAGGAGTGACCTACCTGCAATTCCAGAGGCCCCAAGGCTTTGAGTACAAGTCAGGA
+CAGTGGGTGCGGATCGCCTGCCTGGCTCTGGGGACCACCGAGTACCACCCCTTCACACTG
+ACCTCCGCGCCCCATGAGGACACACTCAGCCTGCACATCCGGGCAGTGGGGCCCTGGACC
+ACTCGCCTCAGGGAGATCTACTCATCCCCAAAGGGCAATGGCTGTGCTGGATACCCAAAG
+CTGTACCTTGATGGACCGTTTGGAGAGGGCCATCAGGAGTGGCATAAATTTGAGGTGTCA
+GTGTTGGTGGGAGGGGGCATTGGGGTCACCCCCTTTGCCTCCATCCTCAAAGACCTGGTC
+TTCAAGTCATCCTTGGGCAGCCAAATGCTGTGTAAGAAGATCTACTTCATCTGGGTGACA
+CGGACCCAGCGTCAGTTTGAGTGGCTGGCTGACATCATCCAAGAGGTGGAGGAGAACGAC
+CACCAGGACCTGGTGTCTGTGCACATTTATGTCACCCAGCTGGCTGAGAAGTTCGACCTC
+AGGACCACCATGCTATACATCTGCGAGCGGCACTTCCAGAAAGTGCTGAACCGGAGTCTG
+TTCACGGGCCTGCGCTCCATCACCCACTTTGGCCGTCCCCCCTTCGAGCCCTTCTTCAAC
+TCCCTGCAGGAGGTCCACCCACAGGTGCGCAAGATCGGGGTGTTCAGCTGCGGCCCTCCA
+GGAATGACCAAGAATGTAGAGAAGGCCTGTCAGCTCGTCAACAGGCAGGACCGAGCCCAC
+TTCATGCACCACTATGAGAACTTCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1548</residue_number>
+    <molecular_weight>175362.865</molecular_weight>
+    <theoretical_pi>7.854</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>An_peroxidase</name>
+        <pfam_id>PF03098</pfam_id>
+      </pfam>
+      <pfam>
+        <name>efhand</name>
+        <pfam_id>PF00036</pfam_id>
+      </pfam>
+      <pfam>
+        <name>FAD_binding_8</name>
+        <pfam_id>PF08022</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Ferric_reduct</name>
+        <pfam_id>PF01794</pfam_id>
+      </pfam>
+      <pfam>
+        <name>NAD_binding_6</name>
+        <pfam_id>PF08030</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Dual oxidase 2
+MLRARPEALMLLGALLTGSLGPSGNQDALSLPWEVQRYDGWFNNLRHHERGAVGCRLQRR
+VPANYADGVYQALEEPQLPNPRRLSNAATRGIAGLPSLHNRTVLGVFFGYHVLSDVVSVE
+TPGCPAEFLNIRIPPGDPVFDPDQRGDVVLPFQRSRWDPETGRSPSNPRDLANQVTGWLD
+GSAIYGSSHSWSDALRSFSGGQLASGPDPAFPRDSQNPLLMWAAPDPATGQNGPRGLYAF
+GAERGNREPFLQALGLLWFRYHNLWAQRLARQHPDWEDEELFQHARKRVIATYQNIAVYE
+WLPSFLQKTLPEYTGYRPFLDPSISPEFVVASEQFFSTMVPPGVYMRNASCHFRKVLNKG
+FQSSQALRVCNNYWIRENPNLNSTQEVNELLLGMASQISELEDNIVVEDLRDYWPGPGKF
+SRTDYVASSIQRGRDMGLPSYSQALLAFGLDIPRNWSDLNPNVDPQVLEATAALYNQDLS
+QLELLLGGLLESHGDPGPLFSAIVLDQFVRLRDGDRYWFENTRNGLFSKKEIEDIRNTTL
+RDVLVAVINIDPSALQPNVFVWHKGAPCPQPKQLTTDGLPQCAPLTVLDFFEGSSPGFAI
+TIIALCCLPLVSLLLSGVVAYFRGREHKKLQKKLKESVKKEAAKDGVPAMEWPGPKERSS
+PIIIQLLSDRCLQVLNRHLTVLRVVQLQPLQQVNLILSNNRGCRTLLLKIPKEYDLVLLF
+SSEEERGAFVQQLWDFCVRWALGLHVAEMSEKELFRKAVTKQQRERILEIFFRHLFAQVL
+DINQADAGTLPLDSSQKVREALTCELSRAEFAESLGLKPQDMFVESMFSLADKDGNGYLS
+FREFLDILVVFMKGSPEDKSRLMFTMYDLDENGFLSKDEFFTMMRSFIEISNNCLSKAQL
+AEVVESMFRESGFQDKEELTWEDFHFMLRDHDSELRFTQLCVKGGGGGGNGIRDIFKQNI
+SCRVSFITRTPGERSHPQGLGPPAPEAPELGGPGLKKRFGKKAAVPTPRLYTEALQEKMQ
+RGFLAQKLQQYKRFVENYRRHIVCVAIFSAICVGVFADRAYYYGFASPPSDIAQTTLVGI
+ILSRGTAASVSFMFSYILLTMCRNLITFLRETFLNRYVPFDAAVDFHRWIAMAAVVLAIL
+HSAGHAVNVYIFSVSPLSLLACIFPNVFVNDGSKLPQKFYWWFFQTVPGMTGVLLLLVLA
+IMYVFASHHFRRRSFRGFWLTHHLYILLYALLIIHGSYALIQLPTFHIYFLVPAIIYGGD
+KLVSLSRKKVEISVVKAELLPSGVTYLQFQRPQGFEYKSGQWVRIACLALGTTEYHPFTL
+TSAPHEDTLSLHIRAVGPWTTRLREIYSSPKGNGCAGYPKLYLDGPFGEGHQEWHKFEVS
+VLVGGGIGVTPFASILKDLVFKSSLGSQMLCKKIYFIWVTRTQRQFEWLADIIQEVEEND
+HQDLVSVHIYVTQLAEKFDLRTTMLYICERHFQKVLNRSLFTGLRSITHFGRPPFEPFFN
+SLQEVHPQVRKIGVFSCGPPGMTKNVEKACQLVNRQDRAHFMHHYENF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>132566532</genbank_protein_id>
+  <uniprot_id>Q9NRD8</uniprot_id>
+  <uniprot_name>DUOX2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_014080.4</genbank_gene_id>
+  <genecard_id>DUOX2</genecard_id>
+  <geneatlas_id>DUOX2</geneatlas_id>
+  <hgnc_id>HGNC:13273</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>De Deken X, Wang D, Many MC, Costagliola S, Libert F, Vassart G, Dumont JE, Miot F: Cloning of two human thyroid cDNAs encoding new members of the NADPH oxidase family. J Biol Chem. 2000 Jul 28;275(30):23227-33.</reference_text>
+      <pubmed_id>10806195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Edens WA, Sharling L, Cheng G, Shapira R, Kinkade JM, Lee T, Edens HA, Tang X, Sullards C, Flaherty DB, Benian GM, Lambeth JD: Tyrosine cross-linking of extracellular matrix is catalyzed by Duox, a multidomain oxidase/peroxidase with homology to the phagocyte oxidase subunit gp91phox. J Cell Biol. 2001 Aug 20;154(4):879-91.</reference_text>
+      <pubmed_id>11514595</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zody MC, Garber M, Sharpe T, Young SK, Rowen L, O'Neill K, Whittaker CA, Kamal M, Chang JL, Cuomo CA, Dewar K, FitzGerald MG, Kodira CD, Madan A, Qin S, Yang X, Abbasi N, Abouelleil A, Arachchi HM, Baradarani L, Birditt B, Bloom S, Bloom T, Borowsky ML, Burke J, Butler J, Cook A, DeArellano K, DeCaprio D, Dorris L 3rd, Dors M, Eichler EE, Engels R, Fahey J, Fleetwood P, Friedman C, Gearin G, Hall JL, Hensley G, Johnson E, Jones C, Kamat A, Kaur A, Locke DP, Madan A, Munson G, Jaffe DB, Lui A, Macdonald P, Mauceli E, Naylor JW, Nesbitt R, Nicol R, O'Leary SB, Ratcliffe A, Rounsley S, She X, Sneddon KM, Stewart S, Sougnez C, Stone SM, Topham K, Vincent D, Wang S, Zimmer AR, Birren BW, Hood L, Lander ES, Nusbaum C: Analysis of the DNA sequence and duplication history of human chromosome 15. Nature. 2006 Mar 30;440(7084):671-5.</reference_text>
+      <pubmed_id>16572171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dupuy C, Ohayon R, Valent A, Noel-Hudson MS, Deme D, Virion A: Purification of a novel flavoprotein involved in the thyroid NADPH oxidase. Cloning of the porcine and human cdnas. J Biol Chem. 1999 Dec 24;274(52):37265-9.</reference_text>
+      <pubmed_id>10601291</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Deken X, Wang D, Dumont JE, Miot F: Characterization of ThOX proteins as components of the thyroid H(2)O(2)-generating system. Exp Cell Res. 2002 Feb 15;273(2):187-96.</reference_text>
+      <pubmed_id>11822874</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moreno JC, Bikker H, Kempers MJ, van Trotsenburg AS, Baas F, de Vijlder JJ, Vulsma T, Ris-Stalpers C: Inactivating mutations in the gene for thyroid oxidase 2 (THOX2) and congenital hypothyroidism. N Engl J Med. 2002 Jul 11;347(2):95-102.</reference_text>
+      <pubmed_id>12110737</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Geiszt M, Witta J, Baffi J, Lekstrom K, Leto TL: Dual oxidases represent novel hydrogen peroxide sources supporting mucosal surface host defense. FASEB J. 2003 Aug;17(11):1502-4. Epub 2003 Jun 3.</reference_text>
+      <pubmed_id>12824283</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schwarzer C, Machen TE, Illek B, Fischer H: NADPH oxidase-dependent acid production in airway epithelial cells.  J Biol Chem. 2004 Aug 27;279(35):36454-61. Epub 2004 Jun 21.</reference_text>
+      <pubmed_id>15210697</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>El Hassani RA, Benfares N, Caillou B, Talbot M, Sabourin JC, Belotte V, Morand S, Gnidehou S, Agnandji D, Ohayon R, Kaniewski J, Noel-Hudson MS, Bidart JM, Schlumberger M, Virion A, Dupuy C: Dual oxidase2 is expressed all along the digestive tract.  Am J Physiol Gastrointest Liver Physiol. 2005 May;288(5):G933-42. Epub       2004 Dec 9.</reference_text>
+      <pubmed_id>15591162</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang D, De Deken X, Milenkovic M, Song Y, Pirson I, Dumont JE, Miot F: Identification of a novel partner of duox: EFP1, a thioredoxin-related protein. J Biol Chem. 2005 Jan 28;280(4):3096-103. Epub 2004 Nov 22.</reference_text>
+      <pubmed_id>15561711</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ameziane-El-Hassani R, Morand S, Boucher JL, Frapart YM, Apostolou D, Agnandji D, Gnidehou S, Ohayon R, Noel-Hudson MS, Francon J, Lalaoui K, Virion A, Dupuy C: Dual oxidase-2 has an intrinsic Ca2+-dependent H2O2-generating activity.  J Biol Chem. 2005 Aug 26;280(34):30046-54. Epub 2005 Jun 22.</reference_text>
+      <pubmed_id>15972824</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vigone MC, Fugazzola L, Zamproni I, Passoni A, Di Candia S, Chiumello G, Persani L, Weber G: Persistent mild hypothyroidism associated with novel sequence variants of the DUOX2 gene in two siblings. Hum Mutat. 2005 Oct;26(4):395.</reference_text>
+      <pubmed_id>16134168</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Varela V, Rivolta CM, Esperante SA, Gruneiro-Papendieck L, Chiesa A, Targovnik HM: Three mutations (p.Q36H, p.G418fsX482, and g.IVS19-2A&amp;gt;C) in the dual oxidase 2 gene responsible for congenital goiter and iodide organification defect. Clin Chem. 2006 Feb;52(2):182-91. Epub 2005 Dec 1.</reference_text>
+      <pubmed_id>16322276</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

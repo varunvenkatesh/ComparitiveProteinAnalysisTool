@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:55:17 -0700</creation_date>
+  <update_date>2013-01-15 18:55:17 -0700</update_date>
+  <accession>HMDBP01308</accession>
+  <secondary_accessions>
+    <accession>6604</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Ataxia telangiectasia and Rad3-related protein</synonym>
+    <synonym>FRAP-related protein 1</synonym>
+  </synonyms>
+  <gene_name>ATR</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Serine/threonine protein kinase which activates checkpoint signaling upon genotoxic stresses such as ionizing radiation (IR), ultraviolet light (UV), or DNA replication stalling, thereby acting as a DNA damage sensor. Recognizes the substrate consensus sequence [ST]-Q. Phosphorylates BRCA1, CHEK1, MCM2, RAD17, RPA2, SMC1 and TP53/p53, which collectively inhibit DNA replication and mitosis and promote DNA repair, recombination and apoptosis. Phosphorylates 'Ser-139' of histone variant H2AX/H2AFX at sites of DNA damage, thereby regulating DNA damage response mechanism. Required for FANCD2 ubiquitination. Critical for maintenance of fragile site stability and efficient regulation of centrosome duplication</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein serine/threonine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>PML body</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:3</chromosome_location>
+    <locus>3q22-q24</locus>
+    <gene_sequence>&gt;7935 bp
+ATGGGGGAACATGGCCTGGAGCTGGCTTCCATGATCCCCGCCCTGCGGGAGCTGGGCAGT
+GCCACACCAGAGGAATATAATACAGTTGTACAGAAGCCAAGACAAATTCTGTGTCAATTC
+ATTGACCGGATACTTACAGATGTAAATGTTGTTGCTGTAGAACTTGTAAAGAAAACTGAC
+TCTCAGCCAACCTCCGTGATGTTGCTTGATTTCATCCAGCATATCATGAAATCCTCCCCA
+CTTATGTTTGTAAATGTGAGTGGAAGCCATGAGGCCAAAGGCAGTTGTATTGAATTCAGT
+AATTGGATCATAACGAGACTTCTGCGGATTGCAGCAACTCCCTCCTGTCATTTGTTACAC
+AAGAAAATCTGTGAAGTCATCTGTTCATTATTATTTCTTTTTAAAAGCAAGAGTCCTGCT
+ATTTTTGGGGTACTCACAAAAGAATTATTACAACTTTTTGAAGACTTGGTTTACCTCCAT
+AGAAGAAATGTGATGGGTCATGCTGTGGAATGGCCAGTGGTCATGAGCCGATTTTTAAGT
+CAATTAGATGAACACATGGGATATTTACAATCAGCTCCTTTGCAGTTGATGAGTATGCAA
+AATTTAGAATTTATTGAAGTCACTTTATTAATGGTTCTTACTCGTATTATTGCAATTGTG
+TTTTTTAGAAGGCAAGAACTCTTACTTTGGCAGATAGGTTGTGTTCTGCTAGAGTATGGT
+AGTCCAAAAATTAAATCCCTAGCAATTAGCTTTTTAACAGAACTTTTTCAGCTTGGAGGA
+CTACCAGCACAACCAGCTAGCACTTTTTTCAGCTCATTTTTGGAATTATTAAAACACCTT
+GTAGAAATGGATACTGACCAATTGAAACTCTATGAAGAGCCATTATCAAAGCTGATAAAG
+ACACTATTTCCCTTTGAAGCAGAAGCTTATAGAAATATTGAACCTGTCTATTTAAATATG
+CTGCTGGAAAAACTCTGTGTCATGTTTGAAGACGGTGTGCTCATGCGGCTTAAGTCTGAT
+TTGCTAAAAGCAGCTTTGTGCCATTTACTGCAGTATTTCCTTAAATTTGTGCCAGCTGGG
+TATGAATCTGCTTTACAAGTCAGGAAGGTCTATGTGAGAAATATTTGTAAAGCTCTTTTG
+GATGTGCTTGGAATTGAGGTAGATGCAGAGTACTTGTTGGGCCCACTTTATGCAGCTTTG
+AAAATGGAAAGTATGGAAATCATTGAGGAGATTCAATGCCAAACTCAACAGGAAAACCTC
+AGCAGTAATAGTGATGGAATATCACCCAAAAGGCGTCGTCTCAGCTCGTCTCTAAACCCT
+TCTAAAAGAGCACCAAAACAGACTGAGGAAATTAAACATGTGGACATGAACCAAAAGAGC
+ATATTATGGAGTGCACTGAAACAGAAAGCTGAATCCCTTCAGATTTCCCTTGAATACAGT
+GGCCTAAAGAATCCTGTTATTGAGATGTTAGAAGGAATTGCTGTTGTCTTACAACTGACT
+GCTCTGTGTACTGTTCATTGTTCTCATCAAAACATGAACTGCCGTACTTTCAAGGACTGT
+CAACATAAATCCAAGAAGAAACCTTCTGTAGTGATAACTTGGATGTCATTGGATTTTTAC
+ACAAAAGTGCTTAAGAGCTGTAGAAGTTTGTTAGAATCTGTTCAGAAACTGGACCTGGAG
+GCAACCATTGATAAGGTGGTGAAAATTTATGATGCTTTGATTTATATGCAAGTAAACAGT
+TCATTTGAAGATCATATCCTGGAAGATTTATGTGGTATGCTCTCACTTCCATGGATTTAT
+TCCCATTCTGATGATGGCTGTTTAAAGTTGACCACATTTGCCGCTAATCTTCTAACATTA
+AGCTGTAGGATTTCAGATAGCTATTCACCACAGGCACAATCACGATGTGTGTTTCTTCTG
+ACTCTGTTTCCAAGAAGAATATTCCTTGAGTGGAGAACAGCAGTTTACAACTGGGCCCTG
+CAGAGCTCCCATGAAGTAATCCGGGCTAGTTGTGTTAGTGGATTTTTTATCTTATTGCAG
+CAGCAGAATTCTTGTAACAGAGTTCCCAAGATTCTTATAGATAAAGTCAAAGATGATTCT
+GACATTGTCAAGAAAGAATTTGCTTCTATACTTGGTCAACTTGTCTGTACTCTTCACGGC
+ATGTTTTATCTGACAAGTTCTTTAACAGAACCTTTCTCTGAACACGGACATGTGGACCTC
+TTCTGTAGGAACTTGAAAGCCACTTCTCAACATGAATGTTCATCTTCTCAACTAAAAGCT
+TCTGTCTGCAAGCCATTCCTTTTCCTACTGAAAAAAAAAATACCTAGTCCAGTAAAACTT
+GCTTTCATAGATAATCTACATCATCTTTGTAAGCATCTTGATTTTAGAGAAGATGAAACA
+GATGTAAAAGCAGTTCTTGGAACTTTATTAAATTTAATGGAAGATCCAGACAAAGATGTT
+AGAGTGGCTTTTAGTGGAAATATCAAGCACATATTGGAATCCTTGGACTCTGAAGATGGA
+TTTATAAAGGAGCTTTTTGTCTTAAGAATGAAGGAAGCATATACACATGCCCAAATATCA
+AGAAATAATGAGCTGAAGGATACCTTGATTCTTACAACAGGGGATATTGGAAGGGCCGCA
+AAAGGAGATTTGGTACCATTTGCACTCTTACACTTATTGCATTGTTTGTTATCCAAGTCA
+GCATCTGTCTCTGGAGCAGCATACACAGAAATTAGAGCTCTGGTTGCAGCTAAAAGTGTT
+AAACTGCAAAGTTTTTTCAGCCAGTATAAGAAACCCATCTGTCAGTTTTTGGTAGAATCC
+CTTCACTCTAGTCAGATGACAGCACTTCCGAATACTCCATGCCAGAATGCTGACGTGCGA
+AAACAAGATGTGGCTCACCAGAGAGAAATGGCTTTAAATACGTTGTCTGAAATTGCCAAC
+GTTTTCGACTTTCCTGATCTTAATCGTTTTCTTACTAGGACATTACAAGTTCTACTACCT
+GATCTTGCTGCCAAAGCAAGCCCTGCAGCTTCTGCTCTCATTCGAACTTTAGGAAAACAA
+TTAAATGTCAATCGTAGAGAGATTTTAATAAACAACTTCAAATATATTTTTTCTCATTTG
+GTCTGTTCTTGTTCCAAAGATGAATTAGAACGTGCCCTTCATTATCTGAAGAATGAAACA
+GAAATTGAACTGGGGAGCCTGTTGAGACAAGATTTCCAAGGATTGCATAATGAATTATTG
+CTGCGTATTGGAGAACACTATCAACAGGTTTTTAATGGTTTGTCAATACTTGCCTCATTT
+GCATCCAGTGATGATCCATATCAGGGCCCGAGAGATATCATATCACCTGAACTGATGGCT
+GATTATTTACAACCCAAATTGTTGGGCATTTTGGCTTTTTTTAACATGCAGTTACTGAGC
+TCTAGTGTTGGCATTGAAGATAAGAAAATGGCCTTGAACAGTTTGATGTCTTTGATGAAG
+TTAATGGGACCCAAACATGTCAGTTCTGTGAGGGTGAAGATGATGACCACACTGAGAACT
+GGCCTTCGATTCAAGGATGATTTTCCTGAATTGTGTTGCAGAGCTTGGGACTGCTTTGTT
+CGCTGCCTGGATCATGCTTGTCTGGGCTCCCTTCTCAGTCATGTAATAGTAGCTTTGTTA
+CCTCTTATACACATCCAGCCTAAAGAAACTGCAGCTATCTTCCACTACCTCATAATTGAA
+AACAGGGATGCTGTGCAAGATTTTCTTCATGAAATATATTTTTTACCTGATCATCCAGAA
+TTAAAAAAGATAAAAGCCGTTCTCCAGGAATACAGAAAGGAGACCTCTGAGAGCACTGAT
+CTTCAGACAACTCTTCAGCTCTCTATGAAGGCCATTCAACATGAAAATGTCGATGTTCGT
+ATTCATGCTCTTACAAGCTTGAAGGAAACCTTGTATAAAAATCAGGAAAAACTGATAAAG
+TATGCAACAGACAGTGAAACAGTAGAACCTATTATCTCACAGTTGGTGACAGTGCTTTTG
+AAAGGTTGCCAAGATGCAAACTCTCAAGCTCGGTTGCTCTGTGGGGAATGTTTAGGGGAA
+TTGGGGGCGATAGATCCAGGTCGATTAGATTTCTCAACAACTGAAACTCAAGGAAAAGAT
+TTTACATTTGTGACTGGAGTAGAAGATTCAAGCTTTGCCTATGGATTATTGATGGAGCTA
+ACAAGAGCTTACCTTGCGTATGCTGATAATAGCCGAGCTCAAGATTCAGCTGCCTATGCC
+ATTCAGGAGTTGCTTTCTATTTATGACTGTAGAGAGATGGAGACCAACGGCCCAGGTCAC
+CAATTGTGGAGGAGATTTCCTGAGCATGTTCGGGAAATACTAGAACCTCATCTAAATACC
+AGATACAAGAGTTCTCAGAAGTCAACCGATTGGTCTGGAGTAAAGAAGCCAATTTACTTA
+AGTAAATTGGGTAGTAACTTTGCAGAATGGTCAGCATCTTGGGCAGGTTATCTTATTACA
+AAGGTTCGACATGATCTTGCCAGTAAAATTTTCACCTGCTGTAGCATTATGATGAAGCAT
+GATTTCAAAGTGACCATCTATCTTCTTCCACATATTCTGGTGTATGTCTTACTGGGTTGT
+AATCAAGAAGATCAGCAGGAGGTTTATGCAGAAATTATGGCAGTTCTAAAGCATGACGAT
+CAGCATACCATAAATACCCAAGACATTGCATCTGATCTGTGTCAACTCAGTACACAGACT
+GTGTTCTCCATGCTTGACCATCTCACACAGTGGGCAAGGCACAAATTTCAGGCACTGAAA
+GCTGAGAAATGTCCACACAGCAAATCAAACAGAAATAAGGTAGACTCAATGGTATCTACT
+GTGGATTATGAAGACTATCAGAGTGTAACCCGTTTTCTAGACCTCATACCCCAGGATACT
+CTGGCAGTAGCTTCCTTTCGCTCCAAAGCATACACACGAGCTGTAATGCACTTTGAATCA
+TTTATTACAGAAAAGAAGCAAAATATTCAGGAACATCTTGGATTTTTACAGAAATTGTAT
+GCTGCTATGCATGAACCTGATGGAGTGGCCGGAGTCAGTGCAATTAGAAAGGCAGAACCA
+TCTCTAAAAGAACAGATCCTTGAACATGAAAGCCTTGGCTTGCTGAGGGATGCCACTGCT
+TGTTATGACAGGGCTATTCAGCTAGAACCAGACCAGATCATTCATTATCATGGTGTAGTA
+AAGTCCATGTTAGGTCTTGGTCAGCTGTCTACTGTTATCACTCAGGTGAATGGAGTGCAT
+GCTAACAGGTCCGAGTGGACAGATGAATTAAACACGTACAGAGTGGAAGCAGCTTGGAAA
+TTGTCACAGTGGGATTTGGTGGAAAACTATTTGGCAGCAGATGGAAAATCTACAACATGG
+AGTGTCAGACTGGGACAGCTATTATTATCAGCCAAAAAAAGAGATATCACAGCTTTTTAT
+GACTCACTGAAACTAGTGAGAGCAGAACAAATTGTACCTCTTTCAGCTGCAAGCTTTGAA
+AGAGGCTCCTACCAACGAGGATATGAATATATTGTGAGATTGCACATGTTATGTGAGTTG
+GAGCATAGCATCAAACCACTTTTCCAGCATTCTCCAGGTGACAGTTCTCAAGAAGATTCT
+CTAAACTGGGTAGCTCGACTAGAAATGACCCAGAATTCCTACAGAGCCAAGGAGCCTATC
+CTGGCTCTCCGGAGGGCTTTACTAAGCCTCAACAAAAGACCAGATTACAATGAAATGGTT
+GGAGAATGCTGGCTGCAGAGTGCCAGGGTAGCTAGAAAGGCTGGTCACCACCAGACAGCC
+TACAATGCTCTCCTTAATGCAGGGGAATCACGACTCGCTGAACTGTACGTGGAAAGGGCA
+AAGTGGCTCTGGTCCAAGGGTGATGTTCACCAGGCACTAATTGTTCTTCAAAAAGGTGTT
+GAATTATGTTTTCCTGAAAATGAAACCCCACCTGAGGGTAAGAACATGTTAATCCATGGT
+CGAGCTATGCTACTAGTGGGCCGATTTATGGAAGAAACAGCTAACTTTGAAAGCAATGCA
+ATTATGAAAAAATATAAGGATGTGACCGCGTGCCTGCCAGAATGGGAGGATGGGCATTTT
+TACCTTGCCAAGTACTATGACAAATTGATGCCCATGGTCACAGACAACAAAATGGAAAAG
+CAAGGTGATCTCATCCGGTATATAGTTCTTCATTTTGGCAGATCTCTACAATATGGAAAT
+CAGTTCATATATCAGTCAATGCCACGAATGTTAACTCTATGGCTTGATTATGGTACAAAG
+GCATATGAATGGGAAAAAGCTGGCCGCTCCGATCGTGTACAAATGAGGAATGATTTGGGT
+AAAATAAACAAGGTTATCACAGAGCATACAAACTATTTAGCTCCATATCAATTTTTGACT
+GCTTTTTCACAATTGATCTCTCGAATTTGTCATTCTCACGATGAAGTTTTTGTTGTCTTG
+ATGGAAATAATAGCCAAAGTATTTCTAGCCTATCCTCAACAAGCAATGTGGATGATGACA
+GCTGTGTCAAAGTCATCTTATCCCATGCGTGTGAACAGATGCAAGGAAATCCTCAATAAA
+GCTATTCATATGAAAAAATCCTTAGAGAAGTTTGTTGGAGATGCAACTCGCCTAACAGAT
+AAGCTTCTAGAATTGTGCAATAAACCGGTTGATGGAAGTAGTTCCACATTAAGCATGAGC
+ACTCATTTTAAAATGCTTAAAAAGCTGGTAGAAGAAGCAACATTTAGTGAAATCCTCATT
+CCTCTACAATCAGTCATGATACCTACACTTCCATCAATTCTGGGTACCCATGCTAACCAT
+GCTAGCCATGAACCATTTCCTGGACATTGGGCCTATATTGCAGGGTTTGATGATATGGTG
+GAAATTCTTGCTTCTCTTCAGAAACCAAAGAAGATTTCTTTAAAAGGCTCAGATGGAAAG
+TTCTACATCATGATGTGTAAGCCAAAAGATGACCTGAGAAAGGATTGTAGACTAATGGAA
+TTCAATTCCTTGATTAATAAGTGCTTAAGAAAAGATGCAGAGTCTCGTAGAAGAGAACTT
+CATATTCGAACATATGCAGTTATTCCACTAAATGATGAATGTGGGATTATTGAATGGGTG
+AACAACACTGCTGGTTTGAGACCTATTCTGACCAAACTATATAAAGAAAAGGGAGTGTAT
+ATGACAGGAAAAGAACTTCGCCAGTGTATGCTACCAAAGTCAGCAGCTTTATCTGAAAAA
+CTCAAAGTATTCCGAGAATTTCTCCTGCCCAGGCATCCTCCTATTTTTCATGAGTGGTTT
+CTGAGAACATTCCCTGATCCTACATCATGGTACAGTAGTAGATCAGCTTACTGCCGTTCC
+ACTGCAGTAATGTCAATGGTTGGTTATATTCTGGGGCTTGGAGACCGTCATGGTGAAAAT
+ATTCTCTTTGATTCTTTGACTGGTGAATGCGTACATGTAGATTTCAATTGTCTTTTCAAT
+AAGGGAGAAACCTTTGAAGTTCCAGAAATTGTGCCATTTCGCCTGACTCATAATATGGTT
+AATGGAATGGGTCCTATGGGAACAGAGGGTCTTTTTCGAAGAGCATGTGAAGTTACAATG
+AGGCTGATGCGTGATCAGCGAGAGCCTTTAATGAGTGTCTTAAAGACTTTTCTACATGAT
+CCTCTTGTGGAATGGAGTAAACCAGTGAAAGGGCATTCCAAAGCGCCACTGAATGAAACT
+GGAGAAGTTGTCAATGAAAAGGCCAAGACCCATGTTCTTGACATTGAGCAGCGACTACAA
+GGTGTAATCAAGACTCGAAATAGAGTGACAGGACTGCCGTTATCTATTGAAGGACATGTG
+CATTACCTTATACAGGAAGCTACTGATGAAAACTTACTATGCCAGATGTATCTTGGTTGG
+ACTCCATATATGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2644</residue_number>
+    <molecular_weight>301363.7</molecular_weight>
+    <theoretical_pi>7.44</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAT</name>
+        <pfam_id>PF02259</pfam_id>
+      </pfam>
+      <pfam>
+        <name>FATC</name>
+        <pfam_id>PF02260</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PI3_PI4_kinase</name>
+        <pfam_id>PF00454</pfam_id>
+      </pfam>
+      <pfam>
+        <name>UME</name>
+        <pfam_id>PF08064</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Serine/threonine-protein kinase ATR
+MGEHGLELASMIPALRELGSATPEEYNTVVQKPRQILCQFIDRILTDVNVVAVELVKKTD
+SQPTSVMLLDFIQHIMKSSPLMFVNVSGSHEAKGSCIEFSNWIITRLLRIAATPSCHLLH
+KKICEVICSLLFLFKSKSPAIFGVLTKELLQLFEDLVYLHRRNVMGHAVEWPVVMSRFLS
+QLDEHMGYLQSAPLQLMSMQNLEFIEVTLLMVLTRIIAIVFFRRQELLLWQIGCVLLEYG
+SPKIKSLAISFLTELFQLGGLPAQPASTFFSSFLELLKHLVEMDTDQLKLYEEPLSKLIK
+TLFPFEAEAYRNIEPVYLNMLLEKLCVMFEDGVLMRLKSDLLKAALCHLLQYFLKFVPAG
+YESALQVRKVYVRNICKALLDVLGIEVDAEYLLGPLYAALKMESMEIIEEIQCQTQQENL
+SSNSDGISPKRRRLSSSLNPSKRAPKQTEEIKHVDMNQKSILWSALKQKAESLQISLEYS
+GLKNPVIEMLEGIAVVLQLTALCTVHCSHQNMNCRTFKDCQHKSKKKPSVVITWMSLDFY
+TKVLKSCRSLLESVQKLDLEATIDKVVKIYDALIYMQVNSSFEDHILEDLCGMLSLPWIY
+SHSDDGCLKLTTFAANLLTLSCRISDSYSPQAQSRCVFLLTLFPRRIFLEWRTAVYNWAL
+QSSHEVIRASCVSGFFILLQQQNSCNRVPKILIDKVKDDSDIVKKEFASILGQLVCTLHG
+MFYLTSSLTEPFSEHGHVDLFCRNLKATSQHECSSSQLKASVCKPFLFLLKKKIPSPVKL
+AFIDNLHHLCKHLDFREDETDVKAVLGTLLNLMEDPDKDVRVAFSGNIKHILESLDSEDG
+FIKELFVLRMKEAYTHAQISRNNELKDTLILTTGDIGRAAKGDLVPFALLHLLHCLLSKS
+ASVSGAAYTEIRALVAAKSVKLQSFFSQYKKPICQFLVESLHSSQMTALPNTPCQNADVR
+KQDVAHQREMALNTLSEIANVFDFPDLNRFLTRTLQVLLPDLAAKASPAASALIRTLGKQ
+LNVNRREILINNFKYIFSHLVCSCSKDELERALHYLKNETEIELGSLLRQDFQGLHNELL
+LRIGEHYQQVFNGLSILASFASSDDPYQGPRDIISPELMADYLQPKLLGILAFFNMQLLS
+SSVGIEDKKMALNSLMSLMKLMGPKHVSSVRVKMMTTLRTGLRFKDDFPELCCRAWDCFV
+RCLDHACLGSLLSHVIVALLPLIHIQPKETAAIFHYLIIENRDAVQDFLHEIYFLPDHPE
+LKKIKAVLQEYRKETSESTDLQTTLQLSMKAIQHENVDVRIHALTSLKETLYKNQEKLIK
+YATDSETVEPIISQLVTVLLKGCQDANSQARLLCGECLGELGAIDPGRLDFSTTETQGKD
+FTFVTGVEDSSFAYGLLMELTRAYLAYADNSRAQDSAAYAIQELLSIYDCREMETNGPGH
+QLWRRFPEHVREILEPHLNTRYKSSQKSTDWSGVKKPIYLSKLGSNFAEWSASWAGYLIT
+KVRHDLASKIFTCCSIMMKHDFKVTIYLLPHILVYVLLGCNQEDQQEVYAEIMAVLKHDD
+QHTINTQDIASDLCQLSTQTVFSMLDHLTQWARHKFQALKAEKCPHSKSNRNKVDSMVST
+VDYEDYQSVTRFLDLIPQDTLAVASFRSKAYTRAVMHFESFITEKKQNIQEHLGFLQKLY
+AAMHEPDGVAGVSAIRKAEPSLKEQILEHESLGLLRDATACYDRAIQLEPDQIIHYHGVV
+KSMLGLGQLSTVITQVNGVHANRSEWTDELNTYRVEAAWKLSQWDLVENYLAADGKSTTW
+SVRLGQLLLSAKKRDITAFYDSLKLVRAEQIVPLSAASFERGSYQRGYEYIVRLHMLCEL
+EHSIKPLFQHSPGDSSQEDSLNWVARLEMTQNSYRAKEPILALRRALLSLNKRPDYNEMV
+GECWLQSARVARKAGHHQTAYNALLNAGESRLAELYVERAKWLWSKGDVHQALIVLQKGV
+ELCFPENETPPEGKNMLIHGRAMLLVGRFMEETANFESNAIMKKYKDVTACLPEWEDGHF
+YLAKYYDKLMPMVTDNKMEKQGDLIRYIVLHFGRSLQYGNQFIYQSMPRMLTLWLDYGTK
+AYEWEKAGRSDRVQMRNDLGKINKVITEHTNYLAPYQFLTAFSQLISRICHSHDEVFVVL
+MEIIAKVFLAYPQQAMWMMTAVSKSSYPMRVNRCKEILNKAIHMKKSLEKFVGDATRLTD
+KLLELCNKPVDGSSSTLSMSTHFKMLKKLVEEATFSEILIPLQSVMIPTLPSILGTHANH
+ASHEPFPGHWAYIAGFDDMVEILASLQKPKKISLKGSDGKFYIMMCKPKDDLRKDCRLME
+FNSLINKCLRKDAESRRRELHIRTYAVIPLNDECGIIEWVNNTAGLRPILTKLYKEKGVY
+MTGKELRQCMLPKSAALSEKLKVFREFLLPRHPPIFHEWFLRTFPDPTSWYSSRSAYCRS
+TAVMSMVGYILGLGDRHGENILFDSLTGECVHVDFNCLFNKGETFEVPEIVPFRLTHNMV
+NGMGPMGTEGLFRRACEVTMRLMRDQREPLMSVLKTFLHDPLVEWSKPVKGHSKAPLNET
+GEVVNEKAKTHVLDIEQRLQGVIKTRNRVTGLPLSIEGHVHYLIQEATDENLLCQMYLGW
+TPYM</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>157266317</genbank_protein_id>
+  <uniprot_id>Q13535</uniprot_id>
+  <uniprot_name>ATR_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_001184.3</genbank_gene_id>
+  <genecard_id>ATR</genecard_id>
+  <geneatlas_id>ATR</geneatlas_id>
+  <hgnc_id>HGNC:882</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Bentley NJ, Holtzman DA, Flaggs G, Keegan KS, DeMaggio A, Ford JC, Hoekstra M, Carr AM: The Schizosaccharomyces pombe rad3 checkpoint gene.  EMBO J. 1996 Dec 2;15(23):6641-51.</reference_text>
+      <pubmed_id>8978690</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cimprich KA, Shin TB, Keith CT, Schreiber SL: cDNA cloning and gene mapping of a candidate human cell cycle checkpoint protein. Proc Natl Acad Sci U S A. 1996 Apr 2;93(7):2850-5.</reference_text>
+      <pubmed_id>8610130</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mannino JL, Kim W, Wernick M, Nguyen SV, Braquet R, Adamson AW, Den Z, Batzer MA, Collins CC, Brown KD: Evidence for alternate splicing within the mRNA transcript encoding the DNA damage response kinase ATR. Gene. 2001 Jul 11;272(1-2):35-43.</reference_text>
+      <pubmed_id>11470508</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Keegan KS, Holtzman DA, Plug AW, Christenson ER, Brainerd EE, Flaggs G, Bentley NJ, Taylor EM, Meyn MS, Moss SB, Carr AM, Ashley T, Hoekstra MF: The Atr and Atm protein kinases associate with different sites along meiotically pairing chromosomes. Genes Dev. 1996 Oct 1;10(19):2423-37.</reference_text>
+      <pubmed_id>8843195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarkaria JN, Tibbetts RS, Busby EC, Kennedy AP, Hill DE, Abraham RT: Inhibition of phosphoinositide 3-kinase related kinases by the radiosensitizing agent wortmannin. Cancer Res. 1998 Oct 1;58(19):4375-82.</reference_text>
+      <pubmed_id>9766667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cliby WA, Roberts CJ, Cimprich KA, Stringer CM, Lamb JR, Schreiber SL, Friend SH: Overexpression of a kinase-inactive ATR protein causes sensitivity to DNA-damaging agents and defects in cell cycle checkpoints. EMBO J. 1998 Jan 2;17(1):159-69.</reference_text>
+      <pubmed_id>9427750</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wright JA, Keegan KS, Herendeen DR, Bentley NJ, Carr AM, Hoekstra MF, Concannon P: Protein kinase mutants of human ATR increase sensitivity to UV and ionizing radiation and abrogate cell cycle checkpoint control. Proc Natl Acad Sci U S A. 1998 Jun 23;95(13):7445-50.</reference_text>
+      <pubmed_id>9636169</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schmidt DR, Schreiber SL: Molecular association between ATR and two components of the nucleosome remodeling and deacetylating complex, HDAC2 and CHD4. Biochemistry. 1999 Nov 2;38(44):14711-7.</reference_text>
+      <pubmed_id>10545197</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tibbetts RS, Brumbaugh KM, Williams JM, Sarkaria JN, Cliby WA, Shieh SY, Taya Y, Prives C, Abraham RT: A role for ATR in the DNA damage-induced phosphorylation of p53.  Genes Dev. 1999 Jan 15;13(2):152-7.</reference_text>
+      <pubmed_id>9925639</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim ST, Lim DS, Canman CE, Kastan MB: Substrate specificities and identification of putative substrates of ATM kinase family members. J Biol Chem. 1999 Dec 31;274(53):37538-43.</reference_text>
+      <pubmed_id>10608806</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hall-Jackson CA, Cross DA, Morrice N, Smythe C: ATR is a caffeine-sensitive, DNA-activated protein kinase with a substrate specificity distinct from DNA-PK. Oncogene. 1999 Nov 18;18(48):6707-13.</reference_text>
+      <pubmed_id>10597277</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Liu Q, Guntuku S, Cui XS, Matsuoka S, Cortez D, Tamai K, Luo G, Carattini-Rivera S, DeMayo F, Bradley A, Donehower LA, Elledge SJ: Chk1 is an essential kinase that is regulated by Atr and required for the G(2)/M DNA damage checkpoint. Genes Dev. 2000 Jun 15;14(12):1448-59.</reference_text>
+      <pubmed_id>10859164</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tibbetts RS, Cortez D, Brumbaugh KM, Scully R, Livingston D, Elledge SJ, Abraham RT: Functional interactions between BRCA1 and the checkpoint kinase ATR during genotoxic stress. Genes Dev. 2000 Dec 1;14(23):2989-3002.</reference_text>
+      <pubmed_id>11114888</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ward IM, Chen J: Histone H2AX is phosphorylated in an ATR-dependent manner in response to replicational stress. J Biol Chem. 2001 Dec 21;276(51):47759-62. Epub 2001 Oct 22.</reference_text>
+      <pubmed_id>11673449</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bao S, Tibbetts RS, Brumbaugh KM, Fang Y, Richardson DA, Ali A, Chen SM, Abraham RT, Wang XF: ATR/ATM-mediated phosphorylation of human Rad17 is required for genotoxic stress responses. Nature. 2001 Jun 21;411(6840):969-74.</reference_text>
+      <pubmed_id>11418864</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cortez D, Guntuku S, Qin J, Elledge SJ: ATR and ATRIP: partners in checkpoint signaling.  Science. 2001 Nov 23;294(5547):1713-6.</reference_text>
+      <pubmed_id>11721054</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Casper AM, Nghiem P, Arlt MF, Glover TW: ATR regulates fragile site stability.  Cell. 2002 Dec 13;111(6):779-89.</reference_text>
+      <pubmed_id>12526805</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hammond EM, Denko NC, Dorie MJ, Abraham RT, Giaccia AJ: Hypoxia links ATR and p53 through replication arrest.  Mol Cell Biol. 2002 Mar;22(6):1834-43.</reference_text>
+      <pubmed_id>11865061</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Unsal-Kacmaz K, Makhov AM, Griffith JD, Sancar A: Preferential binding of ATR protein to UV-damaged DNA.  Proc Natl Acad Sci U S A. 2002 May 14;99(10):6673-8.</reference_text>
+      <pubmed_id>12011431</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barr SM, Leung CG, Chang EE, Cimprich KA: ATR kinase activity regulates the intranuclear translocation of ATR and RPA following ionizing radiation. Curr Biol. 2003 Jun 17;13(12):1047-51.</reference_text>
+      <pubmed_id>12814551</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chini CC, Chen J: Human claspin is required for replication checkpoint control.  J Biol Chem. 2003 Aug 8;278(32):30057-62. Epub 2003 May 24.</reference_text>
+      <pubmed_id>12766152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Qin J: MSH2 and ATR form a signaling module and regulate two branches of the damage response to DNA methylation. Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15387-92. Epub 2003 Dec 3.</reference_text>
+      <pubmed_id>14657349</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zou L, Elledge SJ: Sensing DNA damage through ATRIP recognition of RPA-ssDNA complexes.  Science. 2003 Jun 6;300(5625):1542-8.</reference_text>
+      <pubmed_id>12791985</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dierov J, Dierova R, Carroll M: BCR/ABL translocates to the nucleus and disrupts an ATR-dependent intra-S phase checkpoint. Cancer Cell. 2004 Mar;5(3):275-85.</reference_text>
+      <pubmed_id>15050919</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ward IM, Minn K, Chen J: UV-induced ataxia-telangiectasia-mutated and Rad3-related (ATR) activation requires replication stress. J Biol Chem. 2004 Mar 12;279(11):9677-80. Epub 2004 Jan 23.</reference_text>
+      <pubmed_id>14742437</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dart DA, Adams KE, Akerman I, Lakin ND: Recruitment of the cell cycle checkpoint kinase ATR to chromatin during S-phase. J Biol Chem. 2004 Apr 16;279(16):16433-40. Epub 2004 Feb 9.</reference_text>
+      <pubmed_id>14871897</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Andreassen PR, D'Andrea AD, Taniguchi T: ATR couples FANCD2 monoubiquitination to the DNA-damage response.  Genes Dev. 2004 Aug 15;18(16):1958-63.</reference_text>
+      <pubmed_id>15314022</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Alderton GK, Joenje H, Varon R, Borglum AD, Jeggo PA, O'Driscoll M: Seckel syndrome exhibits cellular features demonstrating defects in the ATR-signalling pathway. Hum Mol Genet. 2004 Dec 15;13(24):3127-38. Epub 2004 Oct 20.</reference_text>
+      <pubmed_id>15496423</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Unsal-Kacmaz K, Sancar A: Quaternary structure of ATR and effects of ATRIP and replication protein A on its DNA binding and kinase activities. Mol Cell Biol. 2004 Feb;24(3):1292-300.</reference_text>
+      <pubmed_id>14729973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cortez D, Glick G, Elledge SJ: Minichromosome maintenance proteins are direct targets of the ATM and ATR checkpoint kinases. Proc Natl Acad Sci U S A. 2004 Jul 6;101(27):10078-83. Epub 2004 Jun 21.</reference_text>
+      <pubmed_id>15210935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park BJ, Kang JW, Lee SW, Choi SJ, Shin YK, Ahn YH, Choi YH, Choi D, Lee KS, Kim S: The haploinsufficient tumor suppressor p18 upregulates p53 via interactions with ATM/ATR. Cell. 2005 Jan 28;120(2):209-21.</reference_text>
+      <pubmed_id>15680327</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Falck J, Coates J, Jackson SP: Conserved modes of recruitment of ATM, ATR and DNA-PKcs to sites of DNA damage. Nature. 2005 Mar 31;434(7033):605-11. Epub 2005 Mar 2.</reference_text>
+      <pubmed_id>15758953</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sivasubramaniam S, Sun X, Pan YR, Wang S, Lee EY: Cep164 is a mediator protein required for the maintenance of genomic stability through modulation of MDC1, RPA, and CHK1. Genes Dev. 2008 Mar 1;22(5):587-600. Epub 2008 Feb 18.</reference_text>
+      <pubmed_id>18283122</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>O'Driscoll M, Ruiz-Perez VL, Woods CG, Jeggo PA, Goodship JA: A splicing mutation affecting expression of ataxia-telangiectasia and Rad3-related protein (ATR) results in Seckel syndrome. Nat Genet. 2003 Apr;33(4):497-501. Epub 2003 Mar 17.</reference_text>
+      <pubmed_id>12640452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaizuka T, Hara T, Oshiro N, Kikkawa U, Yonezawa K, Takehana K, Iemura S, Natsume T, Mizushima N: Tti1 and Tel2 are critical factors in mammalian target of rapamycin complex assembly. J Biol Chem. 2010 Jun 25;285(26):20109-16. Epub 2010 Apr 28.</reference_text>
+      <pubmed_id>20427287</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

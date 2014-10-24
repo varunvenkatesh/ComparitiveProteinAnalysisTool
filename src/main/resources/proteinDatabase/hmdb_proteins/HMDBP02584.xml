@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:06:25 -0700</creation_date>
+  <update_date>2013-05-27 11:32:33 -0600</update_date>
+  <accession>HMDBP02584</accession>
+  <secondary_accessions>
+    <accession>8083</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>CD45 antigen</synonym>
+    <synonym>L-CA</synonym>
+    <synonym>Leukocyte common antigen</synonym>
+    <synonym>T200</synonym>
+  </synonyms>
+  <gene_name>PTPRC</gene_name>
+  <general_function>Involved in phosphatase activity</general_function>
+  <specific_function>Protein tyrosine-protein phosphatase required for T-cell activation through the antigen receptor. Acts as a positive regulator of T-cell coactivation upon binding to DPP4. The first PTPase domain has enzymatic activity, while the second one seems to affect the substrate specificity of the first one. Upon T-cell activation, recruits and dephosphorylates SKAP1 and FYN. Dephosphorylates LYN, and thereby modulates LYN activity (By similarity).
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Cell adhesion molecules (CAMs)</name>
+      <smpdb_id/>
+      <kegg_map_id>map04514</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>T cell receptor signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04660</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Fc gamma R-mediated phagocytosis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04666</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Primary immunodeficiency</name>
+      <smpdb_id/>
+      <kegg_map_id>map05340</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01429</accession>
+      <name>Phosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>phosphoprotein phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein tyrosine phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on ester bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphoric ester hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dephosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>external side of plasma membrane</description>
+      <go_id>GO:0009897</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>focal adhesion</description>
+      <go_id>GO:0005925</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to plasma membrane</description>
+      <go_id>GO:0005887</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>membrane raft</description>
+      <go_id>GO:0045121</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>heparin binding</description>
+      <go_id>GO:0008201</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>transmembrane receptor protein tyrosine phosphatase activity</description>
+      <go_id>GO:0005001</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>activation of MAPK activity</description>
+      <go_id>GO:0000187</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>axon guidance</description>
+      <go_id>GO:0007411</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>B cell differentiation</description>
+      <go_id>GO:0030183</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>B cell proliferation</description>
+      <go_id>GO:0042100</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>B cell receptor signaling pathway</description>
+      <go_id>GO:0050853</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>bone marrow development</description>
+      <go_id>GO:0048539</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>defense response to virus</description>
+      <go_id>GO:0051607</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>hematopoietic progenitor cell differentiation</description>
+      <go_id>GO:0002244</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heterotypic cell-cell adhesion</description>
+      <go_id>GO:0034113</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>immunoglobulin biosynthetic process</description>
+      <go_id>GO:0002378</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>leukocyte cell-cell adhesion</description>
+      <go_id>GO:0007159</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell adhesion involved in substrate-bound cell migration</description>
+      <go_id>GO:0006933</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cytokine-mediated signaling pathway</description>
+      <go_id>GO:0001960</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of peptidyl-tyrosine phosphorylation</description>
+      <go_id>GO:0050732</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of protein autophosphorylation</description>
+      <go_id>GO:0031953</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of protein kinase activity</description>
+      <go_id>GO:0006469</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of T cell mediated cytotoxicity</description>
+      <go_id>GO:0001915</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative thymic T cell selection</description>
+      <go_id>GO:0045060</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of alpha-beta T cell proliferation</description>
+      <go_id>GO:0046641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of antigen receptor-mediated signaling pathway</description>
+      <go_id>GO:0050857</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of apoptotic process</description>
+      <go_id>GO:0043065</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of B cell proliferation</description>
+      <go_id>GO:0030890</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of gamma-delta T cell differentiation</description>
+      <go_id>GO:0045588</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of hematopoietic stem cell migration</description>
+      <go_id>GO:2000473</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of humoral immune response mediated by circulating immunoglobulin</description>
+      <go_id>GO:0002925</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of isotype switching to IgG isotypes</description>
+      <go_id>GO:0048304</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of protein kinase activity</description>
+      <go_id>GO:0045860</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of stem cell proliferation</description>
+      <go_id>GO:2000648</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of T cell mediated cytotoxicity</description>
+      <go_id>GO:0001916</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of T cell proliferation</description>
+      <go_id>GO:0042102</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive thymic T cell selection</description>
+      <go_id>GO:0045059</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of B cell differentiation</description>
+      <go_id>GO:0045577</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of B cell receptor signaling pathway</description>
+      <go_id>GO:0050855</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of S phase</description>
+      <go_id>GO:0033261</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>release of sequestered calcium ion into cytosol</description>
+      <go_id>GO:0051209</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to gamma radiation</description>
+      <go_id>GO:0010332</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>stem cell development</description>
+      <go_id>GO:0048864</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>T cell differentiation</description>
+      <go_id>GO:0030217</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>T cell proliferation</description>
+      <go_id>GO:0042098</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>T cell receptor signaling pathway</description>
+      <go_id>GO:0050852</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Single-pass type I membrane protein</subcellular_location>
+    <subcellular_location>Membrane raft</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q31-q32</locus>
+    <gene_sequence>&gt;3915 bp
+ATGTATTTGTGGCTTAAACTCTTGGCATTTGGCTTTGCCTTTCTGGACACAGAAGTATTT
+GTGACAGGGCAAAGCCCAACACCTTCCCCCACTGGATTGACTACAGCAAAGATGCCCAGT
+GTTCCACTTTCAAGTGACCCCTTACCTACTCACACCACTGCATTCTCACCCGCAAGCACC
+TTTGAAAGAGAAAATGACTTCTCAGAGACCACAACTTCTCTTAGTCCAGACAATACTTCC
+ACCCAAGTATCCCCGGACTCTTTGGATAATGCTAGTGCTTTTAATACCACAGGTGTTTCA
+TCAGTACAGACGCCTCACCTTCCCACGCACGCAGACTCGCAGACGCCCTCTGCTGGAACT
+GACACGCAGACATTCAGCGGCTCCGCCGCCAATGCAAAACTCAACCCTACCCCAGGCAGC
+AATGCTATCTCAGATGTCCCAGGAGAGAGGAGTACAGCCAGCACCTTTCCTACAGACCCA
+GTTTCCCCATTGACAACCACCCTCAGCCTTGCACACCACAGCTCTGCTGCCTTACCTGCA
+CGCACCTCCAACACCACCATCACAGCGAACACCTCAGATGCCTACCTTAATGCCTCTGAA
+ACAACCACTCTGAGCCCTTCTGGAAGCGCTGTCATTTCAACCACAACAATAGCTACTACT
+CCATCTAAGCCAACATGTGATGAAAAATATGCAAACATCACTGTGGATTACTTATATAAC
+AAGGAAACTAAATTATTTACAGCAAAGCTAAATGTTAATGAGAATGTGGAATGTGGAAAC
+AATACTTGCACAAACAATGAGGTGCATAACCTTACAGAATGTAAAAATGCGTCTGTTTCC
+ATATCTCATAATTCATGTACTGCTCCTGATAAGACATTAATATTAGATGTGCCACCAGGG
+GTTGAAAAGTTTCAGTTACATGATTGTACACAAGTTGAAAAAGCAGATACTACTATTTGT
+TTAAAATGGAAAAATATTGAAACCTTTACTTGTGATACACAGAATATTACCTACAGATTT
+CAGTGTGGTAATATGATATTTGATAATAAAGAAATTAAATTAGAAAACCTTGAACCCGAA
+CATGAGTATAAGTGTGACTCAGAAATACTCTATAATAACCACAAGTTTACTAACGCAAGT
+AAAATTATTAAAACAGATTTTGGGAGTCCAGGAGAGCCTCAGATTATTTTTTGTAGAAGT
+GAAGCTGCACATCAAGGAGTAATTACCTGGAATCCCCCTCAAAGATCATTTCATAATTTT
+ACCCTCTGTTATATAAAAGAGACAGAAAAAGATTGCCTCAATCTGGATAAAAACCTGATC
+AAATATGATTTGCAAAATTTAAAACCTTATACGAAATATGTTTTATCATTACATGCCTAC
+ATCATTGCAAAAGTGCAACGTAATGGAAGTGCTGCAATGTGTCATTTCACAACTAAAAGT
+GCTCCTCCAAGCCAGGTCTGGAACATGACTGTCTCCATGACATCAGATAATAGTATGCAT
+GTCAAGTGTAGGCCTCCCAGGGACCGTAATGGCCCCCATGAACGTTACCATTTGGAAGTT
+GAAGCTGGAAATACTCTGGTTAGAAATGAGTCGCATAAGAATTGCGATTTCCGTGTAAAA
+GATCTTCAATATTCAACAGACTACACTTTTAAGGCCTATTTTCACAATGGAGACTATCCT
+GGAGAACCCTTTATTTTACATCATTCAACATCTTATAATTCTAAGGCACTGATAGCATTT
+CTGGCATTTCTGATTATTGTGACATCAATAGCCCTGCTTGTTGTTCTCTACAAAATCTAT
+GATCTACATAAGAAAAGATCCTGCAATTTAGATGAACAGCAGGAGCTTGTTGAAAGGGAT
+GATGAAAAACAACTGATGAATGTGGAGCCAATCCATGCAGATATTTTGTTGGAAACTTAT
+AAGAGGAAGATTGCTGATGAAGGAAGACTTTTTCTGGCTGAATTTCAGAGCATCCCGCGG
+GTGTTCAGCAAGTTTCCTATAAAGGAAGCTCGAAAGCCCTTTAACCAGAATAAAAACCGT
+TATGTTGACATTCTTCCTTATGATTATAACCGTGTTGAACTCTCTGAGATAAACGGAGAT
+GCAGGGTCAAACTACATAAATGCCAGCTATATTGATGGTTTCAAAGAACCCAGGAAATAC
+ATTGCTGCACAAGGTCCCAGGGATGAAACTGTTGATGATTTCTGGAGGATGATTTGGGAA
+CAGAAAGCCACAGTTATTGTCATGGTCACTCGATGTGAAGAAGGAAACAGGAACAAGTGT
+GCAGAATACTGGCCGTCAATGGAAGAGGGCACTCGGGCTTTTGGAGATGTTGTTGTAAAG
+ATCAACCAGCACAAAAGATGTCCAGATTACATCATTCAGAAATTGAACATTGTAAATAAA
+AAAGAAAAAGCAACTGGAAGAGAGGTGACTCACATTCAGTTCACCAGCTGGCCAGACCAC
+GGGGTGCCTGAGGATCCTCACTTGCTCCTCAAACTGAGAAGGAGAGTGAATGCCTTCAGC
+AATTTCTTCAGTGGTCCCATTGTGGTGCACTGCAGTGCTGGTGTTGGGCGCACAGGAACC
+TATATCGGAATTGATGCCATGCTAGAAGGCCTGGAAGCCGAGAACAAAGTGGATGTTTAT
+GGTTATGTTGTCAAGCTAAGGCGACAGAGATGCCTGATGGTTCAAGTAGAGGCCCAGTAC
+ATCTTGATCCATCAGGCTTTGGTGGAATACAATCAGTTTGGAGAAACAGAAGTGAATTTG
+TCTGAATTACATCCATATCTACATAACATGAAGAAAAGGGATCCACCCAGTGAGCCGTCT
+CCACTAGAGGCTGAATTCCAGAGACTTCCTTCATATAGGAGCTGGAGGACACAGCACATT
+GGAAATCAAGAAGAAAATAAAAGTAAAAACAGGAATTCTAATGTCATCCCATATGACTAT
+AACAGAGTGCCACTTAAACATGAGCTGGAAATGAGTAAAGAGAGTGAGCATGATTCAGAT
+GAATCCTCTGATGATGACAGTGATTCAGAGGAACCAAGCAAATACATCAATGCATCTTTT
+ATAATGAGCTACTGGAAACCTGAAGTGATGATTGCTGCTCAGGGACCACTGAAGGAGACC
+ATTGGTGACTTTTGGCAGATGATCTTCCAAAGAAAAGTCAAAGTTATTGTTATGCTGACA
+GAACTGAAACATGGAGACCAGGAAATCTGTGCTCAGTACTGGGGAGAAGGAAAGCAAACA
+TATGGAGATATTGAAGTTGACCTGAAAGACACAGACAAATCTTCAACTTATACCCTTCGT
+GTCTTTGAACTGAGACATTCCAAGAGGAAAGACTCTCGAACTGTGTACCAGTACCAATAT
+ACAAACTGGAGTGTGGAGCAGCTTCCTGCAGAACCCAAGGAATTAATCTCTATGATTCAG
+GTCGTCAAACAAAAACTTCCCCAGAAGAATTCCTCTGAAGGGAACAAGCATCACAAGAGT
+ACACCTCTACTCATTCACTGCAGGGATGGATCTCAGCAAACGGGAATATTTTGTGCTTTG
+TTAAATCTCTTAGAAAGTGCGGAAACAGAAGAGGTAGTGGATATTTTTCAAGTGGTAAAA
+GCTCTACGCAAAGCTAGGCCAGGCATGGTTTCCACATTCGAGCAATATCAATTCCTATAT
+GACGTCATTGCCAGCACCTACCCTGCTCAGAATGGACAAGTAAAGAAAAACAACCATCAA
+GAAGATAAAATTGAATTTGATAATGAAGTGGACAAAGTAAAGCAGGATGCTAATTGTGTT
+AATCCACTTGGTGCCCCAGAAAAGCTCCCTGAAGCAAAGGAACAGGCTGAAGGTTCTGAA
+CCCACGAGTGGCACTGAGGGGCCAGAACATTCTGTCAATGGTCCTGCAAGTCCAGCTTTA
+AATCAAGGTTCATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1304</residue_number>
+    <molecular_weight>147485.375</molecular_weight>
+    <theoretical_pi>6.155</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>fn3</name>
+        <pfam_id>PF00041</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Y_phosphatase</name>
+        <pfam_id>PF00102</pfam_id>
+      </pfam>
+      <pfam>
+        <name>CD45</name>
+        <pfam_id>PF12567</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PTP_N</name>
+        <pfam_id>PF12453</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Receptor-type tyrosine-protein phosphatase C
+MYLWLKLLAFGFAFLDTEVFVTGQSPTPSPTGLTTAKMPSVPLSSDPLPTHTTAFSPAST
+FERENDFSETTTSLSPDNTSTQVSPDSLDNASAFNTTGVSSVQTPHLPTHADSQTPSAGT
+DTQTFSGSAANAKLNPTPGSNAISDVPGERSTASTFPTDPVSPLTTTLSLAHHSSAALPA
+RTSNTTITANTSDAYLNASETTTLSPSGSAVISTTTIATTPSKPTCDEKYANITVDYLYN
+KETKLFTAKLNVNENVECGNNTCTNNEVHNLTECKNASVSISHNSCTAPDKTLILDVPPG
+VEKFQLHDCTQVEKADTTICLKWKNIETFTCDTQNITYRFQCGNMIFDNKEIKLENLEPE
+HEYKCDSEILYNNHKFTNASKIIKTDFGSPGEPQIIFCRSEAAHQGVITWNPPQRSFHNF
+TLCYIKETEKDCLNLDKNLIKYDLQNLKPYTKYVLSLHAYIIAKVQRNGSAAMCHFTTKS
+APPSQVWNMTVSMTSDNSMHVKCRPPRDRNGPHERYHLEVEAGNTLVRNESHKNCDFRVK
+DLQYSTDYTFKAYFHNGDYPGEPFILHHSTSYNSKALIAFLAFLIIVTSIALLVVLYKIY
+DLHKKRSCNLDEQQELVERDDEKQLMNVEPIHADILLETYKRKIADEGRLFLAEFQSIPR
+VFSKFPIKEARKPFNQNKNRYVDILPYDYNRVELSEINGDAGSNYINASYIDGFKEPRKY
+IAAQGPRDETVDDFWRMIWEQKATVIVMVTRCEEGNRNKCAEYWPSMEEGTRAFGDVVVK
+INQHKRCPDYIIQKLNIVNKKEKATGREVTHIQFTSWPDHGVPEDPHLLLKLRRRVNAFS
+NFFSGPIVVHCSAGVGRTGTYIGIDAMLEGLEAENKVDVYGYVVKLRRQRCLMVQVEAQY
+ILIHQALVEYNQFGETEVNLSELHPYLHNMKKRDPPSEPSPLEAEFQRLPSYRSWRTQHI
+GNQEENKSKNRNSNVIPYDYNRVPLKHELEMSKESEHDSDESSDDDSDSEEPSKYINASF
+IMSYWKPEVMIAAQGPLKETIGDFWQMIFQRKVKVIVMLTELKHGDQEICAQYWGEGKQT
+YGDIEVDLKDTDKSSTYTLRVFELRHSKRKDSRTVYQYQYTNWSVEQLPAEPKELISMIQ
+VVKQKLPQKNSSEGNKHHKSTPLLIHCRDGSQQTGIFCALLNLLESAETEEVVDIFQVVK
+ALRKARPGMVSTFEQYQFLYDVIASTYPAQNGQVKKNNHQEDKIEFDNEVDKVKQDANCV
+NPLGAPEKLPEAKEQAEGSEPTSGTEGPEHSVNGPASPALNQGS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>18641347</genbank_protein_id>
+  <uniprot_id>P08575</uniprot_id>
+  <uniprot_name>PTPRC_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1YGR</pdb_id>
+    <pdb_id>1YGU</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_002838.3</genbank_gene_id>
+  <genecard_id>PTPRC</genecard_id>
+  <geneatlas_id>PTPRC</geneatlas_id>
+  <hgnc_id>HGNC:9666</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Streuli M, Hall LR, Saga Y, Schlossman SF, Saito H: Differential usage of three exons generates at least five different mRNAs encoding human leukocyte common antigens. J Exp Med. 1987 Nov 1;166(5):1548-66.</reference_text>
+      <pubmed_id>2824653</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ralph SJ, Thomas ML, Morton CC, Trowbridge IS: Structural variants of human T200 glycoprotein (leukocyte-common antigen).  EMBO J. 1987 May;6(5):1251-7.</reference_text>
+      <pubmed_id>2956090</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tsai AY, Streuli M, Saito H: Integrity of the exon 6 sequence is essential for tissue-specific alternative splicing of human leukocyte common antigen pre-mRNA. Mol Cell Biol. 1989 Oct;9(10):4550-5.</reference_text>
+      <pubmed_id>2531281</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hall LR, Streuli M, Schlossman SF, Saito H: Complete exon-intron organization of the human leukocyte common antigen (CD45) gene. J Immunol. 1988 Oct 15;141(8):2781-7.</reference_text>
+      <pubmed_id>2971730</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Charbonneau H, Tonks NK, Walsh KA, Fischer EH: The leukocyte common antigen (CD45): a putative receptor-linked protein tyrosine phosphatase. Proc Natl Acad Sci U S A. 1988 Oct;85(19):7182-6.</reference_text>
+      <pubmed_id>2845400</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Streuli M, Krueger NX, Thai T, Tang M, Saito H: Distinct functional roles of the two intracellular phosphatase like domains of the receptor-linked protein tyrosine phosphatases LCA and LAR. EMBO J. 1990 Aug;9(8):2399-407.</reference_text>
+      <pubmed_id>1695146</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu L, Fu J, Shen SH: SKAP55 coupled with CD45 positively regulates T-cell receptor-mediated gene transcription. Mol Cell Biol. 2002 Apr;22(8):2673-86.</reference_text>
+      <pubmed_id>11909961</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Salgado FJ, Lojo J, Alonso-Lebrero JL, Lluis C, Franco R, Cordero OJ, Nogueira M: A role for interleukin-12 in the regulation of T cell plasma membrane compartmentation. J Biol Chem. 2003 Jul 4;278(27):24849-57. Epub 2003 Apr 3.</reference_text>
+      <pubmed_id>12676959</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Carrascal M, Ovelleiro D, Casas V, Gay M, Abian J: Phosphorylation analysis of primary human T lymphocytes using sequential IMAC and titanium oxide enrichment. J Proteome Res. 2008 Dec;7(12):5167-76.</reference_text>
+      <pubmed_id>19367720</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen R, Jiang X, Sun D, Han G, Wang F, Ye M, Wang L, Zou H: Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry. J Proteome Res. 2009 Feb;8(2):651-61.</reference_text>
+      <pubmed_id>19159218</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wollscheid B, Bausch-Fluck D, Henderson C, O'Brien R, Bibel M, Schiess R, Aebersold R, Watts JD: Mass-spectrometric identification and relative quantification of N-linked cell surface glycoproteins. Nat Biotechnol. 2009 Apr;27(4):378-86. Epub 2009 Apr 6.</reference_text>
+      <pubmed_id>19349973</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nam HJ, Poy F, Saito H, Frederick CA: Structural basis for the function and regulation of the receptor protein tyrosine phosphatase CD45. J Exp Med. 2005 Feb 7;201(3):441-52. Epub 2005 Jan 31.</reference_text>
+      <pubmed_id>15684325</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jacobsen M, Schweer D, Ziegler A, Gaber R, Schock S, Schwinzer R, Wonigeit K, Lindert RB, Kantarci O, Schaefer-Klein J, Schipper HI, Oertel WH, Heidenreich F, Weinshenker BG, Sommer N, Hemmer B: A point mutation in PTPRC is associated with the development of multiple sclerosis. Nat Genet. 2000 Dec;26(4):495-9.</reference_text>
+      <pubmed_id>11101853</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tchilian EZ, Wallace DL, Wells RS, Flower DR, Morgan G, Beverley PC: A deletion in the gene encoding the CD45 antigen in a patient with SCID.  J Immunol. 2001 Jan 15;166(2):1308-13.</reference_text>
+      <pubmed_id>11145714</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

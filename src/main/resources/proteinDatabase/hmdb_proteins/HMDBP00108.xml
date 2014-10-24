@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:48:59 -0700</creation_date>
+  <update_date>2013-05-27 11:33:12 -0600</update_date>
+  <accession>HMDBP00108</accession>
+  <secondary_accessions>
+    <accession>5340</accession>
+    <accession>HMDBP03564</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Ribonucleoside-diphosphate reductase subunit M1</synonym>
+    <synonym>Ribonucleotide reductase large subunit</synonym>
+  </synonyms>
+  <gene_name>RRM1</gene_name>
+  <general_function>Involved in oxidation reduction</general_function>
+  <specific_function>Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>DNA replication</name>
+      <smpdb_id/>
+      <kegg_map_id>map03030</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Purine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00230</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Pyrimidine metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00240</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Glutathione metabolism</name>
+      <smpdb_id/>
+      <kegg_map_id>map00480</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00692</accession>
+      <name>Fe2+</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01201</accession>
+      <name>Guanosine diphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01245</accession>
+      <name>dCDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01508</accession>
+      <name>dADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01546</accession>
+      <name>CDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14387</accession>
+      <name>Cladribine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14584</accession>
+      <name>Gemcitabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14769</accession>
+      <name>Clofarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15140</accession>
+      <name>Hydroxyurea</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15206</accession>
+      <name>Fludarabine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00960</accession>
+      <name>dGDP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60521</accession>
+      <name>Trypanothione disulfide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60520</accession>
+      <name>Trypanothione</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on ch or ch2 groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on ch or ch2 groups, disulfide as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ribonucleoside-diphosphate reductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>macromolecular complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>protein complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>ribonucleoside-diphosphate reductase complex</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleoplasm</description>
+      <go_id>GO:0005654</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>ribonucleoside-diphosphate reductase complex</description>
+      <go_id>GO:0005971</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor</description>
+      <go_id>GO:0004748</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>deoxyribonucleotide biosynthetic process</description>
+      <go_id>GO:0009263</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA replication</description>
+      <go_id>GO:0006260</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>nucleobase-containing small molecule interconversion</description>
+      <go_id>GO:0015949</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein heterotetramerization</description>
+      <go_id>GO:0051290</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>11</chromosome_location>
+    <locus>11p15.5</locus>
+    <gene_sequence>&gt;2379 bp
+ATGCATGTGATCAAGCGAGATGGCCGCCAAGAACGAGTCATGTTTGACAAAATTACATCT
+CGAATCCAGAAGCTTTGTTATGGACTCAATATGGATTTTGTTGATCCTGCTCAGATCACC
+ATGAAAGTAATCCAAGGCTTGTACAGTGGGGTCACCACAGTGGAACTAGATACTTTGGCT
+GCTGAAACAGCTGCAACCTTGACTACTAAGCACCCTGACTATGCTATCCTGGCAGCCAGG
+ATCGCTGTCTCTAACTTGCACAAAGAAACAAAGAAAGTGTTCAGTGATGTGATGGAAGAC
+CTCTATAACTACATAAATCCACATAATGGCAAACACTCTCCCATGGTGGCCAAGTCAACA
+TTGGATATTGTTCTGGCCAATAAAGATCGCCTGAATTCTGCTATTATCTATGACCGAGAT
+TTCTCTTACAATTACTTCGGCTTTAAGACGCTAGAGCGGTCTTATTTGTTGAAGATCAAT
+GGAAAAGTGGCTGAAAGACCACAACATATGTTGATGAGAGTATCTGTTGGGATCCACAAA
+GAAGACATTGATGCAGCAATTGAAACATATAATCTTCTTTCTGAGAGGTGGTTTACTCAT
+GCTTCGCCCACTCTCTTCAATGCTGGTACCAACCGCCCACAACTTTCTAGCTGTTTTCTT
+CTGAGTATGAAAGATGACAGCATTGAAGGCATTTATGACACTCTAAAGCAATGTGCATTG
+ATTTCTAAGTCTGCTGGAGGAATTGGTGTTGCTGTGAGTTGTATTCGGGCTACTGGCAGC
+TACATTGCTGGGACTAATGGCAATTCCAATGGCCTTGTACCGATGCTGAGAGTATATAAC
+AACACAGCTCGATATGTGGATCAAGGTGGGAACAAGCGTCCTGGGGCATTTGCTATTTAC
+CTGGAGCCTTGGCATTTAGACATCTTTGAATTCCTTGATTTAAAGAAGAACACAGGAAAG
+GAAGAGCAGCGTGCCAGAGATCTTTTCTTTGCTCTTTGGATTCCGGATCTCTTCATGAAA
+CGAGTGGAGACTAATCAGGACTGGTCTTTGATGTGTCCAAATGAGTGTCCTGGTCTGGAT
+GAGGTTTGGGGAGAGGAATTTGAGAAACTATATGCAAGTTATGAGAAACAAGGTCGTGTC
+CGCAAAGTTGTAAAAGCTCAGCAGCTTTGGTATGCCATCATTGAGTCTCAGACGGAAACA
+GGCACCCCGTATATGCTCTACAAAGATTCCTGTAATCGAAAGAGCAACCAGCAGAACCTG
+GGAACCATCAAATGCAGCAACCTGTGCACAGAAATAGTGGAGTACACCAGCAAAGATGAG
+GTTGCTGTTTGTAATTTGGCTTCCCTGGCCCTGAATATGTATGTCACATCAGAACACACA
+TACGACTTTAAGAAGTTGGCTGAAGTCACTAAAGTCGTTGTCCGAAACTTGAATAAAATT
+ATTGATATAAACTACTATCCTGTACCAGAGGCATGCCTATCAAATAAACGCCATCGCCCC
+ATTGGAATTGGGGTACAAGGTCTGGCAGATGCTTTTATCCTGATGAGATACCCTTTTGAG
+AGTGCAGAAGCCCAGTTACTGAATAAGCAGATCTTTGAAACTATTTATTATGGTGCTCTG
+GAAGCCAGCTGTGACCTTGCCAAGGAGCAGGGCCCATACGAAACCTATGAGGGCTCTCCA
+GTTAGCAAAGGAATTCTTCAGTATGATATGTGGAATGTTACTCCTACAGACCTATGGGAC
+TGGAAGGTTCTCAAGGAGAAGATTGCAAAGTATGGTATAAGAAACAGTTTACTTATTGCC
+CCGATGCCTACAGCTTCCACTGCTCAGATCCTGGGGAATAATGAGTCCATTGAACCTTAC
+ACCAGCAACATCTATACTCGCAGAGTCTTGTCAGGAGAATTTCAGATTGTAAATCCTCAC
+TTATTGAAAGATCTTACCGAGCGGGGCCTATGGCATGAAGAGATGAAAAACCAGATTATT
+GCATGCAATGGCTCTATTCAGAGCATACCAGAAATTCCTGATGACCTGAAGCAACTTTAT
+AAAACTGTGTGGGAAATCTCTCAGAAAACTGTTCTCAAGATGGCAGCTGAGAGAGGTGCT
+TTCATTGATCAAAGCCAATCTTTGAACATCCACATTGCTGAGCCTAACTATGGCAAACTC
+ACTAGTATGCACTTCTACGGCTGGAAGCAGGGTTTGAAGACTGGGATGTATTATTTAAGG
+ACGAGACCAGCAGCTAATCCAATCCAGTTCACTCTAAATAAGGAGAAGCTAAAAGATAAA
+GAAAAGGTATCAAAAGAGGAAGAAGAGAAGGAGAGGAACACAGCAGCCATGGTGTGCTCT
+TTGGAGAATAGAGATGAATGTCTGATGTGTGGATCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>792</residue_number>
+    <molecular_weight>90069.375</molecular_weight>
+    <theoretical_pi>7.146</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ATP-cone</name>
+        <pfam_id>PF03477</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Ribonuc_red_lgC</name>
+        <pfam_id>PF02867</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Ribonuc_red_lgN</name>
+        <pfam_id>PF00317</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ribonucleoside-diphosphate reductase large subunit
+MHVIKRDGRQERVMFDKITSRIQKLCYGLNMDFVDPAQITMKVIQGLYSGVTTVELDTLA
+AETAATLTTKHPDYAILAARIAVSNLHKETKKVFSDVMEDLYNYINPHNGKHSPMVAKST
+LDIVLANKDRLNSAIIYDRDFSYNYFGFKTLERSYLLKINGKVAERPQHMLMRVSVGIHK
+EDIDAAIETYNLLSERWFTHASPTLFNAGTNRPQLSSCFLLSMKDDSIEGIYDTLKQCAL
+ISKSAGGIGVAVSCIRATGSYIAGTNGNSNGLVPMLRVYNNTARYVDQGGNKRPGAFAIY
+LEPWHLDIFEFLDLKKNTGKEEQRARDLFFALWIPDLFMKRVETNQDWSLMCPNECPGLD
+EVWGEEFEKLYASYEKQGRVRKVVKAQQLWYAIIESQTETGTPYMLYKDSCNRKSNQQNL
+GTIKCSNLCTEIVEYTSKDEVAVCNLASLALNMYVTSEHTYDFKKLAEVTKVVVRNLNKI
+IDINYYPVPEACLSNKRHRPIGIGVQGLADAFILMRYPFESAEAQLLNKQIFETIYYGAL
+EASCDLAKEQGPYETYEGSPVSKGILQYDMWNVTPTDLWDWKVLKEKIAKYGIRNSLLIA
+PMPTASTAQILGNNESIEPYTSNIYTRRVLSGEFQIVNPHLLKDLTERGLWHEEMKNQII
+ACNGSIQSIPEIPDDLKQLYKTVWEISQKTVLKMAAERGAFIDQSQSLNIHIAEPNYGKL
+TSMHFYGWKQGLKTGMYYLRTRPAANPIQFTLNKEKLKDKEKVSKEEEEKERNTAAMVCS
+LENRDECLMCGS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>36065</genbank_protein_id>
+  <uniprot_id>P23921</uniprot_id>
+  <uniprot_name>RIR1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2WGH</pdb_id>
+    <pdb_id>3HNC</pdb_id>
+    <pdb_id>3HND</pdb_id>
+    <pdb_id>3HNE</pdb_id>
+    <pdb_id>3HNF</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X59543</genbank_gene_id>
+  <genecard_id>RRM1</genecard_id>
+  <geneatlas_id>RRM1</geneatlas_id>
+  <hgnc_id>HGNC:10451</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Parker NJ, Begley CG, Fox RM: Human M1 subunit of ribonucleotide reductase: cDNA sequence and expression in stimulated lymphocytes. Nucleic Acids Res. 1991 Jul 11;19(13):3741.</reference_text>
+      <pubmed_id>1840662</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pavloff N, Rivard D, Masson S, Shen SH, Mes-Masson AM: Sequence analysis of the large and small subunits of human ribonucleotide reductase. DNA Seq. 1992;2(4):227-34.</reference_text>
+      <pubmed_id>1627826</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bepler G, O'briant KC, Kim YC, Schreiber G, Pitterle DM: A 1.4-Mb high-resolution physical map and contig of chromosome segment 11p15.5 and genes in the LOH11A metastasis suppressor region. Genomics. 1999 Jan 15;55(2):164-75.</reference_text>
+      <pubmed_id>9933563</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Parker NJ, Begley CG, Fox RM: Human R1 subunit of ribonucleotide reductase (RRM1): 5' flanking region of the gene. Genomics. 1994 Jan 1;19(1):91-6.</reference_text>
+      <pubmed_id>8188248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Harrington JA, Spector T: Human ribonucleotide reductase. Activation and inhibition by analogs of ATP. Biochem Pharmacol. 1991 Jul 25;42(4):759-63.</reference_text>
+      <pubmed_id>1867633</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xue L, Zhou B, Liu X, Qiu W, Jin Z, Yen Y: Wild-type p53 regulates human ribonucleotide reductase by protein-protein interaction with p53R2 as well as hRRM2 subunits. Cancer Res. 2003 Mar 1;63(5):980-6.</reference_text>
+      <pubmed_id>12615712</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Qiu W, Zhou B, Darwish D, Shao J, Yen Y: Characterization of enzymatic properties of human ribonucleotide reductase holoenzyme reconstituted in vitro from hRRM1, hRRM2, and p53R2 subunits. Biochem Biophys Res Commun. 2006 Feb 10;340(2):428-34. Epub 2005 Dec 15.</reference_text>
+      <pubmed_id>16376858</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sampat K, Kantarjian H, Borthakur G: Clofarabine: emerging role in leukemias.  Expert Opin Investig Drugs. 2009 Oct;18(10):1559-64.</reference_text>
+        <pubmed_id>19715446</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kantarjian HM, Jeha S, Gandhi V, Wess M, Faderl S: Clofarabine: past, present, and future.  Leuk Lymphoma. 2007 Oct;48(10):1922-30.</reference_text>
+        <pubmed_id>17852710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kline JP, Larson RA: Clofarabine in the treatment of acute myeloid leukaemia and acute lymphoblastic leukaemia: a review. Expert Opin Pharmacother. 2005 Dec;6(15):2711-8.</reference_text>
+        <pubmed_id>16316309</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Cladribine</name>
+        <accession>HMDB14387</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Takahashi T, Kanazawa J, Akinaga S, Tamaoki T, Okabe M: Antitumor activity of 2-chloro-9-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl) adenine, a novel deoxyadenosine analog, against human colon tumor xenografts by oral administration. Cancer Chemother Pharmacol. 1999;43(3):233-40.</reference_text>
+        <pubmed_id>9923554</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kwon WS, Rha SY, Choi YH, Lee JO, Park KH, Jung JJ, Kim TS, Jeung HC, Chung HC: Ribonucleotide reductase M1 (RRM1) 2464G&gt;A polymorphism shows an association with gemcitabine chemosensitivity in cancer cell lines. Pharmacogenet Genomics. 2006 Jun;16(6):429-38.</reference_text>
+        <pubmed_id>16708051</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rosell R, Cobo M, Isla D, Camps C, Massuti B: Pharmacogenomics and gemcitabine.  Ann Oncol. 2006 May;17 Suppl 5:v13-16.</reference_text>
+        <pubmed_id>16807441</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bepler G, Kusmartseva I, Sharma S, Gautam A, Cantor A, Sharma A, Simon G: RRM1 modulated in vitro and in vivo efficacy of gemcitabine and platinum in non-small-cell lung cancer. J Clin Oncol. 2006 Oct 10;24(29):4731-7. Epub 2006 Sep 11.</reference_text>
+        <pubmed_id>16966686</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Smid K, Bergman AM, Eijk PP, Veerman G, van Haperen VW, van den Ijssel P, Ylstra B, Peters GJ: Micro-array analysis of resistance for gemcitabine results in increased expression of ribonucleotide reductase subunits. Nucleosides Nucleotides Nucleic Acids. 2006;25(9-11):1001-7.</reference_text>
+        <pubmed_id>17065054</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nakahira S, Nakamori S, Tsujie M, Takahashi Y, Okami J, Yoshioka S, Yamasaki M, Marubashi S, Takemasa I, Miyamoto A, Takeda Y, Nagano H, Dono K, Umeshita K, Sakon M, Monden M: Involvement of ribonucleotide reductase M1 subunit overexpression in gemcitabine resistance of human pancreatic cancer. Int J Cancer. 2007 Mar 15;120(6):1355-63.</reference_text>
+        <pubmed_id>17131328</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Gemcitabine</name>
+        <accession>HMDB14584</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Cerqueira NM, Fernandes PA, Ramos MJ: Understanding ribonucleotide reductase inactivation by gemcitabine.  Chemistry. 2007;13(30):8507-15.</reference_text>
+        <pubmed_id>17636467</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Pession A, Masetti R, Kleinschmidt K, Martoni A: Use of clofarabine for acute childhood leukemia.  Biologics. 2010 Jun 24;4:111-8.</reference_text>
+        <pubmed_id>20631817</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>[No authors listed]Clofarabine.  Drugs R D. 2004;5(4):213-7.</reference_text>
+        <pubmed_id>15230627</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Musto P, Ferrara F: Clofarabine: in search of combinations for the treatment of patients with high-risk acute myeloid leukemia. Cancer. 2008 Oct 15;113(8):1995-8.</reference_text>
+        <pubmed_id>18780321</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Harned TM, Gaynon PS: Treating refractory leukemias in childhood, role of clofarabine.  Ther Clin Risk Manag. 2008 Apr;4(2):327-36.</reference_text>
+        <pubmed_id>18728851</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kantarjian HM, Jeha S, Gandhi V, Wess M, Faderl S: Clofarabine: past, present, and future.  Leuk Lymphoma. 2007 Oct;48(10):1922-30.</reference_text>
+        <pubmed_id>17852710</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lech-Maranda E, Korycka A, Robak T: Clofarabine as a novel nucleoside analogue approved to treat patients with haematological malignancies: mechanism of action and clinical activity. Mini Rev Med Chem. 2009 Jun;9(7):805-12.</reference_text>
+        <pubmed_id>19519505</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Clofarabine</name>
+        <accession>HMDB14769</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhenchuk A, Lotfi K, Juliusson G, Albertioni F: Mechanisms of anti-cancer action and pharmacology of clofarabine.  Biochem Pharmacol. 2009 Dec 1;78(11):1351-9. Epub 2009 Jul 1.</reference_text>
+        <pubmed_id>19576186</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyurea</name>
+        <accession>HMDB15140</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Culligan K, Tissier A, Britt A: ATR regulates a G2-phase cell-cycle checkpoint in Arabidopsis thaliana.  Plant Cell. 2004 May;16(5):1091-104. Epub 2004 Apr 9.</reference_text>
+        <pubmed_id>15075397</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyurea</name>
+        <accession>HMDB15140</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Zhou B, Liu X, Mo X, Xue L, Darwish D, Qiu W, Shih J, Hwu EB, Luh F, Yen Y: The human ribonucleotide reductase subunit hRRM2 complements p53R2 in response to UV-induced DNA repair in cells with mutant p53. Cancer Res. 2003 Oct 15;63(20):6583-94.</reference_text>
+        <pubmed_id>14583450</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyurea</name>
+        <accession>HMDB15140</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Jiang W, Xie J, Varano PT, Krebs C, Bollinger JM Jr: Two distinct mechanisms of inactivation of the class Ic ribonucleotide reductase from Chlamydia trachomatis by hydroxyurea: implications for the protein gating of intersubunit electron transfer. Biochemistry. 2010 Jun 29;49(25):5340-9.</reference_text>
+        <pubmed_id>20462199</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Hydroxyurea</name>
+        <accession>HMDB15140</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Davies BW, Kohanski MA, Simmons LA, Winkler JA, Collins JJ, Walker GC: Hydroxyurea induces hydroxyl radical-mediated cell death in Escherichia coli.  Mol Cell. 2009 Dec 11;36(5):845-60.</reference_text>
+        <pubmed_id>20005847</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lech-Maranda E, Korycka A, Robak T: Clofarabine as a novel nucleoside analogue approved to treat patients with haematological malignancies: mechanism of action and clinical activity. Mini Rev Med Chem. 2009 Jun;9(7):805-12.</reference_text>
+        <pubmed_id>19519505</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Fludarabine</name>
+        <accession>HMDB15206</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Robak T, Korycka A, Lech-Maranda E, Robak P: Current status of older and new purine nucleoside analogues in the treatment of lymphoproliferative diseases. Molecules. 2009 Mar 23;14(3):1183-226.</reference_text>
+        <pubmed_id>19325518</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

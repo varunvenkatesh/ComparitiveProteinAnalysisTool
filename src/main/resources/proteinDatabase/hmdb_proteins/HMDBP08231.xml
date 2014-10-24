@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:08:04 -0700</creation_date>
+  <update_date>2013-01-15 20:08:04 -0700</update_date>
+  <accession>HMDBP08231</accession>
+  <secondary_accessions>
+    <accession>13943</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Erythrocyte 65 kDa protein</synonym>
+    <synonym>Kinase deficient protein</synonym>
+    <synonym>Protein kinase lysine-deficient 1</synonym>
+    <synonym>Protein kinase with no lysine 1</synonym>
+    <synonym>hWNK1</synonym>
+    <synonym>p65</synonym>
+  </synonyms>
+  <gene_name>WNK1</gene_name>
+  <general_function>Involved in protein kinase activity</general_function>
+  <specific_function>Controls sodium and chloride ion transport by inhibiting the activity of WNK4, potentially by either phosphorylating the kinase or via an interaction between WNK4 and the autoinhibitory domain of WNK1. WNK4 regulates the activity of the thiazide- sensitive Na-Cl cotransporter, SLC12A3, by phosphorylation. WNK1 may also play a role in actin cytoskeletal reorganization</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>protein serine/threonine kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein kinase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorus metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphate metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>phosphorylation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein amino acid phosphorylation</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>12p13.3</locus>
+    <gene_sequence>&gt;7149 bp
+ATGTCTGGCGGCGCCGCAGAGAAGCAGAGCAGCACTCCCGGTTCCCTGTTCCTCTCGCCG
+CCGGCTCCTGCCCCCAAGAATGGCTCCAGCTCCGATTCCTCCGTGGGGGAGAAACTGGGA
+GCCGCGGCCGCCGACGCTGTGACCGGCAGGACCGAGGAGTACAGGCGCCGCCGCCACACT
+ATGGACAAGGACAGCCGTGGGGCGGCCGCGACCACTACCACCACTGAGCACCGCTTCTTC
+CGCCGGAGCGTCATCTGTGACTCCAATGCCACTGCACTGGAGCTTCCCGGCCTTCCTCTT
+TCCCTGCCCCAGCCCAGCATCCCCGCGGCTGTCCCGCAGAGTGCTCCACCGGAGCCCCAC
+CGGGAAGAGACCGTGACCGCCACCGCCACTTCCCAGGTAGCCCAGCAGCCTCCAGCCGCT
+GCCGCCCCTGGGGAACAGGCCGTCGCGGGCCCTGCCCCCTCGACTGTCCCCAGCAGTACC
+AGCAAAGACCGCCCAGTGTCCCAGCCTAGCCTTGTGGGGAGCAAAGAGGAGCCGCCGCCG
+GCGAGAAGTGGCAGCGGCGGCGGCAGCGCCAAGGAGCCACAGGAGGAACGGAGCCAGCAG
+CAGGATGATATCGAAGAGCTGGAGACCAAGGCCGTGGGAATGTCTAACGATGGCCGCTTT
+CTCAAGTTTGACATCGAAATCGGCAGAGGCTCCTTTAAGACGGTCTACAAAGGTCTGGAC
+ACTGAAACCACCGTGGAAGTCGCCTGGTGTGAACTGCAGGATCGAAAATTAACAAAGTCT
+GAGAGGCAGAGATTTAAAGAAGAAGCTGAAATGTTAAAAGGTCTTCAGCATCCCAATATT
+GTTAGATTTTATGATTCCTGGGAATCCACAGTAAAAGGAAAGAAGTGCATTGTTTTGGTG
+ACTGAACTTATGACGTCTGGAACACTTAAAACGTATCTGAAAAGGTTTAAAGTGATGAAG
+ATCAAAGTTCTAAGAAGCTGGTGCCGTCAGATCCTTAAAGGTCTTCAGTTTCTTCATACT
+CGAACTCCACCTATCATTCACCGCGATCTTAAATGTGACAACATCTTTATCACCGGCCCT
+ACTGGCTCAGTCAAGATTGGAGACCTCGGTCTGGCAACCCTGAAGCGGGCTTCTTTTGCC
+AAGAGTGTGATAGGTACCCCAGAGTTCATGGCCCCTGAGATGTATGAGGAGAAATATGAT
+GAATCCGTTGACGTTTATGCTTTTGGGATGTGCATGCTTGAGATGGCTACATCTGAATAT
+CCTTACTCGGAGTGCCAAAATGCTGCACAGATCTACCGTCGCGTGACCAGTGGGGTGAAG
+CCAGCCAGTTTTGACAAAGTAGCAATTCCTGAAGTGAAGGAAATTATTGAAGGATGCATA
+CGACAAAACAAAGATGAAAGATATTCCATCAAAGACCTTTTGAACCATGCCTTCTTCCAA
+GAGGAAACAGGAGTACGGGTAGAATTAGCAGAAGAAGATGATGGAGAAAAAATAGCCATA
+AAATTATGGCTACGTATTGAAGATATTAAGAAATTAAAGGGAAAATACAAAGATAATGAA
+GCTATTGAGTTTTCTTTTGATTTAGAGAGAGATGTCCCAGAAGATGTTGCACAAGAAATG
+GTAGAGTCTGGGTATGTCTGTGAAGGTGATCACAAGACCATGGCTAAAGCTATCAAAGAC
+AGAGTATCATTAATTAAGAGGAAACGAGAGCAGCGGCAGTTGGTACGGGAGGAGCAAGAA
+AAAAAAAAGCAGGAAGAGAGCAGTCTCAAACAGCAGGTAGAACAATCCAGTGCTTCCCAG
+ACAGGAATCAAGCAGCTCCCTTCTGCTAGCACCGGCATACCTACTGCTTCTACCACTTCA
+GCTTCAGTTTCTACACAAGTAGAACCTGAAGAACCTGAGGCAGATCAACATCAACAACTA
+CAGTACCAGCAACCCAGTATATCTGTGTTATCTGATGGGACGGTTGACAGTGGTCAGGGA
+TCCTCTGTCTTCACAGAATCTCGAGTGAGCAGCCAACAGACAGTTTCATATGGTTCCCAA
+CATGAACAGGCACATTCTACAGGCACAGTCCCAGGGCATATACCTTCTACTGTCCAAGCA
+CAGTCTCAGCCCCATGGGGTATATCCACCCTCAAGTGTGGCACAGGGGCAGAGCCAGGGT
+CAGCCATCCTCAAGTAGCTTAACAGGGGTTTCATCTTCCCAACCCATACAACATCCTCAG
+CAGCAGCAGGGAATACAGCAGACAGCCCCTCCTCAACAGACAGTGCAGTATTCACTTTCA
+CAGACATCAACCTCCAGTGAGGCCACTACTGCACAGCCAGTGAGTCAGCCTCAAGCTCCA
+CAAGTCTTGCCTCAAGTATCAGCTGGAAAACAGCTTCCAGTTTCCCAGCCAGTACCAACT
+ATCCAAGGCGAACCTCAGATCCCAGTTGCGACACAACCCTCGGTTGTTCCAGTCCACTCT
+GGTGCTCATTTCCTTCCAGTGGGACAGCCGCTCCCTACTCCCTTGCTCCCTCAGTACCCT
+GTCTCTCAGATTCCCATATCAACTCCTCATGTGTCTACGGCTCAGACAGGTTTCTCATCC
+CTTCCCATCACAATGGCAGCTGGCATTACTCAGCCTCTGCTCACGTTGGCTTCATCTGCT
+ACAACAGCTGCGATCCCGGGGGTATCAACTGTGGTTCCTAGTCAGCTTCCAACCCTTCTG
+CAGCCTGTGACTCAGCTGCCAAGTCAGGTTCACCCACAGCTCCTACAACCAGCAGTTCAG
+TCCATGGGAATACCAGCTAACCTTGGACAAGCTGCTGAGGTTCCACTTTCCTCTGGAGAT
+GTTCTGTACCAGGGCTTCCCACCTCGACTGCCACCACAGTACCCAGGAGATTCAAATATT
+GCTCCCTCTTCCAACGTGGCTTCTGTTTGCATCCATTCTACAGTCCTATCCCCTCCCATG
+CCGACAGAAGTACTGGCTACACCTGGGTACTTTCCCACAGTGGTGCAGCCTTATGTGGAA
+TCAAATCTTTTAGTTCCTATGGGTGGTGTAGGAGGACAGGTTCAAGTGTCCCAGCCAGGA
+GGGAGTTTAGCACAAGCCCCCACTACATCCTCCCAGCAAGCAGTTTTGGAGAGTACTCAG
+GGAGTCTCTCAGGTTGCTCCTGCAGAGCCAGTTGCAGTAGCACAGACCCAAGCTACCCAG
+CCGACCACTTTGGCTTCCTCTGTAGACAGTGCACATTCAGATGTTGCTTCAGGTATGAGT
+GATGGCAATGAGAACGTCCCATCTTCCAGTGGAAGGCATGAAGGAAGAACTACAAAACGG
+CATTACCGAAAATCTGTAAGGAGTCGCTCTCGACATGAAAAAACTTCACGCCCAAAATTA
+AGAATTTTGAATGTTTCAAATAAAGGAGACCGAGTAGTAGAATGTCAATTAGAGACTCAT
+AATAGGAAAATGGTTACATTCAAATTTGACCTAGATGGTGACAACCCCGAGGAGATAGCA
+ACAATTATGGTGAACAATGACTTTATTCTAGCAATAGAGAGAGAGTCGTTTGTGGATCAA
+GTGCGAGAAATTATTGAAAAAGCTGATGAAATGCTCAGTGAGGATGTCAGTGTGGAACCA
+GAGGGTGATCAGGGATTGGAGAGTCTACAAGGAAAGGATGACTATGGCTTTTCAGGTTCT
+CAGAAATTGGAAGGAGAGTTCAAACAACCAATTCCTGCGTCTTCCATGCCACAGCAAATA
+GGCATTCCTACCAGTTCTTTAACTCAAGTTGTTCATTCTGCGGGAAGGCGGTTTATAGTG
+AGTCCTGTGCCAGAAAGCCGATTACGAGAATCAAAAGTTTTCCCCAGTGAAATAACAGAT
+ACAGTTGCTGCCTCTACAGCTCAGAGCCCTGGAATGAACTTGTCTCACTCTGCATCATCC
+CTTAGTCTACAACAGGCCTTTTCTGAACTTAGACGTGCCCAAATGACAGAAGGACCCAAC
+ACAGCACCTCCAAACTTTAGTCATACAGGACCAACATTTCCAGTAGTACCTCCTTTCTTA
+AGTAGCATTGCTGGAGTCCCAACCACAGCAGCAGCCACAGCACCAGTCCCTGCAACAAGC
+AGCCCTCCTAATGACATTTCCACATCAGTAATTCAGTCTGAGGTTACAGTGCCCACTGAA
+GAGGGGATTGCTGGAGTTGCCACCAGCACAGGTGTGGTAACTTCAGGTGGTCTCCCCATA
+CCACCTGTGTCTGAATCACCAGTACTTTCCAGCGTAGTTTCAAGTATCACAATACCTGCA
+GTTGTCTCAATATCTACTACATCCCCGTCACTTCAAGTCCCCACATCCACATCTGAGATC
+GTTGTTTCTAGTACAGCACTGTATCCTTCAGTAACAGTTTCAGCAACTTCAGCCTCTGCA
+GGGGGCAGTACTGCTACCCCAGGTCCTAAGCCTCCAGCTGTAGTATCTCAGCAGGCAGCA
+GGCAGCACTACTGTGGGAGCCACATTAACATCAGTTTCTACCACCACTTCATTCCCAAGC
+ACAGCTTCACAGCTGTGCATTCAGCTTAGCAGCAGTACTTCTACTCCTACTTTAGCTGAA
+ACCGTGGTAGTTAGCGCACACTCACTAGATAAGACATCTCATAGCAGTACAACTGGATTG
+GCTTTCTCCCTCTCTGCACCATCTTCCTCTTCCTCTCCTGGAGCAGGAGTGTCTAGTTAT
+ATTTCTCAGCCTGGTGGGCTGCATCCTTTGGTCATTCCATCAGTGATAGCTTCTACTCCT
+ATTCTTCCCCAAGCAGCAGGACCTACTTCTACACCTTTATTACCCCAAGTACCTAGTATC
+CCACCCTTGGTACAGCCTGTTGCCAATGTGCCTGCTGTACAGCAGACACTAATTCATAGT
+CAGCCTCAACCAGCTTTGCTTCCCAACCAGCCCCATACTCATTGTCCTGAAGTAGATTCT
+GATACACAACCCAAAGCTCCTGGAATTGATGACATAAAGACTCTAGAAGAAAAGCTGCGG
+TCTCTGTTCAGTGAACACAGCTCATCTGGAGCTCAGCATGCCTCTGTCTCACTGGAGACC
+TCACTAGTCATAGAGAGCACTGTCACACCAGGCATCCCAACTACTGCTGTTGCACCAAGC
+AAACTCCTGACTTCTACCACAAGTACTTGCTTACCACCAACCAATTTACCACTAGGAACA
+GTTGCTTTGCCAGTTACACCAGTGGTCACACCTGGGCAAGTTTCTACCCCAGTCAGCACT
+ACTACATCAGGAGTGAAACCTGGAACTGCTCCCTCCAAGCCACCTCTAACTAAGGCTCCG
+GTGCTGCCAGTGGGTACTGAACTTCCAGCAGGTACTCTACCCAGCGAGCAGCTGCCACCT
+TTTCCAGGACCTTCTCTAACCCAGTCCCAGCAACCTCTAGAGGATCTTGATGCTCAATTG
+AGAAGAACACTTAGTCCAGAGATGATCACAGTGACTTCTGCGGTTGGTCCTGTGTCCATG
+GCGGCTCCAACAGCAATCACAGAAGCAGGAACACAGCCTCAGAAGGGTGTTTCTCAAGTC
+AAAGAAGGCCCTGTCCTAGCAACTAGTTCAGGAGCTGGTGTTTTTAAGATGGGACGATTT
+CAGGTTTCTGTTGCAGCAGACGGTGCCCAGAAAGAGGGTAAAAATAAGTCAGAAGATGCA
+AAGTCTGTTCATTTTGAATCCAGCACCTCAGAGTCCTCAGTGCTATCAAGTAGTAGTCCA
+GAGAGTACCTTGGTGAAACCAGAGCCGAATGGCATAACCATCCCTGGTATCTCTTCAGAT
+GTGCCAGAGAGTGCCCACAAAACTACTGCCTCAGAGGCAAAGTCAGACACTGGGCAGCCT
+ACCAAGGTTGGACGTTTTCAGGTGACAACTACAGCAAACAAAGTGGGTCGTTTCTCTGTA
+TCAAAAACTGAGGACAAGATCACTGACACAAAGAAAGAAGGACCAGTGGCATCTCCTCCT
+TTTATGGATTTGGAACAAGCTGTTCTTCCTGCTGTGATACCAAAGAAAGAGAAGCCTGAA
+CTGTCAGAGCCTTCACATCTAAATGGGCCGTCTTCTGACCCGGAGGCCGCTTTTTTAAGT
+AGGGATGTGGATGATGGTTCCGGTAGTCCACACTCGCCCCATCAGCTGAGCTCAAAGAGC
+CTTCCTAGCCAGAATCTAAGTCAAAGCCTTAGTAATTCATTTAACTCCTCTTACATGAGT
+AGCGACAATGAGTCAGATATCGAAGATGAAGACTTAAAGTTAGAGCTGCGACGACTACGA
+GATAAACATCTCAAAGAGATTCAGGACCTGCAGAGTCGCCAGAAGCATGAAATTGAATCT
+TTGTATACCAAACTGGGCAAGGTGCCCCCTGCTGTTATTATTCCCCCAGCTGCTCCCCTT
+TCAGGGAGAAGACGACGACCCACTAAAAGCAAAGGCAGCAAATCTAGTCGAAGCAGTTCC
+TTGGGGAATAAAAGCCCCCAGCTTTCAGGTAACCTGTCTGGTCAGAGTGCAGCTTCAGTC
+TTGCACCCCCAGCAGACCCTCCACCCTCCTGGCAACATCCCAGAGTCCGGGCAGAATCAG
+CTGTTACAGCCCCTTAAGCCATCTCCCTCCAGTGACAACCTCTATTCAGCCTTCACCAGT
+GATGGTGCCATTTCAGTACCAAGCCTTTCTGCTCCAGGTCAAGGAACCAGCAGCACAAAC
+ACTGTTGGGGCAACAGTGAACAGCCAAGCCGCCCAAGCTCAGCCTCCTGCCATGACGTCC
+AGCAGGAAGGGCACATTCACAGATGACTTGCACAAGTTGGTAGACAATTGGGCCCGAGAT
+GCCATGAATCTCTCAGGCAGGAGAGGAAGCAAAGGGCACATGAATTACGAGGGCCCTGGA
+ATGGCAAGGAAGTTCTCTGCACCTGGGCAACTGTGCATCTCCATGACCTCGAACCTGGGT
+GGCTCTGCCCCCATCTCTGCAGCATCAGCTACCTCTCTAGGTCACTTCACCAAGTCTATG
+TGCCCCCCACAGCAGTATGGCTTTCCAGCTACCCCATTTGGCGCTCAATGGAGTGGGACG
+GGTGGCCCAGCACCACAGCCACTTGGCCAGTTCCAACCTGTGGGAACTGCCTCCTTGCAG
+AATTTCAACATCAGCAATTTGCAGAAATCCATCAGCAACCCCCCAGGCTCCAACCTGCGG
+ACCACTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>2382</residue_number>
+    <molecular_weight>250791.8</molecular_weight>
+    <theoretical_pi>6.3</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Pkinase</name>
+        <pfam_id>PF00069</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Serine/threonine-protein kinase WNK1
+MSGGAAEKQSSTPGSLFLSPPAPAPKNGSSSDSSVGEKLGAAAADAVTGRTEEYRRRRHT
+MDKDSRGAAATTTTTEHRFFRRSVICDSNATALELPGLPLSLPQPSIPAAVPQSAPPEPH
+REETVTATATSQVAQQPPAAAAPGEQAVAGPAPSTVPSSTSKDRPVSQPSLVGSKEEPPP
+ARSGSGGGSAKEPQEERSQQQDDIEELETKAVGMSNDGRFLKFDIEIGRGSFKTVYKGLD
+TETTVEVAWCELQDRKLTKSERQRFKEEAEMLKGLQHPNIVRFYDSWESTVKGKKCIVLV
+TELMTSGTLKTYLKRFKVMKIKVLRSWCRQILKGLQFLHTRTPPIIHRDLKCDNIFITGP
+TGSVKIGDLGLATLKRASFAKSVIGTPEFMAPEMYEEKYDESVDVYAFGMCMLEMATSEY
+PYSECQNAAQIYRRVTSGVKPASFDKVAIPEVKEIIEGCIRQNKDERYSIKDLLNHAFFQ
+EETGVRVELAEEDDGEKIAIKLWLRIEDIKKLKGKYKDNEAIEFSFDLERDVPEDVAQEM
+VESGYVCEGDHKTMAKAIKDRVSLIKRKREQRQLVREEQEKKKQEESSLKQQVEQSSASQ
+TGIKQLPSASTGIPTASTTSASVSTQVEPEEPEADQHQQLQYQQPSISVLSDGTVDSGQG
+SSVFTESRVSSQQTVSYGSQHEQAHSTGTVPGHIPSTVQAQSQPHGVYPPSSVAQGQSQG
+QPSSSSLTGVSSSQPIQHPQQQQGIQQTAPPQQTVQYSLSQTSTSSEATTAQPVSQPQAP
+QVLPQVSAGKQLPVSQPVPTIQGEPQIPVATQPSVVPVHSGAHFLPVGQPLPTPLLPQYP
+VSQIPISTPHVSTAQTGFSSLPITMAAGITQPLLTLASSATTAAIPGVSTVVPSQLPTLL
+QPVTQLPSQVHPQLLQPAVQSMGIPANLGQAAEVPLSSGDVLYQGFPPRLPPQYPGDSNI
+APSSNVASVCIHSTVLSPPMPTEVLATPGYFPTVVQPYVESNLLVPMGGVGGQVQVSQPG
+GSLAQAPTTSSQQAVLESTQGVSQVAPAEPVAVAQTQATQPTTLASSVDSAHSDVASGMS
+DGNENVPSSSGRHEGRTTKRHYRKSVRSRSRHEKTSRPKLRILNVSNKGDRVVECQLETH
+NRKMVTFKFDLDGDNPEEIATIMVNNDFILAIERESFVDQVREIIEKADEMLSEDVSVEP
+EGDQGLESLQGKDDYGFSGSQKLEGEFKQPIPASSMPQQIGIPTSSLTQVVHSAGRRFIV
+SPVPESRLRESKVFPSEITDTVAASTAQSPGMNLSHSASSLSLQQAFSELRRAQMTEGPN
+TAPPNFSHTGPTFPVVPPFLSSIAGVPTTAAATAPVPATSSPPNDISTSVIQSEVTVPTE
+EGIAGVATSTGVVTSGGLPIPPVSESPVLSSVVSSITIPAVVSISTTSPSLQVPTSTSEI
+VVSSTALYPSVTVSATSASAGGSTATPGPKPPAVVSQQAAGSTTVGATLTSVSTTTSFPS
+TASQLCIQLSSSTSTPTLAETVVVSAHSLDKTSHSSTTGLAFSLSAPSSSSSPGAGVSSY
+ISQPGGLHPLVIPSVIASTPILPQAAGPTSTPLLPQVPSIPPLVQPVANVPAVQQTLIHS
+QPQPALLPNQPHTHCPEVDSDTQPKAPGIDDIKTLEEKLRSLFSEHSSSGAQHASVSLET
+SLVIESTVTPGIPTTAVAPSKLLTSTTSTCLPPTNLPLGTVALPVTPVVTPGQVSTPVST
+TTSGVKPGTAPSKPPLTKAPVLPVGTELPAGTLPSEQLPPFPGPSLTQSQQPLEDLDAQL
+RRTLSPEMITVTSAVGPVSMAAPTAITEAGTQPQKGVSQVKEGPVLATSSGAGVFKMGRF
+QVSVAADGAQKEGKNKSEDAKSVHFESSTSESSVLSSSSPESTLVKPEPNGITIPGISSD
+VPESAHKTTASEAKSDTGQPTKVGRFQVTTTANKVGRFSVSKTEDKITDTKKEGPVASPP
+FMDLEQAVLPAVIPKKEKPELSEPSHLNGPSSDPEAAFLSRDVDDGSGSPHSPHQLSSKS
+LPSQNLSQSLSNSFNSSYMSSDNESDIEDEDLKLELRRLRDKHLKEIQDLQSRQKHEIES
+LYTKLGKVPPAVIIPPAAPLSGRRRRPTKSKGSKSSRSSSLGNKSPQLSGNLSGQSAASV
+LHPQQTLHPPGNIPESGQNQLLQPLKPSPSSDNLYSAFTSDGAISVPSLSAPGQGTSSTN
+TVGATVNSQAAQAQPPAMTSSRKGTFTDDLHKLVDNWARDAMNLSGRRGSKGHMNYEGPG
+MARKFSAPGQLCISMTSNLGGSAPISAASATSLGHFTKSMCPPQQYGFPATPFGAQWSGT
+GGPAPQPLGQFQPVGTASLQNFNISNLQKSISNPPGSNLRTT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>296939602</genbank_protein_id>
+  <uniprot_id>Q9H4A3</uniprot_id>
+  <uniprot_name>WNK1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1T4H</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_018979.3</genbank_gene_id>
+  <genecard_id>WNK1</genecard_id>
+  <geneatlas_id>WNK1</geneatlas_id>
+  <hgnc_id>HGNC:14540</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Verissimo F, Jordan P: WNK kinases, a novel protein kinase subfamily in multi-cellular organisms.  Oncogene. 2001 Sep 6;20(39):5562-9.</reference_text>
+      <pubmed_id>11571656</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Scherer SE, Muzny DM, Buhay CJ, Chen R, Cree A, Ding Y, Dugan-Rocha S, Gill R, Gunaratne P, Harris RA, Hawes AC, Hernandez J, Hodgson AV, Hume J, Jackson A, Khan ZM, Kovar-Smith C, Lewis LR, Lozado RJ, Metzker ML, Milosavljevic A, Miner GR, Montgomery KT, Morgan MB, Nazareth LV, Scott G, Sodergren E, Song XZ, Steffen D, Lovering RC, Wheeler DA, Worley KC, Yuan Y, Zhang Z, Adams CQ, Ansari-Lari MA, Ayele M, Brown MJ, Chen G, Chen Z, Clerc-Blankenburg KP, Davis C, Delgado O, Dinh HH, Draper H, Gonzalez-Garay ML, Havlak P, Jackson LR, Jacob LS, Kelly SH, Li L, Li Z, Liu J, Liu W, Lu J, Maheshwari M, Nguyen BV, Okwuonu GO, Pasternak S, Perez LM, Plopper FJ, Santibanez J, Shen H, Tabor PE, Verduzco D, Waldron L, Wang Q, Williams GA, Zhang J, Zhou J, Allen CC, Amin AG, Anyalebechi V, Bailey M, Barbaria JA, Bimage KE, Bryant NP, Burch PE, Burkett CE, Burrell KL, Calderon E, Cardenas V, Carter K, Casias K, Cavazos I, Cavazos SR, Ceasar H, Chacko J, Chan SN, Chavez D, Christopoulos C, Chu J, Cockrell R, Cox CD, Dang M, Dathorne SR, David R, Davis CM, Davy-Carroll L, Deshazo DR, Donlin JE, D'Souza L, Eaves KA, Egan A, Emery-Cohen AJ, Escotto M, Flagg N, Forbes LD, Gabisi AM, Garza M, Hamilton C, Henderson N, Hernandez O, Hines S, Hogues ME, Huang M, Idlebird DG, Johnson R, Jolivet A, Jones S, Kagan R, King LM, Leal B, Lebow H, Lee S, LeVan JM, Lewis LC, London P, Lorensuhewa LM, Loulseged H, Lovett DA, Lucier A, Lucier RL, Ma J, Madu RC, Mapua P, Martindale AD, Martinez E, Massey E, Mawhiney S, Meador MG, Mendez S, Mercado C, Mercado IC, Merritt CE, Miner ZL, Minja E, Mitchell T, Mohabbat F, Mohabbat K, Montgomery B, Moore N, Morris S, Munidasa M, Ngo RN, Nguyen NB, Nickerson E, Nwaokelemeh OO, Nwokenkwo S, Obregon M, Oguh M, Oragunye N, Oviedo RJ, Parish BJ, Parker DN, Parrish J, Parks KL, Paul HA, Payton BA, Perez A, Perrin W, Pickens A, Primus EL, Pu LL, Puazo M, Quiles MM, Quiroz JB, Rabata D, Reeves K, Ruiz SJ, Shao H, Sisson I, Sonaike T, Sorelle RP, Sutton AE, Svatek AF, Svetz LA, Tamerisa KS, Taylor TR, Teague B, Thomas N, Thorn RD, Trejos ZY, Trevino BK, Ukegbu ON, Urban JB, Vasquez LI, Vera VA, Villasana DM, Wang L, Ward-Moore S, Warren JT, Wei X, White F, Williamson AL, Wleczyk R, Wooden HS, Wooden SH, Yen J, Yoon L, Yoon V, Zorrilla SE, Nelson D, Kucherlapati R, Weinstock G, Gibbs RA: The finished DNA sequence of human chromosome 12.  Nature. 2006 Mar 16;440(7082):346-51.</reference_text>
+      <pubmed_id>16541075</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Moore TM, Garg R, Johnson C, Coptcoat MJ, Ridley AJ, Morris JD: PSK, a novel STE20-like kinase derived from prostatic carcinoma that activates the c-Jun N-terminal kinase mitogen-activated protein kinase pathway and regulates actin cytoskeletal organization. J Biol Chem. 2000 Feb 11;275(6):4311-22.</reference_text>
+      <pubmed_id>10660600</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Delaloy C, Lu J, Houot AM, Disse-Nicodeme S, Gasc JM, Corvol P, Jeunemaitre X: Multiple promoters in the WNK1 gene: one controls expression of a kidney-specific kinase-defective isoform. Mol Cell Biol. 2003 Dec;23(24):9208-21.</reference_text>
+      <pubmed_id>14645531</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nagase T, Ishikawa K, Nakajima D, Ohira M, Seki N, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. VII. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro. DNA Res. 1997 Apr 28;4(2):141-50.</reference_text>
+      <pubmed_id>9205841</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nakajima D, Okazaki N, Yamakawa H, Kikuno R, Ohara O, Nagase T: Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones. DNA Res. 2002 Jun 30;9(3):99-106.</reference_text>
+      <pubmed_id>12168954</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hart GW, Haltiwanger RS, Holt GD, Kelly WG: Nucleoplasmic and cytoplasmic glycoproteins.  Ciba Found Symp. 1989;145:102-12, discussion 112-8.</reference_text>
+      <pubmed_id>2507249</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wilson FH, Disse-Nicodeme S, Choate KA, Ishikawa K, Nelson-Williams C, Desitter I, Gunel M, Milford DV, Lipkin GW, Achard JM, Feely MP, Dussol B, Berland Y, Unwin RJ, Mayan H, Simon DB, Farfel Z, Jeunemaitre X, Lifton RP: Human hypertension caused by mutations in WNK kinases.  Science. 2001 Aug 10;293(5532):1107-12.</reference_text>
+      <pubmed_id>11498583</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Olsen JV, Blagoev B, Gnad F, Macek B, Kumar C, Mortensen P, Mann M: Global, in vivo, and site-specific phosphorylation dynamics in signaling networks. Cell. 2006 Nov 3;127(3):635-48.</reference_text>
+      <pubmed_id>17081983</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tang LY, Deng N, Wang LS, Dai J, Wang ZL, Jiang XS, Li SJ, Li L, Sheng QH, Wu DQ, Li L, Zeng R: Quantitative phosphoproteome profiling of Wnt3a-mediated signaling network: indicating the involvement of ribonucleoside-diphosphate reductase M2 subunit phosphorylation at residue serine 20 in canonical Wnt signal transduction. Mol Cell Proteomics. 2007 Nov;6(11):1952-67. Epub 2007 Aug 12.</reference_text>
+      <pubmed_id>17693683</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd: Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis. J Proteome Res. 2008 Mar;7(3):1346-51. Epub 2008 Jan 26.</reference_text>
+      <pubmed_id>18220336</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, Barber TD, Mandelker D, Leary RJ, Ptak J, Silliman N, Szabo S, Buckhaults P, Farrell C, Meeh P, Markowitz SD, Willis J, Dawson D, Willson JK, Gazdar AF, Hartigan J, Wu L, Liu C, Parmigiani G, Park BH, Bachman KE, Papadopoulos N, Vogelstein B, Kinzler KW, Velculescu VE: The consensus coding sequences of human breast and colorectal cancers.  Science. 2006 Oct 13;314(5797):268-74. Epub 2006 Sep 7.</reference_text>
+      <pubmed_id>16959974</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

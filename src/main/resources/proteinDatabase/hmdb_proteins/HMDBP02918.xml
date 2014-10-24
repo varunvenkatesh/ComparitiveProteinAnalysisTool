@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:09:10 -0700</creation_date>
+  <update_date>2013-01-15 19:09:10 -0700</update_date>
+  <accession>HMDBP02918</accession>
+  <secondary_accessions>
+    <accession>8426</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>IKATP</synonym>
+    <synonym>Inward rectifier K(+) channel Kir6.2</synonym>
+    <synonym>Potassium channel, inwardly rectifying subfamily J member 11</synonym>
+  </synonyms>
+  <gene_name>KCNJ11</gene_name>
+  <general_function>Involved in inward rectifier potassium channel activity</general_function>
+  <specific_function>This receptor is controlled by G proteins. Inward rectifier potassium channels are characterized by a greater tendency to allow potassium to flow into the cell rather than out of it. Their voltage dependence is regulated by the concentration of extracellular potassium; as external potassium is raised, the voltage range of the channel opening shifts to more positive voltages. The inward rectification is mainly due to the blockage of outward current by internal magnesium. Can be blocked by extracellular barium</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01850</accession>
+      <name>Verapamil</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00586</accession>
+      <name>Potassium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14367</accession>
+      <name>Glimepiride</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14453</accession>
+      <name>Ibutilide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13961</accession>
+      <name>O-Desmethylverapamil (D-702)</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15058</accession>
+      <name>Levosimendan</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15151</accession>
+      <name>Glyburide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15251</accession>
+      <name>Diazoxide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15285</accession>
+      <name>Thiamylal</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>atp-activated inward rectifier potassium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>potassium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>voltage-gated potassium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>inward rectifier potassium channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>monovalent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>potassium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11p15.1</locus>
+    <gene_sequence>&gt;1173 bp
+ATGCTGTCCCGCAAGGGCATCATCCCCGAGGAATACGTGCTGACACGCCTGGCAGAGGAC
+CCTGCCGAGCCCAGGTACCGTGCCCGCCAGCGGAGGGCCCGCTTTGTGTCCAAGAAAGGC
+AACTGCAACGTGGCCCACAAGAACATCCGGGAGCAGGGCCGCTTCCTGCAGGACGTGTTC
+ACCACGCTGGTGGACCTCAAGTGGCCACACACATTGCTCATCTTCACCATGTCCTTCCTG
+TGCAGCTGGCTGCTCTTCGCCATGGCCTGGTGGCTCATCGCCTTCGCCCACGGTGACCTG
+GCCCCCAGCGAGGGCACTGCTGAGCCCTGTGTCACCAGCATCCACTCCTTCTCGTCTGCC
+TTCCTTTTCTCCATTGAGGTCCAAGTGACTATTGGCTTTGGGGGGCGCATGGTGACTGAG
+GAGTGCCCACTGGCCATCCTGATCCTCATCGTGCAGAACATCGTGGGGCTCATGATCAAC
+GCCATCATGCTTGGCTGCATCTTCATGAAGACTGCCCAAGCCCACCGCAGGGCTGAGACC
+CTCATCTTCAGCAAGCATGCGGTGATCGCCCTGCGCCACGGCCGCCTCTGCTTCATGCTA
+CGTGTGGGTGACCTCCGCAAGAGCATGATCATCAGCGCCACCATCCACATGCAGGTGGTA
+CGCAAGACCACCAGCCCCGAGGGCGAGGTGGTGCCCCTCCACCAGGTGGACATCCCCATG
+GAGAACGGCGTGGGTGGCAACAGCATCTTCCTGGTGGCCCCGCTGATCATCTACCATGTC
+ATTGATGCCAACAGCCCACTCTACGACCTGGCACCCAGCGACCTGCACCACCACCAGGAC
+CTCGAGATCATCGTCATCCTGGAAGGCGTGGTGGAAACCACGGGCATCACCACCCAGGCC
+CGCACCTCCTACCTGGCCGATGAGATCCTGTGGGGCCAGCGCTTTGTGCCCATTGTAGCT
+GAGGAGGACGGACGTTACTCTGTGGACTACTCCAAGTTTGGCAACACCATCAAAGTGCCC
+ACACCACTCTGCACGGCCCGCCAGCTTGATGAGGACCACAGCCTACTGGAAGCTCTGACC
+CTCGCCTCAGCCCGCGGGCCCCTGCGCAAGCGCAGCGTGCCCATGGCCAAGGCCAAGCCC
+AAGTTCAGCATCTCTCCAGATTCCCTGTCCTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>390</residue_number>
+    <molecular_weight>43540.4</molecular_weight>
+    <theoretical_pi>8.1</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>IRK</name>
+        <pfam_id>PF01007</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>69-93</region>
+      <region>145-166</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;ATP-sensitive inward rectifier potassium channel 11
+MLSRKGIIPEEYVLTRLAEDPAEPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVF
+TTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSA
+FLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAET
+LIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPM
+ENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQA
+RTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTIKVPTPLCTARQLDEDHSLLEALT
+LASARGPLRKRSVPMAKAKPKFSISPDSLS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62023267</genbank_protein_id>
+  <uniprot_id>Q14654</uniprot_id>
+  <uniprot_name>IRK11_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>BC064497</genbank_gene_id>
+  <genecard_id>KCNJ11</genecard_id>
+  <geneatlas_id>KCNJ11</geneatlas_id>
+  <hgnc_id>HGNC:6257</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Inagaki N, Gonoi T, Clement JP 4th, Namba N, Inazawa J, Gonzalez G, Aguilar-Bryan L, Seino S, Bryan J: Reconstitution of IKATP: an inward rectifier subunit plus the sulfonylurea receptor. Science. 1995 Nov 17;270(5239):1166-70.</reference_text>
+      <pubmed_id>7502040</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ribalet B, John SA, Weiss JN: Molecular basis for Kir6.2 channel inhibition by adenine nucleotides.  Biophys J. 2003 Jan;84(1):266-76.</reference_text>
+      <pubmed_id>12524280</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Meissner T, Beinbrech B, Mayatepek E: Congenital hyperinsulinism: molecular basis of a heterogeneous disease.  Hum Mutat. 1999;13(5):351-61.</reference_text>
+      <pubmed_id>10338089</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Thomas PM, Cote GJ, Hallman DM, Mathew PM: Homozygosity mapping, to chromosome 11p, of the gene for familial persistent hyperinsulinemic hypoglycemia of infancy. Am J Hum Genet. 1995 Feb;56(2):416-21.</reference_text>
+      <pubmed_id>7847376</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Thomas P, Ye Y, Lightner E: Mutation of the pancreatic islet inward rectifier Kir6.2 also leads to familial persistent hyperinsulinemic hypoglycemia of infancy. Hum Mol Genet. 1996 Nov;5(11):1809-12.</reference_text>
+      <pubmed_id>8923010</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sakura H, Wat N, Horton V, Millns H, Turner RC, Ashcroft FM: Sequence variations in the human Kir6.2 gene, a subunit of the beta-cell ATP-sensitive K-channel: no association with NIDDM in while Caucasian subjects or evidence of abnormal function when expressed in vitro. Diabetologia. 1996 Oct;39(10):1233-6.</reference_text>
+      <pubmed_id>8897013</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Inoue H, Ferrer J, Warren-Perry M, Zhang Y, Millns H, Turner RC, Elbein SC, Hampe CL, Suarez BK, Inagaki N, Seino S, Permutt MA: Sequence variants in the pancreatic islet beta-cell inwardly rectifying K+ channel Kir6.2 (Bir) gene: identification and lack of role in Caucasian patients with NIDDM. Diabetes. 1997 Mar;46(3):502-7.</reference_text>
+      <pubmed_id>9032109</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Aguilar-Bryan L, Bryan J: Molecular biology of adenosine triphosphate-sensitive potassium channels.  Endocr Rev. 1999 Apr;20(2):101-35.</reference_text>
+      <pubmed_id>10204114</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Halushka MK, Fan JB, Bentley K, Hsie L, Shen N, Weder A, Cooper R, Lipshutz R, Chakravarti A: Patterns of single-nucleotide polymorphisms in candidate genes for blood-pressure homeostasis. Nat Genet. 1999 Jul;22(3):239-47.</reference_text>
+      <pubmed_id>10391210</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huopio H, Jaaskelainen J, Komulainen J, Miettinen R, Karkkainen P, Laakso M, Tapanainen P, Voutilainen R, Otonkoski T: Acute insulin response tests for the differential diagnosis of congenital hyperinsulinism. J Clin Endocrinol Metab. 2002 Oct;87(10):4502-7.</reference_text>
+      <pubmed_id>12364426</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sagen JV, Raeder H, Hathout E, Shehadeh N, Gudmundsson K, Baevre H, Abuelo D, Phornphutkul C, Molnes J, Bell GI, Gloyn AL, Hattersley AT, Molven A, Sovik O, Njolstad PR: Permanent neonatal diabetes due to mutations in KCNJ11 encoding Kir6.2: patient characteristics and initial response to sulfonylurea therapy. Diabetes. 2004 Oct;53(10):2713-8.</reference_text>
+      <pubmed_id>15448106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vaxillaire M, Populaire C, Busiah K, Cave H, Gloyn AL, Hattersley AT, Czernichow P, Froguel P, Polak M: Kir6.2 mutations are a common cause of permanent neonatal diabetes in a large cohort of French patients. Diabetes. 2004 Oct;53(10):2719-22.</reference_text>
+      <pubmed_id>15448107</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gloyn AL, Cummings EA, Edghill EL, Harries LW, Scott R, Costa T, Temple IK, Hattersley AT, Ellard S: Permanent neonatal diabetes due to paternal germline mosaicism for an activating mutation of the KCNJ11 Gene encoding the Kir6.2 subunit of the beta-cell potassium adenosine triphosphate channel. J Clin Endocrinol Metab. 2004 Aug;89(8):3932-5.</reference_text>
+      <pubmed_id>15292329</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tornovsky S, Crane A, Cosgrove KE, Hussain K, Lavie J, Heyman M, Nesher Y, Kuchinski N, Ben-Shushan E, Shatz O, Nahari E, Potikha T, Zangen D, Tenenbaum-Rakover Y, de Vries L, Argente J, Gracia R, Landau H, Eliakim A, Lindley K, Dunne MJ, Aguilar-Bryan L, Glaser B: Hyperinsulinism of infancy: novel ABCC8 and KCNJ11 mutations and evidence for additional locus heterogeneity. J Clin Endocrinol Metab. 2004 Dec;89(12):6224-34.</reference_text>
+      <pubmed_id>15579781</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gloyn AL, Pearson ER, Antcliff JF, Proks P, Bruining GJ, Slingerland AS, Howard N, Srinivasan S, Silva JM, Molnes J, Edghill EL, Frayling TM, Temple IK, Mackay D, Shield JP, Sumnik Z, van Rhijn A, Wales JK, Clark P, Gorman S, Aisenberg J, Ellard S, Njolstad PR, Ashcroft FM, Hattersley AT: Activating mutations in the gene encoding the ATP-sensitive potassium-channel subunit Kir6.2 and permanent neonatal diabetes. N Engl J Med. 2004 Apr 29;350(18):1838-49.</reference_text>
+      <pubmed_id>15115830</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Proks P, Antcliff JF, Lippiat J, Gloyn AL, Hattersley AT, Ashcroft FM: Molecular basis of Kir6.2 mutations associated with neonatal diabetes or neonatal diabetes plus neurological features. Proc Natl Acad Sci U S A. 2004 Dec 14;101(50):17539-44. Epub 2004 Dec 6.</reference_text>
+      <pubmed_id>15583126</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ohkubo K, Nagashima M, Naito Y, Taguchi T, Suita S, Okamoto N, Fujinaga H, Tsumura K, Kikuchi K, Ono J: Genotypes of the pancreatic beta-cell K-ATP channel and clinical phenotypes of Japanese patients with persistent hyperinsulinaemic hypoglycaemia of infancy. Clin Endocrinol (Oxf). 2005 Apr;62(4):458-65.</reference_text>
+      <pubmed_id>15807877</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gloyn AL, Reimann F, Girard C, Edghill EL, Proks P, Pearson ER, Temple IK, Mackay DJ, Shield JP, Freedenberg D, Noyes K, Ellard S, Ashcroft FM, Gribble FM, Hattersley AT: Relapsing diabetes can result from moderately activating mutations in KCNJ11. Hum Mol Genet. 2005 Apr 1;14(7):925-34. Epub 2005 Feb 17.</reference_text>
+      <pubmed_id>15718250</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Massa O, Iafusco D, D'Amato E, Gloyn AL, Hattersley AT, Pasquino B, Tonini G, Dammacco F, Zanette G, Meschi F, Porzio O, Bottazzo G, Crino A, Lorini R, Cerutti F, Vanelli M, Barbetti F: KCNJ11 activating mutations in Italian patients with permanent neonatal diabetes. Hum Mutat. 2005 Jan;25(1):22-7.</reference_text>
+      <pubmed_id>15580558</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Henwood MJ, Kelly A, Macmullen C, Bhatia P, Ganguly A, Thornton PS, Stanley CA: Genotype-phenotype correlations in children with congenital hyperinsulinism due to recessive mutations of the adenosine triphosphate-sensitive potassium channel genes. J Clin Endocrinol Metab. 2005 Feb;90(2):789-94. Epub 2004 Nov 23.</reference_text>
+      <pubmed_id>15562009</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yorifuji T, Nagashima K, Kurokawa K, Kawai M, Oishi M, Akazawa Y, Hosokawa M, Yamada Y, Inagaki N, Nakahata T: The C42R mutation in the Kir6.2 (KCNJ11) gene as a cause of transient neonatal diabetes, childhood diabetes, or later-onset, apparently type 2 diabetes mellitus. J Clin Endocrinol Metab. 2005 Jun;90(6):3174-8. Epub 2005 Mar 22.</reference_text>
+      <pubmed_id>15784703</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Marthinet E, Bloc A, Oka Y, Tanizawa Y, Wehrle-Haller B, Bancila V, Dubuis JM, Philippe J, Schwitzgebel VM: Severe congenital hyperinsulinism caused by a mutation in the Kir6.2 subunit of the adenosine triphosphate-sensitive potassium channel impairing trafficking and function. J Clin Endocrinol Metab. 2005 Sep;90(9):5401-6. Epub 2005 Jul 5.</reference_text>
+      <pubmed_id>15998776</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shimomura K, Girard CA, Proks P, Nazim J, Lippiat JD, Cerutti F, Lorini R, Ellard S, Hattersley AT, Barbetti F, Ashcroft FM: Mutations at the same residue (R50) of Kir6.2 (KCNJ11) that cause neonatal diabetes produce different functional effects. Diabetes. 2006 Jun;55(6):1705-12.</reference_text>
+      <pubmed_id>16731833</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Flanagan SE, Edghill EL, Gloyn AL, Ellard S, Hattersley AT: Mutations in KCNJ11, which encodes Kir6.2, are a common cause of diabetes diagnosed in the first 6 months of life, with the phenotype determined by genotype. Diabetologia. 2006 Jun;49(6):1190-7. Epub 2006 Apr 12.</reference_text>
+      <pubmed_id>16609879</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fernandez-Marmiesse A, Salas A, Vega A, Fernandez-Lorenzo JR, Barreiro J, Carracedo A: Mutation spectra of ABCC8 gene in Spanish patients with Hyperinsulinism of Infancy (HI). Hum Mutat. 2006 Feb;27(2):214.</reference_text>
+      <pubmed_id>16429405</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lin YW, MacMullen C, Ganguly A, Stanley CA, Shyng SL: A novel KCNJ11 mutation associated with congenital hyperinsulinism reduces the intrinsic open probability of beta-cell ATP-sensitive potassium channels. J Biol Chem. 2006 Feb 3;281(5):3006-12. Epub 2005 Dec 6.</reference_text>
+      <pubmed_id>16332676</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Suchi M, MacMullen CM, Thornton PS, Adzick NS, Ganguly A, Ruchelli ED, Stanley CA: Molecular and immunohistochemical analyses of the focal form of congenital hyperinsulinism. Mod Pathol. 2006 Jan;19(1):122-9.</reference_text>
+      <pubmed_id>16357843</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stanik J, Gasperikova D, Paskova M, Barak L, Javorkova J, Jancova E, Ciljakova M, Hlava P, Michalek J, Flanagan SE, Pearson E, Hattersley AT, Ellard S, Klimes I: Prevalence of permanent neonatal diabetes in Slovakia and successful replacement of insulin with sulfonylurea therapy in KCNJ11 and ABCC8 mutation carriers. J Clin Endocrinol Metab. 2007 Apr;92(4):1276-82. Epub 2007 Jan 9.</reference_text>
+      <pubmed_id>17213273</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glimepiride</name>
+        <accession>HMDB14367</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Song DK, Ashcroft FM: Glimepiride block of cloned beta-cell, cardiac and smooth muscle K(ATP) channels.  Br J Pharmacol. 2001 May;133(1):193-9.</reference_text>
+        <pubmed_id>11325810</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glimepiride</name>
+        <accession>HMDB14367</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lawrence CL, Rainbow RD, Davies NW, Standen NB: Effect of metabolic inhibition on glimepiride block of native and cloned cardiac sarcolemmal K(ATP) channels. Br J Pharmacol. 2002 Jul;136(5):746-52.</reference_text>
+        <pubmed_id>12086984</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glimepiride</name>
+        <accession>HMDB14367</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bataille D: [Molecular mechanisms of insulin secretion].  Diabetes Metab. 2002 Dec;28(6 Suppl):4S7-13.</reference_text>
+        <pubmed_id>12703060</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ibutilide</name>
+        <accession>HMDB14453</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Doggrell SA, Hancox JC: Ibutilide--recent molecular insights and accumulating evidence for use in atrial flutter and fibrillation. Expert Opin Investig Drugs. 2005 May;14(5):655-69.</reference_text>
+        <pubmed_id>15926871</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ibutilide</name>
+        <accession>HMDB14453</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Foster RH, Wilde MI, Markham A: Ibutilide. A review of its pharmacological properties and clinical potential in the acute management of atrial flutter and fibrillation. Drugs. 1997 Aug;54(2):312-30.</reference_text>
+        <pubmed_id>9257085</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylverapamil (D-702)</name>
+        <accession>HMDB13961</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylverapamil (D-702)</name>
+        <accession>HMDB13961</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yamada S, Kane GC, Behfar A, Liu XK, Dyer RB, Faustino RS, Miki T, Seino S, Terzic A: Protection conferred by myocardial ATP-sensitive K+ channels in pressure overload-induced congestive heart failure revealed in KCNJ11 Kir6.2-null mutant. J Physiol. 2006 Dec 15;577(Pt 3):1053-65. Epub 2006 Oct 12.</reference_text>
+        <pubmed_id>17038430</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>O-Desmethylverapamil (D-702)</name>
+        <accession>HMDB13961</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shigeto M, Katsura M, Matsuda M, Ohkuma S, Kaku K: Nateglinide and mitiglinide, but not sulfonylureas, induce insulin secretion through a mechanism mediated by calcium release from endoplasmic reticulum. J Pharmacol Exp Ther. 2007 Jul;322(1):1-7. Epub 2007 Apr 4.</reference_text>
+        <pubmed_id>17409272</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Levosimendan</name>
+        <accession>HMDB15058</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yildiz O: Vasodilating mechanisms of levosimendan: involvement of K+ channels.  J Pharmacol Sci. 2007 May;104(1):1-5. Epub 2007 Apr 24.</reference_text>
+        <pubmed_id>17452812</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hambrock A, Loffler-Walz C, Quast U: Glibenclamide binding to sulphonylurea receptor subtypes: dependence on adenine nucleotides. Br J Pharmacol. 2002 Aug;136(7):995-1004.</reference_text>
+        <pubmed_id>12145099</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Nielsen FE, Bodvarsdottir TB, Worsaae A, MacKay P, Stidsen CE, Boonen HC, Pridal L, Arkhammar PO, Wahl P, Ynddal L, Junager F, Dragsted N, Tagmose TM, Mogensen JP, Koch A, Treppendahl SP, Hansen JB: 6-Chloro-3-alkylamino-4H-thieno[3,2-e]-1,2,4-thiadiazine 1,1-dioxide derivatives potently and selectively activate ATP sensitive potassium channels of pancreatic beta-cells. J Med Chem. 2002 Sep 12;45(19):4171-87.</reference_text>
+        <pubmed_id>12213059</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Gojkovic-Bukarica L, Hambrock A, Loffler-Walz C, Quast U, Russ U: Mg2+ sensitizes KATP channels to inhibition by DIDS: dependence on the sulphonylurea receptor subunit. Br J Pharmacol. 2002 Oct;137(4):429-40.</reference_text>
+        <pubmed_id>12359624</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ball AJ, McCluskey JT, Flatt PR, McClenaghan NH: Chronic exposure to tolbutamide and glibenclamide impairs insulin secretion but not transcription of K(ATP) channel components. Pharmacol Res. 2004 Jul;50(1):41-6.</reference_text>
+        <pubmed_id>15082027</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Glyburide</name>
+        <accession>HMDB15151</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lim JG, Lee HY, Yun JE, Kim SP, Park JW, Suh SI, Jang BC, Cho CH, Bae JH, Kim SS, Han J, Park MJ, Song DK: Taurine block of cloned ATP-sensitive K+ channels with different sulfonylurea receptor subunits expressed in Xenopus laevis oocytes. Biochem Pharmacol. 2004 Sep 1;68(5):901-10.</reference_text>
+        <pubmed_id>15294453</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>D'hahan N, Moreau C, Prost AL, Jacquet H, Alekseev AE, Terzic A, Vivaudou M: Pharmacological plasticity of cardiac ATP-sensitive potassium channels toward diazoxide revealed by ADP. Proc Natl Acad Sci U S A. 1999 Oct 12;96(21):12162-7.</reference_text>
+        <pubmed_id>10518593</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sakura H, Trapp S, Liss B, Ashcroft FM: Altered functional properties of KATP channel conferred by a novel splice variant of SUR1. J Physiol. 1999 Dec 1;521 Pt 2:337-50.</reference_text>
+        <pubmed_id>10581306</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shindo T, Katayama Y, Horio Y, Kurachi Y: MCC-134, a novel vascular relaxing agent, is an inverse agonist for the pancreatic-type ATP-sensitive K(+) channel. J Pharmacol Exp Ther. 2000 Jan;292(1):131-5.</reference_text>
+        <pubmed_id>10604939</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>de Lonlay P, Fournet JC, Touati G, Groos MS, Martin D, Sevin C, Delagne V, Mayaud C, Chigot V, Sempoux C, Brusset MC, Laborde K, Bellane-Chantelot C, Vassault A, Rahier J, Junien C, Brunelle F, Nihoul-Fekete C, Saudubray JM, Robert JJ: Heterogeneity of persistent hyperinsulinaemic hypoglycaemia. A series of 175 cases. Eur J Pediatr. 2002 Jan;161(1):37-48.</reference_text>
+        <pubmed_id>11808879</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Diazoxide</name>
+        <accession>HMDB15251</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Russ U, Lange U, Loffler-Walz C, Hambrock A, Quast U: Binding and effect of K ATP channel openers in the absence of Mg2+.  Br J Pharmacol. 2003 May;139(2):368-80.</reference_text>
+        <pubmed_id>12770942</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiamylal</name>
+        <accession>HMDB15285</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kawano T, Oshita S, Takahashi A, Tsutsumi Y, Tomiyama Y, Kitahata H, Kuroda Y, Nakaya Y: Molecular mechanisms of the inhibitory effects of propofol and thiamylal on sarcolemmal adenosine triphosphate-sensitive potassium channels. Anesthesiology. 2004 Feb;100(2):338-46.</reference_text>
+        <pubmed_id>14739809</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiamylal</name>
+        <accession>HMDB15285</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tsutsumi Y, Oshita S, Kitahata H, Kuroda Y, Kawano T, Nakaya Y: Blockade of adenosine triphosphate-sensitive potassium channels by thiamylal in rat ventricular myocytes. Anesthesiology. 2000 Apr;92(4):1154-9.</reference_text>
+        <pubmed_id>10754636</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Thiamylal</name>
+        <accession>HMDB15285</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Eguchi S, Kawano T, Oshita S, Nakajo N: [Effects of propofol and thiamylal on nicorandil induced ATP-sensitive potassium channel activities in cultured rat aortic smooth muscle cells]. Masui. 2005 Apr;54(4):364-9.</reference_text>
+        <pubmed_id>15852621</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

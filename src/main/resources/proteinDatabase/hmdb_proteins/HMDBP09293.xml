@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:21:38 -0700</creation_date>
+  <update_date>2013-05-27 11:39:06 -0600</update_date>
+  <accession>HMDBP09293</accession>
+  <secondary_accessions>
+    <accession>15123</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>SubName: Ubiquitin-conjugating enzyme E2W (Putative), isoform CRA_c</synonym>
+    <synonym>Ubiquitin carrier protein W</synonym>
+    <synonym>Ubiquitin-conjugating enzyme 16</synonym>
+    <synonym>Ubiquitin-protein ligase W</synonym>
+    <synonym>UBC-16</synonym>
+  </synonyms>
+  <gene_name>UBE2W</gene_name>
+  <general_function>Involved in acid-amino acid ligase activity</general_function>
+  <specific_function>Accepts ubiquitin from the E1 complex and catalyzes its covalent attachment to other proteins. Catalyzes monoubiquitination. Involved in degradation of misfolded chaperone substrates by mediating monoubiquitination of STUB1/CHIP, leading to recruitment of ATXN3 to monoubiquitinated STUB1/CHIP, and restriction of the length of ubiquitin chain attached to STUB1/CHIP substrates by ATXN3. After UV irradiation, but not after mitomycin-C (MMC) treatment, acts as a specific E2 ubiquitin-conjugating enzyme for the Fanconi anemia complex by associating with E3 ubiquitin-protein ligase FANCL and catalyzing monoubiquitination of FANCD2, a key step in the DNA damage pathway. In vitro catalyzes 'Lys-11'-linked polyubiquitination.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>protein ubiquitination</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Ubiquitin mediated proteolysis</name>
+      <smpdb_id/>
+      <kegg_map_id>map04120</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00045</accession>
+      <name>Adenosine monophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00250</accession>
+      <name>Pyrophosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligase activity, forming carbon-nitrogen bonds</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>acid-amino acid ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>small conjugating protein ligase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein modification process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>post-translational protein modification</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ubiquitin-protein ligase activity</description>
+      <go_id>GO:0004842</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cellular response to misfolded protein</description>
+      <go_id>GO:0071218</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA repair</description>
+      <go_id>GO:0006281</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>misfolded or incompletely synthesized protein catabolic process</description>
+      <go_id>GO:0006515</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>proteasomal ubiquitin-dependent protein catabolic process</description>
+      <go_id>GO:0043161</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein K11-linked ubiquitination</description>
+      <go_id>GO:0070979</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein monoubiquitination</description>
+      <go_id>GO:0006513</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>8</chromosome_location>
+    <locus>8q21.11</locus>
+    <gene_sequence>&gt;489 bp
+ATGGCGTCAATGCAGACCACAGGAAGGAGGGTGGAAGTATGGTTTCCAAAACGACTACAG
+AAAGAACTGTTGGCTTTGCAAAATGACCCACCTCCTGGAATGACCTTAAATGAGAAGAGT
+GTTCAAAATTCAATTACACAGTGGATTGTAGACATGGAAGGTGCACCAGGTACCTTATAT
+GAAGGGGAAAAATTTCAACTTCTATTTAAATTTAGTAGTCGATATCCTTTTGACTCTCCT
+CAGGTCATGTTTACTGGTGAAAATATTCCTGTTCATCCTCATGTTTATAGCAATGGTCAT
+ATCTGTTTATCCATTCTAACAGAAGACTGGTCCCCAGCGCTCTCAGTCCAATCAGTTTGT
+CTTAGCATTATTAGCATGCTTTCCAGCTGCAAGGAAAAGAGACGACCACCGGATAATTCT
+TTTTATGTGCGAACATGTAACAAGAATCCAAAGAAAACAAAATGGTGGTATCATGATGAT
+ACTTGTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>162</residue_number>
+    <molecular_weight>22018.2</molecular_weight>
+    <theoretical_pi>9.148</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>UQ_con</name>
+        <pfam_id>PF00179</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Ubiquitin-conjugating enzyme 16
+MASMQTTGRRVEVWFPKRLQKELLALQNDPPPGMTLNEKSVQNSITQWIVDMEGAPGTLY
+EGEKFQLLFKFSSRYPFDSPQVMFTGENIPVHPHVYSNGHICLSILTEDWSPALSVQSVC
+LSIISMLSSCKEKRRPPDNSFYVRTCNKNPKKTKWWYHDDTC</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>62997235</genbank_protein_id>
+  <uniprot_id>Q96B02</uniprot_id>
+  <uniprot_name>Q1XBE0_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2A7L</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AY948289</genbank_gene_id>
+  <genecard_id>UBE2W</genecard_id>
+  <geneatlas_id>UBE2W</geneatlas_id>
+  <hgnc_id>HGNC:25616</hgnc_id>
+  <general_references>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

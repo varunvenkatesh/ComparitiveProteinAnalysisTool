@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:00:44 -0700</creation_date>
+  <update_date>2013-01-15 19:00:44 -0700</update_date>
+  <accession>HMDBP01926</accession>
+  <secondary_accessions>
+    <accession>7334</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Nuclear receptor subfamily 2 group B member 1</synonym>
+    <synonym>Retinoid X receptor alpha</synonym>
+  </synonyms>
+  <gene_name>RXRA</gene_name>
+  <general_function>Involved in sequence-specific DNA binding transcription factor activity</general_function>
+  <specific_function>Nuclear hormone receptor. Involved in the retinoic acid response pathway. Binds 9-cis retinoic acid (9C-RA). ARF6 acts as a key regulator of the tissue-specific adipocyte P2 (aP2) enhancer</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02369</accession>
+      <name>9-cis-Retinoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01852</accession>
+      <name>All-trans-retinoic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14355</accession>
+      <name>Adapalene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14452</accession>
+      <name>Bexarotene</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14602</accession>
+      <name>Acitretin</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>sequence-specific dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>molecular transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>signal transducer activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ligand-dependent nuclear receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid hormone receptor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>sequence-specific dna binding transcription factor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>biological regulation</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of biological process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of gene expression</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>regulation of transcription, dna-dependent</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:9</chromosome_location>
+    <locus>9q34.3</locus>
+    <gene_sequence>&gt;1389 bp
+ATGGACACCAAACATTTCCTGCCGCTCGATTTCTCCACCCAGGTGAACTCCTCCCTCACC
+TCCCCGACGGGGCGAGGCTCCATGGCTGCCCCCTCGCTGCACCCGTCCCTGGGGCCTGGC
+ATCGGCTCCCCGGGACAGCTGCATTCTCCCATCAGCACCCTGAGCTCCCCCATCAACGGC
+ATGGGCCCGCCTTTCTCGGTCATCAGCTCCCCCATGGGCCCCCACTCCATGTCGGTGCCC
+ACCACACCCACCCTGGGCTTCAGCACTGGCAGCCCCCAGCTCAGCTCACCTATGAACCCC
+GTCAGCAGCAGCGAGGACATCAAGCCCCCCCTGGGCCTCAATGGCGTCCTCAAGGTCCCC
+GCCCACCCCTCAGGAAACATGGCTTCCTTCACCAAGCACATCTGCGCCATCTGCGGGGAC
+CGCTCCTCAGGCAAGCACTATGGAGTGTACAGCTGCGAGGGGTGCAAGGGCTTCTTCAAG
+CGGACGGTGCGCAAGGACCTGACCTACACCTGCCGCGACAACAAGGACTGCCTGATTGAC
+AAGCGGCAGCGGAACCGGTGCCAGTACTGCCGCTACCAGAAGTGCCTGGCCATGGGCATG
+AAGCGGGAAGCCGTGCAGGAGGAGCGGCAGCGTGGCAAGGACCGGAACGAGAATGAGGTG
+GAGTCGACCAGCAGCGCCAACGAGGACATGCCGGTGGAGAGGATCCTGGAGGCTGAGCTG
+GCCGTGGAGCCCAAGACCGAGACCTACGTGGAGGCAAACATGGGGCTGAACCCCAGCTCG
+CCGAACGACCCTGTCACCAACATTTGCCAAGCAGCCGACAAACAGCTTTTCACCCTGGTG
+GAGTGGGCCAAGCGGATCCCACACTTCTCAGAGCTGCCCCTGGACGACCAGGTCATCCTG
+CTGCGGGCAGGCTGGAATGAGCTGCTCATCGCCTCCTTCTCCCACCGCTCCATCGCCGTG
+AAGGACGGGATCCTCCTGGCCACCGGGCTGCACGTCCACCGGAACAGCGCCCACAGCGCA
+GGGGTGGGCGCCATCTTTGACAGGGTGCTGACGGAGCTTGTGTCCAAGATGCGGGACATG
+CAGATGGACAAGACGGAGCTGGGCTGCCTGCGCGCCATCGTCCTCTTTAACCCTGACTCC
+AAGGGGCTCTCGAACCCGGCCGAGGTGGAGGCGCTGAGGGAGAAGGTCTATGCGTCCTTG
+GAGGCCTACTGCAAGCACAAGTACCCAGAGCAGCCGGGAAGGTTCGCTAAGCTCTTGCTC
+CGCCTGCCGGCTCTGCGCTCCATCGGGCTCAAATGCCTGGAACATCTCTTCTTCTTCAAG
+CTCATCGGGGACACACCCATTGACACCTTCCTTATGGAGATGCTGGAGGCGCCGCACCAA
+ATGACTTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>462</residue_number>
+    <molecular_weight>50810.8</molecular_weight>
+    <theoretical_pi>7.86</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>DUF3345</name>
+        <pfam_id>PF11825</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Hormone_recep</name>
+        <pfam_id>PF00104</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-C4</name>
+        <pfam_id>PF00105</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Retinoic acid receptor RXR-alpha
+MDTKHFLPLDFSTQVNSSLTSPTGRGSMAAPSLHPSLGPGIGSPGQLHSPISTLSSPING
+MGPPFSVISSPMGPHSMSVPTTPTLGFSTGSPQLSSPMNPVSSSEDIKPPLGLNGVLKVP
+AHPSGNMASFTKHICAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLTYTCRDNKDCLID
+KRQRNRCQYCRYQKCLAMGMKREAVQEERQRGKDRNENEVESTSSANEDMPVERILEAEL
+AVEPKTETYVEANMGLNPSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVIL
+LRAGWNELLIASFSHRSIAVKDGILLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDM
+QMDKTELGCLRAIVLFNPDSKGLSNPAEVEALREKVYASLEAYCKHKYPEQPGRFAKLLL
+RLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQMT</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>35885</genbank_protein_id>
+  <uniprot_id>P19793</uniprot_id>
+  <uniprot_name>RXRA_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1LBD</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>X52773</genbank_gene_id>
+  <genecard_id>RXRA</genecard_id>
+  <geneatlas_id>RXRA</geneatlas_id>
+  <hgnc_id>HGNC:10477</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Mangelsdorf DJ, Ong ES, Dyck JA, Evans RM: Nuclear receptor that identifies a novel retinoic acid response pathway.  Nature. 1990 May 17;345(6272):224-9.</reference_text>
+      <pubmed_id>2159111</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Heyman RA, Mangelsdorf DJ, Dyck JA, Stein RB, Eichele G, Evans RM, Thaller C: 9-cis retinoic acid is a high affinity ligand for the retinoid X receptor.  Cell. 1992 Jan 24;68(2):397-406.</reference_text>
+      <pubmed_id>1310260</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen H, Lin RJ, Schiltz RL, Chakravarti D, Nash A, Nagy L, Privalsky ML, Nakatani Y, Evans RM: Nuclear receptor coactivator ACTR is a novel histone acetyltransferase and forms a multimeric activation complex with P/CAF and CBP/p300. Cell. 1997 Aug 8;90(3):569-80.</reference_text>
+      <pubmed_id>9267036</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee SK, Anzick SL, Choi JE, Bubendorf L, Guan XY, Jung YK, Kallioniemi OP, Kononen J, Trent JM, Azorsa D, Jhun BH, Cheong JH, Lee YC, Meltzer PS, Lee JW: A nuclear factor, ASC-2, as a cancer-amplified transcriptional coactivator essential for ligand-dependent transactivation by nuclear receptors in vivo. J Biol Chem. 1999 Nov 26;274(48):34283-93.</reference_text>
+      <pubmed_id>10567404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mathur M, Tucker PW, Samuels HH: PSF is a novel corepressor that mediates its effect through Sin3A and the DNA binding domain of nuclear hormone receptors. Mol Cell Biol. 2001 Apr;21(7):2298-311.</reference_text>
+      <pubmed_id>11259580</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bu H, Kashireddy P, Chang J, Zhu YT, Zhang Z, Zheng W, Rao SM, Zhu YJ: ERBP, a novel estrogen receptor binding protein enhancing the activity of estrogen receptor. Biochem Biophys Res Commun. 2004 Apr 23;317(1):54-9.</reference_text>
+      <pubmed_id>15047147</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Takano Y, Adachi S, Okuno M, Muto Y, Yoshioka T, Matsushima-Nishiwaki R, Tsurumi H, Ito K, Friedman SL, Moriwaki H, Kojima S, Okano Y: The RING finger protein, RNF8, interacts with retinoid X receptor alpha and enhances its transcription-stimulating activity. J Biol Chem. 2004 Apr 30;279(18):18926-34. Epub 2004 Feb 23.</reference_text>
+      <pubmed_id>14981089</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Singh RR, Gururaj AE, Vadlamudi RK, Kumar R: 9-cis-retinoic acid up-regulates expression of transcriptional coregulator PELP1, a novel coactivator of the retinoid X receptor alpha pathway. J Biol Chem. 2006 Jun 2;281(22):15394-404. Epub 2006 Mar 30.</reference_text>
+      <pubmed_id>16574651</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choi SJ, Chung SS, Rho EJ, Lee HW, Lee MH, Choi HS, Seol JH, Baek SH, Bang OS, Chung CH: Negative modulation of RXRalpha transcriptional activity by small ubiquitin-related modifier (SUMO) modification and its reversal by SUMO-specific protease SUSP1. J Biol Chem. 2006 Oct 13;281(41):30669-77. Epub 2006 Aug 15.</reference_text>
+      <pubmed_id>16912044</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lee MS, Sem DS, Kliewer SA, Provencal J, Evans RM, Wright PE: NMR assignments and secondary structure of the retinoid X receptor alpha DNA-binding domain. Evidence for the novel C-terminal helix. Eur J Biochem. 1994 Sep 1;224(2):639-50.</reference_text>
+      <pubmed_id>7925381</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rastinejad F, Perlmann T, Evans RM, Sigler PB: Structural determinants of nuclear receptor assembly on DNA direct repeats. Nature. 1995 May 18;375(6528):203-11.</reference_text>
+      <pubmed_id>7746322</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bourguet W, Ruff M, Chambon P, Gronemeyer H, Moras D: Crystal structure of the ligand-binding domain of the human nuclear receptor RXR-alpha. Nature. 1995 Jun 1;375(6530):377-82.</reference_text>
+      <pubmed_id>7760929</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Holmbeck SM, Foster MP, Casimiro DR, Sem DS, Dyson HJ, Wright PE: High-resolution solution structure of the retinoid X receptor DNA-binding domain. J Mol Biol. 1998 Aug 14;281(2):271-84.</reference_text>
+      <pubmed_id>9698548</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Adapalene</name>
+        <accession>HMDB14355</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Bernard BA: Adapalene, a new chemical entity with retinoid activity.  Skin Pharmacol. 1993;6 Suppl 1:61-9.</reference_text>
+        <pubmed_id>8142113</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Adapalene</name>
+        <accession>HMDB14355</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kim MJ, Ciletti N, Michel S, Reichert U, Rosenfield RL: The role of specific retinoid receptors in sebocyte growth and differentiation in culture. J Invest Dermatol. 2000 Feb;114(2):349-53.</reference_text>
+        <pubmed_id>10651997</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lowe MN, Plosker GL: Bexarotene.  Am J Clin Dermatol. 2000 Jul-Aug;1(4):245-50; discussion 251-2.</reference_text>
+        <pubmed_id>11702369</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tsai DE, Luger SM, Andreadis C, Vogl DT, Kemner A, Potuzak M, Goradia A, Loren AW, Perl AE, Schuster SJ, Porter DL, Stadtmauer EA, Goldstein SC, Thompson JE, Swider C, Bagg A, Mato AR, Carroll M: A phase I study of bexarotene, a retinoic X receptor agonist, in non-M3 acute myeloid leukemia. Clin Cancer Res. 2008 Sep 1;14(17):5619-25.</reference_text>
+        <pubmed_id>18765556</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tooker P, Yen WC, Ng SC, Negro-Vilar A, Hermann TW: Bexarotene (LGD1069, Targretin), a selective retinoid X receptor agonist, prevents and reverses gemcitabine resistance in NSCLC cells by modulating gene amplification. Cancer Res. 2007 May 1;67(9):4425-33.</reference_text>
+        <pubmed_id>17483357</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lalloyer F, Fievet C, Lestavel S, Torpier G, van der Veen J, Touche V, Bultel S, Yous S, Kuipers F, Paumelle R, Fruchart JC, Staels B, Tailleux A: The RXR agonist bexarotene improves cholesterol homeostasis and inhibits atherosclerosis progression in a mouse model of mixed dyslipidemia. Arterioscler Thromb Vasc Biol. 2006 Dec;26(12):2731-7. Epub 2006 Sep 28.</reference_text>
+        <pubmed_id>17008586</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yen WC, Lamph WW: The selective retinoid X receptor agonist bexarotene (LGD1069, Targretin) prevents and overcomes multidrug resistance in advanced breast carcinoma. Mol Cancer Ther. 2005 May;4(5):824-34.</reference_text>
+        <pubmed_id>15897247</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yen WC, Prudente RY, Corpuz MR, Negro-Vilar A, Lamph WW: A selective retinoid X receptor agonist bexarotene (LGD1069, targretin) inhibits angiogenesis and metastasis in solid tumours. Br J Cancer. 2006 Mar 13;94(5):654-60.</reference_text>
+        <pubmed_id>16495926</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rizvi N, Hawkins MJ, Eisenberg PD, Yocum RC, Reich SD: Placebo-controlled trial of bexarotene, a retinoid x receptor agonist, as maintenance therapy for patients treated with chemotherapy for advanced non-small-cell lung cancer. Clin Lung Cancer. 2001 Feb;2(3):210-5.</reference_text>
+        <pubmed_id>14700480</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rigas JR, Dragnev KH: Emerging role of rexinoids in non-small cell lung cancer: focus on bexarotene.  Oncologist. 2005 Jan;10(1):22-33.</reference_text>
+        <pubmed_id>15632250</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Bexarotene</name>
+        <accession>HMDB14452</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Farol LT, Hymes KB: Bexarotene: a clinical review.  Expert Rev Anticancer Ther. 2004 Apr;4(2):180-8.</reference_text>
+        <pubmed_id>15056048</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acitretin</name>
+        <accession>HMDB14602</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Orfanos CE, Zouboulis CC, Almond-Roesler B, Geilen CC: Current use and future potential role of retinoids in dermatology.  Drugs. 1997 Mar;53(3):358-88.</reference_text>
+        <pubmed_id>9074840</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Acitretin</name>
+        <accession>HMDB14602</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Tian K, Norris AW, Lin CL, Li E: The isolation and characterization of purified heterocomplexes of recombinant retinoic acid receptor and retinoid X receptor ligand binding domains. Biochemistry. 1997 May 13;36(19):5669-76.</reference_text>
+        <pubmed_id>9153406</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

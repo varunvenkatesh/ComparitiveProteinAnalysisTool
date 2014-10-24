@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:01:36 -0700</creation_date>
+  <update_date>2013-05-27 11:25:46 -0600</update_date>
+  <accession>HMDBP02015</accession>
+  <secondary_accessions>
+    <accession>7471</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>MOCO1-A</synonym>
+    <synonym>MOCS2A</synonym>
+    <synonym>Molybdenum cofactor synthesis protein 2 small subunit</synonym>
+    <synonym>Molybdenum cofactor synthesis protein 2A</synonym>
+    <synonym>Molybdopterin-synthase small subunit</synonym>
+    <synonym>Sulfur carrier protein MOCS2A</synonym>
+  </synonyms>
+  <gene_name>MOCS2</gene_name>
+  <general_function>Involved in Mo-molybdopterin cofactor biosynthetic process</general_function>
+  <specific_function>Acts as a sulfur carrier required for molybdopterin biosynthesis. Component of the molybdopterin synthase complex that catalyzes the conversion of precursor Z into molybdopterin by mediating the incorporation of 2 sulfur atoms into precursor Z to generate a dithiolene group. In the complex, serves as sulfur donor by being thiocarboxylated (-COSH) at its C-terminus by MOCS3. After interaction with MOCS2B, the sulfur is then transferred to precursor Z to form molybdopterin.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>molybdopterin biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Folate biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00790</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Sulfur relay system</name>
+      <smpdb_id/>
+      <kegg_map_id>map04122</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB02206</accession>
+      <name>Molybdopterin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59639</accession>
+      <name>Cyclic pyranopterin monophosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>process</category>
+      <description>sulfur metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cofactor metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>coenzyme metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>coenzyme biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>mo-molybdopterin cofactor biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>molybdopterin synthase complex</description>
+      <go_id>GO:0019008</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>Mo-molybdopterin cofactor biosynthetic process</description>
+      <go_id>GO:0006777</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>water-soluble vitamin metabolic process</description>
+      <go_id>GO:0006767</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cytoplasm</subcellular_location>
+    <subcellular_location>cytosol</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>5</chromosome_location>
+    <locus>5q11</locus>
+    <gene_sequence>&gt;267 bp
+ATGGTGCCGCTGTGCCAGGTTGAAGTATTGTATTTTGCAAAAAGTGCTGAAATAACAGGA
+GTTCGTTCAGAGACCATTTCTGTGCCTCAAGAAATAAAAGCGTTGCAGCTGTGGAAGGAG
+ATAGAAACTCGACATCCTGGATTGGCTGATGTTAGAAATCAGATAATATTTGCTGTTCGT
+CAAGAATATGTCGAGCTTGGAGATCAGCTCCTCGTGCTTCAGCCTGGAGACGAAATTGCC
+GTTATCCCCCCCATTAGTGGAGGATAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>88</residue_number>
+    <molecular_weight>9755.235</molecular_weight>
+    <theoretical_pi>4.702</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>ThiS</name>
+        <pfam_id>PF02597</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Molybdopterin synthase sulfur carrier subunit
+MVPLCQVEVLYFAKSAEITGVRSETISVPQEIKALQLWKEIETRHPGLADVRNQIIFAVR
+QEYVELGDQLLVLQPGDEIAVIPPISGG</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4262372</genbank_protein_id>
+  <uniprot_id>O96033</uniprot_id>
+  <uniprot_name>MOC2A_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF091871</genbank_gene_id>
+  <genecard_id>MOCS2</genecard_id>
+  <geneatlas_id>MOCS2</geneatlas_id>
+  <hgnc_id>HGNC:7193</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Stallmeyer B, Drugeon G, Reiss J, Haenni AL, Mendel RR: Human molybdopterin synthase gene: identification of a bicistronic transcript with overlapping reading frames. Am J Hum Genet. 1999 Mar;64(3):698-705.</reference_text>
+      <pubmed_id>10053003</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sloan J, Kinghorn JR, Unkles SE: The two subunits of human molybdopterin synthase: evidence for a bicistronic messenger RNA with overlapping reading frames. Nucleic Acids Res. 1999 Feb 1;27(3):854-8.</reference_text>
+      <pubmed_id>9889283</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leimkuhler S, Freuer A, Araujo JA, Rajagopalan KV, Mendel RR: Mechanistic studies of human molybdopterin synthase reaction and characterization of mutants identified in group B patients of molybdenum cofactor deficiency. J Biol Chem. 2003 Jul 11;278(28):26127-34. Epub 2003 May 5.</reference_text>
+      <pubmed_id>12732628</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matthies A, Rajagopalan KV, Mendel RR, Leimkuhler S: Evidence for the physiological role of a rhodanese-like protein for the biosynthesis of the molybdenum cofactor in humans. Proc Natl Acad Sci U S A. 2004 Apr 20;101(16):5946-51. Epub 2004 Apr 8.</reference_text>
+      <pubmed_id>15073332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matthies A, Nimtz M, Leimkuhler S: Molybdenum cofactor biosynthesis in humans: identification of a persulfide group in the rhodanese-like domain of MOCS3 by mass spectrometry. Biochemistry. 2005 May 31;44(21):7912-20.</reference_text>
+      <pubmed_id>15910006</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Krepinsky K, Leimkuhler S: Site-directed mutagenesis of the active site loop of the rhodanese-like domain of the human molybdopterin synthase sulfurase MOCS3. Major differences in substrate specificity between eukaryotic and bacterial homologs. FEBS J. 2007 Jun;274(11):2778-87. Epub 2007 Apr 25.</reference_text>
+      <pubmed_id>17459099</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schmitz J, Chowdhury MM, Hanzelmann P, Nimtz M, Lee EY, Schindelin H, Leimkuhler S: The sulfurtransferase activity of Uba4 presents a link between ubiquitin-like protein conjugation and activation of sulfur carrier proteins. Biochemistry. 2008 Jun 17;47(24):6479-89. Epub 2008 May 21.</reference_text>
+      <pubmed_id>18491921</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Reiss J, Dorche C, Stallmeyer B, Mendel RR, Cohen N, Zabot MT: Human molybdopterin synthase gene: genomic structure and mutations in molybdenum cofactor deficiency type B. Am J Hum Genet. 1999 Mar;64(3):706-11.</reference_text>
+      <pubmed_id>10053004</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Johnson JL, Coyne KE, Rajagopalan KV, Van Hove JL, Mackay M, Pitt J, Boneh A: Molybdopterin synthase mutations in a mild case of molybdenum cofactor deficiency. Am J Med Genet. 2001 Nov 22;104(2):169-73.</reference_text>
+      <pubmed_id>11746050</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Leimkuhler S, Charcosset M, Latour P, Dorche C, Kleppe S, Scaglia F, Szymczak I, Schupp P, Hahnewald R, Reiss J: Ten novel mutations in the molybdenum cofactor genes MOCS1 and MOCS2 and in vitro characterization of a MOCS2 mutation that abolishes the binding ability of molybdopterin synthase. Hum Genet. 2005 Oct;117(6):565-70. Epub 2005 Jul 14.</reference_text>
+      <pubmed_id>16021469</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hahnewald R, Leimkuhler S, Vilaseca A, Acquaviva-Bourdain C, Lenz U, Reiss J: A novel MOCS2 mutation reveals coordinated expression of the small and large subunit of molybdopterin synthase. Mol Genet Metab. 2006 Nov;89(3):210-3. Epub 2006 Jun 5.</reference_text>
+      <pubmed_id>16737835</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:06:05 -0700</creation_date>
+  <update_date>2013-01-15 19:06:05 -0700</update_date>
+  <accession>HMDBP02539</accession>
+  <secondary_accessions>
+    <accession>8038</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Atriopeptidase</synonym>
+    <synonym>CALLA</synonym>
+    <synonym>CD10 antigen</synonym>
+    <synonym>Common acute lymphocytic leukemia antigen</synonym>
+    <synonym>Enkephalinase</synonym>
+    <synonym>NEP</synonym>
+    <synonym>Neutral endopeptidase</synonym>
+    <synonym>Neutral endopeptidase 24.11</synonym>
+  </synonyms>
+  <gene_name>MME</gene_name>
+  <general_function>Involved in metalloendopeptidase activity</general_function>
+  <specific_function>Thermolysin-like specificity, but is almost confined on acting on polypeptides of up to 30 amino acids. Biologically important in the destruction of opioid peptides such as Met- and Leu-enkephalins by cleavage of a Gly-Phe bond. Able to cleave angiotensin-1, angiotensin-2 and angiotensin 1-9. Involved in the degradation of atrial natriuretic factor (ANF)</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01303</accession>
+      <name>Zinc (II) ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14754</accession>
+      <name>Candoxatril</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>metallopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>peptidase activity, acting on l-amino acid peptides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>endopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metalloendopeptidase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>protein metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>proteolysis</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Cell membrane</subcellular_location>
+    <subcellular_location>Single-pass type II membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:3</chromosome_location>
+    <locus>3q25.1-q25.2</locus>
+    <gene_sequence>&gt;2253 bp
+ATGGGCAAGTCAGAAAGTCAGATGGATATAACTGATATCAACACTCCAAAGCCAAAGAAG
+AAACAGCGATGGACTCCACTGGAGATCAGCCTCTCGGTCCTTGTCCTGCTCCTCACCATC
+ATAGCTGTGACAATGATCGCACTCTATGCAACCTACGATGATGGTATTTGCAAGTCATCA
+GACTGCATAAAATCAGCTGCTCGACTGATCCAAAACATGGATGCCACCACTGAGCCTTGT
+ACAGACTTTTTCAAATATGCTTGCGGAGGCTGGTTGAAACGTAATGTCATTCCCGAGACC
+AGCTCCCGTTACGGCAACTTTGACATTTTAAGAGATGAACTAGAAGTCGTTTTGAAAGAT
+GTCCTTCAAGAACCCAAAACTGAAGATATAGTAGCAGTGCAGAAAGCAAAAGCATTGTAC
+AGGTCTTGTATAAATGAATCTGCTATTGATAGCAGAGGTGGAGAACCTCTACTCAAACTG
+TTACCAGACATATATGGGTGGCCAGTAGCAACAGAAAACTGGGAGCAAAAATATGGTGCT
+TCTTGGACAGCTGAAAAAGCTATTGCACAACTGAATTCTAAATATGGGAAAAAAGTCCTT
+ATTAATTTGTTTGTTGGCACTGATGATAAGAATTCTGTGAATCATGTAATTCATATTGAC
+CAACCTCGACTTGGCCTCCCTTCTAGAGATTACTATGAATGCACTGGAATCTATAAAGAG
+GCTTGTACAGCATATGTGGATTTTATGATTTCTGTGGCCAGATTGATTCGTCAGGAAGAA
+AGATTGCCCATCGATGAAAACCAGCTTGCTTTGGAAATGAATAAAGTTATGGAATTGGAA
+AAAGAAATTGCCAATGCTACGGCTAAACCTGAAGATCGAAATGATCCAATGCTTCTGTAT
+AACAAGATGACATTGGCCCAGATCCAAAATAACTTTTCACTAGAGATCAATGGGAAGCCA
+TTCAGCTGGTTGAATTTCACAAATGAAATCATGTCAACTGTGAATATTAGTATTACAAAT
+GAGGAAGATGTGGTTGTTTATGCTCCAGAATATTTAACCAAACTTAAGCCCATTCTTACC
+AAATATTCTGCCAGAGATCTTCAAAATTTAATGTCCTGGAGATTCATAATGGATCTTGTA
+AGCAGCCTCAGCCGAACCTACAAGGAGTCCAGAAATGCTTTCCGCAAGGCCCTTTATGGT
+ACAACCTCAGAAACAGCAACTTGGAGACGTTGTGCAAACTATGTCAATGGGAATATGGAA
+AATGCTGTGGGGAGGCTTTATGTGGAAGCAGCATTTGCTGGAGAGAGTAAACATGTGGTC
+GAGGATTTGATTGCACAGATCCGAGAAGTTTTTATTCAGACTTTAGATGACCTCACTTGG
+ATGGATGCCGAGACAAAAAAGAGAGCTGAAGAAAAGGCCTTAGCAATTAAAGAAAGGATC
+GGCTATCCTGATGACATTGTTTCAAATGATAACAAACTGAATAATGAGTACCTCGAGTTG
+AACTACAAAGAAGATGAATACTTCGAGAACATAATTCAAAATTTGAAATTCAGCCAAAGT
+AAACAACTGAAGAAGCTCCGAGAAAAGGTGGACAAAGATGAGTGGATAAGTGGAGCAGCT
+GTAGTCAATGCATTTTACTCTTCAGGAAGAAATCAGATAGTCTTCCCAGCCGGCATTCTG
+CAGCCCCCCTTCTTTAGTGCCCAGCAGTCCAACTCATTGAACTATGGGGGCATCGGCATG
+GTCATAGGACACGAAATCACCCATGGCTTCGATGACAATGGCAGAAACTTTAACAAAGAT
+GGAGACCTCGTTGACTGGTGGACTCAACAGTCTGCAAGTAACTTTAAGGAGCAATCCCAG
+TGCATGGTGTATCAGTATGGAAACTTTTCCTGGGACCTGGCAGGTGGACAGCACCTTAAT
+GGAATTAATACACTGGGAGAAAACATTGCTGATAATGGAGGTCTTGGTCAAGCATACAGA
+GCCTATCAGAATTATATTAAAAAGAATGGCGAAGAAAAATTACTTCCTGGACTTGACCTA
+AATCACAAACAACTATTTTTCTTGAACTTTGCACAGGTGTGGTGTGGAACCTATAGGCCA
+GAGTATGCGGTTAACTCCATTAAAACAGATGTGCACAGTCCAGGCAATTTCAGGATTATT
+GGGACTTTGCAGAACTCTGCAGAGTTTTCAGAAGCCTTTCACTGCCGCAAGAATTCATAC
+ATGAATCCAGAAAAGAAGTGCCGGGTTTGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>750</residue_number>
+    <molecular_weight>85513.2</molecular_weight>
+    <theoretical_pi>5.43</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Peptidase_M13</name>
+        <pfam_id>PF01431</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Peptidase_M13_N</name>
+        <pfam_id>PF05649</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>29-51</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Neprilysin
+MGKSESQMDITDINTPKPKKKQRWTPLEISLSVLVLLLTIIAVTMIALYATYDDGICKSS
+DCIKSAARLIQNMDATTEPCTDFFKYACGGWLKRNVIPETSSRYGNFDILRDELEVVLKD
+VLQEPKTEDIVAVQKAKALYRSCINESAIDSRGGEPLLKLLPDIYGWPVATENWEQKYGA
+SWTAEKAIAQLNSKYGKKVLINLFVGTDDKNSVNHVIHIDQPRLGLPSRDYYECTGIYKE
+ACTAYVDFMISVARLIRQEERLPIDENQLALEMNKVMELEKEIANATAKPEDRNDPMLLY
+NKMTLAQIQNNFSLEINGKPFSWLNFTNEIMSTVNISITNEEDVVVYAPEYLTKLKPILT
+KYSARDLQNLMSWRFIMDLVSSLSRTYKESRNAFRKALYGTTSETATWRRCANYVNGNME
+NAVGRLYVEAAFAGESKHVVEDLIAQIREVFIQTLDDLTWMDAETKKRAEEKALAIKERI
+GYPDDIVSNDNKLNNEYLELNYKEDEYFENIIQNLKFSQSKQLKKLREKVDKDEWISGAA
+VVNAFYSSGRNQIVFPAGILQPPFFSAQQSNSLNYGGIGMVIGHEITHGFDDNGRNFNKD
+GDLVDWWTQQSASNFKEQSQCMVYQYGNFSWDLAGGQHLNGINTLGENIADNGGLGQAYR
+AYQNYIKKNGEEKLLPGLDLNHKQLFFLNFAQVWCGTYRPEYAVNSIKTDVHSPGNFRII
+GTLQNSAEFSEAFHCRKNSYMNPEKKCRVW</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>29626</genbank_protein_id>
+  <uniprot_id>P08473</uniprot_id>
+  <uniprot_name>NEP_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1DMT</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>Y00811</genbank_gene_id>
+  <genecard_id>MME</genecard_id>
+  <geneatlas_id>MME</geneatlas_id>
+  <hgnc_id>HGNC:7154</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Letarte M, Vera S, Tran R, Addis JB, Onizuka RJ, Quackenbush EJ, Jongeneel CV, McInnes RR: Common acute lymphocytic leukemia antigen is identical to neutral endopeptidase. J Exp Med. 1988 Oct 1;168(4):1247-53.</reference_text>
+      <pubmed_id>2971756</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shipp MA, Richardson NE, Sayre PH, Brown NR, Masteller EL, Clayton LK, Ritz J, Reinherz EL: Molecular cloning of the common acute lymphoblastic leukemia antigen (CALLA) identifies a type II integral membrane protein. Proc Natl Acad Sci U S A. 1988 Jul;85(13):4819-23.</reference_text>
+      <pubmed_id>2968607</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>D'Adamio L, Shipp MA, Masteller EL, Reinherz EL: Organization of the gene encoding common acute lymphoblastic leukemia antigen (neutral endopeptidase 24.11): multiple miniexons and separate 5' untranslated regions. Proc Natl Acad Sci U S A. 1989 Sep;86(18):7103-7.</reference_text>
+      <pubmed_id>2528730</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Malfroy B, Kuang WJ, Seeburg PH, Mason AJ, Schofield PR: Molecular cloning and amino acid sequence of human enkephalinase (neutral endopeptidase). FEBS Lett. 1988 Feb 29;229(1):206-10.</reference_text>
+      <pubmed_id>3162217</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yandle TG, Brennan SO, Espiner EA, Nicholls MG, Richards AM: Endopeptidase-24.11 in human plasma degrades atrial natriuretic factor (ANF) to ANF(99-105/106-126). Peptides. 1989 Jul-Aug;10(4):891-4.</reference_text>
+      <pubmed_id>2531377</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Le Moual H, Dion N, Roques BP, Crine P, Boileau G: Asp650 is crucial for catalytic activity of neutral endopeptidase 24-11.  Eur J Biochem. 1994 Apr 1;221(1):475-80.</reference_text>
+      <pubmed_id>8168535</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang H, Li XJ, Martin DB, Aebersold R: Identification and quantification of N-linked glycoproteins using hydrazide chemistry, stable isotope labeling and mass spectrometry. Nat Biotechnol. 2003 Jun;21(6):660-6. Epub 2003 May 18.</reference_text>
+      <pubmed_id>12754519</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rice GI, Thomas DA, Grant PJ, Turner AJ, Hooper NM: Evaluation of angiotensin-converting enzyme (ACE), its homologue ACE2 and neprilysin in angiotensin peptide metabolism. Biochem J. 2004 Oct 1;383(Pt 1):45-51.</reference_text>
+      <pubmed_id>15283675</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wisner A, Dufour E, Messaoudi M, Nejdi A, Marcel A, Ungeheuer MN, Rougeot C: Human Opiorphin, a natural antinociceptive modulator of opioid-dependent pathways. Proc Natl Acad Sci U S A. 2006 Nov 21;103(47):17979-84. Epub 2006 Nov 13.</reference_text>
+      <pubmed_id>17101991</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oefner C, D'Arcy A, Hennig M, Winkler FK, Dale GE: Structure of human neutral endopeptidase (Neprilysin) complexed with phosphoramidon. J Mol Biol. 2000 Feb 18;296(2):341-9.</reference_text>
+      <pubmed_id>10669592</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oefner C, Roques BP, Fournie-Zaluski MC, Dale GE: Structural analysis of neprilysin with various specific and potent inhibitors. Acta Crystallogr D Biol Crystallogr. 2004 Feb;60(Pt 2):392-6. Epub 2004       Jan 23.</reference_text>
+      <pubmed_id>14747736</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oefner C, Pierau S, Schulz H, Dale GE: Structural studies of a bifunctional inhibitor of neprilysin and DPP-IV.  Acta Crystallogr D Biol Crystallogr. 2007 Sep;63(Pt 9):975-81. Epub 2007       Aug 17.</reference_text>
+      <pubmed_id>17704566</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>O'Connell JE, Jardine AG, Davidson G, Connell JM: Candoxatril, an orally active neutral endopeptidase inhibitor, raises plasma atrial natriuretic factor and is natriuretic in essential hypertension. J Hypertens. 1992 Mar;10(3):271-7.</reference_text>
+        <pubmed_id>1315825</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Elsner D, Muntze A, Kromer EP, Riegger GA: Effectiveness of endopeptidase inhibition (candoxatril) in congestive heart failure. Am J Cardiol. 1992 Aug 15;70(4):494-8.</reference_text>
+        <pubmed_id>1386491</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Plamboeck A, Holst JJ, Carr RD, Deacon CF: Neutral endopeptidase 24.11 and dipeptidyl peptidase IV are both mediators of the degradation of glucagon-like peptide 1 in the anaesthetised pig. Diabetologia. 2005 Sep;48(9):1882-90. Epub 2005 Jul 16.</reference_text>
+        <pubmed_id>16025254</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sansoe G, Aragno M, Mastrocola R, Cutrin JC, Silvano S, Mengozzi G, Smedile A, Rosina F, Danni O, Rizzetto M: Overexpression of kidney neutral endopeptidase (EC 3.4.24.11) and renal function in experimental cirrhosis. Am J Physiol Renal Physiol. 2006 Jun;290(6):F1337-43. Epub 2006 Jan 31.</reference_text>
+        <pubmed_id>16449355</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Hirata Y, Suzuki E, Hayakawa H, Matsuoka H, Sugimoto T, Kangawa K, Matsuo H: Mechanisms of the natriuretic effects of neutral endopeptidase inhibition in Dahl salt-sensitive and salt-resistant rats. J Cardiovasc Pharmacol. 1994 Feb;23(2):283-90.</reference_text>
+        <pubmed_id>7511759</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Candoxatril</name>
+        <accession>HMDB14754</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

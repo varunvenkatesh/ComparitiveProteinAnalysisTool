@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:53:18 -0700</creation_date>
+  <update_date>2013-05-27 11:16:26 -0600</update_date>
+  <accession>HMDBP01093</accession>
+  <secondary_accessions>
+    <accession>6382</accession>
+    <accession>HMDBP04423</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>GN-1</synonym>
+    <synonym>GN1</synonym>
+  </synonyms>
+  <gene_name>GYG1</gene_name>
+  <general_function>Involved in transferase activity, transferring glycosyl groups</general_function>
+  <specific_function>Self-glucosylates, via an inter-subunit mechanism, to form an oligosaccharide primer that serves as substrate for glycogen synthase.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>glycogen biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01333</accession>
+      <name>Manganese</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00286</accession>
+      <name>Uridine diphosphate glucose</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00295</accession>
+      <name>Uridine 5'-diphosphate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring glycosyl groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glucose binding</description>
+      <go_id>GO:0005536</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>glycogenin glucosyltransferase activity</description>
+      <go_id>GO:0008466</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>metal ion binding</description>
+      <go_id>GO:0046872</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glucose metabolic process</description>
+      <go_id>GO:0006006</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycogen biosynthetic process</description>
+      <go_id>GO:0005978</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>glycogen catabolic process</description>
+      <go_id>GO:0005980</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>small molecule metabolic process</description>
+      <go_id>GO:0044281</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3q24-q25.1</locus>
+    <gene_sequence>&gt;1053 bp
+ATGACAGATCAGGCCTTTGTGACACTAACCACAAACGATGCCTACGCCAAAGGTGCCCTG
+GTCCTGGGATCATCTCTGAAACAGCACAGGACCACCAGGAGGCTGGTCGTGCTCGCCACC
+CCTCAGGTCTCAGACTCCATGAGAAAAGTTTTAGAGACAGTCTTTGATGAAGTCATCATG
+GTAGATGTCTTGGACAGTGGCGATTCTGCTCATCTAACCTTAATGAAGAGGCCAGAGTTG
+GGTGTCACGCTGACAAAGCTCCACTGCTGGTCGCTTACACAGTATTCAAAATGTGTATTC
+ATGGATGCAGATACTCTGGTCCTAGCAAATATTGATGATCTTTTTGACAGAGAAGAATTG
+TCAGCAGCACCAGACCCAGGGTGGCCTGACTGCTTCAATTCCGGAGTCTTCGTTTATCAG
+CCTTCAGTTGAAACATACAATCAGCTGTTGCATCTTGCTTCTGAGCAAGGTAGTTTTGAT
+GGTGGGGACCAAGGCATACTGAACACATTTTTTAGCAGCTGGGCAACAACAGATATCAGA
+AAACACCTGCCGTTTATTTATAACCTAAGCAGCATCTCTATATACTCCTACCTCCCGGCA
+TTTAAAGTGTTTGGTGCAAGTGCCAAAGTTGTGCATTTCCTGGGACGAGTCAAACCATGG
+AATTATACTTATGATCCCAAAACAAAAAGTGTCAAAAGTGAGGCCCATGATCCCAACATG
+ACTCATCCAGAGTTTCTCATCCTGTGGTGGAACATCTTTACCACCAACGTTTTACCTCTG
+CTTCAACAATTTGGCCTTGTCAAAGACACCTGCTCATATGTAAATGTGCTTTCAGACTTG
+GTCTATACACTGGCTTTCTCTTGTGGCTTCTGTAGAAAGGAAGATGTCTCAGGAGCCATA
+TCACATCTGTCCCTTGGGGAGATCCCAGCTATGGCACAGCCGTTTGTATCCTCGGAAGAA
+CGGAAGGAACGATGGGAACAGGGCCAGGCTGATTATATGGGAGCAGATTCCTTTGACAAC
+ATCAAGAGGAAACTTGACACTTACCTCCAGTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>350</residue_number>
+    <molecular_weight>37478.2</molecular_weight>
+    <theoretical_pi>5.397</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Glyco_transf_8</name>
+        <pfam_id>PF01501</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Glycogenin-1
+MTDQAFVTLTTNDAYAKGALVLGSSLKQHRTTRRLVVLATPQVSDSMRKVLETVFDEVIM
+VDVLDSGDSAHLTLMKRPELGVTLTKLHCWSLTQYSKCVFMDADTLVLANIDDLFDREEL
+SAAPDPGWPDCFNSGVFVYQPSVETYNQLLHLASEQGSFDGGDQGILNTFFSSWATTDIR
+KHLPFIYNLSSISIYSYLPAFKVFGASAKVVHFLGRVKPWNYTYDPKTKSVKSEAHDPNM
+THPEFLILWWNIFTTNVLPLLQQFGLVKDTCSYVNVLSDLVYTLAFSCGFCRKEDVSGAI
+SHLSLGEIPAMAQPFVSSEERKERWEQGQADYMGADSFDNIKRKLDTYLQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>20127457</genbank_protein_id>
+  <uniprot_id>P46976</uniprot_id>
+  <uniprot_name>GLYG_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>3Q4S</pdb_id>
+    <pdb_id>3QVB</pdb_id>
+    <pdb_id>3RMV</pdb_id>
+    <pdb_id>3RMW</pdb_id>
+    <pdb_id>3T7M</pdb_id>
+    <pdb_id>3T7N</pdb_id>
+    <pdb_id>3T7O</pdb_id>
+    <pdb_id>3U2T</pdb_id>
+    <pdb_id>3U2U</pdb_id>
+    <pdb_id>3U2V</pdb_id>
+    <pdb_id>3U2W</pdb_id>
+    <pdb_id>3U2X</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_004130.3</genbank_gene_id>
+  <genecard_id>GYG1</genecard_id>
+  <geneatlas_id>GYG1</geneatlas_id>
+  <hgnc_id>HGNC:4699</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Barbetti F, Rocchi M, Bossolasco M, Cordera R, Sbraccia P, Finelli P, Consalez GG: The human skeletal muscle glycogenin gene: cDNA, tissue expression and chromosomal localization. Biochem Biophys Res Commun. 1996 Mar 7;220(1):72-7.</reference_text>
+      <pubmed_id>8602861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lomako J, Mazuruk K, Lomako WM, Alonso MD, Whelan WJ, Rodriguez IR: The human intron-containing gene for glycogenin maps to chromosome 3, band q24. Genomics. 1996 May 1;33(3):519-22.</reference_text>
+      <pubmed_id>8661012</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Maanen MH, Fournier PA, Palmer TN, Abraham LJ: Characterization of the human glycogenin-1 gene: identification of a muscle-specific regulatory domain. Gene. 1999 Jul 8;234(2):217-26.</reference_text>
+      <pubmed_id>10395894</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhai L, Mu J, Zong H, DePaoli-Roach AA, Roach PJ: Structure and chromosomal localization of the human glycogenin-2 gene GYG2. Gene. 2000 Jan 25;242(1-2):229-35.</reference_text>
+      <pubmed_id>10721716</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Uridine 5'-diphosphate</name>
+        <accession>HMDB00295</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

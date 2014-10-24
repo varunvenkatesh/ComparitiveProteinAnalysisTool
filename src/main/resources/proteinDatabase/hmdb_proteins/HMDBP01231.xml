@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 18:54:31 -0700</creation_date>
+  <update_date>2013-01-15 18:54:31 -0700</update_date>
+  <accession>HMDBP01231</accession>
+  <secondary_accessions>
+    <accession>6527</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>A-T mutated</synonym>
+    <synonym>Ataxia telangiectasia mutated</synonym>
+  </synonyms>
+  <gene_name>ATM</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Serine/threonine protein kinase which activates checkpoint signaling upon double strand breaks (DSBs), apoptosis and genotoxic stresses such as ionizing ultraviolet A light (UVA), thereby acting as a DNA damage sensor. Recognizes the substrate consensus sequence [ST]-Q. Phosphorylates 'Ser-139' of histone variant H2AX/H2AFX at double strand breaks (DSBs), thereby regulating DNA damage response mechanism. Also plays a role in pre-B cell allelic exclusion, a process leading to expression of a single immunoglobulin heavy chain allele to enforce clonality and monospecific recognition by the B-cell antigen receptor (BCR) expressed on individual B lymphocytes. After the introduction of DNA breaks by the RAG complex on one immunoglobulin allele, acts by mediating a repositioning of the second allele to pericentromeric heterochromatin, preventing accessibility to the RAG complex and recombination of the second allele. Also involved in signal transduction and cell cycle control. May function as a tumor suppressor. Necessary for activation of ABL1 and SAPK. Phosphorylates p53/TP53, FANCD2, NFKBIA, BRCA1, CTIP, nibrin (NBN), TERF1, RAD9 and DCLRE1C. May play a role in vesicle and/or protein transport. Could play a role in T-cell development, gonad and neurological function. Plays a role in replication-dependent histone mRNA degradation. Binds DNA ends</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transferase activity, transferring phosphorus-containing groups</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>phosphotransferase activity, alcohol group as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+    <subcellular_location>Cytoplasmic vesicle</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>11q22-q23</locus>
+    <gene_sequence>&gt;9171 bp
+ATGAGTCTAGTACTTAATGATCTGCTTATCTGCTGCCGTCAACTAGAACATGATAGAGCT
+ACAGAACGAAAGAAAGAAGTTGAGAAATTTAAGCGCCTGATTCGAGATCCTGAAACAATT
+AAACATCTAGATCGGCATTCAGATTCCAAACAAGGAAAATATTTGAATTGGGATGCTGTT
+TTTAGATTTTTACAGAAATATATTCAGAAAGAAACAGAATGTCTGAGAATAGCAAAACCA
+AATGTATCAGCCTCAACACAAGCCTCCAGGCAGAAAAAGATGCAGGAAATCAGTAGTTTG
+GTCAAATACTTCATCAAATGTGCAAACAGAAGAGCACCTAGGCTAAAATGTCAAGAACTC
+TTAAATTATATCATGGATACAGTGAAAGATTCATCTAATGGTGCTATTTACGGAGCTGAT
+TGTAGCAACATACTACTCAAAGACATTCTTTCTGTGAGAAAATACTGGTGTGAAATATCT
+CAGCAACAGTGGTTAGAATTGTTCTCTGTGTACTTCAGGCTCTATCTGAAACCTTCACAA
+GATGTTCATAGAGTTTTAGTGGCTAGAATAATTCATGCTGTTACCAAAGGATGCTGTTCT
+CAGACTGACGGATTAAATTCCAAATTTTTGGACTTTTTTTCCAAGGCTATTCAGTGTGCG
+AGACAAGAAAAGAGCTCTTCAGGTCTAAATCATATCTTAGCAGCTCTTACTATCTTCCTC
+AAGACTTTGGCTGTCAACTTTCGAATTCGAGTGTGTGAATTAGGAGATGAAATTCTTCCC
+ACTTTGCTTTATATTTGGACTCAACATAGGCTTAATGATTCTTTAAAAGAAGTCATTATT
+GAATTATTTCAACTGCAAATTTATATCCATCATCCGAAAGGAGCCAAAACCCAAGAAAAA
+GGTGCTTATGAATCAACAAAATGGAGAAGTATTTTATACAACTTATATGATCTGCTAGTG
+AATGAGATAAGTCATATAGGAAGTAGAGGAAAGTATTCTTCAGGATTTCGTAATATTGCC
+GTCAAAGAAAATTTGATTGAATTGATGGCAGATATCTGTCACCAGGTTTTTAATGAAGAT
+ACCAGATCCTTGGAGATTTCTCAATCTTACACTACTACACAAAGAGAATCTAGTGATTAC
+AGTGTCCCTTGCAAAAGGAAGAAAATAGAACTAGGCTGGGAAGTAATAAAAGATCACCTT
+CAGAAGTCACAGAATGATTTTGATCTTGTGCCTTGGCTACAGATTGCAACCCAATTAATA
+TCAAAGTATCCTGCAAGTTTACCTAACTGTGAGCTGTCTCCATTACTGATGATACTATCT
+CAGCTTCTACCCCAACAGCGACATGGGGAACGTACACCATATGTGTTACGATGCCTTACG
+GAAGTTGCATTGTGTCAAGACAAGAGGTCAAACCTAGAAAGCTCACAAAAGTCAGATTTA
+TTAAAACTCTGGAATAAAATTTGGTGTATTACCTTTCGTGGTATAAGTTCTGAGCAAATA
+CAAGCTGAAAACTTTGGCTTACTTGGAGCCATAATTCAGGGTAGTTTAGTTGAGGTTGAC
+AGAGAATTCTGGAAGTTATTTACTGGGTCAGCCTGCAGACCTTCATGTCCTGCAGTATGC
+TGTTTGACTTTGGCACTGACCACCAGTATAGTTCCAGGAACGGTAAAAATGGGAATAGAG
+CAAAATATGTGTGAAGTAAATAGAAGCTTTTCTTTAAAGGAATCAATAATGAAATGGCTC
+TTATTCTATCAGTTAGAGGGTGACTTAGAAAATAGCACAGAAGTGCCTCCAATTCTTCAC
+AGTAATTTTCCTCATCTTGTACTGGAGAAAATTCTTGTGAGTCTCACTATGAAAAACTGT
+AAAGCTGCAATGAATTTTTTCCAAAGCGTGCCAGAATGTGAACACCACCAAAAAGATAAA
+GAAGAACTTTCATTCTCAGAAGTAGAAGAACTATTTCTTCAGACAACTTTTGACAAGATG
+GACTTTTTAACCATTGTGAGAGAATGTGGTATAGAAAAGCACCAGTCCAGTATTGGCTTC
+TCTGTCCACCAGAATCTCAAGGAATCACTGGATCGCTGTCTTCTGGGATTATCAGAACAG
+CTTCTGAATAATTACTCATCTGAGATTACAAATTCAGAAACTCTTGTCCGGTGTTCACGT
+CTTTTGGTGGGTGTCCTTGGCTGCTACTGTTACATGGGTGTAATAGCTGAAGAGGAAGCA
+TATAAGTCAGAATTATTCCAGAAAGCCAAGTCTCTAATGCAATGTGCAGGAGAAAGTATC
+ACTCTGTTTAAAAATAAGACAAATGAGGAATTCAGAATTGGTTCCTTGAGAAATATGATG
+CAGCTATGTACACGTTGCTTGAGCAACTGTACCAAGAAGAGTCCAAATAAGATTGCATCT
+GGCTTTTTCCTGCGATTGTTAACATCAAAGCTAATGAATGACATTGCAGATATTTGTAAA
+AGTTTAGCATCCTTCATCAAAAAGCCATTTGACCGTGGAGAAGTAGAATCAATGGAAGAT
+GATACTAATGGAAATCTAATGGAGGTGGAGGATCAGTCATCCATGAATCTATTTAACGAT
+TACCCTGATAGTAGTGTTAGTGATGCAAACGAACCTGGAGAGAGCCAAAGTACCATAGGT
+GCCATTAATCCTTTAGCTGAAGAATATCTGTCAAAGCAAGATCTACTTTTCTTAGACATG
+CTCAAGTTCTTGTGTTTGTGTGTAACTACTGCTCAGACCAATACTGTGTCCTTTAGGGCA
+GCTGATATTCGGAGGAAATTGTTAATGTTAATTGATTCTAGCACGCTAGAACCTACCAAA
+TCCCTCCACCTGCATATGTATCTAATGCTTTTAAAGGAGCTTCCTGGAGAAGAGTACCCC
+TTGCCAATGGAAGATGTTCTTGAACTTCTGAAACCACTATCCAATGTGTGTTCTTTGTAT
+CGTCGTGACCAAGATGTTTGTAAAACTATTTTAAACCATGTCCTTCATGTAGTGAAAAAC
+CTAGGTCAAAGCAATATGGACTCTGAGAACACAAGGGATGCTCAAGGACAGTTTCTTACA
+GTAATTGGAGCATTTTGGCATCTAACAAAGGAGAGGAAATATATATTCTCTGTAAGAATG
+GCCCTAGTAAATTGCCTTAAAACTTTGCTTGAGGCTGATCCTTATTCAAAATGGGCCATT
+CTTAATGTAATGGGAAAAGACTTTCCTGTAAATGAAGTATTTACACAATTTCTTGCTGAC
+AATCATCACCAAGTTCGCATGTTGGCTGCAGAGTCAATCAATAGATTGTTCCAGGACACG
+AAGGGAGATTCTTCCAGGTTACTGAAAGCACTTCCTTTGAAGCTTCAGCAAACAGCTTTT
+GAAAATGCATACTTGAAAGCTCAGGAAGGAATGAGAGAAATGTCCCATAGTGCTGAGAAC
+CCTGAAACTTTGGATGAAATTTATAATAGAAAATCTGTTTTACTGACGTTGATAGCTGTG
+GTTTTATCCTGTAGCCCTATCTGCGAAAAACAGGCTTTGTTTGCCCTGTGTAAATCTGTG
+AAAGAGAATGGATTAGAACCTCACCTTGTGAAAAAGGTTTTAGAGAAAGTTTCTGAAACT
+TTTGGATATAGACGTTTAGAAGACTTTATGGCATCTCATTTAGATTATCTGGTTTTGGAA
+TGGCTAAATCTTCAAGATACTGAATACAACTTATCTTCTTTTCCTTTTATTTTATTAAAC
+TACACAAATATTGAGGATTTCTATAGATCTTGTTATAAGGTTTTGATTCCACATCTGGTG
+ATTAGAAGTCATTTTGATGAGGTGAAGTCCATTGCTAATCAGATTCAAGAGGACTGGAAA
+AGTCTTCTAACAGACTGCTTTCCAAAGATTCTTGTAAATATTCTTCCTTATTTTGCCTAT
+GAGGGTACCAGAGACAGTGGGATGGCACAGCAAAGAGAGACTGCTACCAAGGTCTATGAT
+ATGCTTAAAAGTGAAAACTTATTGGGAAAACAGATTGATCACTTATTCATTAGTAATTTA
+CCAGAGATTGTGGTGGAGTTATTGATGACGTTACATGAGCCAGCAAATTCTAGTGCCAGT
+CAGAGCACTGACCTCTGTGACTTTTCAGGGGATTTGGATCCTGCTCCTAATCCACCTCAT
+TTTCCATCGCATGTGATTAAAGCAACATTTGCCTATATCAGCAATTGTCATAAAACCAAG
+TTAAAAAGCATTTTAGAAATTCTTTCCAAAAGCCCTGATTCCTATCAGAAAATTCTTCTT
+GCCATATGTGAGCAAGCAGCTGAAACAAATAATGTTTATAAGAAGCACAGAATTCTTAAA
+ATATATCACCTGTTTGTTAGTTTATTACTGAAAGATATAAAAAGTGGCTTAGGAGGAGCT
+TGGGCCTTTGTTCTTCGAGACGTTATTTATACTTTGATTCACTATATCAACCAAAGGCCT
+TCTTGTATCATGGATGTGTCATTACGTAGCTTCTCCCTTTGTTGTGACTTATTAAGTCAG
+GTTTGCCAGACAGCCGTGACTTACTGTAAGGATGCTCTAGAAAACCATCTTCATGTTATT
+GTTGGTACACTTATACCCCTTGTGTATGAGCAGGTGGAGGTTCAGAAACAGGTATTGGAC
+TTGTTGAAATACTTAGTGATAGATAACAAGGATAATGAAAACCTCTATATCACGATTAAG
+CTTTTAGATCCTTTTCCTGACCATGTTGTTTTTAAGGATTTGCGTATTACTCAGCAAAAA
+ATCAAATACAGTAGAGGACCCTTTTCACTCTTGGAGGAAATTAACCATTTTCTCTCAGTA
+AGTGTTTATGATGCACTTCCATTGACAAGACTTGAAGGACTAAAGGATCTTCGAAGACAA
+CTGGAACTACATAAAGATCAGATGGTGGACATTATGAGAGCTTCTCAGGATAATCCGCAA
+GATGGGATTATGGTGAAACTAGTTGTCAATTTGTTGCAGTTATCCAAGATGGCAATAAAC
+CACACTGGTGAAAAAGAAGTTCTAGAGGCTGTTGGAAGCTGCTTGGGAGAAGTGGGTCCT
+ATAGATTTCTCTACCATAGCTATACAACATAGTAAAGATGCATCTTATACCAAGGCCCTT
+AAGTTATTTGAAGATAAAGAACTTCAGTGGACCTTCATAATGCTGACCTACCTGAATAAC
+ACACTGGTAGAAGATTGTGTCAAAGTTCGATCAGCAGCTGTTACCTGTTTGAAAAACATT
+TTAGCCACAAAGACTGGACATAGTTTCTGGGAGATTTATAAGATGACAACAGATCCAATG
+CTGGCCTATCTACAGCCTTTTAGAACATCAAGAAAAAAGTTTTTAGAAGTACCCAGATTT
+GACAAAGAAAACCCTTTTGAAGGCCTGGATGATATAAATCTGTGGATTCCTCTAAGTGAA
+AATCATGACATTTGGATAAAGACACTGACTTGTGCTTTTTTGGACAGTGGAGGCACAAAA
+TGTGAAATTCTTCAATTATTAAAGCCAATGTGTGAAGTGAAAACTGACTTTTGTCAGACT
+GTACTTCCATACTTGATTCATGATATTTTACTCCAAGATACAAATGAATCATGGAGAAAT
+CTGCTTTCTACACATGTTCAGGGATTTTTCACCAGCTGTCTTCGACACTTCTCGCAAACG
+AGCCGATCCACAACCCCTGCAAACTTGGATTCAGAGTCAGAGCACTTTTTCCGATGCTGT
+TTGGATAAAAAATCACAAAGAACAATGCTTGCTGTTGTGGACTACATGAGAAGACAAAAG
+AGACCTTCTTCAGGAACAATTTTTAATGATGCTTTCTGGCTGGATTTAAATTATCTAGAA
+GTTGCCAAGGTAGCTCAGTCTTGTGCTGCTCACTTTACAGCTTTACTCTATGCAGAAATC
+TATGCAGATAAGAAAAGTATGGATGATCAAGAGAAAAGAAGTCTTGCATTTGAAGAAGGA
+AGCCAGAGTACAACTATTTCTAGCTTGAGTGAAAAAAGTAAAGAAGAAACTGGAATAAGT
+TTACAGGATCTTCTCTTAGAAATCTACAGAAGTATAGGGGAGCCAGATAGTTTGTATGGC
+TGTGGTGGAGGGAAGATGTTACAACCCATTACTAGACTACGAACATATGAACACGAAGCA
+ATGTGGGGCAAAGCCCTAGTAACATATGACCTCGAAACAGCAATCCCCTCATCAACACGC
+CAGGCAGGAATCATTCAGGCCTTGCAGAATTTGGGACTCTGCCATATTCTTTCCGTCTAT
+TTAAAAGGATTGGATTATGAAAATAAAGACTGGTGTCCTGAACTAGAAGAACTTCATTAC
+CAAGCAGCATGGAGGAATATGCAGTGGGACCATTGCACTTCCGTCAGCAAAGAAGTAGAA
+GGAACCAGTTACCATGAATCATTGTACAATGCTCTACAATCTCTAAGAGACAGAGAATTC
+TCTACATTTTATGAAAGTCTCAAATATGCCAGAGTAAAAGAAGTGGAAGAGATGTGTAAG
+CGCAGCCTTGAGTCTGTGTATTCGCTCTATCCCACACTTAGCAGGTTGCAGGCCATTGGA
+GAGCTGGAAAGCATTGGGGAGCTTTTCTCAAGATCAGTCACACATAGACAACTCTCTGAA
+GTATATATTAAGTGGCAGAAACACTCCCAGCTTCTCAAGGACAGTGATTTTAGTTTTCAG
+GAGCCTATCATGGCTCTACGCACAGTCATTTTGGAGATCCTGATGGAAAAGGAAATGGAC
+AACTCACAAAGAGAATGTATTAAGGACATTCTCACCAAACACCTTGTAGAACTCTCTATA
+CTGGCCAGAACTTTCAAGAACACTCAGCTCCCTGAAAGGGCAATATTTCAAATTAAACAG
+TACAATTCAGTTAGCTGTGGAGTCTCTGAGTGGCAGCTGGAAGAAGCACAAGTATTCTGG
+GCAAAAAAGGAGCAGAGTCTTGCCCTGAGTATTCTCAAGCAAATGATCAAGAAGTTGGAT
+GCCAGCTGTGCAGCGAACAATCCCAGCCTAAAACTTACATACACAGAATGTCTGAGGGTT
+TGTGGCAACTGGTTAGCAGAAACGTGCTTAGAAAATCCTGCGGTCATCATGCAGACCTAT
+CTAGAAAAGGCAGTAGAAGTTGCTGGAAATTATGATGGAGAAAGTAGTGATGAGCTAAGA
+AATGGAAAAATGAAGGCATTTCTCTCATTAGCCCGGTTTTCAGATACTCAATACCAAAGA
+ATTGAAAACTACATGAAATCATCGGAATTTGAAAACAAGCAAGCTCTCCTGAAAAGAGCC
+AAAGAGGAAGTAGGTCTCCTTAGGGAACATAAAATTCAGACAAACAGATACACAGTAAAG
+GTTCAGCGAGAGCTGGAGTTGGATGAATTAGCCCTGCGTGCACTGAAAGAGGATCGTAAA
+CGCTTCTTATGTAAAGCAGTTGAAAATTATATCAACTGCTTATTAAGTGGAGAAGAACAT
+GATATGTGGGTATTCCGACTTTGTTCCCTCTGGCTTGAAAATTCTGGAGTTTCTGAAGTC
+AATGGCATGATGAAGAGAGACGGAATGAAGATTCCAACATATAAATTTTTGCCTCTTATG
+TACCAATTGGCTGCTAGAATGGGGACCAAGATGATGGGAGGCCTAGGATTTCATGAAGTC
+CTCAATAATCTAATCTCTAGAATTTCAATGGATCACCCCCATCACACTTTGTTTATTATA
+CTGGCCTTAGCAAATGCAAACAGAGATGAATTTCTGACTAAACCAGAGGTAGCCAGAAGA
+AGCAGAATAACTAAAAATGTGCCTAAACAAAGCTCTCAGCTTGATGAGGATCGAACAGAG
+GCTGCAAATAGAATAATATGTACTATCAGAAGTAGGAGACCTCAGATGGTCAGAAGTGTT
+GAGGCACTTTGTGATGCTTATATTATATTAGCAAACTTAGATGCCACTCAGTGGAAGACT
+CAGAGAAAAGGCATAAATATTCCAGCAGACCAGCCAATTACTAAACTTAAGAATTTAGAA
+GATGTTGTTGTCCCTACTATGGAAATTAAGGTGGACCACACAGGAGAATATGGAAATCTG
+GTGACTATACAGTCATTTAAAGCAGAATTTCGCTTAGCAGGAGGTGTAAATTTACCAAAA
+ATAATAGATTGTGTAGGTTCCGATGGCAAGGAGAGGAGACAGCTTGTTAAGGGCCGTGAT
+GACCTGAGACAAGATGCTGTCATGCAACAGGTCTTCCAGATGTGTAATACATTACTGCAG
+AGAAACACGGAAACTAGGAAGAGGAAATTAACTATCTGTACTTATAAGGTGGTTCCCCTC
+TCTCAGCGAAGTGGTGTTCTTGAATGGTGCACAGGAACTGTCCCCATTGGTGAATTTCTT
+GTTAACAATGAAGATGGTGCTCATAAAAGATACAGGCCAAATGATTTCAGTGCCTTTCAG
+TGCCAAAAGAAAATGATGGAGGTGCAAAAAAAGTCTTTTGAAGAGAAATATGAAGTCTTC
+ATGGATGTTTGCCAAAATTTTCAACCAGTTTTCCGTTACTTCTGCATGGAAAAATTCTTG
+GATCCAGCTATTTGGTTTGAGAAGCGATTGGCTTATACGCGCAGTGTAGCTACTTCTTCT
+ATTGTTGGTTACATACTTGGACTTGGTGATAGACATGTACAGAATATCTTGATAAATGAG
+CAGTCAGCAGAACTTGTACATATAGATCTAGGTGTTGCTTTTGAACAGGGCAAAATCCTT
+CCTACTCCTGAGACAGTTCCTTTTAGACTCACCAGAGATATTGTGGATGGCATGGGCATT
+ACGGGTGTTGAAGGTGTCTTCAGAAGATGCTGTGAGAAAACCATGGAAGTGATGAGAAAC
+TCTCAGGAAACTCTGTTAACCATTGTAGAGGTCCTTCTATATGATCCACTCTTTGACTGG
+ACCATGAATCCTTTGAAAGCTTTGTATTTACAGCAGAGGCCGGAAGATGAAACTGAGCTT
+CACCCTACTCTGAATGCAGATGACCAAGAATGCAAACGAAATCTCAGTGATATTGACCAG
+AGTTTCAACAAAGTAGCTGAACGTGTCTTAATGAGACTACAAGAGAAACTGAAAGGAGTG
+GAAGAAGGCACTGTGCTCAGTGTTGGTGGACAAGTGAATTTGCTCATACAGCAGGCCATA
+GACCCCAAAAATCTCAGCCGACTTTTCCCAGGATGGAAAGCTTGGGTGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>3056</residue_number>
+    <molecular_weight>350684.1</molecular_weight>
+    <theoretical_pi>6.8</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>FAT</name>
+        <pfam_id>PF02259</pfam_id>
+      </pfam>
+      <pfam>
+        <name>FATC</name>
+        <pfam_id>PF02260</pfam_id>
+      </pfam>
+      <pfam>
+        <name>PI3_PI4_kinase</name>
+        <pfam_id>PF00454</pfam_id>
+      </pfam>
+      <pfam>
+        <name>TAN</name>
+        <pfam_id>PF11640</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Serine-protein kinase ATM
+MSLVLNDLLICCRQLEHDRATERKKEVEKFKRLIRDPETIKHLDRHSDSKQGKYLNWDAV
+FRFLQKYIQKETECLRIAKPNVSASTQASRQKKMQEISSLVKYFIKCANRRAPRLKCQEL
+LNYIMDTVKDSSNGAIYGADCSNILLKDILSVRKYWCEISQQQWLELFSVYFRLYLKPSQ
+DVHRVLVARIIHAVTKGCCSQTDGLNSKFLDFFSKAIQCARQEKSSSGLNHILAALTIFL
+KTLAVNFRIRVCELGDEILPTLLYIWTQHRLNDSLKEVIIELFQLQIYIHHPKGAKTQEK
+GAYESTKWRSILYNLYDLLVNEISHIGSRGKYSSGFRNIAVKENLIELMADICHQVFNED
+TRSLEISQSYTTTQRESSDYSVPCKRKKIELGWEVIKDHLQKSQNDFDLVPWLQIATQLI
+SKYPASLPNCELSPLLMILSQLLPQQRHGERTPYVLRCLTEVALCQDKRSNLESSQKSDL
+LKLWNKIWCITFRGISSEQIQAENFGLLGAIIQGSLVEVDREFWKLFTGSACRPSCPAVC
+CLTLALTTSIVPGTVKMGIEQNMCEVNRSFSLKESIMKWLLFYQLEGDLENSTEVPPILH
+SNFPHLVLEKILVSLTMKNCKAAMNFFQSVPECEHHQKDKEELSFSEVEELFLQTTFDKM
+DFLTIVRECGIEKHQSSIGFSVHQNLKESLDRCLLGLSEQLLNNYSSEITNSETLVRCSR
+LLVGVLGCYCYMGVIAEEEAYKSELFQKAKSLMQCAGESITLFKNKTNEEFRIGSLRNMM
+QLCTRCLSNCTKKSPNKIASGFFLRLLTSKLMNDIADICKSLASFIKKPFDRGEVESMED
+DTNGNLMEVEDQSSMNLFNDYPDSSVSDANEPGESQSTIGAINPLAEEYLSKQDLLFLDM
+LKFLCLCVTTAQTNTVSFRAADIRRKLLMLIDSSTLEPTKSLHLHMYLMLLKELPGEEYP
+LPMEDVLELLKPLSNVCSLYRRDQDVCKTILNHVLHVVKNLGQSNMDSENTRDAQGQFLT
+VIGAFWHLTKERKYIFSVRMALVNCLKTLLEADPYSKWAILNVMGKDFPVNEVFTQFLAD
+NHHQVRMLAAESINRLFQDTKGDSSRLLKALPLKLQQTAFENAYLKAQEGMREMSHSAEN
+PETLDEIYNRKSVLLTLIAVVLSCSPICEKQALFALCKSVKENGLEPHLVKKVLEKVSET
+FGYRRLEDFMASHLDYLVLEWLNLQDTEYNLSSFPFILLNYTNIEDFYRSCYKVLIPHLV
+IRSHFDEVKSIANQIQEDWKSLLTDCFPKILVNILPYFAYEGTRDSGMAQQRETATKVYD
+MLKSENLLGKQIDHLFISNLPEIVVELLMTLHEPANSSASQSTDLCDFSGDLDPAPNPPH
+FPSHVIKATFAYISNCHKTKLKSILEILSKSPDSYQKILLAICEQAAETNNVYKKHRILK
+IYHLFVSLLLKDIKSGLGGAWAFVLRDVIYTLIHYINQRPSCIMDVSLRSFSLCCDLLSQ
+VCQTAVTYCKDALENHLHVIVGTLIPLVYEQVEVQKQVLDLLKYLVIDNKDNENLYITIK
+LLDPFPDHVVFKDLRITQQKIKYSRGPFSLLEEINHFLSVSVYDALPLTRLEGLKDLRRQ
+LELHKDQMVDIMRASQDNPQDGIMVKLVVNLLQLSKMAINHTGEKEVLEAVGSCLGEVGP
+IDFSTIAIQHSKDASYTKALKLFEDKELQWTFIMLTYLNNTLVEDCVKVRSAAVTCLKNI
+LATKTGHSFWEIYKMTTDPMLAYLQPFRTSRKKFLEVPRFDKENPFEGLDDINLWIPLSE
+NHDIWIKTLTCAFLDSGGTKCEILQLLKPMCEVKTDFCQTVLPYLIHDILLQDTNESWRN
+LLSTHVQGFFTSCLRHFSQTSRSTTPANLDSESEHFFRCCLDKKSQRTMLAVVDYMRRQK
+RPSSGTIFNDAFWLDLNYLEVAKVAQSCAAHFTALLYAEIYADKKSMDDQEKRSLAFEEG
+SQSTTISSLSEKSKEETGISLQDLLLEIYRSIGEPDSLYGCGGGKMLQPITRLRTYEHEA
+MWGKALVTYDLETAIPSSTRQAGIIQALQNLGLCHILSVYLKGLDYENKDWCPELEELHY
+QAAWRNMQWDHCTSVSKEVEGTSYHESLYNALQSLRDREFSTFYESLKYARVKEVEEMCK
+RSLESVYSLYPTLSRLQAIGELESIGELFSRSVTHRQLSEVYIKWQKHSQLLKDSDFSFQ
+EPIMALRTVILEILMEKEMDNSQRECIKDILTKHLVELSILARTFKNTQLPERAIFQIKQ
+YNSVSCGVSEWQLEEAQVFWAKKEQSLALSILKQMIKKLDASCAANNPSLKLTYTECLRV
+CGNWLAETCLENPAVIMQTYLEKAVEVAGNYDGESSDELRNGKMKAFLSLARFSDTQYQR
+IENYMKSSEFENKQALLKRAKEEVGLLREHKIQTNRYTVKVQRELELDELALRALKEDRK
+RFLCKAVENYINCLLSGEEHDMWVFRLCSLWLENSGVSEVNGMMKRDGMKIPTYKFLPLM
+YQLAARMGTKMMGGLGFHEVLNNLISRISMDHPHHTLFIILALANANRDEFLTKPEVARR
+SRITKNVPKQSSQLDEDRTEAANRIICTIRSRRPQMVRSVEALCDAYIILANLDATQWKT
+QRKGINIPADQPITKLKNLEDVVVPTMEIKVDHTGEYGNLVTIQSFKAEFRLAGGVNLPK
+IIDCVGSDGKERRQLVKGRDDLRQDAVMQQVFQMCNTLLQRNTETRKRKLTICTYKVVPL
+SQRSGVLEWCTGTVPIGEFLVNNEDGAHKRYRPNDFSAFQCQKKMMEVQKKSFEEKYEVF
+MDVCQNFQPVFRYFCMEKFLDPAIWFEKRLAYTRSVATSSIVGYILGLGDRHVQNILINE
+QSAELVHIDLGVAFEQGKILPTPETVPFRLTRDIVDGMGITGVEGVFRRCCEKTMEVMRN
+SQETLLTIVEVLLYDPLFDWTMNPLKALYLQQRPEDETELHPTLNADDQECKRNLSDIDQ
+SFNKVAERVLMRLQEKLKGVEEGTVLSVGGQVNLLIQQAIDPKNLSRLFPGWKAWV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>71902540</genbank_protein_id>
+  <uniprot_id>Q13315</uniprot_id>
+  <uniprot_name>ATM_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_000051.3</genbank_gene_id>
+  <genecard_id>ATM</genecard_id>
+  <geneatlas_id>ATM</geneatlas_id>
+  <hgnc_id>HGNC:795</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Savitsky K, Sfez S, Tagle DA, Ziv Y, Sartiel A, Collins FS, Shiloh Y, Rotman G: The complete sequence of the coding region of the ATM gene reveals similarity to cell cycle regulators in different species. Hum Mol Genet. 1995 Nov;4(11):2025-32.</reference_text>
+      <pubmed_id>8589678</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Platzer M, Rotman G, Bauer D, Uziel T, Savitsky K, Bar-Shira A, Gilad S, Shiloh Y, Rosenthal A: Ataxia-telangiectasia locus: sequence analysis of 184 kb of human genomic DNA containing the entire ATM gene. Genome Res. 1997 Jun;7(6):592-605.</reference_text>
+      <pubmed_id>9199932</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vorechovsky I, Rasio D, Luo L, Monaco C, Hammarstrom L, Webster AD, Zaloudik J, Barbanti-Brodani G, James M, Russo G, et al.: The ATM gene and susceptibility to breast cancer: analysis of 38 breast tumors reveals no evidence for mutation. Cancer Res. 1996 Jun 15;56(12):2726-32.</reference_text>
+      <pubmed_id>8665503</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor TD, Noguchi H, Totoki Y, Toyoda A, Kuroki Y, Dewar K, Lloyd C, Itoh T, Takeda T, Kim DW, She X, Barlow KF, Bloom T, Bruford E, Chang JL, Cuomo CA, Eichler E, FitzGerald MG, Jaffe DB, LaButti K, Nicol R, Park HS, Seaman C, Sougnez C, Yang X, Zimmer AR, Zody MC, Birren BW, Nusbaum C, Fujiyama A, Hattori M, Rogers J, Lander ES, Sakaki Y: Human chromosome 11 DNA sequence and analysis including novel gene identification. Nature. 2006 Mar 23;440(7083):497-500.</reference_text>
+      <pubmed_id>16554811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Savitsky K, Platzer M, Uziel T, Gilad S, Sartiel A, Rosenthal A, Elroy-Stein O, Shiloh Y, Rotman G: Ataxia-telangiectasia: structural diversity of untranslated sequences suggests complex post-transcriptional regulation of ATM gene expression. Nucleic Acids Res. 1997 May 1;25(9):1678-84.</reference_text>
+      <pubmed_id>9108147</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Byrd PJ, McConville CM, Cooper P, Parkhill J, Stankovic T, McGuire GM, Thick JA, Taylor AM: Mutations revealed by sequencing the 5' half of the gene for ataxia telangiectasia. Hum Mol Genet. 1996 Jan;5(1):145-9.</reference_text>
+      <pubmed_id>8789452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Savitsky K, Bar-Shira A, Gilad S, Rotman G, Ziv Y, Vanagaite L, Tagle DA, Smith S, Uziel T, Sfez S, et al.: A single ataxia telangiectasia gene with a product similar to PI-3 kinase.  Science. 1995 Jun 23;268(5218):1749-53.</reference_text>
+      <pubmed_id>7792600</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rasio D, Negrini M, Croce CM: Genomic organization of the ATM locus involved in ataxia-telangiectasia.  Cancer Res. 1995 Dec 15;55(24):6053-7.</reference_text>
+      <pubmed_id>8521392</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Chen G, Lee EYHP: The product of the ATM gene is a 370-kDa nuclear phosphoprotein.  J Biol Chem. 1996 Dec 27;271(52):33693-7.</reference_text>
+      <pubmed_id>8969240</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Brown KD, Ziv Y, Sadanandan SN, Chessa L, Collins FS, Shiloh Y, Tagle DA: The ataxia-telangiectasia gene product, a constitutively expressed nuclear protein that is not up-regulated following genome damage. Proc Natl Acad Sci U S A. 1997 Mar 4;94(5):1840-5.</reference_text>
+      <pubmed_id>9050866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Watters D, Khanna KK, Beamish H, Birrell G, Spring K, Kedar P, Gatei M, Stenzel D, Hobson K, Kozlov S, Zhang N, Farrell A, Ramsay J, Gatti R, Lavin M: Cellular localisation of the ataxia-telangiectasia (ATM) gene product and discrimination between mutated and normal forms. Oncogene. 1997 Apr 24;14(16):1911-21.</reference_text>
+      <pubmed_id>9150358</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jung M, Kondratyev A, Lee SA, Dimtchev A, Dritschilo A: ATM gene product phosphorylates I kappa B-alpha.  Cancer Res. 1997 Jan 1;57(1):24-7.</reference_text>
+      <pubmed_id>8988033</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Shafman T, Khanna KK, Kedar P, Spring K, Kozlov S, Yen T, Hobson K, Gatei M, Zhang N, Watters D, Egerton M, Shiloh Y, Kharbanda S, Kufe D, Lavin MF: Interaction between ATM protein and c-Abl in response to DNA damage.  Nature. 1997 May 29;387(6632):520-3.</reference_text>
+      <pubmed_id>9168117</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sarkaria JN, Tibbetts RS, Busby EC, Kennedy AP, Hill DE, Abraham RT: Inhibition of phosphoinositide 3-kinase related kinases by the radiosensitizing agent wortmannin. Cancer Res. 1998 Oct 1;58(19):4375-82.</reference_text>
+      <pubmed_id>9766667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Khanna KK, Keating KE, Kozlov S, Scott S, Gatei M, Hobson K, Taya Y, Gabrielli B, Chan D, Lees-Miller SP, Lavin MF: ATM associates with and phosphorylates p53: mapping the region of interaction. Nat Genet. 1998 Dec;20(4):398-400.</reference_text>
+      <pubmed_id>9843217</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lim DS, Kirsch DG, Canman CE, Ahn JH, Ziv Y, Newman LS, Darnell RB, Shiloh Y, Kastan MB: ATM binds to beta-adaptin in cytoplasmic vesicles.  Proc Natl Acad Sci U S A. 1998 Aug 18;95(17):10146-51.</reference_text>
+      <pubmed_id>9707615</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Banin S, Moyal L, Shieh S, Taya Y, Anderson CW, Chessa L, Smorodinsky NI, Prives C, Reiss Y, Shiloh Y, Ziv Y: Enhanced phosphorylation of p53 by ATM in response to DNA damage.  Science. 1998 Sep 11;281(5383):1674-7.</reference_text>
+      <pubmed_id>9733514</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Canman CE, Lim DS, Cimprich KA, Taya Y, Tamai K, Sakaguchi K, Appella E, Kastan MB, Siliciano JD: Activation of the ATM kinase by ionizing radiation and phosphorylation of p53. Science. 1998 Sep 11;281(5383):1677-9.</reference_text>
+      <pubmed_id>9733515</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Smith GC, Cary RB, Lakin ND, Hann BC, Teo SH, Chen DJ, Jackson SP: Purification and DNA binding properties of the ataxia-telangiectasia gene product ATM. Proc Natl Acad Sci U S A. 1999 Sep 28;96(20):11134-9.</reference_text>
+      <pubmed_id>10500142</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cortez D, Wang Y, Qin J, Elledge SJ: Requirement of ATM-dependent phosphorylation of brca1 in the DNA damage response to double-strand breaks. Science. 1999 Nov 5;286(5442):1162-6.</reference_text>
+      <pubmed_id>10550055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Cortez D, Yazdi P, Neff N, Elledge SJ, Qin J: BASC, a super complex of BRCA1-associated proteins involved in the recognition and repair of aberrant DNA structures. Genes Dev. 2000 Apr 15;14(8):927-39.</reference_text>
+      <pubmed_id>10783165</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lim DS, Kim ST, Xu B, Maser RS, Lin J, Petrini JH, Kastan MB: ATM phosphorylates p95/nbs1 in an S-phase checkpoint pathway.  Nature. 2000 Apr 6;404(6778):613-7.</reference_text>
+      <pubmed_id>10766245</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wu X, Ranganathan V, Weisman DS, Heine WF, Ciccone DN, O'Neill TB, Crick KE, Pierce KA, Lane WS, Rathbun G, Livingston DM, Weaver DT: ATM phosphorylation of Nijmegen breakage syndrome protein is required in a DNA damage response. Nature. 2000 May 25;405(6785):477-82.</reference_text>
+      <pubmed_id>10839545</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li S, Ting NS, Zheng L, Chen PL, Ziv Y, Shiloh Y, Lee EY, Lee WH: Functional link of BRCA1 and ataxia telangiectasia gene product in DNA damage response. Nature. 2000 Jul 13;406(6792):210-5.</reference_text>
+      <pubmed_id>10910365</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gatei M, Young D, Cerosaletti KM, Desai-Mehta A, Spring K, Kozlov S, Lavin MF, Gatti RA, Concannon P, Khanna K: ATM-dependent phosphorylation of nibrin in response to radiation exposure.  Nat Genet. 2000 May;25(1):115-9.</reference_text>
+      <pubmed_id>10802669</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kishi S, Zhou XZ, Ziv Y, Khoo C, Hill DE, Shiloh Y, Lu KP: Telomeric protein Pin2/TRF1 as an important ATM target in response to double strand DNA breaks. J Biol Chem. 2001 Aug 3;276(31):29282-91. Epub 2001 May 25.</reference_text>
+      <pubmed_id>11375976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bao S, Tibbetts RS, Brumbaugh KM, Fang Y, Richardson DA, Ali A, Chen SM, Abraham RT, Wang XF: ATR/ATM-mediated phosphorylation of human Rad17 is required for genotoxic stress responses. Nature. 2001 Jun 21;411(6840):969-74.</reference_text>
+      <pubmed_id>11418864</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taniguchi T, Garcia-Higuera I, Xu B, Andreassen PR, Gregory RC, Kim ST, Lane WS, Kastan MB, D'Andrea AD: Convergence of the fanconi anemia and ataxia telangiectasia signaling pathways. Cell. 2002 May 17;109(4):459-72.</reference_text>
+      <pubmed_id>12086603</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Suzuki A, Kusakai G, Kishimoto A, Lu J, Ogura T, Lavin MF, Esumi H: Identification of a novel protein kinase mediating Akt survival signaling to the ATM protein. J Biol Chem. 2003 Jan 3;278(1):48-53. Epub 2002 Oct 29.</reference_text>
+      <pubmed_id>12409306</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bakkenist CJ, Kastan MB: DNA damage activates ATM through intermolecular autophosphorylation and dimer dissociation. Nature. 2003 Jan 30;421(6922):499-506.</reference_text>
+      <pubmed_id>12556884</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang X, Succi J, Feng Z, Prithivirajsingh S, Story MD, Legerski RJ: Artemis is a phosphorylation target of ATM and ATR and is involved in the G2/M DNA damage checkpoint response. Mol Cell Biol. 2004 Oct;24(20):9207-20.</reference_text>
+      <pubmed_id>15456891</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Park BJ, Kang JW, Lee SW, Choi SJ, Shin YK, Ahn YH, Choi YH, Choi D, Lee KS, Kim S: The haploinsufficient tumor suppressor p18 upregulates p53 via interactions with ATM/ATR. Cell. 2005 Jan 28;120(2):209-21.</reference_text>
+      <pubmed_id>15680327</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gupta A, Sharma GG, Young CS, Agarwal M, Smith ER, Paull TT, Lucchesi JC, Khanna KK, Ludwig T, Pandita TK: Involvement of human MOF in ATM function.  Mol Cell Biol. 2005 Jun;25(12):5292-305.</reference_text>
+      <pubmed_id>15923642</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaygun H, Marzluff WF: Regulated degradation of replication-dependent histone mRNAs requires both ATR and Upf1. Nat Struct Mol Biol. 2005 Sep;12(9):794-800. Epub 2005 Aug 7.</reference_text>
+      <pubmed_id>16086026</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun Y, Jiang X, Chen S, Fernandes N, Price BD: A role for the Tip60 histone acetyltransferase in the acetylation and activation of ATM. Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13182-7. Epub 2005 Sep 2.</reference_text>
+      <pubmed_id>16141325</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kozlov SV, Graham ME, Peng C, Chen P, Robinson PJ, Lavin MF: Involvement of novel autophosphorylation sites in ATM activation.  EMBO J. 2006 Aug 9;25(15):3504-14. Epub 2006 Jul 13.</reference_text>
+      <pubmed_id>16858402</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kanu N, Behrens A: ATMIN defines an NBS1-independent pathway of ATM signalling.  EMBO J. 2007 Jun 20;26(12):2933-41. Epub 2007 May 24.</reference_text>
+      <pubmed_id>17525732</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sun Y, Xu Y, Roy K, Price BD: DNA damage-induced acetylation of lysine 3016 of ATM activates ATM kinase activity. Mol Cell Biol. 2007 Dec;27(24):8502-9. Epub 2007 Oct 8.</reference_text>
+      <pubmed_id>17923702</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Matsuoka S, Ballif BA, Smogorzewska A, McDonald ER 3rd, Hurov KE, Luo J, Bakalarski CE, Zhao Z, Solimini N, Lerenthal Y, Shiloh Y, Gygi SP, Elledge SJ: ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage. Science. 2007 May 25;316(5828):1160-6.</reference_text>
+      <pubmed_id>17525332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sivasubramaniam S, Sun X, Pan YR, Wang S, Lee EY: Cep164 is a mediator protein required for the maintenance of genomic stability through modulation of MDC1, RPA, and CHK1. Genes Dev. 2008 Mar 1;22(5):587-600. Epub 2008 Feb 18.</reference_text>
+      <pubmed_id>18283122</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Daub H, Olsen JV, Bairlein M, Gnad F, Oppermann FS, Korner R, Greff Z, Keri G, Stemmann O, Mann M: Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle. Mol Cell. 2008 Aug 8;31(3):438-48.</reference_text>
+      <pubmed_id>18691976</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Richard DJ, Bolderson E, Cubeddu L, Wadsworth RI, Savage K, Sharma GG, Nicolette ML, Tsvetanov S, McIlwraith MJ, Pandita RK, Takeda S, Hay RT, Gautier J, West SC, Paull TT, Pandita TK, White MF, Khanna KK: Single-stranded DNA-binding protein hSSB1 is critical for genomic stability. Nature. 2008 May 29;453(7195):677-81. Epub 2008 Apr 30.</reference_text>
+      <pubmed_id>18449195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oppermann FS, Gnad F, Olsen JV, Hornberger R, Greff Z, Keri G, Mann M, Daub H: Large-scale proteomics analysis of the human kinome.  Mol Cell Proteomics. 2009 Jul;8(7):1751-64. Epub 2009 Apr 15.</reference_text>
+      <pubmed_id>19369195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaizuka T, Hara T, Oshiro N, Kikkawa U, Yonezawa K, Takehana K, Iemura S, Natsume T, Mizushima N: Tti1 and Tel2 are critical factors in mammalian target of rapamycin complex assembly. J Biol Chem. 2010 Jun 25;285(26):20109-16. Epub 2010 Apr 28.</reference_text>
+      <pubmed_id>20427287</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McConville CM, Stankovic T, Byrd PJ, McGuire GM, Yao QY, Lennox GG, Taylor MR: Mutations associated with variant phenotypes in ataxia-telangiectasia.  Am J Hum Genet. 1996 Aug;59(2):320-30.</reference_text>
+      <pubmed_id>8755918</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wright J, Teraoka S, Onengut S, Tolun A, Gatti RA, Ochs HD, Concannon P: A high frequency of distinct ATM gene mutations in ataxia-telangiectasia.  Am J Hum Genet. 1996 Oct;59(4):839-46.</reference_text>
+      <pubmed_id>8808599</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vorechovsky I, Luo L, Lindblom A, Negrini M, Webster AD, Croce CM, Hammarstrom L: ATM mutations in cancer families.  Cancer Res. 1996 Sep 15;56(18):4130-3.</reference_text>
+      <pubmed_id>8797579</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vorechovsky I, Luo L, Prudente S, Chessa L, Russo G, Kanariou M, James M, Negrini M, Webster AD, Hammarstrom L: Exon-scanning mutation analysis of the ATM gene in patients with ataxia-telangiectasia. Eur J Hum Genet. 1996;4(6):352-5.</reference_text>
+      <pubmed_id>9043869</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Baumer A, Bernthaler U, Wolz W, Hoehn H, Schindler D: New mutations in the ataxia telangiectasia gene.  Hum Genet. 1996 Aug;98(2):246-9.</reference_text>
+      <pubmed_id>8698354</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gilad S, Khosravi R, Shkedy D, Uziel T, Ziv Y, Savitsky K, Rotman G, Smith S, Chessa L, Jorgensen TJ, Harnik R, Frydman M, Sanal O, Portnoi S, Goldwicz Z, Jaspers NG, Gatti RA, Lenoir G, Lavin MF, Tatsumi K, Wegner RD, Shiloh Y, Bar-Shira A: Predominance of null mutations in ataxia-telangiectasia.  Hum Mol Genet. 1996 Apr;5(4):433-9.</reference_text>
+      <pubmed_id>8845835</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vorechovsky I, Luo L, Dyer MJ, Catovsky D, Amlot PL, Yaxley JC, Foroni L, Hammarstrom L, Webster AD, Yuille MA: Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia. Nat Genet. 1997 Sep;17(1):96-9.</reference_text>
+      <pubmed_id>9288106</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stilgenbauer S, Schaffner C, Litterst A, Liebisch P, Gilad S, Bar-Shira A, James MR, Lichter P, Dohner H: Biallelic mutations in the ATM gene in T-prolymphocytic leukemia.  Nat Med. 1997 Oct;3(10):1155-9.</reference_text>
+      <pubmed_id>9334731</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Telatar M, Teraoka S, Wang Z, Chun HH, Liang T, Castellvi-Bel S, Udar N, Borresen-Dale AL, Chessa L, Bernatowska-Matuszkiewicz E, Porras O, Watanabe M, Junker A, Concannon P, Gatti RA: Ataxia-telangiectasia: identification and detection of founder-effect mutations in the ATM gene in ethnic populations. Am J Hum Genet. 1998 Jan;62(1):86-97.</reference_text>
+      <pubmed_id>9443866</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stankovic T, Kidd AM, Sutcliffe A, McGuire GM, Robinson P, Weber P, Bedenham T, Bradwell AR, Easton DF, Lennox GG, Haites N, Byrd PJ, Taylor AM: ATM mutations and phenotypes in ataxia-telangiectasia families in the British Isles: expression of mutant ATM and the risk of leukemia, lymphoma, and breast cancer. Am J Hum Genet. 1998 Feb;62(2):334-45.</reference_text>
+      <pubmed_id>9463314</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gilad S, Chessa L, Khosravi R, Russell P, Galanty Y, Piane M, Gatti RA, Jorgensen TJ, Shiloh Y, Bar-Shira A: Genotype-phenotype relationships in ataxia-telangiectasia and variants.  Am J Hum Genet. 1998 Mar;62(3):551-61.</reference_text>
+      <pubmed_id>9497252</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Toyoshima M, Hara T, Zhang H, Yamamoto T, Akaboshi S, Nanba E, Ohno K, Hori N, Sato K, Takeshita K: Ataxia-telangiectasia without immunodeficiency: novel point mutations within and adjacent to the phosphatidylinositol 3-kinase-like domain. Am J Med Genet. 1998 Jan 13;75(2):141-4.</reference_text>
+      <pubmed_id>9450874</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stoppa-Lyonnet D, Soulier J, Lauge A, Dastot H, Garand R, Sigaux F, Stern MH: Inactivation of the ATM gene in T-cell prolymphocytic leukemias.  Blood. 1998 May 15;91(10):3920-6.</reference_text>
+      <pubmed_id>9573030</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hacia JG, Sun B, Hunt N, Edgemon K, Mosbrook D, Robbins C, Fodor SP, Tagle DA, Collins FS: Strategies for mutational analysis of the large multiexon ATM gene using high-density oligonucleotide arrays. Genome Res. 1998 Dec;8(12):1245-58.</reference_text>
+      <pubmed_id>9872980</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>van Belzen MJ, Hiel JA, Weemaes CM, Gabreels FJ, van Engelen BG, Smeets DF, van den Heuvel LP: A double missense mutation in the ATM gene of a Dutch family with ataxia telangiectasia. Hum Genet. 1998 Feb;102(2):187-91.</reference_text>
+      <pubmed_id>9521587</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sasaki T, Tian H, Kukita Y, Inazuka M, Tahira T, Imai T, Yamauchi M, Saito T, Hori T, Hashimoto-Tamaoki T, Komatsu K, Nikaido O, Hayashi K: ATM mutations in patients with ataxia telangiectasia screened by a hierarchical strategy. Hum Mutat. 1998;12(3):186-95.</reference_text>
+      <pubmed_id>9711876</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Broeks A, de Klein A, Floore AN, Muijtjens M, Kleijer WJ, Jaspers NG, van 't Veer LJ: ATM germline mutations in classical ataxia-telangiectasia patients in the Dutch population. Hum Mutat. 1998;12(5):330-7.</reference_text>
+      <pubmed_id>9792409</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fukao T, Song XQ, Yoshida T, Tashita H, Kaneko H, Teramoto T, Inoue R, Katamura K, Mayumi M, Hiratani M, Taniguchi N, Arai J, Wakiguchi H, Bar-Shira A, Shiloh Y, Kondo N: Ataxia-telangiectasia in the Japanese population: identification of R1917X, W2491R, R2909G, IVS33+2T--&amp;gt;A, and 7883del5, the latter two being relatively common mutations. Hum Mutat. 1998;12(5):338-43.</reference_text>
+      <pubmed_id>9792410</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yuille MA, Coignet LJ, Abraham SM, Yaqub F, Luo L, Matutes E, Brito-Babapulle V, Vorechovsky I, Dyer MJ, Catovsky D: ATM is usually rearranged in T-cell prolymphocytic leukaemia.  Oncogene. 1998 Feb 12;16(6):789-96.</reference_text>
+      <pubmed_id>9488043</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schaffner C, Stilgenbauer S, Rappold GA, Dohner H, Lichter P: Somatic ATM mutations indicate a pathogenic role of ATM in B-cell chronic lymphocytic leukemia. Blood. 1999 Jul 15;94(2):748-53.</reference_text>
+      <pubmed_id>10397742</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bullrich F, Rasio D, Kitada S, Starostik P, Kipps T, Keating M, Albitar M, Reed JC, Croce CM: ATM mutations in B-cell chronic lymphocytic leukemia.  Cancer Res. 1999 Jan 1;59(1):24-7.</reference_text>
+      <pubmed_id>9892178</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Izatt L, Vessey C, Hodgson SV, Solomon E: Rapid and efficient ATM mutation detection by fluorescent chemical cleavage of mismatch: identification of four novel mutations. Eur J Hum Genet. 1999 Apr;7(3):310-20.</reference_text>
+      <pubmed_id>10234507</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Izatt L, Greenman J, Hodgson S, Ellis D, Watts S, Scott G, Jacobs C, Liebmann R, Zvelebil MJ, Mathew C, Solomon E: Identification of germline missense mutations and rare allelic variants in the ATM gene in early-onset breast cancer. Genes Chromosomes Cancer. 1999 Dec;26(4):286-94.</reference_text>
+      <pubmed_id>10534763</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Sandoval N, Platzer M, Rosenthal A, Dork T, Bendix R, Skawran B, Stuhrmann M, Wegner RD, Sperling K, Banin S, Shiloh Y, Baumer A, Bernthaler U, Sennefelder H, Brohm M, Weber BH, Schindler D: Characterization of ATM gene mutations in 66 ataxia telangiectasia families. Hum Mol Genet. 1999 Jan;8(1):69-79.</reference_text>
+      <pubmed_id>9887333</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Castellvi-Bel S, Sheikhavandi S, Telatar M, Tai LQ, Hwang M, Wang Z, Yang Z, Cheng R, Gatti RA: New mutations, polymorphisms, and rare variants in the ATM gene detected by a novel SSCP strategy. Hum Mutat. 1999;14(2):156-62.</reference_text>
+      <pubmed_id>10425038</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Stankovic T, Weber P, Stewart G, Bedenham T, Murray J, Byrd PJ, Moss PA, Taylor AM: Inactivation of ataxia telangiectasia mutated gene in B-cell chronic lymphocytic leukaemia. Lancet. 1999 Jan 2;353(9146):26-9.</reference_text>
+      <pubmed_id>10023947</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Vorechovsky I, Luo L, Ortmann E, Steinmann D, Dork T: Missense mutations at ATM gene and cancer risk.  Lancet. 1999 Apr 10;353(9160):1276.</reference_text>
+      <pubmed_id>10217116</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Li A, Swift M: Mutations at the ataxia-telangiectasia locus and clinical phenotypes of A-T patients. Am J Med Genet. 2000 May 29;92(3):170-7.</reference_text>
+      <pubmed_id>10817650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Becker-Catania SG, Chen G, Hwang MJ, Wang Z, Sun X, Sanal O, Bernatowska-Matuszkiewicz E, Chessa L, Lee EY, Gatti RA: Ataxia-telangiectasia: phenotype/genotype studies of ATM protein expression, mutations, and radiosensitivity. Mol Genet Metab. 2000 Jun;70(2):122-33.</reference_text>
+      <pubmed_id>10873394</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Schaffner C, Idler I, Stilgenbauer S, Dohner H, Lichter P: Mantle cell lymphoma is characterized by inactivation of the ATM gene.  Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2773-8.</reference_text>
+      <pubmed_id>10706620</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, Bignell G, Davies H, Teague J, Butler A, Stevens C, Edkins S, O'Meara S, Vastrik I, Schmidt EE, Avis T, Barthorpe S, Bhamra G, Buck G, Choudhury B, Clements J, Cole J, Dicks E, Forbes S, Gray K, Halliday K, Harrison R, Hills K, Hinton J, Jenkinson A, Jones D, Menzies A, Mironenko T, Perry J, Raine K, Richardson D, Shepherd R, Small A, Tofts C, Varian J, Webb T, West S, Widaa S, Yates A, Cahill DP, Louis DN, Goldstraw P, Nicholson AG, Brasseur F, Looijenga L, Weber BL, Chiew YE, DeFazio A, Greaves MF, Green AR, Campbell P, Birney E, Easton DF, Chenevix-Trench G, Tan MH, Khoo SK, Teh BT, Yuen ST, Leung SY, Wooster R, Futreal PA, Stratton MR: Patterns of somatic mutation in human cancer genomes.  Nature. 2007 Mar 8;446(7132):153-8.</reference_text>
+      <pubmed_id>17344846</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

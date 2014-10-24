@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:14:11 -0700</creation_date>
+  <update_date>2013-05-27 11:05:45 -0600</update_date>
+  <accession>HMDBP08705</accession>
+  <secondary_accessions>
+    <accession>14427</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>DNA helicase, RecQ-like type 2</synonym>
+    <synonym>RecQ protein-like 3</synonym>
+    <synonym>RecQ2</synonym>
+  </synonyms>
+  <gene_name>BLM</gene_name>
+  <general_function>Involved in DNA binding</general_function>
+  <specific_function>Participates in DNA replication and repair. Exhibits a magnesium-dependent ATP-dependent DNA-helicase activity that unwinds single- and double-stranded DNA in a 3'-5' direction. Involved in 5'-end resection of DNA during double-strand break (DSB) repair: unwinds DNA and recruits DNA2 which mediates the cleavage of 5'-ssDNA.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>Homologous recombination</name>
+      <smpdb_id/>
+      <kegg_map_id>map03440</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Fanconi anemia pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map03460</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00547</accession>
+      <name>Magnesium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00538</accession>
+      <name>Adenosine triphosphate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02111</accession>
+      <name>Water</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01341</accession>
+      <name>ADP</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB02142</accession>
+      <name>Phosphoric acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent 3'-5' dna helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>pyrophosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside-triphosphatase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atpase activity, coupled</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp-dependent helicase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>purine nucleoside binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl nucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>adenyl ribonucleotide binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>atp binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>nucleic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>dna binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna repair</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna recombination</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cellular macromolecule metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>dna replication</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intracellular membrane-bounded organelle</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>nucleus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytoplasm</description>
+      <go_id>GO:0005737</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>lateral element</description>
+      <go_id>GO:0000800</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>male germ cell nucleus</description>
+      <go_id>GO:0001673</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nuclear matrix</description>
+      <go_id>GO:0016363</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleolus</description>
+      <go_id>GO:0005730</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>PML body</description>
+      <go_id>GO:0016605</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>pronucleus</description>
+      <go_id>GO:0045120</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>replication fork</description>
+      <go_id>GO:0005657</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>annealing helicase activity</description>
+      <go_id>GO:0036310</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP binding</description>
+      <go_id>GO:0005524</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent 3'-5' DNA helicase activity</description>
+      <go_id>GO:0043140</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>ATP-dependent DNA helicase activity</description>
+      <go_id>GO:0004003</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>bubble DNA binding</description>
+      <go_id>GO:0000405</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>four-way junction helicase activity</description>
+      <go_id>GO:0009378</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>G-quadruplex DNA binding</description>
+      <go_id>GO:0051880</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>single-stranded DNA binding</description>
+      <go_id>GO:0003697</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>alpha-beta T cell differentiation</description>
+      <go_id>GO:0046632</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>DNA double-strand break processing</description>
+      <go_id>GO:0000729</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>double-strand break repair via homologous recombination</description>
+      <go_id>GO:0000724</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>G2 phase of mitotic cell cycle</description>
+      <go_id>GO:0000085</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>G2/M transition DNA damage checkpoint</description>
+      <go_id>GO:0031572</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of cell division</description>
+      <go_id>GO:0051782</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of DNA recombination</description>
+      <go_id>GO:0045910</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of mitotic recombination</description>
+      <go_id>GO:0045950</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of alpha-beta T cell proliferation</description>
+      <go_id>GO:0046641</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>positive regulation of transcription, DNA-dependent</description>
+      <go_id>GO:0045893</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>protein oligomerization</description>
+      <go_id>GO:0051259</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of binding</description>
+      <go_id>GO:0051098</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cyclin-dependent protein kinase activity</description>
+      <go_id>GO:0000079</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>replication fork processing</description>
+      <go_id>GO:0031297</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>replication fork protection</description>
+      <go_id>GO:0048478</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to X-ray</description>
+      <go_id>GO:0010165</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>telomere maintenance</description>
+      <go_id>GO:0000723</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Nucleus</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>15</chromosome_location>
+    <locus>15q26.1</locus>
+    <gene_sequence>&gt;4254 bp
+ATGGCTGCTGTTCCTCAAAATAATCTACAGGAGCAACTAGAACGTCACTCAGCCAGAACA
+CTTAATAATAAATTAAGTCTTTCAAAACCAAAATTTTCAGGTTTCACTTTTAAAAAGAAA
+ACATCTTCAGATAACAATGTATCTGTAACTAATGTGTCAGTAGCAAAAACACCTGTATTA
+AGAAATAAAGATGTTAATGTTACCGAAGACTTTTCCTTCAGTGAACCTCTACCCAACACC
+ACAAATCAGCAAAGGGTCAAGGACTTCTTTAAAAATGCTCCAGCAGGACAGGAAACACAG
+AGAGGTGGATCAAAATCATTATTGCCAGATTTCTTGCAGACTCCGAAGGAAGTTGTATGC
+ACTACCCAAAACACACCAACTGTAAAGAAATCCCGGGATACTGCTCTCAAGAAATTAGAA
+TTTAGTTCTTCACCAGATTCTTTAAGTACCATCAATGATTGGGATGATATGGATGACTTT
+GATACTTCTGAGACTTCAAAATCATTTGTTACACCACCCCAAAGTCACTTTGTAAGAGTA
+AGCACTGCTCAGAAATCAAAAAAGGGTAAGAGAAACTTTTTTAAAGCACAGCTTTATACA
+ACAAACACAGTAAAGACTGATTTGCCTCCACCCTCCTCTGAAAGCGAGCAAATAGATTTG
+ACTGAGGAACAGAAGGATGACTCAGAATGGTTAAGCAGCGATGTGATTTGCATCGATGAT
+GGCCCCATTGCTGAAGTGCATATAAATGAAGATGCTCAGGAAAGTGACTCTCTGAAAACT
+CATTTGGAAGATGAAAGAGATAATAGCGAAAAGAAGAAGAATTTGGAAGAAGCTGAATTA
+CATTCAACTGAGAAAGTTCCATGTATTGAATTTGATGATGATGATTATGATACGGATTTT
+GTTCCACCTTCTCCAGAAGAAATTATTTCTGCTTCTTCTTCCTCTTCAAAATGCCTTAGT
+ACGTTAAAGGACCTTGACACCTCTGACAGAAAAGAGGATGTTCTTAGCACATCAAAAGAT
+CTTTTGTCAAAACCTGAGAAAATGAGTATGCAGGAGCTGAATCCAGAAACCAGCACAGAC
+TGTGACGCTAGACAGATAAGTTTACAGCAGCAGCTTATTCATGTGATGGAGCACATCTGT
+AAATTAATTGATACTATTCCTGATGATAAACTGAAACTTTTGGATTGTGGGAACGAACTG
+CTTCAGCAGCGGAACATAAGAAGGAAACTTCTAACGGAAGTAGATTTTAATAAAAGTGAT
+GCCAGTCTTCTTGGCTCATTGTGGAGATACAGGCCTGATTCACTTGATGGCCCTATGGAG
+GGTGATTCCTGCCCTACAGGGAATTCTATGAAGGAGTTAAATTTTTCACACCTTCCCTCA
+AATTCTGTTTCTCCTGGGGACTGTTTACTGACTACCACCCTAGGAAAGACAGGATTCTCT
+GCCACCAGGAAGAATCTTTTTGAAAGGCCTTTATTCAATACCCATTTACAGAAGTCCTTT
+GTAAGTAGCAACTGGGCTGAAACACCAAGACTAGGAAAAAAAAATGAAAGCTCTTATTTC
+CCAGGAAATGTTCTCACAAGCACTGCTGTGAAAGATCAGAATAAACATACTGCTTCAATA
+AATGACTTAGAAAGAGAAACCCAACCTTCCTATGATATTGATAATTTTGACATAGATGAC
+TTTGATGATGATGATGACTGGGAAGACATAATGCATAATTTAGCAGCCAGCAAATCTTCC
+ACAGCTGCCTATCAACCCATCAAGGAAGGTCGGCCAATTAAATCAGTATCAGAAAGACTT
+TCCTCAGCCAAGACAGACTGTCTTCCAGTGTCATCTACTGCTCAAAATATAAACTTCTCA
+GAGTCAATTCAGAATTATACTGACAAGTCAGCACAAAATTTAGCATCCAGAAATCTGAAA
+CATGAGCGTTTCCAAAGTCTTAGTTTTCCTCATACAAAGGAAATGATGAAGATTTTTCAT
+AAAAAATTTGGCCTGCATAATTTTAGAACTAATCAGCTAGAGGCGATCAATGCTGCACTG
+CTTGGTGAAGACTGTTTTATCCTGATGCCGACTGGAGGTGGTAAGAGTTTGTGTTACCAG
+CTCCCTGCCTGTGTTTCTCCTGGGGTCACTGTTGTCATTTCTCCCTTGAGATCACTTATC
+GTAGATCAAGTCCAAAAGCTGACTTCCTTGGATATTCCAGCTACATATCTGACAGGTGAT
+AAGACTGACTCAGAAGCTACAAATATTTACCTCCAGTTATCAAAAAAAGACCCAATCATA
+AAACTTCTATATGTCACTCCAGAAAAGATCTGTGCAAGTAACAGACTCATTTCTACTCTG
+GAGAATCTCTATGAGAGGAAGCTCTTGGCACGTTTTGTTATTGATGAAGCACATTGTGTC
+AGTCAGTGGGGACATGATTTTCGTCAAGATTACAAAAGAATGAATATGCTTCGCCAGAAG
+TTTCCTTCTGTTCCGGTGATGGCTCTTACGGCCACAGCTAATCCCAGGGTACAGAAGGAC
+ATCCTGACTCAGCTGAAGATTCTCAGACCTCAGGTGTTTAGCATGAGCTTTAACAGACAT
+AATCTGAAATACTATGTATTACCGAAAAAGCCTAAAAAGGTGGCATTTGATTGCCTAGAA
+TGGATCAGAAAGCACCACCCATATGATTCAGGGATAATTTACTGCCTCTCCAGGCGAGAA
+TGTGACACCATGGCTGACACGTTACAGAGAGATGGGCTCGCTGCTCTTGCTTACCATGCT
+GGCCTCAGTGATTCTGCCAGAGATGAAGTGCAGCAGAAGTGGATTAATCAGGATGGCTGT
+CAGGTTATCTGTGCTACAATTGCATTTGGAATGGGGATTGACAAACCGGACGTGCGATTT
+GTGATTCATGCATCTCTCCCTAAATCTGTGGAGGGTTACTACCAAGAATCTGGCAGAGCT
+GGAAGAGATGGGGAAATATCTCACTGCCTGCTTTTCTATACCTATCATGATGTGACCAGA
+CTGAAAAGACTTATAATGATGGAAAAAGATGGAAACCATCATACAAGAGAAACTCACTTC
+AATAATTTGTATAGCATGGTACATTACTGTGAAAATATAACGGAATGCAGGAGAATACAG
+CTTTTGGCCTACTTTGGTGAAAATGGATTTAATCCTGATTTTTGTAAGAAACACCCAGAT
+GTTTCTTGTGATAATTGCTGTAAAACAAAGGATTATAAAACAAGAGATGTGACTGACGAT
+GTGAAAAGTATTGTAAGATTTGTTCAAGAACATAGTTCATCACAAGGAATGAGAAATATA
+AAACATGTAGGTCCTTCTGGAAGATTTACTATGAATATGCTGGTCGACATTTTCTTGGGG
+AGTAAGAGTGCAAAAATCCAGTCAGGTATATTTGGAAAAGGATCTGCTTATTCACGACAC
+AATGCCGAAAGACTTTTTAAAAAGCTGATACTTGACAAGATTTTGGATGAAGACTTATAT
+ATCAATGCCAATGACCAGGCGATCGCTTATGTGATGCTCGGAAATAAAGCCCAAACTGTA
+CTAAATGGCAATTTAAAGGTAGACTTTATGGAAACAGAAAATTCCAGCAGTGTGAAAAAA
+CAAAAAGCGTTAGTAGCAAAAGTGTCTCAGAGGGAAGAGATGGTTAAAAAATGTCTTGGA
+GAACTTACAGAAGTCTGCAAATCTCTGGGGAAAGTTTTTGGTGTCCATTACTTCAATATT
+TTTAATACCGTCACTCTCAAGAAGCTTGCAGAATCTTTATCTTCTGATCCTGAGGTTTTG
+CTTCAAATTGATGGTGTTACTGAAGACAAACTGGAAAAATATGGTGCGGAAGTGATTTCA
+GTATTACAGAAATACTCTGAATGGACATCGCCAGCTGAAGACAGTTCCCCAGGGATAAGC
+CTGTCCAGCAGCAGAGGCCCCGGAAGAAGTGCCGCTGAGGAGCTCGACGAGGAAATACCC
+GTATCTTCCCACTACTTTGCAAGTAAAACCAGAAATGAAAGGAAGAGGAAAAAGATGCCA
+GCCTCCCAAAGGTCTAAGAGGAGAAAAACTGCTTCCAGTGGTTCCAAGGCAAAGGGGGGG
+TCTGCCACATGTAGAAAGATATCTTCCAAAACGAAATCCTCCAGCATCATTGGATCCAGT
+TCAGCCTCACATACTTCTCAAGCGACATCAGGAGCCAATAGCAAATTGGGGATTATGGCT
+CCACCGAAGCCTATAAATAGACCGTTTCTTAAGCCTTCATATGCATTCTCATAA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1417</residue_number>
+    <molecular_weight>158998.92</molecular_weight>
+    <theoretical_pi>7.491</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>BDHCT</name>
+        <pfam_id>PF08072</pfam_id>
+      </pfam>
+      <pfam>
+        <name>DEAD;</name>
+        <pfam_id>PF00270</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Helicase_C;</name>
+        <pfam_id>PF00271</pfam_id>
+      </pfam>
+      <pfam>
+        <name>HRDC</name>
+        <pfam_id>PF00570</pfam_id>
+      </pfam>
+      <pfam>
+        <name>RQC</name>
+        <pfam_id>PF09382</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Bloom syndrome protein
+MAAVPQNNLQEQLERHSARTLNNKLSLSKPKFSGFTFKKKTSSDNNVSVTNVSVAKTPVL
+RNKDVNVTEDFSFSEPLPNTTNQQRVKDFFKNAPAGQETQRGGSKSLLPDFLQTPKEVVC
+TTQNTPTVKKSRDTALKKLEFSSSPDSLSTINDWDDMDDFDTSETSKSFVTPPQSHFVRV
+STAQKSKKGKRNFFKAQLYTTNTVKTDLPPPSSESEQIDLTEEQKDDSEWLSSDVICIDD
+GPIAEVHINEDAQESDSLKTHLEDERDNSEKKKNLEEAELHSTEKVPCIEFDDDDYDTDF
+VPPSPEEIISASSSSSKCLSTLKDLDTSDRKEDVLSTSKDLLSKPEKMSMQELNPETSTD
+CDARQISLQQQLIHVMEHICKLIDTIPDDKLKLLDCGNELLQQRNIRRKLLTEVDFNKSD
+ASLLGSLWRYRPDSLDGPMEGDSCPTGNSMKELNFSHLPSNSVSPGDCLLTTTLGKTGFS
+ATRKNLFERPLFNTHLQKSFVSSNWAETPRLGKKNESSYFPGNVLTSTAVKDQNKHTASI
+NDLERETQPSYDIDNFDIDDFDDDDDWEDIMHNLAASKSSTAAYQPIKEGRPIKSVSERL
+SSAKTDCLPVSSTAQNINFSESIQNYTDKSAQNLASRNLKHERFQSLSFPHTKEMMKIFH
+KKFGLHNFRTNQLEAINAALLGEDCFILMPTGGGKSLCYQLPACVSPGVTVVISPLRSLI
+VDQVQKLTSLDIPATYLTGDKTDSEATNIYLQLSKKDPIIKLLYVTPEKICASNRLISTL
+ENLYERKLLARFVIDEAHCVSQWGHDFRQDYKRMNMLRQKFPSVPVMALTATANPRVQKD
+ILTQLKILRPQVFSMSFNRHNLKYYVLPKKPKKVAFDCLEWIRKHHPYDSGIIYCLSRRE
+CDTMADTLQRDGLAALAYHAGLSDSARDEVQQKWINQDGCQVICATIAFGMGIDKPDVRF
+VIHASLPKSVEGYYQESGRAGRDGEISHCLLFYTYHDVTRLKRLIMMEKDGNHHTRETHF
+NNLYSMVHYCENITECRRIQLLAYFGENGFNPDFCKKHPDVSCDNCCKTKDYKTRDVTDD
+VKSIVRFVQEHSSSQGMRNIKHVGPSGRFTMNMLVDIFLGSKSAKIQSGIFGKGSAYSRH
+NAERLFKKLILDKILDEDLYINANDQAIAYVMLGNKAQTVLNGNLKVDFMETENSSSVKK
+QKALVAKVSQREEMVKKCLGELTEVCKSLGKVFGVHYFNIFNTVTLKKLAESLSSDPEVL
+LQIDGVTEDKLEKYGAEVISVLQKYSEWTSPAEDSSPGISLSSSRGPGRSAAEELDEEIP
+VSSHYFASKTRNERKRKKMPASQRSKRRKTASSGSKAKGGSATCRKISSKTKSSSIIGSS
+SASHTSQATSGANSKLGIMAPPKPINRPFLKPSYAFS</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>58003498</genbank_protein_id>
+  <uniprot_id>P54132</uniprot_id>
+  <uniprot_name>BLM_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2KV2</pdb_id>
+    <pdb_id>2RRD</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AY886902</genbank_gene_id>
+  <genecard_id>BLM</genecard_id>
+  <geneatlas_id>BLM</geneatlas_id>
+  <hgnc_id>HGNC:1058</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Ellis NA, Groden J, Ye TZ, Straughen J, Lennon DJ, Ciocci S, Proytcheva M, German J: The Bloom's syndrome gene product is homologous to RecQ helicases.  Cell. 1995 Nov 17;83(4):655-66.</reference_text>
+      <pubmed_id>7585968</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Karow JK, Chakraverty RK, Hickson ID: The Bloom's syndrome gene product is a 3'-5' DNA helicase.  J Biol Chem. 1997 Dec 5;272(49):30611-4.</reference_text>
+      <pubmed_id>9388193</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaneko H, Orii KO, Matsui E, Shimozawa N, Fukao T, Matsumoto T, Shimamoto A, Furuichi Y, Hayakawa S, Kasahara K, Kondo N: BLM (the causative gene of Bloom syndrome) protein translocation into the nucleus by a nuclear localization signal. Biochem Biophys Res Commun. 1997 Nov 17;240(2):348-53.</reference_text>
+      <pubmed_id>9388480</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang Y, Cortez D, Yazdi P, Neff N, Elledge SJ, Qin J: BASC, a super complex of BRCA1-associated proteins involved in the recognition and repair of aberrant DNA structures. Genes Dev. 2000 Apr 15;14(8):927-39.</reference_text>
+      <pubmed_id>10783165</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Pichierri P, Franchitto A, Rosselli F: BLM and the FANC proteins collaborate in a common pathway in response to stalled replication forks. EMBO J. 2004 Aug 4;23(15):3154-63. Epub 2004 Jul 15.</reference_text>
+      <pubmed_id>15257300</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Langland G, Elliott J, Li Y, Creaney J, Dixon K, Groden J: The BLM helicase is necessary for normal DNA double-strand break repair.  Cancer Res. 2002 May 15;62(10):2766-70.</reference_text>
+      <pubmed_id>12019152</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Jedrychowski M, Schwartz D, Elias JE, Villen J, Li J, Cohn MA, Cantley LC, Gygi SP: Large-scale characterization of HeLa cell nuclear phosphoproteins.  Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12130-5. Epub 2004 Aug 9.</reference_text>
+      <pubmed_id>15302935</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yin J, Sobeck A, Xu C, Meetei AR, Hoatlin M, Li L, Wang W: BLAP75, an essential component of Bloom's syndrome protein complexes that maintain genome integrity. EMBO J. 2005 Apr 6;24(7):1465-76. Epub 2005 Mar 17.</reference_text>
+      <pubmed_id>15775963</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Raynard S, Bussen W, Sung P: A double Holliday junction dissolvasome comprising BLM, topoisomerase IIIalpha, and BLAP75. J Biol Chem. 2006 May 19;281(20):13861-4. Epub 2006 Apr 4.</reference_text>
+      <pubmed_id>16595695</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Beausoleil SA, Villen J, Gerber SA, Rush J, Gygi SP: A probability-based approach for high-throughput protein phosphorylation analysis and site localization. Nat Biotechnol. 2006 Oct;24(10):1285-92. Epub 2006 Sep 10.</reference_text>
+      <pubmed_id>16964243</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Nousiainen M, Sillje HH, Sauer G, Nigg EA, Korner R: Phosphoproteome analysis of the human mitotic spindle.  Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5391-6. Epub 2006 Mar 24.</reference_text>
+      <pubmed_id>16565220</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yu LR, Zhu Z, Chan KC, Issaq HJ, Dimitrov DS, Veenstra TD: Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra. J Proteome Res. 2007 Nov;6(11):4150-62. Epub 2007 Oct 9.</reference_text>
+      <pubmed_id>17924679</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wang B, Malik R, Nigg EA, Korner R: Evaluation of the low-specificity protease elastase for large-scale phosphoproteome analysis. Anal Chem. 2008 Dec 15;80(24):9526-33.</reference_text>
+      <pubmed_id>19007248</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Xu D, Guo R, Sobeck A, Bachrati CZ, Yang J, Enomoto T, Brown GW, Hoatlin ME, Hickson ID, Wang W: RMI, a new OB-fold complex essential for Bloom syndrome protein to maintain genome stability. Genes Dev. 2008 Oct 15;22(20):2843-55.</reference_text>
+      <pubmed_id>18923082</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Singh TR, Ali AM, Busygina V, Raynard S, Fan Q, Du CH, Andreassen PR, Sung P, Meetei AR: BLAP18/RMI2, a novel OB-fold-containing protein, is an essential component of the Bloom helicase-double Holliday junction dissolvasome. Genes Dev. 2008 Oct 15;22(20):2856-68.</reference_text>
+      <pubmed_id>18923083</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Dephoure N, Zhou C, Villen J, Beausoleil SA, Bakalarski CE, Elledge SJ, Gygi SP: A quantitative atlas of mitotic phosphorylation.  Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10762-7. Epub 2008 Jul 31.</reference_text>
+      <pubmed_id>18669648</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mayya V, Lundgren DH, Hwang SI, Rezaul K, Wu L, Eng JK, Rodionov V, Han DK: Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions. Sci Signal. 2009 Aug 18;2(84):ra46.</reference_text>
+      <pubmed_id>19690332</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Choudhary C, Kumar C, Gnad F, Nielsen ML, Rehman M, Walther TC, Olsen JV, Mann M: Lysine acetylation targets protein complexes and co-regulates major cellular functions. Science. 2009 Aug 14;325(5942):834-40. Epub 2009 Jul 16.</reference_text>
+      <pubmed_id>19608861</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Foucault F, Vaury C, Barakat A, Thibout D, Planchon P, Jaulin C, Praz F, Amor-Gueret M: Characterization of a new BLM mutation associated with a topoisomerase II alpha defect in a patient with Bloom's syndrome. Hum Mol Genet. 1997 Sep;6(9):1427-34.</reference_text>
+      <pubmed_id>9285778</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Barakat A, Ababou M, Onclercq R, Dutertre S, Chadli E, Hda N, Benslimane A, Amor-Gueret M: Identification of a novel BLM missense mutation (2706T&amp;gt;C) in a Moroccan patient with Bloom's syndrome. Hum Mutat. 2000 Jun;15(6):584-5.</reference_text>
+      <pubmed_id>10862105</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

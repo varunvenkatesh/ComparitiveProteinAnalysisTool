@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:20:34 -0700</creation_date>
+  <update_date>2013-05-27 11:13:09 -0600</update_date>
+  <accession>HMDBP09210</accession>
+  <secondary_accessions>
+    <accession>14992</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>HIF-PH2</synonym>
+    <synonym>HIF-prolyl hydroxylase 2</synonym>
+    <synonym>HPH-2</synonym>
+    <synonym>Hypoxia-inducible factor prolyl hydroxylase 2</synonym>
+    <synonym>PHD2</synonym>
+    <synonym>Prolyl hydroxylase domain-containing protein 2</synonym>
+    <synonym>SM-20</synonym>
+  </synonyms>
+  <gene_name>EGLN1</gene_name>
+  <general_function>Involved in oxidoreductase activity</general_function>
+  <specific_function>Cellular oxygen sensor that catalyzes, under normoxic conditions, the post-translational formation of 4-hydroxyproline in hypoxia-inducible factor (HIF) alpha proteins. Hydroxylates a specific proline found in each of the oxygen-dependent degradation (ODD) domains (N-terminal, NODD, and C-terminal, CODD) of HIF1A. Also hydroxylates HIF2A. Has a preference for the CODD site for both HIF1A and HIF1B. Hydroxylated HIFs are then targeted for proteasomal degradation via the von Hippel-Lindau ubiquitination complex. Under hypoxic conditions, the hydroxylation reaction is attenuated allowing HIFs to escape degradation resulting in their translocation to the nucleus, heterodimerization with HIF1B, and increased expression of hypoxy-inducible genes. EGLN1 is the most important isozyme under normoxia and, through regulating the stability of HIF1, involved in various hypoxia-influenced processes such as angiogenesis in retinal and cardiac functionality.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>HIF-1 signaling pathway</name>
+      <smpdb_id/>
+      <kegg_map_id>map04066</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Renal cell carcinoma</name>
+      <smpdb_id/>
+      <kegg_map_id>map05211</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00725</accession>
+      <name>4-Hydroxyproline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00162</accession>
+      <name>L-Proline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00044</accession>
+      <name>Ascorbic acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00208</accession>
+      <name>Oxoglutaric acid</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01377</accession>
+      <name>Oxygen</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00254</accession>
+      <name>Succinic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>zinc ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>vitamin binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>l-ascorbic acid binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transition metal ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>iron ion binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>oxidation reduction</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>cytosol</description>
+      <go_id>GO:0005829</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>iron ion binding</description>
+      <go_id>GO:0005506</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>L-ascorbic acid binding</description>
+      <go_id>GO:0031418</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen</description>
+      <go_id>GO:0016702</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>peptidyl-proline 4-dioxygenase activity</description>
+      <go_id>GO:0031545</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>zinc ion binding</description>
+      <go_id>GO:0008270</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>cardiac muscle tissue morphogenesis</description>
+      <go_id>GO:0055008</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>heart trabecula formation</description>
+      <go_id>GO:0060347</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>labyrinthine layer development</description>
+      <go_id>GO:0060711</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>negative regulation of sequence-specific DNA binding transcription factor activity</description>
+      <go_id>GO:0043433</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>oxygen homeostasis</description>
+      <go_id>GO:0032364</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>peptidyl-proline hydroxylation to 4-hydroxy-L-proline</description>
+      <go_id>GO:0018401</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of angiogenesis</description>
+      <go_id>GO:0045765</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of transcription from RNA polymerase II promoter in response to hypoxia</description>
+      <go_id>GO:0061418</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>response to nitric oxide</description>
+      <go_id>GO:0071731</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>ventricular septum morphogenesis</description>
+      <go_id>GO:0060412</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>1</chromosome_location>
+    <locus>1q42.1</locus>
+    <gene_sequence>&gt;1281 bp
+ATGGCCAATGACAGCGGCGGGCCCGGCGGGCCGAGCCCGAGCGAGCGAGACCGGCAGTAC
+TGCGAGCTGTGCGGGAAGATGGAGAACCTGCTGCGCTGCAGCCGCTGCCGCAGCTCCTTC
+TACTGCTGCAAGGAGCACCAGCGTCAGGACTGGAAGAAGCACAAGCTCGTGTGCCAGGGC
+AGCGAGGGCGCCCTCGGCCACGGAGTGGGCCCACACCAGCATTCCGGCCCCGCGCCGCCG
+GCTGCAGTGCCGCCGCCCAGGGCCGGGGCCCGGGAGCCCAGGAAGGCAGCGGCGCGCCGG
+GACAACGCCTCCGGGGACGCGGCCAAGGGAAAAGTAAAGGCCAAGCCCCCGGCCGACCCA
+GCGGCGGCCGCGTCGCCGTGTCGTGCGGCCGCCGGCGGCCAGGGCTCGGCGGTGGCTGCC
+GAAGCCGAGCCCGGCAAGGAGGAGCCGCCGGCCCGCTCATCGCTGTTCCAGGAGAAGGCG
+AACCTGTACCCCCCAAGCAACACGCCCGGGGATGCGCTGAGCCCCGGCGGCGGCCTGCGG
+CCCAACGGGCAGACGAAGCCCCTGCCGGCGCTGAAGCTGGCGCTCGAGTACATCGTGCCG
+TGCATGAACAAGCACGGCATCTGTGTGGTGGACGACTTCCTCGGCAAGGAGACCGGACAG
+CAGATCGGCGACGAGGTGCGCGCCCTGCACGACACCGGGAAGTTCACGGACGGGCAGCTG
+GTCAGCCAGAAGAGTGACTCGTCCAAGGACATCCGAGGCGATAAGATCACCTGGATCGAG
+GGCAAGGAGCCCGGCTGCGAAACCATTGGGCTGCTCATGAGCAGCATGGACGACCTGATA
+CGCCACTGTAACGGGAAGCTGGGCAGCTACAAAATCAATGGCCGGACGAAAGCCATGGTT
+GCTTGTTATCCGGGCAATGGAACGGGTTATGTACGTCATGTTGATAATCCAAATGGAGAT
+GGAAGATGTGTGACATGTATATATTATCTTAATAAAGACTGGGATGCCAAGGTAAGTGGA
+GGTATACTTCGAATTTTTCCAGAAGGCAAAGCCCAGTTTGCTGACATTGAACCCAAATTT
+GATAGACTGCTGTTTTTCTGGTCTGACCGTCGCAACCCTCATGAAGTACAACCAGCATAT
+GCTACAAGGTACGCAATAACTGTTTGGTATTTTGATGCAGATGAGAGAGCACGAGCTAAA
+GTAAAATATCTAACAGGTGAAAAAGGTGTGAGGGTTGAACTCAATAAACCTTCAGATTCG
+GTCGGTAAAGACGTCTTCTAG</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>426</residue_number>
+    <molecular_weight>46020.585</molecular_weight>
+    <theoretical_pi>8.534</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>2OG-FeII_Oxy</name>
+        <pfam_id>PF03171</pfam_id>
+      </pfam>
+      <pfam>
+        <name>zf-MYND</name>
+        <pfam_id>PF01753</pfam_id>
+      </pfam>
+      <pfam>
+        <name>2OG-FeII_Oxy_3</name>
+        <pfam_id>PF13640</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;Egl nine homolog 1
+MANDSGGPGGPSPSERDRQYCELCGKMENLLRCSRCRSSFYCCKEHQRQDWKKHKLVCQG
+SEGALGHGVGPHQHSGPAPPAAVPPPRAGAREPRKAAARRDNASGDAAKGKVKAKPPADP
+AAAASPCRAAAGGQGSAVAAEAEPGKEEPPARSSLFQEKANLYPPSNTPGDALSPGGGLR
+PNGQTKPLPALKLALEYIVPCMNKHGICVVDDFLGKETGQQIGDEVRALHDTGKFTDGQL
+VSQKSDSSKDIRGDKITWIEGKEPGCETIGLLMSSMDDLIRHCNGKLGSYKINGRTKAMV
+ACYPGNGTGYVRHVDNPNGDGRCVTCIYYLNKDWDAKVSGGILRIFPEGKAQFADIEPKF
+DRLLFFWSDRRNPHEVQPAYATRYAITVWYFDADERARAKVKYLTGEKGVRVELNKPSDS
+VGKDVF</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id/>
+  <uniprot_id>Q9GZT9</uniprot_id>
+  <uniprot_name>EGLN1_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>2G19</pdb_id>
+    <pdb_id>2G1M</pdb_id>
+    <pdb_id>2HBT</pdb_id>
+    <pdb_id>2HBU</pdb_id>
+    <pdb_id>2Y33</pdb_id>
+    <pdb_id>2Y34</pdb_id>
+    <pdb_id>3HQR</pdb_id>
+    <pdb_id>3HQU</pdb_id>
+    <pdb_id>3OUH</pdb_id>
+    <pdb_id>3OUI</pdb_id>
+    <pdb_id>3OUJ</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>AF229245</genbank_gene_id>
+  <genecard_id>EGLN1</genecard_id>
+  <geneatlas_id>EGLN1</geneatlas_id>
+  <hgnc_id>HGNC:1232</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Dupuy D, Aubert I, Duperat VG, Petit J, Taine L, Stef M, Bloch B, Arveiler B: Mapping, characterization, and expression analysis of the SM-20 human homologue, c1orf12, and identification of a novel related gene, SCAND2. Genomics. 2000 Nov 1;69(3):348-54.</reference_text>
+      <pubmed_id>11056053</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Taylor MS: Characterization and comparative analysis of the EGLN gene family.  Gene. 2001 Sep 5;275(1):125-32.</reference_text>
+      <pubmed_id>11574160</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bechtel S, Rosenfelder H, Duda A, Schmidt CP, Ernst U, Wellenreuther R, Mehrle A, Schuster C, Bahr A, Blocker H, Heubner D, Hoerlein A, Michel G, Wedler H, Kohrer K, Ottenwalder B, Poustka A, Wiemann S, Schupp I: The full-ORF clone resource of the German cDNA Consortium.  BMC Genomics. 2007 Oct 31;8:399.</reference_text>
+      <pubmed_id>17974005</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CC, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RI, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MR, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ES, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NS, McLaren S, Milne S, Mistry S, Moore MJ, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR, Banerjee R, Bryant SP, Burford DC, Burrill WD, Clegg SM, Dhami P, Dovey O, Faulkner LM, Gribble SM, Langford CF, Pandian RD, Porter KM, Prigmore E: The DNA sequence and biological annotation of human chromosome 1.  Nature. 2006 May 18;441(7091):315-21.</reference_text>
+      <pubmed_id>16710414</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Semenza GL: HIF-1, O(2), and the 3 PHDs: how animal cells signal hypoxia to the nucleus. Cell. 2001 Oct 5;107(1):1-3.</reference_text>
+      <pubmed_id>11595178</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Epstein AC, Gleadle JM, McNeill LA, Hewitson KS, O'Rourke J, Mole DR, Mukherji M, Metzen E, Wilson MI, Dhanda A, Tian YM, Masson N, Hamilton DL, Jaakkola P, Barstead R, Hodgkin J, Maxwell PH, Pugh CW, Schofield CJ, Ratcliffe PJ: C. elegans EGL-9 and mammalian homologs define a family of dioxygenases that regulate HIF by prolyl hydroxylation. Cell. 2001 Oct 5;107(1):43-54.</reference_text>
+      <pubmed_id>11595184</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ivan M, Haberberger T, Gervasi DC, Michelson KS, Gunzler V, Kondo K, Yang H, Sorokina I, Conaway RC, Conaway JW, Kaelin WG Jr: Biochemical purification and pharmacological inhibition of a mammalian prolyl hydroxylase acting on hypoxia-inducible factor. Proc Natl Acad Sci U S A. 2002 Oct 15;99(21):13459-64. Epub 2002 Sep 26.</reference_text>
+      <pubmed_id>12351678</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Oehme F, Ellinghaus P, Kolkhof P, Smith TJ, Ramakrishnan S, Hutter J, Schramm M, Flamme I: Overexpression of PH-4, a novel putative proline 4-hydroxylase, modulates activity of hypoxia-inducible transcription factors. Biochem Biophys Res Commun. 2002 Aug 16;296(2):343-9.</reference_text>
+      <pubmed_id>12163023</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cioffi CL, Liu XQ, Kosinski PA, Garay M, Bowen BR: Differential regulation of HIF-1 alpha prolyl-4-hydroxylase genes by hypoxia in human cardiovascular cells. Biochem Biophys Res Commun. 2003 Apr 11;303(3):947-53.</reference_text>
+      <pubmed_id>12670503</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ozer A, Wu LC, Bruick RK: The candidate tumor suppressor ING4 represses activation of the hypoxia inducible factor (HIF). Proc Natl Acad Sci U S A. 2005 May 24;102(21):7481-6. Epub 2005 May 16.</reference_text>
+      <pubmed_id>15897452</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gauci S, Helbig AO, Slijper M, Krijgsveld J, Heck AJ, Mohammed S: Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach. Anal Chem. 2009 Jun 1;81(11):4493-501.</reference_text>
+      <pubmed_id>19413330</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McDonough MA, Li V, Flashman E, Chowdhury R, Mohr C, Lienard BM, Zondlo J, Oldham NJ, Clifton IJ, Lewis J, McNeill LA, Kurzeja RJ, Hewitson KS, Yang E, Jordan S, Syed RS, Schofield CJ: Cellular oxygen sensing: Crystal structure of hypoxia-inducible factor prolyl hydroxylase (PHD2). Proc Natl Acad Sci U S A. 2006 Jun 27;103(26):9814-9. Epub 2006 Jun 16.</reference_text>
+      <pubmed_id>16782814</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Percy MJ, Zhao Q, Flores A, Harrison C, Lappin TR, Maxwell PH, McMullin MF, Lee FS: A family with erythrocytosis establishes a role for prolyl hydroxylase domain protein 2 in oxygen homeostasis. Proc Natl Acad Sci U S A. 2006 Jan 17;103(3):654-9. Epub 2006 Jan 9.</reference_text>
+      <pubmed_id>16407130</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Percy MJ, Furlow PW, Beer PA, Lappin TR, McMullin MF, Lee FS: A novel erythrocytosis-associated PHD2 mutation suggests the location of a HIF binding groove. Blood. 2007 Sep 15;110(6):2193-6. Epub 2007 Jun 19.</reference_text>
+      <pubmed_id>17579185</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Ascorbic acid</name>
+        <accession>HMDB00044</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

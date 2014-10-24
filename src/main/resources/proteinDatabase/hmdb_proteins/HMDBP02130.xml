@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:02:50 -0700</creation_date>
+  <update_date>2013-01-15 19:02:50 -0700</update_date>
+  <accession>HMDBP02130</accession>
+  <secondary_accessions>
+    <accession>7612</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>VEGF-A</synonym>
+    <synonym>VPF</synonym>
+    <synonym>Vascular permeability factor</synonym>
+  </synonyms>
+  <gene_name>VEGFA</gene_name>
+  <general_function>Involved in growth factor activity</general_function>
+  <specific_function>Growth factor active in angiogenesis, vasculogenesis and endothelial cell growth. Induces endothelial cell proliferation, promotes cell migration, inhibits apoptosis and induces permeabilization of blood vessels. Binds to the FLT1/VEGFR1 and KDR/VEGFR2 receptors, heparan sulfate and heparin. NRP1/Neuropilin-1 binds isoforms VEGF-165 and VEGF-145. Isoform VEGF165B binds to KDR but does not activate downstream signaling pathways, does not activate angiogenesis and inhibits tumor growth</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01394</accession>
+      <name>Heparin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05007</accession>
+      <name>Simvastatin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB05006</accession>
+      <name>Atorvastatin</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15152</accession>
+      <name>Minocycline</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB14027</accession>
+      <name>7-Hydroxygliclazide</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB13946</accession>
+      <name>8-Hydroxycarvedilol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00267</accession>
+      <name>Pyroglutamic acid</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>protein binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>receptor binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>growth factor activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Secreted</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:6</chromosome_location>
+    <locus>6p12</locus>
+    <gene_sequence>&gt;699 bp
+ATGAACTTTCTGCTGTCTTGGGTGCATTGGAGCCTTGCCTTGCTGCTCTACCTCCACCAT
+GCCAAGTGGTCCCAGGCTGCACCCATGGCAGAAGGAGGAGGGCAGAATCATCACGAAGTG
+GTGAAGTTCATGGATGTCTATCAGCGCAGCTACTGCCATCCAATCGAGACCCTGGTGGAC
+ATCTTCCAGGAGTACCCTGATGAGATCGAGTACATCTTCAAGCCATCCTGTGTGCCCCTG
+ATGCGATGCGGGGGCTGCTGCAATGACGAGGGCCTGGAGTGTGTGCCCACTGAGGAGTCC
+AACATCACCATGCAGATTATGCGGATCAAACCTCACCAAGGCCAGCACATAGGAGAGATG
+AGCTTCCTACAGCACAACAAATGTGAATGCAGACCAAAGAAAGATAGAGCAAGACAAGAA
+AAAAAATCAGTTCGAGGAAAGGGAAAGGGGCAAAAACGAAAGCGCAAGAAATCCCGGTAT
+AAGTCCTGGAGCGTGTACGTTGGTGCCCGCTGCTGTCTAATGCCCTGGAGCCTCCCTGGC
+CCCCATCCCTGTGGGCCTTGCTCAGAGCGGAGAAAGCATTTGTTTGTACAAGATCCGCAG
+ACGTGTAAATGTTCCTGCAAAAACACAGACTCGCGTTGCAAGGCGAGGCAGCTTGAGTTA
+AACGAACGTACTTGCAGATGTGACAAGCCGAGGCGGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>232</residue_number>
+    <molecular_weight>27042.2</molecular_weight>
+    <theoretical_pi>9.08</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>PDGF</name>
+        <pfam_id>PF00341</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>None</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-26</region>
+    </signal_regions>
+    <protein_sequence>&gt;Vascular endothelial growth factor A
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD
+IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM
+SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG
+PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>284172459</genbank_protein_id>
+  <uniprot_id>P15692</uniprot_id>
+  <uniprot_name>VEGFA_HUMAN</uniprot_name>
+  <pdb_ids>
+    <pdb_id>1TZI</pdb_id>
+  </pdb_ids>
+  <genbank_gene_id>NM_001171623.1</genbank_gene_id>
+  <genecard_id>VEGFA</genecard_id>
+  <geneatlas_id>VEGFA</geneatlas_id>
+  <hgnc_id>HGNC:12680</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Leung DW, Cachianes G, Kuang WJ, Goeddel DV, Ferrara N: Vascular endothelial growth factor is a secreted angiogenic mitogen.  Science. 1989 Dec 8;246(4935):1306-9.</reference_text>
+      <pubmed_id>2479986</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Keck PJ, Hauser SD, Krivi G, Sanzo K, Warren T, Feder J, Connolly DT: Vascular permeability factor, an endothelial cell mitogen related to PDGF.  Science. 1989 Dec 8;246(4935):1309-12.</reference_text>
+      <pubmed_id>2479987</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tischer E, Mitchell R, Hartman T, Silva M, Gospodarowicz D, Fiddes JC, Abraham JA: The human gene for vascular endothelial growth factor. Multiple protein forms are encoded through alternative exon splicing. J Biol Chem. 1991 Jun 25;266(18):11947-54.</reference_text>
+      <pubmed_id>1711045</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Houck KA, Ferrara N, Winer J, Cachianes G, Li B, Leung DW: The vascular endothelial growth factor family: identification of a fourth molecular species and characterization of alternative splicing of RNA. Mol Endocrinol. 1991 Dec;5(12):1806-14.</reference_text>
+      <pubmed_id>1791831</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Weindel K, Marme D, Weich HA: AIDS-associated Kaposi's sarcoma cells in culture express vascular endothelial growth factor. Biochem Biophys Res Commun. 1992 Mar 31;183(3):1167-74.</reference_text>
+      <pubmed_id>1567395</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Poltorak Z, Cohen T, Sivan R, Kandelis Y, Spira G, Vlodavsky I, Keshet E, Neufeld G: VEGF145, a secreted vascular endothelial growth factor isoform that binds to extracellular matrix. J Biol Chem. 1997 Mar 14;272(11):7151-8.</reference_text>
+      <pubmed_id>9054410</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lei J, Jiang A, Pei D: Identification and characterization of a new splicing variant of vascular endothelial growth factor: VEGF183. Biochim Biophys Acta. 1998 Dec 22;1443(3):400-6.</reference_text>
+      <pubmed_id>9878851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Claffey KP, Shih SC, Mullen A, Dziennis S, Cusick JL, Abrams KR, Lee SW, Detmar M: Identification of a human VPF/VEGF 3' untranslated region mediating hypoxia-induced mRNA stability. Mol Biol Cell. 1998 Feb;9(2):469-81.</reference_text>
+      <pubmed_id>9450968</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Whittle C, Gillespie K, Harrison R, Mathieson PW, Harper SJ: Heterogeneous vascular endothelial growth factor (VEGF) isoform mRNA and receptor mRNA expression in human glomeruli, and the identification of VEGF148 mRNA, a novel truncated splice variant. Clin Sci (Lond). 1999 Sep;97(3):303-12.</reference_text>
+      <pubmed_id>10464055</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bates DO, Cui TG, Doughty JM, Winkler M, Sugiono M, Shields JD, Peat D, Gillatt D, Harper SJ: VEGF165b, an inhibitory splice variant of vascular endothelial growth factor, is down-regulated in renal cell carcinoma. Cancer Res. 2002 Jul 15;62(14):4123-31.</reference_text>
+      <pubmed_id>12124351</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goshima N, Kawamura Y, Fukumoto A, Miura A, Honma R, Satoh R, Wakamatsu A, Yamamoto J, Kimura K, Nishikawa T, Andoh T, Iida Y, Ishikawa K, Ito E, Kagawa N, Kaminaga C, Kanehori K, Kawakami B, Kenmochi K, Kimura R, Kobayashi M, Kuroita T, Kuwayama H, Maruyama Y, Matsuo K, Minami K, Mitsubori M, Mori M, Morishita R, Murase A, Nishikawa A, Nishikawa S, Okamoto T, Sakagami N, Sakamoto Y, Sasaki Y, Seki T, Sono S, Sugiyama A, Sumiya T, Takayama T, Takayama Y, Takeda H, Togashi T, Yahata K, Yamada H, Yanagisawa Y, Endo Y, Imamoto F, Kisu Y, Tanaka S, Isogai T, Imai J, Watanabe S, Nomura N: Human protein factory for converting the transcriptome into an in vitro-expressed proteome,. Nat Methods. 2008 Dec;5(12):1011-7.</reference_text>
+      <pubmed_id>19054851</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S: The DNA sequence and analysis of human chromosome 6.  Nature. 2003 Oct 23;425(6960):805-11.</reference_text>
+      <pubmed_id>14574404</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fiebich BL, Jager B, Schollmann C, Weindel K, Wilting J, Kochs G, Marme D, Hug H, Weich HA: Synthesis and assembly of functionally active human vascular endothelial growth factor homodimers in insect cells. Eur J Biochem. 1993 Jan 15;211(1-2):19-26.</reference_text>
+      <pubmed_id>7678805</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Zhang Z, Henzel WJ: Signal peptide prediction based on analysis of experimentally verified cleavage sites. Protein Sci. 2004 Oct;13(10):2819-24. Epub 2004 Aug 31.</reference_text>
+      <pubmed_id>15340161</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Connolly DT, Olander JV, Heuvelman D, Nelson R, Monsell R, Siegel N, Haymore BL, Leimgruber R, Feder J: Human vascular permeability factor. Isolation from U937 cells.  J Biol Chem. 1989 Nov 25;264(33):20017-24.</reference_text>
+      <pubmed_id>2584205</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Jingjing L, Xue Y, Agarwal N, Roque RS: Human Muller cells express VEGF183, a novel spliced variant of vascular endothelial growth factor. Invest Ophthalmol Vis Sci. 1999 Mar;40(3):752-9.</reference_text>
+      <pubmed_id>10067980</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tee MK, Jaffe RB: A precursor form of vascular endothelial growth factor arises by initiation from an upstream in-frame CUG codon. Biochem J. 2001 Oct 1;359(Pt 1):219-26.</reference_text>
+      <pubmed_id>11563986</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Murphy JF, Fitzgerald DJ: Vascular endothelial growth factor induces cyclooxygenase-dependent proliferation of endothelial cells via the VEGF-2 receptor. FASEB J. 2001 Jul;15(9):1667-9.</reference_text>
+      <pubmed_id>11427521</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Huez I, Bornes S, Bresson D, Creancier L, Prats H: New vascular endothelial growth factor isoform generated by internal ribosome entry site-driven CUG translation initiation. Mol Endocrinol. 2001 Dec;15(12):2197-210.</reference_text>
+      <pubmed_id>11731620</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Awata T, Inoue K, Kurihara S, Ohkubo T, Watanabe M, Inukai K, Inoue I, Katayama S: A common polymorphism in the 5'-untranslated region of the VEGF gene is associated with diabetic retinopathy in type 2 diabetes. Diabetes. 2002 May;51(5):1635-9.</reference_text>
+      <pubmed_id>11978667</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Woolard J, Wang WY, Bevan HS, Qiu Y, Morbidelli L, Pritchard-Jones RO, Cui TG, Sugiono M, Waine E, Perrin R, Foster R, Digby-Bell J, Shields JD, Whittles CE, Mushens RE, Gillatt DA, Ziche M, Harper SJ, Bates DO: VEGF165b, an inhibitory vascular endothelial growth factor splice variant: mechanism of action, in vivo effect on angiogenesis and endogenous protein expression. Cancer Res. 2004 Nov 1;64(21):7822-35.</reference_text>
+      <pubmed_id>15520188</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bornes S, Boulard M, Hieblot C, Zanibellato C, Iacovoni JS, Prats H, Touriol C: Control of the vascular endothelial growth factor internal ribosome entry site (IRES) activity and translation initiation by alternatively spliced coding sequences. J Biol Chem. 2004 Apr 30;279(18):18717-26. Epub 2004 Feb 5.</reference_text>
+      <pubmed_id>14764596</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Rosenbaum-Dekel Y, Fuchs A, Yakirevich E, Azriel A, Mazareb S, Resnick MB, Levi BZ: Nuclear localization of long-VEGF is associated with hypoxia and tumor angiogenesis. Biochem Biophys Res Commun. 2005 Jun 24;332(1):271-8.</reference_text>
+      <pubmed_id>15896327</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kim SC, Sprung R, Chen Y, Xu Y, Ball H, Pei J, Cheng T, Kho Y, Xiao H, Xiao L, Grishin NV, White M, Yang XJ, Zhao Y: Substrate and functional diversity of lysine acetylation revealed by a proteomics survey. Mol Cell. 2006 Aug;23(4):607-18.</reference_text>
+      <pubmed_id>16916647</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muller YA, Li B, Christinger HW, Wells JA, Cunningham BC, de Vos AM: Vascular endothelial growth factor: crystal structure and functional mapping of the kinase domain receptor binding site. Proc Natl Acad Sci U S A. 1997 Jul 8;94(14):7192-7.</reference_text>
+      <pubmed_id>9207067</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fairbrother WJ, Champe MA, Christinger HW, Keyt BA, Starovasnik MA: 1H, 13C, and 15N backbone assignment and secondary structure of the receptor-binding domain of vascular endothelial growth factor. Protein Sci. 1997 Oct;6(10):2250-60.</reference_text>
+      <pubmed_id>9336848</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Muller YA, Christinger HW, Keyt BA, de Vos AM: The crystal structure of vascular endothelial growth factor (VEGF) refined to 1.93 A resolution: multiple copy flexibility and receptor binding. Structure. 1997 Oct 15;5(10):1325-38.</reference_text>
+      <pubmed_id>9351807</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wiesmann C, Christinger HW, Cochran AG, Cunningham BC, Fairbrother WJ, Keenan CJ, Meng G, de Vos AM: Crystal structure of the complex between VEGF and a receptor-blocking peptide. Biochemistry. 1998 Dec 22;37(51):17765-72.</reference_text>
+      <pubmed_id>9922142</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Fairbrother WJ, Champe MA, Christinger HW, Keyt BA, Starovasnik MA: Solution structure of the heparin-binding domain of vascular endothelial growth factor. Structure. 1998 May 15;6(5):637-48.</reference_text>
+      <pubmed_id>9634701</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Minocycline</name>
+        <accession>HMDB15152</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Sasamura H, Takahashi A, Miyao N, Yanase M, Masumori N, Kitamura H, Itoh N, Tsukamoto T: Inhibitory effect on expression of angiogenic factors by antiangiogenic agents in renal cell carcinoma. Br J Cancer. 2002 Mar 4;86(5):768-73.</reference_text>
+        <pubmed_id>11875741</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Minocycline</name>
+        <accession>HMDB15152</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Yao JS, Chen Y, Zhai W, Xu K, Young WL, Yang GY: Minocycline exerts multiple inhibitory effects on vascular endothelial growth factor-induced smooth muscle cell migration: the role of ERK1/2, PI3K, and matrix metalloproteinases. Circ Res. 2004 Aug 20;95(4):364-71. Epub 2004 Jul 15.</reference_text>
+        <pubmed_id>15256478</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Minocycline</name>
+        <accession>HMDB15152</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Rocchetti R, Talevi S, Margiotta C, Calza R, Corallini A, Possati L: Antiangiogenic drugs for chemotherapy of bladder tumours.  Chemotherapy. 2005 Oct;51(6):291-9. Epub 2005 Oct 13.</reference_text>
+        <pubmed_id>16224178</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Hydroxygliclazide</name>
+        <accession>HMDB14027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mamputu JC, Renier G: Advanced glycation end products increase, through a protein kinase C-dependent pathway, vascular endothelial growth factor expression in retinal endothelial cells. Inhibitory effect of gliclazide. J Diabetes Complications. 2002 Jul-Aug;16(4):284-93.</reference_text>
+        <pubmed_id>12126787</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Hydroxygliclazide</name>
+        <accession>HMDB14027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Mamputu JC, Renier G: Signalling pathways involved in retinal endothelial cell proliferation induced by advanced glycation end products: inhibitory effect of gliclazide. Diabetes Obes Metab. 2004 Mar;6(2):95-103.</reference_text>
+        <pubmed_id>14746574</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Hydroxygliclazide</name>
+        <accession>HMDB14027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Li L, Renier G: Activation of nicotinamide adenine dinucleotide phosphate (reduced form) oxidase by advanced glycation end products links oxidative stress to altered retinal vascular endothelial growth factor expression. Metabolism. 2006 Nov;55(11):1516-23.</reference_text>
+        <pubmed_id>17046555</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>7-Hydroxygliclazide</name>
+        <accession>HMDB14027</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kimura T, Takagi H, Suzuma K, Kita M, Watanabe D, Yoshimura N: Comparisons between the beneficial effects of different sulphonylurea treatments on ischemia-induced retinal neovascularization. Free Radic Biol Med. 2007 Aug 1;43(3):454-61. Epub 2007 May 3.</reference_text>
+        <pubmed_id>17602961</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>8-Hydroxycarvedilol</name>
+        <accession>HMDB13946</accession>
+      </metabolite>
+      <reference>
+        <reference_text>de Boer RA, Siebelink HJ, Tio RA, Boomsma F, van Veldhuisen DJ: Carvedilol increases plasma vascular endothelial growth factor (VEGF) in patients with chronic heart failure. Eur J Heart Fail. 2001 Jun;3(3):331-3.</reference_text>
+        <pubmed_id>11378004</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>8-Hydroxycarvedilol</name>
+        <accession>HMDB13946</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Saijonmaa O, Nyman T, Fyhrquist F: Carvedilol inhibits basal and stimulated ACE production in human endothelial cells. J Cardiovasc Pharmacol. 2004 May;43(5):616-21.</reference_text>
+        <pubmed_id>15071347</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>8-Hydroxycarvedilol</name>
+        <accession>HMDB13946</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shyu KG, Lu MJ, Chang H, Sun HY, Wang BW, Kuan P: Carvedilol modulates the expression of hypoxia-inducible factor-1alpha and vascular endothelial growth factor in a rat model of volume-overload heart failure. J Card Fail. 2005 Mar;11(2):152-9.</reference_text>
+        <pubmed_id>15732037</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>8-Hydroxycarvedilol</name>
+        <accession>HMDB13946</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Shyu KG, Liou JY, Wang BW, Fang WJ, Chang H: Carvedilol prevents cardiac hypertrophy and overexpression of hypoxia-inducible factor-1alpha and vascular endothelial growth factor in pressure-overloaded rat heart. J Biomed Sci. 2005;12(2):409-20.</reference_text>
+        <pubmed_id>15942707</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyroglutamic acid</name>
+        <accession>HMDB00267</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there?  Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</reference_text>
+        <pubmed_id>17139284</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyroglutamic acid</name>
+        <accession>HMDB00267</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets.  Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</reference_text>
+        <pubmed_id>17016423</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Pyroglutamic acid</name>
+        <accession>HMDB00267</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank.  Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</reference_text>
+        <pubmed_id>10592235</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

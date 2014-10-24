@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:30:23 -0700</creation_date>
+  <update_date>2013-05-27 10:56:54 -0600</update_date>
+  <accession>HMDBP04980</accession>
+  <secondary_accessions>
+    <accession>10575</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>3 beta-hydroxysteroid dehydrogenase type VII</synonym>
+    <synonym>3-beta-HSD VII</synonym>
+    <synonym>3-beta-hydroxy-Delta(5)-C27 steroid oxidoreductase</synonym>
+    <synonym>C(27) 3-beta-HSD</synonym>
+    <synonym>Cholest-5-ene-3-beta,7-alpha-diol 3-beta-dehydrogenase</synonym>
+  </synonyms>
+  <gene_name>HSD3B7</gene_name>
+  <general_function>Involved in 3-beta-hydroxy-delta5-steroid dehydrogenase activity</general_function>
+  <specific_function>The 3-beta-HSD enzymatic system plays a crucial role in the biosynthesis of all classes of hormonal steroids. HSD VII is active against four 7-alpha-hydroxylated sterols. Does not metabolize several different C(19/21) steroids as substrates. Involved in bile acid synthesis.
+</specific_function>
+  <pathways>
+    <pathway>
+      <name>steroid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Primary bile acid biosynthesis</name>
+      <smpdb_id/>
+      <kegg_map_id>map00120</kegg_map_id>
+    </pathway>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00902</accession>
+      <name>NAD</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01487</accession>
+      <name>NADH</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12196</accession>
+      <name>Campest-4-en-3-one</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12457</accession>
+      <name>7 alpha,24-Dihydroxy-4-cholesten-3-one</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12459</accession>
+      <name>7 alpha,26-Dihydroxy-4-cholesten-3-one</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59592</accession>
+      <name>Cholest-5-ene-3-beta,7-alpha-diol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01993</accession>
+      <name>7a-Hydroxy-cholestene-3-one</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB01496</accession>
+      <name>7a-Hydroxycholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB59597</accession>
+      <name>Hydrogen Ion</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60136</accession>
+      <name>(24S)-7alpha,24-Dihydroxycholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06280</accession>
+      <name>7-a,25-Dihydroxycholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB60425</accession>
+      <name>7alpha,25-Dihydroxy-4-cholesten-3-one</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB06281</accession>
+      <name>7-a,27-Dihydroxycholesterol</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12454</accession>
+      <name>3 beta,7 alpha-Dihydroxy-5-cholestenoate</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB12458</accession>
+      <name>7 alpha-Hydroxy-3-oxo-4-cholestenoate</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>catalytic activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>oxidoreductase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>steroid dehydrogenase activity, acting on the ch-oh group of donors, nad or nadp as acceptor</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>3-beta-hydroxy-delta5-steroid dehydrogenase activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>primary metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>lipid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>steroid metabolic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>steroid biosynthetic process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>endoplasmic reticulum membrane</description>
+      <go_id>GO:0005789</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>3-beta-hydroxy-delta5-steroid dehydrogenase activity</description>
+      <go_id>GO:0003854</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>cholest-5-ene-3-beta,7-alpha-diol 3-beta-dehydrogenase activity</description>
+      <go_id>GO:0047016</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>nucleotide binding</description>
+      <go_id>GO:0000166</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>bile acid biosynthetic process</description>
+      <go_id>GO:0006699</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>regulation of cell growth</description>
+      <go_id>GO:0001558</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Endoplasmic reticulum membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>16</chromosome_location>
+    <locus>16p11.2</locus>
+    <gene_sequence>&gt;1110 bp
+ATGGCCGACTCTGCACAGGCCCAGAAGCTGGTGTACCTGGTCACAGGGGGCTGTGGCTTC
+CTGGGAGAGCACGTGGTGCGGATGCTGCTGCAGCGGGAGCCCCGACTCGGGGAGCTGCGG
+GTCTTTGACCAACACCTGGGTCCCTGGCTGGAGGAGCTGAAGACAGGGCCTGTGAGGGTG
+ACTGCCATCCAGGGGGACGTGACCCAGGCCCATGAGGTGGCAGCAGCTGTGGCCGGAGCC
+CATGTGGTCATCCACACGGCTGGGCTGGTAGACGTGTTTGGCAGGGCCAGTCCCAAGACC
+ATCCATGAGGTCAACGTGCAGGGTACCCGGAACGTGATCGAGGCTTGTGTGCAGACCGGA
+ACACGGTTCCTGGTCTACACCAGCAGCATGGAAGTTGTGGGGCCTAACACCAAAGGTCAC
+CCCTTCTACAGGGGCAACGAAGACACCCCATACGAAGCAGTGCACAGGCACCCCTATCCT
+TGCAGCAAGGCCCTGGCCGAGTGGCTGGTCCTGGAGGCCAACGGGAGGAAGGTCCGTGGG
+GGGCTGCCCCTGGTGACGTGTGCCCTTCGTCCCACGGGCATCTACGGTGAAGGCCACCAG
+ATCATGAGGGACTTCTACCGCCAGGGCCTGCGCCTGGGAGGTTGGCTCTTCCGGGCCATC
+CCGGCCTCTGTGGAGCATGGCCGGGTCTATGTGGGCAATGTTGCCTGGATGCACGTGCTG
+GCAGCCCGGGAGCTGGAGCAGCGGGCAGCCCTGATGGGCGGCCAGGTATACTTCTGCTAC
+GATGGATCACCCCACAGGAGCTACGAGGATTTCAACATGGAGTTCCTGGGCCCCTGCGGA
+CTGCGGCTGGTGGGCGCCCGCCCATTGCTGCCCTACTGGCTGCTGGTGTTCCTGGCTGCC
+CTCAATGCCCTGCTGCAGTGGCTGCTGCGGCCACTGGTGCTCTACGCACCCCTGCTGAAC
+CCCTACACGCTGGCCGTGGCCAACGCCACCTTCACCGTCAGCACCGACAAGGCTCAGCGC
+CATTTCGGCTATGAGCCCCTGTTCTCGTGGGAGGATAGCCGGACCCGCACCATTCTCTGG
+GTACAGGCCGCTACGGGTTCAGCCCAGTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>369</residue_number>
+    <molecular_weight>21322.265</molecular_weight>
+    <theoretical_pi>7.236</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>3Beta_HSD</name>
+        <pfam_id>PF01073</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;3 beta-hydroxysteroid dehydrogenase type 7
+MADSAQAQKLVYLVTGGCGFLGEHVVRMLLQREPRLGELRVFDQHLGPWLEELKTGPVRV
+TAIQGDVTQAHEVAAAVAGAHVVIHTAGLVDVFGRASPKTIHEVNVQGTRNVIEACVQTG
+TRFLVYTSSMEVVGPNTKGHPFYRGNEDTPYEAVHRHPYPCSKALAEWLVLEANGRKVRG
+GLPLVTCALRPTGIYGEGHQIMRDFYRQGLRLGGWLFRAIPASVEHGRVYVGNVAWMHVL
+AARELEQRATLMGGQVYFCYDGSPYRSYEDFNMEFLGPCGLRLVGARPLLPYWLLVFLAA
+LNALLQWLLRPLVLYAPLLNPYTLAVANTTFTVSTDKAQRHFGYEPLFSWEDSRTRTILW
+VQAATGSAQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>11545403</genbank_protein_id>
+  <uniprot_id>Q9H2F3</uniprot_id>
+  <uniprot_name>3BHS7_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF277719</genbank_gene_id>
+  <genecard_id>HSD3B7</genecard_id>
+  <geneatlas_id>HSD3B7</geneatlas_id>
+  <hgnc_id>HGNC:18324</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Schwarz M, Wright AC, Davis DL, Nazer H, Bjorkhem I, Russell DW: The bile acid synthetic gene 3beta-hydroxy-Delta(5)-C(27)-steroid oxidoreductase is mutated in progressive intrahepatic cholestasis. J Clin Invest. 2000 Nov;106(9):1175-84.</reference_text>
+      <pubmed_id>11067870</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Cheng JB, Jacquemin E, Gerhardt M, Nazer H, Cresteil D, Heubi JE, Setchell KD, Russell DW: Molecular genetics of 3beta-hydroxy-Delta5-C27-steroid oxidoreductase deficiency in 16 patients with loss of bile acid synthesis and liver disease. J Clin Endocrinol Metab. 2003 Apr;88(4):1833-41.</reference_text>
+      <pubmed_id>12679481</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

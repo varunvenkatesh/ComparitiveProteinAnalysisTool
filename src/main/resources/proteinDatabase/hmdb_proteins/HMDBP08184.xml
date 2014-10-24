@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 20:07:20 -0700</creation_date>
+  <update_date>2013-01-15 20:07:20 -0700</update_date>
+  <accession>HMDBP08184</accession>
+  <secondary_accessions>
+    <accession>13895</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>ClC-2</synonym>
+  </synonyms>
+  <gene_name>CLCN2</gene_name>
+  <general_function>Involved in voltage-gated chloride channel activity</general_function>
+  <specific_function>Voltage-gated chloride channel. Chloride channels have several functions including the regulation of cell volume; membrane potential stabilization, signal transduction and transepithelial transport</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00492</accession>
+      <name>Chlorine</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB15180</accession>
+      <name>Lubiprostone</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>anion channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>chloride channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>voltage-gated chloride channel activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>inorganic anion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>chloride transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:3</chromosome_location>
+    <locus>3q27-q28</locus>
+    <gene_sequence>&gt;2697 bp
+ATGGCGGCCGCGGCGGCGGAGGAAGGGATGGAGCCACGGGCGCTGCAGTACGAGCAGACC
+CTGATGTATGGCCGGTACACTCAGGACCTTGGGGCCTTTGCCAAAGAGGAAGCTGCTCGG
+ATTCGCCTGGGAGGGCCTGAACCCTGGAAAGGTCCCCCTTCCTCTCGGGCTGCCCCAGAG
+CTCTTGGAATATGGACGGAGCCGTTGCGCCCGATGCCGCGTCTGTTCTGTCCGCTGCCAC
+AAGTTCCTAGTATCCAGGGTTGGTGAAGATTGGATCTTCCTGGTCCTGCTGGGGCTTCTC
+ATGGCATTGGTCAGCTGGGTCATGGACTATGCCATTGCTGCCTGTCTGCAAGCCCAGCAG
+TGGATGTCCCGGGGCTTGAACACCAGCATCTTGCTCCAGTACCTGGCCTGGGTCACCTAC
+CCTGTTGTCCTCATCACTTTCTCAGCCGGATTCACACAGATCCTGGCCCCTCAGGCTGTC
+GGCTCTGGCATCCCTGAGATGAAGACCATCTTGCGGGGAGTGGTGCTGAAAGAATACCTC
+ACACTCAAGACCTTTATAGCTAAGGTCATTGGGCTGACCTGCGCCCTAGGCAGCGGGATG
+CCGCTTGGCAAAGAGGGCCCTTTTGTGCATATCGCAAGCATGTGTGCTGCCCTTCTCAGC
+AAGTTCCTCTCCCTCTTTGGGGGTATCTATGAGAATGAATCCCGGAACACAGAGATGCTG
+GCTGCCGCCTGTGCCGTGGGGGTGGGCTGCTGCTTCGCGGCACCTATTGGAGGCGTCCTC
+TTCAGCATCGAGGTCACCTCCACCTTCTTTGCAGTGCGGAACTACTGGCGGGGCTTCTTC
+GCTGCCACCTTCAGTGCCTTCATCTTCCGGGTCTTGGCAGTCTGGAACCGGGATGAAGAG
+ACTATTACAGCCCTCTTCAAAACCCGATTCCGGCTCGACTTCCCCTTTGACCTGCAGGAG
+CTGCCAGCCTTTGCTGTCATTGGTATTGCTAGTGGCTTCGGTGGAGCCCTCTTTGTCTAC
+CTGAACCGGAAGATTGTCCAGGTGATGCGGAAGCAGAAAACCATCAATCGCTTCCTCATG
+AGGAAACGCCTGCTCTTCCCGGCTCTGGTGACCCTGCTCATCTCCACGCTGACCTTCCCC
+CCTGGCTTTGGACAGTTCATGGCTGGACAGCTCTCACAGAAAGAGACGCTGGTCACCCTG
+TTTGACAATCGGACGTGGGTCCGCCAGGGCCTGGTGGAGGAGCTAGAACCACCCAGCACC
+TCACAGGCCTGGAACCCACCACGTGCCAACGTCTTCCTCACCCTGGTCATCTTCATTCTC
+ATGAAGTTCTGGATGTCTGCACTGGCCACCACCATCCCAGTTCCCTGTGGGGCCTTCATG
+CCTGTCTTTGTCATTGGAGCAGCATTTGGGCGTCTGGTGGGTGAAAGCATGGCTGCCTGG
+TTCCCAGATGGAATTCATACGGACAGCAGCACCTACCGGATTGTGCCTGGGGGCTACGCT
+GTGGTCGGGGCAGCTGCGCTGGCAGGAGCGGTGACACACACAGTGTCCACGGCTGTGATC
+GTGTTCGAGCTCACAGGCCAGATTGCCCACATCCTGCCTGTCATGATCGCCGTCATCCTG
+GCCAACGCTGTCGCCCAGAGTCTGCAGCCCTCCCTCTATGACAGCATCATCCGAATCAAG
+AAACTGCCCTACCTGCCTGAGCTCGGCTGGGGCCGCCACCAGCAGTACCGGGTGCGTGTG
+GAGGACATCATGGTGCGGGATGTTCCCCATGTGGCCCTCAGCTGCACCTTCCGGGACCTG
+CGTTTGGCACTGCACAGGACCAAGGGCCGAATGCTGGCCCTAGTGGAGTCCCCTGAGTCC
+ATGATTCTGCTGGGCTCCATCGAGCGTTCACAGGTGGTGGCATTGTTGGGGGCCCAGCTG
+AGCCCAGCCCGCCGGCGGCAGCACATGCAGGAGCGCAGAGCCACCCAGACCTCTCCACTA
+TCTGATCAGGAGGGTCCCCCTACCCCTGAGGCTTCTGTCTGCTTCCAGGTGAACACAGAA
+GACTCAGCCTTCCCAGCAGCCCGGGGGGAGACCCACAAGCCCCTAAAGCCTGCACTCAAG
+AGGGGGCCCAGTGTCACCAGGAACCTCGGAGAGAGTCCCACAGGGAGCGCAGAGTCGGCA
+GGCATCGCCCTCCGGAGCCTCTTCTGTGGCAGTCCACCCCCTGAGGCTGCTTCGGAGAAG
+TTGGAATCCTGTGAGAAGCGCAAGCTGAAGCGTGTCCGAATCTCCCTGGCAAGTGACGCG
+GACCTGGAAGGCGAGATGAGCCCTGAAGAGATTCTGGAGTGGGAGGAGCAGCAACTAGAT
+GAACCTGTCAACTTCAGTGACTGCAAAATTGATCCTGCTCCCTTCCAGCTGGTGGAGCGG
+ACCTCTTTGCACAAGACTCACACTATCTTCTCACTGCTGGGAGTGGACCATGCTTATGTC
+ACCAGTATTGGCAGACTCATTGGAATCGTTACTCTAAAGGAGCTCCGGAAGGCCATCGAG
+GGCTCTGTCACAGCACAGGGTGTGAAAGTCCGGCCGCCCCTCGCCAGCTTCCGAGACAGT
+GCCACCAGCAGCAGTGACACGGAGACCACTGAGGTGCATGCACTCTGGGGGCCCCACTCC
+CGTCATGGCCTCCCCCGGGAGGGCAGCCCTTCCGACAGCGACGACAAATGCCAATGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>898</residue_number>
+    <molecular_weight>98534.4</molecular_weight>
+    <theoretical_pi>8.47</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>CBS</name>
+        <pfam_id>PF00571</pfam_id>
+      </pfam>
+      <pfam>
+        <name>Voltage_CLC</name>
+        <pfam_id>PF00654</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>88-121</region>
+      <region>130-155</region>
+      <region>180-198</region>
+      <region>205-223</region>
+      <region>275-295</region>
+      <region>321-349</region>
+      <region>358-377</region>
+      <region>429-449</region>
+      <region>457-480</region>
+      <region>531-548</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>None</region>
+    </signal_regions>
+    <protein_sequence>&gt;Chloride channel protein 2
+MAAAAAEEGMEPRALQYEQTLMYGRYTQDLGAFAKEEAARIRLGGPEPWKGPPSSRAAPE
+LLEYGRSRCARCRVCSVRCHKFLVSRVGEDWIFLVLLGLLMALVSWVMDYAIAACLQAQQ
+WMSRGLNTSILLQYLAWVTYPVVLITFSAGFTQILAPQAVGSGIPEMKTILRGVVLKEYL
+TLKTFIAKVIGLTCALGSGMPLGKEGPFVHIASMCAALLSKFLSLFGGIYENESRNTEML
+AAACAVGVGCCFAAPIGGVLFSIEVTSTFFAVRNYWRGFFAATFSAFIFRVLAVWNRDEE
+TITALFKTRFRLDFPFDLQELPAFAVIGIASGFGGALFVYLNRKIVQVMRKQKTINRFLM
+RKRLLFPALVTLLISTLTFPPGFGQFMAGQLSQKETLVTLFDNRTWVRQGLVEELEPPST
+SQAWNPPRANVFLTLVIFILMKFWMSALATTIPVPCGAFMPVFVIGAAFGRLVGESMAAW
+FPDGIHTDSSTYRIVPGGYAVVGAAALAGAVTHTVSTAVIVFELTGQIAHILPVMIAVIL
+ANAVAQSLQPSLYDSIIRIKKLPYLPELGWGRHQQYRVRVEDIMVRDVPHVALSCTFRDL
+RLALHRTKGRMLALVESPESMILLGSIERSQVVALLGAQLSPARRRQHMQERRATQTSPL
+SDQEGPPTPEASVCFQVNTEDSAFPAARGETHKPLKPALKRGPSVTRNLGESPTGSAESA
+GIALRSLFCGSPPPEAASEKLESCEKRKLKRVRISLASDADLEGEMSPEEILEWEEQQLD
+EPVNFSDCKIDPAPFQLVERTSLHKTHTIFSLLGVDHAYVTSIGRLIGIVTLKELRKAIE
+GSVTAQGVKVRPPLASFRDSATSSSDTETTEVHALWGPHSRHGLPREGSPSDSDDKCQ</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>2570864</genbank_protein_id>
+  <uniprot_id>P51788</uniprot_id>
+  <uniprot_name>CLCN2_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AF026004</genbank_gene_id>
+  <genecard_id>CLCN2</genecard_id>
+  <geneatlas_id>CLCN2</geneatlas_id>
+  <hgnc_id>HGNC:2020</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Cid LP, Montrose-Rafizadeh C, Smith DI, Guggino WB, Cutting GR: Cloning of a putative human voltage-gated chloride channel (CIC-2) cDNA widely expressed in human tissues. Hum Mol Genet. 1995 Mar;4(3):407-13.</reference_text>
+      <pubmed_id>7795595</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Lamb FS, Clayton GH, Liu BX, Smith RL, Barna TJ, Schutte BC: Expression of CLCN voltage-gated chloride channel genes in human blood vessels. J Mol Cell Cardiol. 1999 Mar;31(3):657-66.</reference_text>
+      <pubmed_id>10198195</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Niemeyer MI, Cid LP, Yusef YR, Briones R, Sepulveda FV: Voltage-dependent and -independent titration of specific residues accounts for complex gating of a ClC chloride channel by extracellular protons. J Physiol. 2009 Apr 1;587(Pt 7):1387-400. Epub 2009 Jan 19.</reference_text>
+      <pubmed_id>19153159</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Haug K, Warnstedt M, Alekov AK, Sander T, Ramirez A, Poser B, Maljevic S, Hebeisen S, Kubisch C, Rebstock J, Horvath S, Hallmann K, Dullinger JS, Rau B, Haverkamp F, Beyenburg S, Schulz H, Janz D, Giese B, Muller-Newen G, Propping P, Elger CE, Fahlke C, Lerche H, Heils A: Mutations in CLCN2 encoding a voltage-gated chloride channel are associated with idiopathic generalized epilepsies. Nat Genet. 2003 Apr;33(4):527-32. Epub 2003 Mar 3.</reference_text>
+      <pubmed_id>12612585</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Paul J, Jeyaraj S, Huber SM, Seebohm G, Bohmer C, Lang F, Kremsner PG, Kun JF: Alterations in the cytoplasmic domain of CLCN2 result in altered gating kinetics. Cell Physiol Biochem. 2007;20(5):441-54.</reference_text>
+      <pubmed_id>17762171</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Combi R, Grioni D, Contri M, Redaelli S, Redaelli F, Bassi MT, Barisani D, Lavitrano ML, Tredici G, Tenchini ML, Bertolini M, Dalpra L: Clinical and genetic familial study of a large cohort of Italian children with idiopathic epilepsy. Brain Res Bull. 2009 Apr 29;79(2):89-96. Epub 2009 Feb 5.</reference_text>
+      <pubmed_id>19200853</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Saint-Martin C, Gauvain G, Teodorescu G, Gourfinkel-An I, Fedirko E, Weber YG, Maljevic S, Ernst JP, Garcia-Olivares J, Fahlke C, Nabbout R, LeGuern E, Lerche H, Poncer JC, Depienne C: Two novel CLCN2 mutations accelerating chloride channel deactivation are associated with idiopathic generalized epilepsy. Hum Mutat. 2009 Mar;30(3):397-405.</reference_text>
+      <pubmed_id>19191339</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>[No authors listed]Lubiprostone: RU 0211, SPI 0211.  Drugs R D. 2005;6(4):245-8.</reference_text>
+        <pubmed_id>15991886</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Moeser AJ, Nighot PK, Engelke KJ, Ueno R, Blikslager AT: Recovery of mucosal barrier function in ischemic porcine ileum and colon is stimulated by a novel agonist of the ClC-2 chloride channel, lubiprostone. Am J Physiol Gastrointest Liver Physiol. 2007 Feb;292(2):G647-56. Epub 2006 Oct       19.</reference_text>
+        <pubmed_id>17053162</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lacy BE, Levy LC: Lubiprostone: a chloride channel activator.  J Clin Gastroenterol. 2007 Apr;41(4):345-51.</reference_text>
+        <pubmed_id>17413599</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Crowell MD, Harris LA, DiBaise JK, Olden KW: Activation of type-2 chloride channels: a novel therapeutic target for the treatment of chronic constipation. Curr Opin Investig Drugs. 2007 Jan;8(1):66-70.</reference_text>
+        <pubmed_id>17263187</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lacy BE, Chey WD: Lubiprostone: chronic constipation and irritable bowel syndrome with constipation. Expert Opin Pharmacother. 2009 Jan;10(1):143-52.</reference_text>
+        <pubmed_id>19236188</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Ambizas EM, Ginzburg R: Lubiprostone: a chloride channel activator for treatment of chronic constipation.  Ann Pharmacother. 2007 Jun;41(6):957-64. Epub 2007 May 22.</reference_text>
+        <pubmed_id>17519292</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Lacy BE, Levy LC: Lubiprostone: a novel treatment for chronic constipation.  Clin Interv Aging. 2008;3(2):357-64.</reference_text>
+        <pubmed_id>18686757</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Johanson JF, Ueno R: Lubiprostone, a locally acting chloride channel activator, in adult patients with chronic constipation: a double-blind, placebo-controlled, dose-ranging study to evaluate efficacy and safety. Aliment Pharmacol Ther. 2007 Jun 1;25(11):1351-61.</reference_text>
+        <pubmed_id>17509103</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Kapoor S: Emerging new therapeutic options for the management of opioid induced constipation. J Pain Palliat Care Pharmacother. 2010 Mar;24(1):98-9.</reference_text>
+        <pubmed_id>20345211</pubmed_id>
+      </reference>
+    </metabolite_reference>
+    <metabolite_reference>
+      <metabolite>
+        <name>Lubiprostone</name>
+        <accession>HMDB15180</accession>
+      </metabolite>
+      <reference>
+        <reference_text>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database.  Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</reference_text>
+        <pubmed_id>11752352</pubmed_id>
+      </reference>
+    </metabolite_reference>
+  </metabolite_references>
+</protein>

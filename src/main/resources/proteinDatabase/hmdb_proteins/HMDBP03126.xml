@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:10:39 -0700</creation_date>
+  <update_date>2013-01-15 19:10:39 -0700</update_date>
+  <accession>HMDBP03126</accession>
+  <secondary_accessions>
+    <accession>8671</accession>
+  </secondary_accessions>
+  <protein_type>Unknown</protein_type>
+  <synonyms>
+    <synonym>Na(+)/K(+)/Ca(2+)-exchange protein 1</synonym>
+    <synonym>Retinal rod Na-Ca+K exchanger</synonym>
+  </synonyms>
+  <gene_name>SLC24A1</gene_name>
+  <general_function>Involved in calcium, potassium:sodium antiporter activity</general_function>
+  <specific_function>Critical component of the visual transduction cascade, controlling the calcium concentration of outer segments during light and darkness. Light causes a rapid lowering of cytosolic free calcium in the outer segment of both retinal rod and cone photoreceptors and the light-induced lowering of calcium is caused by extrusion via this protein which plays a key role in the process of light adaptation. Transports 1 Ca(2+) and 1 K(+) in exchange for 4 Na(+)</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB00464</accession>
+      <name>Calcium</name>
+    </metabolite>
+    <metabolite>
+      <accession>HMDB00588</accession>
+      <name>Sodium</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>substrate-specific transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>ion transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation transmembrane transporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>solute:cation antiporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>cation:cation antiporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium:cation antiporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>function</category>
+      <description>calcium, potassium:sodium antiporter activity</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>multicellular organismal process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>system process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>neurological system process</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sensory perception</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>sensory perception of light stimulus</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>visual perception</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>di-, tri-valent inorganic cation transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>divalent metal ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>calcium ion transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>intrinsic to membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>integral to membrane</description>
+      <go_id/>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>Chromosome:1</chromosome_location>
+    <locus>15q22</locus>
+    <gene_sequence>&gt;3300 bp
+ATGGGGAAATTGATCAGGATGGGGCCGCAAGAGAGGTGGTTACTCCGGACAAAGCGGCTT
+CATTGGAGTCGCCTCCTCTTCTTACTGGGAATGTTGATCATCGGTTCTACTTATCAGCAC
+CTTAGGAGACCCCGGGGCCTTTCCTCATTGTGGGCAGCAGTCTCTTCTCATCAGCCTATA
+AAACTGGCCAGTCGGGACCTCTCCAGTGAAGAGATGATGATGATGAGCAGCAGCCCTTCA
+AAACCTAGCTCCGAAATGGGGGGTAAGATGCTGGTACCCCAAGCCTCAGTGGGCAGTGAT
+GAAGCAACACTGAGCATGACAGTGGAGAATATCCCCAGTATGCCTAAAAGAACAGCCAAG
+ATGATCCCAACAACAACCAAGAATAATTACAGCCCAACAGCAGCAGGTACAGAAAGAAGG
+AAGGAAGACACCCCAACATCCAGTAGAACACTGACTTACTACACCTCAACTTCAAGCAGA
+CAAATAGTAAAAAAGTATACCCCAACACCCAGGGGAGAAATGAAGAGCTACAGCCCAACT
+CAAGTGAGGGAAAAGGTGAAGTATACTCCTTCCCCACGTGGTAGAAGAGTAGGCACTTAC
+GTGCCGTCCACATTCATGACAATGGAAACAAGCCATGCGATCACCCCCAGGACAACAGTG
+AAAGACAGTGACATTACAGCAACCTATAAAATACTCGAAACCAACTCTCTTAAGAGAATA
+ATGGAGGAAACCACCCCAACCACTCTCAAGGGAATGTTTGATAGCACCCCAACTTTTCTG
+ACACATGAGGTAGAAGCAAACGTCTTGACTTCTCCAAGGAGCGTCATGGAAAAAAACAAC
+CTGTTTCCCCCCAGAAGAGTGGAAAGTAACAGCTCAGCCCATCCCTGGGGGTTAGTGGGA
+AAGAGCAACCCGAAGACTCCCCAGGGAACAGTCCTGTTGCATACCCCAGCCACCTCTGAG
+GGGCAGGTGACAATAAGCACCATGACAGGCAGCAGCCCAGCAGAAACCAAAGCCTTCACT
+GCTGCCTGGAGTCTTAGGAATCCTTCACCCAGGACCAGTGTATCAGCCATCAAAACAGCC
+CCAGCCATAGTCTGGAGGCTGGCAAAGAAACCTTCCACAGCACCCAGCACCTCAACAACC
+CCTACGGTCAGGGCAAAGCTGACCATGCAGGTCCATCACTGTGTGGTTGTGAAGCCAACC
+CCAGCCATGCTCACCACTCCCTCCCCAAGCCTCACAACAGCCCTGCTCCCAGAGGAGCTC
+AGTCCTAGTCCCTCAGTGCTGCCTCCCAGCTTGCCAGACCTCCACCCCAAGGGAGAGTAC
+CCCCCAGATCTGTTCAGTGTGGAGGAGCGGCGGCAGGGCTGGGTGGTCCTGCACGTTTTT
+GGCATGATGTATGTGTTTGTGGCCTTGGCCATTGTTTGCGACGAGTACTTCGTTCCAGCC
+CTGGGTGTCATCACAGACAAGCTGCAGATCTCCGAGGATGTGGCAGGCGCCACATTCATG
+GCTGCTGGAGGCTCTGCTCCTGAGCTCTTCACCTCCCTCATCGGTGTCTTCATTTCCCAC
+AGCAACGTGGGCATTGGTACCATTGTGGGCTCTGCTGTGTTCAACATTCTCTTTGTCATT
+GGCACTTGTTCCCTCTTCTCCCGAGAGATCCTCAACCTCACCTGGTGGCCCTTATTCCGT
+GATGTCTCCTTCTACATCCTTGACCTGATAATGCTCATCCTCTTCTTCCTGGACAGCCTC
+ATTGCCTGGTGGGAGAGCCTGCTGCTGCTGCTGGCCTATGCCTTCTATGTGTTCACCATG
+AAGTGGAACAAGCATATCGAGGTCTGGGTGAAGGAGCAGCTCAGCAGGAGGCCAGTGGCC
+AAGGTCATGGCCTTAGAAGACCTCAGCAAGCCGGGCGATGGGGCCATTGCGGTGGATGAG
+CTACAGGATAACAAGAAGCTGAAGCTCCCGTCCTTGCTGACCCGAGGGAGCAGCTCGACC
+TCTCTGCACAACAGCACCATCCGCAGCACCATCTACCAGCTCATGCTCCACAGCCTGGAC
+CCCCTGAGGGAAGTTCGCCTTGCCAAGGAGAAGGAGGAGGAGAGCTTGAATCAAGGGGCC
+AGAGCCCAACCCCAGGCCAAAGCAGAAAGCAAACCAGAAGAGGAGGAGCCAGCCAAGCTC
+CCTGCGGTCACGGTCACACCAGCCCCTGTTCCAGACATCAAGGGAGATCAGAAGGAGAAT
+CCAGGCGGTCAGGAAGATGTGGCTGAGGCCGAGAGCACAGGTGAAATGCCAGGCGAAGAG
+GGCGAAACTGCTGGTGAAGGTGAAACTGAAGAGAAAAGTGGAGGTGAAACTCAACCAGAA
+GGTGAAGGTGAAACTGAAACACAAGGAAAAGGAGAAGAATGTGAAGATGAAAATGAAGCA
+GAAGGAAAAGGAGACAATGAAGGTGAAGATGAGGGTGAAATCCACGCAGAAGATGGTGAA
+ATGAAAGGTAATGAAGGTGAAACTGAAAGCCAGGAACTCAGTGCTGAAAATCACGGTGAA
+GCCAAAAATGATGAGAAAGGTGTAGAAGATGGAGGGGGAAGTGATGGAGGGGATAGCGAA
+GAGGAGGAAGAGGAGGAGGAAGAGCAGGAGGAAGAGGAGGAGGAGGAAGAGCAGGAGGAA
+GAGGAGGAGGAGGAGGAGGAAGAGGAGGAGAAGGGAAATGAAGAGCCTCTGTCCCTGGAC
+TGGCCTGAAACCAGGCAGAAGCAGGCCATTTACCTCTTCCTTCTGCCCATCGTGTTCCCA
+CTGTGGCTGACAGTCCCCGACGTCCGAAGGCAGGAGTCTAGGAAGTTTTTTGTTTTCACC
+TTCCTGGGATCTATCATGTGGATAGCCATGTTCTCATACCTCATGGTGTGGTGGGCTCAC
+CAGGTTGGTGAAACAATAGGGATTTCTGAAGAGATCATGGGCCTGACAATCCTTGCAGCA
+GGCACATCAATTCCTGACCTCATCACCAGTGTGATTGTCGCTCGAAAAGGCCTGGGAGAC
+ATGGCTGTGTCAAGCTCTGTGGGCAGTAACATATTTGATATCACTGTGGGCTTGCCTGTT
+CCTTGGTTGCTTTTCTCTCTTATCAATGGATTACAGCCAGTTCCAGTCAGCAGCAATGGC
+TTGTTTTGTGCAATTGTTTTGCTTTTTCTCATGCTTCTGTTTGTGATCTCTTCAATTGCG
+TCATGTAAATGGAGAATGAACAAGATCCTGGGCTTCACAATGTTCCTCCTTTACTTTGTA
+TTCCTGATAATCAGTGTGATGTTAGAAGATCGAATCATATCCTGTCCTGTATCTGTCTGA
+</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>1099</residue_number>
+    <molecular_weight>121373.1</molecular_weight>
+    <theoretical_pi>4.6</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Na_Ca_ex</name>
+        <pfam_id>PF01699</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+      <region>453-473</region>
+      <region>498-518</region>
+      <region>523-543</region>
+      <region>564-584</region>
+      <region>586-606</region>
+      <region>908-928</region>
+      <region>936-956</region>
+      <region>972-992</region>
+      <region>1011-1031</region>
+      <region>1040-1060</region>
+      <region>1069-1089</region>
+    </transmembrane_regions>
+    <signal_regions>
+      <region>1-</region>
+    </signal_regions>
+    <protein_sequence>&gt;Sodium/potassium/calcium exchanger 1
+MGKLIRMGPQERWLLRTKRLHWSRLLFLLGMLIIGSTYQHLRRPRGLSSLWAAVSSHQPI
+KLASRDLSSEEMMMMSSSPSKPSSEMGGKMLVPQASVGSDEATLSMTVENIPSMPKRTAK
+MIPTTTKNNYSPTAAGTERRKEDTPTSSRTLTYYTSTSSRQIVKKYTPTPRGEMKSYSPT
+QVREKVKYTPSPRGRRVGTYVPSTFMTMETSHAITPRTTVKDSDITATYKILETNSLKRI
+MEETTPTTLKGMFDSTPTFLTHEVEANVLTSPRSVMEKNNLFPPRRVESNSSAHPWGLVG
+KSNPKTPQGTVLLHTPATSEGQVTISTMTGSSPAETKAFTAAWSLRNPSPRTSVSAIKTA
+PAIVWRLAKKPSTAPSTSTTPTVRAKLTMQVHHCVVVKPTPAMLTTPSPSLTTALLPEEL
+SPSPSVLPPSLPDLHPKGEYPPDLFSVEERRQGWVVLHVFGMMYVFVALAIVCDEYFVPA
+LGVITDKLQISEDVAGATFMAAGGSAPELFTSLIGVFISHSNVGIGTIVGSAVFNILFVI
+GTCSLFSREILNLTWWPLFRDVSFYILDLIMLILFFLDSLIAWWESLLLLLAYAFYVFTM
+KWNKHIEVWVKEQLSRRPVAKVMALEDLSKPGDGAIAVDELQDNKKLKLPSLLTRGSSST
+SLHNSTIRSTIYQLMLHSLDPLREVRLAKEKEEESLNQGARAQPQAKAESKPEEEEPAKL
+PAVTVTPAPVPDIKGDQKENPGGQEDVAEAESTGEMPGEEGETAGEGETEEKSGGETQPE
+GEGETETQGKGEECEDENEAEGKGDNEGEDEGEIHAEDGEMKGNEGETESQELSAENHGE
+AKNDEKGVEDGGGSDGGDSEEEEEEEEEQEEEEEEEEQEEEEEEEEEEEEKGNEEPLSLD
+WPETRQKQAIYLFLLPIVFPLWLTVPDVRRQESRKFFVFTFLGSIMWIAMFSYLMVWWAH
+QVGETIGISEEIMGLTILAAGTSIPDLITSVIVARKGLGDMAVSSSVGSNIFDITVGLPV
+PWLLFSLINGLQPVPVSSNGLFCAIVLLFLMLLFVISSIASCKWRMNKILGFTMFLLYFV
+FLIISVMLEDRIISCPVSV</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>4759128</genbank_protein_id>
+  <uniprot_id>O60721</uniprot_id>
+  <uniprot_name>NCKX1_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>NM_004727.2</genbank_gene_id>
+  <genecard_id>SLC24A1</genecard_id>
+  <geneatlas_id>SLC24A1</geneatlas_id>
+  <hgnc_id>HGNC:10975</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Tucker JE, Winkfein RJ, Murthy SK, Friedman JS, Walter MA, Demetrick DJ, Schnetkamp PP: Chromosomal localization and genomic organization of the human retinal rod Na-Ca+K exchanger. Hum Genet. 1998 Oct;103(4):411-4.</reference_text>
+      <pubmed_id>9856482</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Tucker JE, Winkfein RJ, Cooper CB, Schnetkamp PP: cDNA cloning of the human retinal rod Na-Ca + K exchanger: comparison with a revised bovine sequence. Invest Ophthalmol Vis Sci. 1998 Feb;39(2):435-40.</reference_text>
+      <pubmed_id>9478004</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ishikawa K, Nagase T, Suyama M, Miyajima N, Tanaka A, Kotani H, Nomura N, Ohara O: Prediction of the coding sequences of unidentified human genes. X. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro. DNA Res. 1998 Jun 30;5(3):169-76.</reference_text>
+      <pubmed_id>9734811</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>McKiernan CJ, Friedlander M: The retinal rod Na(+)/Ca(2+),K(+) exchanger contains a noncleaved signal sequence required for translocation of the N terminus. J Biol Chem. 1999 Dec 31;274(53):38177-82.</reference_text>
+      <pubmed_id>10608890</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>

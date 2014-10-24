@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protein>
+  <version>3.5</version>
+  <creation_date>2013-01-15 19:40:51 -0700</creation_date>
+  <update_date>2013-05-27 11:34:49 -0600</update_date>
+  <accession>HMDBP05729</accession>
+  <secondary_accessions>
+    <accession>11328</accession>
+  </secondary_accessions>
+  <protein_type>Enzyme</protein_type>
+  <synonyms>
+    <synonym>Mitochondrial S-adenosylmethionine transporter</synonym>
+    <synonym>Solute carrier family 25 member 26</synonym>
+  </synonyms>
+  <gene_name>SLC25A26</gene_name>
+  <general_function>Involved in binding</general_function>
+  <specific_function>Mitochondrial solute carriers shuttle metabolites, nucleotides, and cofactors through the mitochondrial inner membrane. Specifically mediates the transport of S-adenosylmethionine (SAM) into the mitochondria.
+</specific_function>
+  <pathways>
+  </pathways>
+  <metabolite_associations>
+    <metabolite>
+      <accession>HMDB01185</accession>
+      <name>S-Adenosylmethionine</name>
+    </metabolite>
+  </metabolite_associations>
+  <go_classifications>
+    <go_class>
+      <category>function</category>
+      <description>binding</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transmembrane transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>establishment of localization</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>process</category>
+      <description>transport</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>cell part</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>component</category>
+      <description>membrane</description>
+      <go_id/>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>integral to membrane</description>
+      <go_id>GO:0016021</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>mitochondrial inner membrane</description>
+      <go_id>GO:0005743</go_id>
+    </go_class>
+    <go_class>
+      <category>Cellular component</category>
+      <description>nucleus</description>
+      <go_id>GO:0005634</go_id>
+    </go_class>
+    <go_class>
+      <category>Molecular function</category>
+      <description>S-adenosylmethionine transmembrane transporter activity</description>
+      <go_id>GO:0000095</go_id>
+    </go_class>
+    <go_class>
+      <category>Biological process</category>
+      <description>S-adenosylmethionine transport</description>
+      <go_id>GO:0015805</go_id>
+    </go_class>
+  </go_classifications>
+  <subcellular_locations>
+    <subcellular_location>Mitochondrion inner membrane</subcellular_location>
+    <subcellular_location>Multi-pass membrane protein</subcellular_location>
+  </subcellular_locations>
+  <gene_properties>
+    <chromosome_location>3</chromosome_location>
+    <locus>3p14.1</locus>
+    <gene_sequence>&gt;825 bp
+ATGGACCGGCCGGGGTTCGTGGCAGCGCTGGTGGCTGGTGGGGTAGCAGGTGTTTCTGTT
+GACTTGATATTATTTCCTCTGGATACCATTAAAACCAGGCTGCAGAGTCCCCAAGGATTT
+AATAAGGCTGGTGGTTTTCATGGAATATATGCTGGCGTTCCTTCTGCTGCTATTGGATCC
+TTTCCTAATGCTGCTGCATTTTTTATCACCTATGAATATGTGAAGTGGTTTTTGCATGCT
+GATTCATCTTCATATTTGACACCTATGAAACATATGTTGGCTGCCTCTGCTGGAGAAGTG
+GTTGCCTGCCTGATTCGAGTTCCATCTGAAGTGGTTAAGCAGAGGGCACAGGTATCTGCT
+TCTACAAGAACATTTCAGATTTTCTCTAACATCTTATATGAAGAGGGTATCCAAGGGTTG
+TATCGAGGCTATAAAAGCACAGTTTTAAGAGAGATTCCTTTTTCTTTGGTCCAGTTTCCC
+TTATGGGAGTCCTTAAAAGCCCTCTGGTCCTGGAGGCAGGATCATGTGGTGGATTCTTGG
+CAGTCAGCAGTCTGTGGAGCTTTTGCAGGTGGATTTGCCGCTGCAGTCACCACCCCTCTA
+GACGTGGCAAAGACAAGAATTACGCTGGCAAAGGCTGGCTCCAGCACTGCTGATGGGAAT
+GTGCTCTCTGTCCTGCATGGGGTCTGGCGGTCACAGGGGCTGGCAGGATTATTTGCAGGT
+GTCTTCCCTCGAATGGCAGCCATCAGTCTGGGAGGTTTCATCTTTCTGGGGGCTTATGAC
+CGAACGCACAGCTTGCTGTTGGAAGTTGGCAGAAAGAGTCCTTGA</gene_sequence>
+  </gene_properties>
+  <protein_properties>
+    <residue_number>274</residue_number>
+    <molecular_weight>20116.095</molecular_weight>
+    <theoretical_pi>9.6</theoretical_pi>
+    <pfams>
+      <pfam>
+        <name>Mito_carr</name>
+        <pfam_id>PF00153</pfam_id>
+      </pfam>
+    </pfams>
+    <transmembrane_regions>
+    </transmembrane_regions>
+    <signal_regions>
+    </signal_regions>
+    <protein_sequence>&gt;S-adenosylmethionine mitochondrial carrier protein
+MDRPGFVAALVAGGVAGVSVDLILFPLDTIKTRLQSPQGFNKAGGFHGIYAGVPSAAIGS
+FPNAAAFFITYEYVKWFLHADSSSYLTPMKHMLAASAGEVVACLIRVPSEVVKQRAQVSA
+STRTFQIFSNILYEEGIQGLYRGYKSTVLREIPFSLVQFPLWESLKALWSWRQDHVVDSW
+QSAVCGAFAGGFAAAVTTPLDVAKTRITLAKAGSSTADGNVLSVLHGVWRSQGLAGLFAG
+VFPRMAAISLGGFIFLGAYDRTHSLLLEVGRKSP</protein_sequence>
+  </protein_properties>
+  <genbank_protein_id>41351486</genbank_protein_id>
+  <uniprot_id>Q70HW3</uniprot_id>
+  <uniprot_name>SAMC_HUMAN</uniprot_name>
+  <pdb_ids>
+  </pdb_ids>
+  <genbank_gene_id>AJ580932</genbank_gene_id>
+  <genecard_id>SLC25A26</genecard_id>
+  <geneatlas_id>SLC25A26</geneatlas_id>
+  <hgnc_id>HGNC:20661</hgnc_id>
+  <general_references>
+    <reference>
+      <reference_text>Agrimi G, Di Noia MA, Marobbio CM, Fiermonte G, Lasorsa FM, Palmieri F: Identification of the human mitochondrial S-adenosylmethionine transporter: bacterial expression, reconstitution, functional characterization and tissue distribution. Biochem J. 2004 Apr 1;379(Pt 1):183-90.</reference_text>
+      <pubmed_id>14674884</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Ota T, Suzuki Y, Nishikawa T, Otsuki T, Sugiyama T, Irie R, Wakamatsu A, Hayashi K, Sato H, Nagai K, Kimura K, Makita H, Sekine M, Obayashi M, Nishi T, Shibahara T, Tanaka T, Ishii S, Yamamoto J, Saito K, Kawai Y, Isono Y, Nakamura Y, Nagahari K, Murakami K, Yasuda T, Iwayanagi T, Wagatsuma M, Shiratori A, Sudo H, Hosoiri T, Kaku Y, Kodaira H, Kondo H, Sugawara M, Takahashi M, Kanda K, Yokoi T, Furuya T, Kikkawa E, Omura Y, Abe K, Kamihara K, Katsuta N, Sato K, Tanikawa M, Yamazaki M, Ninomiya K, Ishibashi T, Yamashita H, Murakawa K, Fujimori K, Tanai H, Kimata M, Watanabe M, Hiraoka S, Chiba Y, Ishida S, Ono Y, Takiguchi S, Watanabe S, Yosida M, Hotuta T, Kusano J, Kanehori K, Takahashi-Fujii A, Hara H, Tanase TO, Nomura Y, Togiya S, Komai F, Hara R, Takeuchi K, Arita M, Imose N, Musashino K, Yuuki H, Oshima A, Sasaki N, Aotsuka S, Yoshikawa Y, Matsunawa H, Ichihara T, Shiohata N, Sano S, Moriya S, Momiyama H, Satoh N, Takami S, Terashima Y, Suzuki O, Nakagawa S, Senoh A, Mizoguchi H, Goto Y, Shimizu F, Wakebe H, Hishigaki H, Watanabe T, Sugiyama A, Takemoto M, Kawakami B, Yamazaki M, Watanabe K, Kumagai A, Itakura S, Fukuzumi Y, Fujimori Y, Komiyama M, Tashiro H, Tanigami A, Fujiwara T, Ono T, Yamada K, Fujii Y, Ozaki K, Hirao M, Ohmori Y, Kawabata A, Hikiji T, Kobatake N, Inagaki H, Ikema Y, Okamoto S, Okitani R, Kawakami T, Noguchi S, Itoh T, Shigeta K, Senba T, Matsumura K, Nakajima Y, Mizuno T, Morinaga M, Sasaki M, Togashi T, Oyama M, Hata H, Watanabe M, Komatsu T, Mizushima-Sugano J, Satoh T, Shirai Y, Takahashi Y, Nakagawa K, Okumura K, Nagase T, Nomura N, Kikuchi H, Masuho Y, Yamashita R, Nakai K, Yada T, Nakamura Y, Ohara O, Isogai T, Sugano S: Complete sequencing and characterization of 21,243 full-length human cDNAs. Nat Genet. 2004 Jan;36(1):40-5. Epub 2003 Dec 21.</reference_text>
+      <pubmed_id>14702039</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gerhard DS, Wagner L, Feingold EA, Shenmen CM, Grouse LH, Schuler G, Klein SL, Old S, Rasooly R, Good P, Guyer M, Peck AM, Derge JG, Lipman D, Collins FS, Jang W, Sherry S, Feolo M, Misquitta L, Lee E, Rotmistrovsky K, Greenhut SF, Schaefer CF, Buetow K, Bonner TI, Haussler D, Kent J, Kiekhaus M, Furey T, Brent M, Prange C, Schreiber K, Shapiro N, Bhat NK, Hopkins RF, Hsie F, Driscoll T, Soares MB, Casavant TL, Scheetz TE, Brown-stein MJ, Usdin TB, Toshiyuki S, Carninci P, Piao Y, Dudekula DB, Ko MS, Kawakami K, Suzuki Y, Sugano S, Gruber CE, Smith MR, Simmons B, Moore T, Waterman R, Johnson SL, Ruan Y, Wei CL, Mathavan S, Gunaratne PH, Wu J, Garcia AM, Hulyk SW, Fuh E, Yuan Y, Sneed A, Kowis C, Hodgson A, Muzny DM, McPherson J, Gibbs RA, Fahey J, Helton E, Ketteman M, Madan A, Rodrigues S, Sanchez A, Whiting M, Madari A, Young AC, Wetherby KD, Granite SJ, Kwong PN, Brinkley CP, Pearson RL, Bouffard GG, Blakesly RW, Green ED, Dickson MC, Rodriguez AC, Grimwood J, Schmutz J, Myers RM, Butterfield YS, Griffith M, Griffith OL, Krzywinski MI, Liao N, Morin R, Palmquist D, Petrescu AS, Skalska U, Smailus DE, Stott JM, Schnerch A, Schein JE, Jones SJ, Holt RA, Baross A, Marra MA, Clifton S, Makowski KA, Bosak S, Malek J: The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). Genome Res. 2004 Oct;14(10B):2121-7.</reference_text>
+      <pubmed_id>15489334</pubmed_id>
+    </reference>
+  </general_references>
+  <metabolite_references>
+  </metabolite_references>
+</protein>
