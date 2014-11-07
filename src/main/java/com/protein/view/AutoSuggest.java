@@ -62,6 +62,7 @@ public class AutoSuggest extends JPanel {
 							if (name.toLowerCase().startsWith(text.toLowerCase())) {
 								combo.setSelectedIndex(-1);
 								tf.setText(name);
+								System.out.println(name);
 								hide_flag = true;
 								return;
 							}

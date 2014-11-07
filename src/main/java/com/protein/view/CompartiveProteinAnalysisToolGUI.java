@@ -68,7 +68,9 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame {
 			c.gridx = 0;
 			c.gridy = 2;
 			c.insets = new Insets(0, 0, 0, 0);
-			frame.getContentPane().add(new Table(), c);
+			Table table = new Table();
+			frame.getContentPane().add(table, c);
+			Object o = " HI";
 			frame.pack();
 			frame.setLocationRelativeTo(null);
 			frame.setVisible(true);
