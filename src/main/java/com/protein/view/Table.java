@@ -51,12 +51,27 @@ import javax.swing.table.TableColumn;
  * TableRenderDemo is just like TableDemo, except that it explicitly initializes
  * column sizes and it uses a combo box as an editor for the Sport column.
  */
+
 public class Table extends JPanel {
 	private final boolean DEBUG = false;
 
+	String space = "                                                                   ";
+	private String[] columnNames;
+	private Object[][] data;
+
+	private Object[] longValues;
+
 	public Table() {
 		super(new GridLayout(1, 0));
+	}
 
+	// create method called addRow and add a row of data a single dimension
+	// array and add it to data and pass it in to CreateTable
+	public void createTable(Object[][] data, String[] columnNames, Object[] longValues) {
+
+		this.data = data;
+		this.columnNames = columnNames;
+		this.longValues = longValues;
 		JTable table = new JTable(new MyTableModel());
 		table.setPreferredScrollableViewportSize(new Dimension(1000, 70));
 		table.setFillsViewportHeight(true);
@@ -79,13 +94,13 @@ public class Table extends JPanel {
 	 * the column's cells' contents, then you can just use
 	 * column.sizeWidthToFit().
 	 */
-	private void initColumnSizes(JTable table) {
+	public void initColumnSizes(JTable table) {
 		MyTableModel model = (MyTableModel) table.getModel();
 		TableColumn column = null;
 		Component comp = null;
 		int headerWidth = 0;
 		int cellWidth = 0;
-		Object[] longValues = model.longValues;
+		Object[] longValues = this.longValues;
 		TableCellRenderer headerRenderer = table.getTableHeader().getDefaultRenderer();
 
 		for (int i = 0; i < 3; i++) {
@@ -115,13 +130,6 @@ public class Table extends JPanel {
 	}
 
 	class MyTableModel extends AbstractTableModel {
-		String space = "                                                                   ";
-		private final String[] columnNames = { "Match" + space, "Interval for First Protein",
-				"Interval for Second Protein" };
-		private final Object[][] data = { { "Kathy", "Smith", "Snowboarding" }, { "John", "Doe", "Rowing" },
-				{ "Sue", "Black", "Knitting" }, { "Jane", "White", "Speed reading" }, { "Joe", "Brown", "Pool" } };
-
-		public final Object[] longValues = { "Jane", "Kathy", "None of the above" };
 
 		public int getColumnCount() {
 			return columnNames.length;

@@ -63,7 +63,6 @@ public class AutoSuggest extends JPanel {
 								combo.setSelectedIndex(-1);
 								tf.setText(protein);
 								RowResult.getInstance().updateProtein(str);
-								System.out.println(protein);
 								hide_flag = true;
 								return;
 							}

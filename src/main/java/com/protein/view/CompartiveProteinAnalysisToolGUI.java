@@ -68,8 +68,19 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame {
 			c.gridx = 0;
 			c.gridy = 2;
 			c.insets = new Insets(0, 0, 0, 0);
+
+			String space = "                                                                   ";
+			String[] columnNames = { "Match" + space, "Interval for First Protein", "Interval for Second Protein" };
+			Object[][] data = { { "Kathy", "Smith", "Snowboarding" }, { "John", "Doe", "Rowing" },
+					{ "Sue", "Black", "Knitting" }, { "Jane", "White", "Speed reading" }, { "Joe", "Brown", "Pool" } };
+
+			Object[] longValues = { "Jane", "Kathy", "None of the above" };
+
 			Table table = new Table();
 			frame.getContentPane().add(table, c);
+			table.createTable(data, columnNames, longValues);
+
+			FixedTable table2 = new FixedTable();
 			Object o = " HI";
 			frame.pack();
 			frame.setLocationRelativeTo(null);
