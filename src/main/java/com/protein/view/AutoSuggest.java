@@ -58,11 +58,12 @@ public class AutoSuggest extends JPanel {
 				} else if (code == KeyEvent.VK_RIGHT || code == KeyEvent.VK_ENTER || code == KeyEvent.VK_TAB) {
 					for (int i = 0; i < dictionary.size(); i++) {
 						Protein str = dictionary.elementAt(i);
-						for (String name : str.getNames()) {
-							if (name.toLowerCase().startsWith(text.toLowerCase())) {
+						for (String protein : str.getNames()) {
+							if (protein.toLowerCase().startsWith(text.toLowerCase())) {
 								combo.setSelectedIndex(-1);
-								tf.setText(name);
-								System.out.println(name);
+								tf.setText(protein);
+								RowResult.getInstance().updateProtein(str);
+								System.out.println(protein);
 								hide_flag = true;
 								return;
 							}
