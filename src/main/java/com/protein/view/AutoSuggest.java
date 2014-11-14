@@ -62,7 +62,7 @@ public class AutoSuggest extends JPanel {
 							if (protein.toLowerCase().startsWith(text.toLowerCase())) {
 								combo.setSelectedIndex(-1);
 								tf.setText(protein);
-								RowResult.getInstance().updateProtein(str);
+								RowResultSingleton.getInstance().updateProtein(str);
 								hide_flag = true;
 								return;
 							}

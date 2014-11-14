@@ -1,22 +1,24 @@
 package com.protein.view;
 
+import java.util.Observable;
+
 import com.protein.model.Protein;
 
-public class RowResult {
+public class RowResultSingleton extends Observable {
 
-	private static RowResult instance = null;
+	private static RowResultSingleton instance = null;
 
 	private Protein protein1;
 	private Protein protein2;
 	private Protein lastUpdatedProtein;
 
-	protected RowResult() {
+	protected RowResultSingleton() {
 		// Exists only to defeat instantiation.
 	}
 
-	public static RowResult getInstance() {
+	public static RowResultSingleton getInstance() {
 		if (instance == null) {
-			instance = new RowResult();
+			instance = new RowResultSingleton();
 		}
 		return instance;
 	}
@@ -31,6 +33,9 @@ public class RowResult {
 			lastUpdatedProtein = protein1;
 		}
 		System.out.println(lastUpdatedProtein.getName());
+
+		setChanged();
+		notifyObservers();
 	}
 
 	public Protein getProtein1() {
