@@ -22,6 +22,7 @@ public class XMLProteinReader {
 	private static final String SPECIFIC_FUNCTION = "specific_function";
 
 	public Protein read(File xmlFile) {
+		System.out.println("Reading: " + xmlFile.getName());
 		Protein protein = null;
 		Builder builder = new Builder();
 		try {

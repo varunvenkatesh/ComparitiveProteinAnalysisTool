@@ -2,15 +2,15 @@ package com.protein.view;
 
 import java.util.Observable;
 
-import com.protein.model.Protein;
+import com.protein.model.SelectedProtein;
 
 public class RowResultSingleton extends Observable {
 
 	private static RowResultSingleton instance = null;
 
-	private Protein protein1;
-	private Protein protein2;
-	private Protein lastUpdatedProtein;
+	private SelectedProtein protein1;
+	private SelectedProtein protein2;
+	private SelectedProtein lastUpdatedProtein;
 
 	protected RowResultSingleton() {
 		// Exists only to defeat instantiation.
@@ -23,8 +23,14 @@ public class RowResultSingleton extends Observable {
 		return instance;
 	}
 
-	public void updateProtein(Protein p) {
-		if (protein1 == lastUpdatedProtein) {
+	public void updateProtein(SelectedProtein p) {
+
+		if (lastUpdatedProtein == null) {
+			protein1 = p;
+			lastUpdatedProtein = protein1;
+		}
+
+		else if (protein1 == lastUpdatedProtein) {
 			protein2 = p;
 			lastUpdatedProtein = protein2;
 
@@ -32,17 +38,16 @@ public class RowResultSingleton extends Observable {
 			protein1 = p;
 			lastUpdatedProtein = protein1;
 		}
-		System.out.println(lastUpdatedProtein.getName());
 
 		setChanged();
 		notifyObservers();
 	}
 
-	public Protein getProtein1() {
+	public SelectedProtein getProtein1() {
 		return protein1;
 	}
 
-	public Protein getProtein2() {
+	public SelectedProtein getProtein2() {
 		return protein2;
 	}
 }

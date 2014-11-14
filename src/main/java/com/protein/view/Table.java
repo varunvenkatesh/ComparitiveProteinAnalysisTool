@@ -60,6 +60,7 @@ public class Table extends JPanel {
 	private Object[][] data;
 
 	private Object[] longValues;
+	private JScrollPane scrollPane;
 
 	public Table() {
 		super(new GridLayout(1, 0));
@@ -68,7 +69,9 @@ public class Table extends JPanel {
 	// create method called addRow and add a row of data a single dimension
 	// array and add it to data and pass it in to CreateTable
 	public void createTable(Object[][] data, String[] columnNames, Object[] longValues) {
-
+		if (scrollPane != null) {
+			remove(scrollPane);
+		}
 		this.data = data;
 		this.columnNames = columnNames;
 		this.longValues = longValues;
@@ -77,7 +80,7 @@ public class Table extends JPanel {
 		table.setFillsViewportHeight(true);
 
 		// Create the scroll pane and add the table to it.
-		JScrollPane scrollPane = new JScrollPane(table);
+		scrollPane = new JScrollPane(table);
 
 		// Set up column sizes.
 		initColumnSizes(table);

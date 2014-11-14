@@ -8,6 +8,8 @@ import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Observable;
+import java.util.Observer;
 
 import javax.swing.JFrame;
 import javax.swing.JTextField;
@@ -16,9 +18,16 @@ import javax.swing.WindowConstants;
 import com.protein.model.Protein;
 import com.protein.xml.readers.XMLProteinReader;
 
-public class CompartiveProteinAnalysisToolGUI extends JFrame {
+public class CompartiveProteinAnalysisToolGUI extends JFrame implements Observer {
 
 	private final JTextField minimumLength = new JTextField();
+	private CompartiveProteinAnalysisToolGUI frame;
+	private Table table;
+	private GridBagConstraints tableConstraints;
+
+	public CompartiveProteinAnalysisToolGUI() {
+		RowResultSingleton.getInstance().addObserver(this);
+	}
 
 	public void start() {
 		List<Protein> proteins = new ArrayList<Protein>();
@@ -40,7 +49,7 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame {
 				}
 			}
 			System.out.println("finished reading files");
-			CompartiveProteinAnalysisToolGUI frame = new CompartiveProteinAnalysisToolGUI();
+			frame = new CompartiveProteinAnalysisToolGUI();
 			frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
 			frame.getContentPane().setLayout(new GridBagLayout());
@@ -50,12 +59,6 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame {
 			c.gridy = 0;
 			c.insets = new Insets(0, 150, 0, 150);
 			frame.getContentPane().add(new AutoSuggest(proteins, "Input first protein"), c);
-			c.fill = GridBagConstraints.HORIZONTAL;
-			c.weightx = 0.5;
-			c.gridx = 1;
-			c.gridy = 0;
-			c.insets = new Insets(0, 150, 0, 150);
-			frame.getContentPane().add(new AutoSuggest(proteins, "Input second protein"), c);
 			c.fill = GridBagConstraints.HORIZONTAL;
 			c.weightx = 1;
 			c.insets = new Insets(0, 450, 0, 450);
@@ -68,20 +71,10 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame {
 			c.gridx = 0;
 			c.gridy = 2;
 			c.insets = new Insets(0, 0, 0, 0);
+			tableConstraints = c;
 
-			String space = "                                                                   ";
-			String[] columnNames = { "Match" + space, "Interval for First Protein", "Interval for Second Protein" };
-			Object[][] data = { { "Kathy", "Smith", "Snowboarding" }, { "John", "Doe", "Rowing" },
-					{ "Sue", "Black", "Knitting" }, { "Jane", "White", "Speed reading" }, { "Joe", "Brown", "Pool" } };
+			updateFrameTable();
 
-			Object[] longValues = { "Jane", "Kathy", "None of the above" };
-
-			Table table = new Table();
-			frame.getContentPane().add(table, c);
-			table.createTable(data, columnNames, longValues);
-
-			FixedTable table2 = new FixedTable();
-			Object o = " HI";
 			frame.pack();
 			frame.setLocationRelativeTo(null);
 			frame.setVisible(true);
@@ -91,9 +84,47 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame {
 		}
 	}
 
+	public void updateFrameTable() {
+		if (frame != null) {
+			if (table != null) {
+				frame.getContentPane().remove(table);
+			}
+
+			String space = "                                                                   ";
+			String[] columnNames = { "Protein Sequence 1" + space, "Protein Sequence 2", "Protein 1 Coverage Map" };
+
+			String protein1Name = "Waiting for protein to be selected";
+			if (RowResultSingleton.getInstance().getProtein1() != null) {
+				protein1Name = RowResultSingleton.getInstance().getProtein1().getSelectedName();
+			}
+			String protein2Name = "Waiting for protein to be selected";
+			if (RowResultSingleton.getInstance().getProtein2() != null) {
+				protein2Name = RowResultSingleton.getInstance().getProtein2().getSelectedName();
+			}
+			Object[][] data = { { protein1Name, protein2Name, "Placeholder" } };
+
+			Object[] longValues = { protein1Name, protein2Name, "Placeholder" };
+
+			table = new Table();
+			table.createTable(data, columnNames, longValues);
+			frame.getContentPane().add(table, tableConstraints);
+
+			frame.pack();
+			frame.setLocationRelativeTo(null);
+			frame.setVisible(true);
+		}
+	}
+
 	public static void main(String[] args) {
 
 		CompartiveProteinAnalysisToolGUI compartiveProteinAnalysisToolGUI = new CompartiveProteinAnalysisToolGUI();
 		compartiveProteinAnalysisToolGUI.start();
+	}
+
+	public void update(Observable arg0, Object arg1) {
+		if (arg0 instanceof RowResultSingleton) {
+			updateFrameTable();
+		}
+
 	}
 }

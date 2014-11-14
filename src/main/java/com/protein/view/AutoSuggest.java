@@ -15,6 +15,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 import com.protein.model.Protein;
+import com.protein.model.SelectedProtein;
 
 public class AutoSuggest extends JPanel {
 	private static final long serialVersionUID = 1L;
@@ -57,12 +58,13 @@ public class AutoSuggest extends JPanel {
 					hide_flag = true;
 				} else if (code == KeyEvent.VK_RIGHT || code == KeyEvent.VK_ENTER || code == KeyEvent.VK_TAB) {
 					for (int i = 0; i < dictionary.size(); i++) {
-						Protein str = dictionary.elementAt(i);
-						for (String protein : str.getNames()) {
-							if (protein.toLowerCase().startsWith(text.toLowerCase())) {
+						Protein protein = dictionary.elementAt(i);
+						for (String proteinName : protein.getNames()) {
+							if (proteinName.toLowerCase().startsWith(text.toLowerCase())) {
 								combo.setSelectedIndex(-1);
-								tf.setText(protein);
-								RowResultSingleton.getInstance().updateProtein(str);
+								tf.setText(proteinName);
+								SelectedProtein selectedProtein = new SelectedProtein(protein, proteinName);
+								RowResultSingleton.getInstance().updateProtein(selectedProtein);
 								hide_flag = true;
 								return;
 							}
