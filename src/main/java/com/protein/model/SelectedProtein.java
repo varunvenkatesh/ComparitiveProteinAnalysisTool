@@ -1,6 +1,5 @@
 package com.protein.model;
 
-
 public class SelectedProtein {
 
 	private Protein protein;
@@ -13,6 +12,10 @@ public class SelectedProtein {
 
 	public String getSelectedName() {
 		return selectedName;
+	}
+
+	public Protein getProtein() {
+		return protein;
 	}
 
 }

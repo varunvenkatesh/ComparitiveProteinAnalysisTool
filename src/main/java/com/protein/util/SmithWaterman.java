@@ -20,6 +20,8 @@ public class SmithWaterman {
 	private final int o;
 	private int l;
 	private final int e;
+	private String coverageMap1;
+	private String coverageMap2;
 
 	public SmithWaterman(String one, String two) {
 		this.one = "-" + one.toLowerCase();
@@ -135,31 +137,55 @@ public class SmithWaterman {
 
 		// print alignment
 		System.out.println(alignOne + "\n" + alignTwo);
+		coverageMap1 = alignOne;
+		coverageMap2 = alignTwo;
 		return longest;
 	}
 
+	public String getCoverageMap1() {
+		return coverageMap1;
+	}
+
+	public String getCoverageMap2() {
+		return coverageMap2;
+	}
+
 	public void printMatrix() {
+		System.out.println(getMatrix());
+	}
+
+	public String getMatrix() {
+		String matrixString = "";
 		for (int i = 0; i < one.length(); i++) {
 			if (i == 0) {
 				for (int z = 0; z < two.length(); z++) {
 					if (z == 0)
-						System.out.print("   ");
-					System.out.print(two.charAt(z) + "  ");
+						matrixString += "   ";
+					matrixString += two.charAt(z) + "  ";
 
 					if (z == two.length() - 1)
-						System.out.println();
+						matrixString += "\n";
 				}
 			}
 
 			for (int j = 0; j < two.length(); j++) {
 				if (j == 0) {
-					System.out.print(one.charAt(i) + "  ");
+					matrixString += one.charAt(i) + "  ";
 				}
-				System.out.print(matrix[i][j] + "  ");
+				matrixString += matrix[i][j] + "  ";
 			}
-			System.out.println();
+			matrixString += "\n";
 		}
-		System.out.println();
+		matrixString += "\n";
+		return matrixString;
+	}
+
+	public double getAlignmentScore() {
+		if (one.length() < two.length()) {
+			return (computeSmithWaterman() / (float) two.length()) / 2.0;
+		} else {
+			return computeSmithWaterman() / (float) one.length() / 2.0;
+		}
 	}
 
 	public static void main(String[] args) {
@@ -169,14 +195,12 @@ public class SmithWaterman {
 		String bp2 = "TGRGHTNRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR";
 		SmithWaterman sw = new SmithWaterman(bp1, bp2);
 
-		if (bp1.length() < bp2.length()) {
-			System.out.println("Alignment Score: " + (sw.computeSmithWaterman() / (float) bp2.length()) / 2.0);
-		} else {
-			System.out.println("Alignment Score: " + sw.computeSmithWaterman() / (float) bp1.length() / 2.0);
-		}
+		double alignmentScore = sw.getAlignmentScore();
+
+		System.out.println("Alignment score: " + alignmentScore);
 
 		// sw = new SmithWaterman("gcgcgtgc", "gcaagtgca");
 		// System.out.println("Alignment Score: " + sw.computeSmithWaterman());
-		// sw.printMatrix();
+		// System.out.println(sw.getMatrix());
 	}
 }

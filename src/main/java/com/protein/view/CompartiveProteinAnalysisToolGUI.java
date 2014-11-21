@@ -24,6 +24,8 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame implements Observer
 	private CompartiveProteinAnalysisToolGUI frame;
 	private Table table;
 	private GridBagConstraints tableConstraints;
+	private AutoSuggest autoSuggest;
+	private boolean isProtein2Waiting;
 
 	public CompartiveProteinAnalysisToolGUI() {
 		RowResultSingleton.getInstance().addObserver(this);
@@ -58,7 +60,8 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame implements Observer
 			c.gridx = 0;
 			c.gridy = 0;
 			c.insets = new Insets(0, 150, 0, 150);
-			frame.getContentPane().add(new AutoSuggest(proteins, "Input first protein"), c);
+			autoSuggest = new AutoSuggest(proteins, "Input first protein");
+			frame.getContentPane().add(autoSuggest, c);
 			c.fill = GridBagConstraints.HORIZONTAL;
 			c.weightx = 1;
 			c.insets = new Insets(0, 450, 0, 450);
@@ -91,19 +94,25 @@ public class CompartiveProteinAnalysisToolGUI extends JFrame implements Observer
 			}
 
 			String space = "                                                                   ";
-			String[] columnNames = { "Protein Sequence 1" + space, "Protein Sequence 2", "Protein 1 Coverage Map" };
+			String[] columnNames = { "Protein Sequence 1" + space, "Protein Sequence 2", "" };
 
 			String protein1Name = "Waiting for protein to be selected";
 			if (RowResultSingleton.getInstance().getProtein1() != null) {
 				protein1Name = RowResultSingleton.getInstance().getProtein1().getSelectedName();
+				isProtein2Waiting = !isProtein2Waiting;
+				if (isProtein2Waiting) {
+					autoSuggest.setTitle("Input second protein");
+				} else {
+					autoSuggest.setTitle("Input first protein");
+				}
 			}
 			String protein2Name = "Waiting for protein to be selected";
 			if (RowResultSingleton.getInstance().getProtein2() != null) {
 				protein2Name = RowResultSingleton.getInstance().getProtein2().getSelectedName();
 			}
-			Object[][] data = { { protein1Name, protein2Name, "Placeholder" } };
+			Object[][] data = { { protein1Name, protein2Name, "" } };
 
-			Object[] longValues = { protein1Name, protein2Name, "Placeholder" };
+			Object[] longValues = { protein1Name, protein2Name, "" };
 
 			table = new Table();
 			table.createTable(data, columnNames, longValues);

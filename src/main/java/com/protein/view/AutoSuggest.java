@@ -13,6 +13,7 @@ import javax.swing.DefaultComboBoxModel;
 import javax.swing.JComboBox;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+import javax.swing.border.TitledBorder;
 
 import com.protein.model.Protein;
 import com.protein.model.SelectedProtein;
@@ -22,6 +23,7 @@ public class AutoSuggest extends JPanel {
 	private final JTextField tf;
 	private final JComboBox combo = new JComboBox();
 	private final Vector<Protein> dictionary = new Vector<Protein>();
+	private TitledBorder titledBorder;
 
 	public AutoSuggest(List<Protein> proteins, String title) {
 		super(new BorderLayout());
@@ -79,11 +81,17 @@ public class AutoSuggest extends JPanel {
 		}
 		setModel(new DefaultComboBoxModel(dictionary), "");
 		JPanel p = new JPanel(new BorderLayout());
-		p.setBorder(BorderFactory.createTitledBorder(title));
+		titledBorder = BorderFactory.createTitledBorder(title);
+		p.setBorder(titledBorder);
 		p.add(combo, BorderLayout.NORTH);
 		add(p);
 		setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5));
 		setPreferredSize(new Dimension(300, 70));
+	}
+
+	public void setTitle(String title) {
+		titledBorder.setTitle(title);
+		repaint();
 	}
 
 	private boolean hide_flag = false;
